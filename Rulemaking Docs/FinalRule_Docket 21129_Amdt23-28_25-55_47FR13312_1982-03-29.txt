@@ -1,0 +1,412 @@
+FINAL RULES: 23-28|25-55
+
+ 
+ 
+        
+CITATION: [Federal Register: March 29, 1982 (Volume 47, Number 60)]
+
+ 
+        
+PAGE NUMBER: [Page 13312]
+
+ 
+        
+DOCKET NUMBER: 21129
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25
+
+ 
+        
+SUBJECT HEADING: Federal Aviation Regulations; Miscellaneous Amendments
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: 14 CFR Parts 23, 25, 45, 61, 63, 65, 91, 107, 121, and 129
+
+Amendment Nos. 23-28, 25-55, 45-14, 61-71, 63-21, 65-27, 91-176, 107-2, 121-178, and 129-12
+
+ These amendments make a number of minor changes to the Federal Aviation Regulations (FAR). They amend certain parts to change prerequisites required for flight tests and the experience necessary for an airline transport pilot certificate. They change the validity period for the written test for a flight engineer certificate. In addition, they amend certain sections of the FAR by changing the word aircraft to airplane. Part 45 of the FAR is amended to permit an approved parts manufacturer to refer, on a tag, to readily available information when it would be impractical to mark the required eligibility information on the tag. Part 91 of the FAR is amended to delete the list of purposes for which a special flight authorization for foreign civil aircraft may be issued. Other sections are amended for purposes of clarification or correction.
+
+ 
+        
+DATES: EFFECTIVE DATE: April 28, 1982.
+
+ 
+        
+EFFECTIVE DATE: 1982-04-28
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Mr. E. Wendell, Owens Regulatory Review Branch AVS-22 Safety Regulations Staff, Associate Administrator for Aviation Standards, Federal Aviation Administration, 800 Independence Avenue SW., Washington, D.C. 20591; Telephone (202)-755-8714.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+ A number of these amendments address problems in the FAR which have been highlighted by numerous requests for exemptions and extensions of compliance dates. In addition, several areas in the FAR require interpretation and clarification. The remaining changes are editorial.
+
+ Generally, these amendments address unrelated items that have accumulated over recent years and are appropriate for consolidation in a miscellaneous amendment package.
+
+Discussion of Comments
+
+ The following discussions are keyed to like-numbered proposals contained in Notice 80-23 (45 FR 60450; December 4, 1980).
+
+ Proposal 1. The proposal to amend Sec. 21.197 to make Part 135 operators eligible for special flight permits with continuing authorizations was disposed of separately in Amendment 21-54 (46 FR 37876; July 23, 1981).
+
+ Proposal 2. This proposal would correct an incomplete listing of sections. The correct sections are listed in Appendix A, Section A23.1(a), as Secs. 23.321 through 23.459. No comments were received on this proposal. Accordingly, the proposal is adopted without substantive change.
+
+ Proposal 3 and 9. Sections 23.305(a) and 25.305(a) contain parallel requirements for structural strength and deformation; however, these include differences in wording and punctuation from the corresponding statements contained in the similar, but correctly stated Secs. 27.305(a) and 29.305(a). These proposals would correct Secs. 23.305(a) and 25.305(a) by making them consistent with Secs. 27.305(a) and 29.305(a). One commenter points out that the word "or" was erroneously inserted at the time CAR 6 and 7 were recodified to Parts 27 and 29 of the FAR. The commenter further states that Secs. 23.305 and 25.305 are correctly stated, and that Secs. 27.305(a) and 29.305(a) (which have the word "or" inserted) should be revised accordingly.
+
+ As originally written, the word "detrimental" was used to quantify the amount of permanent deformation and prohibit acceptance of a loading test which resulted in deforming the tested article to an extent that would degrade its structural characteristics. Insertion of a comma or a conjunction between "detrimental" and "permanent" would change the intended meaning. Inasmuch as the proposed change would only add to the error, the proposals to amend Secs. 23.305 and 25.305 are withdrawn.
+
+ Proposal 4. This proposal would rearrange paragraphs (a)(1), (a)(2), and (a)(3) of Sec. 23.441 to ensure that the correct tail load distribution is imposed for the flight condition. One commenter points out that the desired correct correlation between load specifying figures in Appendix B and the alternate load requirements of Secs. 23.441(a), (b), and (c) could also be accomplished by leaving (a)(1), (a)(2), and (a)(3) in their present order while changing B6, B7, and B8, to B7, B6, and B8. Inasmuch as the interchange of the numbers 6 and 7 occurred initially when the prefix letter B was added in Amendment No. 23-7, August 13, 1969, and because other printings of Part 23 use the order B7, B6, and B8, the FAA disagrees with the commenter. Accordingly, the proposal is adopted without substantive change.
+
+ Proposal 5. This proposal would amend Sec. 23.472(f) to delete reference to Sec. 23.725 and insert the reference to Sec. 23.723(a) in its place. This proposal would permit drop tests other than the free drop tests, and would make the requirement consistent with corresponding sections of Parts 25, 27, and 29. No comments were received on this proposal. Accordingly, the proposal is adopted without substantive change.
+
+ Proposal 6. No comments were received on the proposal to insert the word "red" before the word "arcs" in Sec. 23.1549(d), for consistency with Sec. 25.1549(d). The proposal is adopted without substantive change.
+
+ Proposal 7. This proposal would correct a reference to Sec. 23.201(b) in Sec. 23.1587(a)(1).
+
+ The reference to Sec. 23.201(a) or (b) in Sec. 23.1587(a)(1) is incorrect. Reference to Sec. 23.201(a) as proposed in Notice 80-23 is also incorrect. Both references are for paragraphs dealing with control configurations. Section 23.201(c) deals with a maneuver as intended in Sec. 25.1587(a)(1).
+
+ Two commenters suggest that the altitude loss information required by Sec. 23.1587(a)(1) should be required for all airplanes regardless of whether or not they have independent controls. The FAA agrees and has amended Sec. 23.1587(a)(1) to reference Sec. 23.201(c) which applies to all airplanes regardless of their control configuration. The section is amended accordingly.
+
+ Proposal 8. This proposal would correct errors contained in the equation constants noted under A23.3, Special Symbols.
+
+ No comments were received on the proposal to correct the numbers in the velocity equations which will then correctly reflect the change from miles per hour to knots. This proposal is adopted without substantive change.
+
+ Proposal 10. This proposal would amend Sec. 25.807 to make it clear that all transport category aircraft must have ditching emergency exits whether or not ditching certification is requested.
+
+ One commenter objects to the application of the ditching (emergency exit) requirement to all Part 25 and Part 29 aircraft. The commenter states that the ditching provisions of Secs. 25.807 and 29.807 do not apply unless requested. This commenter also directs attention to Notice 80-23 which solicits economic information on these regulations.
+
+ Another commenter expressed full support of the proposal. This proposal is intended to clarify the existing regulation and does not establish a new requirement for transport category airplanes. Accordingly, the proposal is adopted without substantive change.
+
+ Proposal 11. No comments were received concerning these proposed minor editorial changes. Accordingly, the proposal is adopted without substantive change.
+
+ Proposal 12. This proposal would amend Sec. 29.807 to make it clear that all transport category aircraft must have ditching emergency exits whether or not ditching certification is requested.
+
+ A commenter states that helicopters not certified for ditching will probably capsize immediately when rotor lift is lost because of their high center of gravity and lack of lateral stabilizing appendages such as wings. This commenter also claims that, because of the additional factor that compartments are not usually water-tight, it is impossible to determine a waterline. The commenter recommends the proposal be cancelled.
+
+ Two commenters strongly object to this proposal on the basis that the extension of the transport airplane condition to a helicopter is illogical because of the unique characteristic of helicopters. The commenters point out that the FAA previously considered this question and agreed that the proposed requirement was inappropriate.
+
+ Since the time this question was previously considered, there has been no new evidence which would justify a change in rationale, nor has there been any new evidence pointed to a need for added rotorcraft ditching exit provisions. Accordingly, this proposal is withdrawn.
+
+ Proposal 13. This proposal would have made Part 43 internally consistent by amending Sec. 43.3 to include Canadian persons authorized under Sec. 43.17, Operations Review Program Notice No. 12 proposes changes to Sec. 43.3. Accordingly, this proposal is withdrawn and will be acted upon as part of that review. Comments received in response to this proposal will be given full consideration in that action.
+
+ Proposal 14. Two comments were received in response to this proposal to revise the marking requirements of Sec. 45.15 so that when it is impractical to mark the required eligibility information on the tag attached to a part or container, the tag may refer to a specific and readily available reference manual or catalog which contains the required information.
+
+ One comment was submitted by the Industry Association that petitioned for this rule change. It found the wording of this proposal to be reasonable. 
+
+ Another commenter believed that the original concept of Parts Manufacturer Approvals (PMA) was primarily based on the production of parts such as spark plugs, pistons, piston pins, etc., to be used as duplicate parts without a specific part number. These parts are, in fact, required to have a specific part number. Further, the PMA manufacturer is required to mark the parts (or tags) with parts replacement eligibility. It was not proposed to remove the requirement for this information from Sec. 45.15; it was proposed to provide that, in those cases where it would not be practical to mark the required eligibility information on the tag, the tag may contain a reference to a readily available manual or catalog containing the required eligibility information.
+
+ Section 45.15 is adopted without substantive change.
+
+ Proposal 15. Section 61.39(b) has required that an applicant for an airline transport pilot certificate or an additional rating who does not wish to retake the required written examination must have been continuously employed since passing the written examination and be participating in a pilot training program. For the exception from the 24-month requirement to apply, a person had to have been employed by a carrier immediately (within 24 hours) after taking the written examination; a strike or furlough constituted a break in continuous employment, thus invalidating the exception. The FAA has determined that this rule is too restrictive, since it is possible for a pilot to be on vacation for a longer period of time than some strikes or furloughs last, and it would be unfair to apply the exception provision to the vacationing pilot but not the striking or furloughed pilot. Accordingly, Notice 80-23 proposed to amend Sec. 61.39 to provide that the applicant need only be employed within the period ending 24 calendar months after the month in which the applicant passed the written examination and at the time of the flight test. Notice 80-23 also proposed to eliminate the continuous employment requirement and substitute a requirement to complete initial training and when appropriate, transition or upgrade training, and to meet the recurrent training requirements. Requiring an individual's training to be current is a better means of ensuring retention of the knowledge tested by the written test than requiring continuous employment.
+
+ One commenter responded in support of the proposal. The proposal is adopted as proposed.
+
+ Proposal 16. Section 61.155(d) has provided that a commercial pilot may credit toward the total flight time required for an airline transport pilot certificate any second-in-command time "in operations under Part 121." However, Sec. 61.51(c)(3) provides that for meeting the requirements for a certificate or rating, a pilot may log as second-in-command time all flight time during which that pilot acts as second in command of an aircraft on which more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is conducted. The intent of Sec. 61.51(c)(3), when it was adopted, was that this rule should apply to the experience requirements for each kind of pilot certificate. However, at that time no change was made in Sec. 61.155(d). Notice 80-23 proposed to eliminate the phrase "in operations under Part 121," so that all second-in-command time which meets the requirements of Sec. 61.51(c)(3) may be credited under Sec. 61.155. No comments were received on this proposal.
+
+ The proposal is adopted and all second-in-command time which meets the requirements of Sec. 61.51(c)(3) may be credited under Sec. 61.155(d).
+
+ Proposal 17. Section 63.35(d) has required continuous participation in a maintenance, flight engineer, or pilot training program of a Part 121 certificate holder for an applicant for a flight engineer certificate to be exempted from the 24-month validity period for the written examination. Similar to Sec. 61.39, this section has been interpreted to mean that any break in employment, such as a strike or furlough, constitutes an interruption of continuous participation in a training program and prevents the exception from applying. The FAA has reevaluated this requirement and has determined that continuous participation in a training program is not essential. Currency in a certificate holder's training program for a flight crewmember or regency of experience for a mechanic employed by a certificate holder ensures knowledge retention better than continuous participation in a training program.
+
+ Notice 80-23 proposed to amend Sec. 63.35(d) to apply the exception provision to a flight crewmember or mechanic who is employed by a certificate holder within the period ending 24 calendar months after the month in which the applicant passed the written examination, and whose training is current or meets the recent experience requirements for a mechanic under Sec. 65.83. It also proposed to expand the rule to include employment by a commuter air carrier.
+
+ No comments were received on the proposal. It is adopted without substantive change.
+
+ Proposal 18. Notice 80-23 proposed to amend Sec. 65.101 to allow formal training to be substituted for the practical experience now required for repairman certificate eligibility. One commenter agreed with the substance of the proposal, with the exception that completed formal training should have the prior approval of the Administrator instead of being reviewed for acceptability for completion.
+
+ Because of the diversity and uniqueness of training associated with repairman ratings, it would be impractical to establish national uniform training standards necessary for prior approval of training programs. Conversely, FAA certificated air agencies, aviation manufacturers, and air carriers are best able to establish that formal training which will qualify the repairmen they employ to perform or supervise the maintenance of aircraft or components at its facilities. The FAA can then review the training and determine if it is acceptable. This amendment will provide a logical alternative to the 18 months of practical experience formerly required for repairmen eligibility and still provide an equivalent level of competency. Accordingly, this proposal is adopted without substantive change.
+
+ Proposal 19. It was proposed to amend Sec. 65.127(b) to provide that a parachute rigger need only have available suitable housing that is adequately heated, lighted, and ventilated for drying and airing parachutes. This section has required, in part, a compartment for hanging a parachute vertically for drying and airing. Since parachutes are now made of synthetic fabrics, a vertical or horizontal means for drying and airing parachutes is also acceptable. However, the housing must still be adequately heated, lighted, and ventilated.
+
+ No comments were received on this proposal. Section 65.127(b) is being revised as proposed.
+
+ Proposal 20. Notice 80-23 proposed to delete the list of purposes for which a special flight authorization could be issued. The intent was to eliminate the need for an applicant to petition for an exemption from previous Sec. 91.28 when the purpose was other than that specified under the rule. This was intended to relieve the burden on both the FAA and the public imposed by exemption procedures.
+
+ Review of the comments received revealed that even though all commenters supported the proposal, they apparently misconstrued its intent, in believing that CAB authority, in addition to the FAA special flight authorization, would be necessary for all purposes, including those which formerly did not require CAB authority under the previous rule. The CAB also submitted comments consistent with most commenters indicating that the proposed rule was subject to misinterpretation. The CAB provided revised language for proposed Sec. 91.28(c) to preclude any misunderstanding as to when CAB authority would be necessary.
+
+ In this regard the FAA agrees with the commenters and the CAB that the proposal was not clear relative to when CAB authority would be necessary. Accordingly, the FAA has amended the language of proposed Sec. 91.28 to clarify when CAB authority would be necessary.
+
+ One commenter noted that, in the case of special flight authorizations for air shows (Sec. 91.28(b)(6)), the application procedure contained in proposed Sec. 91.28(a) would no longer provide for applications to be made to the Regional Director of the FAA region in which the air show will take place. The commenter stated that the existing application procedure should be retained since it is economical and effective. The FAA agrees with his comment and has amended Sec. 91.28(a) to reinstate this application procedure.
+
+ One commenter stated that it was not clear whether the Regional Director would have authority to issue special flight authorizations for extended periods of time; i.e., once justification had been established for an initial special flight authorization, there would be no benefit in repeating the procedure for each subsequent trip, as in the case of a Canadian amateur-built aircraft to participate at United States air shows. This comment was not considered since it was determined to be outside the scope of Notice 80-23.
+
+ Accordingly, this section has been amended consistent with public comments in the interest of clarification and adopted without substantive change.
+
+ Proposal 21. This proposal would have required all helicopters operating under IFR to use altimeters which have been tested for the altitudes at which operations are conducted. Operations Review Program Notice No. 12 proposes a number of changes to Sec. 91.170. Accordingly, this proposal is withdrawn and will be acted upon as part of that review. Comments received in response to this proposal will be given full consideration in that action.
+
+ Proposal 22. This proposal would delete references to Part 103 in Sec. 121.135(b)(23) and insert appropriate references to Title 49 of the CFR. Since this change was previously accomplished in Operations Review Amendment No. 9 (45 FR 46736), this proposal is withdrawn.
+
+ Proposal 23. This proposal would require the interphone system to be accessible for use at enough flight attendant stations so that all floor-level emergency exits in each passenger compartment are observable from one or more of those stations so equipped. Section 121.319(a) requires, in part, that airplanes with a seating capacity of more than 19 passengers must be equipped with a crewmember interphone system. Section 121.319(b)(5)(i) requires that for large turbojet-powered airplanes, the interphone system must be accessible for use at enough flight attendant stations so that all floor-level emergency exits in each passenger compartment are observable from one or more of those stations. From a security and operational viewpoint, if the floor-level exit is located within a gallery, and the entryway to the galley is observable, this will satisfy the operational/security requirements and, therefore, it would be unnecessary to view the exit itself. No comments were received on this proposal. Accordingly, it is adopted without substantive change.
+
+ Proposals 24, 25, 27, and 28. Sections 121.385, 121.389, 121.695, and 121.697 contained inconsistencies in the use of the words "aircraft" and "airplanes." The proposals would replace the word "aircraft" with t he word "airplane" where it appears in Secs. 121.385(a), 121.389(a)(2), 121.695(a), and 121.697(a) and (d). These editorial corrections would make the language consistent with the applicable word definitions. No comments were received on these proposals. Accordingly, they are adopted without substantive change.
+
+ Proposal 26. This proposal would have amended Sec. 121.585 to require a certificate holder to notify a passenger declaring a firearm in checked baggage of the definition of a "loaded" firearm. It further would have required a certificate holder to determine that ammunition is carried in accordance with the Hazardous Materials Regulations in Title 49 Parts 171, 172, and 173 of the CFR.
+
+ Inasmuch as there is no evidence indicating a need for this added provision, and its implementation would impose an additional unnecessary cost on certificate holders, this proposal is withdrawn.
+
+ Proposal 29. This proposal would relieve an unnecessary burden on certificate holders that do not have clerical staffs working holidays and weekends by revising Sec. 121.703 to change the reporting time to 9:00 a.m. the second workday following the date of the reportable even for reports covering holidays and weekends. No comments were received on this proposal. Accordingly, this proposal is adopted without substantive change.
+
+ Proposal 30. Part 129 prescribes rules governing the operation within the United States of aircraft of foreign air carriers holding a permit issued by the Civil Aeronautics Board (CAB) under Section 402 of the Federal Aviation Act of 1938. Currently, the CAB issues exemptions to permit temporary operations by foreign air carriers without a Section 402 permit provided the foreign air carrier is in compliance with Part 129. This proposal would amend Sec. 129.1 of the FAR to make Part 129 applicable to foreign air carriers who hold either a Section 402 permit or other appropriate economic authority, or an exemption issued by the CAB which requires compliance with that part. No comments were received on this proposal.
+
+ The phrase "conditioned upon the foreign air carrier complying with the requirements of this part" is ambiguous since Part 129 applies regardless of CAB conditions shown on the economic authority to operate in the United States. Accordingly, this section has been amended and adopted without substantive change.
+
+ Proposals 31 and 32. These proposals were disposed of in Amendments 135-13 (46 FR 28301; May 26, 1981) and 135-15 (46 FR 30908; June 11, 1981).
+
+Editorial Corrections
+
+ Amendments to Secs. 107.13(a) and 121.575 were not proposed in Notice 80-23. They are editorial corrections which are necessary and resulted from new Part 108, Airplane Operator Security (46 FR 3782; February 15, 1981).
+
+ These amendments correct Secs. 107.13 and 121.575 by inserting the appropriate reference to the new part. No substantive change is made as a result of the corrections.
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendment
+
+ Accordingly, Parts 23, 25, 29, 43, 45, 61, 63, 65, 91, 121, and 129 of the Federal Aviation Regulations are amended effective April 28, 1962, as follows:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+Sec. 23.301 [Amended]
+
+ 1. By amending the second sentence of Sec. 23.301(d) by removing the words "equivalent of Secs. 23.331 through 23.399" and inserting the words "equivalent of Secs. 23.321 through 23.459" in their place.
+
+Sec. 23.441 [Amended]
+
+ 2. By amending Sec. 23.441(b) by removing the phrase "(a)(1), (a)(2), and (a)(3), respectively," and by inserting the phrase "(a)(2), (a)(1), and (a)(3), respectively, of this section." in its place.
+
+Sec. 23.473 [Amended]
+
+ 3. By amending Sec. 23.473(f) by removing the reference "Sec. 23.725" and inserting the reference "Sec. 23.723(a)" in its place.
+
+Sec. 23.1549 [Amended]
+
+ 4. By amending Sec. 23.1549(d) by inserting the word "red" before the word "arcs".
+
+Sec. 23.1587 [Amended]
+
+ 5. By amending Sec. 23.1587(a)(1) by removing the reference "Sec. 23.201(b)" and inserting "Sec. 23.201(c)" in its place.
+
+Appendix A to Part 23 [Amended]
+
+ 6. By amending Appendix A, paragraph A23.3, by removing the numbers 12.5, 17.0, 19.5, and 27.3 appearing in the equations and inserting the numbers 11.0, 15.0, 17.0, and 24.0 respectively, in their place.
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+Sec. 25.907 [Amended]
+
+ 7. By revising Sec. 25.807(d) by amending the initial portion of the lead in to delete the phrase "Ditching emergency exits must be provided in accordance with the following requirements," and inserting in its place the phrase "Whether or not ditching certification is requested, ditching emergency exits must be provided in accordance with the following requirements."
+
+Appendix F to Part 25 [Amended]
+
+ 8. By amending Appendix F to Part 25 as follows:
+
+ 1. By inserting a comma after "5" in paragraph (a).
+
+ 2. By removing the colon after the phrase "most critical flammability conditions" in the fourth sentence of paragraph (b) and inserting a period in its place.
+
+ 3. By removing the reference to paragraph (h) in the first sentence of paragraph (c) and inserting a reference to paragraph (g) in its place.
+
+ 4. By removing the reference to paragraph (g) in the last sentence of paragraph (d) and inserting a reference to paragraph (h) in its place.
+
+ 5. By removing the reference to paragraph (g) in the next to last sentence of paragraph (g) and inserting a reference to paragraph (h) in its place.
+
+PART 45--IDENTIFICATION AND REGISTRATION MARKING
+
+ 9. By amending Sec. 45.15(b) by adding a sentence at the end to read as follows:
+
+Sec. 45.15 Replacement and modification parts.
+
+ * * * * *
+
+ (b) * * * If the marking required by paragraph (a)(4) of this section is so extensive that to mark it on a tag is impractical, the tag attached to the part or the container may refer to a specific readily available manual or catalog for part eligibility information.
+
+PART 61--CERTIFICATION: PILOTS AND FIGHT INSTRUCTORS
+
+ 10. By revising Sec. 61.39(b) to read as follows:
+
+Sec. 61.39 Prerequisites for flight tests.
+
+ * * * * *
+
+ (b) Notwithstanding the provisions of paragraph (a)(1) of this section, an applicant for an airline transport pilot certificate or rating may take the flight test for that certificate or rating if--
+
+ (1) The applicant--
+
+ (i) Within the period ending 24 calendar months after the month in which the applicant passed the first of any required written tests, was employed as a flight crewmember by a U.S. air carrier or commercial operator operating either under Part 121 or as a commuter air carrier under Part 135 (as defined in Part 296 of this title) and is employed by such a certificate holder at the time of the flight test;
+
+ (ii) Has completed initial training, and, if appropriate, transition or upgrade training; and
+
+ (iii) Meets the recurrent training requirements of the applicable part; or
+
+ (2) Within the period ending 24 calendar months after the month in which the applicant passed the first of any required written tests, the applicant participated as a pilot in a pilot training program of a U.S. scheduled military air transportation service and is currently participating in that program.
+
+ 11. By revising the introductory phrase in Sec. 61.155(d) to read as follows:
+
+Sec. 61.155 Airplane Rating: Aeronautical experience.
+
+ * * * * *
+
+ (d) A commercial pilot may credit the following flight time toward the 1,500 hours total flight time requirement of paragraph (b)(2) of this section:
+
+ * * * * *
+
+PART 63--CERTIFICATION: FLIGHT CREWMEMBERS OTHER THAN PILOTS
+
+ 12. By revising Sec. 63.35(d) to read as follows:
+
+Sec. 63.35 Knowledge requirements.
+
+ * * * * *
+
+ (d) An applicant for a flight engineer certificate or rating must have passed the written tests required by paragraphs (a) and (b) of this section since the beginning of the 24th calendar month before the month in which the flight is taken. However, this limitation does not apply to an applicant for a flight engineer certificate or rating if--
+
+ (1) The applicant--
+
+ (i) Within the period ending 24 calendar months after the month in which the applicant passed the written test, is employed as a flight crewmember or mechanic by a U.S. air carrier or commercial operator operating either under Part 121 or as a commuter air carrier under Part 135 (as defined in Part 298 of this title) and is employed by such a certificate holder at the time of the flight test;
+
+ (ii) If employed as a flight crewmember, has completed initial training, and, if appropriate, transition or upgrade training; and
+
+ (iii) Meets the recurrent training requirements of the applicable part or, for mechanics meets the regency of experience requirements of Part 65; or
+
+ (2) Within the period ending 24 calendar months after the month in which the applicant passed the written test, the applicant participated in a flight engineer or maintenance training program of a U.S. scheduled military air transportation service and is currently participating in that program.
+
+ * * * * *
+
+PART 65--CERTIFICATION: AIRMEN OTHER THAN FLIGHT CREWMEMBERS
+
+ 13. By revising Sec. 65.101(a)(5) to read as follows:
+
+Sec. 65.101 Eligibility Requirements: General.
+
+ * * * * *
+
+ (a) * * *
+
+ (5) Have either--
+
+ (i) At least 18 months of practical experience in the procedures, practices, inspection methods, materials, tools, machine tools, and equipment generally used in the maintenance duties of the specific job for which the person is to be employed and certificated; or
+
+ (ii) Completed formal training that is acceptable to the Administrator and is specifically designed to qualify the applicant for the job on which the applicant is to be employed; and
+
+ * * * * *
+
+ 14. By revising Sec. 65.127(b) to read as follows:
+
+Sec. 65.127 Facilities and equipment.
+
+ * * * * *
+
+ (b) Suitable housing that is adequately heated, lighted, and ventilated for drying and airing parachutes.
+
+ * * * * *
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES
+
+ 15. By revising Secs. 91.28(a), (b), and (c) to read as follows:
+
+Sec. 91.28 Special flight authorizations for foreign civil aircraft.
+
+ (a) Foreign civil aircraft may be operated without airworthiness certificates required under Sec. 91.27 if a special flight authorization for that operation is issued under this section. Application for a special flight authorization must be made to the Regional Director of the FAA region in which the applicant is located, or to the region within which the U.S. point of entry is located. However, in the case of an aircraft to be operated in the U.S. for the purpose of demonstration at an air show, the application may be made to the Regional Director of the FAA region in which the air show is located.
+
+ (b) The Administrator may issue a special flight authorization for a foreign civil aircraft subject to any conditions and limitations that the Administrator considers necessary for safe operation in the U.S. airspace.
+
+ (c) No person may operate a foreign civil aircraft under a special flight authorization unless that operation also complies with Part 375 of the Special Regulations of the Civil Aeronautics Board (14 CFR 375).
+
+PART 107--AIRPORT SECURITY
+
+Sec. 107.13 [Amended]
+
+ 16. By amending Sec. 107.13(a) by removing the phrase "Sec. 108.5(a)(i)" in the introduction and substituting for it the phrase "Sec. 108.5(a)(1)".
+
+PART 121--CERTIFICATION AND OPERATIONS: DOMESTIC, FLAG, AND SUPPLEMENTAL AIR CARRIERS AND COMMERCIAL OPERATORS OF LARGE AIRCRAFT
+
+ 
+
+ 17. By revising Sec. 121.319(b)(5)(i) to read as follows:
+
+Sec. 121.319 Crewmember interphone system.
+
+ * * * * *
+
+ (b) * * * 
+
+ (5) * * *
+
+ (i) It must be accessible for use at enough flight attendant stations so that all floor-level emergency exits (or entryways to those exits in the case of exits located within galleys) in each passenger compartment are observable from one or more of those stations so equipped;
+
+ * * * * *
+
+Sec. 121.385 [Amended]
+
+ 18. By amending Sec. 121.385(a) by removing the word "aircraft" wherever it appears and substituting the word "airplane".
+
+Sec. 121.389 [Amended]
+
+ 19. By amending Sec. 121.389(a)(2) by removing the word "aircraft" and substituting the word "airplane".
+
+Sec. 121.575 [Amended]
+
+ 20. By amending Sec. 121.575 by removing the phrase "Sec. 121.584" in paragraph (b)(2) and substituting for it the phrase "Sec. 108.21"; and by removing the phrase "Sec. 121.585(a)" in paragraph (b)(3) and substituting for it the phrase "Sec. 108.11".
+
+Sec. 121.695 [Amended]
+
+ 21. By amending Sec. 121.695(a) by removing the word "aircraft" and inserting the word "airplane".
+
+Sec. 121.697 [Amended]
+
+ 22. By amending Secs. 121.697(a) and (d) by removing the word "aircraft" and inserting the word "airplane" in its place.
+
+Sec. 121.703 [Amended]
+
+ 23. By amending Sec. 121.703(d) by amending the last sentence to read "However, a report that is due on a Saturday, Sunday, or holiday must be delivered by no later than 9:00 a.m. on the second workday after that day."
+
+PART 129--OPERATIONS OF FOREIGN AIR CARRIERS
+
+ 24. By revising Sec. 129.1 to read as follows:
+
+Sec. 129.1 Applicability.
+
+ This part prescribes rules governing the operation within the United States of each foreign air carrier holding a permit issued by the Civil Aeronautical Board under section 402 of the Federal Aviation Act of 1958 (49 U.S.C. 1372) or other appropriate economic or exemption authority issued by the Civil Aeronautics Board.
+
+ (Secs. 313(a), 601 through 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421 through 1425); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)); and 14 CFR 11.49)
+
+ NOTE--The FAA has determined that these amendments reduce the regulatory burden on the flying public by relaxing certain regulations that govern prerequisites for flight tests, approved parts reference for manufacturers, and special flight authorization for foreign civil aircraft by prescribing only the minimum regulations deemed necessary for safety. The FAA's evaluation of the changes to Parts 23, 25, 45, 61, 63, 65, 91, 107, 121, and 129 indicates that the benefits will exceed the costs, primarily because the complexity and volume of regulatory material have been reduced. Further, proposals contained in the notice which have potential for placing a regulatory burden on the public have been removed. Therefore: (1) It has been determined that this is not a major regulation under Executive Order 12291; and (2) I certify that, under the criteria of the Regulatory Flexibility Act, these amendments will not have a significant economic impact on a substantial number of small entities. In addition, the FAA has determined that these amendments are not significant under the Department of Transportation regulatory policies and procedures (44 FR 11034; February 26, 1979). The impact of this rulemaking is so minimal it does not require a final regulatory evaluation since most of the amendments are merely editorial corrections and clarifications and some have minimal relaxatory and beneficial economic impact.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on February 26, 1982.
+
+J. Lynn Helms, 
+
+Administrator.
+
+[FR Doc. 62-8347 Filed 2-26-82; 8:46 am]
+
+BILLING CODE 4910-12-M
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 80-23; Issued on 11/28/90.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

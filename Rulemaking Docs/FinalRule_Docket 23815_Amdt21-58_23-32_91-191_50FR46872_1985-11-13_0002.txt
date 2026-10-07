@@ -1,0 +1,298 @@
+FINAL RULES: 21-58|23-32|91-191
+
+ 
+ 
+        
+CITATION: [Federal Register: November 13, 1985 (Volume 50, Number 219)]
+
+ 
+        
+PAGE NUMBER: [Page 46872]
+
+ 
+        
+DOCKET NUMBER: 23815
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 91
+
+ 
+        
+SUBJECT HEADING: Shoulder Harnesses in Normal, Utility, and Acrobatic Category Airplanes
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The amendment to Part 23 of the Federal Aviation Regulations requires the installation of shoulder harnesses at all seats of normal, utility, and acrobatic category airplanes with a passenger seating configuration, excluding pilot seats, of nine or less, manufactured one year after the effective date of the amendment. The amendment to Part 91 of the Federal Aviation Regulations requires the pilot-in-command to brief passengers on how to fasten and unfasten their shoulder harnesses for both takeoff and landing in aircraft with installed shoulder harnesses. The amendment, also, requires each occupant to use a shoulder harness, if installed, for takeoff and landing. These amendments respond to the conclusions of an FAA Crashworthiness Study Report, to a petition for rulemaking from the General Aviation Manufacturers Association and to safety recommendations from the National Transportation Safety Board. These amendments will enhance the crashworthiness of small airplanes manufactured one year after the effective date of these amendments.
+
+ 
+        
+DATES: EFFECTIVE DATE: December 12, 1985.
+
+ 
+        
+EFFECTIVE DATE: 1985-12-12
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: J. Robert Ball, Regulations and Policy Office (ACE-110), Aircraft Certification Division, Central Region, Federal Aviation Administration, 601 East 12th Street, Kansas City, Missouri 64106; telephone (816) 374-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Regulatory History
+
+ These amendments are based upon a Notice of Proposed Rulemaking, Notice No. 85-11, published in the Federal Register (50 FR 19108; May 6, 1985). All comments received in response to Notice No. 85-11 were considered in adopting these amendments.
+
+Background
+
+ Amendment 23-7 to Part 23 of the Federal Aviation Regulations (FAR), (34 FR 13078; August 13, 1969) upgraded many airworthiness standards for small airplanes. Sec. 23.785 was amended to require that each occupant must be protected from head injury by a safety belt and one of the following: (1) A shoulder harness to prevent the head from contacting any injurious object; (2) elimination of any injurious object within the striking radius of the head; or (3) an energy absorbing rest that would support the arms, shoulders, head, and spine.
+
+ On January 31, 1973, the FAA issued Notice No. 73-1 (38 FR 2985) proposing to amend Parts 23 and 91 of the FAR to require: (1) Shoulder harnesses for all occupants of newly certificated small airplanes; (2) shoulder harnesses for all occupants of small airplanes manufactured one year after the effective date of the amendments, regardless of the type certification basis of the airplane; and (3) all small airplanes in service with structural shoulder harness attachment provisions, to be equipped with shoulder harnesses within one year after the effective date of the amendment.
+
+ The final action on Notice No. 73-1, was supported by the following information: (1) Approximately 80,000 to 90,000 of the 130,000 U.S. registered small airplanes in service would have been required to add shoulder harnesses on the basis of existence of structural provisions; (2) the cost per seat for the installation of a shoulder harness would have varied from $20 to $200 for most airplanes, and installations made at the factory would mainly have been in the $20 to $40 per seat range; and (3) two percent of the then current airplanes would be equipped with shoulder harnesses, 50 percent of those shoulder harnesses would be used on a regular basis, and the increased availability of shoulder harnesses would have contributed significantly to occupant protection in an airplane accident.
+
+ As the final action on Notice No. 73-1, the FAA issued Amendment 23-19 to Part 23 and Amendment 91-139 to Part 91 (42 FR 30601; June 16, 1977). Amendment 23-19 requires the installation of shoulder harnesses for the front seats of all small airplanes for which an application for a type certificate is received after July 18, 1978. Amendment 91-139 requires the installation of shoulder harnesses for the front seats of small airplanes manufactured after July 18, 1978.
+
+ Sec. 23.785(j) was added to require, in part, that the cabin area surrounding each seat within striking distance of the occupant's head or torso be free of potentially injurious objects and, furthermore, if energy absorbing designs are used to meet this requirement, they must protect the occupant from serious injury when the occupant experiences the ultimate inertia forces set forth in Sec. 23.561(b)(2).
+
+ The National Transportation Safety Board (NTSB) considered the new rules to be inadequate since the new requirements applied only to the front seats of airplanes and recommended installation of shoulder harnesses at all seats. In response to these safety recommendations, the FAA informed the NTSB that it was considering the feasibility of requiring the installation of shoulder harnesses at all seat locations and that the economic impact of the various options was being carefully assessed.
+
+ In December 1981, the FAA completed a benefit-to-cost analysis for the installation of shoulder harnesses in all general aviation airplanes. The analysis included nine alternatives for rulemaking action related to the installation and use of shoulder harnesses. The alternatives considered are cited as follows:
+
+1. Amend Part 23 to require shoulder harnesses at all seats on newly certificated airplanes (extension of the current rule which requires shoulder harnesses at the front seats only). Although this alternative would not have affected existing airplane designs, it would have imposed a future requirement for new airplanes regardless of whether the shoulder harness was used.
+
+2. Amend Part 23 to require structural design provisions to accommodate the installation of shoulder harnesses at all rear seat locations on newly certificated airplanes.
+
+ This alternative would have provided the opportunity to install shoulder harnesses, at the owner's option, without the need for structural modification. This alternative would have not been applicable to airplanes being manufactured under the provisions of a current type certificate.
+
+3. Amend Part 91 to require a shoulder harness at all seat locations on new airplane models; that is, those new airplane models manufactured under an amended type certificate, within a certain time period after the effective date of the amendment. Time periods of 1, 3, and 5 years were considered for this alternative.
+
+ This alternative was similar to alternative 1, except that the scope was broadened to include airplanes manufactured under an amended type certificate and a transition period was provided.
+
+4. Amend Part 91 to require structural provisions to accommodate shoulder harnesses at all seat locations on new airplane designs.
+
+5. Amend Part 91 to require shoulder harnesses at all seat locations on newly manufactured airplanes after a specified date.
+
+6. Amend Part 91 to require structural provisions to accommodate the installation of shoulder harnesses at all seat locations on all small airplanes within a specified time period.
+
+7. Amend Part 91 to require the installation of shoulder harnesses at all seats on all small airplanes after a specified time.
+
+ All airplanes which did not have provisions for shoulder harnesses would have been required to be modified to meet the crashworthiness standards of Part 23.
+
+8. Amend Part 91 to require structural provisions to accommodate the installation of shoulder harnesses at all seat locations on small airplanes prior to the time of registration.
+
+ This would have required sellers or buyers to modify the airplane before registration to the new owner.
+
+9. Make no regulatory changes.
+
+ The FAA's Civil Aeromedical Institute (CAMI) completed a report in March 1982 entitled "Crashworthiness Studies: Cabin, Seat, Restraint, and Injury Findings in Selected General Aviation Accidents," Report No. FAA-AM-82-7. Numerous accidents were reviewed for features of crashworthiness and, in particular, for the injuries to the occupants in relation to the apparent severity of the impact and the performance of the cabin and occupant restraint systems.
+
+ In concluding the review, an estimate of the value of shoulder harnesses was made by the investigators. In the 47 accidents selected for further review, there were 136 persons involved. Eighty-seven (87) of these 136 were occupying a pilot or copilot seat, and it was estimated that 42 of the 49 occupants in rear seats would have had less severe injuries had shoulder harnesses been available and used. From this study, it is clear that shoulder harnesses enhance the crashworthiness of an airplane and reduce the possibility of serious or fatal injuries to occupants of other seats, in addition to those occupying the front seats.
+
+ A review of the 1981 Benefit-Cost Analysis and the CAMI Report indicated a varying positive benefit-to-cost ratio for alternatives 1, 2, and 7. Because alternative 7 is of such complexity and cost, and because some of the data upon which the 1981 study was based has changed, the FAA is conducting further study of this alternative before deciding if regulatory action is needed. Some of the factors which lead to the conclusion that further study was necessary are as follows:
+
+1. The 1981 benefit-to-cost estimates the overall costs to be from $287 million to $328 million and more recent information indicates even higher costs.
+
+2. The cost of shoulder harness installation can vary appreciably from one airplane to another. For example, the owner of an airplane manufactured without the attachment point for shoulder harnesses or whose airplane requires structural strengthening would have to bear significantly greater expense than an owner whose airplane only requires the installation of shoulder harnesses.
+
+3. Rather than retrofit all seats, it may be more appropriate to retrofit only those seats where it can be done at reasonable cost or to retrofit only the front seats because these seats have a much higher occupancy rate than the rear seats and, correspondingly, the benefit-to-cost ratio will be significantly higher.
+
+ The FAA requested information from the public relating to the practicality of requiring the retrofitting of existing small airplanes with shoulder harnesses at all seats in Notice No. 85-11. In response to the request information, the FAA received little information either to support or to reject further rulemaking action on the retrofit issue.
+
+ Alternatives 1 and 2 were rejected because alternative 5, based upon new information and proposed in Notice No. 85-11, would provide much greater benefits than those in alternatives 1 and 2. In preparing the benefit-to-cost analysis for alternative 5 of the 1981 analysis, "Amend Part 91 to require the installation of shoulder harnesses at all seat locations on newly manufactured airplanes after a specified date", it was assumed that the cost would include the design, installation of provisions for shoulder harnesses, and the shoulder harness. Further, the actual installation cost of shoulder harnesses, at each seat is now estimated at $150 to $250 per seat, because the attaching means for these shoulder harnesses will be provided in the affected airplane. Prior to developing Notice No. 85-11, the FAA was informed by the General Aviation Manufacturers Association, that after December 31, 1984, their newly manufactured small normal, utility, and acrobatic airplanes with a passenger seating configuration, excluding pilot seats, of nine or less, would have structural provisions incorporated and the member companies would be voluntarily installing shoulder harnesses where practical.
+
+ The GAMA manufacturers, which produce the majority of small airplanes, indicate that, except for airplanes purchased by Part 135 operators, they will, where practical, voluntarily provide structural provisions and install shoulder harnesses at all seat locations in these small airplanes. Accordingly, a review of the benefit-to-cost analysis has shown that alternative 5 would now have positive benefits relative to the estimated costs.
+
+ Consequently, the FAA concluded that the objective of alternative 5 would be more economically viable than alternatives 1 or 2. The substance of alternative 5 was proposed in Notice No. 85-11. For those small airplane manufacturers, which are not members of GAMA, the one year compliance period requiring the installation of shoulder harnesses at all seat positions on newly manufactured small airplanes was considered a reasonable length of time.
+
+Discussion of Comments
+
+ In response to Notice No. 85-11, the FAA received comments from 19 interested persons. Most comments express agreement with the proposal.
+
+ One commenter states that, while favoring the proposal, amending Sec. 23.785 addresses but one part of an overall absence of meaningful crashworthiness criteria within Part 23 of the FAR. This commenter contends the proposal is more form than substance until such time as the ultimate inertia forces set forth in Sec. 23.561 are increased. The FAA does not agree with these remarks. Numerous studies by the FAA, NTSB, and others indicate that a significant improvement is made in small airplane crashworthiness by the installation and use of shoulder harnesses. While the Small Airplane Airworthiness Review Program (48 FR 4290, January 31, 1983), addresses the commenter's proposed increase in the ultimate static inertia forces of Sec. 23.561(d)(2), a more appropriate course of action is to consider a dynamic testing requirement for seating and restraint systems simulating the survivable crash event and establishing criteria for occupant protection.
+
+ Two commenters contend that Technical Standard Order (TSO)-C22f, Safety belts, must be amended. One commenter states that TSO-C22f should be amended to require that the minimum standards for safety belt and shoulder harness systems be sufficient to restrain people equivalent to the 95th percentile man under foreseeable and survivable crash forces in a dynamic crash environment with due consideration for the geometry of each particular installation. The commenter also states, that a 500 percent increase in the specified values to which restraint systems are presently required to be designed and manufactured under a TSO would have minimum economic impact. The second commenter provides detailed changes to be considered in amending TSO-C22f. The FAA has a program to consider dynamic testing of seats within Part 23 of the FAR and shoulder harnesses in this respect are considered a part of the airplane seats. In addition, the FAA has a program to amend TSO-C22f.
+
+ One commenter notes that the language used by the National Highway Traffic Safety Administration (NHTSA) and the FAA is substantially different in the area of passenger restraint systems. The commenter suggests that conformity of the FAA rulemaking to terminology now used throughout the passenger restraint industry (i.e., pelvic restraint; upper torso restraint) would impact favorably on the introduction of occupant restraint systems currently existing into the aviation industry in a form more closely aligned with the state-of-the-art. The FAA is aware of the differences in terminology between NHTSA regulations and those proposed by the FAA with regard to occupant restraint systems. The FAA considered the use of the term "upper torso restraint" instead of the term "shoulder harness" in the proposal. Since many of the Federal Aviation Regulations use the term "shoulder harness" and the aviation community readily identifies with this terminology, the term "shoulder harness" is retained in these amendments.
+
+ One commenter suggests that the safety benefits of the proposed rule would be significantly enhanced by requiring that manufacturers make available, within one year following the effective date of the amendment, shoulder harness kits suitable to retrofit previously produced airplanes of types in current production with "upper torso restraint systems" capable of satisfying the amended rule. The commenter further recommends that a subsequent date should then be established (e.g., two years thereafter) upon which installation of such modification kits by all owners would become mandatory. However, another commenter recommends that the installation of shoulder harnesses on existing airplanes remain on a voluntary basis. This issue is one of the subjects of a current FAA study to determine the economic viability of alternative 7. Shoulder harness retrofit kits for all seats are presently available from the manufacturers of nearly all small airplanes. Upon completion of the FAA study, a decision will be made on whether to proceed with further rulemaking.
+
+ One commenter requests that the proposal be revised to provide for the installation of aft-facing or club seating arrangements in airplanes with a seating capacity of six or more without installing shoulder harnesses for aft-facing seats since the seat back must be designed to withstand the inertia forces prescribed in Sec. 23.561(d)(2) to comply with Sec. 23.785(j) of the FAR. The FAA disagrees. A shoulder harness on an aft-facing seat will provide lateral restraint in many airplane accidents where motion is not parallel to the longitudinal axis of the airplane and also provides rebound protection.
+
+ One commenter states that although no specific mention of side-facing seats is made in the regulations, it would appear that installation of shoulder harnesses on these type seats might enhance injuries when occupants are subjected to the inertia forces of Sec. 23.561(b)(2), and, therefore, there should be other means of protecting occupants of side-facing seats. This commenter suggests a requirement similar to Sec. 23.785(e), which is applicable to berths. The FAA recognizes that providing an equivalent level of safety on side-facing or club seats may present the designer a more difficult task than forward- or aft-facing seats. Furthermore, the commenter did not provide any information or data on how a level of safety could be provided that would be equivalent to that which would accrue from the installation of shoulder harnesses on forward- and aft-facing seats.
+
+ The FAA does not have adequate data to define safety provisions for side-facing seats or club seating equivalent to that afforded in a forward- or aft-facing seating with a shoulder harness and does not consider the berth requirements to be adequate for seats. This rulemaking action defines the occupant restraint requirement for forward- and aft-facing seating and, if an applicant chooses to provide different seating arrangements, that applicant must provide adequate data to substantiate that those seating arrangements provide an equivalent level of safety. The FAA is clarifying the requirements being adopted in Sec. 23.785(g) by stating that for seat orientations other than forward- and aft-facing, the seat and restraint means must be designed to provide a level of occupant protection equivalent to that provided for forward- and aft-facing seating with safety belts and shoulder harnesses installed in normal, utility, and acrobatic category airplanes. Also, in light of the proposal to adopt a commuter category airplane within Part 23 as set forth in Notice No. 83-17 (48 FR 52010, November 15, 1983), the FAA plans to retain the standards in effect on the date of issuance of Notice No. 83-17 respecting seat and shoulder harness requirements for commuter category airplanes.
+
+ One commenter expresses a hope that, concurrent with the installation of shoulder harness at every seat, the manufacturers will make a serious attempt to improve the function and comfort of occupant restraint belts. This commenter contends that many shoulder harness designs are not well matched to the range of human body forms and are extremely uncomfortable, even during short term use. In addition, this commenter states many current designs do not easily allow scanning of the airspace by pilots for potential traffic since the shoulder harness is unnecessarily restrictive and does not allow significant upper torso movement. Another commenter, in opposing the proposal, recommended that the FAA expend an effort in getting a proper aviation restraining device for the pilot and copilot's seats of existing airplanes. The FAA recognizes that improvements could be made over currently installed shoulder harnesses and is, therefore, requiring compliance with the requirements of Sec. 23.785(h) for the flightcrew member seats of all newly manufactured airplanes by adoption of new Secs. 23.2 and 91.33(b)(14).
+
+ One commenter states that the current 40 percent usage rate of shoulder harnesses needs to be improved. This commenter recommends that Sec. 91.14(a)(3) be amended to require each occupant to use that available shoulder harness for takeoff and landing. The FAA agrees since the mere availability of shoulder harnesses does not achieve the purpose of having shoulder harnesses installed. Therefore, the FAA amends Sec. 91.14(a)(3) as suggested by this commenter in order to achieve the level of safety intended by this rulemaking action. This commenter contends that a further improvement to safety could be made if each occupant were required, while en route, to keep the safety belt properly secured about his/her person while seated. The FAA agrees that this is a prudent practice but does not agree that the Federal Aviation Regulations should be amended to make this practice mandatory. Passengers can clearly visualize the need for properly secured restraint devices during takeoffs and landing, but cannot visualize such a need in routine nonturbulent flight. Requiring restraint devices to be secured without a clear and identifiable need would tend to dilute the effectiveness of the requirement of Sec. 91.14(a)(3), as adopted by this rulemaking.
+
+ The previous commenter states that, at the present time, because shoulder harnesses are optional, seats and safety belts in combination or by themselves must accommodate the loads prescribed in Sec. 23.561. Additionally, the commenter contends that since the shoulder harness can transfer large loads directly to the fuselage, the shoulder harness could possibly carry a large portion of the prescribed 9g load in a particular seat/safety belt/shoulder harness system. When the shoulder harness is made mandatory, this commenter states, designers will be in a position to reduce the strength of the seat/safety belt combination and meet the standard on the basis that the combined seat/safety belt/shoulder harness system accommodates the prescribed load. This commenter contends that the seat/safety belt combination, of itself, should continue to be required to withstand the prescribed load of 9g, as should the shoulder harness, and the entire seat/safety belt/shoulder harness system. The FAA agrees that there should not be a lowering of the strength requirements for safety belts regardless of their combination with shoulder harnesses. This amendment does not revise the safety belt strength requirements of Sec. 23.1413, but adds the shoulder harness requirements to the airworthiness standards of Sec. 23.785(g). In response to this comment, the FAA requires each safety belt and shoulder harness to comply with Sec. 23.1413, which must meet the load prescribed in Sec. 23.561(b)(2).
+
+ Two commenters oppose the proposal with regard to the installation of shoulder harnesses in newly manufactured airplanes to be operated in air commerce for compensation or hire, and in scheduled passenger operations pursuant to Part 135 of the FAR. One of these commenters contends that the FAA ignored that part of its petition for rulemaking which stipulated that the shoulder harness installation should not be applicable to airplanes operated in air commerce for compensation or hire under Part 135 with a passenger seating configuration, excluding pilot seats, of nine or less. In response to this comment, the FAA did not ignore that part of the petition which stipulated that shoulder harnesses should not be applicable to airplanes operated pursuant to Part 135. The FAA evaluated the merits of this aspect and concluded that, irrespective of the type of operation, all newly manufactured normal, utility, and acrobatic category airplanes with a passenger seating capacity, excluding pilot seats, of nine or less should have shoulder harnesses installed at all seat positions. Arguments presented by the commenters do not persuade the FAA that the proposal should be changed. In support of Notice No. 85-11, the FAA's report entitled, "Crashworthiness Studies: Cabin, Seat, Restraint, and Injury Findings in Selected General Aviation Accidents", which is cited in the background paragraph of this amendment, concluded that shoulder harnesses enhance the crashworthiness of an airplane, and, thus, reduce the possibility of serious or fatal injuries to occupants of other seats, in addition to those seats occupied by the pilot and copilot or other front seat passenger. The second of these commenters states that the United States regional and commuter airlines currently operate 721 airplanes of nine or less passenger seats in scheduled Part 135 passenger service, of which 219 are single-engine airplanes. In addition, this commenter states that four basic types account for 64 percent of all airplanes of this size: the Cessna 206/207 series, the Cessna 402/404 series, the Piper PA-31 piston engine derivatives, and the Britten-Norman Islander series. The commenter states that these airplanes are equipped by the manufacturers with "airline interior options" and are completely different from the normal interior options purchased by personal and business use customers. It is contended that because the commuter airlines presently operate a substantial number of airplanes of the affected size (as well as larger airplanes) not equipped with shoulder harnesses, these operators do not want to introduce shoulder harnesses to their fleets. It is alleged that this reluctance is not due to a lack of awareness of safety, but rather stems from concern over the confusion and perceptions that will ensue among passengers boarding some commuter airplanes equipped with shoulder harnesses and some without shoulder harnesses. This commenter cites the safety records from the 1984 NTSB statistics as 1.14 accidents per 100,000 flight hours for scheduled Part 135 operations, 4.24 accidents per 100,000 flight hours for on demand air taxi Part 135 operations, and 9.82 accidents per 100,000 flight hours for general aviation operations. The FAA recognizes, as this second commenter states, that the safety record of Part 135 scheduled passenger operations has been substantially better than the safety record for other types of operation with airplanes having nine or less passenger seats. In addition, this commenter contends that airplanes of the same type have a greater utilization rate in both number of flights and number of passengers carried in scheduled Part 135 operations than does the same type of airplane used in personal or business use; however, the high rate of use in Part 135 operations relative to the same airplane models in general aviation use exposes a substantially larger number of people to the unlikely event of an accident. Therefore, the installation of shoulder harnesses at all seats would provide an enhanced level of safety to a larger number of people for these airplanes when used in Part 135 operations. Relative to possible passenger confusion and perceptions among passengers relative to some airplanes having shoulder harnesses and some not having shoulder harnesses, the commenter did not state the nature of the anticipated confusion and perceptions and the FAA does not visualize any effect on the resulting level of safety--only the passengers might ask questions concerning the installation of the shoulder harnesses on new airplanes used in Part 135 operations. This same commenter also contends that the additional maintenance and passenger briefing effort would pose a very large burden on the Part 135 operators. This commenter presents neither information nor data to support this contention. The FAA does not agree that the installation of shoulder harnesses would impose any significant additional maintenance or briefing effort on Part 135 operators as maintenance and briefing efforts are presently required with respect to the safety belts in the affected airplanes.
+
+ One commenter contends that the implementation of the proposal is a gesture in futility disguised as safety and the only results will be more litigation directed at pilots and owners alleging neglect to properly brief passengers. This commenter states that there is no possible way of enforcing the requirements and will be hard pressed to get passengers to do that which they do not have to do on a commercial carrier. The FAA does not agree. This commenter presented no information to support the contention of more litigation or that passengers will not use shoulder harnesses for takeoffs and landings when available. In addition, Sec. 13.1 of the FAR addresses the issue of reporting to the FAA any known violation of any regulation or order issued pursuant to the Federal Aviation Act of 1958, as amended, and Sec. 91.3 places the responsibility for operation of an airplane upon the pilot.
+
+ Another commenter states that the installation of shoulder harnesses in new airplanes is an unnecessary expense and the only thing that the proposal will do is raise the price of airplanes. The FAA does not agree that the installation of shoulder harnesses in new airplanes in an unnecessary expense because of the number of fatalities and serious injuries that will be prevented. With regard to raising the price of airplanes, those manufacturers which are GAMA members are presently installing on a voluntary basis shoulder harnesses at all seat positions and, therefore, no additional expense is being incurred that is not currently present in the price of new airplanes from these firms.
+
+ Secs. 21.17 and 21.101 are amended to reference new Sec. 23.2. These amendments are considered nonsubstantive, but are necessary to ensure that Sec. 23.785, which is being made mandatorily retroactive, will be complied with and incorporated in the type certificate, amended type certificate, or supplemental type certificate, as appropriate. New Sec. 23.2 could affect pending applications for type certificates at the time Sec. 23.2 becomes effective. Also, compliance with Sec. 23.2 for newly manufactured airplanes which were previously type certificated would require an amended type certificate or a supplemental type certificate. Accordingly, reference to new Sec. 23.2 is needed in Secs. 21.17 and 21.101.
+
+ The FAA is deleting the phrase "with a passenger seating configuration, excluding pilot seats, of nine or less" at the end of Sec. 23.785(g), as stated in the notice. This phrase is redundant because of the general applicability of Part 23 with respect to the normal, utility, and acrobatic categories of airplanes, as set forth in Sec. 23.1. New applications for a type certificate pursuant to Part 23 for normal, utility, and acrobatic category airplanes, is limited to airplanes with a passenger seating configuration, excluding pilot seats, of nine or less.
+
+Economic Impact
+
+ The economic impact information provided below was prepared from the Final Regulatory Analysis.
+
+ It is estimated that the cost of a shoulder harness is about $150 to $250 per unit. The relatively high cost in relation to automobile seat belts is because of the low production volume and the requirement to carefully install the shoulder harness to make certain it is properly aligned. The life of a shoulder harness is estimated to be 10 years, depending on use, the timing of seat replacement, and the effects of sunlight on the belting material.
+
+ The benefit of a shoulder harness is the reduction in casualty loss attributable to the shoulder harness, that is, the number of lives and injuries saved by those using the shoulder harnesses who would have been killed or injured if they had not used the shoulder harness.
+
+ There were 480,000 passenger seats in the active general aviation fleet in 1981. There was an average of 607 passenger fatalities per year for the period 1979 through 1981. Therefore, the average fatality rate over the entire general aviation fleet was 126 per 100,000 seats.
+
+ The NTSB has conducted an analysis of 1982 accidents in which the utility of shoulder harnesses was evaluated. In these accidents, 40 percent of the occupants were wearing shoulder harnesses when available, and this was the estimate used for the calculation of benefits in the NPRM. Since this amendment revises the NPRM's proposal to now require each occupant to use the available shoulder harness for takeoff and landing, and because there has been an active education program by the general aviation community and the FAA to promote the use of shoulder harnesses, the FAA now estimates that shoulder harness use will increase to 60 to 80 percent. For the purpose of this analysis, 70 percent will be the estimated usage rate.
+
+ NTSB estimated that about 20 percent of the people killed could have survived if they had been wearing shoulder harnesses. Therefore, shoulder harnesses are likely to save about 17.6 people per 100,000 seats per year (70% of 20% x 126 fatalities per 100,000 seats). The FAA in 1984 valued a life at $670,000. Thus, over a 10 year period, the life of a shoulder harness, there would be a reduction in fatalities valued at $118 million for 100,000 seats. The cost of equipping these seats with shoulder harnesses is $20 million ($200 per seat x 100,000 seats). Since lives will be saved uniformly over the ten year period and the shoulder harness investment will be made in the first year, the benefit to cost ratio is about 3.5 taking into consideration the time value of money (the FAA uses 10%).
+
+ There was only one comment relating to the cost and benefits. One commenter indicates that Part 135 scheduled passenger operations is nine times safer overall than general aviation flying and, therefore, there was not as great a need for shoulder harnesses for this aviation segment. This comment was addressed in a previous section.
+
+ Additional detail relating to the economic impact can be found in the Regulatory Evaluation which has been placed in the docket.
+
+Trade Impact
+
+ This rule would have little or no impact on trade for both U.S. firms doing business in foreign countries and foreign firms doing business in the U.S.
+
+ In the U.S., foreign manufacturers would have to meet U.S. requirements, and, thus, they would gain no competitive advantage. In foreign countries, U.S. manufacturers can be competitive by either installing or not installing shoulder harnesses depending on requirements. There were no comments relating to trade impact.
+
+Regulatory Flexibility Determination
+
+ The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress to ensure that small entities are not unnecessarily and disproportionately burdened by government regulations. The RFA requires agencies to review rules which may have a significant economic impact on a substantial number of small entities.
+
+ The FAA's criteria for a small manufacturer is one with less than 75 employees, a substantial number is one which is not less than 11 and which is more than one-third of the small entities subject to the proposed rule, and a significant impact is one having an annual cost of more than $13,700 in 1984 dollars per manufacturer.
+
+ A review of the aircraft manufacturers indicates that there are less than eleven "small" manufacturers. In addition, members of the General Aviation Manufacturers Association (GAMA) are voluntarily installing shoulder harnesses and, therefore, this amendment will not impact these manufacturers whether large or small.
+
+ There were no comments relating to the initial regulatory flexibility determination.
+
+Conclusion
+
+ The FAA has determined that this document involves regulations which are not considered to be major under the procedures and criteria prescribed by Executive Order 12291. However, this document is considered to be significant under Department of Transportation Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). A copy of the regulatory evaluation prepared for this action is contained in the regulatory docket. A copy may be obtained from the person identified as the contact for further information. Furthermore, the FAA certifies that this regulation will not have a significant economic impact on a substantial number of small entities under the criteria of the Regulatory Flexibility Act since few, if any, small entities are involved. In addition, this final rule will have little or no impact on trade opportunities for U.S. firms doing business overseas or for foreign firms doing business in the United States.
+
+List of Subjects
+
+14 CFR Part 21
+
+Air transportation, Aircraft, Aviation safety, Safety.
+
+14 CFR Part 23
+
+Aircraft, Aviation safety, Safety, Air transportation, Tires.
+
+14 CFR Part 91
+
+Air carriers, Aviation safety, Safety, Aircraft, Aircraft pilots, Air traffic control, Liquor, Narcotics, Pilots, Airspace, Air transportation, Cargo, Smoking, Airports, Airworthiness directives and standards.
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendments: 
+
+ In consideration of the foregoing, the Federal Aviation Administration amends Parts 21, 23 and 91 of the Federal Aviation Regulations (14 CFR Parts 21, 23, and 91) as follows:
+
+PART 21 - CERTIFICATION PROCEDURES FOR PRODUCTS AND PARTS
+
+1. The authority citation for Part 21 continues to read as follows:
+
+Authority: 49 U.S.C. 1344, 1348(c), 1352, 1354(a), 1355, 1421 through 1431, 1502, 1651(b)(2), 42 U.S.C. 1857f-10, 4321 et. seq.; E.O. 11514; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983).
+
+Sec. 21.17 [Amended]
+
+2. Sec. 21.17 is amended by inserting "Sec. 23.2," immediately before "Sec. 25.2" in paragraph (a).
+
+Sec. 21.101 [Amended]
+
+3. Sec. 21.101 is amended by inserting "Sec. 23.2," immediately before "Sec. 25.2" in paragraph (a).
+
+PART 23 - AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+1. The authority citation for Part 23 continues to read as follows:
+
+Authority: 49 U.S.C. 1344, 1354(a), 1355, 1421, 1423, 1425, 1428, 1429, and 1430; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983).
+
+2. A new Sec. 23.2 is added to Part 23 to read as follows:
+
+Sec. 23.2 Special retroactive requirements.
+
+Notwithstanding Secs. 21.17 and 21.101 of this chapter and irrespective of the type certification basis, each normal, utility, and acrobatic category airplane having a passenger seating configuration, excluding pilot seats, of nine or less, manufactured one year after December 12, 1985, or any such foreign manufactured airplane for entry into the U.S. must meet the requirements of Sec. 23.785(g) and (h). For the purpose of this paragraph, the date of manufacture is:
+
+(a) The date the inspection acceptance records, or equivalent, reflect that the airplane is complete and meets the FAA Approved Type Design Data; or
+
+(b) In the case of a foreign manufactured airplane, the date the foreign civil airworthiness authority certifies the airplane is complete and issues an original standard airworthiness certificate, or the equivalent in that country.
+
+3. Sec. 23.785 is amended by adding the words "and shoulder harness" between the words "belts" and "fastened" within the parenthetical phrase of the first sentence of paragraph (j) and by revising paragraph (g) to read as follows:
+
+Sec. 23.785 Seats, berths, safety belts, and harnesses.
+
+* * * * *
+
+(g) Each occupant must be protected from serious head injury when subjected to the inertia forces prescribed in Sec. 23.561(b)(2) for normal, utility, and acrobatic category airplanes, by a safety belt and shoulder harness that is designed to prevent the head from contacting any injurious object for each forward and aft-facing seat. For other seat orientations, the seat and restraint means must be designed to provide a level of occupant protection equivalent to that provided for forward and aft-facing seats with safety belts and shoulder harnesses installed.
+
+* * * * *
+
+PART 91 - GENERAL OPERATING AND FLIGHT RULES
+
+1. The authority citation for Part 91 continues to read as follows:
+
+Authority: 49 U.S.C. 1301(7), 1303, 1344, 1348, 1352 through 1355, 1401, 1421 through 1431,1471, 1472, 1502, 1510, 1522, and 2121 through 2125; Articles 12, 29, 31 and 32(a) of the Convention on International Civil Aviation (61 Stat. 1180); 42 U.S.C. 4321 et. seq.; E.O. 11514; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983).
+
+Sec. 91.14 [Amended]
+
+2. Sec. 91.14 is amended by revising the title of Sec. 91.14 to read as follows: "Use of safety belts and shoulder harnesses"; by adding the words "and shoulder harness, if installed", following the words "belt" in paragraph (a)(1); by adding the words "and shoulder harness, if installed" following the word "belt" in paragraph (a)(2); and by adding the words "and shoulder harness, if installed," following the word "belt" in paragraph (a)(3).
+
+3. A new paragraph (b)(14) is added to Sec. 91.33 to read as follows:
+
+Sec. 91.33 Powered civil aircraft with standard category U.S. airworthiness certificates, instrument and equipment requirements.
+
+* * * * *
+
+(b) * * *
+
+(14) For normal, utility, and acrobatic category airplanes with a seating configuration, excluding pilot seats, of nine or less, manufactured after December 12, 1986, a shoulder harness for --
+
+(i) Each front seat that meets the requirements of Sec. 23.785(g) and (h) of this chapter in effect on December 12, 1985;
+
+(ii) Each additional seat that meets the requirements of Sec. 23.785(g) of this chapter in effect on December 12, 1985.
+
+* * * * *
+
+ 
+        
+FOOTER: Issued in Washington, DC, on November 6, 1985.
+
+Donald D. Engen,
+
+Administrator.
+
+[FR Doc. 85-26923 Filed 11-07-85; 1:34 am]
+
+BILLING CODE 4910-13-M
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 85-11; Issued on 04/28/85.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

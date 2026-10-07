@@ -1,0 +1,1703 @@
+CFR NPRM: Part 23|Part 25|Part 27|Part 29|Part 33
+
+ 
+ 
+        
+CITATION: [Federal Register: November 20, 1980 (Volume 45, Number 226)]
+
+ 
+        
+PAGE NUMBER: [Page 76872]
+
+ 
+        
+DOCKET NUMBER: 16919
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29|Part 33
+
+ 
+        
+SUBJECT: Aircraft Engine Regulatory Review Program; Aircraft Engine and Related 
+Powerplant Installation Proposals
+
+ 
+        
+ACTION: Notice of proposed rulemaking (NPRM)
+
+ 
+        
+SUMMARY: 
+
+ This notice proposes to upgrade the airworthiness standards applicable to the type certification of aircraft engines and of aircraft with respect to engine installations. In general, the substance of the notice is based on proposals discussed at the Aircraft Engine Regulatory Review Conference held January 16-19, 1978. The proposed changes implement the President's regulatory reform program by simplifying a number of technical requirements, by eliminating unnecessary rules where appropriate, and by removing administrative burdens on regulated persons and the FAA through amendment of regulations from which exemptions have been granted. The proposals update and modernize technical requirements to reflect engineering advances in the state of the art, and take into account accumulated service experience and recommendations of the National Transportation Safety Board. 
+
+
+
+ 
+        
+DATES: Comments must be received on or before February 18, 1981.
+
+ 
+        
+ADDRESSES: Comments on this proposal may be mailed in duplicate to: Federal Aviation Administration, Office of Chief Counsel, Attention: Rules Docket (AGC-204), Docket No. 16919, 800 Independence Avenue, SW., Washington, D.C. 20591 or delivered in duplicate to : Room 918, 800 Independence Avenue, SW., Washington, D.C. 20591. Comments delivered must be marked: Docket No. 16919. Comments may be inspected at Room 918 between 8:30 a.m. and 5:00 p.m. 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Marvin J. Walker, Regulatory Review Branch (AVS-22),
+
+Safety Regulations Staff, Associate Administrator for Aviation Standards, Federal Aviation Administration,
+
+800 Independence Avenue SW., Washington, D.C. 20591. Telephone: (202) 755-8714.
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ Comments Invited 
+
+ Interested persons are invited to participate in the making of the proposed rule by submitting such written data, views, or arguments as they may desire. Comments relating to the environmental, energy or economic impact that might result from adoption of proposals contained in this notice are invited. Substantive comments should be accompanied by cost estimates. Communications should identify the regulatory docket or notice number and be submitted in duplicate to the address specified above. All communications received on or before February 18, 1981, will be considered by the Administrator before taking action on the proposed rule. The proposals contained in this notice may be changed in the light of comments received. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report summarizing each substantive public contact concerned with this proposal will be filed in the Rules Docket. Commenters wishing acknowledgement of mailed comments should enclose a stamped, self-addressed postcard. 
+
+ Each proposal in this notice is numbered separately. Persons submitting comments should refer to proposals by these numbers, or by the sections of the regulations to which they relate. Reference to conference agenda proposal numbers (or agenda item numbers) should not be made without also referring to the corresponding proposal numbers used in this notice. 
+
+ Availability of Additional Copies of Notice 
+
+ Any person may obtain a copy of this notice of proposed rule making (NPRM) by submitting a request to the Federal Aviation Administration, Office of Public Affairs, Attn: Public Information Center, APA-430, 800 Independence Avenue SW., Washington, D.C. 20591; Telephone: (202) 426-8058. Each communication must identify the notice number of this NPRM. Persons interested in being placed on a mailing list for future NPRM's should also request a copy of Advisory Circular No. 11.2 which describes the application procedure.
+
+ 
+
+ Background 
+
+ Part 33 of the Federal Aviation Regulations, which set forth airworthiness standards for aircraft engines, became effective February 1, 1965. As adopted, Part 33 was essentially a nonsubstantive recodification of previous Part 13 of the Civil Air Regulations.
+
+ The first significant revision of Part 33 occurred in Amendment 33-6, effective October 31, 1974. As to its substantive technical content, that amendment had a three-fold objective. First, Amendment 33-6 updated engine and related aircraft airworthiness standards in recognition of the changing interface between engine manufacturers and airframe designers. In this connection, the revised standards covered such areas as engine ratings and operating limitations, fire prevention, accessory attachments and instrument connection, and systems for hydraulics, bleed air, fuel, and lubrication. The revisions resulting from these changes have proved to be technically acceptable. Second, Amendment 33-6 incorporated a number of requirements applicable to engines intended for use in supersonic airplanes. Third, Amendment 33-6 imposed stricter type certification standards on new engines than had previously been in effect. These standards included requirements concerning, among other things, low cycle fatigue, engine mounting, rotor design and tests, foreign object ingestion, windmilling, and induction system icing. 
+
+ An indication for need of a Review became evident from the duplicate requirements placed on airframe and engine manufacturers. Subsequent to the adoption of Amendment 33-6, aircraft and engine developments have indicated that a number of items formerly supplied by airframe manufacturers are now furnished by engine manufacturers as integral parts of the engines. Included in this class are items such as fuel strainers and filters, oil tanks, oil strainers and filters, engine Controls, lines, fittings, and components, and shutoff means. From the regulatory standpoint, in many cases, it is desirable to relieve the airframe manufacturer from a particular requirement if the engine manufacturer has already complied. Because many similar standards currently apply to both airframe and engine manufacturers, the Review is intended to revise such regulations to allow compliance by either the engine or airframe manufacturer, but not to require compliance by both. The following table cross-references the rules which would be amended to eliminate overlapping requirements: 
+
+Aircraft certification section1 Subject
+
+ Engine certification section2 
+
+xx.907 Fuel strainer or filter 33.67 
+
+xx.1013 Oil tanks 33.71 
+
+xx.1015 Oil tank tests 33.71 
+
+xx.1019 Oil strainer or filter 33.71 
+
+xx.1143 Engine controls 33.67 
+
+xx.1183 Lines, fittings and components 33.17 
+
+xx.1189 Shutoff means 33.71 
+
+1 Parts 23, 25, 27 and 29
+
+2 Part 33
+
+ A further indication of the need for a review was a belief that many of these rules were unnecessarily restrictive and did not allow alternate methods that had previously been proved satisfactory through many hours of safe flight. Also, the need for an Engine Regulatory Review became evident from the number of exemptions issued in this area in which it was found that many of the rules could be broadened or eased without derogating safety. 
+
+ A further objective in implementing a Review Program was to solicit proposals for change from all knowledgeable interested persons. The FAA has welcomed and benefited from the participation of a number of aviation trade associations, foreign airworthiness authorities, manufacturers labor unions, technical society committees, an aviation trade journal, individuals, and other U.S. Government agencies. This diverse group with its large fund of expertise has made significant worthwhile contributions to all phases of the Review Program to date. 
+
+ On June 9, 1977, the FAA gave notice of an Aircraft Engine Regulatory Review Program and invited interested persons to submit proposals for consideration during a forthcoming conference (Notice 77-8; 42 FR 29688; June 9, 1977). In that notice the FAA announced that it would prepare a conference agenda containing a compilation of the proposals submitted and other information on the conference arrangements. 
+
+ In response to Notice 77-6, the FAA received 210 proposals, of which 134 were placed on the conference agenda. The remaining 76 proposals were excluded because they fell outside the scope of the review program, or for other reasons outlined in Notice 77-6. 
+
+ On October 17, 1977, the FAA announced that the Aircraft Engine Regulatory Review Conference would be held in Los Angeles, California, January 16-19, 1978, and that the conference agenda was available (Notice 77-6A; 42 FR 55474, October 17, 1977). The conference subsequently convened for four days and remained in session until each proposal on the agenda had been discussed. Over 100 individuals from outside the FAA attended the conference representing the full range of interest groups that had earlier submitted proposals. A transcript of the discussions has been placed in the docket. 
+
+Overview of Proposals 
+
+ The conference agenda, the conference discussions, and additional written material submitted at the conference by attendees, which has been entered in the docket, have provided the basis for this notice of proposed rule making. 
+
+ A number of proposals contained in the conference agenda are not included in this notice. These proposals fall into two general categories: (1) Those withdrawn by their proponent; and (2) those removed from further consideration by FAA under the Aircraft Engine Regulatory Review Program. Appendix I of this notice lists the proposals in the first category and Appendix II lists those in the second category. Reasons are given for the removal of each proposal listed in Appendix II. To the extent, practicable, the airworthiness standards in the aircraft certification parts (Parts 23, 25, 27 and 29) should be consistent throughout those parts and should also be consistent with related standards in the engine certification part (Part 33). To achieve that consistency, the FAA has added several proposals which are considered necessary to parallel certain proposals in the conference agenda. 
+
+ To avoid unnecessary repetition, a proposal developed to achieve consistency may not be set forth in its entirety if it is substantively identical to another proposal that is expressly set forth in this notice. In such an instance, a short-form proposal is used which refers to the express proposal. Where a short-form proposal is used, however, it may be necessary (if the proposal is adopted as a final rule) to change paragraph designations, cross-references, or aircraft terminology (e.g., "airplane" to "rotorcraft" or vice versa) that appear in the express proposal. 
+
+ In addition to minor editorial and other nonsubstantive changes, this notice contains a number of proposals which were not on the conference agenda. Such proposals include the following: (1) A Part 23 requirement Secs. 23.903 (a) and (b) that design precautions be taken to protect such aircraft in the same manner as transport category aircraft, because of the increased use of turbine engines in Part 23 aircraft and the persistent incidence of uncontained rotor failures; (2) An amendment to Sec. 23.975 to specify that for all reciprocating engine fuel systems, including those with fuel injection, a vapor return line from the carburetor or fuel injection pump to the vapor space of the fuel tank be made mandatory; (3) Revisions to Secs. 25.939 and 33.65 that were deferred from Notice 75-31 (40 FR 29410; July 11, 1975) calling for determination of surge and stall characteristics; (4) Amendments to Secs. 23.903(a), 25,993(a) and 25.1091(e) to extend the foreign object ingestion criteria of Sec. 33.77 to portions of aircraft induction systems such as splitters and liners which are vulnerable to impact damage and to amend and move the foreign object ingestion requirements for the engines to the appropriate sections on engines; (5) Expand the foreign object ingestion tests specified in Sec. 33.77 to include acceleration and deceleration in rainfall conditions, and to set a time requirement on the maintenance of power or thrust limits after bird ingestion; and (6) An amendment to Sec. 33.71 to require the engine manufacturer to design for the effect of negative acceleration on engine lubrication, with due regard to the anticipated service of the engine. 
+
+ In addition to the foregoing, this notice contains one other set of proposals that were not included in the Conference Agenda. As a result of general aviation accidents caused by fuel starvation, the National Transportation Safety Board (NTSB) has recommended an amendment to Part 23 requiring that fuel tank selector valves incorporate devices to prevent movement to "off" positions without separate lever-release action by the pilot (Safety Recommendation A-79-72 issued September 7, 1979). The NTSB has not recommended any changes with respect to fuel selection valves on currently operating airplanes. The FAA concurs and is proposing changes to Sec. 23.995 that would carry out the intent of the recommendation. 
+
+ In addition, the NTSB, following its investigation of an accident involving bird ingestion, recommended that there be a requirement for engine tests with an increased number of ingested birds consistent with the numbers and sizes of birds encountered during service experience. The FAA has examined the available bird ingestion records of the NTSB, the FAA's own records, and information supplied by engine manufacturers. The records do not provide sufficient information on which to base stricter bird ingestion requirements at this time. The FAA is also informed by the Aerospace Industries Associates (AIA) that a committee established by that organization has independently reached the same conclusion. In view of the present lack of basis for a rule change, the FAA is considering studies to ascertain the number and sizes of birds being ingested, and airport operators are implementing programs to reduce bird populations at airports. 
+
+ While a great majority of the proposals being made are relieving in nature or provide clarification, there are a few that impose stricter requirements. In this category, in addition to the fuel tank selector valve discussed above, are the following, some of which have been mentioned previously in other categories: A new requirement, Sec. 23.903(b), would be placed on Part 23 airplane manufacturers to take design precautions to protect the airplane from uncontained rotor and rotor blade failures. A parallel requirement in Sec. 33.19 would require engine manufacturers to define the effects of high energy broken rotor blade fragments that could escape from the engine case. 
+
+ In another area, a new provision for transport category airplanes, Sec. 25.939(b) and a similar one for engines, Sec. 33.65, would require tests or analyses to determine the effects of controlled variables such as air flow and fuel flow on surge and stall characteristics. These determinations will establish operating margins to enable flight crews to avoid surge and stall conditions that could cause engine malfunction or damage. 
+
+ Sec. 33.67 would be revised to require demonstration of fuel filter protective capability and capacity. A new Sec. 33.71(f) would require that integral lubrication systems be designed to function in the negative acceleration portion of transport category airplane flight envelopes to help ensure positive lubrication during all flight regimes. 
+
+ Finally, with respect to foreign object ingestion, Sec. 33.77 would be amended to require the 4- pound bird test while a new Sec. 33.94 would require tests for containment of critical broken compressor, fan, and turbine blades. 
+
+ All of the foregoing proposals that impose stricter requirements are discussed in more detail under the separate section headings that follow. 
+
+ In addition to the recommendations of the NTSB, the FAA has considered the service experience of operators in determining applicability of the proposed rules. Records of service experience available to the FAA through its Service Difficulty Reporting Program do not indicate a need for the proposed requirements be made retroactive to operating aircraft. As indicated above, those few proposals that would apply more stringent standards impose additional design or test requirements on newly developed products to show engine integrity, prove engine containment capability, improve efficiency through better performance, and make aircraft structures less susceptible to engine fire and rotor or rotor blade failure. Such test and design requirements are appropriate for new engines and aircraft to help ensure an adequate level of safety; however, these requirements are not applicable to the currently operating fleet. Unsafe conditions that infrequently appear in connection with engines and related parts of existing aircraft are adequately dealt with by airworthiness directives to correct specific defects. On the other hand, the more stringent proposals of those contained in this notice are in the nature of proving tests or design precautions to enhance the safety of future propulsion systems. Therefore, the proposals do not contain retrofit requirements. 
+
+ Changes to Secs. 23.901, 23.905, 23.1183, 25.901, 25.905, 25.1183, 27.1183, and 29.1183 are proposed which recognize the approved utilization in service of engines and propellers certificated under rules that preceded current Parts 33 and 35, respectively. 
+
+Economic Impact 
+
+ A majority of the proposals yield cost benefits by eliminating unnecessarily stringent design requirements, by simplifying and clarifying existing rules, and by eliminating redundant tests without compromising safety. It is anticipated that the proposed amendment will result in savings to the private sector, to consumers, and to the governmental sector by lowering design, testing, and administrative costs incurred in the type certification of engines. 
+
+ The foregoing cost savings are partially offset by a slight increase in design costs for new products resulting from the additional design, analysis, or test requirements identified above. One requirement in this category is proposed new Sec. 33.94 which requires an engine test for blade containment, with the possibility of major damage to at least one engine and a consequent measurable cost increase. However, it is believed that that this test for a typical engine for a transport category airplane would represent only a fraction of 1 percent of the total development cost of a new engine. Since the FAA does not have access to information needed to prepare detailed cost impact estimates for these requirements, commenters are requested to provide such information where appropriate, particularly where the requirement will have sufficient impact on the overall cost of the development program of the cost of manufacture to appreciably affect unit price. Commenters are requested also to identify those requirements that would have minimal cost impacts. Commenters are encouraged to avoid generalities and to address specific changes such as the following: 
+
+(a) The design precautions on Part 23 airplanes taken to protect them from uncontained rotor and rotor blade failures. 
+
+(b) The requirement to define the energy levels and trajectories of blade fragments. 
+
+ In addition to the total cost of each new requirement, the effect of this impact on unit price and consequently on the aircraft price, the FAA needs to learn - 
+
+(a) How the more stringent requirements can be demonstrated, and at what cost. 
+
+(b) Whether there are better methods for achieving the objectives of the rules and rule changes presented in this notice. Information received from commenters will be valuable to the FAA in considering the proposals, and in preparing the regulatory evaluation required under Executive Order 12044 for any final rule based on this notice. 
+
+ The preliminary impact assessment of these proposals is more fully set forth in the draft regulatory evaluation included in the docket for this rulemaking action. The FAA invites specific comments as to the economic aspects and costs benefit considerations of this proposal. 
+
+ The proposals are part of the ongoing regulatory program of the FAA to upgrade type certification safety standards consistent with the advancing state of the art of aircraft and engine design. The rules proposed are fully compliant with the President's directive (Executive Order 12044) that existing regulations be evaluated periodically under criteria that consider the degree to which technology, economic conditions, and other factors have changed in the subject area affected by the regulations. 
+
+
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment 
+
+ In consideration of the foregoing, it is proposed to amend Parts 23, 25, 27, 29, and 33 of the Federal Aviation Regulations (14 CFR Part 23, 25, 27, 29, and 33) as follows: 
+
+PART 23 - AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES 
+
+1. By revising Sec. 23.901(d) to read as follows: 
+
+Sec. 23.901 Installation. 
+
+* * * * *
+
+(d) Each turbine engine powerplant must be constructed, arranged and installed to provide continued safe operation without a sustained hazardous loss of power or thrust for a period of 3 minutes when being operated in rainfall with an ambient liquid water content of not less than 4 percent by weight. 
+
+* * * * *
+
+Explanation: The proposed revision clarifies existing Sec. 23.901(d), which requires a determination that installation effects do not result in any deterioration of powerplant rain ingestion tolerance demonstrated by the engine in compliance with proposed Sec. 33.77(c). 
+
+2. By revising Secs. 23.903 (a) and (b) to read as follows: 
+
+Sec. 23.903 Engines. 
+
+(a) Engine type certificate. 
+
+(1) Each engine must have an approved type certificate. 
+
+(2) Each turbine engine must either - 
+
+(i) Comply with Sec. 33.77 of this chapter, in effect on October 31, 1974, or as subsequently amended; or 
+
+(ii) Be shown to have a foreign object ingestion service history in similar installation locations which has not resulted in any unsafe conditions. (b) Turbine engine installations. For turbine engine installations - 
+
+(1) Design precautions must be taken to minimize the hazards to the airplane in the event of an engine rotor failure or of a fire originating inside the engine which burns through the engine case. 
+
+(2) The powerplant systems associated with engine control devices, systems, and instrumentation must be designed to give reasonable assurance that those operating limitations that adversely affect turbine rotor structural integrity will not be exceeded in service. 
+
+* * * * *
+
+Explanation: The language of Sec. 23.903(a) would be modified to require an "approved type certificate" for an engine rather than a type certificate issued under Part 33 only. IT is intended that the engine be considered "approved" if certificated under Part 13 of the Civil Air Regulations (CAR) or using the procedures of Sec. 21.29 as well as Part 33 of the Federal Aviation Regulations (FAR). It also makes clear that in any of the above cases, a turbine engine must either meet the foreign object ingestion (F.O.I.) requirements of Sec. 33.77, or be a previously certificated engine which has an acceptable F.O.I. service history. This requirement was moved from Sec. 25.1091 since it pertains to engines but not aircraft induction systems. A substantively identical revision is proposed for Sec. 25.903(a). Although turbine engine manufacturers are making every effort to reduce the probability of uncontained rotor failures, service experience shows that uncontained rotor failures continue to occur. Since many different failure modes exist as indicated in Society of Automotive Engineers Airspace Information Report AIR 1537, "Aircraft Engine Containment," October 1977, it appears unlikely that uncontained rotor failure can be completely eliminated. Failures have resulted in high velocity fragment penetration of fuel tanks, adjacent structures, fuselage, and of other engines. Therefore, it is proposed that Part 23 require aircraft design precautions be taken to protect the aircraft from such events as is currently required by Sec. 25.903(d). 
+
+Ref: Proposals 103 and 104; Agenda Item E-32. 
+
+3. By revising Sec. 23.905(a) to read as follows: 
+
+Sec. 23.905 Propellers. 
+
+(a) Each propeller must have an approved type certificate. 
+
+* * * * *
+
+Explanation: This clarification of Sec. 23.905(a) recognizes that propellers may be utilized in service which were type certificated under CAR 14 or using the procedures of Sec. 21.29 as well as those certificated under Part 35, which was recodified from CAR 14. A substantively identical revision is proposed for Sec. 25.905(a). 
+
+4. By revising Sec. 23.975(b) to read as follows: 
+
+Sec. 23.975 Fuel tank vents and carburetor vapor vents. 
+
+* * * * *
+
+(b) Each carburetor with vapor elimination connections and each fuel injection engine employing vapor return provisions must have a separate vent line to lead vapors back to the vapor space of one of the fuel tanks. If there is more than one fuel tank, and it is necessary to use these tanks in a definite sequence for any reason, the vapor vent line must lead back to the fuel tank to be used first, unless the relative capacities of the tanks are such that return to another tank is preferable. 
+
+* * * * *
+
+Explanation: The present rule has been interpreted as being applicable only to those engines using carburetors. The argument presented for not providing vents for fuel injection engines is that those engines do not employ carburetors. The FAA consider fuel injection "pump" as a special form of carburetion and that separate venting of the fuel system for those engines must be provided. While some arrangements have been used that vent the vapor through a supply line into the fuel remaining in the tank, it is concluded that a separate vapor return to the vapor space of the fuel tank should be required. This revision would clarify the existing rule. 
+
+5. By revising Sec. 23.994 to read as follows: 
+
+Sec. 23.994 Fuel system components. 
+
+Fuel system components in an engine nacelle or in the fuselage must be protected from damage which could result in spillage of enough fuel to constitute a fire hazard as a result of a wheels-up landing on a paved runway. 
+
+Explanation: See the explanation for proposed Sec. 25.994 
+
+Ref: Proposal 6; Agenda Item A-1. 
+
+6. By adding a new Sec.23.995(g) to read as follows: 
+
+Sec. 23.995 Fuel valves and controls. 
+
+* * * * *
+
+(g) Fuel tank selector valves must -
+
+(1) Require a separate and distinct action to place the selector in the "OFF" position; and 
+
+(2) Have the tank selector positions located in such a manner that it is impossible for the selector to pass through the "OFF" position when changing from one tank to another. 
+
+Explanation: Incidents and accidents have occurred as a result of fuel tank selector valves being moved to a position which was not intended, such as an intermediate position between tanks, between the "OFF" positions and a tank position, or in the "OFF" position when a tank selection position was intended. A new requirement for separate and distinct action, together with a specification that the "OFF" position of the fuel selector valve be put at the extremes of its movement, would prevent undesired positioning of the valve. This proposal is related to National Transportation Safety Board Recommendation No. A-79-72, which was received after the conference. 
+
+Sec. 23.997 [Amended] 
+
+7. By amending Sec. 23.997 in a manner substantively identical to that proposed for Sec. 25.997. 
+
+Explanation: See the proposed explanation for Sec. 25.997/
+
+Ref: Proposals 6 and 64; Agenda Items A-1 and E-26. 
+
+3. By adding a new lead-in, ahead of Sec. 23.1013(a), to read as follows: 
+
+Sec. 23.1013 Oil tanks. 
+
+Except for oil tanks provided and approved as part of the engine, the applicant must show that each oil tank meets the following: 
+
+* * * * *
+
+Explanation: See the explanation for proposed Sec. 25.1013. Ref: Proposal 9; Agenda Item A-1. 
+
+9. By revising the lead-in to Sec. 23.1015 to read as follows: 
+
+Sec. 23.1015 Oil tank tests. 
+
+Each oil tank not provided and approved as part of the engine must be tested under Sec. 23.965, except that - 
+
+* * * * *
+
+Explanation: See the explanation for proposed Sec. 25.1015. Ref: Proposal 10; Agenda Item A-1. 
+
+Sec. 23.1019 [Amended] 
+
+10. By amending Sec. 23.1019 in a manner substantively identical to that proposed for Sec. 25.1019. 
+
+Explanation: See the explanation for proposed Sec. 25.1019. 
+
+Ref: Proposals 12, 93 and 94; Agenda Items A-1 and E-29. 
+
+11. By revising Sec. 23.1021 to read as follows: 
+
+Sec. 23.1021 Oil system drains. 
+
+A drain (or drains) must be provided to allow safe drainage of the oil system. Each drain must - 
+
+(a) Be accessible; and 
+
+(b) Have manual or automatic means for positive locking in the closed position. 
+
+Explanation: See the explanation for proposed Sec. 33.71(d). Ref: Proposal 98; Agenda Item E-30. 
+
+12. By revising Sec. 23.1093(b)(2) to read as follows: 
+
+Sec. 23.1093 Induction system icing protection. 
+
+* * * * *
+
+(b) * * * 
+
+(2) Each turbine engine must idle for 30 minutes on the ground, with the air bleed available for engine icing protection at its critical condition, without adverse effect, in an atmosphere that is at a temperature between 15° and 30° F (between -9° and -1° C) and has a liquid water content not less than 0.3 grams per cubic meter in the form of drops having a mean effective diameter not less than 20 microns, followed by a momentary operation at takeoff power or thrust. During the 30 minutes of idle operation, the engine may be run up periodically to a moderate power or thrust setting in a manner acceptable to the Administrator. 
+
+* * * * *
+
+Explanation: See the explanation for proposed Sec 33.68(b). 
+
+Ref: Proposals 2, 3, and 4; Agenda Item E-27. 
+
+13. By redesignating present Sec. 23.1143(e) as 23.1143(f), and be adding a new Sec. 23.1143(3) to read as follows: 
+
+Sec. 23.1143 Engine controls. 
+
+* * * * *
+
+(e) For each fluid injection (other than fuel) system and its controls not provided and approved as part of the engine, the applicant must show that - 
+
+(1) The flow of the injection fluid is automatically controlled with relation to the amount of power produced by the engine; and 
+
+(2) There is a separate control for the fluid injection pumps. 
+
+* * * * *
+
+Explanation: See the explanation for proposed Sec. 25.1143(d). 
+
+Ref: Proposal 17; Agenda Item A-1. 
+
+Sec. 23.1163 [Amended] 
+
+14. By revising Sec. 23.1163(a) in a manner substantively identical to that proposed for Sec 25.1163(a). 
+
+Explanation: See the explanation for proposed Sec. 33.25. 
+
+Ref: Proposals 61 and 62; Agenda Item B-15. 
+
+15. By substituting "25-quart" in place of "20-quart" in Sec. 23.1183(a), and by revising the title and paragraph (b)(1) of Sec.23.1183 to read as follows: 
+
+Sec. 23.1183 Lines, fittings, and components. 
+
+* * * * *
+
+(b) * * * 
+
+(1) Lines, fittings, and components already approved as part of a type certificated engine; and 
+
+* * * * *
+
+Explanation: This revision exempts components, as well as lines and fittings that have been approved as part of a type certificated engine, from fireproofing and shielding requirements of this part. The basis of the referenced engine type certification is changed to include other valid standards in addition to Part 33. (See the proposal for Sec. 23.903). 
+
+ The maximum capacity for integral oil sumps on reciprocating engines which need not be fireproof under this part is raised from 20 quarts to 25 quarts to facilitate engine design without affecting safety. (See the proposal for Sec. 33.17).
+
+Ref: Proposals 26, 35, and 54; Agenda Items A-1 and B-11. 
+
+16. By adding the phrase "or located in areas not subject to engine fire conditions" to the present sentence of Sec. 23.1189(b)(2) and by revising Sec. 23.1189(a)(1) to read as follows: 
+
+Sec. 23.1189 Shutoff means. 
+
+a) * * * 
+
+(1) Each engine must have means to shut off or otherwise prevent hazardous quantities of fuel, oil, deicing fluid, and other flammable liquids from flowing into, within, or through any engine compartment, except in lines, fittings, and components forming an integral part of an engine. 
+
+* * * * *
+
+Explanation: Sec. 23.1189 is revised to clarify the requirements for shutoff means in terms of the vulnerability of oil system components to engine fire sources, and to ensure that fittings and components are considered along with lines that form an integral part of an engine when determining the need for shutoff means, since they are in the same category when installed.
+
+Ref: Proposals 26, 35, and 36; Agenda Item A-1. 
+
+PART 25 - AIRWORTHINESS STANDARDS; TRANSPORT CATEGORY AIRPLANES 
+
+17. By revising Sec. 25.33(a)(2) to read as follows: 
+
+Sec. 25.33 Propeller speed and pitch limits. 
+
+(a) * * * 
+
+(2) Compliance with the performance requirements of Secs. 25.101 through 25.125. 
+
+* * * * *
+
+Explanation: Reference Secs. 25.45 through 25.75 is incorrect in current Sec. 25.33(a)(2). Those sections, which specified performance requirements for reciprocating engine powered airplanes only, were deleted by Amendment 25-38 (Airworthiness Review Program Amendment No. 3 Miscellaneous Amendments) The proposed revision corrects this error by applying the more modern performance standards to all transports category airplanes, as intended by Amendment 25-38. 
+
+Sec. 25.697 [Amended] 
+
+18. By revising Sec. 25.697(a) by deleting the phrase "established under Sec. 25.47" at the end of the first sentence and inserting in its place the phrase "established under Secs. 25.101(a) and (f)." 
+
+Explanation: See the explanation for proposed Sec. 25.33(a)(2). 
+
+Sec. 25.903 [Amended] 
+
+19. By revising Sec. 25.9039a) in a manner substantively identical to Sec. 23.903(a). Explanation: See the explanation for proposed Sec. 25.903(a). Ref: Proposals 103 and 104; Agenda Item E-32. 
+
+Sec. 25.905 [Amended] 
+
+20. By revising Sec 25.905(a) in a manner substantively identical to Sec. 23.905(a). Explanation: See the explanation for proposed Sec. 23.905(a). 
+
+21. By adding a new Sec. 25.939(b) in place of the reserved section to read as follows: 
+
+Sec. 25.939 Turbine engine operating characteristics. 
+
+* * * * *
+
+(b) The automatic scheduling of controlled variables, such as fuel flow and those introduced by variable geometry systems, must be verified by quantitative test, analysis, or a combination of both, to show that the probability of engine surge and stall will be minimized, and that acceleration, deceleration, and flameout margins will be adequate within the operating limitations of the airplane. 
+
+* * * * *
+
+Explanation: Current engine and airplane certification provisions are inadequate to indicate the susceptibility of modern turbine engine installations to in-service operating characteristic problems. This proposal and the proposal for Sec. 33.65 call for additional investigations to provide information on engine stall and surge margins in quantitative terms, both before and after installation. The proposal also specifies that it be shown that the probability of surge and stall is minimized. An Advisory Circular will be issued to describe acceptable procedures for meeting these requirements. 
+
+22. By revising Sec 25.961(a)(4)(i) to read as follows: 
+
+Sec. 25.961 Fuel system hot weather operation. 
+
+(a) * * * 
+
+(4) The climb airspeed may not exceed - (i) For reciprocating engine powered airplanes, the maximum airspeed, established for climbing from takeoff to the maximum operating altitude with the airplane in the following configuration: 
+
+(A) Landing gear retracted.
+
+(B) Wing flaps in the most favorable position. 
+
+(C) Cowl flaps (or other means of controlling the engine cooling supply) in the position that provides adequate cooling in the hot day condition. 
+
+(D) Most unfavorable center of gravity position. 
+
+(E) Engine operating within the maximum continuous power limitations. 
+
+(F) Maximum takeoff weight; and 
+
+* * * * *
+
+Explanation: In view of the earlier deletion of the performance requirements for reciprocating engine powered transport category airplanes, including Sec. 25.65, it is necessary that the climb conditions be specified. See the proposal and explanation for Sec. 25.33(a)(2). 
+
+23. By revising Sec. 25.994 to read as follows: 
+
+Sec. 25.994 Fuel system components. 
+
+Fuel system components in an engine nacelle or in the fuselage must be protected from damage which could result in spillage of enough fuel to constitute a fire hazard as a result of a wheels-up landing on a paved runway. 
+
+Explanation: Present Sec. 25.994 requires protection from "damage which could cause the release of fuel as a result of a wheels-up landing." This provision is restrictive and arbitrary in two respects: 
+
+(1) Release of minute quantities of fuel would not represent a fire hazard; and 
+
+(2) the landing terrain is not specified, making compliance difficult or impossible. The language in the proposal clarifies the intent and is consistent with Sec. 25.721. A substantively identical revision is proposed for Sec. 23.994. 
+
+Ref: Proposal 6; Agenda Item A-1. 
+
+24. By deleting the term "and the mesh" from Sec. 25.997(d), and by revising Sec. 25.997 lead-in and Sec. 25.997(c) to read as follows: 
+
+Sec. 25.997 Fuel strainer or filter. 
+
+Unless a fuel strainer or filter is provided and approved as part of the engine, there must be a fuel strainer or filter between the fuel tank outlet and the inlet of either the fuel metering device or an engine driven positive displacement pump, whichever is nearer the fuel tank outlet. This fuel strainer or filter must - 
+
+* * * * *
+
+(c) Be mounted so that its weight is not supported by the connecting lines or by the inlet or outlet connections of the strainer or filter itself, unless adequate strength margins under all loading conditions are provided in the lines and connections; and 
+
+* * * * *
+
+Explanation: If a fuel strainer or filter is provided and approved as part of the engine, there is no need for the aircraft manufacturer to duplicate these items. The proposed revision of the first sentence of Sec. 25.997 makes this clear. For an explanation of the proposed revision of Sec. 25.997(c), see the proposal and explanation for Sec. 33.67(b)(3). 
+
+For an explanation of the deletion of the phrase "and the mesh" from Sec. 25.997(d), see the discussion for proposed Sec. 25.1019. Substantively identical revisions are proposed for Secs. 23.997, 27,997 and 29.997. Ref: Proposals 8 and 84; Agenda Items A-1 and E-26. 
+
+25. By revising Sec. 25.1001 by redesignating present Secs. 25.1001(h) through (l) as Secs. 25.1001(e) through (i), respectively, and by deleting present Secs. 25.1001(a) through (g) and substituting in place thereof new Secs. 25.1001(a) through (d) to read as follows: 
+
+Sec. 25.1001 Fuel jettisoning system. 
+
+(a) A fuel jettisoning system must be installed on each airplane unless it is shown that the airplane meets the climb requirements of Secs. 25.119 and 25.121(d) at maximum takeoff weight, less the actual or computed weight of fuel necessary for a 15-minute flight comprised of a takeoff, go-around, and landing at the airport of departure with the airplane configuration, speed, power, and thrust the same as that used in meeting the applicable takeoff, approach, and landing climb performance requirements of this part. 
+
+(b) If a fuel jettisoning system is required it must be capable of jettisoning enough fuel within 15 minutes, starting with the weight given in paragraph (a) of this section, to enable the airplane to meet the climb requirements of Secs. 25.119 and 25.121(d), assuming that the fuel is jettisoned under the conditions except weight, found least favorable during the flight tests prescribed in paragraph (c) of this section. 
+
+(c) Fuel jettisoning must be demonstrated beginning at maximum takeoff weight with flaps and landing gear up and in - 
+
+(1) A power-off glide at [formula] 
+
+(2) A climb at the one-engine inoperative best rate-of-climb speed, with the critical engine inoperative and the remaining engines at maximum continuous power; and 
+
+(3) Level flight at [formula] if the results of the tests in the conditions specified in paragraphs (c) (1) and (2) of this section show that this condition could be critical. 
+
+(d) During the flight tests prescribed in paragraph (c) of this section, it must be shown that - 
+
+(1) The fuel jettisoning system and its operation are free from fire hazard; 
+
+(2) The fuel discharges clear of any part of the airplane; 
+
+(3) Fuel or fumes do not enter any parts of the airplane; and 
+
+(4) The jettisoning operation does not adversely affect the controllability of the airplane. 
+
+* * * * *
+
+Explanation: Proposed Sec. 25.1001 eliminates specific references to reciprocating and turbine engine powered airplanes and to Secs. 25.65 and 25.67, as explained for the proposed for Sec. 25.33(a)(2). Other editorial changes are proposed which eliminate redundancies and clarify the text. 
+
+26. By adding a new lead-in to Sec. 25.1013, and by revising Sec 25.1013(a) to read as follows: 
+
+Sec. 25.1013 Oil tanks. 
+
+Except for oil tanks provided and approved as part of an engine, the applicant must show that each oil tank meets the following: 
+
+(a) Installation. Each oil tank installation must meet the requirements given for fuel tank installations in Sec. 25.967. For a reciprocating engine having an integral oil sump of less than a 25-quart capacity, the oil sump need not be fireproof. 
+
+* * * * *
+
+Explanation: If the oil tank is provided and approved as part of the engine, there is no need for the airplane manufacturer to show compliance with Sec. 25.1013. The proposed new lead-in to Secs. 23.1013 provides for this. Substantively identical revisions are proposed for Secs. 23.1013, 27.1013, and 29.1013. The reference to Sec. 25.967 is amplified to indicate the applicability of fuel tank installation standards to oil tanks. The proposed increase in the limiting oil sump capacity relative to fireproofing would facilitate design of oil systems without compromising safety. See also the proposal and explanation for Sec 33.17(c). 
+
+Ref: Proposal 9; Agenda Item A-1. 
+
+27. By revising the lead-in to Sec 25.1015 to read as follows: 
+
+Sec. 25.1015 Oil tank tests. 
+
+Each oil tank not provided and approved as part of an engine must be designed and installed so that - 
+
+* * * * *
+
+Explanation: If the oil tank is provided and approved as part of an engine, there is no need for the airplane manufacturer to show compliance with Sec. 25.1015. The proposed revision to the lead-in to Sec. 25.1015 would provide for this. A substantively identical revision is proposed for Secs 23.1015, 27.1015, and 29.1015. 
+
+Ref: Proposal 10; Agenda Item A-1. 
+
+28. By deleting the phrases "and the mesh" and "of the screen" from Secs. 25.1019(a)(2) and (3), respectively, and by revising the lead-in of Sec. 25.1019(a) to read as follows: 
+
+Sec. 25.1019 Oil strainer or filter. 
+
+(a) Unless an oil strainer or filter is provided and approved as part of the engine, each turbine engine installation must incorporate an oil strainer or filter through which all of the engine oil flows and which meets the following requirements: 
+
+* * * * *
+
+Explanation: If an oil strainer or filter is provided and approved as part of the engine, there is no need for the aircraft manufacturer to comply with present Sec. 25.1019(a) as now required. The proposed revisions to Sec. 25.1019(a) make this clear. Substantively identical revisions are proposed for Secs. 23.1019(a), 27.1019(a) and 29.1019(a). 
+
+The terms "mesh" and "screen" used in current Sec. 25.1019 are applicable to a fuel or oil strainer but not to a filter element. Deleting direct or indirect reference to a screen would correct the terminology without changing the meaning. Similar deletions are proposed for Secs. 23.997(d), 25.997(d), 27.997(d), 29.997(d), 23.1019(a)(2) and (3), 27.1019(a)(2) and (3) 29.1019(a)(2) and (3), 33.67(b)(5) and 33.71(b)(3) and (4). 
+
+Ref: Proposals 12, 93, and 94; Agenda Items A-1 and E-29. 
+
+29. By revising Sec. 25.1021 to read as follows: 
+
+Sec. 25.1021 Oil system drains. A drain (or drains) must be provided to allow safe drainage of the oil system. Each drain must - (a) Be accessible; and (b) Have manual or automatic means for positive locking in the closed position. 
+
+Explanation: See the proposal and explanation for Sec. 33.71(d). Ref: Proposal 98; Agenda Item E-30. 
+
+Sec. 25.1045 [Amended] 
+
+30. By amending Sec 25.1045(d) by deleting the reference to Sec 25.67(d) and substituting Sec. 25.121(c), and by adding the following to Sec. 25.1045(d): 
+
+(d) * * * The airplane must be in the following configuration: 
+
+(1) Landing gear retracted. 
+
+(2) Wing flaps in the most favorable position. 
+
+(3) Cowl flaps (or other means of controlling the engine cooling supply) in the position that provides adequate cooling in the hot day condition. 
+
+(4) Most unfavorable center of gravity position. 
+
+(5) Critical engine inoperative and its propeller stopped. 
+
+(6) Remaining engines at the maximum continuous power available for the altitude. 
+
+Explanation: This change is necessitated by the earlier deletion of performance requirements for reciprocating engine powered airplanes. For further explanation see the proposal for Sec. 25.33(a)(2). 
+
+31. By revising Sec. 25.1091(e) to read as follows: 
+
+Sec. 25.1091 Air induction. 
+
+* * * * *
+
+(e) If the engine air induction system contains parts or components that could be damaged by foreign objects entering the air inlet, it must be shown by tests or, if appropriate, by analysis that the induction system design can withstand the foreign object ingestion test conditions of Sec. 33.77 of this chapter without failure of parts or components that could create a hazard. 
+
+Explanation: As presently worded, Sec. 25.1091(e) requires compliance with Sec. 33.77 unless compliance was shown during the engine certification tests. Since that requirement pertains to engines but not to aircraft induction systems, it has been moved to proposed Sec. 25.903(a) and added to Sec 23.903(a). Sec. 25.1091(e) would be revised to require the foreign object ingestion criteria of Sec. 33.77 be applied to portions of the induction system such as inlet splitters and acoustic liners to ensure that they withstand impact with birds, hailstones, ice, and water. 
+
+Sec. 25.1093 [Amended] 
+
+32. By revising Sec. 25.1093(b)(2) in a manner substantively identical to that proposed for Sec. 23.1903(b)(2). 
+
+Explanation: See the proposal and explanation for Sec. 33.68(b). 
+
+Ref: Proposals 14, 15 and 16; Agenda Item E-27. 
+
+33. By revising Sec. 25.1143(d) to read as follows: 
+
+Sec. 25.1143 Engine controls. 
+
+* * * * *
+
+(d) For each fluid injection (other than fuel) system and its controls not provided and approved as part of an engine, the applicant must show that - 
+
+(1) The flow of the injected fluid is automatically controlled with relation to the amount of power produced by the engine; and 
+
+(2) There is a separate control for the fluid injection pumps. 
+
+* * * * *
+
+Explanation: There proposal would revise Sec. 25.1143(d) to: (1) State engine control requirements not only for antidetonant injection (ADI) systems but for other fluid injection systems (other than fuel) as well; and (2) provide that, if the fluid injection system and controls are provided and approved as part of the engine, the applicant need not show compliance with Sec. 25.1143(d). It is proposed to revise Secs. 23.1143, 27.1143, 29.1143, 33.35 and 33.67 in a substantively identical manner. 
+
+Ref: Proposed 17; Agenda Item A-1. 
+
+34. By revising Sec. 25.1163(a) to read as follows: 
+
+Sec. 25.1163 Powerplant accessories. 
+
+(a) Each engine mounted accessory must - 
+
+(1) Be approved for mounting on the engine involved; 
+
+(2) Use the provisions on the engine for mounting; and (3) Be sealed to prevent contamination. 
+
+* * * * *
+
+Explanation: In cases where the provisions for sealing of engine oil-lubricated accessories are provided in part by both the engine and accessory manufacturer, this proposal would place final responsibility for proper sealing on the aircraft manufacturer. See the proposal and explanation for Sec. 33.25. 
+
+Ref: Proposals 61 and 62; Agenda Item B-15. 
+
+35. By substituting "25-quart" for "20 quart" in Sec. 25.1183(a) and by revising Sec. 25.1183(b)(1) to read as follows: 
+
+Sec. 25.1183 Flammable fluid-carrying components. 
+
+* * * * *
+
+(b) * * * 
+
+(1) Lines, fittings, and components already approved as part of a type certificated engine; and 
+
+* * * * *
+
+Explanation: See the proposals and explanations for Secs. 23.903 and 33.17. 
+
+Ref: Proposals 26, 35, and 54; Agenda Item A-1. 
+
+36. By revising Secs. 25.1189(a)(1) and (a)(2) to read as follows: 
+
+Sec. 25.1189 Shutoff means. 
+
+(a) * * * 
+
+(1) Lines, fittings, and components forming an integral part of an engine; and (2) Oil systems for turbine engine installations in which all components of the system in a designated fire zone, including oil tanks, are fireproof. 
+
+* * * * *
+
+Explanation: See the proposal and explanation for Sec. 23.1189. 
+
+Sec. 25.1305 [Amended] 
+
+37. By deleting Sec. 25.1305(d)(3) and marking it "[Reserved]." 
+
+Explanation: Notice No. 74-30 (39 FR 31913; September 3, 1974) proposed that Part 121 be amended to make the installation of rotor system unbalance indicators mandatory on various wide-body transport airplanes operated under that part. The notice was withdrawn (43 FR 36461; August 17, 1978). The FAA agrees with the commenters who argued in response to Notice 74-30 that airborne vibration monitoring (AVM) systems are valuable only as a secondary maintenance aid; that AVM's have caused many unnecessary engine shutdowns due to faulty readings, resulting in fuel dumping, delayed flights, and increased costs to both the public and the airlines; and that operating experience has shown that the systems are incapable of giving advance warning on uncontained engine failures, which are sudden in nature.
+
+Accordingly, it has been determined that requirements for rotor system unbalance indicators in Secs. 25.1305(d)(3) and 33.29(b) impose a burden without providing a commensurate improvement in safety, and it is proposed to delete the requirement for AVM's. 
+
+Ref: Proposals 21 and 68; Agenda Items B-17 and G-45. 
+
+Sec. 27.1323 [Amended] 
+
+38. By deleting the phrase "Sec. 25.59 or" from Sec. 25.1323(b)(2). 
+
+Explanation: See the explanation for proposed Sec. 25.33(a). 
+
+PART 27 - AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT 
+
+Sec. 27.997 [Amended] 
+
+39. By amending Sec. 27.997 in a manner substantively identical to that proposed for Sec. 25.997. 
+
+Explanation: See the proposal and explanation for Sec. 25.997. 
+
+40. By revising the lead-in to Sec. 27.1013 to read as follows: 
+
+Sec. 27.1013 Oil tanks. 
+
+Except for oil tanks provided and approved as part of an engine, the applicant must show that each oil tank is designed and installed so that - 
+
+* * * * *
+
+Explanation: See the proposal and explanation for Sec. 25.1013. 
+
+Ref: Proposal 9; Agenda Item A-1. 
+
+41. By revising Sec. 27.1015 to read as follows: 
+
+Sec. 27.1015 Oil tank tests. 
+
+For oil tanks not provided and approved as part of an engine, the applicant must show that - (a) Each oil tank is designed and installed so that it can withstand, without leakage, an internal pressure of 5 p.s.i.; and (b) Each pressurized oil tank used with a turbine engine is designed and installed so that it can withstand, without leakage, an internal pressure of 5 p.s.i., plus the maximum operating pressure of the tank. 
+
+Explanation: See the proposal and explanation for Sec. 25.1015. 
+
+Ref: Proposal 10; Agenda Item A-1. 
+
+Sec. 27.1019 [Amended] 
+
+42. By amended Sec. 27.1019 in a manner substantively identical to that proposed for Sec. 25.1019. 
+
+Explanation: See the proposal and explanation for Sec. 25.1019. 
+
+Ref: Proposals 12, 93, and 94; Agenda Items A-1 and E-29. 
+
+43. By revising Sec. 27.1021 to read as follows: 
+
+Sec. 27.1021 Oil system drains. 
+
+A drain (or drains) must be provided to allow safe drainage of the oil system. Each drain must - 
+
+(a) Be accessible; and 
+
+(b) Have manual or automatic means for positive locking in the closed position. 
+
+Explanation: See the proposal and explanation for Sec. 33.71(d). 
+
+Ref: Proposal 98; Agenda Item E-30. 
+
+Sec. 27.1093 [Amended] 
+
+44. By deleting Section 27.1093(b)(2) and marking it "[Reserved]". 
+
+Explanation: See the proposal and explanation for Sec. 33.68(b). 
+
+Ref: Proposal 23; Agenda Item E-27. 
+
+45. By redesignating present Sec. 27.1143(d) as Sec. 27.1143(f), and by adding new Secs. 27.1143(d) and (e) to read as follows: 
+
+Sec. 27.1143 Engine controls. 
+
+(d) Each fluid injection (other than fuel) system control must be in the throttle controls. 
+
+(e) For each fluid injection (other than fuel) system and its controls not provided and approved as part of the engine, the applicant must show that - 
+
+(1) The flow of the injected fluid is automatically controlled with relation to the amount of power produced by the engine; and 
+
+(2) There is a separate control for the fluid injection pumps. 
+
+* * * * *
+
+Explanation: To cover all rotorcraft, proposed Sec. 27.1143(d) is added to make the section consistent with Sec. 29.1143(d). For an explanation of Sec. 27.1143(e) see the proposal for Sec. 25.1143(d). 
+
+Ref: Proposal 17; Agenda Item A-1. 
+
+Sec. 27.1163 [Amended] 
+
+46. By revising Sec. 27.1163(a) in a manner substantively identical to that proposed for Sec 25.1163(a). 
+
+Explanation: See the proposal and explanation for Sec. 33.25. Ref: Proposals 61 and 62; Agenda Item B-15. 
+
+Sec. 27.1183 [Amended] 47. By revising Sec. 27.1183 in a manner substantively identical to Sec. 25.1183. 
+
+Explanation: See the proposals and explanations for Secs. 23.903 and 33.17. 
+
+Ref: proposals 26, 35, and 54; Agenda Items A-1 and B-11. 
+
+48. By redesignating Sec. 27.1189(a)(2) as (a)(3) and by revising Sec. 27.1189(a)(1) and adding a new Sec. 27.1189(a)(2) to read as follows: 
+
+Sec.: 27.1189 Shutoff means. 
+
+(a) * * * 
+
+(1) Lines, fittings, and components forming an integral part of an engine; 
+
+(2) For oil systems for turbine engine installations in which all components of the system, including oil tanks, are fireproof or located in areas not subject to engine fire conditions; and 
+
+* * * * *
+
+Explanation: See the proposal and explanation for Sec. 23.1189. 
+
+Ref: Proposals 26, 35, and 36; Agenda Item A-1. 
+
+PART 29 - AIRWORTHINESS STANDARDS; TRANSPORT CATEGORY ROTORCRAFT 
+
+Sec. 29.997 [Amended] 
+
+49. By amending Sec. 29.997 in a manner substantively identical to that proposed for Sec. 25.997. 
+
+Explanation: See the proposal and explanation for Sec. 25.997. Ref: Proposals 8 and 84; Agenda Items A-1 and E-26. 
+
+50. By adding a new lead-in before Sec. 29.1013(a) to read as follows: 
+
+Sec. 29.1013 Oil tanks. 
+
+Except for oil tanks provided and approved as part of an engine, the applicant must show that each oil tank meets the following: 
+
+* * * * *
+
+Explanation: See the proposal and explanation for Sec. 25.1013. 
+
+Ref: Proposal 9; Agenda Item A-1. 
+
+51. By revising the lead-in to Sec. 29.1015 to read as follows: 
+
+Sec. 29.1015 Oil tank tests. 
+
+Each oil tank not provided and approved as part of an engine must be designed and installed so that - 
+
+* * * * *
+
+Explanation: See the proposal and explanation for Sec. 25.1015. 
+
+Ref: Proposal 10; Agenda Item A-1. 
+
+Sec. 29.1019 [Amended] 
+
+52. By amending Sec. 29.1019 in a manner substantively identical to that proposed for Sec. 25.1019. 
+
+Explanation: See the proposal and explanation for Sec. 25.1019. Ref: Proposals 12, 93, and 94; Agenda Items A-1 and E-29. 
+
+53. By revising Sec. 29.1021 to read as follows: 
+
+Sec. 29.1021 Oil system drains. 
+
+A drain (or drains) must be provided to allow safe drainage of the oil system. Each drain must - (a) Be accessible; and (b) Have manual or automatic means for positive locking in the closed position. 
+
+Explanation: See the proposal and explanation for Sec. 33.71(d). 
+
+Ref: Proposal 98; Agenda Item E-30. 
+
+Sec. 29.1093 [Amended] 
+
+54. By deleting Sec. 29.1093(b)(2) and Marking it "[Reserved]." 
+
+Explanation: See the proposal and explanation for Sec. 33.68(b). Ref: Proposal 32; Agenda Item E-27. 
+
+55. By deleting the second sentence of Sec. 29.1143(d), by redesignating present Sec. 29.1143(e) as Sec. 29.1143(f), and by adding a new Sec. 29.1143(e) to read as follows: 
+
+Sec. 29.1143 Engine controls. 
+
+* * * * *
+
+(e) For each fluid injection (other than fuel) system and its controls not provided as part of an engine, the applicant must show that - 
+
+(1) The flow of the injected fluid is automatically controlled with relation to the amount of power produced by the engine; and 
+
+(2) There is a separate control for the fluid injection pumps. 
+
+* * * * *
+
+Explanation: See the proposal and explanation for Sec. 25.1143(d). 
+
+Ref: Proposal 17; Agenda Item A-1. 
+
+Sec. 29.1163 [Amended] 
+
+56. By revising Sec. 29.1163(a) in a manner substantively identical to that proposed for Sec. 25.1163(a). 
+
+Explanation: See the proposal and explanation for Sec. 33.25. 
+
+Ref: Proposals 61 and 62; Agenda Item B-15. 
+
+Sec. 29.1183 [Amended] 
+
+57. By revision Sec. 29.1183 in a manner substantively identical to Sec. 25.1183. 
+
+Explanation: See the proposals and explanations for Secs. 29.903 and 33.17. 
+
+Ref: Proposals 26, 35, and 54; Agenda Items A-1 and B-11. 
+
+58. By revising Secs. 29.1189(a)(1) and (a)(2) to read as follows: 
+
+Sec. 29.1189 Shutoff means. 
+
+(a) * * * 
+
+(1) For lines, fittings, and components forming an integral part of an engine; 
+
+(2) For oil systems for turbine engine installations in which all components of the system in a designated fire zone, including oil tanks are fireproof; or 
+
+* * * * *
+
+Explanation: See the proposal and explanation for Sec. 23.1189. Ref: Proposals 25, 35 and 36; Agenda item A-1. 
+
+PART 33 - AIRWORTHINESS STANDARDS: AIRCRAFT ENGINES 
+
+59. By deleting Sec. 33.7(c)(17) and by revising Secs. 33.7(c)(5)(i), (c)(5)(iv), (c)(6)(ii) and (c)(16) to read as follows: 
+
+Sec. 33.7 Engine ratings and operating limitations. 
+
+* * * * *
+
+(c) * * * 
+
+(5) * * * 
+
+(i) Oil at a location specified by the applicant; 
+
+* * * * *
+
+(iv) Fuel at a location specified by the applicant; and 
+
+* * * * *
+
+(6) * * * 
+
+(ii) Oil at a location specified by the applicant; 
+
+* * * * *
+
+(16) For engines to be used in supersonic aircraft, engine rotor windmilling rotational r.p.m. 
+
+Explanation: This proposal would allow oil pressure, oil temperature, and fuel temperature limitations to be specified by the applicant for the measurement location appropriate to a particular design, which is not necessarily the location specified in the current rules. 
+
+Current Sec. 33.7(c)(5)(iv) requiring fuel temperature operating limitations applies only to supersonic turbine engines. However, it is necessary in the interest of safety to apply the requirement to all turbine engines to ensure proper functioning of the fuel control. The proposed revisions would have that effect. For an explanation of the proposal to revise Sec. 33.7(c)(16) see the proposal and explanation for Sec. 33.92(a). For an explanation of the proposal to delete Sec 33.7(c)(17) see the proposal and explanation for Sec. 33.90. 
+
+Ref: Proposals 41, 42, 43, 44, 45, and 46; Agenda Items A-5, A-6, and A-7. 
+
+60. By revising Sec. 33.14 to read as follows: 
+
+Sec. 33.14 Start-stop cyclic stress (low-cycle fatigue). 
+
+An operating limitation must be established by an approved procedure which specifies the maximum allowable number of start-stop stress cycles for each rotor structural part (such as discs, spacers, hubs, and shafts of the compressors and turbines), the failure of which could produce a hazard to the aircraft. A start-stop stress cycle consists of a flight cycle profile or an equivalent representation of engine usage. It includes starting the engine, accelerating to maximum rated power or thrust, decelerating, and stopping. For each cycle, the rotor structural parts must reach stabilized temperature during engine operation at maximum rated power or thrust, and after engine shutdown, unless it is shown that the parts undergo the same stress range without temperature stabilization. 
+
+Explanation: Proposed Sec. 33.14: (1) Revises the applicability of the current rule to cover all rotor structural parts, the failure of any one or more of which could produce a hazard to the aircraft; (2) redefines the term "start-stop stress cycle"; (3) allows an alternative to temperature stabilization during engine operation at maximum rated power or thrust; and (4) deletes current provisions dealing with procedures for establishing an "initial" operating limitation, and increasing that limitation after type certification. Service experience demonstrates that an operating limitation (specifying the maximum allowable number of start- stop stress cycles) must be established for each rotor structural part, the failure of which could produce a hazard to the aircraft. The current rule covers discs and spacers only. The proposed redefinition of the term "start-stop stress cycle," and the proposed alternative to temperature stabilization during engine operations at maximum rated power or thrust, allows the use of industry practices that have provided an adequate level of safety in the past. In addition, there are acceptable procedures, other than those currently prescribed, for establishing the required operating limitation and for increasing that limitation. Deletion of the currently prescribed procedures and insertion of the phrase "by an approved procedure" would enable the applicant to make use of other acceptable procedures. Ref: Proposals 48, 49, and 50; Agenda Item B-9. 
+
+Sec. 33.15 [Amended] 
+
+61. By amending Sec. 33.15(b) by deleting the phrase ", or Technical Standard Orders" inside the parentheses. 
+
+Explanation: The reference to Technical Standard Orders in current Sec. 33.15(b) is misleading since existing FAA Technical Standard Orders do not contain standards for engine materials. The proposed revision of Sec. 33.15(b) deletes that reference. 
+
+Ref: Proposal 52; Agenda Item B-10. 
+
+Sec. 33.17 [Amended] 
+
+62. By amending Sec. 33.17(c) by deleting the term "20-quart" and inserting the term "25-quart" in its place, by deleting Sec. 33.17(f), and by revising Sec. 33.17(a) to read as follows: 
+
+Sec. 33.17 Fire prevention. 
+
+(a) The design and construction of the engine and the materials used must minimize the probability of the occurrence and spread of fire. In addition, the design and construction of turbine engines must minimize the probability of the occurrence of an internal fire that could result in structural failure, overheating, or other hazardous conditions. 
+
+* * * * *
+
+Explanation: This proposal allows the type certification of a reciprocating engine having an integral oil sump with a capacity up to 25 quarts without requiring that the sump be fireproof or be enclosed by a fireproof shield. The proposed increase in the oil sump capacity limit from 20 to 25 quarts would not compromise safety and would facilitate design of oil systems. It is based upon usable engine oil required to ensure against the possibility of running out of oil on long flights. 
+
+Current Sec. 33.17(a) applies only to reciprocating engines. Service experience shows that his requirement should be applied to all engines to provide adequate protection against fire. Accordingly, it is proposed to extend the applicability of Sec. 33.17(a) to all engines. For clarity and consistency the substance of Sec. 33.17(f) is transferred to Sec. 33.17(a) without change. Ref: Proposals 53 and 54; Agenda Items B-10 and B-11. 
+
+Sec. 33.19 [Amended] 
+
+63. By amending Sec. 33.19 by adding after the last sentence the following new sentence: "Energy levels and trajectories of fragments resulting from rotor blade failure that lie outside the compressor and turbine rotor cases must be defined." 
+
+Explanation: Present Sec 33.19 requires that engine compressor and turbine rotor cases be designed to provide for the containment of damage from rotor blade failure. However, the rule is silent with respect to failed rotor blades for which it is not possible to provide containment within the engine itself. In the category are failed blades or blade fragments that can emerge through the engine air inlet or turbine exhaust. The present rule was recodified from Civil Air Regulation Sec. 13.104 and has been in effect and substantively unchanged for 25 years. 
+
+Since the engine designs cannot provide protective containment for such failed blades or blade fragments, the burden is placed on the airplane developer to design airplane structure for the protection of persons aboard the airplane and for essential airplane systems. The problem has been recognized and dealt with in connection with type certification of those aircraft currently operating. For example, in connection with the DC-10 airplane, the FAA's critical design review team found that McDonnell-Douglas had considered incidents involving nacelle and aircraft secondary damage resulting from fan blade fragments ejected forward of the engine fan containment case and that the safety of the airplane would not be jeopardized. 
+
+In further recognition of the engine problem, a representative of the British CAA at the Engine Review Conference stated that it was well known that broken blades could be expelled forward from a turbine engine. 
+
+Data concerning the probability, size, and energy levels of blade fragments can best be determined by the engine developer, who has the basic knowledge and necessary experience with a new engine design. Accordingly, the proposal will update the rule to require that the applicant for an engine type certificate define the energy levels and trajectories of rotor blade fragments that are outside the protective engine cases. This information will improve safety by assisting in the design and certification of aircraft using the engine. Ref: Proposal 56; Agenda Item B-12. 
+
+64. By revising Sec. 33.23 to read as follows: 
+
+Sec. 33.23 Engine mounting attachments and structure. 
+
+(a) The maximum allowable limit and ultimate loads for engine mounting attachments and related structure must be specified by the applicant. 
+
+(b) The engine mounting attachments and related structure must be able to withstand - 
+
+(1) The specified limit loads without permanent deformation; and 
+
+(2) The specified ultimate loads without failure, but may exhibit permanent deformation. 
+
+Explanation: Proposed Sec. 33.23 revises the current rule by making a necessary distinction between limit and ultimate loads. The engine mounting attachments and related structure would be required to withstand the specified limit loads without permanent deformation, and to withstand the specified ultimate loads without failure, although permanent deformation would be allowed. The superfluous reference to "malfunction" in current Sec. 33.23(b) would be deleted. Ref: Proposals 59 and 60; Agenda Item B-14. 
+
+65. By revising Sec. 33.25 to read as follows: 
+
+Sec. 33.25 Accessory attachments. 
+
+The engine must operate properly with the accessory drive and mounting attachments loaded. Each engine accessory drive and mounting attachment must include provisions for sealing to prevent contamination of, or excessive leakage from, the engine interior. A drive and mounting attachment requiring lubrication for external drive splines, or coupling by engine oil, must include provisions for sealing to prevent excessive loss of oil and to prevent contamination from sources outside the chamber enclosing the drive connection. The design of the engine must allow for the examination, adjustment, or removal of each accessory required for engine operation. 
+
+Explanation: The second sentence of the present rule is deleted as unnecessary, as adequate testing for accessory drives and mounting attachments is specified in Sec. 33.49(a) for reciprocating engines, and in Sec. 33.87(a)(6) for turbine engines. 
+
+Engine/accessory drive interface standards have been developed by the SAE and are in general use by the aircraft industry. Because of the nature of o-ring and similar seals used for accessory drive and mounting attachments, the engine manufacturer alone cannot always fulfill the requirements of the current regulations. Thus, provisions for sealing will be required, rather than making the engine manufacturer completely responsible. The ultimate responsibility for sealing will lie with the aircraft manufacturer, as proposed in Secs. 23.1163, 27.1163 and 29.1163. 
+
+By insertion of the word "excessive" it is proposed to revise the section to accommodate "total loss oil mist" and other lubrication systems which might allow a minute amount of leakage from the engine interior. 
+
+Ref: Proposals 61 and 62; Agenda Item B-15. 
+
+66. By revising Sec. 33.27 to read as follows: 
+
+Sec. 33.27 Turbine, compressor, fan, and turbosupercharger rotors. 
+
+(a) Turbine, compressor, fan, and turbosupercharger rotors must have sufficient strength to withstand the test conditions specified in paragraph (c) of this section. 
+
+(b) The design and functioning of engine control devices, systems, and instruments must give reasonable assurance that those engine operating limitations that affect turbine, compressor, fan, and turbosupercharger rotor structural integrity will not be exceeded in service. 
+
+(c) The most critically stressed rotor component (except blades) of each turbine, compressor, and fan, including integral drum rotors and centrifugal compressors in an engine or turbosupercharger, as determined by analysis or other acceptable means, must be tested for a period of 5 minutes - 
+
+(1) At its maximum operating temperature, except as provided in paragraph (c)(2)(iv) of this section; and (2) At the highest speed of the following, as applicable: 
+
+(i) 120 percent of its maximum permissible r.p.m. if tested on a rig and equipped with blades or blade weights. 
+
+(ii) 115 percent of its maximum permissible r.p.m. if tested on an engine. 
+
+(iii) 115 percent of its maximum permissible r.p.m. if tested on a turbosupercharger driven by a hot gas supply from a special burner rig. 
+
+(iv) 120 percent of the r.p.m. at which, while cold spinning, it is subject to operating stresses that are equivalent to these induced at the maximum operating temperature and maximum permissible r.p.m. 
+
+(v) 105 percent of the highest speed that would result from failure of the most critical component or system in a representative installation of the engine. 
+
+(vi) The highest speed that would result from the failure of any component or system in a representative installation of the engine, in combination with any failure of a component or system that would not normally be detected during a routine preflight check or during normal flight operation. Following the test, each rotor must be within approved dimensional limits for an overspeed condition and may not be cracked. 
+
+Explanation: Proposed Sec. 33.27(a) generalizes the reference to paragraph (c) without changing its meaning. The word "fan" would be added to the heading and, as applicable, throughout the section to include fan rotor strength requirements. Proposed Sec. 33.27(c) incorporates the following changes:
+
+ A. The lead-in is revised as follows: 
+
+(1) The term "most critically stressed" replaces the phrase "sustaining the highest operating stress at the maximum limiting r.p.m. of all such rotors respectively," since the component subjected to the highest stress is not necessarily closest to failure, depending on material strength. 
+
+(2) Integrally constructed rotor elements such as centrifugal compressors and integral drum rotors are identified as rotor components to be considered for test under this section, in addition to discs, spools, etc. Such tests of the most critical components of each rotor have proven in the past to constitute effective type certification practice. The applicant would retain the option of testing complete rotor subassemblies. 
+
+(3) The means of determining the most critically stressed rotor components are defined. 
+
+(4) For clarification, the words "for a period of 5 minutes" are transferred to the lead-in paragraph and the current paragraph containing the phrase is deleted. B. Current Sec. 33.27(c)(3) is redesignated as Sec. 33.27(c)(2) with the following changes: (1) The term "maximum limiting r.p.m." is replaced by "maximum permissible r.p.m." wherever it appears. The former was adopted by Amendment 33-6 (39 FR 35464; October 1, 1974); however, numerous questions arose concerning its meaning. Moreover, both "maximum permissible" and "maximum rated" are used as engine speed performance criteria on various engine type certificate data sheets, while the latter term appears in Advisory Circular 33-3, as noted in Proposal 65. The intent of all three phrases is to define the highest r.p.m. at which an engine shaft is to rotate in service. In the context of a reference or datum r.p.m. from which test overspeed conditions are established during certification, "maximum permissible r.p.m." is less subject to misinterpretation than either "maximum limiting r.p.m." or "maximum rated r.p.m." by those concerned with type certification. It is therefore proposed to standardize the term "maximum permissible r.p.m." as the reference speed for Sec. 33.27. 
+
+(2) Current Sec. 33.27(c)(3)(iii) is deleted. This provision, which allows the testing of rotor disc sections that are thinner than specified in the type design, is not necessarily a valid test method, although it appears in Advisory Circular 33-3. If the test section is thinner than the type design disc section, the resultant change in weight distribution may alter the stress concentrations significantly, rendering the test invalid. 
+
+(3) The conditional wording "provided that disc temperature survey data from operating engines and data on hot strength properties of the disc material establish the effect of temperature on stress" appearing in current Sec. 33.27(c)(3)(v) is deleted and the paragraph redesignated as Sec 33.27(c)(2)(iv). This phrase incorrectly implies that the applicant need not consider temperature distribution data or material properties in connection with the other overspeed test options in proposed Sec. 33.27(c)(2). 
+
+(4) New Secs. 33.27(c)(2) (v) and (vi) are added which require testing to a higher overspeed than that specified in Secs. 33.27(c)(2) (i) through (iv) if such higher overspeed is possible as a result of probable failures of engine components, control systems, or installation elements. 
+
+(5) The final sentence of current Sec. 33.27(c) is revised to specify that each rotor be within approved dimensional limits and must not be cracked following the test. The current requirement is unnecessarily restrictive in the light of service experience. Growth beyond installation limits may be acceptable from the safety standpoint and the proposed rule will provide that each case be judged on its merits. Ref: Proposals 63, 64, 65, and 67; Agenda Item B-16. 
+
+Sec. 33.29 [Amended] 
+
+67. By deleting Sec. 33.29(b) and marking it "[Reserved]". 
+
+Explanation: See the proposal and explanation for Sec. 25.1305(d)(3). 
+
+Ref: Proposal 68; Agenda Item B-17. 
+
+68. By adding a new Sec. 33.35(e) to read as follows: 
+
+Sec. 33.35 Fuel and induction system. 
+
+* * * * *
+
+(e) If provided as part of the engine, the applicant must show for each fluid injection (other than fuel) system and its controls that - 
+
+(1) The flow of the injected fluid is automatically controlled with relation to the amount of power produced by the engine; and 
+
+(2) There is a separate control for the fluid injection pumps. 
+
+Explanation: See the proposal and explanation for Sec. 25.1143(d). 
+
+Ref: Proposal 17; Agenda Item A-1. 
+
+69. By deleting the second sentence of Sec. 33.43(a) and by adding a new Sec. 33.43(d) to read as follows: 
+
+Sec. 33.43 Vibration test. 
+
+* * * * *
+
+(d) The vibration survey described in paragraph (a) of this section must be repeated with that cylinder not firing which has the most adverse vibration effect, in order to establish the conditions under which the engine can be operated safely in that abnormal state. However, for this vibration survey, the speed range need only extend from idle to the maximum desired takeoff speed rating, and compliance with paragraph (b) of this section need not be shown. 
+
+Explanation: Present Sec. 33.43 requires that crankshaft torsional and bending vibration stresses not exceed the endurance limit stress of the shaft material for both a normal engine as well as an engine operating abnormally due to one cylinder not firing. This abnormal condition may alter the vibration characteristics of the crankshaft system of certain engines so that stresses above the endurance limit can occur within the operating speed range of the engine. Since these high stresses usually occur over a narrow speed range, operation at these peak stresses can be avoided for the limited amount of time necessary until the abnormal engine condition can be corrected. It is therefore only necessary to identify these critical stress speeds to the flight crew so that operation within these areas can be avoided when a cylinder is not firing. Accordingly, this proposal transfers the cylinder-out vibration survey requirement in current Sec. 33.43(a) to a new Sec. 33.43(d) which modifies that requirement by (1) clarifying that its objective is to establish the conditions under which the engine can be operated safely with the critical cylinder not firing; and (2) making it clear that, for this purpose, compliance with Sec. 33.43(b) need not be shown. The proposed new requirement covers testing necessary to provide operational information for flight manuals, placards, or markings that will assist flight crews in maintaining safe flight. 
+
+Ref: Proposal 72; Agenda Item D-21. 
+
+70. By revising Sec. 33.49(e)(1)(ii) to read as follows: 
+
+Sec. 33.49 Endurance test. 
+
+* * * * *
+
+(e) * * * 
+
+(1) * * * 
+
+(ii) The portions of the runs specified in paragraphs (b)(2) through (7) of this section at rated maximum continuous power must be made at critical altitude pressure, and the portions of the runs at other power must be made at 8,000 feet altitude pressure; and 
+
+* * * * *
+
+Explanation: This proposal corrects a typographical error in current Sec. 33.49(e)(1)(ii). Ref: Proposal 76; Agenda Item D-22. 
+
+Sec. 33.63 [Amended] 
+
+71. By deleting the word "normal" from Sec. 33.63. 
+
+Explanation: The effect of the proposed deletion of the word "normal" requires that the engine function through the operating range of rotational speeds and engine power associated with the most critical ratings, whatever they might be. The word "normal" could be construed as referring to a narrower operating range. 
+
+Ref: Proposal 77; Agenda Item D-22. 
+
+72. By revising Sec. 33.65 to read as follows: 
+
+Sec. 33.65 Surge and stall characteristics. 
+
+With the engine operated in accordance with operating instructions established under Sec. 33.5(b), an investigation based on quantitative tests, analysis, or a combination of both, must be made to determine the effects of variation in rate of change of airflow or rotor speed and the acceleration and deceleration fuel flow schedules on - 
+
+(a) The susceptibility of the engine to surge and stall; 
+
+(b) The severity of the surge and stall if it occurs; and (c) The acceleration, deceleration, and flameout characteristics of the engine. 
+
+Explanation: Under the proposed rule, quantitative operating margins are established to permit complete avoidance of surge and stall regions severe enough to cause engine malfunction or damage. The present rule attempts to set operating limitations in terms of the malfunction or damage itself, but without being able to clearly define an acceptable or rejectable degree of such damage. A similar change proposed in Notice 75-31 (40 FR 29426; July 11, 1975) was deferred for consideration during the Engine Review. See also the proposal and explanation for Sec. 25.939. 
+
+73. By revising Sec. 33.66 to read as follows: 
+
+Sec. 33.66 Bleed air system. The engine must supply bleed air without adverse effect on the engine, excluding reduced thrust or power output, at all conditions up to the discharge flow conditions established as a limitation under Sec. 33.7(c)(11). If bleed air used for engine anti-icing can be controlled, provision must be made for a means to indicate the functioning of the aircraft powerplant ice protection system. 
+
+Explanation: This proposal takes into account the possibility that the maximum bleed air condition established as a limitation may not be the most critical. In addition, the words "thrust or power" are inserted before the word "output" to make it clear that the engine output is being referred to. Finally, the proposal allows the use of provisions (for a means to indicate the functioning of the aircraft powerplant ice protection system) other than a connection to the bleed air system as there are acceptable alternatives for this purpose. 
+
+Ref: Proposals 80 and 81; Agenda Item E-25. 
+
+Sec. 33.67 [Amended] 
+
+74. By amending Sec. 33.67 by deleting all except the first sentence of Sec. 33.67(a), by deleting Sec. 33.67(b)(7), and by revising Secs. 33.67 (b)(3), (b)(4), and (b)(5), and adding new Secs. 33.67 (c) and (d) to read as follows: 
+
+Sec. 33.67 Fuel system. 
+
+* * * * *
+
+(b) * * * 
+
+(3) It must be mounted so that its weight is not supported by the connecting lines or by the inlet or outlet connections of the strainer or filter, unless adequate strength margins under all loading conditions are provided in the lines and connections. (4) It must have the type and degree of fuel filtering specified as necessary for protection of the engine fuel system against foreign particles in the fuel. The applicant must demonstrate - 
+
+(i) That foreign particles passing through the specified filtering means do not impair the engine fuel system functioning; and (ii) That the fuel system is capable of sustained operation throughout its flow and pressure range with the fuel initially saturated with water at 80°F (27°C) and having 0.025 fluid ounces per gallon (0.20 milliliters per litre) of free water added and cooled to the most critical condition for icing likely to be encountered in operation. However, the applicant need not comply with this provision if approved fuel anti-icing additives are specified, or if a fuel heater is provided which is capable of maintaining the fuel temperature at the fuel strainer or fuel inlet about 32°F (0°C) under the most critical condition. 
+
+(5) The applicant must demonstrate that the specific filtering means has the capacity (with respect to operating limitations established for the engine) to ensure that, with fuel contaminated to the maximum degree (with respect to particle size and density) likely to be encountered in service, it will be possible for the engine to complete a typical flight from the point at which indication of impending filter blockage was first given either by - 
+
+(i) Existing engine instrumentation; or 
+
+(ii) Additional means incorporated into the engine fuel system. 
+
+* * * * *
+
+(c) If provided as part of the engine, the applicant must show for each fluid injection (other than fuel) system and its controls that - 
+
+(1) The flow of the injected fluid is automatically controlled with relation to the amount of power produced by the engine, and 
+
+(2) There is a separate control for the fluid injection pumps. 
+
+(d) Each engine fuel control system must function properly under all conditions in which the engine is expected to operate. Each fuel control adjusting means that may not be manipulated while the fuel control device is mounted on the engine must be secured by a locking device and sealed, or otherwise made inaccessible. All other fuel control adjusting means must be accessible and marked to indicate the functioning of the adjustment unless the function is obvious. Each fuel control system requiring electrical or electronic inputs for proper engine operation must be designed to - 
+
+(1) Have an overall reliability level at least equivalent to that provided by a comparable hydro-mechanical control for that engine type. If the combined level of reliability is not at least equivalent, a secondary fuel control system must be provided to permit satisfactory control of the engine for continued flight; 
+
+(2) Provide a means to automatically monitor the operational status of each electronic control system to assure redundancy; 
+
+(3) Have primary power supplied directly from an independent power source on the engine. In the event the primary power supply fails, there must be provisions for automatic switching to an independent secondary power supply; and 
+
+(4) Provide for safe operation after exposure to electrical system transients and probable lightning strikes, unless adequate protection from such occurrences will be provided by the installation system design. 
+
+Explanation: The requirement stated in the last sentence of current Sec. 33.67(a) ensures that the fuel filter or strainer is not blocked during operation with cold fuel. For clarity, this requirement would be placed in new Sec. 33.67(b)(4)(ii) and combined with a provision to allow the use of anti-icing additives or fuel heaters (under specified conditions). Both methods to prevent ice formation have been used successfully in the past. 
+
+Revision of Sec. 33.67(b)(3) would allow the use of an acceptable mounting alternative for fuel strainers or filters. The present rule is unnecessarily restrictive. A substantively identical change is proposed for Secs. 23.997(c), 25.997(c), 27.997(c), and 29.997(c). 
+
+Proposed Sec. 33.67(b)(5) combines the substance of present Secs. 33.67(b)(5) and (b)(7) with revisions aimed at allowing the manufacturer more design flexibility. This proposal states the safety objective more clearly - that in the event of fuel contamination, the pilot is warned in sufficient time to make a safe landing. 
+
+ For an explanation of the proposal for Sec. 33.67(c), which was initially applied in general to Sec. 33.3, see the proposal and explanation for Secs. 25.1143(d) and 33.74. 
+
+ The provisions of new Sec. 33.67(d) were initially proposed as Sec. 33.64. However, it was considered that addition of special standards applicable to engine power or control systems that require electrical or electronic inputs would be more appropriate under Sec. 33.67. Compliance with these standards will help to ensure that such systems have adequate reliability. 
+
+Ref: Proposals 17, 37, 77A, 83, 84 and 85; Agenda Items A-1, E-26, G-43, and G-46. 
+
+75. By revising Sec. 3368(b) to read as follows: 
+
+Sec. 33.68 Induction system icing. 
+
+* * * * *
+
+(b) Idle for 30 minutes on the ground, with the available air bleed for engine icing protection at its critical condition, without adverse effect, in an atmosphere that is at a temperature between 15° and 30° F (between -9° and -1° C) and has a liquid water content not less that 0.3 grams per cubic meter in the form of drops having a mean effective diameter not less than 20 microns, followed by a momentary operation at takeoff power or thrust. During the 30 minutes of idle operation the engine may be run up periodically to a moderate power or thrust setting in a manner acceptable to the Administrator. This paragraph does not apply to rotorcraft engines. 
+
+Explanation: The test requirement in current Sec. 33.68(b) is unnecessarily severe because it is outside the continuous maximum icing envelope of Appendix C of Part 25, and because no tolerances are permitted on the temperature and liquid water content. It is therefore proposed to revise this requirement by specifying a temperature range rather than a single temperature and by reducing the prescribed liquid water content and drop diameter to values that are more representative of actual ground fog conditions in that temperature range. It is also proposed to allow the engine to be run up periodically during the test to a moderate power or thrust setting in a manner acceptable to the Administrator, and noted in the operating limitations or instructions as appropriate. For consistency, it is proposed to revise the corresponding requirements in Secs. 23.1093(b)(2) and 25.1093(b)(2) in the same manner. See the proposals for Secs. 23.1093(b)(2) and 25.1093(b)(2). 
+
+ Since a rotorcraft is not required to queue up for takeoff, its engines are not operated at idle power or thrust settings for extended periods of time. If future rotorcraft manufacturers request certification for operation in icing conditions, Sec.33.68(a) plus the operating requirements are considered adequate to ensure airworthiness of the rotorcraft. Therefore, the 30-minute idle test need not be applied to rotorcraft engines and it is proposed to revise Sec. 33.68(b) accordingly. Consistent with this revision, it is proposed to delete revision. It is proposed to delete Secs. 27.1093(b)(2) and 29.1093(b)(2). 
+
+Ref: Proposals 86, 87, 88 and 89; Agenda Item E-27. 
+
+Sec. 33.71 [Amended] 
+
+76. By amending Sec. 33.71 as follows: 
+
+1. By deleting the phrase "and the mesh" from Sec. 33.71(b)(3). 
+
+2. By revising the lead-in of Sec. 33.71(b), by revising Secs. 33.71(b)(4), (c)(5), (c)(11), and (d), and by adding new paragraphs 33.71(c)(12) and (f) to read as follows: 
+
+Sec. 33.71 Lubrication system. 
+
+* * * * *
+
+(b) Oil strainer or filter. There must be an oil strainer or filter through which all of the engine oil flows. In addition: 
+
+* * * * *
+
+(4) For each strainer or filter required by this paragraph, except the strainer or filter at the oil tank outlet, there must be means to indicate contamination before it reaches the capacity established in accordance with paragraph (b)(3) of this section. 
+
+* * * * *
+
+(c) Oil tanks. * * * 
+
+(5) Each oil tank filler must be marked with the work "oil." 
+
+* * * * *
+
+(11) Each oil tank must have an oil quantity indicator or provisions for one. 
+
+(12) If the propeller feathering system depends on engine oil - 
+
+(i) There must be means to trap an amount of oil in the tank if the supply becomes depleted due to failure of any part of the lubricating system other than the tank itself; 
+
+(ii) The amount of trapped oil must be enough to accomplish the feathering operation and must be available only to the feathering pump; and 
+
+(iii) Provision must be made to prevent sludge or other foreign matter from affecting the safe operation of the propeller feathering system. (d) Oil drains. A drain (or drains) must be provided to allow safe drainage of the oil system. Each drain must - 
+
+(1) Be accessible; and 
+
+(2) Have manual or automatic means for positive locking in the closed position. 
+
+* * * * *
+
+(f) Each lubrication system furnished with an engine must be designed to function satisfactorily when subjected to the negative maneuvering and gust load factors prescribed in Sec. 25.333. This must be shown for the greatest duration expected for the acceleration. 
+
+Explanation: The proposed amendments to Secs. 33.71(b) and (b)(4) delete the present requirements for scavenge oil strainers or filters. Service experience shows that scavenge oil strainers do not necessarily improve safety but do tend to restrict design of the oil system. For example, debris and bearing small particles which can pass through the scavenge pump may clog the scavenge strainer, resulting in a flooded sump and loss of engine oil. The proposed revision does not prohibit the use of scavenge oil strainers or filters when they are necessary. 
+
+ For an explanation of the proposed deletion of the phrases "and the mesh" and "of the screen" from Secs. 33.71(b)(3) and (4), respectively, see the proposal and explanation for Sec. 25.1019. 
+
+ The proposed revision of Sec. 33.71(c)(5) deletes the present requirement that each oil tank filler be marked with the tank capacity, making the requirement the same as corresponding requirements in Parts 23, 25, 27, and 29. There is no safety need to mark tank capacity on the oil tank filler. 
+
+ The proposed revision of Sec. 33.71(c)(11) allows the engine manufacturer to supply only provisions for an oil quantity indicator; the indicator itself would be installed by the aircraft manufacturer. There is no reason to specify the supplier of the indicator. 
+
+ Proposed new Sec. 33.71(c)(12) incorporates standards which apply when the oil tank is part of the engine and the propeller feathering system depends on the oil in that tank. The proposed standards are essentially the same as those in Secs. 23.1027 and 25.1027, except that the requirement to demonstrate the system feathering capability is not appropriate to Part 33, since the complete system (e.g., propeller) is not furnished or certificated with the engine. The portion of the conference proposal calling for the system to be able to feather and unfeather under "all normal and agreed fault conditions" is omitted, as no common understanding of the terminology has been achieved. 
+
+ The proposed revisions of Sec. 33.71(d) allow the use of multiple drains, which could result in more efficient drainage. This change, as well as the corresponding revisions of Secs. 23.1021, 25.1021, 27.1021, and 29.1021, endeavor to state more precisely the intent of the current language. In the case of Sec. 27.1021(a) for normal category rotorcraft, the new terminology provides an equivalent level of safety while using more general language, and is consistent with the other parts. The words "entire" and "completely" were deleted, since their meanings were implicit in the new revisions. The addition of new Sec. 33.71(f) places additional responsibility for design for negative acceleration upon the engine manufacturer. It will ensure that these aircraft certification requirements are considered in the early engine design stages. This proposal was initially covered under the conference proposal for Sec. 33.3. 
+
+Ref: Proposals 37, 92, 93, 96, 97, and 98; Agenda Items A-1, E-29, E-30 and G-43. 
+
+77. By adding a new Sec. 33.74 to read as follows: 
+
+Sec. 33.74 Thrust or power augmentation system. Each fluid injection system furnished with an engine that is intended for use on a transport category airplane to augment the engine thrust or power must be designed to meet the requirements of Sec. 25.945 of this chapter. 
+
+Explanation: This proposal requires that fluid injection systems furnished with transport category airplane turbine engines to augment thrust or power be designed to meet the requirements of Sec. 25.945; when such systems are furnished by the engine manufacturer they must be designed to enable the airplane manufacturer to show compliance with Sec. 25.945. This proposal was initially covered under the conference proposal for Sec. 33.3. Ref: Proposal 37; Agenda Items A-1 and G-43. 
+
+78. By revising Secs. 33.75(b) and (c) to read as follows: 
+
+Sec. 33.75 Safety analysis. 
+
+* * * * *
+
+(b) Burst (release hazardous uncontained fragments): 
+
+(c) Generate loads greater than those specified in Sec. 33.23(b)(2); or 
+
+* * * * *
+
+Explanation: This revision of Sec. 33.75(b) would make it consistent with proposed Sec. 33.77(a)(2). Reference to Sec. 33.23(b)(2) in proposed Sec. 33.75(c) correctly refers to that paragraph which specifies the ultimate loads. See the proposals and explanations for Secs. 33.23 and 33.77. 
+
+Ref: Proposals 99, 102 and 103; Agenda Items E-31 and H-32. 
+
+79. By adding a new Sec. 33.76 to read as follows: 
+
+Sec. 33.76 Thrust reverser systems. 
+
+Each thrust reverser system furnished with an engine that is intended for use on an airplane must be designed to meet the requirements of Secs. 25.933(a) and (b) of this chapter. 
+
+Explanation: This proposal requires that thrust reverser systems furnished with airplane engines be designed to meet transport category airplane airworthiness standards; when such systems are furnished by the engine manufacturer they must be designed to enable the airplane manufacturer to show compliance with Secs. 25.933(a) and (b). The proposal was initially covered under the conference proposal for Sec. 33.3. 
+
+Ref: Proposal 37; Agenda Items A-1 and G-43. 
+
+80. By revising Sec. 33.77 to read as follows: 
+
+Sec. 33.77 Foreign object Ingestion. 
+
+(a) Ingestion of a 4-pound bird, under the conditions prescribed in paragraph (e) of this section, may not cause the engine to - 
+
+(1) Catch fire;
+
+(2) Burst (release hazardous uncontained fragments); 
+
+(3) Generate loads greater than those specified in Sec. 33.23(b)(2); or 
+
+(4) Lose the capability of being shut down. 
+
+(b) Ingestion of 3-ounce birds or 1½-pound birds, under the conditions prescribed in paragraph (e) of this section may not cause more than a sustained 25 percent power or thrust loss or require the engine to be shut down within 5 minutes from time of ingestion. 
+
+(c) Ingestion of water, ice, or hail, under the conditions prescribed in paragraph (e) of this section, may not cause a sustained power or thrust loss or require the engine to be shut down. It must be demonstrated that the engine can accelerate and decelerate safely which ingesting a mixture of 4 percent water by weight of engine airflow following stabilized operation at both flight idle and takeoff thrust settings with 4 percent water/air ratio. 
+
+(d) For an engine that incorporates a protective device, compliance with this section need not be demonstrated with respect to foreign objects to be ingested under the conditions prescribed in paragraph (e) of this section if it is shown that - (1) Such foreign objects are of a size that will not pass through the protective device; 
+
+(2) The protective device will withstand the impact of the foreign objects; and 
+
+(3) The foreign object, or objects, stopped by the protective device will not obstruct the flow of induction air into the engine to the extent that a sustained reduction in power or thrust results. 
+
+(e) Compliance with paragraphs (a), (b), and (c) of this section must be shown by engine test under the following ingestion conditions: 
+
+Foreign object
+
+ Test quantity
+
+ Speed of foreign object
+
+ Engine operation
+
+ Ingestion
+
+ 
+
+Birds: 
+
+3-oz size ------------- One for each 50 sq. in.2 of inlet area or fraction thereof up to a maximum of 16 birds. 3-oz bird ingestion not required if a 
+
+1 1/2-lb. bird will pass the inlet guide vanes into the rotor blades. Liftoff speed of typical aircraft. Takeoff In rapid sequence to simulate a flock encounter and aimed at selected critical areas. 
+
+1 1/2-lb. size ------- One for the first 300 in.2 of inlet area, if it can enter the inlet, plus 1 for each additional 600 in.2 of inlet area or fraction thereof up to a maximum of 8 birds. Initial climb speed of typical aircraft. Takeoff In rapid sequence to simulate a flock encounter and aimed at selected critical areas. 
+
+4-lb. size ------------- One if it can enter the inlet. Maximum climb speed of typical aircraft, if the engine has inlet guide vanes.
+
+Liftoff speed of typical aircraft, if the engine does not have inlet guide vanes. Maximum cruise
+
+Takeoff Aimed at critical area.
+
+Aimed at critical area. 
+
+Ice---------------------- Maximum accumulation on a typical inlet cowl and engine face resulting from a 2-min delay in actuating anti-icing system or a slab of ice which is comparable in weight or thickness for that size engine. Sucked in ----------- Maximum cruise. To simulate a continuous maximum icing encounter at 25 degrees F. 
+
+ 
+
+Hail:
+
+(0.8 to 0.9 specific gravity). For all engines: With inlet area of not more than 100 in2: one 1-in. hailstone. With inlet area of more than 100 in2: one 1-in. hailstone. With inlet area of more than 100 in2: one 1-in and one 2-in hailstone for each 150 in2 of inlet area or fraction thereof.
+
+For supersonic engines (in addition): 3 hailstones each having a diameter equal to that in a straight line variation from 1 in at 35,000 ft to 1/4 in at 60,000 ft, using diameter corresponding to the lowest supersonic cruise altitude expected. Rough air flight speed of typical aircraft.
+
+Supersonic cruise velocity. Alternatively, use subsonic velocities with larger hailstones to give equivalent kinetic energy. Maximum cruise at 15,000 ft. altitude.
+
+Maximum cruise. In a volley to simulate a hailstone encounter. One half the number of hailstones aimed at random area over the face of the inlet and the other half aimed at the critical engine face area.
+
+Aimed at critical engine face area. 
+
+ 
+
+ 
+
+Water ----------------- 4 percent of engine airflow by weight. Sucked in ----------- Flight idle, acceleration, takeoff, deceleration. For 3 minutes each at idle and takeoff, and during acceleration and deceleration in spray to simulate rain. 
+
+ 
+
+ 
+
+Note. - The term "inlet area" as used in this section means the engine inlet projected area of the front face of the engine. It includes the projected area of any spinner or bullet nose that is provided. 
+
+Explanation: This proposal contains the following revisions of present Sec. 33.77 (in addition to several nonsubstantive editorial revisions): 
+
+A. The ingestion test requirements for a piece of tire tread in present Secs. 33.77(a) and (f) are deleted. Experience has shown that the hazardous consequences from ingestion of a piece of tire are no greater than those associated with ingestion of a 4-pound bird. 
+
+B. The ingestion test requirements for a broken rotor blade in present Secs. 33.77 (a) and (f) are deleted in favor of proposed new Sec. 33.94. See the explanation for proposed Sec. 33.94. 
+
+C. The parenthetical phrase "(penetrate its case)" in present Sec. 33.77(a)(2) is deleted and the phrase "(release hazardous uncontained fragments)": is inserted in its place. The proposed new language expresses the intent more precisely. Substantively identical charges are proposed for Secs. 33.75(b) and 33.92(a)(2). 
+
+D. The reference to Sec. 33.23 in present Sec. 33.77(a)(3) is changed to Sec. 33.23(b)(2), which refers specifically to the ultimate loads. 
+
+E. Ingestion test requirements for mixed gravel and sand in present Sec. 33.77(b) are deleted. FAA service records do not show that sand and gravel ingestion of the type specified in the current rule has introduced a safety hazard or caused sudden or unexpected power loss or failure. Erosion and wear resulting from ingestion of these substances over periods of time are handled by normal maintenance procedures. 
+
+F. Section 33.77(b) is modified to include the requirement that the engine be capable of operation for a period of 5 minutes following ingestion of birds as specified. This test period is representative of the time required for an aircraft to return for landing following bird ingestion during takeoff or climbout. 
+
+G. The water ingestion test requirement in present Sec. 33.77(f) is expanded to include acceleration and deceleration in order to more completely simulate actual service conditions. 
+
+H. The phrase "to the extent that a sustained reduction in power or thrusts results" is added at the end of present Sec. 33.77(d)(3). The present rule is unnecessarily restrictive, as safety would not be adversely affected if the obstruction in the induction air flow did not reduce engine power or thrust. 
+
+I. In view of the proposed changes of Secs. 33.77(a) and (b) discussed above, and inclusion of the test requirement in proposed paragraph (e), there is no longer a need for present Sec. 33.77(e). 
+
+J. Present Sec. 33.77(f) is redesignated (with the changes discussed in this proposal) as Sec. 33.77(e) and includes in the lead-in phrase the requirement that an engine must be tested for each of the foreign object conditions specified in the table. K. The ingestion test conditions for the 4-pound bird size in present Sec. 33.77(f) are revised to specify foreign-object speeds and engine power settings for engines that have inlet guide vanes and for those that do not. An engine with inlet guide vanes does not have the same critical ingestion speed or critical ingestion power as an engine without inlet guide vanes. 
+
+L. The ingestion test conditions for ice in present Sec. 33.77(f) are changed as follows: 
+
+(1) In the "Test quantity" column, the words "a typical" are inserted before "inlet cowl". These qualifying words are necessary because at the time of engine type certification the applicant may not know what the actual inlet cowl design will be. 
+
+(2) The words "30-second delay" in the "Test quantity" column and the words "intermittent maximum icing encounter" in the "Ingestion" column would be replaced by the words "2-minute delay" and "continuous maximum icing encounter," respectively. The purpose is to make the language consistent with that used in connection with anti-icing system approvals. The ice buildup is essentially the same for the presently worded and proposed conditions. 
+
+(3) In the "Test quantity" column, an option is added to permit the use of a slab of ice comparable to a 2- minute accumulation at the manufacturer's discretion. Certification tests using this alternative have demonstrated satisfactory engine resistance to damage from the ingestion of ice. 
+
+M. A new note is added at the end of proposed Sec. 33.77(e) to define the term "inlet area" and to make it clear that the projected area of any spinner or bullet nose (if provided) is included. 
+
+Ref: Proposals 99, 102, 103, and 104; Agenda Items E-31 and E-32. 
+
+81. By revising Secs. 33.83(a) and (b) to read as follows: 
+
+Sec. 33.83 Vibration test. 
+
+(a) Each engine must undergo a vibration survey to establish the vibration characteristics of the rotor discs, rotor blades, rotor shafts, stator blades, and any other components that are subject to vibratory exciting forces which could induce failure at the maximum inlet distortion limit, over the range of rotor speeds and engine power or thrust, under steady state and transient conditions, from idling speed to 103 percent of the maximum permissible takeoff speed. The survey must be conducted using the same configuration of the loading device which is used for the endurance test, except that the Administrator may allow the use of a modified configuration if that loading device type is incompatible with the necessary vibration instrumentation. 
+
+(b) The vibration stresses (or strains of rotor and stator components determined under paragraph (a) of this section must be less, by a margin acceptable to the Administrator, than the endurance limit of the material from which these parts are made, adjusted for the most severe operating conditions. 
+
+* * * * *
+
+Explanation: Proposed Sec. 33.83(a) requires that the vibration survey cover all engine components that are subject to substantial vibratory exciting forces, not merely those currently listed. The term "rotor discs" is used instead of "rotors" to avoid ambiguity. In addition, proposed Sec. 33.83(a) allows the use of a modified version of the endurance test loading configuration for the required vibration survey under specific circumstances. This revision would provide needed flexibility without adversely affecting safety. The requirement for an adequate margin of safety acceptable to the Administrator as proposed for Sec. 33.83(b) is considered necessary to reduce the probability of high-cycle fatigue failures which service experience has shown to be the cause of a significant portion of uncontained rotor failures. The second and third sentences of current Sec. 33.83(b) are deleted since their intent is covered by the proposed changes. 
+
+Ref: Proposals 110 and 111; Agenda Item F-33. 
+
+Sec. 33.87 [Amended] 
+
+82. By amending Sec. 33.87 as follows: 
+
+1. By redesignating Sec. 33.87(d)(2) as (d)(3); 
+
+2. By inserting a new Sec. 33.87(d)(2) and by revising Secs. 33.87(a) lead-in, (a)(3), (a)(5), (a)(6), and redesignated (d)(3) to read as follows: 
+
+Sec. 33.87 Endurance test. 
+
+(a) General. Each engine must be subjected to an endurance test that includes a total of 150 hours of operation and, depending upon the type and contemplated use of the engine, consists of one of the series of runs specified in paragraphs (b) through (e) of this section, as applicable. For engines tested under paragraph (b), (c), or (d) of this section, the prescribed 6-hour test sequence must be conducted 25 times to complete the required 150 hours of operation. The following test requirements apply: 
+
+* * * * *
+
+(3) Except as provided in paragraph (a)(5) of this section, power or thrust, gas temperature, rotor shaft rotational speed, and if limited, temperature of external surfaces of the engine must be at least 100 percent of the value associated with the particular engine operation be tested. More than one test may be run if all parameters cannot be held at the 100 percent level simultaneously. 
+
+* * * * *
+
+(5) Maximum air bleed for engine and aircraft services must be used during at least one-fifth of the runs. However, for these runs the power or thrust, or the rotor shaft rotational speed, may be less than 100 percent of the value associated with the particular operation being tested if the Administrator finds that the validity of the endurance test is not compromised. (6) Each accessory drive and mounting attachment must be loaded. The load imposed by each accessory used only for aircraft service must be the limit load specified by the applicant for the engine drive and attachment point during rated maximum continuous power or thrust and higher output. The endurance test of any accessory drive and mounting attachment under load may be accomplished on a separate rig if the validity of the test is supported by an approved analysis. 
+
+* * * * *
+
+(d) * * * 
+
+(2) Rated 30-minute power. In each 6-hour test sequence, 30 minutes must be run at rated 30-minute power and thrust except that at the end of one rated 30-minute power and thrust, test period 5 minutes must be run at 2½-minute power. 
+
+(3) The tests required in paragraphs (c)(3) through (c)(6) of this section. 
+
+* * * * *
+
+Explanation: The new second sentence added to the lead-in paragraph of Sec. 33.87(a) in this proposal makes it clear that the 6-hour test sequence prescribed in Secs. 33.87(b), (c), and (d) is to be conducted 25 times to complete the required 150 hours of operation. This conforms to the intent of the rule and its past administration. 
+
+ Revision of Secs. 33.87(a)(3) and (a)(5) will allow the applicant to reduce power or thrust or the rotor shaft rotational speed below the 100 percent value specified in present Sec. 33.87(a)(3) during maximum air bleed runs, as it is not always possible to reach maximum permissible r.p.m. at takeoff and maximum continuous power without exceeding EGT limits under these conditions. However, the Administrator must find that such a reduction does not compromise the validity of the endurance test. This revision will not affect safety. 
+
+ Revision of Sec. 33.87(a)(6) will allow separate rig testing of accessory drives and mounting attachments. The current requirement, which specifies that accessory drives and mounting attachments be loaded when conducting endurance tests on the engine, is unnecessarily restrictive. Separate rig testing, substantiated by appropriate analysis, has been shown satisfactory for this purpose during past engine certification programs. 
+
+ New Sec. 33.87(d)(2) would adjust the current test schedule for the helicopter engine 2½-minute power rating by specifying that 2½ minute power must be applied for 5 minutes at the end of one rated 30- minute power run, thereby establishing a margin of safety and assuring that 2½-minute rated power is available when needed. Redesignated paragraph (d)(3) is modified accordingly. 
+
+ A proposal to require all fluids for supersonic engines to be delivered under allowable limiting conditions during the endurance tests was made by FAA in response to a recommendation prior to the conference by an airline pilots' union. The proponent later decided that the requirement was premature and the proposal was withdrawn. 
+
+Ref: Proposals 112A, 113, 114, and 116; Agenda Item F-35. 
+
+83. By revising Sec. 33.88, including the heading, to read as follows: 
+
+Sec. 33.88 Engine overtemperature test. 
+
+Each engine must be run for 5 minutes at maximum permissible r.p.m. with the gas temperature at least 75° F (42° C) higher than the maximum operating limit. Following this run, the turbine assembly must be within serviceable limits. 
+
+Explanation: The current rule requiring a 30-minute overtemperature test has been found unnecessarily severe. Service experience shows that none of the turbine engines subjected to 5-minute overtemperature tests during type certification have experienced in-service primary rotor disc failure due to overtemperature. Additionally, it is considered extremely improbable that a flight crew would allow a 75° F overtemperature condition to be sustained for more than 5 minutes in service. Therefore, this proposal reduces the duration of the overtemperature test in current Sec. 33.88 from 30 minutes to 5 minutes, and clarifies the acceptance criteria. It is also proposed to replace the current heading "Rotor tests" with the more descriptive "Engine overtemperature test," and to use the term "maximum permissible r.p.m." for consistency. 
+
+Ref: Proposals 118 and 119; Agenda Item F-36. 
+
+84. By revising Sec. 33.89(b) to read as follows: 
+
+Sec. 33.89 Operation test. 
+
+* * * * *
+
+(b) The operation test must include all testing found necessary by the Administrator to demonstrate that the engine has safe operating characteristics throughout its specified operating envelope. 
+
+Explanation: This proposal revises Sec. 33.89(b) to require testing, if necessary, throughout the specified operating envelope of the engine. The specified operating envelope must be investigated by test or by test and analysis to provide for safe engine operating characteristics. The second sentence, dealing with tests to fuel burning thrust augmentors, is deleted, as the subject is implicit in the new wording. Ref: Proposal 121; Agenda Item F-37. 
+
+85. By revising the title and text of Sec. 33.90 to read as follows: 
+
+Sec. 33.90 Initial maintenance inspection. 
+
+Each engine, except engines being type certificated through amendment of an existing type certificate, or through supplemental type certification procedures, must undergo an approved test run that simulates the conditions in which the engine is expected to operate in service, including typical start-stop cycles, to establish when the initial maintenance inspection is required. The test run must be accomplished on an engine which substantially conforms to the final type design. 
+
+Explanation: It is proposed to delete the word "overhaul" as it is not appropriate to many engine maintenance programs. The proposal also eliminates reference to any duration for the test run and allows an approved program to be formulated based on intended usage and service experience. 
+
+Ref: Proposals 45, 124 and 125; Agenda Items A-7 and F-38. 
+
+86. By inserting an initial phrase at the beginning of Sec 33.92(a), and by revising Sec. 33.92(a)(2) to read as follows: 
+
+Sec. 33.92 Windmilling tests. 
+
+(a) For engines to be used in supersonic aircraft, unless * * * 
+
+(1) * * * 
+
+(2) Bursting (releasing hazardous uncontained fragments); or 
+
+* * * * *
+
+Explanation: The windmilling test specified in current Sec. 33.92(a), insofar as it applies to turbine engines for subsonic aircraft, imposes an unnecessary burden on the engine manufacturer. After years of service with these engines, there have been no reported incidents involving windmilling hazards to the aircraft resulting from loss of engine oil. The windmilling test is needed for engines for supersonic aircraft, however, because their rotor speeds during windmilling are much higher than those characteristic of turbine engines for subsonic aircraft. It is therefore proposed to limit the applicability of Sec. 33.92(a) to engines for supersonic aircraft. The proposals for Secs. 33.7(c)(16) and 33.77(a)(2) are consistent with this proposal. 
+
+Ref: Proposal 126; Agenda Item P-39. 
+
+Sec. 33.93 [Amended]. 
+
+87. By amending Sec. 33.93(b) by striking the word "component" and inserting the word "part" in its place. 
+
+Explanation: The word "component" in current Sec. 33.93(b) may be construed to cover only subassemblies (such as pumps and control valves) whereas the intent is to cover all engine parts. To clarify this point, it is proposed to substitute the word "part" for "component." 
+
+Ref: Proposal 128; Agenda Item F-40. 
+
+88. By adding a new Sec. 33.94, to read as follows: 
+
+Sec. 33.94 Blade containment and rotor unbalance tests. 
+
+(a) Except as provided in paragraph (b) of this section, it must be demonstrated by engine tests that the engine is capable of containing damage without catching fire and without failure of its mounting attachments when operated for at least 15 seconds after each of the following events: 
+
+(1) Failure of the most critical compressor of fan blade while operating at maximum permissible r.p.m. The blade failure must occur at the outermost retention groove or, for integrally-bladed rotor discs, at least 80 percent of the blade must fail. (2) Failure of the most critical turbine blade while operating at maximum permissible r.p.m. The blade failure must occur at the outermost retention groove or, for integrally-bladed rotor discs, at least 80 percent of the blade must fail. The most critical turbine blade must be determined by considering turbine blade weight and the strength of the adjacent turbine case at case temperatures and pressures associated with operation at maximum permissible r.p.m. 
+
+(b) Analysis based on rig testing, component testing, or service experience may be substituted for one of the engine tests prescribed in paragraphs (a)(1) and (a)(2) of this section if - 
+
+(1) That test, of the two prescribed, produces the least rotor unbalanced; and 
+
+(2) The analysis is shown to be equivalent to the test. 
+
+Explanation: Current Sec. 33.19 requires that the design of compressor and turbine rotor cases provide for the containment of damage from rotor blade failure. A test for such containment is prescribed in current Sec. 33.77 (which treats a failed rotor blade as a foreign object) but that test need not be performed if the consequences of ingesting a 4-pound bird or a piece of tire tread would be more severe. Recent service experience has indicated that compliance with these requirements may not ensure an adequate containment capability. Proposed Sec. 33.94 requires blade-failure containment testing of an engine in addition to foreign-object ingestion testing under Sec. 33.77. However, consistent with this change, the references to tire fragment ingestion and blade failure containment testing is deleted from current Sec. 33.77. See the proposal and explanation for Sec. 33.77. 
+
+ It should be noted that analysis may be substituted for only one of the tests prescribed in proposed Sec. 33.94(a) if that test, of the two prescribed, produces the least rotor unbalance and the analysis is shown to be equivalent to the test., At least one engine test would have to be conducted in every instance to ensure that the engine case can contain damage from rotor blade failure, and that engine structural integrity is maintained with the rotor unbalance associated with rotor blade failure. 
+
+Ref: Proposal 129; Agenda Item F-41. 
+
+Appendix I - Miscellaneous Proposals withdrawn by Proponent 
+
+ The proposals listed below were withdrawn by their proponents. Proponents or their interested persons may submit similar proposals in the future. The withdrawal of FAA proposals does not commit the FAA to any future course of action. 
+
+14 CFR (FAR sec.) Proposal No. Agenda Item Proponent 
+
+23.943 1 G-43 Federal Aviation Administration 
+
+25.943 5 G-43 Do. 
+
+33.5 38 A-2 Do. 
+
+33.7 39 A-3 Do. 
+
+33.8 47 A-8 Do. 
+
+33.17 55 B-11 Do. 
+
+33.23 58 B-14 Do. 
+
+33.29 69 B-17 Do. 
+
+33.37 69A C-18 Do. 
+
+33.39 70 C-19 Do. 
+
+33.49 75 D-22 Teledyne Continental Motors 
+
+33.65 79 E-24 Federal Aviation Administration 
+
+33.71 95 E-29 Teledyne Continental Motors 
+
+33.77 107 E-32 Federal Aviation Administration 
+
+33.83 108 F-33 Aerospace Industries Association 
+
+33.85 112 F-34 Federal Aviation Administration 
+
+33.87 115 F-35 Do. 
+
+33.89 122 F-37 Do. 
+
+33.89 123 F-37 Do. 
+
+33.93 127 F-40 Do. 
+
+33.99 130 F-42 Do. 
+
+Appendix II - Miscellaneous Proposals Removed From Further Consideration From the Aircraft Engine Regulatory Review Program 
+
+ Based on the FAA's review of the discussion at the Aircraft Engine Regulatory Review Conference and of the information submitted by interested persons, the following proposals considered at the conference are removed from further consideration for the reasons listed below: 
+
+14 CFR (FAR Sec.) Proposal No. Agenda Item Proponent 
+
+25.997 7 E-26 Air Line Pilots Association 
+
+25.1019 11 E-29 Do. 
+
+25.1019 13 E-29 Air Transport Association 
+
+25.1305 18 G-44 Joint Airworthiness Requirements Committee 
+
+25.1305 19 E-26, E-29 Air Line Pilots Association 
+
+27.1093 22 E-27 Association Europeene des Constructeurs de Material 
+
+27.1093 24 E-27 Aerospace Industries Association 
+
+27.1093 25 E-27 Do. 
+
+29.901 27 A-1 Do. 
+
+29.951 28 A-1 Do. 
+
+29.955 29 A-1 Do. 
+
+29.991 30 A-1 Do. 
+
+29.1093 31 E-27 Association Europeene des Constructeurs de Material 
+
+29.1093 33 E-27 Aerospace Industries Association 
+
+29.1093 34 E-27 Do. 
+
+33.7 40 A-3 Flight Line Times 
+
+33.7 41 A-5 Army Department (ARDC) 
+
+33.7 43 A-5 Do. 
+
+33.15 51 B-10 C. Webber 
+
+33.21 57 B-13 Do. 
+
+33.27 66 B-16 Joint Airworthiness Requirements Committee 
+
+33.41 71 D-21 C. Webber 
+
+33.43 73 D-21 Teledyne Continental Motors 
+
+33.49 74 D-22 Do. 
+
+33.65 78 E-24 Air Line Pilots Association 
+
+33.67 82 E-26 Do. 
+
+33.69 90 E-28 William E. Chamberlain 
+
+33.71 91 E-29 Air Line Pilots Association 
+
+33.71 94 E-29 Air Transport Association 
+
+33.77 100 E-32 Air Line Pilots Association 
+
+33.77 101 E-32 National Transportation Safety Board 
+
+33.77 105 E-32 Aerospace Industries Association 
+
+33.77 106 E-32 Do. 
+
+33.83 109 F-33 Joint Airworthiness Requirements Committee 
+
+33.87 117 F-35 Aerospace Industries Association 
+
+33.89 120 F-37 Joint Airworthiness Requirements Committee 
+
+33.99 131 F-42 Aerospace Industries Association 
+
+Proposals 7 and 82 - The proponent suggested an amendment to Secs. 25.997 and 33.67 that would require that each fuel strainer or filter on a turbine engine-powered airplane have a bypass, and that a means be provided to indicate to the flight crew the occurrence of fuel strainer or filter contamination before the bypass begins to open. Under present Secs. 25.997 and 25.1305(c)(6), a bypass is not required, but an indicator must be provided to indicate the occurrence of contamination of fuel strainer or filter before it reaches its established capacity. The service record does not justify the need for the proposed rule change. Fuel systems with the proposed features (which are optional under present rules) have been approved in the past, but have not demonstrated a significant safety advantage over those without them. 
+
+Proposals 11 and 91 - The proponent suggested an amendment to Secs. 25.1019 and 33.71 that would require that each oil strainer or filter be fitted with a bypass. The service record does not justify the proposed rule change. Oil systems incorporating bypasses (which are optional under present rules) have been approved in the past but have not demonstrated a significant safety advantage over those without them. 
+
+Proposals 13, 20 and 94 - The proposals to delete the requirement for warning means to indicate imminent critical contamination of oil strainers and filters is not considered valid in respect to the overall service record. Although premature or false indications may cause unnecessary precautions to be taken in a few cases, on balance retention of the feature mitigates in favor of safety. 
+
+Proposal 18 - It was suggested that Sec. 25.1305(a) be revised by amending the list of required powerplant instruments to include the phrase "any other instrumentation of warning means, as listed in the engine type certificate data sheet, which is necessary to ensure the safe operation of the airplane." There is no administrative need to include this general provision as it is adequately provided for in Part 21. 
+
+Proposal 19 - The proposal would revise Secs. 25.1305(c)(6) and (c)(7) to incorporate editorial changes consistent with Proposals 7 and 11. Since Proposals 7 and 11 are removed from consideration, there is no need to consider this related proposal. 
+
+Proposals 22, 24, 25, 31, 33, and 34 - These proposals retain in some form the rotorcraft ground induction system icing tests proposed for airplanes. For an explanation of the reason for their removal, see the proposal for Sec. 33.68. 
+
+Proposal 27 - The proposal would revise Sec. 29.901(c)(2) so that the applicant, in showing compliance with Sec. 29.901(c), could disregard the failure of any component approved separately under another part of the CFR (presumably Part 33, 35, or 37). The FAA disagrees. Approval of a critical component under another part does not ensure in every case that it will meet Sec. 29.901(c) in a powerplant or auxiliary power installation on a rotorcraft. 
+
+Proposal 28 - The proponent would revise Sec. 29.951(c) to limit its application to "airframe" fuel systems. The present part, in conjunction with the provisions of Part 33, is intended to ensure that the complete fuel system for the powerplant installation, which may or may not include engine fuel condition facilities or utilize anti-icing additives, meets the cold operation requirements stated therein. This intent would be unnecessarily restricted by the proposal and it is therefore removed from consideration. 
+
+Proposal 29 - The proposal would amend Sec. 29.955(a)(3) by exempting emergency or "main pumps" that are not part of the engine, if not required. Under the present rules, a main pump may be part of the engine or part of the airframe fuel system. The FAA sees no reason to restrict the definition of the term "main pump" in the manner proposed and considers the present rules adequate. 
+
+Proposal 30 - The proposal would amend Secs. 29.991(a) and (b) in a manner similar to Proposal 29. For an explanation, see Proposal 29. 
+
+Proposal 40 - The proposal would add language to current Sec. 33.7(b)(2) to ensure that each reciprocating engine fuel approved by the Administrator has been demonstrated as safe by the engine manufacturer. The current rule already serves this purpose. The engine manufacturer is required to identify the fuel the engine is to use, to perform all type certification tests using that fuel, and to establish that fuel as an operating limitation on the engine. If an applicant wishes to obtain approval for the use of an alternate fuel, the 
+
+applicant must demonstrate by test that the engine using that fuel meets the applicable type certification requirements. 
+
+Proposals 41 and 43 (in part) - Those portions of the proposals calling for deletion of the phrase "of a supersonic engine" from Secs. 33.7(c)(5)(ii) and (c)(6)(iii) are removed from consideration. Section 33.7 is the ratings and operating limitations section. The FAA has no record of problems which would necessitate a regulation requiring the applicant to specify a limiting induction air temperature and pressure for engines to be used in subsonic aircraft. The lack of a regulation, however, does not prevent an engine manufacturer from specifying such limits when a design requires them. 
+
+Proposal 51 - The proposal would add language to current Sec. 33.15 indicating several different methods by which an applicant could establish the suitability and durability of the materials used in the applicant's engine. The current rule is sufficiently broad to include these methods, and no change is necessary. 
+
+Proposal 57 - The proposal would amend Sec. 33.21 to require the engine manufacturer to provide comprehensive information on engine heat generation and dissipation, oil temperature measurement, and means for monitoring engine cooling in flight. The current rule ensures that the engine is designed and constructed to provide adequate cooling and to provide that oil temperature limits established under Sec 33.7 are fully justified by the engine manufacturer during the type certification program. 
+
+Proposal 66 - The proposal would revise Sec. 33.27(c) to require overspeed tests of discs having minimum material properties and most adverse dimensions. It also would increase the rotational speed for most of the tests, would require multiple tests, and would establish the acceptance criterion as the ability to survive without bursting, regardless of dimensions. In the light of past experience, these provisions are unnecessarily conservative and would impose unwarranted penalties on new designs without increasing safety. 
+
+Proposal 71 - Section 33.41 would be amended to allow the substitution of engine service data accumulated on experimental aircraft for certain engine block tests prescribed in Part 33. Its intent would be to simplify the type certification of engines of less than 100 horsepower. A comprehensive proposal along these lines has been submitted to the FAA by the Experimental Aircraft Association (EAA). This proposal will be considered together with the EAA proposal as a separate regulatory project. 
+
+Proposal 73 - The proposal would amend Sec. 33.43(b) to allow (as an alternative to showing that the torsional and bending stresses of the output shaft do not exceed the endurance limit of the material from which it is made) the publication of operating instructions which set forth operating procedures to avoid possible damage to the engine. The proponent based the need for this proposal on the inability of certain engines to meet the requirement of Sec. 33.43(b) for the one-cylinder-not-firing condition prescribed in present Sec. 33.43(a). Under the proposal for Secs. 33.43(a) and (d) contained in this notice, compliance with Sec. 33.43(b) need not be shown for the one-cylinder-not- firing condition; instead, the new requirement would provide safe operating information for incorporation into placards, markings, and flight manual notes. 
+
+Proposal 74 - The proposal would amend Sec. 33.49(a) by allowing the order of the endurance test runs to be selected by the applicant. In current certification practice the applicant proposes the order of the runs, which is then accepted by the Administrator unless there are valid safety reasons for changing the order. The FAA must retain its authority to alter the applicant's proposed order of runs as necessary to ensure safety. 
+
+Proposal 78 - Current Sec. 33.65 as well as the proposed addition of the phrase "permanent deformation of any engine part" attempt to limit engine surge-stall in terms of physical effects on the engine. Since these end-effect criteria are difficult to quantify and administer, the proposal is withdrawn in favor of one which would establish operating margins by test or analysis, by which undesirable surge-stall operation could be avoided. 
+
+Proposal 90 - The proponent would add the following sentence to present Sec. 33.69: "Provision must be made for positive indication that the fuel burning augmentation system is operating when selected." Discussions at the Review Conference disclosed that the intent of this proposal was to provide an indication to the flight crew when the engine's continuous ignition system was operating satisfactorily. The need for the proposed requirement is not justified by the service record. 
+
+Proposal 100 - Section 33.77 would be revised to increase the present ingestion test requirements of a 4- pound bird and 1½-pound birds of Secs. 33.77(a) and (b) to an 8-pound bird and 2-pound birds, respectively, and would increase the number of birds used in some tests. There is no known service experience or field data which would justify this increase in test requirements. In addition, the proposal to double the size of test hailstones for supersonic engine inlets is not considered realistic, since the size of hailstones is not a function of the type of aircraft which goes into them. 
+
+Proposal 101 - The number and size of birds used in the ingestion test of Sec. 33.77 would be increased in this proposal. See Proposal 100. 
+
+Proposal 105 - The proposal would substitute the word "significant" for "sustained" in describing objectionable power or thrust loss in Sec. 33.77(c). It is considered that a sustained loss of power or thrust under foreign object ingestion conditions is more indicative of serious problems from an operational standpoint; therefore, the proposal is removed from consideration. 
+
+Proposal 106 - The proposal would allow substitution of analysis or past experience for tests of the effects of mixed gravel or sand ingestion as required under present Sec. 33.77(e). It is proposed to delete sand and gravel tests altogether (see the proposal for Sec. 33.77) 
+
+Proposal 109 - The proposal would amend Sec. 33.63(a) to require consideration of "likely appropriate failure conditions" during the prescribed vibration survey. The FAA disagrees. The service record does not justify the need for this provision. Further, the FAA believes that the analysis required by Sec. 33.75(b) would reveal such conditions and lead to their correction before type certification. 
+
+Proposal 117 - The proposal would delete Sec. 33.87(d)(3). The proposal is removed from consideration since the proposed change is already in effect. (Amendment 33-6, 39 FR 35466; October 1, 1974). 
+
+Proposal 120 - The proposal would amend Sec. 33.89(a) by adding a requirement that the operation test include testing to demonstrate that rapid movement of the power control lever from flight idle to the extreme forward position does not prevent continued safe operation of the engine. The FAA disagrees. Traditionally, the FAA has relied on pilot monitoring of engine controls in all operating circumstances. No data has been presented which would warrant consideration of this proposal. 
+
+Proposal 131 - The proposal would delete the requirement for service and maintenance instructions in accordance with Sec. 33.5 to be provided for the block tests. The FAA considers that these minimal instructions are a necessary guide to the servicing and minor repairs which may be done during the block tests, and that it would impose no great hardship to have such instructions set down in preliminary form. 
+
+(Sections 313(a), 601, 603, and 604, Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424); section 6(c) of the Department of Transportation Act (49 U.S.C. 1655(c); 14 CFR 11.45) 
+
+Note - The FAA has determined that this document involves proposed regulations which are not considered to be significant under the procedures and criteria prescribed by Executive Order 12044 and as implemented by the Department of Transportation Regulatory Policies and Procedures (44 FR 11304; February 26, 1979). A copy of the draft evaluation prepared for this action is contained in the regulatory docket. A copy of it may be obtained from the person identified earlier in this document as contact for further information. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, D.C., on November 10, 1980.
+
+Melvin C. Beard,
+
+Director of Airworthiness.
+
+[FR Doc. 80-35080 Filed 11-19-80; 8:48am]
+
+BILLING CODE 4010-13-M
+
+
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

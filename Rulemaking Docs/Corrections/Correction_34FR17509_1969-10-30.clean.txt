@@ -1,0 +1,428 @@
+[[Federal Register Vol. 34, p.17509 — 1969-10-30]]
+(来源：govinfo FR-1969-10-30 整期影印 PDF 第 5 页，OCR 文字层 + 分栏重排)
+(整期共 96 页，本更正件还在次页时一并纳入)
+
+[[PDF page 5]]
+Rules
+Title 14— AERONAUTICS AND
+SPACE
+Chapter I— Federal Aviation Adminis­
+tration, Department of Transportation
+[Docket No. 8083; Arndt. No. 23-7]
+PART 23— AIRWORTHINESS STAND­
+ARDS: NORMAL, UTILITY, AND
+ACROBATIC CATEGORY AIR­
+PLANES
+Small Airplane Type Certification
+Requirements; Correction
+The amendment to § 23.369 of the Fed­
+eral Aviation Regulations, appearing in
+the F ederal R egister issue for Wednes-
+day> August 13, 1969, page 13089, is not
+correct as it now stands, and that amend­
+ment is corrected to read as follows:
+25. Section 23.369(a) is amended by
+striking out the_ formula “F=10 VW/S-f
+(m.p.h.)” and inserting in place thereof
+the formula “7=8.7 VW/S+8.7 (knots)”.
+Issued, in Washington, D.C., on Octo­
+ber 24, 1969.
+J. H. Shaffer,
+Administrator.
+[F.R. Doc. 69-12957; Filed, Oct. 29, I960;
+8:48 a.m.]
+[Docket No. 9756; Admt. 39-865]
+PART 39— AIRWORTHINESS
+DIRECTIVES
+Avions Marcel Dassault Fan Jet Fal­
+con and Fan Jet Falcon Series D
+Airplanes Serial Nos. 73 and Subse­
+quent
+A proposal to amend Part 39 of the
+Federal Aviation Regulations to include
+an airworthiness directive (AD), requir­
+ing replacement of unmodified landing
+gear microswitches with a modified
+switch was published in 34 F.R. 13423.
+Interested persons have been afforded
+an opportunity to participate in the mak-
+“ig of the amendment. No objections
+were received. However, it has been sub-
+sequently determined that the compli­
+ance time started in the notice was un­
+realistic and for this reason it has been
+extended in terms of hours’ time in serv­
+es. This will allow the operator to in­
+corporate this AD into his next routine
+inspection cycle.
+In consideration of the foregoing and
+rsuant to the authority delegated to
+. „ the Administrator (14 CFR 11.89),
+' f 39 of the Federal Aviation
+foil ati0ns is amen<ied by adding the
+owing new airworthiness directive;
+FEDERAL REGISTER,
+and Regulations
+Avions Marcel Dassault. Applies to all Fan
+Jet Falcon and Fan Jet Falcon Series D
+Airplanes having serial numbers 73 and
+subsequent on which the production
+microswitch has been replaced with a
+switch that has not been modified.
+Compliance is required as indicated, unless
+already accomplished.
+To prevent the ingress of moisture in the
+landing gear microswitch assembly, within
+the next 50 hours’ time in service after the
+effective date of this AD, replace the unmodi­
+fied microswitch with a modified switch in
+accordance with Avions Marcel Dassault
+Service Bulletin No. 333 Revision 2, dated
+March 28,1969, or later SGAC-approved issue,
+or an FAA-approved equivalent as follows:
+(a) Nose Landing Gear, Telescopic Bar. Re­
+place the switch P/N Al.23802 with modified
+switch P/N Al.23802 VI V2.
+(b) Nose Landing Gear, Door Actuating
+Cylinder. Replace the switch P/N A1.23801
+with modified switch P/N A1.23801 VI V2.
+(c) Main Landing Gear, Drag Strut Actua­
+tor Cylinder. Replace the switch P/N A2.-
+23802 with modified switch P/N A2.23802 VI
+V2.
+(d) Main Landing Gear, Door Actuating
+Cylinder. Replace the switch P/N A2.23801
+with modified switch P/N A2.238Q1 VI V2.
+This amendment becomes effective
+November 26, 1969.
+(Secs. 313(a), 601, 603, Federal Aviation Act
+of 1958, 49 U.S.C. 1354(a), 1421, 1423; sec.
+6 (c), Department of Transportation Act, 49
+U.S.C. 1655(c))
+Issued in Washington, D.C., on Octo­
+ber 23, 1969.
+J ames F . R udolph,
+Director, Flight Standards Service.
+[F.R. Doc. 69-12953; Filed, Oct. 29, 1969;
+8:48 a.m.]
+[Docket No. 9467; Arndt. 39-858]
+PART 39— AIRWORTHINESS
+DIRECTIVES
+Godfrey Cabin Superchargers Type
+15, Marks 6, 9, and 14; Correction
+The applicability clause and para­
+graphs (b) and (c) of Amendment 39-
+858 to Part 39 of the Federal Aviation
+Regulations appearing in the F ederal
+R egister issue for October 4, 1969, page
+15467, are not correct as they now stand
+and should be „corrected to read as
+follows:
+G odfrey. Applies to Godfrey Cabin Super­
+chargers Type 15, Marks 6, 9, and 14, in­
+stalled on, but not necessarily limited to
+British Aircraft Corp., Viscount Models
+744, 745D, and 810; Armstrong Whit­
+worth Argosy AW-650; Fokker F-27,
+Marks 100 and 300; Fairchild Hiller F-27
+and FH—227 all series; Grumman Model
+0 —159 and Nihon YS—11 all series
+airplanes.
+* * * * *
+(b ) For Armstrong Whitworth Argosy AW-
+650, Grumman Model G-159, and Nihon
+YS-11 series airplanes, at the next overhaul
+VOL. 34, NO. 209— THURSDAY, OCTOBER
+17509
+of the supercharger or within the next 1,500
+hours’ time in service, whichever occurs first,
+after the effective date of this AD, comply
+with either paragraph (d) or (e) of this AD.
+• (c) For Fokker Model F-27, Marks 100 and
+300 series airplanes, and Fairchild Hiller
+Models F—27 and FH—227 series airplanes, at
+the next overhaul of the supercharger or
+within the next 1,500 hours’ time in service,
+whichever occurs first, after the effective date
+of this AD, comply with either paragraph (d)
+or (f) of this AD.
+* * * * *
+Issued in Washington, D.C., on Octo­
+ber 24, 1969.
+, R. S. Sliff,
+Acting Director,
+Flight Standards Service.
+[F.R. Doc. 69-12956; Filed, Oct. 29, 1969;
+8:48 a.m.]
+[Airspace Docket No. 69-WE-22]
+PART 71— DESIGNATION OF FEDERAL
+AIRWAYS, CONTROLLED AIRSPACE,
+AND REPORTING POINTS
+Alteration of Federal Airway
+On September 17, 1969, F.R. Doc. No.
+69-11065 was published in the F ederal
+R egister (34 F.R. 14461) and amended
+Part 71 of the Federal Aviation Regula­
+tions by designating VOR Federal air­
+way No. 197 from Ontario, Calif.;
+Pomona, Calif.; Palmdale, Calif.; INT
+Palmdale 314° and Bakersfield, Calif.,
+137° radiais; Bakersfield. This action is
+to become effective November 13, .1969.
+Subsequent to publication of the docu­
+ment, it was disclosed that the Edwards
+RAPCON DELTA 3 airspace assigned to
+Edwards AFB, Calif., would encroach
+upon the airway to a slight extent. Even
+though operations in this assigned air­
+space are conducted in accordance with
+VFR flight rules, each operation along
+V-197 will require prior coordination be­
+tween thé Los Angeles ARTC Center and
+the Edwards AFB RAPCON. A reduction
+of the airway width to 3 nautical miles on
+the northeast side from Palmdale to a
+point 30 miles northwest will alleviate the
+conflict in airspace jurisdiction and ob­
+viate the requirement for prior coordina­
+tion. Such action is taken herein.
+Since this amendment is minor in
+nature and is one in which members of
+the public are not particularly interested,
+notice and public procedure hereon are
+unnecessary, and good cause exists for
+making this amendment effective on less
+than 30 days noticeT
+In consideration of the foregoing, F.R.
+DOC. No. 69-11065 (34 F.R. 14461) is
+amended effective immediately as here­
+inafter set forth: In V-195 “Bakersfield.”
+is deleted and “Bakersfield, excluding
+the airspace more than 3 miles northeast
+of the centerline from Palmdale to 30
+miles northwest.” is substituted therefor.
+30, 1969
+
+[[PDF page 6]]
+17510
+(Sec. 307(a), Federal Aviation Act of 1958, 49
+U.S.C. 1348; sec. 6 (c), Department of Trans­
+portation Act, 49 U.S.C. 1655(c))
+Issued in Washington, D.C., on Octo­
+ber 27,1969.
+H. B. H elstrom,
+Chief, Airspace and Air
+Traffic Rules Division.
+[F.R. Doc. 69-12955; Filed, Oct. 29, 1969;
+8:48 a.m.]
+[Airspace Docket No. 69-WA—41]
+PART 71— DESIGNATION OF FEDERAL
+AIRWAYS, CONTROLLED AIRSPACE,
+AND REPORTING POINTS
+Federal Airway and Reporting Points;
+Correction
+On February 8, 1969, Airspace Docket
+No. 68-AL-4 was published in the F ed­
+eral R egister (34 F.R. 1894) and
+amended Parts 71 and 75 of the Fed­
+eral Aviation Regulations in part by
+designating Green Federal airway No.
+11, designating Anvil INT and the
+Amchitka, Alaska, RBN as Alaskan low
+altitude reporting points and Anvil INT
+as an Alaskan high altitude reporting
+point. These amendments were effective
+April 3, 1969.
+The Amchitka RBN referred to in
+these amendments should have been the
+Kirilof Wharf, Alaska, RBN. Corrective
+action is taken herein.
+Since these amendments are editorial
+in nature and no substantive change in
+the regulation is effected, notice and
+public procedure hereon are unneces­
+sary. However, since it is necessary to
+allow sufficient time to make the appro­
+priate changes to aeronautical charts,
+these amendments will become effective
+more than 30 days after publication.
+In consideration of the foregoing,
+Part 71 of the Federal Aviation Regula­
+tions is amended, effective 0901 G.m.t.,
+January 8, 1970, as hereinafter set forth.
+1. Section 71.103 (34 F.R. 1894, 4506)
+is amended as follows:
+a. In G -ll “Amchitka” is deleted and
+x“Kirilof Wharf” is substituted therefor.
+2. Section 71.211 (34 F.R. 1894, 4804)
+is amended as follows:
+a. In Anvil INT: “Amchitka” is de­
+leted and “Kirilof Wharf” is substituted
+therefor.
+b. “Amchitka, Alaska, RBN” is de­
+leted and “Kirilof Wharf, Alaska, RBN.”
+is substituted therefor.
+3. Section 71.213 (34 F.R. 1894, 4805)
+is amended as follows:
+a. In Anvil INT: “Amchitka” is deleted
+and “Kirilof Wharf” is substituted
+therefor.
+(Sec. 307(a), Federal Aviation Act of 1958, 49
+U.S.C. 1348; sec. 6 (c), Department of Trans­
+portation Act, 49 U.S.C. 1655(c))
+Issued in Washington, D.C., on Octo­
+ber 27,1969.
+H. B. Helstrom,
+Chief, Airspace and Air
+Traffic Rules Division.
+[F.R. Doc. 69-12958; Filed, Oct. 29, 1969;
+8:48 a.m.]
+FEDERAL REGISTER,
+RULES AND REGULATIONS
+[Airspace Docket No. 69—SO-83]
+PART 71— DESIGNATION OF FEDERAL
+AIRWAYS, CONTROLLED AIRSPACE,
+AND REPORTING POINTS
+Alteration of Transition Area
+On October 14, 1969, F.R. Doc. No. 69-
+12224, effective December 11, 1969, was
+published in the F ederal R egister (34
+F Jt. 15786), amending Part 71 of the
+Federal Aviation Regulations by altering
+the Rocky Mount, N.C., transition area.
+In the amendment, the geographic co­
+ordinate for Rocky Mount-Wilson Air­
+port, as obtained from the Airport Lay­
+out Plan, was shown as “lat. 35°51T6" N.,
+long. 77°53'26" W.”
+Subsequent to publication of the rule,
+the geographic coordinate (lat. 35°51T5"
+N., long. 77°53'40" W.) was received from
+Coast and Geodetic Survey. Accordingly,
+it is necessary to amend the F.R. docu­
+ment to reflects this change.
+In consideration of the foregoing, no­
+tice and public procedure hereon are un­
+necessary and F.R. Doc. No. 69-12224 is
+amended, effective immediately, as here­
+inafter set forth.
+In lines 9 and 10 of the Rocky Mount,
+N.C., transition area description “* * *
+(lat. 35°51T6" N., long. 77°53'26" W.)
+* * *.” is deleted and “* * * (lat.
+35°51T5" N., long. 77°53'40" JV.) * * *•”
+is substituted therefor.
+(Sec. 307(a), Federal Aviation Act of 1958, 49
+U.S.C. 1348(a); sec. 6 (c), Department of
+Transportation Act, 49 U.S.C. 1655(c))
+Issued in East Point, Ga., on Octo­
+ber 22,1969.
+J ames G. R ogers,
+Director, Southern Region.
+[F.R. Doc. 69-12959; Filed, Oct. 29, 1969;
+8:48 a.m.]
+[Airspace Docket No. 69-CE-68]'
+PART 71— DESIGNATION OF FEDERAL
+AIRWAYS, CONTROLLED AIRSPACE,
+AND REPORTING POINTS
+Alteration of Control Zone and
+Transition
+On page 13425 of the F ederal R egister
+dated August 20, 1969, the Federal Avia­
+tion Administration published a notice of
+proposed rule making which would
+amend §§ 71.171 and 71.181 of Part 71 of
+the Federal Aviation Regulations so as
+to alter the control zone and transition
+area at Muncie, Ind.
+Interested persons were given 45 days
+to submit written comments, suggestions,
+or objections regarding the proposed
+amendments.
+No objections have been received and
+the amendments as so proposed are
+hereby adopted, subject to the following
+change: The Delaware County-Johnson
+Field latitude coordinate recited in the
+Muncie, Ind., transition area designation
+as “latitude 40°14'25" N.” is changed to
+read “latitude 40°14'30" N.”.
+This amendment shall be effective 0901
+G.m.t., January 8, 1970.
+VOL. 34, NO. 209— THURSDAY, OCTOBER
+(Sec. 307(a), Federal Aviation Act of 1958,
+49 U.S.C. 1348; eec. 6 (c), Department of
+Transportation Act, 49 U.S.C. 1655(c) )
+Issued in Kansas City, Mo., on Octo­
+ber 15, 1969.
+R obert I. Gale,
+Acting Director, Central Region.
+(1) In § 71.171 (34 F.R. 4557), the fol­
+lowing control zone is amended to read:
+Muncie, I nd.
+Within a 5-mile radius of Delaware
+County-Johnson Field (latitude 40°14'25"
+N„ longitude 85°23'45" W.); within 2y2
+miles each side of the Muncie VOR 125°
+radial, extending from the 5-mile radius
+zone to 6% miles southeast of the VOR;
+within 2 Vi miles each side of the Muncie
+VOR 017° radial, extending from the 5-mile
+radius zone to 6y2 miles north of the VOR;
+and within 3 y2 miles each side of the Muncie
+VOR 320° radial, extending from the 5-mile
+radius zone to 10 miles northwest of the
+VOR, from 0700 to 2300 hours local time
+daily.
+(2) In § 71.181 (34 F.R. 4637), the fol­
+lowing transition area is amended to
+read:
+Muncie, I nd.
+That airspace extending upward from 700
+feet above the surface within a 7-mile radius
+of Delaware County-Johnson Field (latitude
+40°14'30" N., longitude 85°23'45'' W .); within
+3 miles each side of the Muncie VOR 125°
+radial, extending from the 7-mile radius area
+to 8 miles southeast of the VOR; within 3
+miles each side of the Muncie VOR 017°
+radial, extending from the 7-mile radius area
+to 8 miles north, of the VOR; and within 3l/2
+miles each side of the Muncie VOR 320° ra­
+dial, extending from the 7-mile radius area
+to 10 miles northwest of the VOR; and that
+airspace extending upward from 1,200 feet
+above the surface within the area bounded
+by a line beginning at latitude 40°40'00" N.,
+longitude 85°30'00" W.; to latitude 40°30'00"
+N., longitude 85°22'00'' W.; to latitude
+40°30'00" N., longitude 84°49'00'' W.; to lati­
+tude 40°1G'00' N., longitude 85°00'00" W.; to
+latitude ■ 40°ÎO'OO” N., longitude 85°05'45''
+W.; to latitude 40°00'00'' N., longitude
+84°58'00” W.; to latitude 40°00'00" N„
+longitude 86°00'00” W.; to latitude 40°-
+07'00" N., longitude 86°00'00'' W.; to lati­
+tude 40°30'00" N., longitude 85°50'00” W.;
+to latitude 40°40'00'' N., longitude 85°50'00"
+W.; to the point of beginning; and within a
+12-mile radius of Marion, Indiana Municipal
+Airport (latitude 40°29'25” N., longitude
+85°40'40" W .).
+[F.R. Doc. 69-12960; Filed, Oct. 29; 1969;
+8:48 a.m.]
+[Airspace Docket No. 69-SO-84]
+PART 71— DESIGNATION OF FEDERAL
+AIRWAYS, CONTROLLED AIRSPACE,
+AND REPORTING POINTS
+Alteration of Control Zone and
+Transition Area
+On September 12, 1969, a notice of
+proposed rule making was published in
+the F ederal R egister (34 F.R. 14332),
+stating that the Federal1 Aviation Admin­
+istration was considering an amendment
+to Part 71 of the Federal Aviation Regu­
+lations that would alter the Greenyille,
+Miss., control zone and transition area.
+30, 1969

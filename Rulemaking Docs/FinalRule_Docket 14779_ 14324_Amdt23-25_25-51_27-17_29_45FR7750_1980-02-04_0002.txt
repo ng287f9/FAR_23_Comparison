@@ -1,0 +1,446 @@
+FINAL RULES: 23-25|25-51|27-17|29-18|91-162|121-155
+
+ 
+ 
+        
+CITATION: [Federal Register: February 4, 1980 (Volume 45, Number 24)]
+
+ 
+        
+PAGE NUMBER: [Page 7750]
+
+ 
+        
+DOCKET NUMBER: 14779, 14324
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29|Part 91|Part 121
+
+ 
+        
+SUBJECT HEADING: Airworthiness Review Program; Amendment No. 8: Cabin Safety and Flight Attendant Amendments
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of these amendments to the Federal Aviation Regulation is to update and improve the airworthiness standards applicable to cabin safety and to those affecting flight attendants. These amendments are part of the Airworthiness Review Program.
+
+ 
+        
+DATES: EFFECTIVE DATE: March 6, 1980.
+
+ 
+        
+EFFECTIVE DATE: 1980-03-06
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Everett W. Pittman, Safety Regulations Staff. (AVS-22) Federal Aviation Administration, 800 Independence Ave., SW., Washington, D. C. 20591, telephone (202) 755-8714.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ 
+
+ These amendments concern cabin and flight attendant safety and are part of the Airworthiness Review Program. They are based on two Notice of Proposed Rule Making--Notice 75-10 published in the Federal Register on March 7, 1975 (40 FR 10802), and Notice 75-31 published in the Federal Register on July 11, 1975 (40 FR 29410). Because of the Federal Aviation Administration's serious concern for cabin and flight attendant safety, these proposals are being handled separately in this amendment. This action completes disposition of the proposals contained in Notice 75-10; the remainder of the proposals contained in Notice 75-31 will be treated in a subsequent rulemaking action.
+
+ The following amendments have previously been issued as part of this Airworthiness Review Programs:
+
+Title and FR Citation
+
+Form Number and Clarifying Revisions (40 FR 2576; Jan. 14, 1975).
+
+Rotorcraft Anticollision Light Standards (41 FR 5290; Feb. 5, 1976).
+
+Miscellaneous Amendments (41 FR 55454; Dec. 20, 1976).
+
+Powerplant Amendments (42 FR 15034; March 17, 1977).
+
+Equipment and Systems Amendments (42 FR 36960; July 18, 1977).
+
+Flight Amendments (43 FR 2302; Jan. 16, 1978).
+
+Airframe Amendments (43 FR 50578; Oct. 30, 1978).
+
+ Interest persons have been afforded the opportunity to participate in the making of these amendments and due consideration has been given to all matters presented.
+
+Background
+
+ In late 1978, the Administrator ordered a review of all cabin safety programs and projects within the various FAA offices. While the agency's several programs all pursued the same goal of improving safety, there was lacking a cohesiveness of effort, a central focal point. After assessing the status of these projects, the Administrator in early 1979, directed the agency to integrate all aspects of cabin safety into one program. The agency's new approach is to comprehensively deal with the problems by relating all aspects of cabin safety into a "total" cabin safety program with one program manager, the Director of Aviation Safety.
+
+ The integrated cabin safety program consists of a number of key activities which individually exit at various stages of completion. This amendment, as one element of that program, converts all but one of the proposals concerning cabin safety contained in the outstanding notices of proposed rulemaking, into final rules. The proposal concerning lower deck service compartments, Sec. 25.619 (Proposal 8-40) has been deferred to later rulemaking action.
+
+ Other portions of the overall program, which are not dealt with in this action, concern such areas as the smoke, toxicity, and flammability characteristics of cabin interior materials and fuel explosion suppressive devices. These matters are currently the subjects of intensive research and development work which will form the basic of future regulatory standards.
+
+ The FAA's concern for improving the cabin safety environment for the traveling public, and for the flight crews and flight attendants serving that public, was underscored by the numerous comments received in response to Notice 75-10 and 75-31. While those notices contained many proposals for rule changes in other important airworthiness certification areas, the widespread concern over cabin safety has prompted the FAA to treat the subject by separate amendment at this time.
+
+ The proposals which form the basis for this amendment cover aircraft certification requirements for seats to be occupied by flight-crew members, flight attendants, and forward observers. Relative to the seats, the proposals also speak to seat belts and shoulder harnesses. Other items of cabin safety include stowage and service compartments, floor surfaces, and waste receptacles. In addition to the proposals related to type certification requirements, this amendment also completes action on proposals for operating rule changes that will impose some similar requirements on currently operating aircraft.
+
+ The FAA has determined that this document involves a proposed regulation which in non-significant under Executive Order 12044 as implemented by DOT Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). The regulatory evaluation prepared for the regulations is contained in the regulatory docket. A copy of the regulatory evaluation may be obtained by contacting the person identified above under the caption "FOR FURTHER INFORMATION CONTACT * * *"
+
+Discussion of Comments
+
+ The following discussion is keyed to like-numbered proposals contained in Notice 75-31, Proposals from Notice 75-10 are identified and discussed with the related Notice 75-31 proposals.
+
+ Proposals 8-36 and 2-60. In addition to the proposal revision of Sec. 25.785 in Notice 75-31 dealing with the design and location of seats, berths, safety belts, and harnesses, a proposed Airworthiness Directive (AD), Docket No. 14912, was issued on August 7, 1975 (40 FR 34139) proposing the removal of side-facing flight attendant seats and establishing criteria for the design, location, and removal of other flight attendant seats.
+
+ Both Notice 75-31 and the proposed AD contained similar proposals for flight attendant seats, and comments were received on both proposals. An AD was subsequently issued on February 23, 1976 (41 FR 8766) to require the removal of each side-facing flight attendant seat. The AD did not require corrective action on the other items contained in the proposed AD, since it was intended that the design or removal of other flight attendant seats would be considered in connection with final rulemaking action under Proposals 8-36 and 8-117 in Notice 75-31. Comments received on the proposed AD have been considered under related proposals in Notice 75-31. The energy absorbing rest requirement of proposed Sec. 25.785(h)(2)(i) is intended to answer numerous comments received in the AD docket relating to allegedly hazardous characteristics of certain galley mounted flight attendant jumpseats now used in air carrier service. Since Sec. 25. 785(h)(2)(i) is specifically made applicable to air carrier operations in proposed Sec. 121.311(f), present flight attendant jumpseats not designed to provide necessary arm, shoulder, head and spine support will be prohibited from use during air carrier operations upon the effective date of this amendment.
+
+ A commenter suggested that proposed Sec. 25.785(g) only apply to required flight crew station seats and not to other flight deck seats such as rest seats or observer seats. The FAA does not agree. Nonrequired-flight station personnel occupy seats that are very close to those of required personnel and, if these nonrequired flight station personnel are not properly restrained, their unrestrained movements during an emergency situation could interfere with operations by the flight crew. Therefore, the requirement of proposed Sec. 25.785(g) is applicable to all seats on the flight deck.
+
+ Several commenters questioned whether the words "means to secure" in proposed Secs. 25.785(g) and (h) were intended to require a specific device or whether an operational procedure could be used that would require that the seat belt and shoulder harness be secured when not in use. Another commenter questioned whether the fastening of the harness around the seat when not occupied would meet the intent of the rule. The intent of the proposal for Secs. 25.785(g) and (h) is to provide a means or procedure for ensuring that the restraint system, when not in use, will not interfere with normal operation of the airplane or interfere with rapid egress of personnel in an emergency situation. The fastening of the restraint system around the seat would be acceptable if it meets this intent. The word "combined" which appears between the words "be" and "means" in the second sentence of proposed Sec. 25.785(g) has been deleted as redundant. Several commenters questioned whether the term "when not in use" in proposed Secs. 25.785(g) and (h) related to not in use of a particular flight or not in use due to the seat having been momentarily vacated. However, the wording makes clear that the rule would apply in both instances.
+
+ Numerous comments were received on proposed Sec. 25.785(h) to require that flight attendant seats be located near approved floor level exits and be equipped with a combined seat belt and shoulder harness.
+
+ Several commenters suggested that applicability of the proposed paragraph be restricted to seats provided for those attendants required by the operating rules, since excess flight attendants usually occupy passenger seats and the redesign of passenger seats to accept approved shoulder harnesses would be prohibitive in cost. The FAA maintains that flight attendants required by Sec. 121.391 should have seats that meet the requirements of Sec. 25.785(h). The phrase "required by Sec. 121.391" has been deleted from Sec. 121.311(f) and a new Sec. 121.311(f)(3) has been added to clarify that the requirements of Sec. 25.785(h) are not applicable to passenger seats occupied by flight attendants not required by Sec. 121.391.
+
+ Two commenters suggested that shoulder harnesses not be required on rearward facing flight attendant seats, stating that a seat belt alone would offer secure and safe restraint. The FAA does not agree. Lateral restraint is required for rearward facing as well as for forward facing seats. a Shoulder harness provides the degree of lateral restraint necessary to warrant its use at all flight attendant seats.
+
+ A commenter questioned whether mirrors could be used to meet the intent of the proposed Sec. 25.785(h)(1), which would require that flight attendant seats be located to provide a view of the cabin areas. The intent of the proposal is to require a direct view, and mirrors or other such devices are not considered acceptable because of their limitations. The proposed Sec. 25.785(h)(1) is therefore revised to specify "direct view" and to make nonsubstantive editorial changes.
+
+ Two commenters started that where galley doors are used an emergency exits, the placement of the attendant seats near the floor level exit, as required in proposed Sec. 25.785(h), could preclude compliance with the requirement of proposed Sec. 25.785(h)(1) that the flight attendants be provided a direct view of the cabin area. To cover this situation, a commenter suggested that the Sec. 25.785(h)(1) requirement be conditioned to apply insofar as practicable and without compromising the proximity to required floor level exits. The FAA agrees that the requirement for location of the flight attendant seats near the floor level exits in this case is more important than the requirement that the flight attendant have a direct view of the cabin. Accordingly, the proposal is revised in the manner suggested.
+
+ Another commenter stated that access to the communication system when seated is not necessary for all flight attendants, and in particular those in excess of the number required by operating rules after further review, the FAA has concluded that the wording of proposed Sec. 25.785(h)(1) referring to access to the communications system when sealed may be ambiguous and cause misunderstandings when compared to the newly adopted provisions of Secs. 25.1411(a)(2) and 121.319 of this Chapter (Amendment 7;43 FR 50578). Newly adopted Sec. 25.1411(a)(2) describes the requirements for the public address system microphone, whereas the Sec. 121.319 requirement for a crewmember interphone system is also regarded as a communication system. However, there is no mention in Part 25 of the crewmember interphone described in Sec. 121.319. To make the changes necessary to resolve this ambiguity would be beyond the scope of this proposal. Accordingly, the FAA has deleted the last portion of proposed Sec. 25.785(h)(1) referring to access to the communications system when seated. The FAA will propose future rulemaking action to incorporate provisions in Secs. 25.785(h)(2)(i) and (h)(2)(ii).
+
+ Four commenters objected to proposed Secs. 25.785(h)(2)(i) and (h)(2)(ii) to require energy absorbing rests on only rearward facing seats and suggested that forward facing seats also be required to have such rests. The FAA agrees, and the proposed Sec. 25.785(h)(2) has been revised accordingly. A commenter suggested that the proposed Sec. 25.785(h)(2) is redundant, since current Sec. 25.785(c) already requires a seat with energy absorbing rests. The FAA does not agree. The Sec. 25.785(c) requirement does not specify the energy absorbing rest that would be required by Sec. 25.785(h)(2) for rearward and forward facing flight attendant seats.
+
+ Two commenters suggested deletion of the word "arms" if the intent is to require arm rests or side panels, for these would preclude the use of the fold-up seats needed to provide the necessary clearance and access to aisles and exits. The proposed rule is not intended to eliminate the use of fold-up seats. The intended arm support could be provided by a sufficiently large seat back, and this would not preclude the use of fold-up designs. Another commenter suggested that clarification of the word "energy absorbing rest" is necessary and suggested that the term "padding" was less confusing. The FAA believes that the term "energy absorbing rest" as currently employed in present Sec. 25.785(c) is sufficient clear and unambiguous. Moreover, introducing new terminology at this time would only lead to confusion.
+
+ Several comments were received on proposed Sec. 25.785(h)(3), which would require that flight attendant seats be positioned to prevent interference with the use of passageways and exits. The commenters questioned whether the requirement would apply to unoccupied flight attendant seats. The FAA agrees that the proposed requirement should be clarified and it has been revised to indicate that the requirement applies to flight attendant seats when not in use. Revised Sec. 25.785(h)(3) has been redesignated and adopted as Sec. 25. 785(h)(2)(ii).
+
+ A commenter suggested the addition of a new Sec. 25.785(h)(4) to state requirements for the design and location of supplemental oxygen equipment for use by the flight attendants. Since standards for the location of such equipment are presently under consideration in the Operations Review, that suggestion will be treated as a part of the Operations Review rulemaking.
+
+ A commenter suggested deletion of the words "during any operation" from the proposed Sec. 25.785(j), which would require that each set be located to minimize the probability of its occupant suffering injury by being struck by dislodged items. The commenter stated that the phrase was meaningless, unnecessary, and would be a source of never-ending controversy as to its intent. The FAA agrees, and proposed Sec. 25.785(j) has been revised accordingly.
+
+ Several commenters questioned whether the proposed Sec. 25.785(j) was intended to pertain to all passenger and flight attendant seats or merely to flight attendant seats. A commenter suggested that injury from dislodged contents of galleys or storage compartments is common to all seats in the cabin and that the flight attendant seats should not be singled out for action. Consistent with the wording of the previously issued AD dealing with flight attendant seats, the intent of proposed Sec. 25.785(j) in Notice 75-31 was directed to flight attendant seats. Although all occupants of an airplane should be protected from injury from dislodged items, the FAA does not agree that all occupants are vulnerable to flying debris by reason of seat location. The flight attendant seats, being adjacent to exits, are frequently in aisles, passageways, or near galleys, and are therefore more vulnerable to being stuck by objects dislodged from closets, galleys, supply racks, or shelves. Service experience shows that flight attendants are struck more often than other cabin occupants and proposed Sec. 25.785(j) is revised to clarify its applicability to flight attendant seats.
+
+ Another commenter suggested that a strict interpretation of proposed Sec. 25.785(j) would result in an incompatibility with the requirements that cabin attendant seats be near or adjacent to approved floor level exits, especially when such exits are gallery service doors. The commenter suggested inclusion of the phrase "insofar as is practicable and without compromising the proximity to approved floor level exits * * *" The FAA does not agree. The requirement that flight attendant seats be located near approved floor level exits should not be compromised nor should locating such seats near galleys compromise the safety of the seated flight attendant. In this connection, proper galley design and seat location can greatly minimize the probability of the flight attendant being injured by dislodged items.
+
+ Finally, one commenter suggested a revision to Sec. 25.785(j), by listing specific items to be considered in minimizing the likelihood of occupants being injured by dislodged items. The same commenter proposed that the description of likelihood of injury be changed from a "probability" to a "Possibility". The FAA does not agree. Proposed Sec. 25.785(j) would require that flight attendant seats be located to minimize the "probability" of occupant injury from dislodged items. Substantial design difficulties would be encountered in locating flight attendant seats to minimize harm from any possibility during flight operations. The commenter's proposal would create the unwarranted implication that seat locations be subject to statistical analysis. Nor is it necessary to enumerate all items capable of being dislodged, as the proposed wording would require that all items normally found in galleys, storage compartments, and serving carts must be considered. The same commenter's further suggestion for specifying means for securing all stowage compartments and related loose items is unnecessary since such structural considerations are adequately covered in the wording of Sec. 25.785(j).
+
+ Disposition of Proposal 2-60 to amend Sec. 25.785 (Notice 75-10) was deferred at the time of issuing the amendment published at 41 FR 55454 so that it could be considered in connection with Proposal 8-36. No unfavorable. comments were received on Proposal 2-60. However, in view of the changes being made to Sec. 25.785 under Proposal 8-36 of Notice 75-31, the changes proposed in 2-60 of Notice 75-10, with the exception of the word changes in paragraph (i) and the addition of a new paragraph (h), are unnecessary and are withdrawn. Proposed paragraph (h) concerning the forward observers seat is adopted and redesignated as Sec. 25.785(k).
+
+ Proposal 8-37. Two commenters objected to the wording "extremely improbable" in the proposed revision to Sec. 25.787(b). One commenter stated that this wording implies a requirement for a reliability analysis, which the commenter indicated was unwarranted. The FAA concurs, and the requirement that an unwanted opening be extremely improbable is withdrawn.
+
+ Two commenters suggested that the intent of proposed Sec. 25.787(b) is adequately covered in present Sec. 25.789. However, the intent of the proposed section is to prevent inadvertent opening of the latched doors of stowage compartments by specifically requiring that service wear and deterioration be considered in the design. The Sec. 25.787(b) requirement is therefore different than the Sec. 25.789 requirement which is directed to retention of items of mass subjected to maximum load factors.
+
+ After consideration of the comments received and after further review, the FAA has determined that a clarification of the proposal is needed to indicate that the proposal applies only to stowage compartments in passenger and crew cabins. The proposal is revised accordingly.
+
+ Proposal 8-39. A commenter objected to the proposal for a new Sec. 25.793 to require slip resistant properties on floor surfaces of all areas likely to become wet, stating that there appears to be no such hazard in general aviation airplanes. The FAA does not agree. Airplanes type certificated under Part 25 may be operated both as air carrier and general aviation type airplanes. Any transport category aircraft may be susceptible to this problem regardless of its type of operation.
+
+ A second commenter suggested that the wording of the proposal be revised to require consideration only of those areas "likely to become wet in service." The FAA agrees and the proposal is revised accordingly.
+
+ Several commenters questioned the term "slip resistant" as used in the proposal. A commenter stated that a definition of the term should be adopted. The FAA maintains that the term "slip resistant" is generally understood, and that no useful purpose would be served by providing a rigorous definition which might unduly restrict design choice.
+
+ Proposals 8-42, 2-18, 2-65, 2-114 and 2-160. Proposal 2-65 to revise Sec. 25.853(c) is similar to Proposals 2-18, 2-114 and 2-160 to revise Secs. 23.853(c), 27.853(c), and 29.853(c), respectively. Each of these proposals was set forth in Airworthiness Review Notice No. 2 (Notice 75-10) and their disposition was deferred for consideration with Proposal 8-42 (see Amendment No. 3 (41 FR 55454)). All comments on Proposals 2-18, 2-65, 2-114, and 2-160 are discussed herein.
+
+ Commenters pointed out that proposed Sec. 25.863(c) contained "No Smoking" sign provisions which were already set forth in current Sec. 25.791, and suggested that one or the other be revised to avoid confusion. The FAA agrees and Sec. 25.853(c) has been revised to refer to Sec. 25.791 for the requirements for signs that notify passengers when smoking is prohibited. Because of this revision to Proposal 8-42, Sec. 25.853(c) is not identical to Secs. 23.853(c), 27.853(c), and 29.853(c); however, substantively identical language exists in Sec. 25.791, referenced in the revised Sec. 25.853(c) if Sec. 25.853(c) were to be identical to Secs. 23.853(c), 27.853(c), and 29.853(c), corresponding changes to Sec. 25.791 and Sec. 121.317(a) would be necessary. Such changes would unnecessarily complicate this amendment and would provide no meaningful advantage.
+
+ A commenter objected to proposed Sec. 27.853(c)(2) on the grounds that "No Smoking" signs are not justifiable for normal category rotorcraft, which are limited to 6,000 pounds gross weight. It was contended that the passenger capacity of such rotorcraft is relatively small and that even when the crew and passenger compartments are separated, a simple "No Smoking" placard, or oral instructions from the crew, or both, would accomplish the intent of the proposal. With regard to a "No Smoking" placard, the FAA agrees that such a placard would be sufficient if smoking is to be prohibited. However, the FAA believes that when the crew compartment is separated from the passenger compartment, oral communication from crew to passenger may not be possible.
+
+ A commenter suggested that the distinction between the term "when illuminated" in proposed Sec. 27.853(c)(2)(i), and the term "when illuminated internally" in proposed Sec. 27.853(c)(2)(ii), should be made more clear. The FAA 's intent was to require the lights to be so constructed that the crew can turn them on and off, consistent with similar requirements in current Secs. 25.791, 121.317 and 127.115. Accordingly, the term "when illuminated internally" is deleted from Secs. 23.853(c)(2)(ii), 27.853(c)(2)(ii) and 29.853(c)(2)(ii).
+
+ Several commenters objected to the requirement in proposed Sec. 25.853 (d) (Proposal 8-42) that towel, paper, and waste receptacle be fireproof, contending that--(1) Experience and tests have demonstrated that proper design using fire resistant materials provide entirely adequate fire containment; (2) the other requirements in proposed Sec. 25.853 (d) ensure fire containment in fire resistant receptacles; and (3) use of fireproof rather than fire resistant materials would result in a considerable weight penalty, particularly on large airplanes. In light of these comments, and after further consideration, the FAA concludes that fire resistant materials would be adequate for these receptacles. Proposed Sec. 25.853 (d) is revised accordingly.
+
+ Two commenters pointed out that proposed Sec. 25.853 (d) could be construed as applying to towel and paper dispensing equipment. The FAA's intent was to cover only those receptacles that are used for the disposal to towels, paper, and waste since these are receptacles in which fires have occurred in service. To make this clear, Sec. 25.853 (d) is revised by inserting the word "disposal" before the word "receptacle."
+
+ A commenter objected to the term "extremely improbable" in proposed Sec. 25.853(d) because it implies a type of reliability analysis which the commenter claimed would not be appropriate to the requirements specified. Another commenter objected to the same term on the ground that it would be impossible to demonstrate. The FAA agrees that "extremely improbable" is not appropriate and the second sentence of Sec. 25.853(d) is revised to read"* * * under all probable conditions of wear, misalignment, and ventilation expected in service * * *" The word "effects" is deleted as redundant.
+
+ One commenter stated that proposed Sec. 25.853(d) would require that the receptacle have a lid and that this may not be practical when a chute leads from a spring-loaded door in the sink counter top into a container below. The FAA believes that a practical design complying with the proposal can be achieved by considering the combination of spring-loaded door, chute, and container as constituting the receptacle.
+
+ Two commenters objected to proposed Sec. 25.853(e), stating that it was more restrictive than Airworthiness Directive (AD) 74-08-09, which deals with similar safety issues. In particular, the commenters stated that the AD allowed the use of--(1) "No Smoking" signs as an alternative to "No Smoking in Lavatory" signs; (2) signs "of sufficient size and contrast" as opposed to the proposed "red letters at least one inch high on a white background of at least two inches high"; (3) one ashtray to serve more than one lavatory door if the ashtray could be seen readily from the cabin side of each lavatory served. Concerning the first and third points, the FAA finds, after further consideration, that the less restrictive language in the AD would provide an adequate level of safety. Concerning the second point, the FAA believes it is necessary to require minimum standards for the size and contrast of the placards specified in proposed Sec. 25.853(e). However, after further consideration, the FAA has concluded that these placards would be sufficiently conspicuous if the red letters and white background were one-half inch high and one inch high respectively. Section 25.853(e) is revised accordingly.
+
+ A commenter suggested that proposed Sec. 25.853(e) be revised to allow the use of symbols to indicate "No Smoking in Lavatory" instead of letters. The FAA maintains that for lavatory placards, letters rather than symbols must be used to minimize the probability that the placard message would not be understood by the lavatory occupant. In contrast to the situation in the general cabin area, there would not be a person nearly who could explain the symbol if its meaning were not grasped. However, symbols may be included on the placard with the letters to further describe the no smoking conditions.
+
+ A commenter who supported proposed Secs. 25.853(d) and (e) suggested that additional regulations should be developed to provide an active means of fire detection and extinguishing in compartments such as lavatories; however, the commenter did not make any specific recommendations.
+
+ Proposal 8-52. No unfavorable comments were received on the proposal to amend Sec. 25.1413 (c). Accordingly, the proposal is adopted without substantive change.
+
+ Proposal 8-116. Several commenters agreed in principle with the proposed Sec. 91.200 to add a requirement that transport category aircraft be equipped with shoulder harnesses meeting the requirements of Sec. 25.785 at each crewmember seat and flight attendant seat. Two of these commenters disagreed with the proposed one year compliance time, stating that two or three years was a more appropriate compliance time. The FAA finds that the one year proposed is a realistic time for accomplishing these tasks. However, the FAA recognizes that conditions beyond the control of an operator can occur to delay compliance with the rule. This could be the case even through a good faith effort was made by an operator to comply. Because of this, the proposal has been revised to provide, under appropriate circumstances, for a limited extension of the compliance data in accordance with a schedule acceptable to the FAA. Before granting any extension, the FAA will scrutinize each operator's request to determine if the operator made the showing required by Sec. 91.200(b). In addition to demonstrating that circumstances beyond its control make timely compliance impossible, the operator must submit a schedule showing that compliance will be achieved at the earliest practicable date. Any extension granted will be based upon the FAA's judgment as to the earliest date on which compliance is possible.
+
+ A commenter stated that some airplanes do not have adequate structure available at some flight attendant and jump seat locations to install a supported shoulder harness, particularly at those seats which are side facing. However, side-facing seats are no longer an issue since Airworthiness Directive 76-05-02 (Docket No. 14912, Amendment No. 39-2534) requires the removal of side-facing flight attendant seats from all transport category airplanes.
+
+ A commenter suggested that the proposal be revised to require compliance only when flight attendants are being carried, rather than all times a flight attendant seat is installed. The commenter pointed out that some airplanes operate under Part 91 when conducting ferry or training flights. The FAA does not agree, since Proposal 8-117 would require that shoulder harnesses by installed for operations conducted under Part 121 and they would therefore already be in the airplane for the operation described by the commenter.
+
+ Several commenters on Proposal 8-117 pointed out that certain existing shoulder harness installations at pilot-in-command, second-in-command, and flight engineer stations are designed to less than the present 9g forward load factor requirement of Sec. 25.785, and that to require a redesign to 9g would be impractical and prohibitive in cost. Other commenters noted that many flight attendant seats already have FAA-approved shoulder harnesses but not all are "combined safety belts and shoulder harness unit(s) with a single point release. "The commenters stated that these installations have proved satisfactory in service and, since the operators voluntarily installed such FAA-approved shoulder harnesses, it would be unfair to now penalize them by requiring a retrofit restraint system with a single point release. The FAA finds that the comments submitted on Proposal 8-117 are equally appropriate for Proposal 8-116 and agrees with the commenters' recommendations. Proposed Sec. 91.200 has been appropriately revised to allow the use of previously installed restraint systems at crewmember stations, provided the crewmember can perform assigned duties with the restraint system fastened, and it allows for existing restraint systems which were designed to the inertial load factors established under the certification basis of the airplane.
+
+ See Proposals 8-117 and 8-36 for related discussions.
+
+ Proposal 8-117. As in Proposal 8-116, several commenters objected to the proposed changes to Sec. 121.311 which would require shoulder harnesses at each flight deck station. Several commenters also pointed out that shoulder harness installations now exist on airplanes which are designed to less than the present 9g requirements of Sec. 25.785. Other commenters noted that many flight attendant seats already have FAA-approved shoulder harnesses but not all possess a single point release. For a discussion of all of these comments see Proposal 8-116. Qualifying statements have been added to the proposal to revise Secs. 121.311(e) and (f). These changes are substantively identical to those added to Sec 91.200(a) and discussed in Proposal 8-116.
+
+ A commenter objected to the requirement in proposed Sec. 121.311(f) that would require all flight attendant seats to meet the requirements of Sec. 25.785 of this chapter. The commenter stated that some passenger seats are being used for required flight attendants due to their proximity to floor level exits. The FAA maintains that all flight attendants required by Sec. 121.391 should have seats that meet the requirements of Sec. 25.785. The phrase "required by Sec. 121.391" has been deleted from Sec. 121.311(f) and a new Sec. 121.311(f)(3) has been added to clarify that the requirements of Sec. 25.785(h) are not applicable to passenger seats occupied by flight attendants not required by Sec. 121.391.
+
+ A commenter pointed out that there was no time period for effecting compliance and suggested at least two years be allowed for retrofit of these restraint systems. In order to provide some time for compliance, proposed Sec. 121.311(f) is revised substantively identical to revised Sec. 91.200(b) (See Proposal 8-116).
+
+ Several commenters pointed out that the compliance time proposed for Secs. 121.311(e)(2), (f), (g), and (h) does not permit adequate time for design, fabrication, and retrofit. The FAA is satisfied that the time proposed is a realistic period for accomplishing these tasks. However, the FAA recognizes that conditions beyond the control of a certificate holder can occur to delay compliance with the rule. This could be the case even though a good faith effort was made by a certificate holder to comply. Because of this, proposed Secs. 121.311(e)(2), (f), and (h) have been revised to provide, under appropriate circumstances, for a limited extension of the compliance date in accordance with a schedule acceptable to the FAA. Section 121.311(j) describes the prerequisites for any operator to obtain an extension of the compliance dates established by the amendment. To be eligible for an extension, each operator must demonstrate that it is unable to comply due to circumstances beyond its control. In addition, the operator must submit a schedule showing that compliance will be achieved at the earliest practicable date. Any extension granted under this provision will be based upon the FAA's judgment as to the earliest date on which compliance is possible.
+
+ A commenter pointed out that proposed Sec. 121.311(h) requires that each occupant of a seat equipped with a shoulder harness have the restraint system secured about him/her during takeoff and landing but does not require the occupant to be able to perform assigned duties with the shoulder harness fastened. Since the obvious intent of proposed Sec. 121.311(h) was to require that the occupant of the seat be able to perform assigned duties with the shoulder harness attached, proposed Sec. 121.311(h) is revised accordingly.
+
+ No unfavorable comments were received on the proposal to amend Sec. 121.311(i) and the proposal is adopted without substantive change.
+
+ Proposal 8-118. The FAA withdrew the proposed new Sec. 121.312(b) in a notice published in the Federal Register on August 24, 1978 (43 FR 37703)
+
+ A commenter pointed out that airplanes in service have already been required to comply with the essential substance of proposed new Sec. 121.312(c) by means of Airworthiness Directive 74-08-09, which applies to all transport category airplanes, and recommended that this proposal be deleted. The FAA agrees. Airworthiness Directive 74-08-09 applies to airplanes operated under Parts 91, 121, and 135 of the Federal Aviation Regulations, and the proposed new Sec. 121.312(c) is redundant with respect to airplanes operated under Part 121. The proposed new Sec. 121.312(c) is therefore withdrawn.
+
+ Proposal 8-119. No unfavorable comments were received on the proposal to delete Sec. 121.321. Accordingly, the proposal is adopted without substantive change. For related Discussion see Proposal 8-117.
+
+
+
+ 
+        
+REGULATORY TEXT: 
+
+Adoption of the Amendment
+
+Accordingly, Parts 23, 25, 27, 29, 91, and 121 of the Federal Aviation Regulations are amended as follows, effective March 6, 1980.
+
+Parts 23--Airworthiness Standards: Normal, Utility, And Acrobatic Category Airplanes
+
+1. By deleting Sec. 23.853(b) and marking it "[Reserved]" and by revising Sec. 23.853(c) to read as follows:
+
+Sec. 23.853 Compartment interiors.
+
+* * * * *
+
+(b) [Reserved].
+
+(c) If smoking is to be prohibited, there must be a placard so stating, and if smoking is to be allowed--
+
+(1) There must be an adequate number of self-contained, removable ashtrays; and
+
+(2) Where the crew compartment is separated from the passenger compartment, there must be at least one illuminated sign (using either letters or symbols) notifying all passengers when smoking is prohibited. Signs which notify when smoking is prohibited must--
+
+(i) When illuminated, be ligible to each passenger seated in the passenger cabin under all probable lighting conditions; and
+
+(ii) Be so constructed that the crew can turn the illumination on and off; and
+
+* * * * *
+
+Part 25--Airworthiness Standards: Transport Category Airplanes
+
+2. By inserting a comma between the words "seat" and "berth" and by deleting the words "or harness," between the words "belt" and "at" and inserting the words", harness or both "in place thereof in the first sentence of Sec. 25.785(i), and by revising Secs. 25.785(g) and (h) and adding new (j) and (k) to read as follows:
+
+Sec. 25.785 Seats, berths, safety belts, and harnesses.
+
+* * * * *
+
+(g) Each seat at a flight deck station must have a combined safety belt and shoulder harness with a single-point release that permits the flight deck occupant, when seated with safety belt and shoulder harness fastened, to perform all of the occupant's necessary flight deck functions. There must be a means to secure each combined safety belt and shoulder harness, when not in use, to prevent interference with the operation of the airplane and with rapid egress in an emergency.
+
+(h) Flight attendant seats in passenger compartments must be near required floor level emergency exits and be equipped with a restraint system consisting of a combined safety belt and shoulder harness until with a single-point release. There must be means to secure each combined safety belt and shoulder harness, when not in use, to prevent interference with rapid egress in an emergency. In addition--
+
+(1) To the extent possible without compromising their proximity to required floor level emergency exits, flight attendant seats must be located to provide a direct view of the cabin area for which the flight attendant is individually responsible.
+
+(2) Flight attendant seats must--
+
+(i) Either be forward or rearward facing, with an energy absorbing rest that is designed to support the arms, shoulders, head, and spine; and 
+
+(ii) Be positioned so that when not in use they will not interfere with the use of passageways and exits.
+
+* * * * *
+
+(j) Each flight attendant seat must be located to minimize the probability of its occupant suffering injury by being struck by items dislodged in a galley, or from a stowage compartment or serving cart. All items expected in these locations in service must be considered.
+
+(k) Each forward observer's seat required by the operating rules must be shown to be suitable for use in conducting the enroute inspections prescribed by Sec. 121.581(a).
+
+3. By adding a sentence to the end of Sec. 25.787(b) to read as follows:
+
+Sec. 25.787 Stowage compartments.
+
+* * * * *
+
+(b)* * * For stowage compartments in the passenger and crew cabin, if the means used is a latched door, the design must take into consideration the wear and deterioration expected in service.
+
+(4) By adding a new Sec. 25.793 to read as follows:
+
+Sec. 25.793 Floor surfaces.
+
+The floor surface of all areas which are likely to become wet in service must have slip resistant properties.
+
+5. By deleting Sec. 25.853(f) and revising Sec. 25.853(c), (d), and (e) to read as follows:
+
+Sec. 25.853 Compartment interiors.
+
+* * * * *
+
+(c) If smoking is to be prohibited, there must be a placard so stating, and if smoking is to be allowed--
+
+(1) There must be an adequate number of self-contained, removable ashtrays; and
+
+(2) Where the crew compartment is separated from the passenger compartment, there must be at least one sign meeting the "No Smoking" sign requirements of Sec. 25.791 notifying all passengers when smoking is prohibited.
+
+(d) Each disposal receptacle for towels, paper, or waste must be fully enclosed and constructed of at least fire resistant materials, and must contain fires likely to occur in it under normal use. The ability of the disposal receptacle to contain those fires under all probable conditions of wear, misalignment, and ventilation expected in service must be demonstrated by test. A placard containing the legible words "No Cigarette Disposal" must be located on or near each disposal receptacle door.
+
+(e) Lavatories must have "No Smoking" or "No Smoking in Lavatory" placards located conspicuously on each side of the entry door, and self-contained removable ashtrays located conspicuously on or near the entry side of each lavatory door, except that one ashtray may serve more than one lavatory door if the ashtray can be seen readily from the cabin side of each lavatory door served. The placards must have red letters at least one-half inch high on a white background of at least one inch high. (A "No smoking" symbol may be included on the placard.)
+
+Sec. 25.1413 [Amended]
+
+6. By adding the words "and shoulder harness" after the words "each belt" in Sec. 25. 1413(c).
+
+Parts 27-- Airworthiness Standards: Normal Category Rotorcraft
+
+7. By revising Sec. 27.853(c) to read as follows:
+
+Sec. 27.853 Compartment interiors.
+
+* * * * *
+
+(c) If smoking is to be prohibited, there must be a placard so stating, and if smoking is to be allowed--
+
+(1) There must be an adequate number of self-contained, removable ashtrays; and
+
+(2) Where the crew compartment is separated from the passenger compartment, there must be at least one illuminated sign (using either letters or symbols) notifying all passengers when smoking is prohibited. Signs which notify when smoking is prohibited must--
+
+(i) When illuminated, be legible to each passenger seated in the passenger cabin under all probable lighting conditions; and
+
+(ii) Be so constructed that the crew can turn the illumination on and off.
+
+Part 29--Airworthiness Standards: Transport Category Rotorcraft
+
+8. By revising Sec. 29.853(c) to read as follows:
+
+Sec. 29.853 Compartment interiors.
+
+* * * * *
+
+(c) If smoking is to be prohibited, there must be a placard so stating, and if smoking is to be allowed--
+
+(1) There must be an adequate number of self-contained, removable ashtrays; and
+
+(2) When the crew compartment is separated from the passenger compartment, there must be at least one illuminated sign (using either letters or symbols) notifying all passengers when smoking is prohibited. Signs which notify when smoking is prohibited must--
+
+(i) When illuminated, be legible to each passenger seated in the passenger cabin under all probable lighting conditions; and 
+
+(ii) Be so constructed that the crew can turn the illumination on and off.
+
+* * * * *
+
+Part 91--General Operating and Flight Rules
+
+9. By adding a new Sec. 91.200 to read as follows:
+
+Sec. 91.200 Shoulder harness.
+
+(a) Except as provided in paragraph (b) of this section, after March 6, 1981, no person may operate a transport category airplane unless it is equipped with a combined safety belt and shoulder harness that meets the applicable requirements specified in Sec. 25.785 of this chapter at each required flight attendant seat in the passenger compartment and at each flight deck station, except that--
+
+(1) Shoulder harnesses and combined safety belt and shoulder harnesses that were approved and installed before March 6, 1980, may continue to be used; and
+
+(2) Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the airplane.
+
+(b) An operator may obtain an extension of the compliance date specified in paragraph (a) of this section, but not beyond March 8, 1982, from the Director, Office of Flight Operations, if the operator:
+
+(1) Shows that, due to circumstances beyond its control, it cannot comply by the specified compliance date; and 
+
+(2) Submits, by the specified compliance date, a schedule for compliance, acceptable to the Director, indicating that compliance will be achieved at the earliest practicable date.
+
+Part 121--Certification And Operations: Domestic, Flag, And Supplemental Air Carriers And Commercial Operators Of Large Aircraft
+
+(10) By revising the heading of Sec. 121.311, revising Sec. 121.311(e), and adding new Secs. 121.311(f), (g), (h), (i), and (j) to read as follows:
+
+Sec. 121.311 Seats, safety belts, and shoulder harnesses.
+
+* * * * *
+
+(e) No person may operate a transport category airplane--
+
+(1) That was type certificated after January 1, 1958, unless it is equipped with a shoulder harness at the pilot-in-command station, the second-in-command station, and the flight engineer station; and
+
+(2) Except as provided in paragraph (j) of this section, after March 6, 1981, no person may operate a transport category airplane unless it is equipped with a combined safety belt and shoulder harness that meets the applicable requirements specified in Sec. 25.785 of this Chapter at each flight deck station, except that--
+
+(i) Shoulder harnesses and combined safety belt and shoulder harnesses that were approved and installed before March 6, 1980, may continue to be used; and
+
+(ii) Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the airplane.
+
+(f) Except as provided in paragraph (j) of this section, after March 6, 1980, each flight attendant must have a seat for takeoff and landing in the passenger compartment that meets the requirements of Sec. 25.785 of this chapter, except that--
+
+(1) Combined safety belt and shoulder harnesses that were approved and installed before March 6, 1980, may continue to be used; and
+
+(2) Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the airplane.
+
+(3) The requirements of Sec. 25.785(h) do not apply to passenger seats occupied by flight attendants not required by Sec. 121.391.
+
+(g) Until March 6, 1981, each occupant of a seat equipped with a shoulder harness must have the shoulder harness properly secured about that occupant during takeoff and landing except that a flight crewmember need not fasten the shoulder harness if that crewmember cannot perform assigned duties with the shoulder harness fastened.
+
+(h) Except as provided in paragraph (j) of this section, after March 6, 1961, each occupant of a seat equipped with a combined safety belt and shoulder harness must have the combined safety belt and shoulder harness properly secured about that occupant during takeoff and landing and be able to properly perform assigned duties.
+
+(i) At each unoccupied seat, the safety belt and shoulder harness, if installed, must be secured so as not to interfere with crewmembers in the performance of their duties or with the rapid egress of occupants in an emergency.
+
+(j) A certificate holder may obtain an extension, not to exceed one year, of the compliance date specified in paragraphs (e), (f), and (h) of this section from the Director, Office of Flight Operations, if the certificate holder:
+
+(1) Shows that, due to circumstances beyond its control, it cannot comply by the specified compliance date; and
+
+(2) Submits by the specified compliance date, a schedule for compliance, acceptable to the Director, indicating that compliance will be achieved at the earliest practicable date.
+
+Sec. 121.321 [Reserved]
+
+11. By deleting Sec. 121.321 and marking it "[Reserved]."
+
+(Secs. 313(a), 601, 603, and 604, Federal Aviation Act of 1958 (40 U.S.C. 1354(a), 1421, 1423, 1424); and Sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)))
+
+Note.--The FAA has determined that this document involves a proposed regulation which is non-significant under Executive Order 12044 as Implemented by DOT Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). A copy of the regulatory evaluation prepared for the regulations is contained in the regulatory docket. A copy of it may be obtained by contacting the person identified above under the caption "FOR FURTHER INFORMATION CONTACT * * *"
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on January 29, 1980.
+
+Langhorne Bond,
+
+Administrator.
+
+[FR Doc. 80-3556 Filed 2-1-80; 8:45 am]
+
+BILLING CODE 4910 13-M
+
+ 
+        
+NPRM ACTIONS: 
+
+ Notice of Invitation to Submit Proposals. Notice No. 74-5; Issued on 02/12/74.
+
+ Notice of Compilation of Proposals. Notice No. 74-5A; Issued on 05/22/74.
+
+ Notice of Availability of Agenda. Notice No. 74-5B; Issued on 10/03/74.
+
+ Notice of Clarifying Revisions. Notice No. 74-33; Issued on 10/03/74.
+
+ Notice of Conference. Notice No. 74-5C; Issued on 11/25/74.
+
+ Notice of Availability of Conference Summary. Notice No. 74-5D; Issued on 02/04/75.
+
+ Notice of Airworthiness Review Program No. 2; Notice No. 75-10; Issued on 02/27/75.
+
+ Notice of Airworthiness Review Program No. 3; Notice No. 75-19; Issued on 05/13/75.
+
+ Notice of Airworthiness Review Program No. 4; Notice No. 75-20; Issued on 05/13/75.
+
+ Notice of Airworthiness Review Program No. 5; Notice No. 75-23; Issued on 05/19/75.
+
+ Notice of Airworthiness Review Program No. 6; Notice No. 75-25; Issued on 05/29/75.
+
+ Notice of Airworthiness Review Program No. 7; Notice No. 75-26; Issued on 06/09/75.
+
+ Notice of Airworthiness Review Program No. 8; Notice No. 75-31; Issued on 06/30/75.
+
+ 
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+ Final Rule. Docket No. 14324; Issued on 12/13/76.
+
+ Final Rule. Docket No. 14779, 14324; Issued on 08/27/80.

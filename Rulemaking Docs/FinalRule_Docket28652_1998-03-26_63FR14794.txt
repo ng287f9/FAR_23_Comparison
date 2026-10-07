@@ -1,0 +1,1252 @@
+[[Page 1]]
+14794 Federal Register / Vol. 63,
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Parts 23, 25 and 33
+[Docket No. 28652; Amendment Nos. 23–
+53, 25–95, and 33–19]
+RIN 2120–AF75
+Airworthiness Standards; Rain and
+Hail Ingestion Standards
+AGENCY: Federal Aviation
+Administration (FAA), DOT.
+ACTION: Final rule.
+SUMMARY: These amendments establish
+revisions to the Federal Aviation
+Administration’s certification standards
+for rain and hail ingestion for aircraft
+turbine engines. These amendments
+address engine power-loss and
+instability phenomena attributed to
+operation in extreme rain or hail that are
+not adequately addressed by current
+requirements. These amendments also
+generally harmonize these standards
+with rain and hail ingestion standards
+being amended by the Joint Aviation
+Authorities (JAA). These amendments
+establish nearly uniform standards for
+engines certified in the United States
+under 14 CFR part 33 and in the JAA
+countries under Joint Airworthiness
+Requirements-Engines (JAR–E), thereby
+simplifying the certification of engine
+designs by the FAA and the JAA.
+EFFECTIVE DATE: April 30, 1998.
+FOR FURTHER INFORMATION CONTACT: John
+Fisher, Engine and Propeller Standards
+Staff, ANE–110, Engine and Propeller
+Directorate, Aircraft Certification
+Service, FAA, New England Region, 12
+New England Executive Park,
+Burlington, Massachusetts 01803–5229;
+telephone (781) 238–7149; fax (781)
+238–7199.
+SUPPLEMENTARY INFORMATION:
+Availability of Final Rules
+An electronic copy of this document
+may be downloaded, using a modem
+and suitable communications software,
+from the FAA regulations section of the
+Fedworld electronic bulletin board
+service (telephone: 703–321–3339), the
+Federal Register’s electronic bulletin
+board service (20002–512–1661), or the
+FAA’s Aviation Rulemaking Advisory
+Committee Bulletin Board service
+(telephone 202–267–5948).
+Internet users may reach the FAA’s
+web page at http://www.faa.gov or the
+Federal Register’s web page at http://
+www.access.gpo.gov/suldocs for
+access to recently published rulemaking
+documents.
+Any person may obtain a copy of this
+final rule by submitting a request to the
+No. 58 / Thursday, March 26, 1998
+Federal Aviation Administration, Office
+of Rulemaking, ARM–1, 800
+Independence Avenue, SW.,
+Washington, DC 20591, or by calling
+(202) 267–9680. Communications must
+identify the amendment number or
+document number of this final rule.
+Persons interested in being placed on
+the mailing list for future notices of
+proposed rulemaking and final
+rulemaking should request from the
+above office a copy of Advisory Circular
+No. 11–2A, Notices of Proposed
+Rulemaking Distribution System, that
+describes the application procedure.
+Small Entity Inquiries
+The Small Business Regulatory
+Enforcement Fairness Act of 1996
+(SBREFA) requires the FAA to report
+inquiries from small entities concerning
+information on, and advice about,
+compliance with statutes and
+regulations within the FAA’s
+jurisdiction, including interpretation
+and application of the law to specific
+sets of facts supplied by a small entity.
+If you are a small entity and have a
+question, contact your local FAA
+official. If you do not know how to
+contact your local FAA official, you may
+contact Charlene Brown, Program
+Analyst Staff, Office of Rulemaking,
+ARM–27, Federal Aviation
+Administration, 800 Independence
+Avenue, SW, Washington, DC 20591, 1–
+888–551–1594. Internet users can find
+additional information on SBREFA in
+the ‘‘Quick Jump’’ section of the FAA’s
+web page at http://www.faa.gov and
+may send electronic inquiries to the
+following internet address: 9–AWA–
+SBEFA@faa.dot.gov.
+Background
+Statement of the Problem
+There have been a number of multiple
+turbine engine power-loss and
+instability events, forced landings, and
+accidents attributed to operating
+airplanes in extreme rain or hail.
+Investigations have revealed that
+ambient rain or hail concentrations can
+be amplified significantly through the
+turbine engine core at high flight speeds
+and low engine power conditions. Rain
+or hail through the turbine engine core
+may degrade compressor stability,
+combustor flameout margin, and fuel
+control run down margin. Ingestion of
+extreme quantities of rain or hail
+through the engine core may ultimately
+produce a number of engine anomalies,
+including surging, power loss, and
+engine flameout.
+Industry Study
+In 1987, the Aerospace Industries
+Association (AIA) initiated a study of
+/ Rules and Regulations
+natural icing effects on high bypass ratio
+(HBR) turbofan engines that
+concentrated primarily on the
+mechanical damage aspects of icing
+encounters. It was discovered during
+that study that separate power-loss and
+instability phenomena existed that were
+not related to mechanical damage.
+Consequently, in 1988 another AIA
+study was initiated to determine the
+magnitude of these threats and to
+recommend changes to part 33, if
+appropriate. AIA, working with the
+Association Europeenne des
+constructeurs de Materiel Aerospatial
+(AECMA), concluded that a potential
+flight safety threat exists for turbine
+engines installed on airplanes operating
+in extreme rain and hail. Further, the
+study concluded that the current water
+and hail ingestion standards of 14 CFR
+part 33 do not adequately address this
+threat.
+Engine Harmonization Effort
+The FAA is committed to undertaking
+and supporting harmonization of
+standards in part 33 with those in Joint
+Aviation Requirements-Engines (JAR–
+E). In August 1989, as a result of that
+commitment, the FAA Engine and
+Propeller Directorate participated in a
+meeting with the Joint Aviation
+Authorities (JAA), AIA, and AECMA.
+The purpose of the meeting was to
+establish a philosophy, guidelines, and
+a working relationship regarding the
+resolution of issues arising from
+standards that need harmonization,
+including the adoption of new standards
+when needed. All parties agreed to work
+in partnership to address jointly the
+harmonization task. This partnership
+was later expanded to include the
+airworthiness authority of Canada,
+Transport Canada.
+This partnership identified seven
+items which were considered the most
+critical to the initial harmonization
+effort. New rain and hail ingestion
+standards are an item on this list of
+seven items and, therefore, represent a
+critical harmonization effort.
+Aviation Rulemaking Advisory
+Committee Project
+In December 1992, the FAA requested
+the Aviation Rulemaking Advisory
+Committee (ARAC) to evaluate the need
+for new rain and hail ingestion
+standards. This task, in turn, was
+assigned to the Engine Harmonization
+Working Group (EHWG) of the
+Transport Airplane and Engine Issues
+Group (TAEIG) on December 11, 1992
+(57 FR 58840). On November 7, 1995,
+the TAEIG recommended to the FAA
+that it proceed with rulemaking and
+associated advisory material even
+
+[[Page 2]]
+Federal Register / Vol. 63,
+though one manufacturer expressed
+reservations. The FAA published a
+notice of proposed rulemaking on
+August 9, 1996 (61 FR 41688). This rule
+and associated advisory material reflect
+the ARAC recommendations.
+Discussion of Comments
+All interested persons have been
+afforded an opportunity to participate in
+this rulemaking, and due consideration
+has been given to all comments
+received. The commenters represent
+domestic and foreign industry, and
+foreign airworthiness authorities. Five
+commenters provided the FAA with
+comments to the NPRM.
+Four commenters expressed concern
+with the proposed wording for §§ 23.903
+and 25.903. The commenters state that
+the proposal could result in retroactive
+requirements imposed on certain
+engines already type certificated. Three
+of the four commenters further state that
+this part of the proposal represents a
+significant departure from the proposal
+submitted to the FAA by ARAC.
+The FAA agrees. It was not the intent
+of the FAA to retroactively impose the
+new requirements on an engine design
+already type certificated unless service
+history indicates that an unsafe
+condition is present. The FAA has
+changed the wording for §§ 23.903 and
+25.903 back to that originally proposed
+by the ARAC.
+All five commenters found a number
+of typographical errors and suggested
+some editorial changes. One notable
+typographical error appeared in the
+‘‘Disposition of Comments’’ section of
+the preamble of the proposal. When
+addressing a concern that the hail threat
+definition was apparently rounded up to
+10 g/m 3, the value 8/3 g/m 3 was
+incorrect and should have been written
+as 8.7 g/m 3.
+The FAA also agrees to the other
+recommendations by the commenters
+and the following grammatical
+corrections and changes to § 33.78 and
+Appendix B have been made to this
+rule:
+Section 33.78(a)(1): ‘‘Critical inlet fact
+area’’ has been changed to ‘‘Critical inlet
+face area’’ and the last sentence revised
+to read, ‘‘the hailstones shall be ingested
+in a rapid sequence to simulate a
+hailstone encounter and the number and
+size of the hailstones shall be
+determined as follows:’’.
+Section 33.78(a)(1)(ii): The term ‘‘one
+20-inch’’ has been changed to ‘‘one 2-
+inch’’.
+Section 33.78(a)(2): The following has
+been added to the beginning of the
+paragraph, ‘‘In addition to complying
+with paragraph (a)(1) of this section
+and’’, and a comma has been added
+No. 58 / Thursday, March 26, 1998
+immediately following the phrase ‘‘or
+loss of acceleration and deceleration
+capability’’.
+Section 33.78(b)(4): ‘‘deceleration’’
+has been replaced with ‘‘acceleration’’.
+Appendix B, Table B3: ‘‘Contribution
+to total LWC (%)’’ has been changed to
+‘‘Contribution to total RWC (%)’’.
+Appendix B, Table B4: The term
+‘‘0.49’’ has been changed to ‘‘0–4.9’’,
+and ‘‘hailstone’’ has been replaced with
+‘‘hail’’ in the title, column heading, and
+footnote.
+One commenter provided an
+additional clarifying statement with
+respect to the hail threat level variations
+obtained from the Industry Study. Given
+an extremely remote encounter
+probability and a typical thirty second
+exposure to severe hail, the assessed
+hail threat level varies from 8.7 g/m 3 to
+10.2 g/m 3, depending upon the airspeed
+of the aircraft traversing the hail shaft.
+The FAA agrees with the commenter’s
+additional explanation of the assessed
+hail threat variation. However, the
+discussion of the Industry Study in the
+proposal is technically correct.
+One commenter states the need for
+advisory material to accompany the rule
+to clarify various terms and criteria
+contained in the rule.
+The FAA agrees. An extensive
+advisory circular (AC) was drafted
+providing explanation of the various
+terms and criteria contained in the rule.
+The FAA issued a notice of availability
+of proposed AC and request for
+comments on September 5, 1996 (61 FR
+46893). Further information regarding
+this AC can be obtained by contacting
+the FAA at the address specified under
+FOR FURTHER INFORMATION CONTACT:
+One commenter suggested changes to
+the preamble discussion regarding
+power loss and performance
+degradation. The commenter did not
+suggest nor imply that any changes to
+the proposed rule were needed. The
+FAA need not address those comments
+since they do not affect the meaning of
+these regulations.
+One commenter states that the
+criterion of no flameout contained in
+§ 33.78(a)(2) and § 33.78(b) was
+excessive. The commenter further states
+that many engines are equipped with
+automatic re-ignition systems that
+would ensure quick recovery from a
+flameout.
+The FAA disagrees. Automatic re-
+ignition systems can facilitate quick
+recovery from a flameout as a result of
+a momentary ingestion, such as an ice
+shed. However, the rain and hail
+ingestion threats addressed by the new
+standards are not momentary, and have
+been defined for purposes of
+certification testing as 30 seconds
+/ Rules and Regulations 14795
+duration for hail and 3 minutes duration
+for rain. Once flameout occurs under
+these conditions, it is unlikely that the
+engine will be capable of recovery until
+the ingestion of rain or hail ceases, with
+or without an automatic re-ignition
+system. Also, for actual encounters of
+severe rain and hail, it is likely that the
+engine will continue to ingest water, at
+lower concentrations, after exiting the
+area of severe rain or hail. The effect of
+this ingested water is to lower the
+starting capability of the engine.
+Therefore, if an airplane encounters
+severe rain or hail with installed
+engines that are susceptible to flameout,
+the airplane will be susceptible to an all
+engine out, forced landing. For these
+reasons, demonstrating tolerance to
+flameout under conditions of extreme
+rain and hail is a primary objective of
+the new standards.
+One commenter states that the
+acceptance criteria for rain and hail
+ingestion contained in § 33.78(a)(2) and
+§ 33.78(b) appeared to be more stringent
+than the acceptance for ice ingestion.
+The commenter believes that the
+acceptance criteria for rain and hail
+ingestion should be less stringent than
+for ice ingestion, since ice ingestion is
+a more common occurrence than hail
+ingestion.
+The FAA concurs with the commenter
+that the stringency of acceptance criteria
+should be proportional to the
+occurrence rate of the threat being
+assessed. However, the FAA disagrees
+with the commenter’s view that the
+acceptance criteria for rain and hail
+ingestion are more stringent than for ice
+ingestion. Some amount of sustained
+power or thrust loss is permitted
+following an ice ingestion test. Also, the
+FAA would accept momentary but
+recoverable surges and stalls
+encountered while testing to the new
+rain and hail ingestion standards, but
+has not historically accepted momentary
+surges and stalls following an ice
+ingestion test. Flameout, run down,
+continued or non-recoverable surge or
+stall, and loss of acceleration and
+deceleration are unacceptable
+conditions for rain, hail and ice
+ingestion.
+Finally, the FAA has made the
+following minor editorial changes to
+better align this rule with recent
+changes to the JAA’s requirements.
+These changes do not affect the scope of
+the rule or change the intent of these
+sections.
+Section 33.78(a)(1): The phrase
+‘‘maximum true air speed’’ replaces the
+phrase ‘‘maximum rough air speed’’,
+and the phrase ‘‘operating in rough air’’
+is added following the words
+‘‘representative aircraft’’.
+
+[[Page 3]]
+14796 Federal Register / Vol. 63,
+Section 33.78(a)(1)(i) and (ii): The
+word ‘‘area’’ is changed to read ‘‘areas’’.
+Section 33.78(c): In the first sentence
+the phrase ‘‘complying with paragraph
+(a)(1) of this section’’ is changed to read
+‘‘complying with paragraphs (a)(1) and
+(a)(2) of this section.
+Appendix B: The word ‘‘hailstones’’ is
+changed to read ‘‘hail’’ in the
+introductory paragraph and also in
+Table B4.
+After careful review of all the
+comments, the FAA has determined that
+air safety and the public interest require
+the adoption of the rule with the
+changes described.
+Paperwork Reduction Act
+In accordance with the Paperwork
+Reduction Act of 1995 (44 U.S.C.
+3507(d), there are no information
+collection requirements associated with
+this final rule.
+Regulatory Evaluation Summary
+Proposed changes to Federal
+regulations must undergo several
+economic analyses. First, Executive
+Order 12866 directs that each Federal
+agency shall propose or adopt a
+regulation only upon a reasoned
+determination that the benefits of the
+intended regulation justify its costs.
+Second, the Regulatory Flexibility Act
+of 1980 requires agencies to analyze the
+economic effect of regulatory changes
+on small entities. Third, the Office of
+Management and Budget directs
+agencies to assess the effects of
+regulatory changes on international
+trade. In conducting these analyses, the
+FAA has determined that this rule: (1)
+Will generate benefits that justify its
+costs and is not a ‘‘significant regulatory
+action’’ as defined in the Executive
+Order; (2) is not significant as defined
+in DOT’s Regulatory Policies and
+Procedures; (3) will not have a
+significant impact on a substantial
+number of small entities; and (4) will
+not constitute a barrier to international
+trade. These analyses, available in the
+docket, are summarized below.
+Incremental Costs
+The proposed rule will permit a range
+of compliance options, thereby enabling
+manufacturers to select cost-minimizing
+approaches. Approaches that maximize
+the use of analytical methods will most
+likely be the least expensive means to
+demonstrate compliance, while
+approaches that rely primarily on
+engine testing in a simulated rain and
+hail environment will likely be the most
+costly. Incremental certification cost
+estimates supplied by industry varied
+depending on engine model and the
+testing method used.
+No. 58 / Thursday, March 26, 1998
+FAA conservatively estimates that
+incremental certification costs for an
+airplane turbine engine design will be
+approximately $627,000—this includes
+$300,000 in additional engineering
+hours, and $327,000 for the prorated
+share of the cost of a test facility.
+Based on statements from industry,
+the FAA expects that, once Rain/Hail
+centrifuging and engine cycle models
+are established, compliance will be
+accomplished through design
+modifications that will have little
+impact on manufacturing costs. Such
+design features may affect: (1) fan blade/
+propeller, (2) spinner/nose cone, (3)
+bypass splitter, (4) engine bleeds, (5)
+accessory loads, (6) variable stator
+scheduling, and (7) fuel control.
+Similarly, the FAA expects that the rule
+will have a negligible effect on operating
+costs.
+Expected Benefits
+Rain or hail related in-flight engine
+shutdowns are rare occurrences. This is
+due, in large part, to the high quality of
+meteorological data available to ground
+controllers and pilots, and to well
+established weather avoidance
+procedures. However, while such events
+are infrequent, they pose a serious
+hazard because they typically occur
+during a critical phase of flight where
+recovery is difficult or impossible.
+An examination of the FAA accident/
+incident database system and National
+Transportation Safety Board (NTSB)
+records revealed two accidents that
+were the result of inflight engine
+shutdown or rundowns caused by
+excessive water ingestion. In each case,
+the aircraft was in the descent phase of
+flight. These accidents form the basis of
+the expected benefits of the subject rule.
+However, what follows should be
+considered a conservative estimate of
+the rule’s potential benefits for three
+reasons.
+First, the rule should have the effect
+of increasing turbine engine water
+ingestion tolerance regardless of the
+source of water Accident/incident
+records show that many events (not
+included in the benefits estimates that
+follow) were caused by other forms of
+water such as snow and graupel. It is
+possible that some of these cases would
+have benefited from the subject rule.
+Second, several other incidents, while
+not resulting in a crash, nevertheless
+had catastrophic potential. This
+potential could be exacerbated by the
+development of more efficient turbofan
+powerplants which have permitted large
+aircraft designs incorporating fewer
+engines. An industry study identified
+seven events (not recorded in either the
+FAA or NTSB databases) in which rain
+/ Rules and Regulations
+and/or hail affected two or more engines
+and resulted in an inflight shutdown of
+at least one engine.
+Third, heavy rain and hail are often
+accompanied by severe turbulence and
+windshear. While recovery from a water
+induced engine shutdown is frequently
+successful, the ability to maintain
+engine power during an encounter with
+an unexpected downdraft could be
+crucial to avoiding a crash.
+The available accident and aircraft
+usage data suggest the categories that are
+used to classify the benefits of the
+subject rule. These classifications are:
+(1) Large air carrier aircraft (operated by
+major and national air carriers), and (2)
+other air carrier aircraft (operated by
+large regional, medium regional,
+commuter, and other small certificated
+air carriers). An examination of accident
+records for the 20-year period 1975–
+1994 indicates that, in the absence of
+the subject rule, the probability of a hull
+loss due to a water induced loss of
+engine power is 0.0094 per million
+departures for large air carriers, and
+0.0249 per million departures for other
+air carriers.
+The calculation of the rule’s benefits,
+then, depends on the degree to which
+the rule can reduce this risk. According
+to industry representatives, compliance
+with the revised water ingestion
+standards will reduce the rate of engine
+power loss events by two orders of
+magnitude. This analysis assumes that
+the rule’s effect on the accident rate will
+be proportionately equal to the rule’s
+effect on the event rate.
+Using projections from the FAA
+Aviation Forecast, this analysis assumes
+that the average large air carrier airplane
+has 168 seats and a load factor of 61%.
+The average regional air carrier airplane
+is assumed to have 30 seats and a load
+factor of 51%. The estimated
+distribution of fatal, serious, and minor
+injuries is based on the actual
+distribution of casualties in the
+accidents cited above. On the basis of
+these assumptions, FAA estimates the
+annual benefits of prevented casualties
+per airplane will be $3,360 for large air
+carriers and $618 for other air carriers.
+Benefits and Costs Analysis
+The benefits and costs of the rule are
+compared for two representative engine
+certifications: (1) An engine designed
+for operation on a large jet transport
+(corresponding to the ‘‘large air carrier’’
+category described earlier), and (2) an
+engine designed for operation on a
+regional transport (corresponding to the
+‘‘other air carrier’’ category).
+For each certification, the following
+assumptions apply: (1) 50 engines are
+produced per year for 10 years (500 total
+
+[[Page 4]]
+Federal Register / Vol. 63,
+engines produced per certification), (2)
+incremental certification costs are
+incurred in the year 2000, (3) engine
+production begins in the year 2002, (4)
+the first engines enter service in the year
+2003, (5) each engine is retired after 10
+years, (6) the discount rate is 7%. Also,
+in order to compare incremental engine
+costs with expected benefits (which are
+expressed in terms of the reduction in
+the aircraft accident rate) this analysis
+assumes that each aircraft has two
+engines.
+Under the assumptions enumerated
+above, total lifecycle benefits for a
+representative engine designed for
+operation on a large airplane equal
+approximately $9.3 million or $3.5
+million at present value (1997 dollars).
+Total lifecycle benefits for a
+representative engine designed for
+operation on a regional airplane equal to
+approximately $1.8 million or $0.7
+million at present value.
+This analysis postulates that
+incremental certification costs for both
+representative engine designs are the
+same. As discussed above, incremental
+costs are approximately $627,000 or
+$512,000 at present value.
+FAA finds that the rule would be cost-
+beneficial. Under very conservative
+production, service life, and
+incremental engine certification cost
+assumption, the expected discounted
+benefits of prevented casualties and
+aircraft damage will exceed costs by a
+ratio ranging from 6.9 to 1 for large air
+carriers to 1.3 to 1 for other air carriers.
+Harmonization Benefits
+In addition to the benefits of
+increased safety, the rule harmonizes
+with JAR requirements, thus reducing
+costs associated with certificating
+aircraft turbine engines to differing
+airworthiness standards.
+Regulatory Flexibility Determination
+The Regulatory Flexibility Act of 1980
+establishes ‘‘as a principle of regulatory
+issuance that agencies shall endeavor,
+consistent with the objective of the rule
+and of applicable statutes, to fit
+regulatory and informational
+requirements to the scale of the
+businesses, organizations, and
+governmental jurisdictions subject to
+regulation.’’ To achieve that principal,
+the Act requires agencies to solicit and
+consider flexible regulatory proposal
+and to explain the rational for their
+actions. The Act covers a wide range of
+small entities, including small
+businesses, non-for-profit organizations
+and small governmental jurisdictions.
+Agencies must perform an analysis to
+determine whether a rule will have a
+significant economic impact on a
+No. 58 / Thursday, March 26, 1998
+substantial number of small entities; if
+the determination is that it will, the
+agency must prepare a regulatory
+flexibility analysis (RFA).
+However, if after an analysis for a
+proposed or final rule, an agency
+determines that a rule is not expected to
+have a significant economic impact on
+a substantial number of small entities.
+Section 605(b) of the 1980 act provides
+that the head of the agency may so
+certify. The certification must include a
+statement providing the factual basis for
+this determination, and the reasoning
+should be clear.
+The FAA conducted the required
+preliminary analysis of the proposal and
+determined that it would not have a
+significant economic impact on a
+substantial number of small entities.
+That determination was published in
+the Federal Register on August 9, 1996
+as part of the Notice of Proposed
+Rulemaking. No comments were
+received regarding the economic
+analysis of the rule. No substantial
+changes were made in the final rule
+from the proposed rule, and estimated
+costs were not significantly modified.
+Accordingly, pursuant to the Regulatory
+Flexibility Act, 5 U.S.C. 605(b), the
+Federal Aviation Administration
+certifies that this rule will not have a
+significant economic impact on a
+substantial number of small entities.
+International Trade Impact Assessment
+The rule will have little or no effect
+on trade for either U.S. firms marketing
+turbine engines in foreign markets or
+foreign firms marketing turbine engines
+in the U.S. Generally, this rule
+harmonizes FAA requirements with
+existing and proposed JAA
+requirements.
+Federalism Implication
+The regulations will not have
+substantial direct effects on the states,
+on the relationship between the national
+government and the states, or on the
+distribution of power and
+responsibilities among the various
+levels of government. Therefore, in
+accordance with Executive Order 12612,
+it is determined that this rule will not
+have sufficient federalism implications
+to warrant the preparation of a
+Federalism Assessment.
+Unfunded Mandates Reform Act
+Title II of the Unfunded Mandates
+Reform Act of 1995 (The Act), enacted
+as Public L. 104–4 on March 22, 1995,
+requires each federal agency, to the
+extent permitted by law, to prepare a
+written assessment of the effects of any
+federal mandate in a proposed or final
+agency rule that may result in the
+/ Rules and Regulations 14797
+expenditure by state, local, and tribal
+governments, in the aggregate, or by the
+private sector, of $100 million or more
+(adjusted annually for inflation) in any
+one year. Section 204(A) of The Act, 2
+U.S.C. 1534(A), requires the federal
+agency to develop an effective process
+to permit timely input by elected
+officers (or their designees) of state,
+local, and tribal governments on a
+proposed ‘‘significant intergovernmental
+mandate’’. A ‘‘significant
+intergovernmental mandate’’ under The
+Act is any provision in a federal agency
+regulation that will impose an
+enforceable duty upon state, local, and
+tribal governments, in the aggregate, of
+$100 million (adjusted annually for
+inflation) in any one year. Section 203
+of The Act, 2 U.S.C. 1533, which
+supplements section 204(A), provides
+that before establishing any regulatory
+requirements that might significantly or
+uniquely affect small governments, the
+agency shall have developed a plan that,
+among other things, provides for notice
+to potentially affected small
+governments, if any, and for a
+meaningful and timely opportunity to
+provide input in the development of
+regulatory proposals.
+The FAA determines that this rule
+does not contain a significant
+intergovernmental or private sector
+mandate as defined by the act.
+List of Subjects in 14 CFR Parts 23, 25
+and 33
+Air transportation, Aircraft, Aviation
+safety, Safety.
+Adoption of the Amendments
+In consideration of the foregoing, the
+Federal Aviation Administration
+amends 14 CFR parts 23, 25, and 33 as
+follows:
+PART 23—AIRWORTHINESS
+STANDARDS: NORMAL, UTILITY,
+ACROBATIC, AND COMMUTER
+CATEGORY AIRPLANES
+1. The authority citation for part 23
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701–
+44702, 44704.
+2. Section 23.901 is amended by
+revising paragraph (d)(2) to read as
+follows:
+§ 23.901 Installation.
+* * * * *
+(d) * * *
+(2) Ensure that the capability of the
+installed engine to withstand the
+ingestion of rain, hail, ice, and birds
+into the engine inlet is not less than the
+
+[[Page 5]]
+14798 Federal Register / Vol. 63, No. 58 / Thursday, March 26,
+capability established for the engine PART 25—AIRWORTHINESS
+itself under § 23.903(a)(2). STANDARDS; TRANSPORT
+* * * * * CATEGORY AIRPLANES
+3. Section 23.903 is amended by
+4. The authority citation for part 25
+revising paragraph (a)(2) to read as
+continues to read as follows:
+follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701–
+§ 23.903 Engines. 44702, 44704.
+(a) * * * 5. Section 25.903 is amended by
+(2) Each turbine engine must either— revising paragraph (a)(2) to read as
+(i) Comply with §§ 33.77 and 33.78 of follows:
+this chapter in effect on April 30, 1998;
+or as subsequently amended; or § 25.903 Engines.
+(ii) Comply with § 33.77 of this (a) * * *
+chapter in effect on October 31, 1974, or (2) Each turbine engine must either—
+as subsequently amended prior to April (i) Comply with §§ 33.77 and 33.78
+30, 1998, and must have a foreign object this chapter in effect on April 30, 1998
+ingestion service history that has not or as subsequently amended; or
+resulted in any unsafe condition; or (ii) Comply with § 33.77 of this
+(iii) Be shown to have a foreign object chapter in effect on October 31, 1974,
+ingestion service history in similar as subsequently amended prior to April
+installation locations which has not 30, 1998, and must have a foreign object
+resulted in any unsafe condition. ingestion service history that has not
+Note: § 33.77 of this chapter in effect on resulted in any unsafe condition; or
+October 31, 1974, was published in 14 CFR (iii) Be shown to have a foreign object
+parts 1 to 59, Revised as of January 1, 1975. ingestion service history in similar
+See 39 FR 35467, October 1, 1974. installation locations which has not
+* * * * * resulted in any unsafe condition.
+Foregin object Test quantity Speed of foreign object
+Birds:
+3-ounce size ................ One for each 50 square Liftoff speed of typical air-
+inches of inlet area, or craft.
+fraction thereof, up to a
+maximum of 16 birds.
+Three-ounce bird inges-
+tion not required if a 11⁄2-
+pound bird will pass the
+inlet guide vanes into the
+rotor blades.
+11⁄2-pound size ............. One for the first 300 square Initial climb speed of typical
+inches of inlet area, if it aircraft.
+can enter the inlet, plus
+one for each additional
+600 square inches of inlet
+area, or fraction, thereof
+up to a maximum of 8
+birds.
+4-pound size ................ One, if it can enter the inlet Maximum climb speed of
+typical aircraft, if the en-
+gine has inlet guide
+vanes.
+Liftoff speed of typical air-
+craft, if the engine does
+not have inlet guide
+vanes.
+Ice:
+Maximum accumulation Sucked in ............................ .............................................
+on a typical inlet cowl
+and engine face re-
+sulting from a 2-
+minute delay in actu-
+ating anti-icing sys-
+tem, or a slab of ice
+which is comparable
+in weight or thickness
+for that size engine..
+NOTE: The term ‘‘inlet area’’ as used in this section means the engine inlet projected area
+jected area of any spinner or bullet nose that is provided.
+1998 / Rules and Regulations
+Note: § 33.77 of this chapter in effect on
+October 31, 1974, was published in 14 CFR
+parts 1 to 59, Revised as of January 1, 1975.
+See 39 FR 35467, October 1, 1974.
+* * * * *
+PART 33—AIRWORTHINESS
+STANDARDS: AIRCRAFT ENGINES
+6. The authority citation for part 33
+continues to read as follows:
+Authority: 49 U.S.C. 106(g) 40113, 44701–
+44702, 44704.
+7. Section 33.77 is amended by
+revising paragraphs (c) and (e) to read as
+follows:
+of
+§ 33.77 Foreign object ingestion.
+* * * * *
+(c) Ingestion of ice under the
+or conditions prescribed in paragraph (e)
+of this section, may not cause a
+sustained power or thrust loss or require
+the engine to be shut down.
+* * * * *
+(e) Compliance with paragraphs (a),
+(b), and (c) of this section must be
+shown by engine test under the
+following ingestion conditions:
+Engine operation Ingestion
+Takeoff ...................... In rapid sequence to simu-
+late a flock encounter and
+aimed at selected critical
+areas.
+Takeoff ...................... In rapid sequence to simu-
+late a flock encounter at
+selected critical areas.
+Maximum cruise ........ Aimed at critical area.
+Takeoff ...................... Aimed at critical area.
+Maximum cruise ........ To simulate a continuous
+maximum icing encounter
+at 25° F.
+at the front face of the engine. It includes the pro-
+
+[[Page 6]]
+Federal Register / Vol. 63,
+8. Section 33.78 is added to part 33,
+to read as follows:
+§ 33.78 Rain and hail ingestion.
+(a) All engines. (1) The ingestion of
+large hailstones (0.8 to 0.9 specific
+gravity) at the maximum true air speed,
+up to 15,000 feet (4,500 meters),
+associated with a representative aircraft
+operating in rough air, with the engine
+at maximum continuous power, may not
+cause unacceptable mechanical damage
+or unacceptable power or thrust loss
+after the ingestion, or require the engine
+to be shut down. One-half the number
+of hailstones shall be aimed randomly
+over the inlet face area and the other
+half aimed at the critical inlet face area.
+The hailstones shall be ingested in a
+rapid sequence to simulate a hailstone
+encounter and the number and size of
+the hailstones shall be determined as
+follows:
+(i) One 1-inch (25 millimeters)
+diameter hailstone for engines with inlet
+areas of not more than 100 square
+inches (0.0645 square meters).
+(ii) One 1-inch (25 millimeters)
+diameter and one 2-inch (50
+millimeters) diameter hailstone for each
+150 square inches (0.0968 square
+meters) of inlet area, or fraction thereof,
+for engines with inlet areas of more than
+100 square inches (0.0645 square
+meters).
+(2) In addition to complying with
+paragraph (a)(1) of this section and
+except as provided in paragraph (b) of
+this section, it must be shown that each
+engine is capable of acceptable
+operation throughout its specified
+operating envelope when subjected to
+sudden encounters with the certification
+standard concentrations of rain and hail,
+as defined in appendix B to this part.
+Acceptable engine operation precludes
+flameout, run down, continued or non-
+recoverable surge or stall, or loss of
+acceleration and deceleration capability,
+during any three minute continuous
+period in rain and during any 30 second
+continuous period in hail. It must also
+be shown after the ingestion that there
+is no unacceptable mechanical damage,
+No. 58 / Thursday, March 26, 1998
+unacceptable power or thrust loss, or
+other adverse engine anomalies.
+(b) Engines for rotorcraft. As an
+alternative to the requirements specified
+in paragraph (a)(2) of this section, for
+rotorcraft turbine engines only, it must
+be shown that each engine is capable of
+acceptable operation during and after
+the ingestion of rain with an overall
+ratio of water droplet flow to airflow, by
+weight, with a uniform distribution at
+the inlet plane, of at least four percent.
+Acceptable engine operation precludes
+flameout, run down, continued or non-
+recoverable surge or stall, or loss of
+acceleration and deceleration capability.
+It must also be shown after the ingestion
+that there is no unacceptable
+mechanical damage, unacceptable
+power loss, or other adverse engine
+anomalies. The rain ingestion must
+occur under the following static ground
+level conditions:
+(1) A normal stabilization period at
+take-off power without rain ingestion,
+followed immediately by the suddenly
+commencing ingestion of rain for three
+minutes at takeoff power, then
+(2) Continuation of the rain ingestion
+during subsequent rapid deceleration to
+minimum idle, then
+(3) Continuation of the rain ingestion
+during three minutes at minimum idle
+power to be certified for flight
+operation, then
+(4) Continuation of the rain ingestion
+during subsequent rapid acceleration to
+takeoff power.
+(c) Engines for supersonic airplanes.
+In addition to complying with
+paragraphs (a)(1) and (a)(2) of this
+section, a separate test for supersonic
+airplane engines only, shall be
+conducted with three hailstones
+ingested at supersonic cruise velocity.
+These hailstones shall be aimed at the
+engine’s critical face area, and their
+ingestion must not cause unacceptable
+mechanical damage or unacceptable
+power or thrust loss after the ingestion
+or require the engine to be shut down.
+The size of these hailstones shall be
+determined from the linear variation in
+diameter from 1-inch (25 millimeters) at
+35,000 feet (10,500 meters) to 1⁄4-inch (6
+/ Rules and Regulations 14799
+millimeters) at 60,000 feet (18,000
+meters) using the diameter
+corresponding to the lowest expected
+supersonic cruise altitude.
+Alternatively, three larger hailstones
+may be ingested at subsonic velocities
+such that the kinetic energy of these
+larger hailstones is equivalent to the
+applicable supersonic ingestion
+conditions.
+(d) For an engine that incorporates or
+requires the use of a protection device,
+demonstration of the rain and hail
+ingestion capabilities of the engine, as
+required in paragraphs (a), (b), and (c)
+of this section, may be waived wholly
+or in part by the Administrator if the
+applicant shows that:
+(1) The subject rain and hail
+constituents are of a size that will not
+pass through the protection device;
+(2) The protection device will
+withstand the impact of the subject rain
+and hail constituents; and
+(3) The subject of rain and hail
+constituents, stopped by the protection
+device, will not obstruct the flow of
+induction air into the engine, resulting
+in damage, power or thrust loss, or other
+adverse engine anomalies in excess of
+what would be accepted in paragraphs
+(a), (b), and (c) of this section.
+9. Appendix B is added to part 33, to
+read as follows:
+Appendix B to Part 33—Certification
+Standard Atmospheric Concentrations of
+Rain and Hail
+Figure B1, Table B1, Table B2, Table B3,
+and Table B4 specify the atmospheric
+concentrations and size distributions of rain
+and hail for establishing certification, in
+accordance with the requirements of
+§ 33.78(a)(2). In conducting tests, normally by
+spraying liquid water to simulate rain
+conditions and by delivering hail fabricated
+from ice to simulate hail conditions, the use
+of water droplets and hail having shapes,
+sizes and distributions of sizes other than
+those defined in this appendix B, or the use
+of a single size or shape for each water
+droplet or hail, can be accepted, provided
+that applicant shows that the substitution
+does not reduce the severity of the test.
+BILLING CODE 4910–13–M
+
+[[Page 7]]
+14800 Federal Register
+BILLING CODE 4910–13–C
+TABLE B1.—CERTIFICATION STANDARD
+ATMOSPHERIC RAIN CONCENTRATIONS
+Altitude (feet)
+0 ....................................................
+20,000 ...........................................
+26,300 ...........................................
+32,700 ...........................................
+39,300 ...........................................
+46,000 ...........................................
+RWC values at other altitudes may
+termined by linear interpolation.
+NOTE: Source of data—Results of
+space Industries Association (AIA) Propulsion
+Committee Study, Project PC 338–1,
+1990.
+TABLE B2.—CERTIFICATION STANDARD
+ATMOSPHERIC HAIL CONCENTRATIONS
+Altitude (feet)
+0 ....................................................
+7,300 .............................................
+8,500 .............................................
+10,000 ...........................................
+/ Vol. 63, No. 58 / Thursday, March 26, 1998
+TABLE B2.—CERTIFICATION STANDARD
+ATMOSPHERIC HAIL CONCENTRA-
+TIONS—Continued
+Hail
+Rain water
+water content
+content (RWC) Altitude (feet) (grams (HWC)
+(grams water/
+water/ meter 3
+meter 3 air)
+air)
+12,000 ........................................... 10.0
+20.0 15,000 ........................................... 10.0
+20.0 16,000 ........................................... 8.9
+15.2 17,700 ........................................... 7.8
+10.8 19,300 ........................................... 6.6
+7.7 21,500 ........................................... 5.6
+5.2 24,300 ........................................... 4.4
+29,000 ........................................... 3.3
+be de- 46,000 ........................................... 0.2
+the Aero- HWC values at other altitudes may be de-
+Propulsion termined by linear interpolation. The hail threat
+June below 7,300 feet and above 29,000 feet is
+based on linearly extrapolated data.
+Note: Source of data—Results of the Aero-
+space Industries Association (AIA Propulsion
+Committee (PC) Study, Project PC 338–1,
+June 1990.
+Hail TABLE B3.—CERTIFICATION STANDARD
+content (HWC) water ATMOSPHERIC DISTRIBUTION RAIN DROPLET SIZE
+(grams
+meter water/ 3 Rain droplet diameter (mm) Contribu- tion total
+air) RWC (%)
+6.0 0–0.49 ........................................... 0
+8.9 0.50–0.99 ...................................... 2.25
+9.4 1.00–1.49 ...................................... 8.75
+9.9 1.50–1.99 ...................................... 16.25
+/ Rules and Regulations
+TABLE B3.—CERTIFICATION STANDARD
+ATMOSPHERIC RAIN DROPLET
+DISTRIBUTION—Continued
+Rain droplet diameter (mm)
+2.00–2.49 ......................................
+2.50–2.99 ......................................
+3.00–3.49 ......................................
+3.50–3.99 ......................................
+4.00–4.49 ......................................
+4.50–4.99 ......................................
+5.00–5.49 ......................................
+5.50–5.99 ......................................
+6.00–6.49 ......................................
+6.50–7.00 ......................................
+Total .......................................
+Median diameter of rain droplets in
+Note: Source of data—Results of
+space Industries Association (AIA
+Committee (PC) Study, Project PC
+June 1990.
+TABLE B4.—CERTIFICATION STANDARD
+ATMOSPHERIC HAIL SIZE DISTRIBUTION
+Hail diameter (mm)
+0–4.9 .............................................
+5.0–9.9 ..........................................
+10.0–14.9 ......................................
+15.0–19.9 ......................................
+20.0–24.9 ......................................
+25.0–29.9 ......................................
+30.0–34.9 ......................................
+35.0–39.9 ......................................
+40.0–44.9 ......................................
+SIZE
+Contribu-
+tion total
+RWC (%)
+19.00
+17.75
+13.50
+9.50
+6.00
+3.00
+2.00
+1.25
+0.50
+0.25
+100.00
+in 2.66 mm
+the Aero-
+Propulsion
+338–1,
+Contribu-
+tion total
+HWC (%)
+0
+17.00
+25.00
+22.50
+16.00
+9.75
+4.75
+2.50
+1.50
+
+[[Page 8]]
+Federal Register / Vol. 63, No. 58 / Thursday, March 26, 1998 / Rules
+TABLE B4.—CERTIFICATION STANDARD
+ATMOSPHERIC HAIL SIZE DISTRIBU-
+TION—Continued
+Contribu-
+Hail diameter (mm) tion total
+HWC (%)
+45.0–49.9 ...................................... 0.75
+50.0–55.0 ...................................... 0.25
+Total ....................................... 100.00
+Median diameter of hail is 16 mm
+Note: Source of data—Results of the Aero-
+space Industries Association (AIA Propulsion
+Committee (PC) Study, Project PC 338–1,
+June 1990.
+Issued in Washington, DC, on March 20,
+1998.
+Jane F. Garvey,
+Administrator.
+[FR Doc. 98–7902 Filed 3–25–98; 8:45 am]
+BILLING CODE 4910–13–M
+Rules and Regulations 14801

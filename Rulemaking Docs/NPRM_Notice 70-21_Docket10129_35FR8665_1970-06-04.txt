@@ -1,0 +1,178 @@
+CFR NPRM: Part 23|Part 25|Part 27|Part 29
+
+ 
+ 
+        
+CITATION: [Federal Register: June 4, 1970 (Volume 35, Number 108)]
+
+ 
+        
+PAGE NUMBER: [Page 8665]
+
+ 
+        
+DOCKET NUMBER: 10129
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29
+
+ 
+        
+SUBJECT: Anticollision Light Standards; Notice of Proposed Rule Making
+
+ 
+        
+ACTION: Notice of Proposed Rule Making
+
+ 
+        
+SUMMARY: 14 CFR Parts 23, 25, 27, 29, 91
+
+ The Federal Aviation Administration is considering amending Parts 23, 25, 27, 29, and 91 of the Federal Aviation Regulations: (1) To permit the use of either aviation red or aviation white anticollision lights; (2) to expand the chromaticity-coordinate range for aviation white; (3) to increase the minimum effective intensities for anticollision lights installed on all aircraft to be type certified in the future; and (4) to require that all aircraft, after a specified period of time, have an approval anticollision flight system for night flight.
+
+ 
+        
+DATES: Comments due on or before September 2, 1970.
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ Interested persons are invited to participate in the making of the proposed rule by submitting such written data, views, or arguments as they may desire. Communications should identify the docket number and be submitted in duplicate to the Federal Aviation Administration, Office of the General Counsel, Attention: Rules Docket, 800 Independence Avenue SW., Washington, D.C. 20590. All communications received on or before September 2, 1970, will be considered by the Administrator before taking action upon the proposed rule. The proposals contained in this notice may be changed in the light of comments received. All comments will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons.
+
+ On February 11, 1970, an advance notice of proposed rule making (Notice 70-7, 35 F.R. 3175) was issued inviting the views of interested persons on certain issues concerning anticollision light standards. At that time, the FAA advised that if the comments received in response to Notice 70-7 indicated the need for further rulemaking action, the advance notice would be followed by a notice of proposed rule making. The views of all persons who filed comments in response to Notice 70-7, and all other available data, have been evaluated and it has been determined that the following amendments to the Federal Aviation Regulations should be proposed: 
+
+ (1) It is proposed to amend Sec. 23.1401 (and the corresponding sections of Parts 25, 27, and 29) to permit the use of either aviation red or aviation white anticollision lights. The regulations now require that each anticollision light must be aviation red. However, neither the research conducted in the past by the FAA, and by others, nor the arguments submitted in response to Notice 70-7 by proponents of each color have conclusively established that one color is superior to the other at comparable intensities. Current FAA/NASA research may shed new light on this question.
+
+ It is clear, however, that if the red color for anticollision lights were changed to white, the anticollision light intensity could be increased by a factor of 3 to 5 (without increasing the electric power consumption) by merely removing the red filter needed to meet current standards, or by replacing it with a white light (condenser discharge or other type) that uses about the same amount of power. Alternatively, if the regulation permitted aviation white anticollision lights, the currently prescribed intensities could be produced with one-fifth to one-third of the electric power now being used by the red anticollision lights. Although it is true that the use of aviation white could introduce a backscatter problem on some aircraft, we believe that this problem can be solved by the relocation of lights, by appropriate masking, or by other methods, as has already been done with respect to the white "supplementary" high-intensity lights installed on many aircraft now in service.
+
+ Some of the comments suggested that safety might be compromised by permitting aircraft using differently colored anticollision lights to operate in the same airspace. The FAA does not agree. Many aircraft currently operating in the United States do not now display red anticollision lights exclusively, since the current regulations permit the display of high-intensity flashing white lights (and even red and green lights) as "supplementary" lights. Frequently, the "supplementary" white lights are seen first as the aircraft is approached. The use of such "supplementary" lights has been permitted for more than 10 years and there has been no adverse effect on safety. Therefore, there is no reason to believe that the optional use of either red or white anticollision lights in the future would compromise safety in any way.
+
+ On the other hand, since the standards of the International Civil Aviation Organization (ICAO) now specify red as the color for anticollision lights, the adoption of this proposal would make it necessary to file a formal notice of difference with ICAO.
+
+ (2) It is proposed to expand the chromaticity-coordinate range for the color aviation white in order to provide for the use of white condenser-discharge anticollision lights, including Xenon types, in the implementation of proposal 1.
+
+ (3) It is proposed to increase the minimum effective intensities for anticollision lights and to make that increase applicable to both red and white lights on aircraft type certificate in the future. A majority of the persons responding to Notice 70-7 indicated that the currently prescribed intensity level for anticollision lights should be raised. In view of the fact that this increase would apply only to anticollision lights installed on aircraft for which an application for type certificate is made after the effective date of any final amendment containing this proposal, and in view of the current state-of-the-art in anticollision lights, the FAA considers that the application of the proposal of all aircraft is feasible.
+
+ On the question of what increase in anticollision light intensity should be made, those who responded to Notice 70-7 offered suggestions that varied widely; but most recommended a four-fold increase over current levels. This corresponds roughly to the increase in intensity that would be attained by removing the red filter from existing anticollision lights, and is within the performance capability of state-of-the-art condenser-discharge lights. The FAA believes this intensity recommendations has merit, and it is proposed to increase currently prescribed anticollision light intensities by a factor of four.
+
+ Contrary to the suggestion contained in various comments on Notice 70-7, the FAA believes that an intensity level standard that includes a specified infrared signal content for use with Pilot Warning Indicators (PWI) would be premature. The FAA considers that mandatory action on infrared signal content should await completion of current evaluations of the PWI system concept on civil aircraft. However, the proposed standard would not prevent any manufacturer from providing an infrared signal in his anticollision lights.
+
+ There were also suggestions that the current anticollision light intensity should be retained for ground operation. However, the FAA does not consider that this is necessary since, under current rules, the anticollision lights may be dimmed or even turned off during ground operations.
+
+ (4) Finally, it is proposed to require that 1 year after the effective date of a final amendment all aircraft must have an approved anticollision lights system installed for night flight. This proposal is in accord with the majority of the comments received concerning this issue.
+
+ While Notice 70-7 requested views as to whether all aircraft should be fitted with anticollision lights, the FAA recognized that a proposal of this nature would be too broad. As numerous comments pointed out, many small aircraft are not operated at night and they do not have electrical systems. For this reason the proposal is limited to power aircraft that are operated at night and thus, already have an electrical system.
+
+ Under the current requirement of Sec. 91.33 (c) and (d), an approved anticollision light system is required for flight at night on all aircraft, and on small aircraft when required by the aircraft's airworthiness certificate. Thus, small aircraft certificated under airworthiness rules in effect before 1957, need not be equipped with an approved anticollision light system for night flights. While exemption of certain small aircraft from the requirement for an anticollision light system was justifiable at the time the anticollision light requirements in Sec. 91.33 were adopted, there is more air traffic today, and it moves faster. All aircraft that are operated at night should be fitted with an approval anticollision light system. The proposed change to Sec. 91.33 would require a considerable number of operators of small aircraft that do not presently have an anticollision light system, to have such a system installed if they wish to operate at night. Since it is recognized that many of these aircraft do not now have an electrical system that is capable of supplying the extra power needed for the approved anticollision light, the FAA considers that a 1-year period should be allowed in order to provide operators with enough time to make the required modifications to their aircraft. It should be clear that this proposal is not intended to affect the approved status of any anticollision light that has been voluntarily installed in the past.
+
+ In addition to the foregoing, Notice 70-7 also requested the views of interested persons as to whether the FAA should require that anticollision light be displayed during daylight hours. The comments received in response to this question were in general agreement that anticollision lights meeting the current standards are not useful during the daytime. It appears that even for white anticollision lights, the prescribed minimum intensity would have to be increased by a factor of 10 to 25 in order to make the lights useful. The FAA is aware that such a requirement would impose an unreasonable burden on most operators, particularly those operating small aircraft. If the prescribed minimum intensity cannot be increased to the extent necessary to achieve full day- time effectiveness, the daytime display of anticollision lights would be useful only when the aircraft is observed against a contrasting background (cloudy skies or dark areas on the ground) or when visibility conditions are reduced for any reason. Therefore, the determination as to whether the circumstances warrant the display of anticollision lights must rest with the pilot during daytime operations. For this reason, while the FAA encourages the daytime display of anticollision lights, a requirement for daytime operation of the anticollision lights is not justified at this time.
+
+ This issue will be reexamined when anticollision lights having PWI signal-source capability come into general use.
+
+ Finally, Notice 70-7 requested the views of interested persons concerning any other issues relating to anticollision light standards that warrant the attention of the FAA. Numerous suggestions were received in response to this question. However, certain of the suggestions were related to the FAA/NASA research that is still in process and others will require further examination and study. The FAA is, therefore, not in a position at this time to take action on these suggestions. However, all suggestions received, and the final results of FAA/NASA research, will be fully evaluated with a view toward possible further rule-making action.
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendments: 
+
+ In consideration of the foregoing, it is proposed to amend Parts 23, 25, 27, 29, and 91 of the Federal Aviation Regulations as follows:
+
+1. By amending paragraph (c) of Secs. 23.1397, 25.1397, 27.1397, and 29,1397 to read as follows:
+
+Sec __.1397 Color specifications.
+
+* * * * *
+
+(c) Aviation white.
+
+"x" is not less than 0.300 and not greater than 0.540;
+
+"y" is not less than "x-0.040" or "yc-0.010", whichever is the smaller; and "y" is not greater than "x+0.020" nor "0.636-0.400x";
+
+ Where "yc" is the "y" coordinate of the Planckian radiator for the value of "x" considered.
+
+2. By amending paragraph (d) of Secs. 23.1401, 25.1401, 27.1401, and 29.1401 to read as follows:
+
+Sec __.1401 Anticollision light system.
+
+* * * * *
+
+(d) Color. Each anticollision light must be either aviation red or aviation white and must meet the applicable requirements of Sec. 23.1397 (25.1397, 27.1397, and 29,1397).
+
+* * * * *
+
+3. By amending paragraph (e) of Secs. 23.1401, 25.1401, 2.1401, and 29.1401 by adding the parenthetical phrase "(if used)" after the word "filter".
+
+4. By amending paragraph (f) of Secs. 23.1401, 25.1401, 27.1401, and 29.1401 to read as follows:
+
+Sec __.1401 Anticollision light system.
+
+* * * * *
+
+(f) Minimum effective intensities for anticollision lights. Each anticollision light effective intensity must equal or exceed the applicable values in the following table.
+
+Angle above or below this horizontal plans:
+
+ Effective intensity (candles)
+
+ 
+
+0° to 5°
+
+ 400
+
+ 
+
+5° to 10°
+
+ 240
+
+ 
+
+10° to 20°
+
+ 80
+
+ 
+
+20° to 30°
+
+ 40
+
+ 
+
+5. By amending subparagraph (3) of paragraph (c) of Sec. 91.33 to read as follows:
+
+Sec. 91.33 Powered civil aircraft with standard category U.S. airworthiness certificates; instrument and equipment requirements.
+
+* * * * *
+
+(c) Visual flight rules (night). * * *
+
+(3) On large aircraft, or when required by the aircraft's airworthiness certificate, and on all other aircraft after (1) year after the effective date of this amendment), an approved aviation red or aviation white anticollision light system. In the event of failure of any light of the anticollision light system, operations with the aircraft may be continued to a stop where repairs or replacement can be made.
+
+These amendments are proposed under the authority of Secs. 313(a), 601, 603, and 604 (49 U.S.C. 1354, 1421, 1423, and 1424), and section 6(c) of the Department of Transportation Act (49 U.S.C. 1655 (C)).
+
+ 
+        
+FOOTER: Issued in Washington, DC, on May 28, 1970.
+
+James F. Rudolph,
+
+Director, Flight Standards Service.
+
+[FR Doc. 70-6884 Filed 6-3-70; 8:47 am]
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

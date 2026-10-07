@@ -1,0 +1,2650 @@
+CFR NPRM: Part 21|Part 23|Part 25|Part 27|Part 29|Part 31|Part 33|Part 35|Part 36
+
+ 
+ 
+        
+CITATION: [Federal Register: January 22, 1979]
+
+ 
+        
+PAGE NUMBER: [Page 4572]
+
+ 
+        
+DOCKET NUMBER: 18334
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 25|Part 27|Part 29|Part 31|Part 33|Part 35|Part 36
+
+ 
+        
+SUBJECT: General Operating and Flight Rules
+
+ 
+        
+ACTION: Advance notice of proposed rulemaking
+
+ 
+        
+SUMMARY: 
+
+General Operating and Flight Rules, Revision of Part 91
+
+ 
+
+ This notice sets forth the petition of the Aircraft Owners and Pilots Association, on behalf of its members, for revision of that Part of the Federal Aviation Regulations which contains the general operating and flight rules.
+
+ 
+        
+DATES: Comments must be received on or before April 23, 1979.
+
+ 
+        
+ADDRESSES: Send written comments in duplicate to: Federal Aviation Administration, Office of the Chief Counsel, Attention: Rules Docket (AGC-24), Docket No. 18334, 800 Independence Ave., S.W., Washington, D.C. 20591.
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Raymond E. Ramakis, Regulatory Projects Branch, Safety Regulations Division, Federal Aviation Administration, 800 Independence Avenue, S.W., Washington, D.C. 20591; Telephone (202) 755-8716.
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+COMMENTS INVITED
+
+ This advance notice of proposed rule making is issued to invite public participation in the identification and selection of a course or alternate courses of action with respect to a particular rule making problem. Interested persons are invited to participate in the making of the proposed rule by submitting such written data, views, or arguments as they may desire. Communications should be submitted in duplicate to: Federal Aviation Administration, Office of the Chief Counsel, Attention: Rules Docket (AGC-24), Docket No. 18334, 800 Independence Avenue, S.W., Washington, D.C. 20591. All comments submitted will be available in the Rules Docket, both before and after the closing date for comments, for examination by interested persons. If it is determined to proceed further, after consideration of the available data and the comments received in response to this notice, a notice of proposed rule making will be issued and will be filed in the public docket.
+
+AVAILABILITY OF ANPRM
+
+ Any person may obtain a copy of this advance notice of proposed rule making (ANPRM) by submitting a request to the Federal Aviation Administration, Office of Public Affairs, Attention: Public Information Center, APA-430, 800 Independence Ave., S.W., Washington, D.C. 20591, or by calling (202) 426-8058. Communication must identify the notice number of this ANPRM. Persons interested in being placed on a mailing list for future ANPRM's and NPRM's should also request a copy of Advisory Circular No. 11-2 which describes the application procedure.
+
+BACKGROUND
+
+ By petition dated August 9, 1978, the Aircraft Owners and Pilots Association (AOPA) petitioned the Federal Aviation Administration to revise Part 91 of the Federal Aviation Regulations (14 CFR Part 91).
+
+ The FAA believes the petition discloses adequate reasons to publish it in the form of an advance notice of proposed rule making for the purpose of obtaining public comments on it.
+
+ Although this advance notice sets forth the contents of the petition without substantive changes, it should be understood that its publication does not represent an FAA position, or otherwise commit the Agency, on the merits of any particular amendment proposed. The Agency intends to reach a conclusion on the merits of the individual proposals only after it has had an opportunity to carefully evaluate them in the light of all comments received. Thereafter, if the FAA determines that it should proceed further, a notice of proposed rule making will be issued which reflects the FAA evaluation of the proposals.
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment:
+
+AOPA PETITION
+
+PETITION FOR RULEMAKING
+
+Proposed Revision of Part 91 of the Federal Aviation Regulations
+
+ The Aircraft Owners and Pilots Association, on behalf of more than 210,000 members petitions the Federal Aviation Administration to revise Part 91 of the Federal Aviation Regulations to make the regulations simpler and more comprehensible.
+
+ Present Part 91 reflects the ever increasing volume of air traffic and changes in aviation technology since the first set of regulations were promulgated almost fifty years ago. New regulations are regularly added and old ones revised, with very few being deleted. Where sections have been amended several times in attempts to make them more explicit, or to reflect changes in other regulations, they have become convoluted with much of the language superfluous.
+
+ Under the codification system used, it has been difficult to keep the regulations in any kind of logical order. The only provision for adding new regulations has been to leave blanks between the section numbers, but these blanks are soon exhausted resulting in a rather random listing of regulations. The best solution to this problem is a new numbering system such as that employed by ICAO. This has not been done in this proposal because to do so might obscure the basic purpose of simplifying the regulations and format in Part 91, and raise additional problems in having the proposal adopted.
+
+ We believe Part 91 should contain only those regulations a pilot needs to know in order to operate legally and, hopefully, safely. The regulations should be as short and uncomplicated as possible, and understandable to all pilots. Material which may state good operating procedures but is extraneous to a basic regulation should be deleted and placed in Advisory Circulars, training manuals and other publications.
+
+ The Accompanying proposal contains four areas of change from present Part 91: I Reorganization; II Simplification; III Deletion; and IV Addition.
+
+I. REORGANIZATION
+
+ The regulations are organized into seven subparts, with the sections in each subpart assigned the odd numbers in series of 100; i.e., Sec. 91.15, 91.115, 91.215, etc.
+
+ Subpart A. General Regulations, and Subpart B, Basic Flight Rules, are applicable to all operations. These two subparts contain all the regulations pertinent to the non-instrument rated pilot flying small aircraft in ordinary not-for-hire operations.
+
+ Subpart C contains the Instrument Flight Rules, including those governing Category II operations.
+
+ Subpart D. Special Flight Operations, governs aerobatic flight, aircraft flight test areas, flight instruction, simulated instrument flight, parachuting (general and reference to part 105), and towing (gliders and others).
+
+ Subpart E contains Additional Regulations for Commercial Operators and Operations for Hire. These regulations are retained in Part 91 because some for-hire operations and some operations by commercial operators are governed only by Part 91.
+
+ Subpart F, Operation of Certain Aircraft, contains regulations from Present Part 91 applicable to experimental, limited, provisional restricted, and transport category aircraft; turbojet-powered airplanes; sonic boom; and increased weights for certain airplanes in Alaska.
+
+ Subpart G contains the aircraft maintenance regulations from Subpart C of present part 91.
+
+ This proposal does not include present Subpart D. Large and Turbine Powered Multi-Engine Airplanes; or Subpart E, Operating Noise Levels. These could remain as additional subparts to Part 91 or more appropriately, could be published as new parts to the Federal Aviation Regulations.
+
+II. SIMPLIFICATION
+
+ For purposes of achieving clarity and simplicity, much of the language has been changed. Regulations of little or no concern to most general aviation pilots have been unchanged in this proposed revision.
+
+ The removal from Part 91 of several tables, complicated appliance approval standards, and specifics adequately covered by a basic regulation is intended to simplify many regulations without altering their applicability. Material which has been removed will be noted under Changes in each specific proposal. Some examples are:
+
+ A. Reference to TSOs or other approval standards for appliances. [Present Secs. 91.24, 91.33, 91.36, and 91.52].
+
+ Throughout, we have deleted from Part 91 most references to TSO or other approval standards for appliances. We are not suggesting that appliances need not meet stated standards where approval is presently required. We are recommending that requirements for such approval be placed in other Parts of the FARs (Parts 21, 37, 43, or the various airworthiness Parts), or that a new Part containing all approval requirements be established.
+
+ The extent to which the regulations succeed in providing a safe flight environment is predicated to a very large degree on how well pilots understand them and the reasonableness of requiring compliance. It is reasonable to require a pilot to ascertain the airworthiness of an aircraft by looking at the airworthiness certificate, checking the aircraft logbooks to determine the date of the most recent required inspection, and giving the aircraft a thorough preflight inspection. It is unreasonable to expect a pilot to determine whether all appliances meet technical approval standards which may be in effect. Three examples should adequately illustrate this:
+
+1. Transponders are required to meet one of four TSOs, two of which are unacceptable unless the transponder has been upgraded to meet one of the other TSOs. The manufacturer may indicate on the face of the transponder that it is TSO'd but the pilot cannot tell which TSO it meets.
+
+2. Anticollision light systems must meet standards prescribed in various airworthiness Parts of the regulations. These systems are not marked in any way to indicate to the pilot that they meet the required standards.
+
+3. Emergency locator transmitters must be TSO'd but many of them are installed in aircraft in such a way as to be inaccessible to a pilot making a conscientious preflight inspection.
+
+ In most cases, examination of aircraft equipment lists or maintenance records does not reveal whether the items meet required standards. Usually, only the type (and occasionally a brand name) of item is listed. Even knowing the name of the manufacturer and model number would not tell the pilot whether it was approved, unless he had a complete list of all items which meet all required standards. It is obviously impractical to expect pilots to keep, or even use such a list.
+
+ We realize that a prohibition against the use of unapproved appliances should remain in Part 91, and we have provided this in proposed Sec. 91.17.
+
+ B. Specific information required under Preflight Action. [Present Sec. 91.5(a) and (b)]. Deleting the specific items in paragraphs (a) and (b) does not lessen a pilot's responsibility for including them in the information considered pertinent to the safe operation of a flight. This is the type of information that comes under good operating procedures and belongs in other publications.
+
+ C. Tables for determining flight levels based on atmospheric pressure and converting minimum altitude to minimum flight level. [Present Sec. 91.91]. This, too, belongs in manuals, not Part 91.
+
+III. DELETION
+
+ Several sections and large portions of present Part 91 have been deleted, but, for the most part, this does not result in any change to present operating practices nor lowering of safety standards. The major deletions are:
+
+ A. Section 91.4, Pilot in Command of Aircraft Requiring More than One Required Pilot.
+
+ This regulation belongs in Part 61. If Sec. 61.58 does not state the requirement contained in Sec. 91.4, it should be amended to do so. There appears to be no more reason to retain this cross reference than to have similar references in Part 91 to requirements for instrument rating to operate IFR, type ratings for large aircraft, etc.
+
+ B. Section 91.12, Carriage of Narcotic Drugs, Marihuana, and Depressant or Stimulant Drugs or Substances.
+
+ Our sole consideration in deleting this regulation is an attempt to eliminate from Part 91 regulations unnecessary for safe flight operations, and the deletion should not be construed in any way as our condoning the use of aircraft for any illicit purpose. We have reread the preambles which accompanied this regulation when it was adopted and the subsequent amendments to it and find the arguments offered in justification could be used to justify regulations against the use of aircraft for just about any illicit act; fleeing from a crime, kidnapping, aircraft theft, etc.
+
+ If aircraft carrying drugs engages in any unsafe flight operation. FAA retains enforcement authority under at least one remaining regulation if present Sec. 91.12 is deleted; and other Federal and State statutes remain to outlaw the illegal possession and carriage of drugs.
+
+ If a regulation against the carriage of drugs in aircraft is retained, it should appear in another Part of the FARs because it is to remote from flight safety considerations to remain in Part 91.
+
+ C. Sections 91.24(b)(3) and 91.90(c), Group III Terminal Control Area.
+
+ Regulations for Group III TCAs have been deleted because there aren't any and, hopefully, there won't be any, at least not for some time to come. If Group III TCAs are established at some future date, Part 91 can be amended accordingly. In the meantime, references to them in Part 91 constitute needless clutter.
+
+ D. Section 91.27(b), Display of Airworthiness Certificate.
+
+ The requirement to display the airworthiness certificate so that it is legible to passengers and crew is deleted because, in most cases, the airworthiness certificate is meaningless without reference to the aircraft maintenance records. It may be valid to require prominent display of nonstandard airworthiness certificates, such as ferry permits and experimental certificates.
+
+ E. Section 91.36, Data Correspondence Between Automatically Reported Pressure Altitude Data and the Pilot's Altitude Reference.
+
+ Paragraph (a) - No person may operate any automatic pressure altitude reporting equipment associated with a radar beacon transponder when deactivation of that equipment is directed by ATC.
+
+ This paragraph is deleted because it appears to be covered by the prohibition against operating an aircraft contrary to an ATC instruction. (Present Sec. 91.75(b) and proposed Sec. 91.125(b).) If FAA considers present Sec. 91.75(b) not to apply to the operation of equipment aboard an aircraft, we have no objection to retaining present Sec. 91.36(a), but recommend that it be included as a paragraph under proposed Sec. 91.125, Compliance with ATC Clearances and Instructions.
+
+ Paragraph (b) and (c) - Test and calibration and TSO requirements for automatic pressure altitude reporting equipment. These requirements should be placed on the owner and/or the person who installs the equipment, not on the pilot. (See example A under Simplification, removing references to TSO or other approval standards for appliances.)
+
+ F. Section 91.54, Truth in Leasing Clause Requirements in Leases and Conditional Sales Contracts.
+
+ This section belongs in Part 49 if it belongs anywhere in the FARs. The requirements to carry a copy of a lease or contract in the aircraft and to notify the nearest FAA office prior to a flight might be retained in Part 91.
+
+ G. Sections 91.70(b); 91.85(b), (c) and (d); and Part 1, Airport Traffic Areas.
+
+ This is the only deletion which results in what may be considered a potentially significant change in operating practices.
+
+1. Aircraft may be operated below 3,000 feet MSL closer than 5 miles to a tower controlled airport for purposes other than landing or taking off, and without communicating with the tower, as long a they avoid the traffic pattern.
+
+2. Communication with a tower not operated by the U.S. is not mandatory.
+
+ Many of the busiest airports are now within TCAs, making airport traffic areas unnecessary for them; and requiring clearances for operations within traffic patterns at other airports with control towers provides a necessary level of safety. It may be pertinent to point out that under present regulations aircraft may operate within airport traffic areas without clearances if they are taking off or landing at a nontower airport within the area.
+
+ H. Section 91.101, Operations to, or over Cuba. This regulation is political in nature rather than related to aviation safety and, as such, it should come under the Department of State, not the FAA.
+
+IV. ADDITIONS AND CHANGES
+
+ Regulations which have been added or changed mainly expand or clarify a privilege or an exception contained in present regulations, or acknowledge present good operating procedures. There are two major (or significant) Changes:
+
+ A. Proposed Sec. 91.17 imposes prohibitions against the installation of any appliance which does not meet approval standards when approval is required, and against the use of appliances which the pilot determines do not meet required approval standards. These prohibitions take up the slack left by deleting from Part 91 specific approval standards.
+
+ B. Proposed Sec. 91.307 permits flight instruction and simulated instrument flight in aircraft without dual controls provided the pilot manipulating the controls meets certain qualifications.
+
+NOTES
+
+(1) On the Contents pages for the proposed new part, the number of corresponding sections in present Part 91 appear to the right of section titles.
+
+(2) The sections in each Subpart of the proposal have been assigned the odd numbers from a different series of 100; i.e., 91.15, 91.115, 91.215, etc.
+
+*(3) A copy of the present regulations, on white paper, faces each corresponding proposed section which is on yellow paper, for easy comparison.
+
+*(4) On the reverse side of each white sheet, two numbers are in the upper right-hand corner. The top number is the number of the proposed section, and below it is the number of the corresponding present section in parenthesis.
+
+(5) Throughout the proposal, we have tried to consistently change the word "may" to "shall" when it is used in the negative ("no person shall"). "May" is still used in a permissive sense to state authority or permission to do the act prescribed.
+
+(6) In Subpart G, Aircraft Maintenance, Inspections, Preventive Maintenance, Alterations, and Equipment Tests, the word "inspection" is used separately from "maintenance" (which presently includes inspection as part of its definition). It is intended that "maintenance" be redefined accordingly, and that a definition of "inspection" be inserted in Part 1.
+
+PART 91 - OPERATING AND FLIGHT RULES
+
+Subpart A - General
+
+Sec. Corresponding present regulation 
+
+91.1 Applicability 91.1 & 91.20 
+
+91.3 Airmen: Required Certification New 
+
+91.5 Responsibility and Authority of the Pilot in Command 91.3 
+
+91.7 Careless or Reckless Operation 91.9 & 91.10 
+
+91.9 Aircraft: Required Certification 91.27(a) 
+
+91.11 Aircraft Airworthiness 91.29 
+
+91.13 Civil Aircraft Operating Limitations 91.31 
+
+91.15 Aircraft Instrument and Equipment Requirements 91.24, 91.32, 91.33, 91.52 & New 
+
+91.17 Prohibition Against Certain Appliances and Portable Electronic Devices 91.19 & New 
+
+91.19 Liquor and Drugs 91.11 
+
+91.21 Carriage of Narcotic Drugs, Marihuana, and Depressant or Stimulant Drugs or Substances 91.12 
+
+91.23 Preflight Action 91.5 
+
+91.25 Waivers 91.63 
+
+91.27 Prohibition Against Interference with Crewmembers 91.8 
+
+91.29 Special Rules for Foreign Civil Aircraft 91.27, 91.28, 91.43 & 91.103 
+
+Subpart B - Basic Flight Rules
+
+Sec. Corresponding present regulation 
+
+91.101 Applicability 91.61 
+
+91.103 Flight Crewmembers at Station 91.7 
+
+91.105 Use of Seatbelts and Shoulder Harnesses 91.14 
+
+91.107 Operating Near other Aircraft 91.65(a) & (b) 
+
+91.109 Right-of-Way Rules, Except Operations on Water 91.67 
+
+91.111 Right-of-Way: Operations on Water 91.69 
+
+91.113 Use of Aircraft Position Lights 91.73 
+
+91.115 Aircraft Speed 91.70 
+
+91.117 Weather Minimums: Visual Flight Rules 91.105 
+
+91.119 Special Weather Minimums in Control Zones 91.107 
+
+91.121 Minimum Safe Altitudes 91.79 
+
+91.123 Cruising Altitudes: Visual Flight Rules 91.109 
+
+91.125 Altimeter Settings 91.81 & New 
+
+91.127 Dropping Objects 91.13 
+
+91.129 Compliance with ATC Clearances and Instructions 91.65(d), 91.75 & New 
+
+91.131 ATC Light Gun Signals 91.77 
+
+91.133 Flight Plans: General 91.83(a) & (d) 
+
+91.135 Flight Plans: Flights Between Mexico and Canada and the United States 91.84 
+
+91.137 Operating on or in the Vicinity of an Airport: General 91.85(a) & 91.89 
+
+91.139 Operations at Airports with Operating Control Towers 91.87(a), (b), (d), (e), (f), (g), & (h) 
+
+91.141 Terminal Control Areas 91.90(a) & (b), & 91.24(b) & (c) 
+
+91.143 Operation in Specially Designated Areas 91.95 & 91.97 
+
+91.145 Temporary Flight Restrictions. 91.91, 91.102 & 91.104 
+
+Subpart C - Instrument Flight Rules (IFR)
+
+Sec. Corresponding present regulation 
+
+91.201 Applicability New 
+
+91.203 Flight Plan and ATC Clearance Requirements 91.115 
+
+91.205 Equipment Requirements 91.33(a), (d), & e) 
+
+91.207 VOR Equipment Check for IFR Operation 91.25 
+
+91.209 Fuel Requirements 91.23 
+
+91.211 Alternate Airport 91.83(a)(9), (b) & (c) 
+
+91.213 Minimum Altitudes 91.119(a) 
+
+91.215 Cruising Altitude or Flight Level 91.121 
+
+91.217 Course to be Flown 91.123 
+
+91.219 Climb Enroute 91.119(b) 
+
+91.221 Instrument Approach Procedures at Civil Airports 91.116(a), (f), (g), (h) & 91.117(c) 
+
+91.223 Descent Below MDA or DH; and IFR Landing Minimums at Civil Airports 91.116(b) & (e), & 91.117(a) & (b) 
+
+91.225 Military Airports; Takeoff and Landing under IFR 91.116(d) 
+
+91.227 Radio Communications 91.125 
+
+91.229 Two-Way Radio Communications Failure 91.127 
+
+91.231 Radio Malfunction Reports 91.129 & New 
+
+91.233 Category II Operations 91.2, 91.6, 91.33(f) & 91.34 
+
+Subpart D - Special Flight Operations
+
+Sec. Corresponding present regulation 
+
+91.301 Applicability New 
+
+91.303 Aerobatic Flight 91.15(c), (d), (e) & 91.71 
+
+91.305 Aircraft Flight Test Areas 91.93 
+
+91.307 Flight Instruction, Simulated Instrument Flight, and Certain Pilot Flight Tests 91.21 
+
+91.309 Parachuting 91.15(a) & (b) 
+
+91.311 Towing: Gliders 91.17 
+
+91.313 Towing: Other than Gliders 91.18 
+
+Subpart E - Additional Regulations for Commercial Operators, and Operations for Hire
+
+Sec. Corresponding present regulation 
+
+91.401 Applicability New 
+
+91.403 Emergency Exits for Airplanes Carrying Passengers for Hire 91.47 
+
+91.405 Flight Recorders and Cockpit Voice Recorders 91.35 
+
+91.407 Over-Water Operations 91.33(a) & (b)(11) 
+
+91.409 Night Operations 91.33(a) & (c)(4) 
+
+91.411 Formation Flights with Passengers for Hire 91.65(c) 
+
+Subpart F - Operation of Certain Aircraft
+
+Sec. Corresponding present regulation 
+
+91.501 Applicability New 
+
+91.503 Experimental Aircraft 91.42 
+
+91.505 Limited Category Civil Aircraft 91.40 
+
+91.507 Provisionally Certificated Civil Aircraft 91.41 
+
+91.509 Restricted Category Civil Aircraft 91.39 
+
+91.511 Transport Category Civil Airplanes: Weight Limitations 91.37 
+
+91.513 Transport Category Airplanes: Aural Speed Warning Device 91.49 
+
+91.515 Transport Category Airplanes: Pitot Heat Indication System 91.50 
+
+91.517 Turbojet-Powered Civil Airplanes: Altitude Alerting System or Device 91.51 
+
+91.519 Turbojet-Powered Civil Airplanes: Use of Flaps 91.85(c) 
+
+91.521 Authorization for Ferry Flight with One Engine Inoperative 91.45 
+
+91.523 Sonic Boom 91.55 
+
+91.525 Increased Maximum Certificated Weights for Certain Airplanes Operated in Alaska. 91.38 
+
+Subpart G - Aircraft Maintenance, Inspections, Preventive Maintenance, Alterations, and Equipment Tests
+
+Sec. Corresponding present regulation 
+
+91.601 Applicability 91.161 
+
+91.603 General 91.163(a) & 91.165 
+
+91.605 Maintenance and Inspections: Who May Perform 91.163(b) & 43.3(h) 
+
+91.607 Maintenance Required 91.163(c) & 91.165 
+
+91.609 Inspections Required 91.169 
+
+91.611 Progressive Inspections 91.171 
+
+91.613 Altimeter System Tests and Inspections 91.170 
+
+91.615 ATC Transponder Tests and Inspections 91.177 
+
+91.617 Carrying persons After Repairs or Alterations 91.167 
+
+91.619 Maintenance Records 91.173 
+
+91.621 Rebuilt-Engine Maintenance Records 91.175 
+
+91.623 Transfer of Maintenance Records 91.174 
+
+Subpart A - General
+
+NOTE. - This Subpart is basically the same as Subpart A of present Part 91 except that many of the regulations in the present Subpart have been moved to other Subparts in the proposal. For instance, all of the regulations pertaining to instrument flight or Category II operations have been moved to proposed Subpart C; and the regulations relating to operation of experimental, limited, restricted, etc., category aircraft are in proposed Subpart F. A few regulations from Subpart B of present Part 91 have been moved to this Subpart, and some material has been added.
+
+Sec. 91.1 Applicability.
+
+(a) This Part prescribes rules governing the operation of aircraft within the United States. Paragraph (b) of this section governs the operation of United States registered civil aircraft outside the United States. This Part does not govern operations of moored balloons, kites, unmanned rockets, and unmanned free balloons.
+
+(b) Each operator of a United States registered civil aircraft operating outside the United States shall:
+
+(1) When over the high seas, comply with Annex 2 (Rules of the Air) to the Convention on International Civil Aviation, and with the regulations of this Part to the extent that they are not inconsistent with Annex 2;
+
+(2) When over the North Atlantic Ocean (NAT) within Minimum Navigation Performance Specifications (MNPS) air space, comply with Appendix C of this Part;
+
+(3) When within a foreign country, comply with the rules of that country governing the flight and maneuvering of aircraft, and with the regulations of this Part to the extent that they are not inconsistent with applicable foreign rules.
+
+Origin: Secs. 91.1; 91.20
+
+Changes:
+
+1. Present Sec. 91.1(b)(4) and Sec. 91.20 have been combined in proposed Sec. 91.1(b)(2).
+
+2. Present Sec. 91.1(c) has been deleted because it is superfluous. Annex 2 is already incorporated by reference in Sec. 91.1(b).
+
+3. Some language changes with no substantive changes intended.
+
+Sec. 91.3 Airmen; required certification.
+
+No person shall serve as pilot or other required flight crewmember on a United States registered civil aircraft within the United States unless he has in his personal possession:
+
+(a) A valid and appropriate airman certificate issued under FAR Part 61; and
+
+(b) A valid and appropriate medical certificate as specified in FAR 61.3(c).
+
+Origin: NEW
+
+Changes:
+
+1. This brings the requirement for a pilot certificate into the operation rules, in addition to having it in a certification Part. Just as the requirements for various aircraft certificates are laid out in Part 91, it seems appropriate to include mention of the airman certificate requirements for those who use Part 91 as their basis for knowing the regulations.
+
+2. Pilot certification requirements for operation of foreign civil aircraft within the United States are in Sec. 91.27, Special Rules for Foreign Civil Aircraft.
+
+Sec. 91.5 Responsibility and authority of the pilot in command.
+
+(a) The pilot in command of an aircraft is directly responsible for, and is the final authority as to, the operation of that aircraft.
+
+(b) In an emergency requiring immediate action, the pilot in command may deviate from any rule of this Part to the extent required to meet that emergency.
+
+(c) A pilot in command who deviates from a rule under paragraph (b) of this section shall, if requested by the Administrator, provide a written report of that deviation.
+
+Origin: Sec. 91.3
+
+Changes:
+
+1. Emergency deviation may include any rule of this Part. This change merely places the maintenance regulations under the provisions of this paragraph. It is not anticipated that this will provoke unnecessary deviations by pilots because what constitutes an emergency is still subject to review and interpretation in an enforcement case arising out of any suspected abuses of this authority.
+
+2. Minor changes in language with no substantive changes intended.
+
+Sec. 91.7 Careless or reckless operation.
+
+(a) No person shall operate an aircraft for the purpose of air navigation in a careless or reckless manner so as to endanger the life or property of another.
+
+(b) No person shall operate an aircraft for purposes other than air navigation on the surface of an airport used by aircraft for air commerce in careless or reckless manner so as to endanger the life or property of another.
+
+Origin: Secs. 91.9; 91.10
+
+Changes:
+
+1. Present Secs. 91.9 and 91.10 are combined in one proposed section.
+
+2. The phrase, "for the purpose of air navigation," is inserted in proposed paragraph (a) to clarify the distinction between paragraphs (a) and (b) for those not cognizant of the definition of "operate."
+
+3. Minor changes in language with no substantive changes intended.
+
+Sec. 91.9 Aircraft: required certification.
+
+(a) No person shall operate a United States registered civil aircraft unless it has within it a valid registration certificate issued under FAR Part 47.
+
+(b) No person shall operate a civil aircraft unless it has within it an appropriate and current airworthiness certificate.
+
+Origin: Sec. 91.27(a)
+
+Changes:
+
+1. The requirement for the airworthiness certificate to be displayed at the cabin or cockpit entrance so that it is legible to passengers or crew is deleted because displaying the airworthiness certificate is meaningless without reference to the aircraft maintenance records.
+
+2. Some changes in language with no substantive changes intended. All of the verbage in the present regulations concerning the need for a registration number on the airworthiness certificate, or exceptions to the need, is covered by the word "appropriate." Parts 21, 45, and/or 47 should specify what constitutes an appropriate airworthiness certificate and the necessity for a registration number on it.
+
+3. Certificates and authorizations for foreign civil aircraft are contained in proposed Sec. 91.27.
+
+Sec. 91.11 Civil aircraft airworthiness.
+
+(a) No person shall operate a civil aircraft unless it is in an airworthy condition.
+
+(b) The pilot in command of a civil aircraft is responsible for determining whether an aircraft is in condition for safe flight.
+
+(c) The pilot in command shall discontinue a flight when he detects evidence of any unsafe mechanical or structural condition.
+
+Origin: Sec. 91.29
+
+Changes:
+
+1. Minor changes in language with no substantive changes intended.
+
+Sec. 91.13 Civil aircraft operating limitations.
+
+(a) Compliance Required. Each person operating a civil aircraft shall comply with the operating limitations prescribed for that aircraft by the certificating authority of the country of registry.
+
+(b) Limitations. No person shall operate a United States registered civil aircraft unless limitation prescribed by the Administrator for that aircraft is available in the aircraft. These limitations must be available in - 
+
+(1) A current approved Airplane or Rotorcraft Flight Manual if a manual is required by FAR Sec. 21.5, or the manual provided for in FAR Sec. 121.141(b); or
+
+(2) A current approved Airplane or Rotorcraft Flight manual (if one is available although not required by Sec. 21.5), approved manual material, markings, and placards, or any combination thereof.
+
+Origin: Sec. 91.31
+
+Changes:
+
+1. The list of specific items which must be contained in the operating limitations is deleted. The list is overly specific without being all inclusive while, at the same time, it contains some items which don't apply to all aircraft. This change shouldn't alter the regulatory effectiveness.
+
+2. Minor changes in language with no substantive changes intended.
+
+3. Present Sec. 91.21(c) is deleted because it merely restates a requirement adequately covered by Part 45.
+
+4. Present Sec. 91.31(d) is deleted because the exception for complying with the helicopter height-speed envelope properly belongs in the Flight Manual.
+
+Sec. 91.15 Aircraft instrument and equipment requirements.
+
+(a) General. No person shall operate an aircraft unless the instruments and equipment required by this section for the kind of operations conducted are installed and operable in that aircraft.
+
+(b) Basic instruments and Equipment. U.S. registered heavier-than-air aircraft certificated by FAA in the standard category must contain at least the following instruments and equipment (or FAA-approved equivalents):
+
+(1) Visual Flight Rules, Day. For flights between sunrise and sunset - 
+
+(i) Airspeed indicator,
+
+(ii) Altimeter,
+
+(iii) Magnetic direction indicator (compass),
+
+(iv) Tachometer for each engine, and for the main rotor system if the aircraft is a helicopter,
+
+(v) Oil pressure gauge for each engine with pressure lubrication,
+
+(vi) Temperature gauge for each liquid-cooled engine,
+
+(vii) Oil temperature gauge for each air-cooled engine,
+
+(viii) Manifold pressure gauge for each engine with a controllable propeller or a supercharger,
+
+(ix) Fuel quantity gauge for each fuel tank,
+
+(x) Landing gear position indicator, if aircraft has a retractable gear,
+
+(xi) An approved safety belt for each occupant more than two years of age. More than one occupant may use one belt provided the belt is properly secured about them, and
+
+(xii) An approved shoulder harness for each front seat of a small airplane manufactured after July 18, 1978. For the purposes of this paragraph, the date of manufacture is the date the airplane is completed and its first Airworthiness Certificate is issued, and a front seat is a seat located at a pilot station and any seat alongside that seat.
+
+(2) Visual Flight Rules, Night. For flight between sunset and sunrise - 
+
+(i) Instruments and equipment specified in subparagraph (1),
+
+(ii) Aircraft position lights,
+
+(iii) An anticollision light system. Anticollision light systems installed after August 11, 1971, on aircraft type certificated before that date must meet the standards in effect on August 10, 1971, except that the color may be either aviation red or white. In the event of the failure of all or part of an anticollision light system, flight may be continued to a stop where repairs or replacements can be made,
+
+(iv) An adequate source of electrical energy for all installed electrical equipment, and
+
+(v) Resetable circuit breakers for all major electrical circuits, or either a set of spare fuses or three spare fuses of each kind.
+
+(3) Instrument Flight Rules. The minimum instrument and equipment requirements for flight under instrument flight rules, or for night flight in a control zone under the special weather minimums provision of Sec. 91.119, are prescribed in Sec. 91.205.
+
+(c) Emergency Locator Transmitter.
+
+(1) A personal type or automatic type emergency locator transmitter must be attached to any U.S. registered civil airplane, except as provided in subparagraph (4) below. An emergency locator transmitter required for an airplane operated under FAR Parts 121, 123, or 135 must be of the automatic type.
+
+(2) Each emergency locator transmitter required by subparagraph (1), above, must be attached to the airplane firmly in such a manner that probability of damage to the transmitter is minimized.
+
+(3) Batteries used in required emergency locator transmitters must be replaced (or recharged, if the battery is rechargeable) - 
+
+(i) When the transmitter has been in use for more than one cumulative hour; or
+
+(ii) When 50 percent of their useful life (or, for rechargeable batteries, 50 percent of their useful life of charge), as established by the transmitter manufacturer, has expired.
+
+The new expiration date for the replacement (or recharge) of the battery must be legibly marked on the outside of the transmitter and entered in the aircraft logbook. Subparagraph (ii) does not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals.
+
+(4) Emergency locator transmitters are not required for the following:
+
+(i) Turbojet powered airplanes;
+
+(ii) Airplanes engaged in scheduled flights by scheduled air carriers certificated by the Civil Aeronautics Board;
+
+(iii) Airplanes engaged in local training operations conducted entirely within a 50-mile radius of the airport from which the flight originated;
+
+(iv) Airplanes engaged in flight operations incident to design and testing;
+
+(v) New airplanes engaged in flight operations incident to their manufacture, preparation, and delivery;
+
+(vi) Airplanes engaged in flight operations incident to the aerial application of chemicals or other substances for agricultural and pest control purposes;
+
+(vii) Airplanes certificated by the Administrator for research and development purposes.
+
+(viii) Airplanes used for showing compliance with regulations, crew training, exhibition, air racing, or market surveys;
+
+(ix) Airplanes equipped to carry not more than one person; and
+
+(x) An aircraft during any period for which the transmitter has been temporarily removed for inspection, repair, modification or replacement, subject to the following:
+
+(A) No person may operate the aircraft unless the aircraft records contain an entry which includes the date of initial removal, the make, model, serial number and reason for removal of the transmitter, and a placard is located in view of the pilot to show "ELT not installed."
+
+(B) No person may operate the aircraft more than 90 days after the ELT is initially removed from the aircraft.
+
+(5) Notwithstanding subparagraph (1), above, a pilot may ferry without passengers - 
+
+(i) A newly-acquired airplane to a place where an emergency locator transmitter is to be installed, or
+
+(ii) An airplane with an inoperative emergency locator transmitter to a place where repairs or replacements can be made.
+
+(d) Transponder Equipment.
+
+(1) Transponder Required. No person shall operate an aircraft in controlled airspace above 12,500 feet MSL, unless that aircraft is equipped with a functioning radar beacon transponder capable of responding to ATC interrogation with the code specified by ATC, and which has automatic pressure altitude reporting capability, subject to the following:
+
+(i) Transponder equipment is not required at or below 2,500 feet above ground level, except in Terminal Control Areas;
+
+(ii) Transponder equipment is not required in a glider above 12,500 feet MSL but below the floor of the positive control area.
+
+(2) ATC Authorized Deviations. ATC may authorize deviations from the above requirements - 
+
+(i) Immediately, to allow an aircraft with an inoperable transponder to continue to the airport of ultimate destination, including any intermediate stops, or proceed to a place where suitable repairs can be made, or both;
+
+(ii) Immediately, for operations of an aircraft with an operating transponder, but without operating altitude reporting equipment; or
+
+(iii) On a continuing basis or for individual flights for operations of an aircraft without a transponder, in which cases the request for a deviation must be submitted to the ATC facility having jurisdiction over the airspace concerned at least two hours before the proposed operation.
+
+Supplemental Oxygen.
+
+(1) General. No person shall operate a U.S. registered civil aircraft - 
+
+(i) At cabin pressure altitudes above 12,500 feet MSL up to and including 14,000 MSL unless the required minimum flight crew has available and uses supplemental oxygen for that part of the flight at those altitudes which is of more than 30 minutes duration;
+
+(ii) At cabin pressure altitudes above 15,000 feet MSL unless each occupant of the aircraft is provided with supplemental oxygen.
+
+(2) Pressurized Cabin Aircraft. No person may operate a U.S. registered civil aircraft which has a pressurized cabin - 
+
+(i) At flight altitudes above flight level 250 unless at least a 10-minute supply of supplemental oxygen in addition in addition to any oxygen required to satisfy subparagraph (1), above, is available for each occupant for the aircraft.
+
+At flight altitudes above flight level 350 unless one pilot at the controls is wearing and using an oxygen mask which is secured and sealed, and which either supplies oxygen at all times or automatically supplies oxygen when the cabin pressure exceeds 14,000 feet MSL, except that neither pilot is required to wear an oxygen mask while at or below flight level 410 if there are two pilots at the controls and each pilot has a quick-donning type of oxygen mask which can be placed on the face with one hand from ready position within five seconds, supplying oxygen and properly secured and sealed.
+
+(iii) Notwithstanding subparagraph (ii), above, if for any reason it is necessary for one pilot to leave his station at the controls of an aircraft when operating at flight altitudes above flight level 350, the pilot remaining at the controls shall put on and use his oxygen mask until the other pilot has returned to this station.
+
+(f) Additional Instrument and Equipment Requirements. Subparts B (Basic Flight Rules), C (Instrument Flight Rules), D (Special Flight Operations), E (Commercial Operations), and F (Operation of Certain Aircraft) of this Part impose instrument and equipment requirements in addition to those required by this section.
+
+Origin: Secs. 91.24, 91.32, 91.33, 91.52, NEW:
+
+Comments: In trying to keep the regulations compact and in reasonable order, most of the required instruments and appliances have been placed in this one section: Basic Instruments and Equipment, ELTs, Oxygen Equipment, etc. In so doing, this section has become very long. Some equipment requirements have been placed in other subparts because they are the logical places for pilots to look for them: Radio and transponder are listed as required equipment under the section on TCA's Instruments and Equipment for IFR are in Subpart C, Instrument Flight Rules; requirements for parachutes are in Subpart D, Special Flight Operations; requirements for certain survival gear for over-water operations and landing lights are in Subpart E, Special Regulations for Commercial Operations; etc. Pilots are alerted to these additional requirements by paragraph (f) of this section (Sec. 91.15).
+
+Changes:
+
+1. Equipment and instrument requirements which are in several separate sections in the present regulations are incorporated as paragraphs under one section in this proposal.
+
+The word, "approved," and the basis for approval of instruments and equipment have been deleted in most places because, in many cases, the pilot has no way of determining the approved status of equipment. Under this section, the pilot is responsible for determining that instruments and equipment are operable, and under proposed Sec. 91.17 he can't use or permit the use of, anything he determines causes harmful interference with any other piece of required equipment.
+
+3. Instruments and equipment requirements for IFR and Category II operations are moved to Subpart C, Instrument Flight Rules.
+
+4. Requirements for flotation gear and a landing light when operating for hire are moved to Subpart E, Special Regulations for Commercial Operators and Operations for Hire.
+
+5. The requirement for DME above 24,000 feet MSL is moved to Subpart C.
+
+6. The requirement for attaching ELTs as far aft as possible is deleted.
+
+7. The lead time for submitting requests for deviations on a continuing basis from the transponder requirement is reduced from 4 to 2 hours.
+
+8. The exception from the transponder requirement for helicopters operated at or below 1,000 feet AGL in terminal control areas under the terms of a letter of agreement (present Sec. 91.24(b)) is deleted because it appears that this is adequately covered by proposed Sec. 91.15 (d)(2)(iii), ATC authorized deviations on a continuing basis.
+
+9. Paragraph (f) is added to alert operators to additional requirements for more sophisticated operations.
+
+10. Some other changes in language with no substantive changes intended.
+
+Sec. 91.17 Prohibition against certain appliances and portable electronic devices.
+
+(a) No person shall install in a United States registered civil aircraft operated in air commerce any appliance which does not meet FAA required approval standards or causes harmful interference with the operation of any required appliance in an aircraft.
+
+(b) No person shall operate, nor shall any operator or pilot in command permit the operation of, any appliance or portable electronic device aboard an aircraft which the operator or pilot in command has determined causes harmful interference with the operation of any required appliance of an aircraft.
+
+Origin: FAR 91.19; New
+
+Changes:
+
+1. A prohibition against the installation of any appliance which does not meet approval standards when approval is required or which causes harmful interference with required appliances is added in proposed Part 91. This places the responsibility for determining whether such appliances are satisfactory ("approved", when necessary) on the person installing the equipment rather than the pilot. It is impractical to expect the pilot (particularly when the pilot isn't the owner) to know whether appliances are approved or not. In many cases, he has no way of telling.
+
+2. The pilot retains the responsibility for not using appliances or portable electronic devices which he has determined cause harmful interference.
+
+3. Deleted from present Sec. 91.19 is the list or portable electronic devices exempt from the regulation and the specification of who determines whether or not a portable electronic devices does or does not cause interference. These seem overly specific and the dangers envisioned are adequately guarded against in the proposal.
+
+Sec. 91.19 Liquor and drugs.
+
+(a) Crewmembers. No person shall act as a crewmember of an aircraft - 
+
+(1) Within eight hours after the consumption of any alcoholic beverage;
+
+(2) While under the influence of alcohol; or
+
+(3) While under the influence of, or using any drug which affects his faculties in any way contrary to safety.
+
+(b) Passengers. No pilot shall knowingly allow a person who is obviously under the influence of intoxicating liquor or drugs to be carried in an aircraft unless such person is under proper care.
+
+Origin: Sec. 91.11
+
+Changes:
+
+1. A person obviously under the influence of intoxicating liquor but under proper care may be carried as a passenger.
+
+2. Some changes in language with no substantive changes intended.
+
+Sec. 91.21 Carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances.
+
+(a) Except as provided in paragraph (b) of this section, no person shall operate a civil aircraft within the United States with knowledge that narcotic drugs, marihuana, and depressant or stimulant drugs, or substances as defined in Federal or State statutes are carried in the aircraft.
+
+(b) Paragraph (a) of this section does not apply to any carriage of narcotic drugs, marihuana, and depressant or stimulant drugs or substances authorized by or under any Federal or State statute or by any Federal or State agency.
+
+Origin: Sec. 91.12
+
+Changes: None
+
+Sec. 91.23 Preflight action.
+
+Before beginning any flight, the pilot in command shall familiarize himself with all available information pertinent to the safe operation of that flight.
+
+Origin: 91.5
+
+Changes:
+
+1. The phrase, "pertinent to the safe operation of," has been substituted for the word, "concerning", which is used in the present regulation.
+
+2. The list of specific items to be checked by the pilot has been deleted. This does not lessen the pilot's responsibility for including those items in the information considered pertinent to the safe operation of a flight.
+
+Sec. 91.91 Waivers.
+
+(a) The Administrator may issue a certificate of waiver authorizing the operation of aircraft in deviation of a rule of this Part if he finds that the proposed operation can be safely conducted under the terms of that certificate of waiver.
+
+(b) An application for a certificate of waiver under this section is made on a form and in a manner prescribed by the Administrator and may be submitted to any FAA office.
+
+(c) A certificate of waiver is effective as specified in that certificate.
+
+Origin: Sec. 91.63
+
+Changes:
+
+1. Waivers may be issued for any rule of proposed Part 91 rather than just Subpart B as in the present regulations. This change is proposed more for purposes of simplifying the regulations than for expanding the number of rules which may be waived. It is anticipated that FAA offices responsible for issuing waivers will receive proper and uniform guidance from FAA headquarters on rules which should not be waived.
+
+Sec. 91.27 Prohibition against interference with crewmembers.
+
+No person may assault, threaten, intimidate, or interfere with a crewmember in the performance of the crewmember's duties aboard an aircraft being operated.
+
+Origin: Sec. 91.8
+
+Changes: None.
+
+Sec. 91.29 Special flight rules for foreign civil aircraft.
+
+Each person operating a foreign civil aircraft within the United States shall comply with the pertinent requirements of this section, in addition to other applicable regulations of this Chapter (the Federal Aviation Regulations).
+
+(a) Aircraft Certificates. No person shall operate a foreign civil aircraft within the United States unless it contains a registration certificate issued to its owner and an airworthiness certificate issued or validated by the country in which it is registered or a special flight authorization issued under paragraph (g) below.
+
+(b) Air Crewman Certificates. No person shall serve as a pilot or other required flight crewmember on a foreign civil aircraft within the United States unless he has in his personal possession valid and appropriate airman and medical certificates issued or validated by the country of registry, or valid United Sates airman and medical certificates appropriate to the aircraft and flight operations conducted.
+
+(c) Visual Flight Rules. No person may conduct VFR operations which require two-way radio communications under this part, unless at least one crewmember of that aircraft is able to conduct two-way radio communications in the English language and is on duty during that operation.
+
+(d) Instrument Flight Rules. No person shall operate a foreign civil aircraft under instrument flight rules unless - (1) That aircraft is equipped with:
+
+(i) Radio equipment allowing two-way radio communications with ATC facilities controlling the flight;
+
+(ii) Radio navigational equipment appropriate to the navigational facilities to be used; and
+
+(iii) If VOR navigation equipment is required under paragraph (c)(1)(ii) of this section, no person may operate a foreign civil aircraft within the 50 states and the District of Columbia at or above 24,000 feet MSL, unless the aircraft is equipped with distance measuring equipment (DME) capable of receiving and indicating distance information from the VORTAC facilities to be used. When DME required by this paragraph fails at and above 24,000 feet MSL, the pilot in command of the aircraft shall notify ATC immediately, and may then continue operations at and above 24,000 feet MSL to the next airport of intended landing at which repairs or replacement of the equipment can be made. However, DME is not required on foreign civil aircraft when operated for the following purposes, and if ATC is notified prior to each takeoff:
+
+(A) Ferry flights to and from a place in the United States where repairs or alterations are to be made;
+
+(B) Ferry flights to a new country of registry;
+
+(C) Flight of a new aircraft of U.S. manufacture for the purpose of - 
+
+(I) Flight testing the aircraft;
+
+(II) Training foreign flight crews in the operation of the aircraft; or
+
+(III) Ferrying the aircraft for export delivery outside the United States.
+
+(D) Ferry, demonstration, and test flights of an aircraft brought to the United States for the purpose of demonstration or testing the whole or any part thereof.
+
+(2) Each required pilot of the aircraft - 
+
+(i) Is authorized by his foreign pilot certificate to operate as an instrument pilot under IFR, or holds a current United States instrument rating; and
+
+(ii) Is thoroughly familiar with the United States departure, enroute, holding and approach procedures; and
+
+(iii) At least one crewmember is competent to conduct two-way radio voice communications in the English language, and that crewmember is on duty when the aircraft is approaching, operating within, or departing from the United States.
+
+(e) Over water. Each person operating a foreign civil aircraft over water off the coast of the United States shall give flight notification or file a flight plan, in accordance with the Supplementary Procedures for the ICAO Region concerned.
+
+(f) Civil Aircraft of Cuban Registry. No person shall operate an aircraft of Cuban registry within the United States except in controlled airspace, and in accordance with air traffic clearances or air traffic control instructions which may require the use of specific airways, routes, and airports.
+
+(g) Special Flight Authorization for Foreign Aircraft.
+
+(1) A foreign civil aircraft may be operated in the United States without the airworthiness certificate required by paragraph (a) of this section if a special flight authorization is issued under this paragraph. Application for a special flight authorization must be made to the Regional Director of the FAA Region in which the aircraft is located. Application for a special flight authorization under subparagraph (2)(vi), below, should be made to the Regional Director of the FAA Region in which the demonstrations or show will take place.
+
+(2) The Administrator may issue a special flight authorization, subject to any conditions and limitations he considers necessary for safety, for any of the following operations:
+
+(i) The flight of a damaged aircraft to a place where repairs or alterations are to be made, if the regulations of the country of registry indicate that the aircraft has been damaged to the extent that its airworthiness certificate is invalid.
+
+(ii) The flight of an aircraft to a new country of registry, if the airworthiness certificate has been invalidated by the former country of registry because of a change in ownership.
+
+(iii) The flight of an aircraft of United States manufacture for flight testing, or training a foreign buyer or his representatives in the operation of the aircraft, or for the purpose of ferrying the aircraft outside of the United States when title has passed to a foreign buyer and there is no airworthiness certificate for it. An authorization may be issued for this purpose even though no registration certificate has been issued by the country of the foreign buyer, provided the aircraft bears identification markings issued by the country of intended registry.
+
+(iv) The flight of an aircraft for the purpose stated in subparagraph (iii), above, in the case of a foreign civil aircraft which has undergone modifications in the United States which invalidated its airworthiness certificate.
+
+(v) The flight of a foreign civil aircraft without a standard airworthiness certificate brought to the United States for demonstrations in connection with market sales or surveys, or for testing the whole aircraft or any part thereof. For market sales or surveys, the applicant must show at least that:
+
+(A) The applicant is the manufacturer of the aircraft;
+
+(B) The applicant has applied for a United States type certificate or supplement type certificate;
+
+(C) The aircraft has flown for 50 hours, or at least 5 hours if it is a U.S. type certificated aircraft which has been modified;
+
+(D) The applicant has established operating limitations in an appropriate document, and certifies that the aircraft will be operated within such limitations; and
+
+(E) The applicant has established an inspection and maintenance program for the continuing airworthiness of the aircraft.
+
+(vi) The flight of foreign registered amateur-built experimental aircraft, brought to the United States for the purpose of demonstration at an air meet within the United States.
+
+Origin: Secs. 91.28; 91.27; 91.43 and 91.103
+
+Changes:
+
+1. Three present sections have been combined in one proposed section.
+
+2. Foreign registered amateur-built experimental aircraft may operate at air meets in the U.S. Present regulation restricts it to Canadian only.
+
+3. Some minor changes in language and format with no substantive changes intended.
+
+Subpart B - Basic Flight Rules
+
+NOTE - This Subpart contains most of what is contained in present Subpart B of Part 91, except those regulations pertaining to instrument flight which have been moved to proposed Subpart C.
+
+Sec. 91.101 Applicability.
+
+This subpart prescribes the basic flight rules for aircraft operating within the United States.
+
+Origin: Sec. 91.61
+
+Changes:
+
+1. Minor changes in language with no substantive change intended.
+
+Sec. 91.103 Flight crewmembers at stations.
+
+(a) During takeoff and landing, and while enroute, each required flight crewmember shall be at his station with his seat belt fastened unless his absence is necessary in the performance of his duties or in connection with his physiological needs.
+
+(b) Each required crewmember of a U.S. registered civil airplane shall, during takeoff and landing, keep the shoulder harness fastened while at his station, if the station is equipped with a shoulder harness. This paragraph does not apply if the crewmember would be unable to perform his required duties with the shoulder harness fastened.
+
+Origin: Sec. 91.7
+
+Changes:
+
+1. Minor changes in language with no substantive changes intended.
+
+Sec. 91.105 Use of seat belts and shoulder harnesses.
+
+(Not applicable to airships, free balloons nor operations conducted under FAR Parts 121, 123, or 127.)
+
+(a) Unless otherwise authorized by the Administrator - 
+
+(1) No pilot may take off or land a U.S. registered civil aircraft unless the pilot in command of that aircraft ensures that each person on board has been notified to fasten his safety belt.
+
+(2) During the takeoff and landing of U.S. registered civil aircraft, each person on board that aircraft must occupy a seat or berth with a safety belt properly secured about him (separate seats and separate safety belts are not required). However, a child less than two years of age may be held by an adult who is occupying a seat or berth, and a person on board for the purpose of engaging in sport parachuting may use the floor of the aircraft as a seat.
+
+(b) Paragraph (a)(2) of this section does not apply to persons subject to Sec. 91.103.
+
+Origin: Sec. 91.14
+
+Changes:
+
+1. Some changes in language with no substantive changes intended.
+
+Sec. 91.107 Operating near other aircraft.
+
+(a) No person shall operate an aircraft so close to another aircraft as to create a collision hazard.
+
+(b) Formation Flights. No person shall operate an aircraft in a formation flight except by arrangement with the pilot in command of each aircraft in the formation.
+
+Origin: Sec. 91.65(a) and (b) 
+
+Changes:
+
+1. The rule prohibiting a pilot from operating in accordance with a clearance or vectors issued to another pilot has been placed in Sec. 91.129, Compliance with ATC Clearances and Instructions.
+
+2. The rule prohibiting formation flight if an aircraft is carrying passengers for hire has been placed in Subpart E, Additional Regulations for Commercial Operators and Operations for Hire.
+
+3. No substantive change in the rules is intended by changes 1 and 2.
+
+Sec. 91.109 Right of way in flight.
+
+(a) General. When weather conditions permit, regardless of whether an operation is conducted under the Instrument Flight Rules of Subpart C of this Part or the rules of this Subpart, vigilance shall be maintained by each person operating an aircraft to see and to avoid other aircraft in compliance with this section. When the rules of this section give another aircraft the right of way, a pilot shall give way to that aircraft, and shall not pass over, under, or ahead of it unless well clear.
+
+(b) Aircraft in Distress. An aircraft in distress has the right of way over all other air traffic.
+
+(c) Converging Aircraft. When aircraft of the same category are converging at approximately the same altitude (except head-on or nearly so), the aircraft to another's right has the right of way. If the aircraft are of different categories - 
+
+(1) A free balloon has the right of way over any other category of aircraft;
+
+(2) A glider has the right of way over an airship, airplane, or rotorcraft; and
+
+(3) An airship has the right of way over an airplane or rotorcraft.
+
+However, an aircraft which has another aircraft in tow, or is in the process of refueling another aircraft has the right of way over all other powered aircraft.
+
+(d) Approaching Head-On. When aircraft are approaching each other head-on, or nearly so, the pilot of each aircraft shall alter course to the right.
+
+(e) Overtaking. An aircraft which is being overtaken has the right of way, and the pilot of each overtaking aircraft shall alter course to the right so as to pass well clear.
+
+(f) Landing. Aircraft on final approach or landing have the right of way over other aircraft in flight or operating on the surface. When two or more aircraft are approaching an airport for a landing, the aircraft at the lower altitude has the right of way, but a pilot shall not take advantage of this rule to cut in front of another aircraft which is on final approach to land, nor to overtake the aircraft.
+
+(g) Inapplicability. This section does not apply to the operation of an aircraft on water.
+
+Origin: Sec. 91.67
+
+Changes:
+
+1. Minor changes in language with no substantive changes intended.
+
+Sec. 91.111 Right-of-way rules; operations on water.
+
+(a) General. Each person operating an aircraft on the water shall, insofar as possible, keep clear of all vessels and avoid impeding their navigation, and shall give way to any vessel or other aircraft that is given the right-of-way by any rule of this section.
+
+(b) Crossing. When aircraft, or an aircraft and a vessel are on crossing courses, the aircraft or vessel to the other's right has the right-of-way.
+
+(c) Approaching Head-On. When aircraft, or an aircraft and a vessel, are approaching head-on or nearly so, each shall alter its course to the right to keep well clear.
+
+(d) Overtaking. Each aircraft or vessel that is being overtaken has the right-of-way, and the one overtaking shall alter course to keep well clear.
+
+(e) Special Circumstances. When aircraft, or an aircraft and a vessel, approach so as to involve risk of collision, each aircraft or vessel shall proceed with careful regard to existing circumstances, including the limitations of the respective craft.
+
+Origin: Sec. 91.69
+
+Changes: No change.
+
+Sec. 91.113 Use of aircraft position lights.
+
+Origin: Sec. 91.73
+
+Changes: None
+
+Sec. 91.115 Aircraft speed.
+
+(a) No person shall operate an aircraft below 10,000 feet MSL at an indicated airspeed of more than 250 knot (288MPH), unless otherwise authorized by the Administrator.
+
+(b) Unless otherwise authorized or required by ATC, no person shall operate an aircraft within an airport traffic area at an indicated airspeed of more than 200 knots (230MPH). This paragraph does not apply to any operations within a Terminal Control Area. Such operations shall comply with paragraph (a) of this section.
+
+(c) No person shall operate an aircraft in the airspace underlying a Terminal Control Area, or in a VFR corridor designated through a Terminal Control Area, at an indicated airspeed of more than 200 knots (230MPH).
+
+However, if the minimum safe airspeed for any particular operation is greater than the maximum speed prescribed in this section, the aircraft may be operated at that minimum speed.
+
+Origin: 91.70
+
+Changes:
+
+1. In paragraph (b), different speed limits for aircraft with reciprocating engines and turbine engines are changed to one speed limit, the one which presently applies to turbines. An aircraft powered by a reciprocating engine traveling at 200 knots presents no greater hazard than one powered by a turbine engine, so it appears unnecessary to complicate this regulation by having different speed limits apply to different kinds of aircraft.
+
+Sec. 91.117 Weather minimums: visual flight rules (VFR).
+
+(a) General. Except as provided in Sec. 91.119 (Special Weather Minimums in a Control Zone) and in Subpart C (Instrument Flight Rules), no person shall operate an aircraft when the flight visibility is less, or at a distance from clouds which is less, than the minimums prescribed in the following table, nor within a control zone when the ceiling or visibility is less than specified in paragraph (c), below.
+
+Altitude Flight visibility Distance from clouds 
+
+1,200 feet or less above the surface, regardless of MSL altitude: 
+
+ Within controlled airspace 3 statute miles 500 feet below
+
+1,000 feet above
+
+2,000 feet horizontally 
+
+ Outside controlled airspace 1 statute mile (except helicopters). Clear of clouds 
+
+More than 1,200 feet above the surface, but less than 10,000 feet MSL: 
+
+ Within controlled airspace 3 statute miles 500 feet below
+
+1,000 feet above
+
+2,000 feet horizontally 
+
+ Outside controlled airspace 1 statute mile 1,000 feet below
+
+1,000 feet above
+
+1 mile horizontally 
+
+At and above 10,000 feet MSL and more than 1,200 feet above the surface. 5 statute miles 1,000 feet below
+
+1,000 feet above
+
+1 mile horizontally 
+
+(b) Helicopter Visibility. A helicopter may be operated outside controlled airspace at 1,200 feet or less above the surface when the visibility is less than one mile, provided it is operated at a speed which allows the pilot adequate opportunity to see any air traffic or obstruction in time to avoid a collision.
+
+(c) VFR Flight Within a Control Zone. (Except as provided in Sec. 91.119.)
+
+(1) No person shall operate an aircraft within a control zone beneath the ceiling when the ceiling is less than 1,000 feet.
+
+(2) No person shall take off or land an aircraft or enter the traffic pattern of an airport within a control zone under visual flight rules unless the ground visibility is at least 3 statute miles, or if ground visibility is not reported at that airport, unless the flight visibility on takeoff or landing or when operating in the traffic pattern is at least 3 statute miles.
+
+(d) Aircraft at the Base of a Transition or Control Area. For the purpose of this section, and aircraft operating at the base altitude of a transition area or a control area is considered to be within the airspace directly below that area.
+
+Origin: Sec. 91.105
+
+Changes: Minor changes in language with no substantive changes intended.
+
+Sec. 91.119 Special weather minimums in control zones.
+
+When a person has received a Special VFR Clearance from ATC for a flight in a control zone, the following special rules apply to that portion of the flight which is within the control zone:
+
+(a) Special Weather Minimums:
+
+(1) Ceiling - The aircraft must remain clear of all clouds;
+
+(2) Visibility - (other than helicopters)
+
+(i) Ground visibility of one statute mile; or
+
+(ii) If the ground visibility is not reported at that airport, the flight visibility during takeoff and landing must be at least one statute mile.
+
+(b) Special VFR Night Flight. No person shall operate an aircraft (except a helicopter) at night (or in Alaska when the sun is more than six degrees below the horizon) under a Special VFR clearance unless he meets the requirements for instrument flight under FAR Part 61 and the aircraft is equipped for IFR flight.
+
+Origin: Sec. 91.107
+
+Changes:
+
+1. Reference to Part 93 is deleted. Sectional charts and other publications identify airports where Special VFR is not permitted.
+
+2. Some changes in language with no substantive changes intended.
+
+Sec. 91.121 Minimum safe altitudes.
+
+Except when necessary for take-off and landing, no person shall operate an aircraft below the following altitudes:
+
+(a) Anywhere. An altitude allowing, in the event of a power failure, an emergency landing without undue hazard to persons or property on the surface.
+
+(b) Over Congested Areas. Over any congested area of a city, town, or settlement, or over any open air assembly of persons, and altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet from the aircraft.
+
+(c) Over other than Congested Areas. An altitude of 500 feet above the surface, except over open water or sparsely populated areas. In that case, the aircraft shall not be operated closer than 500 feet to any person, vessel, vehicle or structure.
+
+(d) Helicopters. Helicopters may be operated at less than the minimums in (b) and (c), above, if the operation is conducted without hazard to persons or property on the surface. In addition, each person operating a helicopter shall comply with special routes and altitudes specifically prescribed by the Administrator.
+
+Origin: Sec. 91.79
+
+Changes: No change
+
+Sec. 91.123 Cruising Altitudes: VFR.
+
+Each person operating an aircraft under VFR in level cruising flight at an altitude more than 3,000 feet above the surface shall maintain the appropriate cruising altitude or flight level prescribed below, except while turning, or unless otherwise authorized by ATC.
+
+(a) When operating below 18,000 MSL and - 
+
+(1) On a magnetic course of zero degrees through 179 degrees, any odd thousand foot MSL altitude + 500 feet (such as 3,500, 5,500 or 7,500); or
+
+(2) On a magnetic course of 180 degrees through 359 degrees, any even thousand foot MSL altitude + 500 feet (such as 4,500, 6,500 or 8,500).
+
+(b) When operating above 18,000 feet MSL to flight level 290 (inclusive), and - 
+
+(1) On magnetic course of zero degrees through 179 degrees, any odd flight level + 500 feet (such as 195, 215, or 235); or
+
+(2) On a magnetic course of 180 degrees through 359 degrees, any even flight level + 500 feet (such as 185, 205, or 225).
+
+(c) When operating above flight level 290 and - 
+
+(1) On a magnetic course of zero degrees through 179 degrees, any flight level, at 4,000-foot intervals, beginning at and including flight level 300 (such as flight level 300, 340, or 380); or
+
+(2) On a magnetic course of 180 degrees through 359 degrees, any flight level, at 4,000-foot intervals, beginning at and including flight level 320 (such as flight level 320, 360, or 400).
+
+Origin: Sec. 91.109
+
+Changes:
+
+1. The phrase, "or in holding pattern of 2 minutes or less," is deleted because it appears to be adequately covered under "otherwise authorized by ATC."
+
+2. Some changes in language with no substantive changes intended.
+
+Sec. 91.125 Altimeter settings.
+
+(a) Each person operating an aircraft shall maintain his cruising altitude by reference to an altimeter which is set;
+
+(1) When operating below 18,000 feet MSL, to:
+
+(i) The currently reported altimeter setting to a station along his route and within 100 nautical miles of the aircraft; or
+
+(ii) If there is no reporting station within the area prescribed in (i) above, the most appropriate available altimeter setting; or
+
+(iii) In the case of an aircraft without radio, the elevation of the departure airport or an appropriate altimeter setting available before takeoff.
+
+(2) To 29.92" Hg when operating above 18,000 feet MSL. Minimum usable flight levels and safe obstacle clearance altitudes shall be determined by reference to published tables.
+
+(b) A glider engaged in local flights, or an aerial applicator aircraft while dispensing agricultural chemicals or other substances may be operated with its altimeter set to zero before takeoff.
+
+Origin: Sec. 91.81; New.
+
+Changes:
+
+1. Subparagraph (b) is added to legalize a common practice with aerial applicators and glider operators.
+
+2. The tables for pressure corrections for flight at preset altimeter setting 29.92" Hg have been omitted as more appropriate to technical manuals and aids than as a part of the regulations. 
+
+3. Some changes in language with no substantive change intended.
+
+Sec. 91.127 Dropping objects.
+
+No pilot in command of a civil aircraft may allow any object or substance to be dropped from that aircraft which creates a hazard to persons or property. This section does not prohibit the dropping of any object if reasonable precautions are taken to avoid injury or damage to persons or property.
+
+Origin: Sec. 91.13
+
+Changes: Minor changes in language with no substantive changes intended.
+
+Sec. 91.129 Compliance with ATC clearances and instructions.
+
+(a) No pilot shall deviate from an ATC clearance after it has been accepted, except in an emergency, until he obtains an amended clearance. This does not prohibit him from canceling an IFR flight plan, except in positive controlled airspace, if he is operating in VFR conditions. If a pilot is uncertain of the meaning of an ATC clearance, he shall immediately request a clarification.
+
+(b) No person shall operate an aircraft contrary to an ATC instruction (including light gun signals) in an areas where air traffic control is exercised, except in an emergency.
+
+(c) Unless otherwise authorized by ATC, no person shall operate an aircraft in accordance with any clearance or instruction which has been issued to the pilot of another aircraft for radar air traffic control purposes.
+
+(d) Each pilot in command who deviates, in an emergency, from an ATC clearance or instruction shall notify ATC of that deviation as soon as possible.
+
+(e) Every pilot in command who is given priority by ATC in an emergency shall, if requested by ATC, submit a detailed report of that emergency within 48 hours to the chief of the ATC facility involved, even though he has not deviated from a rule of this part.
+
+Origin: FAR 91.75; 91.65(d)
+
+Changes:
+
+1. The prohibition against operating in accordance with a clearance issued to another pilot is included in this section.
+
+2. Some changes in language with no substantive changes intended.
+
+Sec. 91.131 ATC light gun-signals.
+
+Origin: Sec. 91.77
+
+Changes: None
+
+Sec. 91.133 Flight plans: general.
+
+(a) Each person filing a flight plan shall include in it the information ATC believes is necessary for ATC purposes and the information the pilot in command believes is necessary for search and rescue purposes.
+
+(b) Upon completion or cancellation of a flight for which a flight plan has been activated, the pilot shall promptly notify an FAA Flight Service Station or ATC facility.
+
+Origin: Sec. 91.83(a) and (d).
+
+Changes:
+
+1. The list of items included on the flight plan form has been omitted as unnecessary. In actual practice, some of the items are not used or are abridged. The present regulation allows ATC to authorize something less than the items listed, and allows a pilot or ATC to provide more than what is listed. Publications containing good operating procedures (such as the Airman's information manual) are the proper places to alert pilots to what may be expected of them.
+
+2. Requirements for listing an alternate airport on an IFR flight plan are contained in Subpart C, instrument Flight Rules.
+
+Sec. 91.135 Flights between Mexico and Canada and the United States.
+
+Unless otherwise authorized by ATC, no person may operate a civil aircraft between Mexico or Canada and the United States without filing an IFR or VFR flight plan, as appropriate.
+
+Origin: Sec. 91.84
+
+Changes: None
+
+Sec. 91.137 Operating on or in the vicinity of an airport: generally.
+
+(a) Each person operating an aircraft on or in the vicinity of an airport on or in the vicinity of an airport shall comply with the requirements of this section, or when appropriate, Sec. 91.139 (Airports with Control Towers) and Sec. 91.141 (Terminal Control Areas); or in the special rules for those airports governed by FAR Part 93.
+
+(b) Each person operating an aircraft to or from an airport shall comply with the following, unless otherwise authorized or required by ATC:
+
+(1) Airplanes approaching to land shall make all turns to the left, unless the airport displays lights or visual markings to indicate that turns should be made to the right;
+
+(2) Helicopters approaching to land shall avoid the flow of fixed wing traffic; and
+
+(3) Aircraft departing the airport shall comply with any departure procedures established for that airport by the FAA.
+
+Origin: Secs. 91.85(a); 91.89
+
+Changes:
+
+1. Minor changes in language with no substantive change intended.
+
+Sec. 91.139 Operations at airports with operating control towers.
+
+Each pilot operating an aircraft to, from, or on an airport with an operating control tower shall comply with the applicable requirements of this section, unless otherwise authorized or required by ATC.
+
+(a) Communications with Control Towers Operated by the United States. No pilot shall, within an airport traffic area operate an aircraft to, from, or on an airport with a control tower operated by the United States government unless he first establishes and maintains two-way communications with that tower. However, if the radio fails in flight, he may continue to operate that aircraft and land, provided the weather conditions are at or above basic VFR minimums and he maintains visual contact with the tower and receives a clearance to land by radio or light signals. If the radio fails in flight under instrument flight rules, the pilot shall proceed as prescribed in Sec. 91.229.
+
+(b) Clearances Required. No pilot shall, at an airport with an operating control tower, taxi an aircraft on a runway or taxiway, nor take off, land, nor operate an aircraft within the traffic pattern of that airport unless he has received an appropriate clearance from the tower. A clearance to "taxi to" the takeoff runway assigned to the aircraft is not a clearance to cross that assigned takeoff runway, or to taxi on that runway at any point, but is a clearance to cross other runways that intersect the taxi route to that assigned takeoff runway. A clearance to "taxi to" any point other than an assigned takeoff runway is a clearance to cross all runways that intersect the taxi route to that point.
+
+(c) Approaches. The pilot of an airplane shall approach an airport with an operating control tower so as to circle to the left. The pilot of a helicopter shall plan his approach to avoid the flow of fixed wing traffic.
+
+(d) Departures. The pilot of a departing aircraft shall comply with any departure procedures established for that airport by the FAA.
+
+(e) Visual Approach Slope Indicators. The pilot of an airplane approaching to land on a runway served by a visual approach slope indicator shall maintain an altitude above the indicated approach slope until a lower altitude is necessary for a safe landing. However, this requirement does not prohibit normal bracketing above and below the approach slope for the purpose of staying on the indicated approach slope.
+
+(f) Special Rules for Turbine-Powered and Large Airplanes. When operating at an airport with an operating control tower, each pilot of any turbine-powered airplane or other large airplane shall:
+
+(1) Unless prevented by distance from cloud criteria, when within five statute miles of the airport, maintain an altitude of at least 1,500 feet above the surface of the airport, until further descent is necessary for a safe landing;
+
+(2) When approaching to land on a runway served by an ILS system, if the airplane is ILS equipped, fly that airplane at an altitude on or above the glide slope between the outer marker, or a point of interception closer in if required by cloud separation criteria, and the middle marker. However, this rule does not prohibit normal bracketing maneuvers above and below the glide slope for the purpose of remaining on the glide slope;
+
+(3) When departing after takeoff, climb to an altitude of 1,500 feet above the surface as rapidly as is feasible, unless otherwise required by established departure procedures or cloud separation criteria; and
+
+(4) When landing on or taking off from an airport for which a formal runway use program has been established by the FAA, use the runway assigned by ATC for noise abatement purposes. However, the pilot has final authority and responsibility for the safe operation of his airplane, and if he determines that in the interest of safety another runway should be used, ATC will assign that runway, if air traffic and other conditions permit.
+
+Origin: Sec. 91.87 (except paragraph (c) which is deleted)
+
+Changes:
+
+1. The requirement for radio communications with control towers not operated by the U.S. is deleted. Such communications should be a recommended practice by not a regulation. It seems wrong that someone operating an aircraft without a radio can go in and out of these airports and not be subject to a violation while another pilot operating an aircraft without a radio can go in and out of these and not be subject to a violation while another pilot operating an aircraft containing a radio is subject to a violation if he doesn't use it. Clearances are still required at all airports with operating control towers regardless who the operator is.
+
+Sec. 91.141 Terminal control areas.
+
+(a) Group I Terminal Control Areas.
+
+(1) Operating Rules.
+
+(i) No person shall operate an aircraft within a Group I Terminal Control Area unless he has received an appropriate authorization from ATC prior to the operation of that aircraft in that area; and unless two-way radio communications are maintained within that area, between the aircraft and the ATC facility.
+
+(ii) Each person operating a large turbine-powered airplane to or from a primary airport shall, unless otherwise authorized by ATC, operate at or above the designated floors while within the lateral limits of the terminal control area.
+
+(2) Pilot Requirements. The pilot in command of a civil aircraft shall not land or take off that aircraft from an airport within a Group I Terminal Control Area unless he holds at least a private pilot certificate.
+
+(3) Equipment Requirements. Unless otherwise authorized by ATC, no person shall operate an aircraft within a Group I Terminal Control Area unless that aircraft is equipped with:
+
+(i) An operable VOR or TACAN receiver (except in the case of helicopters);
+
+(ii) An operable two-way radio capable of communicating with ATC on appropriate frequencies for that Terminal Control Area; and
+
+(iii) An operable transponder capable of replying to ATC interrogation with the code specified by ATC, and equipped with automatic pressure altitude reporting equipment.
+
+(b) Group II Terminal Control Areas.
+
+(1) Operating Rules.
+
+(i) No person shall operate an aircraft within a Group II Terminal Control Areas unless he has received an appropriate authorization from ATC prior to the operation of that aircraft in that area; and unless two-way radio communications are maintained, within that area, between that aircraft and the ATC facility.
+
+(ii) Unless otherwise authorized by ATC, each person operating a large turbine-powered airplane to or from a primary airport shall operate at or above the designated floors while within the lateral limits of the Terminal Control Area.
+
+(2) Equipment Requirements. Unless otherwise authorized by ATC, no person shall operate an aircraft within a Group II Terminal Control Area unless that aircraft is equipped with:
+
+(i) An operable VOR or TACAN receiver (except in the case of helicopters);
+
+(ii) An operable two-way radio capable of communicating with ATC on the appropriate frequencies for that terminal control area; and
+
+(iii) An operable transponder capable of replying to ATC interrogation with the code specified by ATC, except that a transponder is not required for IFR flights operating to or from an airport outside, but in close proximity to the Terminal control Area when the commonly used transition, approach, or departure procedures to such airport require flight within the terminal control area.
+
+(c) ATC Authorized Deviations. ATC may authorize deviations from equipment requirements of this section:
+
+(1) Immediately, in the case of inflight VOR, TACAN, or two-way radio failure;
+
+(2) Immediately, in the case of a transponder or automatic pressure altitude reporting equipment failure occurring at any time; or
+
+(3) On a continuing basis, or for individual flights, in which case the request for a deviation must be submitted to the ATC facility having jurisdiction over the airspace concerned at least two hours before the proposed operation.
+
+Origin: Secs. 91.90, 91.24(c)
+
+Changes:
+
+1. Regulations pertaining to Group III TCAs are deleted because there aren't any Group III TCAs, and it doesn't appear likely that there will be any.
+
+2. The cross reference to another section for transponder and automatic pressure altitude reporting equipment requirements has been changed to a statement of the requirement.
+
+3. The authorized deviations form the equipment requirements has been expanded slightly by allowing ATC to authorize deviations from all of the equipment requirements (instead of just transponders) on a continuing basis or for individual flights.
+
+4. The lead time for submitting a request for deviations has been dropped from four hours to two hours.
+
+5. A regulation has been added for Group I TCAs in paragraph (a)(i). The requirement for maintaining two-way radio communications within Group I TCAs is omitted in present section 91.90. The omission was probably an oversight because the requirement is in the present operating rules for Group II TCAs.
+
+Sec. 91.143 Operations in specially designated areas.
+
+(a) Restricted and Prohibited Areas.
+
+(1) No person shall operate an aircraft within a Restricted Area designated in FAR Part 73 contrary to the restrictions imposed, or within a Prohibited Area, unless he has the permission of the using or controlling agency, as appropriate.
+
+(2) Each person conducting, within a Restricted Area, an aircraft operation (approved by the using agency) that creates the same hazards as the operations for which the Restricted Area was designated, may deviate from the rules of this subpart that are not compatible with his operation of the aircraft.
+
+(b) Positive Control Areas and Route Segments.
+
+(1) No person shall operate an aircraft within a Positive Control Area, or Positive Control Route Segment designated in FAR Part 71, unless that aircraft is:
+
+(i) Operated under IFR at a specified flight level assigned by ATC;
+
+(ii) Equipped with the instruments and equipment required for IFR flight;
+
+(iii) Flown by a pilot rated for instrument flight;
+
+(iv) Equipped with an operable transponder capable of replying to ATC interrogation with the code specified by ATC, and with automatic pressure altitude reporting equipment; and
+
+(v) Two-way radio capable of providing communications on frequencies specified by ATC.
+
+(2) ATC may authorize deviations from subparagraph (1), above, immediately in the case of in-flight equipment failure. In cases of other requests for deviations, written requests must be deviations, written requests must be submitted at least 24 hours before the proposed operation to the ATC Center having jurisdiction over the airspace concerned. ATC may authorize a deviation on a continuing basis or for an individual flight, as appropriate.
+
+Origin: Secs. 91.95, 91.97
+
+Changes:
+
+1. The rules now in Sec. 91.95 and Sec. 91.97 have been combined in a single section.
+
+2. Deviations in the case of any kind of inflight equipment failure may be authorized immediately.
+
+3. Some changes in language with no substantive change intended.
+
+Sec. 91.145 Temporary flight restrictions.
+
+(a) General. The Administrator may, when he finds it necessary because of a particular incident or event, issue a Notice to Airmen (NOTAM) designating an area within which temporary flight restrictions apply for the safety of air traffic, the security and safety of persons on the surface, or to expedite the conduct of emergency or special flight operations. When a NOTAM has been issued under this section, each person operating an aircraft within the designated area shall comply with paragraph (b), (c), or (d) of this section, as appropriate.
+
+(b) Flight Restrictions in the Proximity of Space Flight Recovery Operations. No person may operate any aircraft of United States registry, or pilot any aircraft under the authority of an airman certificate issued by the Federal Aviation Administration within areas designated in a Notice to Airmen (NOTAM) for space flight recovery operations except when authorized by ATC, or operated under the control of the Department of Defense Manager for Manned Space Flight Support Operations.
+
+(c) Flight Restrictions in the Proximity of Presidential and Other Parties. No person may operate an aircraft over or in the vicinity of any area to be visited or traveled by the President, the Vice President, or other public figures contrary to the restrictions established by the Administrator and published in a Notice to Airmen (NOTAM).
+
+(d) Flight Restrictions for Other Incidents or Events. When a NOTAM has been issued for reasons not covered by paragraph (b) or (c) of this section, no person shall operate an aircraft within the designated area unless:
+
+(1) That aircraft is participating in activities connected with the incident or event under the direction of the responsible agency specified in the NOTAM;
+
+(2) That aircraft is being operated directly to or from an airport located within the area, and is operated so as not to hamper or endanger other authorized activities;
+
+(3) That flight is specifically authorized under a clearance from ATC;
+
+(4) Enroute operation is conducted through the area because VFR flight around or above the area is impracticable because of weather, terrain, or other considerations, and prior notice has been given to the ATC facility specified in the NOTAM; or
+
+(5) That aircraft is carrying properly accredited news media representatives, or persons officially concerned with the incident or event which generated the NOTAM, the flight is conducted in accordance with the minimum safe altitudes in Sec. 91.121 and above the altitudes being used by aircraft directly involved in the incident or event unless otherwise authorized by the responsible agency, and the operator has filed with the ATC facility specified in the NOTAM a flight plan which includes at least;
+
+(i) The aircraft identification, type and color;
+
+(ii) Radio communication frequencies to be used;
+
+(iii) Proposed time of entry and departure from the designated area;
+
+(iv) Name of the news media or purpose of the flight;
+
+(v) Any other pertinent information requested by ATC.
+
+Origin: FAR 91.91, 91.102 and 91.104
+
+Changes:
+
+1. Three related sections have been combined into one.
+
+2. In proposed Sec. 91.145(d)(3), the allowance for operations in flight restricted areas if on an IFR clearance (present Sec. 91.91(b)(3)) is changed to allow any flight authorized under an ATC clearance.
+
+3. Changes in language with no substantive changes intended.
+
+Subpart C - Instrument Flight Rules
+
+NOTE. - This Subpart incorporates all of the regulations relating to instrument flight (including Category II operations) which are scattered throughout present Part 91.
+
+Sec. 91.201 Applicability.
+
+This Subpart prescribes rules, in addition to the rules in Subparts A and B, for persons operating aircraft in less than VFR weather conditions or on an IFR flight plan with an appropriate ATC clearance.
+
+Origin: NEW
+
+Sec. 91.203 ATC clearances and flight plan required.
+
+No person shall operate an aircraft in controlled airspace under IFR unless:
+
+(a) He has filed an IFR flight plan; and
+
+(b) He has received an appropriate ATC clearance.
+
+Origin: Sec. 91.115
+
+Comment: This section is not a restatement of proposed Sec. 91.201. Proposed Sec. 91.201 states that a person must abide by Subpart C when operating on an IFR flight plan and an appropriate ATC clearance. This section sets forth the requirement for a flight plan and clearance to operate under IFR in controlled airspace.
+
+Changes: None
+
+Sec. 91.205 Equipment requirements.
+
+No person shall operate a powered civil aircraft with a standard category U.S. airworthiness certificate under IFR unless it contains, in addition to the instruments and equipment required by Sec. 91.15, the following operable instrument and equipment:
+
+(a) A two-way radio communication-system appropriate to the ATC facilities with which contact must be maintained;
+
+(b) Radio navigation equipment appropriate to the radio navigational facilities to be used;
+
+(c) Gyroscopic rate-of-turn indicator, except on the following aircraft:
+
+(1) Large airplanes with a third attitude instrument system usable through flight altitudes of 360 degrees of pitch and roll and installed in accordance with Sec. 121.305(j) of this Chapter; and
+
+(2) Rotorcraft, type certificated under Part 29 of this Chapter, with a third attitude instrument system usable through flight attitudes of +80 degrees of pitch and +120 degrees of roll and installed in accordance with section 29.1303(g) of this Chapter.
+
+(d) A slip-skid indicator.
+
+(e) A sensitive altimeter adjustable for barometric pressure;
+
+(f) A digital clock with hour, minute, and second displays, or a clock with a sweep-second hand;
+
+(g) A generator or alternator of adequate capacity;
+
+(h) A gyroscopic attitude indicator (artificial horizon);
+
+(i) A gyroscopic direction indicator (Directional gyro or equivalent); and
+
+(j) If VOR navigational equipment is required under paragraph (b) of this section, aircraft operating within the 50 states or the District of Columbia, at or above 24,000 feet MSL, must be equipped with an approved distance measuring equipment (DME). When DME required by this paragraph fails at and above 24,000 feet MSL, the pilot in command of the aircraft shall notify ATC immediately, and may then continue operations at and above 24,000 feet MSL to the next airport of intended landing at which repairs or replacement of the equipment can be made.
+
+Origin: Sec. 91.33(d) and (e)
+
+Changes:
+
+1. The IFR instrument and equipment listing has been separated from the basic equipment listing in Subpart A.
+
+2. The communications radio and navigational radio requirements have been separated.
+
+3. The term "bank and pitch indicator" has been changed to "attitude indicator."
+
+4. The acceptability of an alternator in lieu of a generator is incorporated.
+
+Sec. 91.207 VOR equipment check for IFR operations.
+
+(a) No person shall operate a civil aircraft under IFR using the VOR system of radio navigation unless the VOR equipment of that aircraft - 
+
+(1) Is maintained, checked, and inspected under an approved procedure; or
+
+(2) Has been operationally checked within 30 days before flight in accordance with one of the procedures specified in paragraphs (b) through (f) of this section and found to be within the stated permissible bearing error.
+
+(b) If dual system VOR (units independent of each other except for the antenna) is installed in the aircraft, the person checking the equipment may check one system against the other. He shall tune both systems to the same VOR ground facility and note the indicated bearings to that station. The maximum permissible variation between the two indicated bearings is 4 degrees.
+
+(c) An FAA operated or approved test signal radiated by a certificated and appropriately rated radio repair station or, outside the United States, a test signal operated or approved by appropriate authority may be used to check the VOR equipment (the maximum permissible bearing error is plus or minus 4 degrees).
+
+(d) A point on an airport surface designated as a VOR system checkpoint by the Administrator or, outside the United States, by appropriate authority may be used for the required check (the maximum permissible bearing error is plus or minus 4 degrees).
+
+(e) An airborne checkpoint designated by the Administrator or, outside the United States, by appropriate authority may be used for the required check (the maximum permissible bearing error is plus or minus 4 degrees).
+
+(f) The required operations check may be performed in flight in the following manner - 
+
+(1) Select a VOR radial that lies along the centerline of an established VOR airway;
+
+(2) Select a prominent ground point along the selected radial preferably more than 20 miles from the VOR ground facility and maneuver the aircraft directly over the point at a reasonably low altitude; and
+
+(3) Note the VOR bearing indicated by the receiver when over the ground point (the maximum permissible variation between the published radial and the indicated bearing is 6 degrees).
+
+(g) Each person making the VOR operational check shall enter the date, place, bearing error, and his signature in the aircraft log or other permanent record. In addition, if a test signal radiated by a repair station, as specified in paragraph (c) of this section, is used, an entry must be made in the aircraft log or other permanent record by the repair station certificate holder or his representative certifying to the bearing transmitted by the repair station for the check and the date of transmission.
+
+Origin: Sec. 91.25
+
+Changes:
+
+1. The requirement for checking VOR equipment accuracy is extended from ten days to 30 days, with the checks within the preceding ten hours of flight time deleted. This change is justified for the following reasons: (1) The quality of VOR equipment has improved considerably since this regulation was adopted (many sets now meet or exceed TSOs); (2) Most aircraft operated under IFR are, a good part of the time, in a radar environment wherein ATC can advise the pilot of deviations indicative of dangerous bearing errors in VOR equipment; and (3) Pilots routinely check VOR equipment accuracy on a flight-by-flight basis without even thinking about it.
+
+2. The listing on a priority basis of acceptable methods for making the required check under present paragraph 91.25(b) has been eliminated. Under proposed section 91.207, each method is equally acceptable.
+
+Sec. 91.209 Fuel requirements.
+
+No person shall operate a civil aircraft in IFR conditions unless it carries enough fuel (considering weather reports and forecasts, and weather conditions observed by the pilot in command) to - 
+
+(a) Complete the flight to the first airport of intended landing;
+
+(b) Fly from that airport to the alternate airport, if an alternate airport is required by Sec. 91.211; and
+
+(c) Fly thereafter for 45 minutes at normal cruising speed.
+
+Origin: Sec. 91.23
+
+Changes:
+
+1. The provision relieving a pilot from carrying fuel to allow cruising to the alternate if certain weather minimums exist at the original destination has been placed in proposed Sec. 91.211, Alternate Airport. Paragraph (b) above carries out this change.
+
+2. Minor changes in language with no substantive change intended.
+
+Sec. 91.211 Alternate airport.
+
+(a) Alternate Airport Requirement. An alternate airport must be specified in an IFR flight plan unless:
+
+(1) FAR Part 97 prescribes a standard instrument approach for the airport of first intended landing; and
+
+(2) The weather conditions at that airport from two hours before until two hours after the estimated time of arrival are forecast to be - 
+
+(i) Ceiling at least 3,000 feet; and
+
+(ii) Visibility at least three miles, or two miles more than the lowest authorized landing minimum visibility, whichever is greater.
+
+(b) Alternate Airport Weather Minimums. Unless otherwise authorized by the Administrator, an airport may not be specified as an alternate airport in an IFR flight plan unless current weather forecasts indicate that, at the estimated time of arrival at that airport, the ceiling and visibility at that airport will be at or above the following:
+
+(1) If an instrument approach procedure has been published in FAR Part 97 for that airport, the alternate airport minimums specified in that procedure shall apply. If none are so specified, the following shall apply:
+
+(i) For a precision approach - ceiling 600 feet and visibility 2 statute miles; and
+
+(ii) For a non-precision approach - ceiling 800 feet and visibility 2 statute miles.
+
+(2) If no instrument approach procedure has been published in FAR Part 97 for that airport, the ceiling and visibility minimums are those allowing descent from the MEA, approach, and landing under basic VFR.
+
+Origin: Sec. 91.83(a)(9), (b) and (c)
+
+Changes:
+
+1. The alternate airport rules have been separated from the flight plan section, and brought to this new section.
+
+2. The weather conditions which must prevail in order not to need an alternate airport have been simplified. By changing from a ceiling of at least 1,000 feet above the lowest MEA, MOCA, or altitude prescribed for the initial approach segment to a ceiling of at least 3,000 feet, the new regulation may require a little better weather in a few cases and permit a little worse in a few others, but it is must easier to understand.
+
+Sec. 91.213 Minimum altitudes.
+
+Except as necessary for takeoff and landing, or unless otherwise authorized by the Administrator, no person shall operate an aircraft under IFR below:
+
+(a) The applicable minimum altitude prescribed in FAR Parts 95 and 97. However, if both a MEA and a MOCA are prescribed for a route or route segment, a pilot may operate an aircraft below the MEA down to, but not below, the MOCA when within 25 statute miles of the VOR concerned (based on the pilot's reasonable estimate of that distance).
+
+(b) If no applicable minimum altitude is prescribed in those Parts - 
+
+(1) In the case of operations over an area designated as a mountainous area in FAR 95, an altitude of 2,000 feet above the highest obstacle within a horizontal distance of 5 statute miles from the course to be flown; or
+
+(2) In any other case, an altitude of 1,000 feet above the highest obstacle within a horizontal distance of five statute miles from the course to be flown.
+
+Origin: Sec. 91.119(a)
+
+Changes:
+
+1. Minor changes in language and organization with no substantive change intended.
+
+Sec. 91.215 Cruising altitude or flight level
+
+Origin: 91.121
+
+Changes: None
+
+Sec. 91.217 Course to be flown.
+
+Unless otherwise authorized by ATC, no person shall operate an aircraft within controlled airspace, under IFR, except as follows:
+
+(a) On a Federal airway, along the centerline of that airway.
+
+(b) On any other route, along the direct course between the navigational aids or fixes defining that route.
+
+However, this section does not prohibit maneuvering the aircraft to pass well clear of other air traffic or the maneuvering of the aircraft, in VFR conditions, to clear the intended flight path both before and during climb or descent.
+
+Origin: 91.123
+
+Changes: None
+
+Sec. 91.219 Climb enroute.
+
+Climb to a higher minimum IFR altitude shall begin immediately after passing the point beyond which that minimum altitude applies, except that, when ground obstructions intervene, the point beyond which the higher minimum altitude applies shall be crossed at or above the MCA.
+
+Origin: 91.119(b)
+
+Changes: None
+
+Sec. 91.221 Instrument approach procedures for civil airports (Not applicable to Category II operations.)
+
+(a) Standard Instrument Approaches. When an instrument let-down to an airport is necessary, each person operating an aircraft under IFR shall use a standard instrument approach procedure prescribed for that airport by FAR Part 97, unless otherwise authorized by the Administrator (including ATC).
+
+(b) Use of Radar and Operation on Unpublished Routes.
+
+(1) A pilot is authorized to use radar (where it is approved for ATC purposes) not only for surveillance and precision radar approaches, abut also for instrument approaches predicated on other types of radio navigational aids. Radar vectors may be authorized to provide course guidance through the segments of an approach procedure to the final approach fix or position.
+
+(2) When an approach clearance is received, a pilot operating on an unpublished route or being radar vectored shall, in addition to complying with the minimum altitudes in Sec. 91.213, maintain his last assigned altitude unless a different altitude is assigned by ATC or until the aircraft is established on a segment of an instrument approach procedure or published route. After the aircraft is so established, published altitudes apply to descent within each succeeding route or approach segment unless a different altitude is assigned by ATC. Upon reaching the final approach fix or position, the pilot may either complete his instrument approach in accordance with the procedure approved for the facility, or may continue a surveillance or precision radar approach to a landing.
+
+(c) ILS Approaches with Inoperative or Unused Components. A pilot is authorized by FAR Part 97 to make an ILS approach when a certain component or components of the ILS system is inoperative, unusable, or not utilized. When an approach is made under these circumstances, the straight-in minimums shall be raised in accordance with the appropriate table in Part 97. If more than one component or aid is not utilized, each prescribed minimum is raised to the highest minimum specified for the absence of any one of the aids not utilized.
+
+(d) Limitations on Procedure Turns. In the case of a radar initial approach to a final approach fix or position, or a timed approach from a holding fix, or where the procedure specifies "NOPT" or "FINAL," no pilot may make a procedure turn unless, when he received his final approach clearance, he so advises ATC.
+
+Origin: Sec. 91.116(a), (f), (g), and (h); Sec. 91.117(a) and (c).
+
+Changes:
+
+1. The conversion tables describing changes in landing minimum if ILS ground components are inoperative or unused have been deleted. We recommend these tables be placed in Part 97 and made available in other published material, as is done presently for helicopters.
+
+2. Reference to use of radio ranges for ADF procedures is deleted.
+
+3. Some changes in language with no substantive changes intended.
+
+Sec. 91.223 Descent below minimum descent altitude (MDA) and decision height (DH); and IFR landing minimums at civil airports (Not applicable to Category II operations).
+
+(a) Unless otherwise authorized by the Administrator, no person shall operate an aircraft using an instrument approach procedure prescribed in FAR Part 97 below the minimum descent altitude or continue an approach below the decision height unless:
+
+(1) The aircraft is in a position from which a normal approach to the runway of intended landing can be made; and
+
+(2) The approach threshold of that runway or approach lights or other markings identifiable with the approach end of the runway are clearly visible to the pilot.
+
+If, upon arrival at the missed approach point or decision height, or at any time thereafter, any of the above requirements are not met, the pilot shall immediately execute the prescribed missed approach procedure.
+
+(b) No person operating an aircraft (except a military aircraft of the United Sates) in accordance with a standard instrument approach procedure prescribed in FAR Part 97 shall land that aircraft unless the flight visibility is at or above the landing minimum prescribed in that Part for the procedure used, unless otherwise authorized by the Administrator.
+
+(c) Comparable Values of RVR and Ground Visibility. If RVR minimums are prescribed in an instrument approach procedure, but RVR is not reported for the runway of intended operation, the RVR minimum shall be converted to flight visibility using published tables, and observed as the applicable minimum visibility for landing.
+
+Origin: Secs. 91.116(b) and (e), 91.117(a) and (b)
+
+Changes:
+
+1. The adjective "flight" has been added to the visibility requirements. A pilot cannot legally land unless the flight visibility is at or above the landing minimum prescribed, and if RVR minimums are prescribed but RVR is not reported for the runway of intended operation, the RVR minimum is converted to flight visibility "in accordance with published tables and observed as the applicable visibility minimum...". Except in the case of converting RVR minimums, specifying flight visibility is not a significant change because decisions in several enforcement cases indicate that flight visibility, rather than ground visibility, is intended in the present regulations. In the case of converting RVR minimums, the regulation is specific in stating that it shall be converted to ground visibility. Changing this to flight visibility is a significant change.
+
+2. Reference to landing minimums stated in terms of ceiling and visibility is deleted.
+
+3. The conversion chart from RVR to miles has been omitted, with the recommendation that it be inserted in FAR 97 and made available to pilots in other printed material.
+
+4. Some changes in language with no substantive changes intended.
+
+Sec. 91.225 Military airports: takeoff and landing under IFR.
+
+Unless otherwise prescribed by the Administrator, each person operating a civil aircraft under IFR into, or out of, a military airport shall comply with the instrument approach procedures and the takeoff and landing minimums prescribed by the military authority having jurisdiction on that airport.
+
+Origin: Sec. 91.116(d)
+
+Changes: None
+
+Sec. 91.227 Radio communications.
+
+The pilot in command of each aircraft operated under IFR in controlled airspace shall have a continuous watch maintained on the appropriate frequency and shall report by radio as soon as possible.
+
+(a) The time and altitude of passing each designated reporting point, or the reporting points specified by ATC, except that while the aircraft is under radar control, only the passing of those reporting points specifically requested by ATC need be reported;
+
+(b) Any unforecast weather conditions encountered; and
+
+(c) Any other information relating to the safety of flight.
+
+Origin: Sec. 91.125
+
+Changes: None
+
+Sec. 91.229 Two-way radio communications failure.
+
+Each pilot who experiences a two-way radio communications failure while in flight under IFR shall comply with the rules of this section.
+
+(a) VFR Conditions. If the failure occurs in VFR conditions, or if VFR conditions are encountered after the failure, the pilot shall continue flight under VFR and land as soon as is practicable.
+
+(b) IFR Conditions. If the failure occurs in IFR conditions, or if paragraph (a) of this section cannot be complied with, the pilot shall continue flight according to the following:
+
+(1) Route.
+
+(i) By the route assigned in the last ATC clearance received and acknowledged;
+
+(ii) If being radar vectored, by the direct route from the point of radio failure to the fix, route, or airway specified in the vector clearance;
+
+(iii) In the absence of an assigned route, by the route that ATC has advised may be expected in a further clearance; or
+
+(iv) In the absence of an assigned rout or route which ATC has advised may be expected, by the route filed in the flight plan.
+
+(2) Altitude. At the highest of the following altitudes or flight levels for the route segment being flown:
+
+(i) The altitude or flight level assigned in the last ATC clearance received and acknowledge;
+
+(ii) The minimum altitude as prescribed in Sec. 91.211 for IFR operations (converted, if appropriate, to minimum flight level); or
+
+(iii) The altitude or flight level ATC has advised may be expected in a further clearance.
+
+(3) Leaving a Holding Fix. If holding instructions have been received, the pilot shall leave that holding fix at the expect-further-clearance time received, or, if an expected approach clearance time has been received he shall leave the holding fix in time to arrive over the fix from which the approach begins as close as possible to the expected approach clearance time.
+
+(4) Descent for Approach. The pilot shall begin descent from the enroute altitude or flight level upon reaching the fix from which the approach begins, but not before:
+
+(i) The expect-approach-clearance time (if received); or
+
+(ii) If no expect-approach-clearance time has been received, at the estimated time of arrival shown on the flight plan, as amended by ATC.
+
+Origin: Sec. 91.127
+
+Changes:
+
+1. Minor changes in language with no substantive change intended.
+
+Sec. 91.231 Radio malfunction reports.
+
+(a) The pilot in command of each aircraft operated in controlled airspace under IFR shall report immediately to ATC any of the following malfunctions of equipment occurring in flight:
+
+(1) The loss of VOR, TACAN, ADF, RNAV equipment, or low frequency navigation receiver capability.
+
+(2) Complete or partial loss of ILS receiver capability.
+
+(3) Impairment of air/ground communications capability.
+
+(b) In each report required by paragraph (a) of this section, the pilot in command shall include the - 
+
+(1) Aircraft identification;
+
+(2) Equipment affected;
+
+(3) Degree to which the capability of the pilot to operate under IFR in the ATC system is impaired; and
+
+(4) Nature and extent of assistance he desires from ATC.
+
+Origin: Sec. 91.129
+
+Changes:
+
+1. RNAV has been added to reportable equipment.
+
+Sec. 91.233 Category II operations.
+
+(a) General Operating Rules
+
+(1) No person shall operate a civil aircraft in a Category II operation unless:
+
+(i) The pilot flight crew of the aircraft consists of a pilot in command and a second in command who hold the appropriate authorization and ratings prescribed in Sec. 61.3 of FAR Part 61:
+
+(ii) Each flight crew member has adequate knowledge of and familiarity with the aircraft and the procedures to be used by him; and
+
+(iii) The instrument panel in front of the pilot who is controlling the aircraft has appropriate instrumentation for the type of flight control guidance system which is used.
+
+(2) No person shall conduct a Category II operation in a civil aircraft unless each ground component required for that operation and the related airborne equipment is installed and operating, unless otherwise authorized by the Administrator. The ground components are localizer, glide slope, outer marker, middle marker, inner marker, approach lights, high intensity runway lights, touchdown zone lights, centerline lighting and marking, and a runway visual range system for the touchdown zone. A compass locator or precision radar may be substituted for the outer or middle marker. The inner marker is not required if the height above touchdown (HAT) is to be 150 feet or greater, or if the airplane has an approved radio altimeter as provided in Appendix A or this Part.
+
+(3) No person may operate an aircraft in a Category II operation below the authorized decision height unless:
+
+(i) The aircraft is in a position from which a normal approach to the runway of intended landing can be made; and
+
+(ii) The approach threshold of that runway, or the approach lights or other markings identifiable with the approach end of the runway are clearly visible to the pilot.
+
+If upon arrival at the authorized decision height, or at any time thereafter, any of the above requirements are not met, the pilot shall immediately execute the appropriate missed approach procedure. For the purposes of this paragraph, the authorized decision height is the decision height prescribed for the approach, authorized for the pilot in command, or for which the aircraft is equipped, whichever is higher.
+
+(4) No person shall operate a civil aircraft in a Category II operation conducted by the holder of a certificate issued under FAR Part 121 unless the operation is conducted in accordance with that certificate holder's operations specifications.
+
+(b) Category II Manual.
+
+(1) No person shall operate a civil aircraft of United Sates registry in a Category II operation unless:
+
+(i) There is available in the aircraft a current approved Category II manual for that aircraft which meets the requirements in Appendix A of this Part;
+
+(ii) The operation is conducted in accordance with the procedures, instructions, and limitations in that manual; and
+
+(iii) The instruments and equipment listed in the manual which are required for particular Category II operation have been inspected and maintained in accordance with the maintenance program contained in that manual.
+
+(2) Each operator shall keep a current copy of the approved manual at its principal base of operations, and shall make it available for inspection upon request of the Administrator.
+
+(c) Category II Instruments and Equipment. For Category II operations, the instruments and equipment specified in Sec. 91.205 and Appendix A of this Part are required.
+
+(d) Authorization of Certain Category II Operations. The Administrator may issue a certificate or authorization permitting deviations from the requirements of paragraphs (a), (b), and (c) of this section for the operation of small airplanes, identified as Category A aircraft in FAR part 97 (Sec. 97.3), in Category II operations, if he finds that the proposed operation can be safely conducted under the terms of that certificate. Such authorization does not permit the operation of aircraft carrying persons or property for compensation or hire.
+
+(e) Except for paragraph (a)(4), this section does not apply to operations conducted by the holder of a certificate issued under FAR Part 121.
+
+Origin: Secs. 91.2, 91.6, 91.33(f), and 91.34
+
+Changes:
+
+1. In proposed 91.233(a)(2) [present Sec. 91.6(b)], the term "height above touchdown (HAT)", is used instead of "decision height."
+
+2. Minor changes in language with no substantive changes intended.
+
+Subpart D - Special Flight Operations
+
+NOTE. - This is a new Subpart D, not to be confused with present Subpart D, Operations of Large and Turbine-Powered Multi-Engine Airplanes.
+
+Proposed Subpart D incorporates regulations in present Part 91 governing operations which go beyond the common, everyday kind of aircraft use. Aerobatic flight; aircraft flight test; flight instruction, a simulated instrument flight, and certain pilot flight tests; towing gliders; and towing other than gliders are included in this Subpart.
+
+Sec. 91.301 Applicability.
+
+The Subpart prescribes rules in addition to those in Subparts A and B of this part for certain kinds of flight operations.
+
+Origin: New
+
+Sec. 91.303 Acrobatic flight.
+
+(a) No person shall operate an aircraft in aerobatic flight - 
+
+(1) Over any congested area of a city, town, or settlement;
+
+(2) Over any open air assembly of persons;
+
+(3) Within a control zone or a Federal Airway, except as specifically authorized by the Administrator;
+
+(4) Below an altitude of 1,500 feet above the surface; or
+
+(5) When the flight visibility is less than three miles.
+
+(b) No person shall operate an aircraft carrying any person (other than a crew member) in aerobatic flight unless each occupant is wearing an approved parachute.
+
+(c) Paragraph (b) does not apply to:
+
+(1) Flight tests for pilot certificates or ratings; or
+
+(2) Spins, or other flight maneuvers required by the regulations for any pilot certificate or rating, when given by - 
+
+(i) A certificated flight instructor, or
+
+(ii) An airline transport pilot instructing in accordance with FAR 61.169.
+
+(d) For the purposes of this section, "approved parachute" means - 
+
+(1) A parachute manufactured under a type certificate or a technical standard order (C-23 series); or
+
+(2) A personnel-carrying military parachute identified by a military designation or specification number.
+
+Origin: Sec. 91.15(c), (d), and (e); Sec. 91.71
+
+Changes:
+
+1. The word "acrobatic" is changed to "aerobatic".
+
+2. The rules covering aerobatic flight in Secs. 91.15 and 91.71 have been combined in one section.
+
+3. The two (different) definitions of aerobatic flight in present Secs. 91.15 and 91.71 have been omitted, with the recommendation that the definition is present Sec. 91.15(c) be inserted in FAR Part 1 as the more specific of the two.
+
+Sec. 91.305 Aircraft flight test areas.
+
+No person shall flight test an aircraft except over open water or sparsely populated areas having light air traffic.
+
+Origin: Sec. 91.93
+
+Changes: None
+
+Sec. 91.307 Flight instruction, simulated instrument flight, and certain pilot flight tests.
+
+(a) Dual Controls. No person shall operate a civil aircraft for flight instruction unless that aircraft is equipped with functioning dual flight controls, unless the person receiving instruction holds at least a Private Pilot Certificate with category, class, and, if appropriate, type ratings for that aircraft.
+
+(b) Simulated Instrument Flight. No person shall operate a civil aircraft in simulated instrument flight unless:
+
+(1) An appropriately rated pilot occupies the other control seat as safety pilot;
+
+(2) The safety pilot has adequate vision forward and to each side, or a competent observer in the aircraft adequately supplements the vision of the safety pilot; and
+
+(3) That aircraft is equipped with functioning dual controls, unless the pilot manipulating the controls is fully qualified to act as pilot in command of that aircraft.
+
+(c) Lighter-than-air Aircraft. The dual control requirement in paragraphs (a) and (b), above, do not apply to airships and free balloons.
+
+(d) Airline Transport Pilot Tests and Instruction. No person shall operate a civil aircraft for a flight test for an Airline Transport Pilot certificate or class or type rating, or an FAR Part 121 proficiency flight check unless the pilot sitting at the controls, other than the pilot being tested, is fully qualified to act as pilot in command of that aircraft.
+
+Origin: Sec. 91.21
+
+Changes:
+
+1. Dual controls would not be needed if the person receiving instruction holds at least a private pilot certificate with category and class (type, if appropriate) ratings appropriate to the aircraft being used.
+
+2. Dual controls would not be needed for simulated instrument flight if the person operating the aircraft is qualified to act as pilot in command of the aircraft being used.
+
+Sec. 91.309 Parachuting.
+
+(a) Parachute Jumps. Except in an emergency, no pilot in command shall allow, and no person shall make a parachute jump from an aircraft within the United States, except in accordance with FAR Part 105.
+
+(b) Parachutes. No pilot of a civil aircraft may allow a parachute that is available for emergency use to be carried in that aircraft unless it is an approved type and - 
+
+(1) If a chair type (canopy in back), it has been packed by a certificated and appropriately rated parachute rigger within the preceding 120 days; or
+
+(2) If any other type, it has been packed by a certificated and appropriately rated parachute rigger -
+
+(i) Within the preceding 120 days, if its canopy, shrouds, and harness are composed exclusively of nylon, rayon, or other similar synthetic fiber or materials that are substantially resistant to damage from mold, mildew, or other fungi and other rotting agents propagated in a moist environment; or
+
+(ii) Within the preceding 60 days, if any part of the parachute is composed of silk, pongee, or other natural fiber, or materials not specified in subdivision (i) of this paragraph.
+
+Origin: Sec. 91.15(a) and (b)
+
+Changes:
+
+1. The regulation is amended to require that a parachute available for emergency use be "certified" by the packer who has repacked it within 60 days. This is common practice, and is important to the condition of the chute.
+
+2. The provision for longer packing periods for chair-type chutes is continued, although we are skeptical that any have been installed in airplanes for the past 30 years.
+
+Sec. 91.311 Towing: Gliders.
+
+Origin: Sec. 91.17
+
+Changes: None
+
+Sec. 91.313 Towing: Other than gliders.
+
+(a) No pilot of a civil aircraft shall tow anything with that aircraft (other than under Sec. 91.311) except in accordance with the terms of a certificate of waiver issued by the Administrator.
+
+(b) An application for a certificate of waiver under this section is made on a form and in a manner prescribed by the Administrator, and must be submitted to the FAA Flight Standards District Office having jurisdiction over the area where the towing operation will take place.
+
+Origin: Sec. 91.18
+
+Changes:
+
+1. The application for a waiver is submitted to the FAA office having jurisdiction over the area where the towing operation will take place, rather than the "nearest" office as in present Sec. 91.18. It is unclear in the present regulations what the FAA office must be "nearest" to.
+
+Subpart E - Special Regulations for Commercial Operations
+
+NOTE. - This is a new Subpart E, not to be confused with present Subpart E, Operating Noise Limits.
+
+This Subpart incorporates several regulations in present Part 91 with very few changes. The regulations in this Subpart are retained in Part 91 because some commercial operations are not covered by other parts of the regulations, for example, local sight-seeing flights. Therefore, the regulations regarding emergency exits, over-water operations, and landing lights for aircraft carrying passengers for hire must remain in Part 91. Also, air carrier aircraft occasionally engage in Part 91 operations, so the requirement for flight and cockpit voice recorders belongs in this Part rather than in Part 121.
+
+Sec. 91.401 Applicability.
+
+This Subpart prescribes regulations in addition to other applicable regulations of this Part and Parts 121, 123, 127, and 135 for holders of air carrier or commercial operator certificates, and for other person operating aircraft in passenger-carrying operations for hire.
+
+Origin: New
+
+Sec. 91.403 Emergency exits for airplanes carrying passengers for hire.
+
+Origin: Sec. 91.47
+
+Changes: None
+
+Sec. 91.405 Flight recorders and cockpit voice recorders.
+
+Origin: Sec. 91.35
+
+Changes: None
+
+Sec. 91.407 Over-water operations.
+
+Except as necessary for takeoff and landing, no one shall operate a powered civil aircraft with a standard category U.S. airworthiness certificate for hire over water beyond power-off gliding distance from shore without approved flotation gear readily available to each occupant, and at least one pyrotechnic signaling device.
+
+Origin: Sec. 91.33(a) and (b)(11)
+
+Changes:
+
+1. An exception is inserted for airports where takeoffs and landings over water are a necessity on some runways.
+
+Sec. 91.409 Night operations.
+
+No person shall operate a powered civil aircraft with a standard category U.S. airworthiness certificate at night for hire unless it has installed at least one electric landing light.
+
+Origin: Sec. 91.33(a) and (c)(4)
+
+Changes: None
+
+Comment: This is an excellent example of an archaic rule left over from the 1920’s, when an electric landing light was really something, and there were few lighted airports. Maybe it is the sort of thing which should be pulled out on "zero-based" rulemaking, even though electric landing lights are nice. They are rather common today, and it would be very unusual to buy a new or recently manufactured airplane (which is to be used to carry persons for hire) without at least one.
+
+Sec. 91.411 Formation flights with passengers for hire.
+
+No person shall operate an aircraft, carrying passengers for hire, in formation flight.
+
+Origin: Sec. 91.65(c)
+
+Comments: While this is a worthwhile regulation, a clarification is needed for what constitutes "formation flight." It is not uncommon for two or more aircraft carrying a large charter group to cruise in sight of each other.
+
+Changes: None
+
+Subpart F - Operations of Certain Aircraft
+
+NOTE - This Subpart incorporates the regulations in present Part 91 which relate only to the operation of some kinds of aircraft which the "average" pilot isn't concerned with. Unfortunately, or maybe unavoidably, reorganizing placed in this Subpart is somewhat lacking in consistency. For instance, the regulation regarding operations or aircraft on water might logically be included in this Subpart, but it is in subpart A. Also, all regulations relating specifically to helicopters might be included in this Subpart, but they aren't.
+
+Sec. 91.501 Applicability.
+
+This Subpart prescribes rules in addition to other rules of this Part for operators of non-standard category aircraft, transport category aircraft, turbo-jet powered airplanes, and certain other civil aircraft.
+
+Origin: New
+
+Sec. 91.503 Experimental aircraft.
+
+Origin: Sec. 91.42
+
+Changes: None
+
+Sec. 91.505 Limited category aircraft.
+
+No person shall operate a limited category civil aircraft carrying persons or property for compensation or hire.
+
+Origin: Sec. 91.40
+
+Changes: None
+
+Sec. 91.507 Provisionally certificated civil aircraft.
+
+Origin: Sec. 91.41
+
+Changes: None
+
+Sec. 91.509 Restricted category civil aircraft.
+
+Origin: Sec. 91.39
+
+Changes: None, except the date in present Sec. 91.39(f) should be deleted.
+
+Sec. 91.511 Transport category civil airplanes: weight limitations.
+
+Origin: Sec. 91.37
+
+Changes: None
+
+Sec. 91.513 Transport category airplanes aural speed warning device.
+
+No person shall operate a transport category airplane in air commerce unless it is equipped with an aural speed warning device which complies with FAR 25.1303(c)(1).
+
+Origin: Sec. 91.49
+
+Changes:
+
+1. Minor changes in the heading and language with no substantive change intended.
+
+Sec. 91.515 Transport category airplanes: pilot heat indication system.
+
+Origin: Sec. 91.50
+
+Changes: None
+
+Sec. 91.517 Turbojet-powered civil airplanes: altitude alerting system or device.
+
+Origin: Sec. 91.51
+
+Changes: None
+
+Sec. 91.519 Turbojet-powered civil airplanes: use of flaps.
+
+Except when necessary for training or certification, the pilot in command of a civil turbojet-powered airplane shall use, as a final flap setting, the minimum certificated landing flap setting set forth in the approved performance information in the Airplane Flight manual for the applicable conditions. However, each pilot in command has the final authority and responsibility for the safe operation of his airplane, and he may use a different flap setting approved for that airplane if he determines that it is necessary in the interest of safety.
+
+Origin: Sec. 91.85(c)
+
+Changes:
+
+1. Deletion of an expired deadline date.
+
+Sec. 91.521 Authorization for ferry with one engine inoperative.
+
+(a) General. An air carrier, commercial operator of large aircraft, or a person operating a large aircraft under Subpart D of this Part [This references Subpart D of present Part 91, not proposed Subpart D] may conduct a ferry flight of a four-engine airplane, or a turbine engine powered airplane equipped with three engines, with one engine inoperative to a base for the purpose of repairing that engine subject to the following:
+
+(The rest is the same as present Sec. 91.45 beginning with Sec. 91.45(a)(1).)
+
+Origin: Sec. 91.45
+
+Changes: 
+
+1. Those operators governed by present Subpart D are included in this privilege.
+
+Sec. 91.523 Sonic boom.
+
+Origin: Sec. 91.55
+
+Changes: None
+
+Sec. 91.525 Increased maximum certificated weights for certain airplanes operated in Alaska.
+
+Origin: Sec. 91.38
+
+Changes: None
+
+Subpart G - Aircraft Maintenance, Inspections, Preventive Maintenance, Alterations, and Equipment Tests.
+
+NOTE - This Subpart incorporates all of the regulations in present Subpart C without substantive changes. The order has been rearranged a little. Also, the provision in present Part 43 that the holder of a private pilot certificate may perform preventive maintenance has been put in this Subpart.
+
+Sec. 91.601 Applicability.
+
+(a) This Subpart prescribes rules governing specific equipment tests, and the maintenance, inspection, preventive maintenance, and alteration of United States registered civil aircraft operating anywhere.
+
+(b) Sections 91.607(a), 91.609, 91.611, 91.613, 91.619, and 91.623 do not apply to an aircraft maintained in accordance with a continuous airworthiness maintenance program as provided in FAR Parts 121, 127 and 135.
+
+Origin: Sec. 91.161
+
+Changes:
+
+1. The term "inspection" is removed from the overall definition of "maintenance" Parts 1 and 43 should be amended accordingly.
+
+2. "Equipment Tests" has been added to the title and in the text of paragraph (a).
+
+3. Minor changes in language with no substantive changes intended.
+
+Sec. 91.603 General.
+
+The owner or operator of an aircraft has the primary responsibility for ensuring that the aircraft is maintained in an airworthy condition, including compliance with required inspections and with the Airworthiness Directives prescribed in FAR Part 39. In addition, he shall ensure that maintenance personnel make appropriate entries in the aircraft and maintenance records indicating the aircraft has been approved for return to service.
+
+Origin: Sec. 91.163(a) and 91.165
+
+Changes:
+
+1. Minor changes in language with no substantive changes intended.
+
+Sec. 91.605 Maintenance and inspections: who may perform.
+
+(a) No person shall perform maintenance, inspections, preventive maintenance, or alterations on an aircraft other than as prescribed in this Subpart and other applicable FAR's including Part 43.
+
+(b) The holder of a pilot certificate issued under FAR Part 61 may perform preventive maintenance on an aircraft on an aircraft he owns or operates which is not used in air carrier service. The items classified as preventive Maintenance are listed in Appendix __ of this Part.
+
+Origin: Sec. 91.163(b) and FAR 43.3(h)
+
+Changes:
+
+1. The authority for a pilot to perform preventive maintenance is brought to Part 91.
+
+2. List of items classified as preventive maintenance is to be added as an appendix to Part 91.
+
+3. Minor changes in language with no substantive changes intended.
+
+Sec. 91.607 Maintenance required.
+
+(a) Repair, Replacement or Overhaul. The aircraft owner operator shall ensure that known unairworthy conditions of that aircraft (including appliances) have been corrected as prescribed in FAR Part 43 before operating, or knowingly permitting any person to operate, that aircraft.
+
+(b) Rotorcraft Maintenance Manual. No person shall operate a rotorcraft for which a Rotorcraft Maintenance Manual containing an "Airworthiness Limitations" section has been issued, unless the replacement times, inspection intervals, and related procedures prescribed in that section of the manual are complied with.
+
+Origin: Sec. 91.165 and 91.163(c)
+
+Changes:
+
+1. The material in paragraph (a) has been reslanted toward maintenance and repair, rather than inspections. Inspection requirements are in proposed Secs. 91.603 and 91.609.
+
+Sec. 91.609 Inspections required.
+
+Origin: Sec. 91.169
+
+Changes: None
+
+Sec. 91.611 Progressive inspections.
+
+Origin: Sec. 91.171
+
+Changes: None
+
+Sec. 91.613 Altimeter system tests and inspections.
+
+Origin: Sec. 91.170
+
+Changes: None, except revoked paragraph (b) should be deleted and paragraph (c) designated (b).
+
+Sec. 91.615 ATC transponder tests and inspections.
+
+(a) Tests Required. No person shall use an ATC transponder in a United States registered civil aircraft unless, within the preceding 24 calendar months, it has been tested and inspected and found to comply with Appendix F of FAR Part 43.
+
+(b) Who may Test and Inspect Transponders.
+
+[The remainder of this section is the same as present Sec. 91.177(b).]
+
+Origin: Sec. 91.177
+
+Changes:
+
+1. A past deadline is deleted.
+
+2. Reference to transponders "specified in Secs. 91.24(a), 121.345(c), 127.123(b) or 135.143(c)" is deleted because present Sec. 91.24 now encompasses all transponders in U.S. registered aircraft.
+
+3. Minor changes in language with no substantive change intended.
+
+Sec. 91.617 Carrying persons after repairs or alterations.
+
+Origin: Sec. 91.167
+
+Changes: None
+
+Sec. 91.619 Maintenance records.
+
+Origin: Sec. 91.173
+
+Changes: None
+
+Sec. 91.621 Rebuilt-engine maintenance records.
+
+Origin: Sec. 91.175
+
+Changes: None
+
+Sec. 91.623 Transfer of maintenance records.
+
+Origin: Sec. 91.174
+
+Changes: None
+
+CROSS REFERENCE
+
+ 
+
+Present Part 91 to Proposed Part 91
+
+ 
+
+Present
+
+ Proposed
+
+ 
+
+91.1(a) & (b) 91.1 
+
+91.1(c) Deleted 
+
+91.2 91.233(d) 
+
+91.3 91.5 
+
+91.4 Deleted 
+
+91.5 (Introductory Sentence) 91.21 
+
+91.5(a) & (b) Deleted 
+
+91.6 91.233(a) 
+
+91.7 91.103 
+
+91.8 91.25 
+
+91.9 91.7(a) 
+
+91.10 91.7(b) 
+
+91.11 91.19 
+
+91.12 Deleted 
+
+91.13 91.127 
+
+91.14 91.105 
+
+91.15(a) & (b) 91.309 
+
+91.15(c), (d) & (e) 91.303(b), (c) & (d) 
+
+91.17 91.311 
+
+91.18 91.313 
+
+91.19 91.17(b) 
+
+91.20 91.1(b)(2) 
+
+91.21 91.307 
+
+91.23 91.209 
+
+91.24(a) Deleted 
+
+91.24(b) & (c) 91.15(d) & 91.141 
+
+91.24(b)(3) Deleted 
+
+91.25 91.207 
+
+91.27(a) 91.9 & 91.27(a) 
+
+91.27(b) Deleted 
+
+91.28 91.27(g) 
+
+91.29 91.11 
+
+91.31(a), (b) & (e) 91.13 
+
+91.31(c) & (d) Deleted 
+
+91.32 91.15(e) 
+
+91.33(a) 91.15(a) & (b), 91.205, 91.407 & 91.409 
+
+91.33(b) & (c) 91.15(b) 
+
+91.33(b)(11) 91.407 
+
+91.33(c)(4) 91.409 
+
+91.33(d) 91.15(b)(3) & 91.205 
+
+91.33(e) 91.205(j) 
+
+91.33(f) 91.233(c) 
+
+91.34 91.233(b) 
+
+91.35 91.405 
+
+91.36 Deleted 
+
+91.37 91.511 
+
+91.38 91.525 
+
+91.39 91.509 
+
+91.40 91.505 
+
+91.41 91.507 
+
+91.42 91.503 
+
+91.43 91.27(b), (c) & (d) 
+
+91.45 91.521 
+
+91.47 91.403 
+
+91.49 91.513 
+
+91.50 91.515 
+
+91.51 91.517 
+
+91.52 91.15(c) 
+
+91.54 Deleted 
+
+91.55 91.523 
+
+91.61 91.101 
+
+91.63 91.23 
+
+91.65(a) & (b) 91.107 
+
+91.65(c) 91.411 
+
+91.65(d) 91.129(c) 
+
+91.67 91.109 
+
+91.69 91.111 
+
+91.70 91.115 
+
+91.71 91.303 
+
+91.73 91.113 
+
+91.75 91.129 
+
+91.77 91.131 
+
+91.79 91.121 
+
+91.81 91.125 
+
+91.83(a) & (d) 91.133 
+
+91.83(b) & (c) 91.211 
+
+91.84 91.135 
+
+91.85(a) 91.137 
+
+91.85(b) Deleted 
+
+91.85(c) 91.519 
+
+91.87 [except (c)] 91.139 
+
+91.87(c) Deleted 
+
+91.89 91.137 
+
+91.90(a) & (b) 91.141 
+
+91.90(c) Deleted 
+
+91.91 91.145(a) & (d) 
+
+91.93 91.305 
+
+91.95 91.143(a) 
+
+91.97 91.143(b) 
+
+91.101 Deleted 
+
+91.102 91.145(b) 
+
+91.103 91.27(e) 
+
+91.104 91.145(c) 
+
+91.105 91.117 
+
+91.107 91.119 
+
+91.109 91.123 
+
+91.115 91.203 
+
+91.116(a), (f), (g) & (h) 91.221(a), (b), (d) & (e) 
+
+91.116(b) & (e)(1) 91.223(b) & (c) 
+
+91.116(c) & (e)(2) Deleted 
+
+91.116(d) 91.225 
+
+91.117(a) 91.221 & 91.223 
+
+91.117(b) 91.223(a) 
+
+91.117(c) 91.221(c) 
+
+91.117(c)(1) through (5) Deleted 
+
+91.119(a) 91.213 
+
+91.119(b) 91.219 
+
+91.121 91.215 
+
+91.123 91.217 
+
+91.125 91.227 
+
+91.127 91.229 
+
+91.129 91.231 
+
+91.161 91.601 
+
+91.163(a) 91.603 
+
+91.163(b) 91.605(a) 
+
+91.163(c) 91.607(b) 
+
+91.165 91.603 & 91.607(a) 
+
+91.167 91.617 
+
+91.169 91.609 
+
+91.170 91.613 
+
+91.171 91.611 
+
+91.173 91.619 
+
+91.174 91.623 
+
+91.175 91.621 
+
+91.177 91.615 
+
+91.181 through 91.219 [Subpart D]. Not included in this proposal 
+
+91.301 through 91.307 [Subpart E]. Not included in this proposal 
+
+Proposed Part 91 to Present Part 91
+
+ 
+
+Proposed
+
+ Present
+
+ 
+
+91.1(a), (b)(1) & (3) 91.1(a) & (b) 
+
+91.1(b)(2) 91.20 
+
+91.3 New 
+
+91.5 91.3 
+
+91.7 91.9 & 91.10 
+
+91.9 91.27(a) 
+
+91.11 91.29 & New 
+
+91.13 91.31(a), (b) & (e) 
+
+91.15(a) & (b) 91.33(a), (b) & (c) 
+
+91.15(c) 91.52 
+
+91.15(d) 91.24 
+
+91.15(e) 91.32 
+
+91.15(f) New 
+
+91.17 91.19 & New 
+
+91.19 91.11 
+
+91.21 91.5 
+
+91.23 91.63 
+
+91.25 91.8 
+
+91.27 91.27, 91.28, 91.43 & 91.103 
+
+91.101 91.61 
+
+91.103 91.7 
+
+91.105 91.14 
+
+91.107 91.65(a) & (b) 
+
+91.109 91.67 
+
+91.111 91.69 
+
+91.113 91.73 
+
+91.115 91.70 
+
+91.117 91.105 
+
+91.119 91.107 
+
+91.121 91.79 
+
+91.123 91.109 
+
+91.125(a) 91.81 
+
+91.125(b) New 
+
+91.127 91.13 
+
+91.129(a), (b), (d) & (e) 91.75 & New 
+
+91.129(c) 91.65(d) 
+
+91.131 91.77 
+
+91.133 91.83(a) & (d) 
+
+91.135 91.84 
+
+91.137(a) 91.85(a) 
+
+91.137(b) 91.89 
+
+91.139 91.87 
+
+91.141 91.90(a) & (b), 91.24(b) & (c) 
+
+91.143 91.95 & 91.97 
+
+91.145 91.91, 91.102 & 91.104 
+
+91.201 New 
+
+91.203 91.115 
+
+91.205 91.33(d) & (e) 
+
+91.207 91.25 
+
+91.209 91.23 
+
+91.211 91.83(a)(9), (b) 
+
+91.213 91.119(a) 
+
+91.215 91.121 
+
+91.217 91.123 
+
+91.219 91.119(b) 
+
+91.221(a), (b), (d) & (e) 91.116(a), (f), (g) & (h) 
+
+91.221(c) 91.117(a) & (c) 
+
+91.223 91.116(b) & (e)(1), & 91.117(a) & (b) 
+
+91.225 91.116(d) 
+
+91.227 91.125 
+
+91.229 91.127 
+
+91.231 91.129 
+
+91.233 91.2, 91.6, 91.33(f) & 91.34 
+
+91.301 New 
+
+91.303 91.15(c), (d) & (e), & 91.71 
+
+91.305 91.93 
+
+91.307 91.21 
+
+91.309 91.15(a) & (b) 
+
+91.311 91.17 
+
+91.313 91.18 
+
+91.401 New 
+
+91.403 91.47 
+
+91.405 91.35 
+
+91.407 91.33(a) & (b)(11) 
+
+91.409 91.33(a) & (c)(4) 
+
+91.411 91.65(c) 
+
+91.501 New 
+
+91.503 91.42 
+
+91.505 91.40 
+
+91.507 91.41 
+
+91.509 91.39 
+
+91.511 91.37 
+
+91.513 91.49 
+
+91.515 91.50 
+
+91.517 91.51 
+
+91.519 91.85(c) 
+
+91.521 91.45 
+
+91.523 91.55 
+
+91.525 91.38 
+
+91.601 91.161 
+
+91.603 91.163(a) & 91.165 
+
+91.605 91.163(b) & 43.3(h) 
+
+91.607 91.163(c) & 91.165 
+
+91.609 91.169 
+
+91.611 91.171 
+
+91.613 91.170 
+
+91.615 91.177 
+
+91.617 91.167 
+
+91.619 91.173 
+
+91.621 91.175 
+
+91.623 91.174 
+
+(Secs. 307, 313(a), 601, 602, 603, 902, 1110 and 1202, Federal Aviation Act of 1958. (49 U.S.C. 1348, 1354(a), 1421, 1422, 1423, 1472, 1510, 1522, sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)).)
+
+ 
+        
+FOOTER: Issued in Washington, D.C. on January 11, 1979.
+
+J. A. Ferrarese,
+
+Acting Director, Flight Standards Service.
+
+[FR Doc. 79-1728 Filed 1-19-79; 8:45 am]
+
+
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of proposed rulemaking (NPRM); Notice No. 79-2A; Issued on 7/27/81.
+
+Notice of extension of comment period; Notice No. 79-2B; Issued on 12/7/81.
+
+Notice of proposed rulemaking (NPRM); Notice No. 79-2C; Issued on 12/13/84.

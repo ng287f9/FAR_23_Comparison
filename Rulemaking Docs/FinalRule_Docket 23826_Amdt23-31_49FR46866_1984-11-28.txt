@@ -1,0 +1,136 @@
+FINAL RULES: 23-31
+
+ 
+ 
+        
+CITATION: [Federal Register: November 28, 1984 (Volume 49, Number 230)]
+
+ 
+        
+PAGE NUMBER: [Page 46866]
+
+ 
+        
+DOCKET NUMBER: 23826
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Airworthiness Standards; Normal, Utility and Acrobatic Category Airplanes
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: This amendment revises the airworthiness standards for single-engine, turbopropeller-powered airplanes to include whirl mode instability analysis and test as one of the dynamic evaluations associated with freedom from flutter, control reversal, and divergence. Single-engine, turbopropeller-powered airplanes are now being manufactured, and such dynamic evaluations are necessary in the interest of safety. This amendment establishes a level of safety for powerplant installations in single-engine, turbopropeller-powered airplanes consistent with that established for multiengine, turbopropeller-powered airplanes.
+
+ 
+        
+DATES: EFFECTIVE DATE: December 28, 1984.
+
+ 
+        
+EFFECTIVE DATE: 1984-12-28
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: William L. Olson, Regulations and Policy Office (ACE-110), Aircraft Certification Division, Central Region, Federal Aviation Administration, 601 East 12th Street, Kansas City, Missouri 64106; telephone (816) 374-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+ Propeller whirl flutter is an aeroelastic instability that can occur in an airplane with a flexible engine installation.
+
+ Turbopropeller installations are becoming increasingly common on single-engine airplanes, and a turbopropeller, wherever installed on an airplane, can exhibit unstable oscillatory motion resulting from combined aerodynamic, inertial, and gyroscopic modes. Special conditions have been issued to cover these requirements for single-engine airplanes with turbopropeller engines. This amendment adopts the dynamic stability evaluation now required for multiengine small airplanes to include single-engine, turbopropeller-powered airplanes.
+
+ Because of their unique characteristics, turbopropeller engine installations require special consideration. If damping and aerodynamic forces are not considered and the structure allows angular deflections, the spinning propeller could behave like a gyroscopic pendulum. For example, if the system were released from an initial pitch deflection, the resulting angular velocity as the system springs back would induce a gyroscopic moment about the yaw axis. This moment would, in turn, cause the system to yaw, including a pitching moment, and so on. Significantly, in a flexible system, gyroscopic action of the rotating propeller couples with natural pitch and yaw modes causing a precession motion about the axis of the undisturbed system. This gyroscopic action by itself cannot lead to a divergent type whirl mode instability because the net energy input to the system is zero. However, when the resultant air stream is misaligned from the propeller rotation axis due to an angular displacement or a transverse liner velocity of the propeller axis, certain forces and moments are generated. For example, if the axis is deflected in pitch, a vertical lift force together with a yawing moment is developed by the propeller, which, for small deflections, is proportional to the pitch angle.
+
+ On a typical conversion from reciprocating to turbopropeller propulsion in a single-engine airplane, the lighter weight powerplant is usually moved forward to maintain the center of gravity between established limits. While the new longer engine mount could meet requirements for engine support, thrust, and torque loads, it could be more flexible than the structure it replaced, to the point where propeller whirl flutter could occur.
+
+ In like manner, the fuselage of a new single-engine, tractor, turbopropeller airplane could be slimmed in profile to accommodate a smaller frontal area engine, lightened in structure to support less engine weight, and made rigid enough to absorb engine thrust and torque loads. At the same time, the fuselage could be too flexible to prevent propeller whirl mode flutter.
+
+ Another area in which flutter evaluation is of concern to the FAA is the empennage of single-engine, pusher, turbopropeller-powered airplanes. Several new airplanes of this type are now under development, and in this configuration, empennage motion may be influenced by loads from the propeller as significantly as wing motion is influenced in multiengine, turbopropeller airplanes.
+
+ The wording of Sec. 23.629(e)(2) of the FAR, "Engine-propeller nacelle stiffness" placed undue emphasis on engine mount and propeller hub flexibility with regard to the whirl mode analysis. In actuality, the airplane normal modes include airplane flexibility as well as flexibilities associated with the powerplant installation. Also, the word "nacelle" in Sec. 23.629(e)(2) implied stiffness in an engine enclosure whose main purpose is reducing drag. Accordingly, amended Sec. 23.629(e)(2) resolves this ambiguity by referring to propeller, engine, engine mount and airplane structure stiffness for the required dynamic evaluation.
+
+ Section 23.629(e) limited whirl mode requirements to multiengine, turbopropeller-powered airplanes. Accordingly, amended Sec. 23.629(e) includes all turbopropeller-powered airplanes.
+
+Discussion of Comments
+
+ The FAA received three public comments in response to Notice No. 84-2 (49 FR 10622; March 21, 1984), and all concurred with the proposal.
+
+Economic Evaluation
+
+ In compliance with Executive Order 12291 (46 FR 13193, February 19, 1981), the FAA has determined that this amendment will not be a major rule having an annual effect on the economy of $100 million or more. The last applicant who complied with the whirl mode Special Conditions reported that the cost was less than 10,000 dollars. This is a one time cost for an engine installation approval. The amendment will not result in a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions. This final rule will not have significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of the U.S.- based enterprises to compete with foreign-based enterprises in domestic or export markets.
+
+Regulatory Flexibility Act
+
+ In addition to the reasons discussed earlier, the regulatory impact of showing compliance with this requirement is minimal in that the whirl mode evaluation only has to be conducted once for a specific airplane model, and the expected cost is less than that considered significant on an annual basis. In addition, the amendment is not expected to have subsequent secondary or incidental effects on a substantial number of small entities. Since this amendment will not have a significant impact on a substantial number of small entities, a Regulatory Flexibility Analysis has not been prepared.
+
+Conclusion
+
+ The FAA has determined that this amendment is not a major rule under the provisions of Executive Order 12291, and is not significant under the provisions of the Department of Transportation Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). For the reasons discussed earlier, the FAA certifies that the amendment will not have a significant economic impact on a substantial number of small entities under provisions of the Regulatory Flexibility Act. In addition, this amendment will have little or no impact on trade opportunities for U.S. firms doing business overseas, or for foreign firms doing business in the United States. The draft evaluation prepared for this action is contained in the regulatory docket. A copy of it may be obtained by contacting the person under the caption "FOR FURTHER INFORMATION CONTACT."
+
+List of Subjects in 14 CFR Part 23
+
+ Aircraft, Aviation safety, Air transportation, Safety, Tires.
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendment
+
+ Accordingly, Part 23 of the Federal Aviation Regulations (14 CFR Part 23) is amended, as follows:
+
+Part 23 - Airworthiness Standards: Normal, Utility, and Acrobatic Category Airplanes
+
+ 1. By amending Sec. 23.829 by revising the introductory text of paragraph (e) and the text of paragraph (e)(2) to read as follows:
+
+Sec. 23.629 Flutter.
+
+* * * * *
+
+(e) For turbopropeller-powered airplanes, the dynamic evaluation must include -
+
+(1) * * *
+
+(2) Propeller, engine, engine mount, and airplane structure stiffness and damping variations appropriate to the particular configuration.
+
+* * * * *
+
+(Secs. 313(a), 601 and 603 of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1354(a), 1421 and 1423); and 49 U.S.C. 108(g) (Revised Public L. 97-449, January 12, 1983))
+
+ 
+        
+FOOTER: Issued in Washington, D.C., on November 2, 1984.
+
+Donald D. Engan,
+
+Administrator.
+
+[FR Doc. 34-31087 Filed 11-27-84; 8:45 am]
+
+BILLING CODE 4010-13-M
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 84-2; Issued on 11/18/83.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

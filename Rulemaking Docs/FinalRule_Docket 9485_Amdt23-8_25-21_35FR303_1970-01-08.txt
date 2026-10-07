@@ -1,0 +1,142 @@
+FINAL RULES: 23-8|25-21
+
+ 
+ 
+        
+CITATION: [Federal Register: January 8, 1970 (Volume 35, Number 5)]
+
+ 
+        
+PAGE NUMBER: [Page 303]
+
+ 
+        
+DOCKET NUMBER: 9485
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25
+
+ 
+        
+SUBJECT HEADING: Maintenance Manual Requirements.
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of these amendments to Part 23 and 25 of the Federal Aviation Regulations is to provide maintenance manuals for airplanes type certificated under Parts 23 and 25 of the Federal Aviation Regulation.
+
+ 
+        
+DATES: EFFECTIVE DATE: This rule becomes effective February 5, 1970.
+
+ 
+        
+EFFECTIVE DATE: 1970-02-05
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: These amendments, together with proposed amendments to Parts 1, 43, and 91, which would provide a definition of the term "rebuild" and establish performance standards for such work, were proposed in Notice 69-10 issued on March 14, 1969 (34 F.R. 5440). Numerous comments were received in response to the notice. In view of comments received concerning the proposed amendments to Parts 1, 43, and 91, the FAA has determined that these proposals require further study prior to final rule making action. However, the FAA does not believe that the adoption of the maintenance manual requirements should be delayed.
+
+ With regard to the proposed requirement that the airplane manufacturer make maintenance manuals available to the owner at the time of delivery of the airplane, most commentators gave wholehearted support to the proposal; however, several comments stated that manufacturers do make maintenance manuals available and therefore the proposed requirement is unnecessary. The FAA is aware that some manufacturers provide or make available manuals containing maintenance information, however, the FAA is not aware that all manufacturers make all the information considered essential for proper maintenance available at the time of delivery of an airplane. Furthermore, there are no standards prescribing the minimum content, distribution, and time the information must be available to the person who needs it. The majority of airplanes built today, both large and small, are more complex than those built in the past. New materials and new fabrication methods are being used and sophisticated equipment is being installed; all of which require maintenance instructions and techniques which are not common knowledge or used on older airplanes. The FAA recognizes that maintenance practices and requirements are not static and may change as information is developed during the service life of an airplane. Nevertheless, the information contained in the manual will increase the likelihood of satisfactory maintenance during the earliest stages of operation of the airplane.
+
+ Several comments expressed concern that the issuance of a type certificate for the airplane would be withheld pending the production of the maintenance manual and its approval by the FAA. However, it should be clearly understood that the rule merely requires the manual to be available to the owner at the time of delivery of an airplane and that it need contain only that information which the manufacturer considers essential for proper maintenance. It was not intended that the manufacturer had to supply each of the items listed unless he considers such information essential for proper maintenance. To remove any possible confusion in this regard, proposed Secs. 23.1529 and 25.1529 have been revised to make it clear that the manufacturer must consider the listed items in determining the information essential for proper maintenance of his airplane.
+
+ A number of comments recommended that the criteria established in Air Transport Association of America Specification for Manufacturer's Technical Data, ATA Specification No. 100, be required to be used in preparing maintenance manuals. The FAA believes that the manufacturer of the airplane is in the best position to determine the maintenance requirements for his airplane, and that the form of the manual as well as the information contained therein, should be left to the discretion of the manufacturer. Thus, a manufacturer may use the format and indexing specified in ATA Specification No. 100 in preparing his maintenance manual as long as he considers those items listed in the regulation is preparing his manual.
+
+ One comment suggested that the maintenance manual requirement should be made retroactive. Such a requirement is beyond the scope of Notice 69-10 and therefore is not appropriately a part of this rulemaking action. As previously pointed out, some manufacturers' maintenance information has been voluntarily supplied in the past; however, because of the increasing complexity and sophistication of the new airplane designs, the FAA now considers it necessary to require maintenance manuals.
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendments: In consideration of the foregoing, Parts 23 and 25 of the Federal Aviation Regulations are hereby amended, effective February 5, 1970, as follows:
+
+Part 23.1. Part 23 is amended by adding a new Sec. 23.1529 following Sec. 23.1525 and before the center title heading "Markings and Placards" to read as follows:
+
+Sec. 23.1529 Maintenance Manual.
+
+A maintenance manual containing the information that the applicant considers essential for proper maintenance must be made available to the owner at the time of delivery of the airplane. The applicant must consider at least the following in developing the essential information:
+
+(a) Description of systems such as electrical, hydraulic, fuel controls, etc.
+
+(b) Lubrication instructions setting forth the frequency and the lubricants and fluids which are to be used in the various systems.
+
+(c) Pressures and electrical loads applicable to the various systems.
+
+(d) Tolerances and adjustments necessary for proper functioning of the airplane.
+
+(e) Methods of leveling, raising, and towing.
+
+(f) Methods of balancing control surfaces.
+
+(g) Identification of primary and secondary structures.
+
+(h) Frequency and extent of inspections necessary for proper maintenance of the airplane.
+
+(i) Special repair methods applicable to the airplane.
+
+(j) Special inspection techniques such as X-ray, ultrasonic, magnetic particle inspection, etc.
+
+(k) List of special tools
+
+Part 25.2. Part 25 is amended by adding a new Sec. 25.1529 to read as follows:
+
+Sec. 25.1529 Maintenance Manual.
+
+A maintenance manual containing the information that the applicant considers essential for proper maintenance must be made available to the owner at the time of delivery of the airplane. The applicant must consider at least the following in developing the essential information:
+
+(a) Description of systems such as electrical, hydraulic, fuel controls, etc.
+
+(b) Lubrication instructions setting forth the frequency and the lubricants and fluids which are to be used in the various systems.
+
+(c) Pressures and electrical loads applicable to the various systems.
+
+(d) Tolerances and adjustments necessary for proper functioning of the airplane.
+
+(e) Methods of leveling, raising, and towing.
+
+(f) Methods of balancing control surfaces.
+
+(g) Identification of primary and secondary structures.
+
+(h) Frequency and extent of inspections necessary for proper maintenance of the airplane.
+
+(i) Special repair methods applicable to the airplane.
+
+(j) Special inspection techniques such as X-ray, ultrasonic, magnetic particle inspection, etc.
+
+(k) List of special tools.
+
+(Sec. 313(a), 601, and 603, Federal Aviation Act of 1958, 49 U.S.C. 1354(a), 1421, and 1423; Sec. 6(c), Department of Transportation Act, 49 U.S.C. 1655(c))
+
+ 
+        
+FOOTER: Issued in Washington, DC, on December 31, 1969.
+
+D.D. Thomas,
+
+Acting Administrator.
+
+[FR Doc. 70-237 Filed 1-7-70; 8:46 am]
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 69-10; Issued on 03/14/69.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

@@ -1,0 +1,1001 @@
+[[Page 1]]
+Federal Register / Vol. 74,
+State education agencies that administer
+child nutrition programs and with
+organizations representing State and
+local inspection agencies. These
+discussions provided FNS an
+opportunity to inform State and local
+officials about the new inspection
+requirement and to hear their concerns.
+FNS also issued an interim rule to
+solicit pubic comments.
+Nature of Concerns and Need To Issue
+This Rule
+The main concern of the State and
+local program operators and inspection
+agencies is the cost associated with the
+increased inspection requirement. Some
+schools now have to pay or pay more for
+the food safety inspections, and some
+inspection agencies have limited staff to
+handle the increased inspection load.
+Although we are aware that compliance
+with this requirement may still be
+difficult in some areas, it is our
+responsibility to implement these
+mandatory statutory requirements
+which are non-discretionary.
+Extent to Which FNS Meets Those
+Concerns
+FNS has considered the comments
+and suggestions offered by State and
+local program operators, inspection
+agencies and others, but we are unable
+to make changes that are inconsistent
+with the inspection requirement as
+prescribed by the law. We will continue
+to provide information and guidance to
+those affected by this rule and to
+encourage regulatory agencies to help
+schools comply with this rule.
+To minimize the impact of this rule,
+FNS will continue to apply the
+inspections requirement to preparation
+and service sites rather than to
+individual meal programs (NSLP and
+SBP). FNS will allow inspections
+performed under the Summer Food
+Service Program and the Child and
+Adult Care Food Program to count
+toward this requirement if all the meal
+programs use the same food service
+facility.
+Executive Order 12988
+This rule has been reviewed under
+Executive Order 12988, Civil Justice
+Reform. This rule has a preemptive
+effect with respect to any State or local
+laws, regulations or policies which
+conflict with its provisions or which
+would otherwise impede its full
+implementation. This rule is not
+RULES intended to have retroactive effect
+with unless so specified in the Effective Date
+DSK5CLS3C1PROD paragraph provisions, of all this applicable rule. Prior administrative to any
+judicial challenge to the provisions of
+this rule or the application of its
+on
+erowe VerDate Nov<24>2008 15:07 Sep 01, 2009 Jkt 217001 PO
+No. 169 / Wednesday, September 2, 2009
+procedures under section 210.18(q)
+must be exhausted.
+Civil Rights Impact Analysis
+FNS has reviewed this final rule in
+accordance with the Department
+Regulation 4300–4, ‘‘Civil Rights Impact
+Analysis,’’ to identify any major civil
+rights impacts the rule might have on
+children on the basis of race, color,
+national origin, sex, age or disability.
+After a careful review of the rule’s intent
+and provisions, FNS has determined
+that it does not affect the participation
+of protected individuals in the National
+School Lunch and School Breakfast
+Programs.
+Paperwork Reduction Act
+The Paperwork Reduction Act of 1995
+(44 U.S.C. Chap. 35, see 5 CFR part
+1320) requires that OMB approve all
+collections of information by a Federal
+agency from the public before they can
+be implemented. Respondents are not
+required to respond to any collection of
+information unless it displays a current
+valid OMB control number. The
+information collection requirements
+associated with this action were
+approved by the Office of Management
+and Budget on May 29, 2009 under
+OMB Control Number 0584–0006,
+Expiration date May 31, 2012, which
+contains the information collection
+activities in the NSLP.
+The entire School Food Safety
+Inspection data collection burden for
+both NSLP and SBP operators is
+contained only in OMB Control Number
+0584–0006 and not the SBP (OMB
+Control Number 2, Expiration May 31,
+2012) because the NSLP is a larger
+nutrition program and food safety
+inspections conducted in the NSLP
+count toward the inspection
+requirement in both meal programs. The
+burden hours estimate provided in the
+notice of proposed information
+collection published on May 12, 2005
+(70 FR 25014) has increased from
+9,483,231 to 9,558,282 due to an
+adjustment in the number of School
+Food Authorities and schools
+participating in the NSLP and SBP.
+E-Government Act Compliance
+FNS is committed to compliance with
+the E-Government Act (E-Gov), 2002
+which requires Government agencies to
+provide the public the option of
+submitting information or transacting
+business electronically to the maximum
+extent possible. FNS has requested that
+State agencies submit electronically the
+inspections report required by this rule.
+00000 Frm 00003 Fmt 4700 Sfmt 4700 E:\FR\FM\02SER1.SGM
+/ Rules and Regulations 45307
+Public Participation
+In Section 501(b) of Public Law 108–
+265, Congress specifically afforded the
+Secretary the option to implement the
+inspections requirement through an
+interim rule, while soliciting public
+comments. State and local program
+operators and inspection agencies
+commented on the interim rule
+published in the Federal Register (70
+FR 34627) on June 15, 2005.
+List of Subjects
+7 CFR Part 210
+Food and Nutrition Service, Grant
+programs—education, Grant programs—
+health, Infants and children, Nutrition,
+Penalties, Reporting and recordkeeping
+requirements, School breakfast and
+lunch programs, Surplus agricultural
+commodities.
+7 CFR Part 220
+Food and Nutrition Service, Grant
+programs—education, Grant programs—
+health, Infants and children, Nutrition,
+Reporting and recordkeeping
+requirements, School breakfast and
+lunch programs.
+Accordingly, the interim rule that was
+published at 70 FR 34627 on June 15,
+2005 amending 7 CFR parts 210 and 220
+is adopted as a final rule without
+changes.
+Dated: August 24, 2009.
+Julia Paradis,
+Administrator, Food and Nutrition Service.
+[FR Doc. E9–21133 Filed 9–1–09; 8:45 am]
+BILLING CODE 3410–30–P
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Parts 1 and 33
+[Docket No. 2007–28502; Amendment No.
+1–65, 33–30]
+RIN 2120–AJ06
+Airworthiness Standards; Aircraft
+Engine Standards Overtorque Limits
+AGENCY: Federal Aviation
+Administration (FAA), DOT.
+ACTION: Final rule.
+SUMMARY: This rule will amend the
+certification standards for aircraft
+engines to establish requirements for
+approval of maximum engine
+overtorque. Specifically, this action will
+add a new engine overtorque test,
+amend engine ratings and operating
+limits, and define maximum engine
+overtorque for certain turbopropeller
+and turboshaft engines. The rule will
+02SER1
+
+[[Page 2]]
+45308 Federal Register / Vol. 74,
+harmonize applicable United States
+(U.S.) and European standards and
+simplify airworthiness approvals for
+import and export of aircraft engines.
+DATES: This amendment becomes
+effective November 2, 2009.
+FOR FURTHER INFORMATION CONTACT: For
+technical questions concerning this final
+rule contact Tim Mouzakis, Engine and
+Propeller Directorate, Standards Staff,
+ANE–110, Federal Aviation
+Administration (FAA), New England
+Region, 12 New England Executive Park,
+Burlington, Massachusetts 01803;
+telephone (781) 238–7114; facsimile
+(781) 238–7199; electronic mail
+‘‘Timoleon.Mouzakis@faa.gov.’’
+SUPPLEMENTARY INFORMATION:
+Authority for This Rulemaking
+The FAA’s authority to issue rules on
+aviation safety is found in Title 49 of the
+United States Code. Subtitle I, section
+106 describes the authority of the FAA
+Administrator. Subtitle VII, Aviation
+Programs, describes in more detail the
+scope of the agency’s authority.
+This rulemaking is promulgated
+under the authority described in subtitle
+VII, part A, subpart III, section 44701,
+‘‘General requirements.’’ Under that
+section, the FAA is charged with
+promoting safe flight of civil aircraft in
+air commerce by prescribing regulations
+for practices, methods, and procedures
+the Administrator finds necessary for
+safety in air commerce, including
+minimum safety standards for aircraft
+engines. This regulation is within the
+scope of that authority because it
+updates the existing regulations for
+aircraft engine standards overtorque
+limits.
+Background
+Part 33 of Title 14, Code of Federal
+Regulations (14 CFR part 33) prescribes
+airworthiness standards for original and
+amended type certificates for aircraft
+engines. The European Aviation Safety
+Agency (EASA) Certification
+Specification—Engines (CS–E)
+prescribes corresponding airworthiness
+standards to certify aircraft engines in
+Europe. While part 33 and the CS–E are
+similar, they differ in several respects.
+These differences result in added costs,
+delays, and time required for
+certification. In addition, U.S. aircraft
+engine manufacturers face additional
+costs when seeking certification of their
+RULES engine CS–E contains designs specific by the EASA standards for export. for
+with approval of maximum overtorque limits.
+DSK5CLS3C1PROD manufacturers Currently, part apply 33 does for and not obtain contain FAA
+explicit standards for a maximum
+engine overtorque limit. Engine
+on
+erowe VerDate Nov<24>2008 15:07 Sep 01, 2009 Jkt 217001 PO
+No. 169 / Wednesday, September 2, 2009
+approvals of maximum overtorque
+limits based on the results of
+certification engine tests and analysis
+that do not directly address
+considerations for maximum overtorque
+limits.
+The FAA tasked the Aviation
+Rulemaking Advisory Committee
+(ARAC), through its Engine
+Harmonization Working Group (EHWG),
+to provide advice and recommendations
+on proposed standards for engine
+overtorque. We published that tasking
+in the Federal Register on October 20,
+1998 (63 FR 56059). This final rule is
+based on ARAC’s recommendations.
+Summary of the NPRM
+The FAA published a notice of
+proposed rulemaking (NPRM) on March
+26, 2008 (73 FR 15955). The proposal
+adds a new definition to § 1.1, changes
+to § 33.7, and introduces § 33.84. These
+proposed changes would add a new
+engine overtorque test, amend engine
+ratings and operating limitations, and
+define maximum engine overtorque for
+certain turbopropeller and turboshaft
+engines. The proposal would harmonize
+U.S. and European standards for
+approving engine overtorque transients
+for turbopropeller and turboshaft
+engines with free power turbines. The
+comment period closed June 24, 2008.
+Summary of Comments
+The FAA received four comment
+letters, one from a British engine
+manufacturer (Rolls-Royce Corporation),
+one from a foreign regulatory authority
+(Transport Canada), and two from law
+students at the University of Central
+Missouri. All four comment letters
+support the general intent of the
+proposed rule. However, Transport
+Canada raised specific concerns that
+were addressed by clarifying revisions
+to proposed §§ 33.7 and 33.84. A
+detailed discussion of changes to the
+final rule is presented below.
+Discussion of the Final Rule
+The final rule establishes a standard
+for applicants to use when applying for
+and obtaining approval of a maximum
+engine overtorque limit. This rule
+harmonizes FAA and EASA standards
+and simplifies airworthiness approvals
+for the import and export of
+turbopropeller and turboshaft engines
+with free power turbines. The rule also
+improves safety by stating clear
+requirements for maximum engine
+overtorque limits.
+Below are specific comments from
+Transport Canada and our responses to
+them.
+1. The approach proposed, to seek an
+‘‘approval’’ for overtorque, is
+00000 Frm 00004 Fmt 4700 Sfmt 4700 E:\FR\FM\02SER1.SGM
+2009 / Rules and Regulations
+inconsistent with the approach used for
+‘‘overspeed’’ and ‘‘overtemperature’’.
+Transport Canada suggested the
+approach for ‘‘overtorque’’ be similar to
+‘‘overspeed’’ and ‘‘overtemperature’’.
+We do not agree. Overspeed and
+overtemperature are transients which
+are approved when they occur during
+normal engine operation, e.g., a short
+duration transient exceedance of a
+rating (speed, temperature, or torque) as
+the engine stabilizes at a new operating
+condition following an acceleration. As
+proposed in the NPRM, the ‘‘maximum
+engine overtorque’’ is optional to the
+applicant. This optional operating
+condition is not an approved transient,
+but an ‘‘over limit’’ condition which
+may occur due to a failure. The
+applicant can choose whether to declare
+any maximum engine overtorque.
+However, to ensure the regulation is
+clear, we have revised proposed § 33.7
+to clarify that engine ratings and
+operating limitations include both the
+existing transient engine overtorque and
+the new maximum engine overtorque
+‘‘over limit’’. We also revised
+§ 33.87(a)(8) to clarify the requirement
+applies to all transient functions,
+including engine overtorque. This
+makes clear that transient engine
+overtorque is addressed in § 33.87(a)(8)
+and maximum engine overtorque in
+§ 33.84.
+2. The definition of ‘‘Maximum
+engine overtorque’’ in § 1.1 is not
+necessary since part 33 does not have
+similar definitions for ‘‘overspeed’’ or
+‘‘overtemperature’’.
+The FAA does not agree. Overspeed
+and overtemperature in part 33 are
+transient events and part of the normal
+operation of the engine as defined in the
+type design. Maximum engine
+overtorque is an ‘‘over limit’’ condition
+that could last up to 20 seconds and is
+a result of some failure. A definition in
+§ 1.1 is necessary as maximum engine
+overtorque is unique in its application
+to turbopropeller and turboshaft
+engines. Explanation is required to
+define the context in which this
+condition would apply and specific
+exclusions related to it. Transient
+overspeed and overtemperature are
+general and well understood terms used
+widely throughout part 33. No
+maintenance action is necessary by the
+aircraft operator provided the cause of
+the failure is corrected, and the engine
+meets the new maximum engine
+overtorque limit requirement.
+3. The proposed § 33.84 overtorque
+test requirement should be independent
+from the § 33.87 endurance test
+requirement. Transport Canada also
+proposed the overtorque test
+requirement be at least 10% torque over
+02SER1
+
+[[Page 3]]
+Federal Register / Vol. 74,
+the highest torque limit for any rating
+longer than 2 minutes.
+We agree, in part, that the overtorque
+and endurance tests may be performed
+separately. However, we did not set an
+overtorque limit because it is the
+applicant’s responsibility to decide the
+maximum engine overtorque for the
+engine.
+Lastly, we made a clarifying change to
+wording in the first sentence of
+§ 33.84(b)(4). This change did not alter
+our intent or the meaning of the
+proposed regulation.
+Paperwork Reduction Act
+The Paperwork Reduction Act of 1995
+(44 U.S.C. 3507(d)) requires the FAA to
+consider the impact of paperwork and
+other information collection burdens
+imposed on the public. We have
+determined that there are no new
+information collection requirements
+associated with this amendment.
+International Compatibility
+In keeping with U.S. obligations
+under the Convention on International
+Civil Aviation, it is FAA policy to
+comply with International Civil
+Aviation Organization (ICAO) Standards
+and Recommended Practices to the
+maximum extent practicable. The FAA
+has reviewed the corresponding ICAO
+Standards and Recommended Practices
+and determined there are no differences
+with these regulations.
+Regulatory Evaluation Summary
+Regulatory Evaluation, Regulatory
+Flexibility Determination, International
+Trade Assessment, and Unfunded
+Mandates Assessment
+Changes to Federal regulations must
+undergo several economic analyses.
+First, Executive Order 12866 directs that
+each Federal agency shall propose or
+adopt a regulation only upon a reasoned
+determination that the benefits of the
+intended regulation justify its costs.
+Second, the Regulatory Flexibility Act
+of 1980 (Pub. L. 96–354) requires
+agencies to analyze the economic
+impact of regulatory changes on small
+entities. Third, the Trade Agreements
+Act (Pub. L. 96–39) prohibits agencies
+from setting standards that create
+unnecessary obstacles to the foreign
+commerce of the United States. In
+developing U.S. standards, this Trade
+Act requires agencies to consider
+international standards and, where
+RULES appropriate, that they be the basis of
+with U.S. standards. Fourth, the Unfunded
+DSK5CLS3C1PROD Mandates and other effects Reform of Act proposed of 1995 or (Pub. final L.
+104–4) requires agencies to prepare a
+written assessment of the costs, benefits,
+on
+erowe VerDate Nov<24>2008 15:07 Sep 01, 2009 Jkt 217001 PO
+No. 169 / Wednesday, September 2, 2009
+rules that include a Federal mandate
+likely to result in the expenditure by
+State, local, or tribal governments, in the
+aggregate, or by the private sector, of
+$100 million or more annually (adjusted
+for inflation with base year of 1995).
+This portion of the preamble
+summarizes the FAA’s analysis of the
+economic impacts of this final rule.
+Department of Transportation Order
+DOT 2100.5 prescribes policies and
+procedures for simplification, analysis,
+and review of regulations. If the
+expected cost impact is so minimal that
+a proposed or final rule does not
+warrant a full evaluation, this order
+permits that a statement to that effect
+and the basis for it be included in the
+preamble if a full regulatory evaluation
+of the cost and benefits is not prepared.
+Such a determination has been made for
+this final rule. The reasoning for this
+determination follows:
+This final rule coordinates FAA
+engine requirements with existing
+EASA engine requirements that
+manufacturers must currently meet in
+order for their engines to be used in
+European operations. Consequently, this
+rule will allow engine manufacturers to
+meet one requirement rather than
+separate requirements for FAA/EASA
+certification. There were no public
+comments on the economic impact of
+the NPRM. As a result, the expected
+outcome will be a minimal impact with
+positive net benefits.
+A regulatory evaluation was not
+prepared. This final rule incorporates
+existing certification practices, while
+maintaining the existing level of safety.
+The benefits of this rule justify the costs
+and the existing level of safety will be
+preserved. The Office of Management
+and Budget has determined that this
+final rule is a ‘‘significant regulatory
+action’’ because it harmonizes U.S.
+aviation standards with those of other
+civil aviation authorities.
+Regulatory Flexibility Determination
+The Regulatory Flexibility Act of 1980
+(Pub. L. 96–354) (RFA) establishes ‘‘as a
+principle of regulatory issuance that
+agencies shall endeavor, consistent with
+the objectives of the rule and of
+applicable statutes, to fit regulatory and
+informational requirements to the scale
+of the businesses, organizations, and
+governmental jurisdictions subject to
+regulation. To achieve this principle,
+agencies are required to solicit and
+consider flexible regulatory proposals
+and to explain the rationale for their
+actions to assure that such proposals are
+given serious consideration.’’ The RFA
+covers a wide-range of small entities,
+including small businesses, not-for-
+00000 Frm 00005 Fmt 4700 Sfmt 4700 E:\FR\FM\02SER1.SGM
+2009 / Rules and Regulations 45309
+profit organizations, and small
+governmental jurisdictions.
+Agencies must perform a review to
+determine whether a rule will have a
+significant economic impact on a
+substantial number of small entities. If
+the agency determines that it will, the
+agency must prepare a regulatory
+flexibility analysis as described in the
+RFA. However, if an agency determines
+that a rule is not expected to have a
+significant economic impact on a
+substantial number of small entities,
+section 605(b) of the RFA provides that
+the head of the agency may so certify
+and a regulatory flexibility analysis is
+not required. The certification must
+include a statement providing the
+factual basis for this determination, and
+the reasoning should be clear.
+We stated in the initial Regulatory
+Flexibility Analysis that we believed the
+rule would be a cost-relieving rule as it
+harmonizes with the EASA aviation
+regulations. We received no comments
+to the contrary.
+Therefore, as the FAA Administrator,
+I certify that this rule will not have a
+significant economic impact on a
+substantial number of small entities.
+International Trade Analysis
+The Trade Agreements Act of 1979
+(Pub. L. 96–39), as amended by the
+Uruguay Round Agreements Act (Pub.
+L. 103–465), prohibits Federal agencies
+from establishing any standards or
+engaging in related activities that create
+unnecessary obstacles to the foreign
+commerce of the United States.
+Pursuant to these Acts, the
+establishment of standards is not
+considered an unnecessary obstacle to
+the foreign commerce of the United
+States, so long as the standards have a
+legitimate domestic objective, such as
+the protection of safety, and do not
+operate in a manner that excludes
+imports that meet this objective. The
+statute also requires consideration of
+international standards and, where
+appropriate, that they be the basis for
+U.S. standards. This rule uses
+international standards as the basis for
+regulation and thus is consistent with
+the Trade Agreements Act.
+Unfunded Mandates Assessment
+Title II of the Unfunded Mandates
+Reform Act of 1995 (Pub. L. 104–4)
+requires each Federal agency to prepare
+a written statement assessing the effects
+of any Federal mandate in a proposed or
+final agency rule that may result in an
+expenditure of $100 million or more (in
+1995 dollars) in any one year by State,
+local, and tribal governments, in the
+aggregate, or by the private sector; such
+a mandate is deemed to be a ‘‘significant
+02SER1
+
+[[Page 4]]
+45310 Federal Register / Vol. 74,
+regulatory action.’’ The FAA currently
+uses an inflation-adjusted value of
+$136.1 million in lieu of $100 million.
+This final rule does not contain such a
+mandate, therefore, the requirements of
+Title II of the Act do not apply.
+Executive Order 13132, Federalism
+The FAA has analyzed this proposed
+rule under the principles and criteria of
+Executive Order 13132, Federalism. We
+determined that this action will not
+have a substantial direct effect on the
+States, on the relationship between the
+Federal Government and the States, or
+on the distribution of power and
+responsibilities among the various
+levels of government, and, therefore,
+does not have federalism implications.
+Environmental Analysis
+FAA Order 1050.1E identifies FAA
+actions that are categorically excluded
+from preparation of an environmental
+assessment or environmental impact
+statement under the National
+Environmental Policy Act in the
+absence of extraordinary circumstances.
+The FAA has determined this
+rulemaking action qualifies for the
+categorical exclusion identified in
+Chapter 3, paragraph 312d, and involves
+no extraordinary circumstances.
+Regulations That Significantly Affect
+Energy Supply, Distribution, or Use
+The FAA has analyzed this final rule
+under Executive Order 13211, Actions
+Concerning Regulations That
+Significantly Affect Energy Supply,
+Distribution, or Use (May 18, 2001). We
+have determined that it is not a
+‘‘significant energy action’’ under the
+executive order, and is not likely to
+have a significant adverse effect on the
+supply, distribution, or use of energy.
+Availability of Rulemaking Documents
+You can get an electronic copy of
+rulemaking documents using the
+Internet by—
+1. Searching the Federal eRulemaking
+Portal (http://www.regulations.gov);
+2. Visiting the FAA’s Regulations and
+Policies Web page at http://
+www.faa.gov/regulations_policies/; or
+3. Accessing the Government Printing
+Office’s Web page at http://
+www.gpoaccess.gov/fr/index.html.
+You can also get a copy by sending a
+request to the Federal Aviation
+Administration, Office of Rulemaking,
+RULES ARM–1, SW., Washington, 800 Independence DC 20591, Avenue, or by
+with calling (202) 267–9680. Make sure to
+DSK5CLS3C1PROD identify electronic the form amendment of all comments number or
+docket number of this rulemaking.
+Anyone is able to search the
+on
+erowe VerDate Nov<24>2008 15:07 Sep 01, 2009 Jkt 217001 PO
+No. 169 / Wednesday, September 2, 2009
+received into any of our dockets by the
+name of the individual submitting the
+comment (or signing the comment, if
+submitted on behalf of an association,
+business, labor union, etc.). You may
+review DOT’s complete Privacy Act
+statement in the Federal Register
+published on April 11, 2000 (Volume
+65, Number 70; Pages 19477–78) or you
+may visit http://DocketsInfo.dot.gov.
+Small Business Regulatory Enforcement
+Fairness Act
+The Small Business Regulatory
+Enforcement Fairness Act (SBREFA) of
+1996 requires FAA to comply with
+small entity requests for information or
+advice about compliance with statutes
+and regulations within its jurisdiction. If
+you are a small entity and you have a
+question regarding this document, you
+may contact your local FAA official, or
+the person listed under the FOR FURTHER
+INFORMATION CONTACT heading at the
+beginning of the preamble. You can find
+out more about SBREFA on the Internet
+at http://www.faa.gov/
+regulationspolicies/rulemaking/
+sbre_act/.
+List of Subjects
+14 CFR Part 1
+Air transportation, Aircraft, Aviation
+safety, Safety.
+14 CFR Part 33
+Air transportation, Aircraft, Aviation
+safety, Safety.
+The Amendment
+■In consideration of the foregoing, the
+Federal Aviation Administration
+amends parts 1 and 33 of Title 14, Code
+of Federal Regulations (14 CFR parts 1
+and 33) as follows:
+PART 1—DEFINITIONS AND
+ABBREVIATIONS
+■1. The authority citation for part 1
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701–
+44702, 44704.
+■2. Amend § 1.1 by adding the
+definition of ‘‘Maximum engine
+overtorque’’ in alphabetical order, to
+read as follows:
+§ 1.1 General definitions.
+* * * * *
+Maximum engine overtorque, as it
+applies to turbopropeller and turboshaft
+engines incorporating free power
+turbines for all ratings except one
+engine inoperative (OEI) ratings of two
+minutes or less, means the maximum
+torque of the free power turbine rotor
+assembly, the inadvertent occurrence of
+00000 Frm 00006 Fmt 4700 Sfmt 4700 E:\FR\FM\02SER1.SGM
+/ Rules and Regulations
+which, for periods of up to 20 seconds,
+will not require rejection of the engine
+from service, or any maintenance action
+other than to correct the cause.
+* * * * *
+PART 33—AIRWORTHINESS
+STANDARDS: AIRCRAFT ENGINES
+■3. The authority citation for part 33
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701–
+44702, 44704.
+■4. Amend § 33.7 by redesignating
+paragraph (c)(16) as (c)(18) and adding
+new paragraphs (c)(16) and (c)(17) to
+read as follows:
+§ 33.7 Engine ratings and operating
+limitations.
+* * * * *
+(c) * * *
+(16) Transient engine overtorque, and
+number of overtorque occurrences.
+(17) Maximum engine overtorque for
+turbopropeller and turboshaft engines
+incorporating free power turbines.
+* * * * *
+■5. Section 33.84 is added to read as
+follows:
+§ 33.84. Engine overtorque test.
+(a) If approval of a maximum engine
+overtorque is sought for an engine
+incorporating a free power turbine,
+compliance with this section must be
+demonstrated by testing.
+(1) The test may be run as part of the
+endurance test requirement of § 33.87.
+Alternatively, tests may be performed
+on a complete engine or equivalent
+testing on individual groups of
+components.
+(2) Upon conclusion of tests
+conducted to show compliance with
+this section, each engine part or
+individual groups of components must
+meet the requirements of § 33.93(a)(1)
+and (a)(2).
+(b) The test conditions must be as
+follows:
+(1) A total of 15 minutes run at the
+maximum engine overtorque to be
+approved. This may be done in separate
+runs, each being of at least 21⁄2 minutes
+duration.
+(2) A power turbine rotational speed
+equal to the highest speed at which the
+maximum overtorque can occur in
+service. The test speed may not be more
+than the limit speed of take-off or OEI
+ratings longer than 2 minutes.
+(3) For engines incorporating a
+reduction gearbox, a gearbox oil
+temperature equal to the maximum
+temperature when the maximum engine
+overtorque could occur in service; and
+for all other engines, an oil temperature
+within the normal operating range.
+02SER1
+
+[[Page 5]]
+Federal Register / Vol. 74,
+(4) A turbine entry gas temperature
+equal to the maximum steady state
+temperature approved for use during
+periods longer than 20 seconds when
+operating at conditions not associated
+with 30-second or 2 minutes OEI
+ratings. The requirement to run the test
+at the maximum approved steady state
+temperature may be waived by the FAA
+if the applicant can demonstrate that
+other testing provides substantiation of
+the temperature effects when considered
+in combination with the other
+parameters identified in paragraphs
+(b)(1), (b)(2) and (b)(3) of this section.
+■6. Amend § 33.87 by revising
+paragraph (a)(8) to read as follows:
+§ 33.87 Endurance test.
+(a) * * *
+(8) If the number of occurrences of
+either transient rotor shaft overspeed,
+transient gas overtemperature or
+transient engine overtorque is limited,
+that number of the accelerations
+required by paragraphs (b) through (g) of
+this section must be made at the
+limiting overspeed, overtemperature or
+overtorque. If the number of occurrences
+is not limited, half the required
+accelerations must be made at the
+limiting overspeed, overtemperature or
+overtorque.
+* * * * *
+Issued in Washington, DC, on August 21,
+2009.
+J. Randolph Babbitt,
+Administrator.
+[FR Doc. E9–20960 Filed 9–1–09; 8:45 am]
+BILLING CODE 4910–13–P
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Part 39
+[Docket No. FAA–2009–0432; Directorate
+Identifier 2008–NM–168–AD; Amendment
+39–15982; AD 2009–15–19]
+RIN 2120–AA64
+Airworthiness Directives; BAE
+Systems (Operations) Limited Model
+BAe 146–100A and 146–200A Series
+Airplanes
+AGENCY: Federal Aviation
+Administration (FAA), Department of
+Transportation (DOT).
+ACTION: Final rule; correction.
+RULES SUMMARY: The FAA is correcting a
+with typographical error in an existing
+DSK5CLS3C1PROD airworthiness incorrect AD number directive appearing (AD) that in was one
+published in the Federal Register on
+July 29, 2009. The error resulted in an
+on
+erowe VerDate Nov<24>2008 15:07 Sep 01, 2009 Jkt 217001 PO
+No. 169 / Wednesday, September 2, 2009
+location of the document. This AD
+applies to certain BAE Systems
+(Operations) Limited Model BAe 146–
+100A and 146–200A series airplanes.
+This AD requires inspecting for damage
+of the horizontal stabilizer lower skin
+and joint plates, and doing related
+investigative and corrective actions.
+DATES: Effective September 2, 2009.
+ADDRESSES: You may examine the AD
+docket on the Internet at http://
+www.regulations.gov; or in person at the
+Docket Management Facility between 9
+a.m. and 5 p.m., Monday through
+Friday, except Federal holidays. The AD
+docket contains this AD, the regulatory
+evaluation, any comments received, and
+other information. The address for the
+Docket Office (telephone 800–647–5527)
+is the Document Management Facility,
+U.S. Department of Transportation,
+Docket Operations, M–30, West
+Building Ground Floor, Room W12–140,
+1200 New Jersey Avenue, SE.,
+Washington, DC 20590.
+FOR FURTHER INFORMATION CONTACT:
+Todd Thompson, Aerospace Engineer,
+International Branch, ANM–116,
+Transport Airplane Directorate, FAA,
+1601 Lind Avenue, SW., Renton,
+Washington 98057–3356; telephone
+(425) 227–1175; fax (425) 227–1149.
+SUPPLEMENTARY INFORMATION: On July
+13, 2009, the FAA issued AD 2009–15–
+19, amendment 39–15982 (74 FR 37528,
+July 29, 2009), for certain BAE Systems
+(Operations) Limited Model BAe 146–
+100A and 146–200A series airplanes.
+This AD requires inspecting for damage
+of the horizontal stabilizer lower skin
+and joint plates, and doing related
+investigative and corrective actions.
+As published, the final rule
+incorrectly specified the AD number in
+a single location in the AD as ‘‘2008–
+15–19’’ instead of ‘‘2009–15–19.’’
+No other part of the regulatory
+information has been changed;
+therefore, the final rule is not
+republished in the Federal Register.
+The effective date of this AD remains
+September 2, 2009.
+§ 39.13 [Corrected]
+■In the Federal Register of July 29,
+2009, on page 37529, in the first
+column, paragraph 2. of PART 39—
+AIRWORTHINESS DIRECTIVES is
+corrected to read as follows:
+* * * * *
+2009–15–19 BAE Systems (Operations)
+Limited (Formerly British Aerospace
+Regional Aircraft): Amendment 39–
+15982. Docket No. FAA–2009–0432;
+Directorate Identifier 2008–NM–168–AD.
+* * * * *
+00000 Frm 00007 Fmt 4700 Sfmt 4700 E:\FR\FM\02SER1.SGM
+2009 / Rules and Regulations 45311
+Issued in Renton, Washington, on August
+24, 2009.
+Ali Bahrami,
+Manager, Transport Airplane Directorate,
+Aircraft Certification Service.
+[FR Doc. E9–21039 Filed 9–1–09; 8:45 am]
+BILLING CODE 4910–13–P
+DEPARTMENT OF HOUSING AND
+URBAN DEVELOPMENT
+24 CFR Part 206
+[Docket No. FR–4989–F–02]
+RIN 2502–AI34
+Home Equity Conversion Mortgage
+(HECM) Counseling Standardization
+and Roster
+AGENCY: Office of the Assistant
+Secretary for Housing—Federal Housing
+Commissioner, HUD.
+ACTION: Final rule.
+SUMMARY: This final rule amends HUD’s
+HECM program regulations by
+establishing testing standards to qualify
+individuals as HECM counselors eligible
+to provide HECM counseling to
+prospective HECM borrowers. The rule
+also establishes a HECM Counseling
+Roster (Roster) of eligible HECM
+counselors and provides for their
+removal for cause. This rule is intended
+to contribute to improving the quality of
+HECM counseling. HECM counseling
+enables elderly homeowners to make
+more informed decisions when
+considering mortgage options and
+whether to pursue a HECM loan. This
+final rule follows the publication of a
+January 8, 2007, proposed rule, takes
+into consideration the public comments
+received on the proposed rule, and
+makes certain changes in response to
+public comment and upon further
+consideration of certain issues by HUD.
+DATES: Effective Date: October 2, 2009.
+FOR FURTHER INFORMATION CONTACT:
+Margaret Burns, Director, Office of
+Single Family Program Development,
+Office of Housing, Department of
+Housing and Urban Development, 451
+Seventh Street, SW., Room 9278,
+Washington, DC 20410–8000; telephone
+number 202–708–2121 (this is not a toll-
+free number). Hearing- and speech-
+impaired individuals may access this
+number through TTY by calling the toll-
+free Federal Information Relay Service
+at 800–877–8339.
+SUPPLEMENTARY INFORMATION:
+I. Background—The January 8, 2007
+Proposed Rule
+Section 255 of the National Housing
+Act (12 U.S.C. 1715z–20) (NHA)
+02SER1

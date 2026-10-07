@@ -1,0 +1,256 @@
+CFR NPRM: Part 23
+
+ 
+ 
+        
+CITATION: [Federal Register: May 13, 1991 (Volume 56, Number 92)]
+
+ 
+        
+PAGE NUMBER: [Page 22070]
+
+ 
+        
+DOCKET NUMBER: 23746
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT: Airworthiness Standards; Small Airplanes with Staff Speed Greater Than 61 Knots
+
+ 
+        
+ACTION: Notice of Proposed Rulemaking
+
+ 
+        
+SUMMARY: This notice proposes to amend the 61-knot stall speed limitation requirement applicable to normal, utility, and acrobatic category single-engine and certain multiengine small airplanes of less than 6,000 lbs, maximum weight. The proposal would require additional occupant protection requirements for those airplanes with a stall speed exceeding 61 knots. This proposal retains the current level of airplane occupant protection and permits the design and type certification of higher performance, single-engine airplanes capable of attaining an increase in cruise speeds with better specific fuel consumption. This improvement in performance and operating economics cannot be achieved without substantial increased cost and complexity if these designs are constrained by the present 61-knot stall speed limitation.
+
+ 
+        
+DATES: Comments must be submitted on or before September 10, 1991.
+
+ 
+        
+ADDRESSES: Comments on this notice should be mailed in triplicate to: Federal Aviation Administration, Office of the Chief Counsel, Attention: Rules Docket (AGC-10), Docket No. 23746, 800 Independence Avenue SW., Washington, DC 20591. Comments delivered must be marked Docket No. 23746. Comments may be inspected in room 915G weekdays between 8:30 a.m. and 5 p.m., except on Federal holidays.
+
+In addition, the FAA is maintaining an information docket of comments in the Office of the Assistant Chief Counsel, ACE-7, Federal Aviation Administration, Central Region, 601 East 12th Street, Kansas City, Missouri 64106. Comments in the information docket may be inspected in the Office of the Assistant Chief Counsel weekdays, except Federal holidays, between the hours of 7:30 a.m. and 4 p.m.
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Victor F. Sokoloaki, Standards Office (ACE-112), Small Airplane Directorate, Aircraft Certification Service, Federal Aviation Administration, 601 East 12th Street, Kansas City, Missouri 64106; telephone (816) 426-8941.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: Comments Invited
+
+ Interested persons are invited to participate in the making of the proposed rule by submitting such written data, views, or arguments as they may desire. Comments relating to the environmental, energy, federalism, or economic impact that might result from adopting the proposals in this notice are invited. Substantive comments should be accompanied by cost estimates. Comments should identify the regulatory docket or notice number and should be submitted in triplicate to the Rules Docket address specified above. All comments received on or before the closing date for comments specified will be considered by the Administrator before taking action on this proposed rulemaking. The proposals contained in this notice may be changed in light of comments received. All comments received will be available, both before and after the closing data for comments, in the Rules Docket for examination by interested persons. A report summarizing each substantive public contact with Federal Aviation Administration (FAA) personnel concerned with this rulemaking will be filed in the docket. Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this notice must include a pre-addressed, stamped postcard on which the following statement is made: "Comments to Docket No. 23746." The postcard will be date stamped and returned to the commenter.
+
+Availability of Notice of Proposed Rulemaking (NPRM)
+
+ Any person may obtain a copy of this NPRM by submitting a request to the Federal Aviation Administration, Office of Public Affairs, Attention: Public Inquiry Center, APA-200, 800 Independence Avenue SW., Washington, DC 20591, or by calling (202) 267-3484. Communications must identify the notice number of this NPRM.
+
+ Persons interested in being placed on the mailing list for future NPRM's should request, from the above office, a copy of Advisory Circular No. 11-2A, Notice of Proposed Rulemaking Distribution System, which describes the application procedure.
+
+Background
+
+ The current airworthiness standards for small airplanes, part 23 of the Federal Aviation Regulations (FAR), contains a requirement (Sec. 23.49(b)) that limits the stall speed (at maximum weight in the landing configuration) of single-engine and certain small multiengine airplanes to values not exceeding 61 knots (70 mph). This requirement dates back more than 50 years to the original Civil Air Regulations (CAR). At that time, it was considered necessary to protect "air passengers" by ensuring that passenger-carrying airplanes did not land at higher speeds. This is evident from early Civil Aviation Authority (CAA) publications, such as the November 1951, appendix B of the Civil Aeronautics Manual 8 (CAM 8). A copy of this report is available in the docket. The CAA report provided the following guidance on stall speed:
+
+ Stalling Speed Limit. The stalling speed at maximum weight in the configuration used during normal operations should not exceed 70 m.p.h.
+
+ Recommendation. Studies of forced landings show that, all other things being equal, the fatality rate is proportional to the stall speed, i.e., as the stall speed increases, the number of fatalities per accident increases. The record indicates that fatality rate increases rapidly above approximately 55 m.p.h. Therefore, it is strongly recommended that the stall speed not exceed 55 m.p.h. in the landing configuration at maximum weight.
+
+ As the airworthiness regulations evolved, the stall speed limit in the landing configuration was removed for certain airplanes. First it was eliminated for large, multiengine transport airplanes that had the capability to operate safely after the loss of power from one engine, and later it was eliminated for small multiengine airplanes that meet a one-engine-inoperative climb performance requirement at 5,000 feet altitude in the cruise configuration. The 61-knot stall speed limitation was retained for all single-engine airplanes and for multiengine airplanes with a maximum weight not exceeding 6,000 pounds that do not meet the one-engine-inoperative climb requirement of Sec. 23.67 (b)(1). The requirement was retained because an engine failure in these airplanes could result in a forced landing where occupant injury is more likely to occur. The retention of the limit on stall speed provides a correspondingly lower landing speed and minimize the kinetic energy that must be absorbed in emergency landings. Thus a degree of crash protection is provided for the passengers and crew. Airplanes with the ability to climb and cruise after the failure of one engine are generally not forced into this emergency landing situation and, therefore, are permitted to have higher stall speeds.
+
+ The FAA has received petitions for exemption from Sec. 23.49 (b), the 61-knot stall speed requirement, applicable to type certification of single-engine airplanes. The FAA has also received many inquiries from aircraft manufacturers concerning possible relief from this requirement. The petitioners claim that this relief is needed to obtain the full performance and economic advantages of incorporating the latest turbine-powered design technology in single-engine airplanes and to provide a higher cruise speed with lower specific fuel consumption.
+
+ Based on the information contained in these petitions and inquiries, the FAA requested an independent study of the 61-knot stall speed issue by the "Small Aircraft Stall Speed Study Group." The study group was formed in December 1982 and consisted of Professor Robert W. Simpson, Massachusetts Institute of Technology (MIT), as Chairperson, and other professionals with expertise in aircraft design and airworthiness from various areas of the aviation community. The group also had representation from the FAA, National Transportation Safety Board (NTSB), and the National Aeronautics and Space Administration (NASA). The study group's report to the FAA was published in March 1983 and a copy of this report is available in the docket. The study group's report provided several recommendations, one of which was to remove the existing 61-knot stall speed requirement.
+
+ Also, the American Institute of Aeronautics and Astronautics' (AIAA) workshop on Revitalization of General Aviation in the United States (December 1989) cites only two rule changes that should be considered for this revitalization. One of these is relief from the 61-knot stall speed limitation. A copy of the AIAA report is available in the docket.
+
+ The Small aircraft Stall Speed Study Group's recommendations were based on a review of the FAA accident/incident data base, consisting of 37,530 reports, for the 6-year period 1976-1981. The study group's analysis still is considered valid. The data studied were fir emergency/forced landings, generally off the airport. The most significant results of that study showed that:
+
+ a. The percentage of fatal emergency landing accidents, where the pilot retained control until the crash, is small; 2.7 percent for single-engine and 3.5 percent for twin-engine airplanes.
+
+ b. Only 1 percent of fatal emergency landing accidents, where the pilot retained control until the crash, were caused by engine failures.
+
+ c. Fuel mismanagement was more significant than engine failure as a cause of all emergency landings, accounting for 50 percent.
+
+ d. The incidence of fatal accidents was higher for twin-engine airplanes than for single-engine airplanes in all categories of emergency/forced landings.
+
+ e. Occupant survivability in emergency landing accidents does not show a clear correlation to the stall speed. The outcome of an emergency landing is affected by many other factors, such as; structural crashworthiness of the airplane type, pilot skills, type of restraint system, actual speed at impact, weather, type of terrain at impact site, altitude of emergency, glide ratio of the airplane, etc.
+
+ In 1982, the General Aviation Safety Panel (GASP), which represented a broad constituency from the general aviation community, was formed for the purpose of recommending regulatory and nonregulatory means by which the FAA could improve general aviation safety. Also in 1982, the General Aviation Manufacturers Association (GAMA) submitted a petition for rulemaking to FAA to require shoulder harnesses in small airplanes. After several years of study and development of the interrelated recommendations of GAMA, GASP, and the Small Aircraft Stall Speed Study Group, the FAA amended part 23 with amendment 23-32 (50 FR 46872, November 13, 1985) and amendment 23-38 (53 FR 30802, August 15, 1988) to increase greatly airplane crashworthiness with new or increased requirements for: shoulder harnesses, dynamic testing of seats and restraint systems, sidefacing seats, retention of items of mass, restraint of baggage and cargo, turnover protection, external doors and emergency exits, and fuel tank installation. In addition, the FAA has recently published Notice No. 85-7A (55 FR 7280, February 28, 1990). Crash Resistant Fuel Systems for part 23 airplanes.
+
+ During the development of the airworthiness standards proposed by this rulemaking action, the FAA examined whether pilot training and qualification requirements might be necessary as a result of providing an alternative to the 61-knot stall speed limitation for single-engine airplanes. The Small Aircraft Stall Speed Study Group proposed in its March 1983 report that Sec. 61.31 (e) (General limitations, high performance airplanes) be amended to require additional flight instruction for pilots in command of a single-engine airplane that has a power-off stall speed in the landing configuration of more than 61 knots. The FAA studied this recommendation and concluded that the proposed additional flight instruction was already included in a normal flight training curriculum and that it did not relate to an increased stall speed. Regardless of the stall speed, all part 23 airplanes are certificated to the same airworthiness standards applicable to flight characteristics and performance, with the exception of the spin requirements of Sec. 23.221 that depend on airplane category and number of engines. Therefore, an increase in stall speed above 61 knots should not, by itself, require increased pilot qualifications.
+
+ It is possible to design an airplane with higher wing loadings and still comply with the 61-knot stall speed requirement by incorporating larger and more complex high-lift systems. The use of such complex, high-lift systems may result in a reduction of the low speed flying qualities and lessen the level of safety of both normal and emergency operations in approach and landing conditions; however, the applicable part 23 airworthiness requirements apply. The use of complex high-lift systems may well increase the design, production, and maintenance cost of an airplane.
+
+ If the proposed rule change is adopted, the FAA expects that very few new single reciprocating engine airplanes will be introduced with a stall speed in the landing configuration (Vso) greater than 61 knots. In recent years, most high performance small airplane designs have been turbine powered. Almost all of the reciprocating engine airplanes in production are based on designs that have been in existence for many years. Only a few have a Vso exceeding 61 knots. The size of reciprocating aircraft engines has generally leveled off at 435 horsepower, thus limiting their application in high performance airplanes.
+
+ The 61-knot stall speed limit may have outlived its original reason for existence, i.e., to provide some protection for "air passengers" at a time (over 50 years ago) when airplane crashworthiness was minimal, engine reliability was comparatively low, airplane performance was often minimal, airfields were rudimentary, runways were shorter, and landing approach aids were minimal or nonexistent, etc. In the intervening years, all of these factors have improved to the extent that the 61-knot stall speed limit could be exceeded in part 23 airplanes without a degradation of safety when additional compensating occupant protection requirements are incorporated. This would permit the design and certification of faster, more efficient high performance single-engine airplanes utilizing the turbine engines available today.
+
+ This NPRM proposes an alternative to the current 61-knot stall speed requirement of Sec. 23.49 (b). The proposed alternative would permit both multiengine airplanes with a maximum weight not exceeding 6,000 pounds that do not meet the requirement for positive one-engine-inoperative climb performance and single-engine airplanes to be type certificated with a stall speed of more than 61 knots. This proposed amendment to the 61-knot stall speed requirement would require these single-engine, and multiengine, airplanes to incorporate crashworthiness enhancements that would provide airplane occupant protection equivalent to that provided occupants of similar airplanes having a stall speed not exceeding 61 knots. If this proposal were adopted, applicants would have the option of selecting the stall speed (and the corresponding occupant protection requirements) that is best for their particular airplane design.
+
+General Discussion of Proposals
+
+Section 23.49
+
+ The FAA proposes to amend part 23 of the Federal Aviation Regulations to permit type certification of both single and multiengine small airplanes with stall speeds greater than 61 knots, provided they incorporate additional occupant protection provisions to compensate for the increased kinetic energy dissipated during a forced landing. This would be accomplished by amending Sec. 23.49 to require compliance with certain additional occupant protection requirements included in this proposal.
+
+ There are a number of airplane development programs under way that will expand the use of turbine engines in single-engine airplanes. More advanced types of engines with corresponding increased in power or thrust and improved fuel efficiency are also under development. Because these engines provide a significant increase in power-to-weight ratio and operate more efficiently at high altitudes, increased wing loadings are required for fuel efficient cruise. The current 61-knot stall limit is a constraint to the development of these airplanes incorporating such propulsion and aerodynamic improvements.
+
+Section 23.67
+
+ This proposal would clarify the change made to Sec. 23.67 by amendment 23-42 (56 FR 344, January 3, 1991). The provisions of Sec. 23.67 (b)(1) require that all airplanes with a stall speed of more than 61 knots meet the one-engine-inoperative climb gradient requirements. Therefore, a change to Secs. 23.67 (b)(1) and (b)(2) is required to clarify that multiengine airplanes of less than 6,000 pounds maximum weight that include the improved occupant protection of Sec. 23.562 (d) and have a stall speed greater than 61 knots would only comply with the climb gradient determination requirements of Sec. 23.67 (b)(2)(i). This proposal does not change the one-engine-inoperative climb requirements.
+
+Section 23.562
+
+ During the development of Sec. 23.562, Emergency landing dynamic conditions, which was incorporated in amendment 23-36 (53 FR 30802, August 15, 1988), the supporting technical data presented by the NTSB was obtained from data for small airplanes whose stall speeds were not greater than 61 knots. Forced landings of airplanes whose stall speeds are greater than 61 knots will expose the airplanes' occupants to an increase in kinetic impact energy. The increase in kinetic impact energy is proportional to the square of the stall speed of the airplane in the landing configuration. To compensate for this increased energy level, additional occupant protection requirements beyond those stated in Sec. 23.562 are included in this proposal. The emergency landing dynamic conditions express the impact energy level in terms of an impact velocity. The increased occupant protection requirement in this proposal is obtained by multiplying the ultimate load factors of Sec. 23.561 (b) and the peak deceleration of the seat/restraint system test of Sec. 23.562 (b)(1) by the square of the ratio of the increased stall speed to the stall speed of 61 knots. The use of the velocity ratio squared to obtain the increased occupant protection requirement is consistent with an analytical methodology found in the U.S. Army's Aircraft Crash Survival Design Guide, USARTL-TR-79-22C, Volume III-Aircraft Structural Crashworthiness, which addresses the conservation of momentum associated with an aircraft impact that has earth plowing. A copy of volume III of the design guide is available in the docket.
+
+ The FAA proposes to limit the maximum deceleration for the seat/restraint system dynamic test to 32g, which is the value that the FAA is considering proposing in a separate NPRM being developed for commuter category airplanes. The 32g limitation will be reached at a stall speed (Vso) of 79 knots. At higher stall speeds, this maximum deceleration will remain constant at 32g.
+
+ In addition, the static upward ultimate load factor for acrobatic category airplanes will be limited to a value of 5.0g. Because of the maneuvers they perform, acrobatic category airplanes are designed to higher maneuvering limit load factors (both positive and negative) than normal and utility category airplanes. The maximum upward value required in this proposed rule for normal and utility category airplanes is 5.0g and is consistent with loads resulting from the negative limit load factor required by Sec. 23.337 for acrobatic category airplanes. Under emergency landing conditions, all categories of small airplanes would experience similar forces; therefore, requiring acrobatic airplane seats to be designed to higher load factors would not be warranted.
+
+Regulatory Evaluation Summary
+
+Introduction
+
+ This section summarizes the full regulatory evaluation prepared by the FAA that provides more detailed estimates of the economic consequences of this proposed regulatory action. This summary and the full evaluation quantify, to the extent practicable, estimated costs to the private sector, consumers, Federal, State and local governments, as well as anticipated benefits.
+
+ Executive Order 12291, dated February 17, 1981, directs Federal agencies to promulgate new regulations or modify existing regulations only if potential benefits to society for each regulatory change outweigh potential costs. The order also requires the preparation of a Regulatory Impact Analysis of all "major" rules except those responding to emergency situations or other narrowly defined exigencies. A "major" rule is one that is likely to result in an annual increase in consumer costs, a significant adverse effect on the economy of $100 million or more, a major increase in consumer costs, or a significant adverse effect on competition. 
+
+ The FAA has determined that this rule is not "major" as defined in the executive order, therefore, a full regulatory analysis, which includes the identification and evaluation of cost-reducing alternatives to this rule, has not been prepared. Instead, the agency has prepared a more concise document termed a regulatory evaluation that analyzes only this rule without identifying alternatives. In addition to a summary of the regulatory evaluation, this section also contains the regulatory flexibility determination required by the Regulatory Flexibility Act and an International Trade Impact Assessment. If more detailed economic information is desired, the reader may refer to the full regulatory evaluation contained in the docket.
+
+Economic Evaluation 
+
+ This evaluation examines the impact of an NPRM that would amend part 23 of the Federal Aviation Regulations (FAR). For normal, utility, and acrobatic category airplanes, Sec. 23.49 (b) currently requires that the stall speed (Vso) may not exceed 61 knots for both single-engine airplanes and those multiengine airplanes that have a maximum weight of 6,000 pounds or less and cannot meet the one-engine-inoperative minimum climb gradient specified in Sec. 23.67 (b). The proposed rule would establish increased occupant restraint and crashworthiness requirements for airplanes to be type certificated with a stall speed of more than 61 knots under specific circumstances.
+
+ For airplanes designed with a Vso greater than 61 knots, the proposal would require applicants to enhance the airplane's crashworthiness to a level that would provide equal levels of protection to occupants of aircraft with higher stalling speeds and to occupants of aircraft that do not exceed a 61-knot stall speed. In particular, the structural load factor requirements of Sec. 23.561 (b) and the peak deceleration requirements of the seat/restraint system test under Sec. 23.562 (b)1) would have to be increased for higher stall speed airplanes by the square of the ratio of the proposed stall speed to a stall speed of 61 knots.
+
+ In addition to these substantive changes, the proposed rule also would make conforming changes to the one-engine-inoperative climb requirements of Sec. 23.67 (b). No significant costs or benefits are attributed to these provisions, and they are not considered further in the evaluation.
+
+ Significantly more efficient airplanes could be developed by employing the advantage of higher wing loadings if the affected airplanes were not limited to a stall speed of 61 knots. The potential benefits of removing the stall speed limit would vary with individual airplane designs, but case specific analysis has shown that a 20 percent gain in specific fuel consumption could be achieved. Evidence suggests that this efficiency gain, due to higher wing loading, could also be accomplished by incorporating a very high-lift flap system (wide-span trailing edge flaps and leading edge Kruger flaps) and still remain within the 61- knot limit. However, if higher wing loadings were combined with larger and more complex high-lift flap systems in order to meet the 61-knot requirement, there may be accompanying penalties in low speed handling qualities. These penalties may have a detrimental effect on both normal and emergency operations in approach and landing conditions.
+
+ In order to retain the current level of airplane occupant protection, the proposal would require additional occupant protection for airplanes that this rule would allow to be certificated with stall speeds above 61 knots. Specific estimates of the potential structural and weight penalty costs that could be incurred would be design specific and are not available for this evaluation. However, the proposal would establish requirements that would apply only to the airplane design elected by the applicant. By definition, the proposed amendment, including any associated costs, would be applicable only to applicants who have determined that it would be in their own best interests to design an airplane with a Vso greater than 61 knots. The proposal would provide the applicant the option of selecting the combination of stall speed and occupant protection requirements that would be most cost-beneficial and best suited for its particular airplane design. The FAA believes, therefore, that the benefits of the proposed rule would exceed the costs.
+
+Regulatory Flexibility Determination
+
+ The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress to ensure that small entities are not unnecessarily or disproportionately burdened by Government regulations. The RFA requires a Regulatory Flexibility Analysis if a rule has a significant economic impact, either detrimental or beneficial, on a substantial number of small business entities. FAA Order 2100.14A, Regulatory Flexibility Criteria and Guidance, establishes threshold cost values and small entity size standards for complying with RFA review requirements in FAA rulemaking actions.
+
+ The FAA has determined that the proposed change to part 23 would not have a significant economic impact on a substantial number of small entities. The FAA's criteria for a small aircraft manufacturer is one with 75 or fewer employees. A substantial number is a number that is not fewer than 11 and is more than one-third of the small entities that would be subject to the proposed rule. A review of domestic general aviation manufacturing companies indicates that only 2 companies meet the size threshold of 75 employees or fewer. The proposed amendments to part 23 will therefore not affect a substantial number of small entities.
+
+International Trade Impact Analysis
+
+ The provisions of this proposed rule will have little or no impact on trade for both U.S. firms doing business in foreign countries and foreign firms doing business in the United States. In the United States, foreign manufacturers would have to meet U.S. requirements, and thus they would gain no competitive advantage. In foreign countries, U.S. manufacturers would not be bound by part 23 requirements and could, therefore, implement the provisions of the proposed rule solely on the basis of competitive considerations.
+
+Federal Implications
+
+ The regulations proposed herein would not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this proposal would not have sufficient federalism implications to warrant the preparation of a Federalism Assessment.
+
+Conclusion
+
+ The FAA proposes to revise the airworthiness standards to permit single-engine and certain multiengine small airplanes of less than 6,000 pounds maximum weight to exceed the present 61-knot stall speed limitation. Airplane designs exceeding this limitation would be required to incorporate additional occupant protection to compensate for the higher kinetic energy that must be dissipated during emergency landings. This proposal would retain the current level of airplane occupant protection and permit the design and type certification of higher performance, single-engine airplanes capable of attaining an increase in cruise speeds with better specific fuel consumption. This improvement in performance and operating economics cannot be achieved without substantial increased cost and complexity if these designs are constrained by the present 61-knot speed limitation.
+
+ For the reasons discussed above, and based on the findings in the Regulatory Flexibility Determination and the international Trade Impact Analysis, the FAA has determined that this proposed regulation is not major under Executive Order 12291. In addition, the FAA certifies that this proposal, if adopted, will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. This proposal is considered not significant under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). An initial regulatory evaluation of the proposal, including a Regulatory Flexibility Determination and Trade Impact Analysis, has been placed in the docket. A copy may be obtained by contacting the person identified under "FOR FURTHER INFORMATION CONTACT."
+
+List of Subjects in 14 CFR Part 23
+
+ Aircraft, Air transportation, Aviation safety, Safety. 
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment
+
+In consideration of the foregoing, the Federal Aviation Administration proposes to amend part 23 of the Federal Aviation Regulations (14 CFR part 23) as follows:
+
+Part 23-Airworthiness Standards; Normal, Utility, Acrobatic, And Commuter Category Airplanes
+
+1. The authority citation for part 23 continues to read as follows:
+
+Authority; 49 U.S.C. 1344, 1354(a), 1355, 1421, 1423, 1425, 1428, 1429, 1430; 49 U.S.C. 106(g).
+
+2. Section 23.49 is amended by revising the introductory text of paragraphs (b); by redesignating paragraphs (c), (d), and (e) as (d), (e), and (f) and by adding a new paragraph (c) to read as follows:
+
+Sec. 23.49 Stalling speed.
+
+* * * * *
+
+(b) Except as provided in Sec. 23.49(c), Vso at maximum weight may not exceed 61 knots for -
+
+* * * * *
+
+(c) All single-engine airplanes, and those multiengine airplanes of 6,000 pounds or less maximum weight with a Vso of more than 61 knots that do not meet the requirements of Sec. 23.67 (b)(2)(i), must comply with Sec. 23.562 (d).
+
+3. Section 23.67 is amended by revising paragraphs (b)(1) and (b)(2) to read as follows:
+
+Sec. 23.67 Climb: One engine inoperative.
+
+* * * * *
+
+(b) * * *
+
+(1) Each airplane of more than 6,000 pounds maximum weight must be able to maintain a steady climb gradient of at least 1.5 percent at a pressure altitude of 5,000 feet at a speed not less than 1.2 Vs1 and at standard temperature (41° F) with the airplane in the configuration prescribed in paragraph (a) of this section.
+
+(2) For each airplane of 6,000 pounds or less maximum weight, the following apply:
+
+(i) Each airplane that meets the requirements of Sec. 23.562 (d), or that has a Vso of 61 knots or less, must have its steady climb gradient determined at a pressure altitude of 5,000 feet at a speed of not less than 1.2 Vs1, and at standard temperature (41° F), with the airplane in the configuration prescribed in paragraph (a) of this section.
+
+(ii) Except for those airplanes that meet the requirements prescribed in Sec. 23.562 (d), each airplane with a Vso of more than 61 knots must be able to maintain the steady climb gradient prescribed in paragraph (b)(1) of this section.
+
+* * * * *
+
+4. Section 23.562 is amended by revising the introductory text of paragraph (b), by redesignating paragraph (d) as (e), and by adding a new paragraph (d) to read as follows:
+
+Sec. 23.562 Emergency landing dynamic conditions.
+
+* * * * *
+
+(b) Except for those seat/restraint systems that are required to meet paragraph (d) of this section, each seat restraint system, for crew or passenger occupancy in a normal, utility, or acrobatic category airplane, must successfully complete dynamic tests or be demonstrated by rational analysis supported by dynamic tests, in accordance with each of the following conditions. These tests must be conducted with an occupant simulated by an anthropomorphic test dummy (ATD) defined by 49 CFR part 572, subpart B, or an FAA-approved equivalent, with a nominal weight of 170 pounds and seated in the normal upright position.
+
+* * * * *
+
+(d) For all single-engine airplanes with a of more than 61 knots at maximum weight, and those multiengine airplanes of 6,000 pounds or less maximum weight with a of more than 61 knots at maximum weight that do not comply with Sec. 23.67(b)(2)(i):
+
+(1) The ultimate load factors of Sec. 23.561(b) must be increased by multiplying the load factors by the square of the ratio of the increased stall speed to 61 knots. The increased ultimate load factors need not exceed the values reached at a of 79 knots. The upward ultimate load factor for acrobatic category airplanes need not exceed 5.0 g.
+
+(2) The seat/restraint system test required by paragraph (b)(1) of this section must be conducted in accordance with the following criteria:
+
+(i) The change in velocity may not be less than 31 feet per second.
+
+(ii) (A) The peak deceleration () of 19g and 15g must be increased and multiplied by the square of the ratio of the increased stall speed to 61 knots:
+
+ 
+
+ The peak deceleration need not exceed the value reached at a of 79 knots.
+
+(iii) The peak deceleration must occur in not more than time (tr), which must be computed as follows:
+
+ 
+
+where--
+
+ = The peak deceleration calculated in accordance with paragraph (d)(2)(ii) of this section; and
+
+tr = The rise time (in seconds) to the peak deceleration.
+
+* * * * *
+
+ 
+        
+FOOTER: Issued in Washington, DC, on May 1, 1991.
+
+Thomas E. McSweeny,
+
+Acting Director, Aircraft Certification Service.
+
+[FR Doc. 91-10877 Filed 5-10-91; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

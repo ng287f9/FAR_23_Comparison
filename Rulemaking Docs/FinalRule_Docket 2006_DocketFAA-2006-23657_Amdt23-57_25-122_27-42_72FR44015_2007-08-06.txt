@@ -1,0 +1,696 @@
+FINAL RULES: 23-57|25-122|27-42
+
+ 
+ 
+        
+CITATION: [Federal Register: August 6, 2007 (Volume 72, Number 150)]
+
+ 
+        
+PAGE NUMBER: [Page 44015-44028]
+
+ 
+        
+DOCKET NUMBER: FAA-2006-23657
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29
+
+ 
+        
+SUBJECT HEADING: High-Intensity Radiated Fields (HIRF) Protection for Aircraft Electrical and Electronic Systems 
+
+ 
+        
+ACTION: Final rule.
+
+ 
+        
+SUMMARY: This final rule amends FAA regulations by adding airworthiness certification standards to protect aircraft electrical and electronic systems from high-intensity radiated fields (HIRF). This action is necessary due to the vulnerability of aircraft electrical and electronic systems and the increasing use of high-power radio frequency transmitters. This action is intended to create a safer operating environment for civil aviation by protecting aircraft and their systems from the adverse effects of HIRF. 
+
+
+
+ 
+        
+DATES: These amendments become effective September 5, 2007.
+
+ 
+        
+EFFECTIVE DATE: 2007-09-05
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Richard E. Jennings, Aircraft Certification Service, Aircraft Engineering Division, AIR-130, Federal Aviation Administration, 470 L'Enfant Plaza, Suite 4102, Washington, DC 20024; telephone (202) 385-4562; e-mail Richard.Jennings@faa.gov. 
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Availability of Rulemaking Documents 
+
+ You can get an electronic copy of this final rule using the Internet by: 
+
+ (1) Searching the Department of Transportation's electronic Docket Management System (DMS) Web page (http://dms.dot.gov/search); 
+
+ (2) Visiting the FAA's Regulations and Policies Web page at http://www.faa.gov/regulations_policies/; or 
+
+ (3) Accessing the Government Printing Office's Web page at http://www.gpoaccess.gov/fr/index.html . 
+
+ You can also get a copy by sending a request to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue SW., Washington, DC 20591, or by calling (202) 267-9680. Make sure to identify the amendment number or docket number of this rulemaking. 
+
+Small Business Regulatory Enforcement Fairness Act 
+
+ The Small Business Regulatory Enforcement Fairness Act (SBREFA) of 1996 requires the FAA to comply with small entity requests for information or advice about compliance with statutes and regulations within its jurisdiction. If you are a small entity and you have a question regarding this document, you may contact a local FAA official or the person listed under FOR FURTHER INFORMATION CONTACT. You can find out more about SBREFA on the Internet at http://www.faa.gov/regulations_policies/rulemaking/sbre_act/ . 
+
+Authority for This Rulemaking 
+
+ The FAA's authority to issue rules regarding aviation safety is found in Title 49 of the United States Code. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority. This rulemaking is promulgated under the authority described in Subtitle VII, Part A, Subpart III, Section 44701(a)(1). Under that section, the FAA is charged with prescribing regulations to promote safe flight of civil aircraft in air commerce by prescribing minimum standards in the interest of safety for appliances and for the design, material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers. By prescribing standards to protect aircraft electrical and electronic systems from high-intensity radiated fields, this regulation is within the scope of the Administrator's authority. 
+
+I. Background 
+
+ The electromagnetic HIRF environment results from the transmission of electromagnetic energy from radar, radio, television, and other ground-based, shipborne, or airborne radio frequency (RF) transmitters. This environment has the capability of adversely affecting the operation of aircraft electrical and electronic systems. 
+
+ Although the HIRF environment did not pose a significant threat to earlier generations of aircraft, in the late 1970s designs for civil aircraft were first proposed that included flight-critical electronic controls, electronic displays, and electronic engine controls, such as those used in military aircraft. These systems are more susceptible to the adverse effects of operation in the HIRF environment. Accidents and incidents involving civil aircraft with flight-critical electrical and electronic systems have also brought attention to the need to protect these critical systems from high-intensity radiated fields. 
+
+ Further, the need to protect these systems in aircraft has increased substantially in recent years because of-- 
+
+ (1) A greater dependence on electrical and electronic systems performing functions required for the continued safe flight and landing of aircraft; 
+
+ (2) The reduced electromagnetic shielding afforded by some composite materials used in aircraft designs; 
+
+ (3) The increase in susceptibility of electrical and electronic systems to HIRF because of increased data bus or processor operating speeds, higher density integrated circuits and cards, and greater sensitivities of electronic equipment; 
+
+ (4) Expanded frequency usage, especially above 1 gigahertz (GHz); 
+
+ (5) The increased severity of the HIRF environment due to an increase in the number and power of RF transmitters; and 
+
+ (6) The adverse effects experienced by some aircraft when exposed to HIRF. 
+
+ Recognizing the need to address the vulnerability of aircraft electrical and electronic systems to HIRF, the FAA published a notice of proposed rulemaking (NPRM) on February 1, 2006 (71 FR 5553). The NPRM includes a description of the HIRF-related incidents that provided some of the impetus for this rulemaking. It also includes a description of the collaborative efforts the FAA undertook in developing these rule changes. We encourage interested readers to refer to the NPRM for additional information. 
+
+ The comment period for the NPRM closed on May 2, 2006. We received thirty comments from twelve commenters. The commenters include two aviation industry associations, two avionics equipment manufacturers, one engine manufacturer, two airplane manufacturers and five individual commenters. 
+
+II. Discussion of the Rule 
+
+ This final rule amends the airworthiness standards for normal, utility, acrobatic, and commuter category airplanes certificated under part 23; transport category airplanes certificated under part 25; normal category rotorcraft certificated under part 27; and transport category rotorcraft certificated under part 29. Under the rule, applicants for certification of aircraft under these parts are required to demonstrate that any electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the aircraft must be designed and installed so that-- 
+
+ (1) Each function is not adversely affected during and after the time the aircraft is exposed to a specifically designated HIRF environment (HIRF environment I); 
+
+ (2) Each electrical and electronic system automatically recovers normal operation of that function, in a timely manner, after the aircraft is exposed to HIRF environment I, unless this conflicts with other operational or functional requirements of that system; and 
+
+ (3) Each electrical and electronic system is not adversely affected during and after the aircraft is exposed to a less severe, but more commonly encountered HIRF environment (HIRF environment II). 
+
+ HIRF environment I sets forth test and analysis levels that are used to demonstrate that an aircraft and its systems meet basic HIRF certification requirements. HIRF environment I represents the range of electromagnetic field strengths that an aircraft could encounter during its operational life. HIRF environment II is an estimate of the electromagnetic field strengths more likely to be encountered in the airspace above an airport or heliport at which routine departure and arrival operations take place. 
+
+ The rule also contains specific provisions for rotorcraft that differ from those applicable to airplanes. The rule requires rotorcraft to meet additional HIRF certification standards because rotorcraft operating under visual flight rules (VFR) do not have to comply with the same minimum safe altitude restrictions for airplanes specified in Sec. 91.119 and, therefore, may operate closer to RF transmitters. Accordingly, any electrical and electronic system that performs a function required during operation under VFR and whose failure would prevent the continued safe flight and landing of the rotorcraft must be designed and installed so that the function is not adversely affected during and after the time the rotorcraft is exposed to a specified HIRF environment unique to rotorcraft (HIRF environment III). 
+
+ HIRF environment III presents worst-case estimates of the electromagnetic field strength in the airspace in which VFR rotorcraft operations are permitted. Rotorcraft operating under instrument flight rules (IFR), however, normally have to comply with more restrictive altitude limitations and, therefore, electrical and electronic systems with functions required for IFR operations must not be adversely affected when the rotorcraft is exposed to HIRF environments I and II. 
+
+ This final rule also establishes equipment HIRF test levels for electrical and electronic systems. It requires each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition to be designed and installed such that it is not affected adversely when the equipment providing the function is exposed to equipment HIRF test level 1 or 2. HIRF test level 1 allows an applicant to use an industry standard test method for compliance. HIRF test level 2 allows an applicant to use equipment test levels developed for the specific aircraft being certificated. Either of these test levels may be used to demonstrate HIRF protection. 
+
+ Additionally, the final rule requires each electrical and electronic system that performs a function whose failure would reduce (but not significantly) the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition to be designed and installed such that it is not affected adversely when the equipment providing these functions is exposed to equipment HIRF test level 3. HIRF test level 3, like HIRF test level 1, allows an applicant to use an industry standard test method for compliance that is not as rigorous as that specified by HIRF test levels 1 or 2. HIRF environments I, II, and III, and equipment HIRF test levels 1, 2, and 3 are found in the appendices to the parts revised by this rule. 
+
+ The rule also includes provisions that provide relief from the new testing requirements for equipment previously certificated under HIRF special conditions issued in accordance with Sec. 21.16. These provisions permit the installation of an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of the aircraft, if an applicant can show that the system continues to comply with previously issued HIRF special conditions. This relief, however, will only be available for a 
+
+five-year period and will only apply to equipment certificated under HIRF special conditions issued before December 1, 2007. To obtain this relief an applicant must be able to-- 
+
+ (1) Provide evidence that the system was the subject of HIRF special conditions issued before December 1, 2007; 
+
+ (2) Show that there have been no system design changes that would invalidate the HIRF immunity characteristics originally demonstrated under the previously issued HIRF special conditions; and 
+
+ (3) Provide the data used to demonstrate compliance with the HIRF special conditions under which the system was previously approved. 
+
+Reference Material 
+
+ For further information on the development of the HIRF environments, consult the Naval Air Warfare Center Aircraft Division (NAWCAD) Technical Memorandum, Report No. NAWCADPAX-98-156-TM, High- intensity Radiated Field External Environments for Civil Aircraft Operating in the United States of America (Unclassified), dated November 12, 1998. A copy of the NAWCAD Technical Memorandum is available in the docket for this final rule. 
+
+Related Activity 
+
+ When we published the HIRF NPRM on February 1, 2006, we also announced the availability of a draft Advisory Circular (describing a method for applicants to comply with the proposed HIRF standards (71 FR 5570). We have revised the draft AC based on the comments we received. You can get copies of the final AC 20-158, ``The Certification of Aircraft Electrical and Electronic Systems for Operation in the High Intensity Radiated Fields (HIRF) Environment'', from the FAA's Regulatory and Guidance Library (RGL) at the Web site: http://www.airweb.faa.gov/rgl. 
+
+ On the RGL Web site, click on ``Advisory Circulars.'' 
+
+A. Revision of Proposed HIRF Test Levels 
+
+1. Deletion of Proposed HIRF Test Level 1 
+
+ In the NPRM, we proposed to include four specific equipment HIRF test levels for electrical and electronic systems. Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition was required to be designed and installed so the system is not adversely affected when the equipment providing those functions is exposed to equipment HIRF test levels 1, 2, or 3. Additionally, we proposed that equipment be exposed to HIRF test level 4 for those functions that would cause any reduction in the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition. 
+
+ RTCA, Inc. Special Committee 135, which develops HIRF test procedures for aircraft equipment, recommended deleting one of the proposed equipment HIRF test levels included in the appendices to the proposed regulations. Comments from Boeing, GAMA, and an individual commenter also supported this change. 
+
+ The commenters noted that proposed Sec. 23.1308(b) would require each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition to be designed and installed so the system is not adversely affected when the equipment providing the function is exposed to equipment HIRF test level 1, 2, or 3. Proposed Sec. Sec. 25.1317(b), 27.1317(b), and 29.1317(b) also contained corresponding provisions. 
+
+ The commenters noted that the amplitudes and modulations defined in equipment HIRF test levels 1 and 2 were similar, but not identical. HIRF test level 1 specified the use of a pulse modulated waveform with 150 volts per meter (V/m) amplitude and 0.1 percent duty cycle, along with a square wave modulated waveform with 28 V/m amplitude and 50 percent duty cycle, for frequencies from 400 megahertz (MHz) to 8GHz. Test level 2 used a pulse modulated waveform 150 V/m amplitude and 4 percent duty cycle, but no square wave modulated waveform in the same frequency range. The commenters also noted that compliance with proposed Sec. 23.1308(b) and corresponding provisions would be more consistent if only one of the two definitions of test amplitude and modulation were included in the regulations. RTCA, Inc. Special Committee 135 also noted that eliminating one equipment test level would help standardize equipment tests and minimize confusion in selecting the appropriate equipment test level. Both RTCA and an individual commenter recommend that this single test level conform to the proposed requirements in equipment HIRF test level 2. 
+
+ The FAA agrees with these comments and has eliminated proposed equipment HIRF test level 1 from the appendices to parts 23, 25, 27, and 29. We have renumbered the remaining test levels accordingly in the final rule. Equipment HIRF test levels 2, 3, and 4 in the proposed rule have therefore become test levels 1, 2, and 3, respectively, in the final rule. We have also revised Sec. Sec. 23.1308(b), 25.1317(b), 27.1317(b), and 29.1317(b) to refer to equipment HIRF test levels 1 and 2. Additionally, we have revised Sec. Sec. 23.1308(c), 25.1317(c), 27.1317(c), and 29.1317(c) to refer to equipment HIRF test level 3. Equipment HIRF test levels are specified in paragraphs (c), (d), and (e) of Appendix J to Part 23; paragraphs (c), (d), and (e) of Appendix L to Part 25; paragraphs (d), (e), and (f) of Appendix D to Part 27; and paragraphs (d), (e), and (f) of Appendix E to Part 29. 2. Revision of Conducted Current Susceptibility Test Requirements 
+
+ RTCA, Inc. Special Committee 135 also recommended changes to the conducted current susceptibility test requirements in proposed equipment HIRF test levels 1, 2, and 4. These equipment HIRF test requirements define the amplitude and modulation of radio frequency current that equipment and its wiring must be exposed to in a laboratory to demonstrate that equipment is immune to HIRF. 
+
+ RTCA, Inc. Special Committee 135 stated that it has worked with the Aviation Rulemaking Advisory Committee (ARAC) Electromagnetic Effects Harmonization Working Group (EEHWG) to define equipment HIRF test requirements. The Special Committee stated that the changes it proposes would modify conducted radio frequency current amplitude to make the conducted radio frequency current decrease linearly with frequency so that the radio frequency current at 400 MHz would be one tenth the current at 30 MHz. The Special Committee asserted that this change would make the test levels more consistent with values measured on aircraft. HIRF tests on aircraft show that the conducted radio frequency current decreases above a certain frequency, and that this frequency depends on the size of the aircraft. 
+
+ The FAA generally agrees with RTCA's comment, however, data used to develop the HIRF AC shows the current decreases logarithmically with frequency. Therefore, the FAA has changed the conducted current amplitude in proposed equipment HIRF test levels 2 and 4 (test levels 1 and 3 in the final rule) so that the conducted current decreases at 20 decibel (dB) per frequency decade starting at 40 MHz and continuing to 400 MHz. This change results in a current at 400 MHz that is one tenth the current at 40 MHz and simplifies the procedures necessary to show compliance with equipment HIRF test levels. Since the FAA is not adopting proposed HIRF test level 1 (as discussed earlier in this preamble), no additional changes have been made to the final rule in response to this comment. 
+
+B. Effect of the Rule on Systems That Have Demonstrated Compliance With Previously Issued HIRF Special Conditions 
+
+ In the NPRM, the FAA proposed that the HIRF certification requirements would apply to all electrical and electronic systems designed and installed in an aircraft for which the new rules constitute part of its certification basis. In their comments, the General Aviation Manufacturers Association (GAMA) and Rockwell Collins expressed general support for the rule yet stated that a number of systems have been installed on aircraft that have demonstrated compliance with HIRF special conditions issued pursuant to Sec. 21.16. The commenters assert that when application is made for certification of equipment in an aircraft and that same equipment has already been found to be in compliance with HIRF special conditions issued for another aircraft, the test requirements set forth in the proposal would impose significant costs with little additional safety benefit. Another commenter, Meggitt/S-TEC, expressed similar concerns. 
+
+ The commenters recommend that systems previously installed on an aircraft should be considered compliant with the HIRF protection requirements of the rule if those systems have been found to meet existing HIRF special conditions when installed on another aircraft. 
+
+ The FAA agrees that there are a number of systems installed under HIRF special conditions that have a proven service history and that compliance with the rule, as originally proposed, would require additional testing and costs. In an effort to address this concern, the FAA has revised the rule to permit the installation of an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of the aircraft, if it can be shown that the system to be installed continues to comply with HIRF special conditions issued before December 1, 2007. This relief is contained in paragraph (d) of each section of the rule and is limited to a five-year period. 
+
+ To utilize this relief from the general requirements of the rule, an applicant must: (1) Provide evidence that the system was the subject of previously issued HIRF special conditions; (2) show that there have been no system design changes that would invalidate the HIRF immunity characteristics originally demonstrated under the previously issued HIRF special conditions; and (3) provide the data used to demonstrate compliance with the HIRF special conditions under which the system was previously approved. 
+
+ Upon issuance of this rule, the FAA does not foresee the need to issue special conditions, like those previously issued for HIRF, to include special 
+
+conditions permitting equipment evaluations in a laboratory environment using test levels of 100 V/m (200 V/m for VFR rotorcraft). Therefore, if an installation cannot meet the requirements of paragraph (d), the installation will need to comply with the HIRF certification requirements specified in paragraph (a). 
+
+ Paragraph (d)(1) requires an applicant to provide objective evidence that the system was the subject of HIRF special conditions that were issued before December 1, 2007. In meeting subparagraph (d)(1), it is not essential that the HIRF special conditions be issued for the same make and model of aircraft, but only that they were used as the basis for showing HIRF compliance for the electrical or electronic system intended for the specific installation. After the rule becomes effective, the FAA generally will no longer use special conditions as a means for an applicant to show protection from the HIRF environment for new equipment installation certifications. The date specified in paragraph (d)(1), however, provides a sufficient time period beyond the effective date of the rule to allow applicants to use HIRF special conditions that are currently being developed as part of a new installation's certification basis to be processed and issued. 
+
+ Paragraph (d)(2) requires the applicant to show that there have been no system design changes that would invalidate the HIRF immunity characteristics originally demonstrated under previously issued HIRF special conditions. If a change has been made to the system, and the change cannot be substantiated through analysis as having no impact on the previously demonstrated HIRF immunity characteristics, the system must comply with the general requirements of the rule as specified in paragraph (a) of each section. 
+
+ Paragraph (d)(3) requires the applicant to provide the data used to demonstrate compliance with HIRF special conditions. The term ``data'' includes, but is not limited to, items such as the HIRF certification/ qualification test report used to demonstrate compliance; installation instructions, as appropriate, to support HIRF immunity of the system; and instructions for continued airworthiness (ICA) to maintain the integrity of the system's demonstrated HIRF immunity. To assist prospective applicants, Appendix 2 of AC 20-158 provides guidance on one means, but not the only means, of complying with these provisions. 
+
+ Although these revisions will affect aircraft intended for certification under parts 23, 25, 27 and 29, the FAA believes that the changes will primarily afford relief to persons installing equipment in aircraft intended for certification under part 23. The FAA estimates that as many as 30-35% of the applicants that apply for installation of a Level A system in aircraft certificated under part 23 will be seeking approval of equipment that has been shown to comply with previously issued HIRF special conditions (a Level A system is a system that performs a function whose failure would prevent the continued safe flight and landing of an aircraft, such as a flight display system certificated for IFR operations or a full authority digital engine control (FADEC) system). Such systems have been shown to meet appropriate certification standards and, based on comments received, the FAA believes that the burden associated with re-testing this equipment to the new certification standards is not justified by a corresponding benefit. 
+
+ In determining the extent of the relief that could be provided, the FAA sought clarification of GAMA's earlier comment. GAMA noted that if the FAA were to accept its comment to consider equipment previously certified under HIRF special conditions as compliant with the proposed HIRF requirements, it may not be feasible for the FAA to make such a provision open-ended. GAMA stated that if the FAA were to establish a specific time period during which such equipment would be considered compliant, that determination should give full consideration to the technological life of the product. The FAA concurs with this recommendation. We have therefore provided applicants with a five-year period during which equipment shown to comply with previously issued HIRF special conditions will be considered to meet the requirements of this rule. This decision was based on a number of factors. 
+
+ Due to the dynamic and highly competitive nature of the current avionics industry, new avionics models are being rapidly introduced into the marketplace in response to public demand. As special conditions for HIRF generally will no longer be issued after the effective date of the rule, it will become increasingly difficult to find new equipment in compliance with previously issued HIRF special conditions. Equipment manufacturers will therefore not be able to take advantage of the provisions of new paragraph (d), and the equipment will have to meet the general requirements of the rule. The FAA also believes that major design changes will, in most cases, necessitate retesting of previously approved equipment in accordance with the general provisions of the rule, again significantly decreasing the number of systems that will be able to use the provisions of paragraph (d) within a short period of time. 
+
+ Additionally, avionics manufacturers now compete in a global marketplace. Many foreign civil aviation authorities are adopting airworthiness standards similar to those found in paragraphs (a), (b), and (c) of each section added by the rule, but are not adopting airworthiness standards which contain provisions similar to those contained in paragraph (d) of those sections. Manufacturers intending to market their equipment for installation on aircraft registered in countries other than the United States will therefore need to ensure compliance with the general provisions of the rule to export their products. 
+
+ Technological advances and the necessity for manufacturers to comply with standards established by foreign aviation authorities to globally market their products will require that newer systems comply with the general test standards established by the final rule. The FAA therefore believes that the relief permitted by the revision, while of immediate benefit to manufactures, will neither be practical nor warranted within five years after the effective date of the rule, and has limited the relief to that period accordingly. 
+
+C. Applicability of HIRF Requirements 
+
+1. Applicability of HIRF Requirements to Aircraft Certificated Under Part 23 
+
+ Thielert Aircraft engines commented on the HIRF Risk Analysis report used in the regulatory evaluation (DOT/FAA/AR-99/50). This risk analysis forms the basis of the benefits analysis in the FAA's regulatory evaluation. According to Thielert, a comparison of estimated HIRF risks for transport category airplanes (table 9 of the report) with estimated HIRF risks for non-transport category aircraft, including Part 23 small airplanes (table 10 of the report), shows that HIRF risks are higher for transport category airplanes. Thielert therefore believes the proposed HIRF protection requirements for small airplanes should not be the same as those proposed for transport category airplanes. Additionally, Thielert believes that table 10 of the report indicates the proposal provides a decreased level of safety for airplanes certificated under Part 23. 
+
+ The FAA does not agree with Thielert's contentions. The HIRF Risk Analysis report shows that the HIRF requirements provide a substantial HIRF risk reduction for both transport category airplanes and non-transport category aircraft, including small airplanes certificated under Part 23, even when compared to existing HIRF special conditions (page 13 of the report). 
+
+ The FAA agrees, however, that both tables 9 and 10 of the report could be misconstrued. With regard to the data used to evaluate the HIRF risk to transport category airplanes, a crucial component affecting the risk analysis is the aircraft's position with respect to an emitter's location. HIRF protection requirements are predicated on various minimum (i.e., safe) distances between aircraft and emitters. Inconsistencies in the values for transport category aircraft in table 9 noted by Thielert can be attributed to inaccuracies in recording aircraft position data due to the normal variability inherent in radar tracking. When the minimum distance assumptions on which the rule is based are taken into account, only a few flights in the analysis were exposed to field strengths that exceeded the rule's certification levels. As these discrepancies are likely the result of the normal variability inherent in determining an aircraft's position using radar, there was no evidence that HIRF certification levels were exceeded for flights involving transport category aircraft (in the Denver and Seattle study areas). 
+
+ The same positional inaccuracies are also the probable cause of the inconsistent results in table 10 of the analysis that were noted by the commenter. To account for this possible error, the FAA's benefits analysis was conducted using data from table 11 of the report to obtain the number of flights that exceeded the various protection (or comparison) levels. Similar to the results of the analysis for transport category aircraft, the risk analysis for part 23 aircraft shows that the HIRF requirements provide a substantial risk reduction compared to existing HIRF special conditions. The FAA's risk-avoidance analysis for part 23 airplanes does, however, differ from that for part 25 airplanes in that it combines information from an actual HIRF incident with the theoretical analysis of the Risk Analysis study. That incident was the basis of the finding in the benefits analysis of greater risk for part 23 airplanes. 
+
+ The report also includes a detailed discussion of how to interpret the information presented in tables 9 and 10. It clearly states that the proposed HIRF requirements reduce the risk of HIRF-related accidents by a factor of 3.5 compared to the existing HIRF special conditions for non-transport category airplanes, which include small 
+
+airplanes certificated under Part 23 (page 16). Thus, the report supports the benefits of the rule for non-transport category aircraft, which includes small airplanes certificated under Part 23. 2. 
+
+Applicability of the Requirements to Airplane-Level Functions 
+
+ Boeing Commercial Airplanes requested a change to proposed Sec. 25.1317(a)(1). The proposed section stated ``Each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the airplane must be designed and installed so that the function is not adversely affected during and after the time the airplane is exposed to HIRF environment I . * * *'' (Emphasis added). In the commenter's view, the phrase ``the function'' should be changed to ``the airplane-level function'' since only top- level functions may be observable in multi-system integrated avionics configurations where several systems can contribute to correct operation of an airplane-level function. 
+
+ The FAA disagrees with the comment. The wording of proposed Sec. 25.1317(a)(1) is consistent with the wording of existing Sec. 25.1316, which governs system lightning protection. The FAA has taken a similar approach in addressing protection from lightning and HIRF as both constitute external environmental hazards to an aircraft. A failure of a system as a result of lightning or HIRF would have an identical effect on the operation of the aircraft, and the FAA believes that their failure effects should therefore be treated similarly. For this reason, we did not make the requested change to the final rule. 
+
+3. Limiting Sec. 25.1317(a)(2) and Corresponding Requirements to Functions, Rather Than Systems Whose Failure Would Prevent Safe Flight and Landing of the Aircraft 
+
+ Boeing Commercial Airplanes requested clarification of proposed Sec. 25.1317(a)(2) which states ``Each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the airplane must be designed and installed so that the system automatically recovers normal operation, in a timely manner, after the airplane is exposed to HIRF environment I * * *.'' (Emphasis added). The commenter requested clarification that the expectation of automatic recovery of an electrical or electronic system is limited to functions whose failure would prevent safe flight and landing. Other functions may not be required to return to ``normal operation,'' which is interpreted to mean the ability to perform functions to the extent necessary to continue safe flight and landing, not necessarily full functional performance and redundancy. 
+
+ The FAA agrees with Boeing. The requested change clarifies the rule's intent that an automatic recovery of an electrical or electronic system be limited to those functions whose failure would prevent safe flight and landing. We have therefore changed the wording of final Sec. 25.1317(a)(2) to state that ``The system automatically recovers normal operations of that function, in a timely manner. * * *'' (Emphasis added). We have also made corresponding changes to final Sec. Sec. 23.1308(a)(2), 27.1317(a)(2), and 29.1317(a)(2). 
+
+4. Expanding the Scope of the HIRF Protection Requirements to Equipment Whose Failure Does Not Have Safety Consequences 
+
+ An individual commenter recommended that equipment required by FAA certification or operating regulations should be subject to this rulemaking even though failure of that equipment would not have safety consequences. 
+
+ The FAA does not agree with the commenter. The FAA's general approach to system safety is to define requirements based on the hazard consequences of system failures. This rulemaking follows the FAA's longstanding system safety approach to aircraft design and defines requirements based on their impact on overall aircraft safety. For example, this approach is followed in 14 CFR 25.1309, which provides general aircraft equipment, systems, and installation safety requirements. The EEHWG, which developed the recommendations upon which the NPRM is based, specifically recommended that the rule apply only to systems with failure classifications that are major, hazardous, or catastrophic. The FAA notes that this final rule does not preclude any aircraft or avionics manufacturer or supplier from testing equipment not subject to the rule for susceptibility to HIRF effects using the standards contained in the rule. 
+
+D. Continued Airworthiness Requirements 
+
+ One individual commenter expressed general support for the NPRM, but was concerned that the cost of maintaining aircraft airworthiness after aircraft 
+
+delivery should be considered in the regulatory evaluation for the rulemaking. 
+
+ The FAA agrees with the commenter. The regulatory evaluation includes costs for both designing and installing HIRF protection, as well as costs for maintaining this protection over the service life of the aircraft. The EEHWG collected this cost data from aircraft and avionics manufacturers and provided this information to the FAA for inclusion in the regulatory evaluation. We believe the commenter's concerns have been addressed in the rulemaking process. 
+
+E. Concerns Regarding the Ability of the HIRF Certification Standards To Afford Adequate Protection of Aircraft 
+
+ An individual commenter expressed general support for the proposal, but had a concern about ``a flight that went down off Long Island a few years back.'' The commenter questioned whether the proposed standards will sufficiently protect aircraft. Two commenters urged the FAA to include standards in this final rule to protect aircraft from an electromagnetic pulse (EMP) generated by a nuclear weapon or some other EMP-based disabling device. 
+
+ We believe the first commenter is referring to the crash of TWA Flight 800, which broke up in flight off Long Island, New York on July 17, 1996. The investigation of the accident was conducted by the National Transportation Safety Board (NTSB). The NTSB in its Aircraft Accident Report (NTSB/AAR-00/03) did not find that the probable cause of the accident was related to HIRF effects. As discussed in the notice, the FAA has worked extensively with aircraft and equipment manufacturers, foreign civil aviation authorities and engineers who have an extensive knowledge of the HIRF environment in its efforts to develop the protection regulations for the HIRF environment found in this rule. This rule is based to a significant degree upon their detailed recommendations and for these reasons, the FAA believes that the commenter's concern is not warranted. 
+
+ In response to concerns regarding EMP protection, the FAA notes that the EEHWG participants who assisted the agency in developing the HIRF NPRM were familiar with issues related to EMP. The aircraft protection requirements for lightning and HIRF provide some inherent protection from EMP. However, EMP generated from a nuclear or other device is not part of the normal HIRF environment. The FAA considers protection of aircraft from the hazards of EMP generated by such devices to be beyond the scope of this rulemaking effort. 
+
+F. Use of Similar HIRF Protection Requirements for Systems With Major and Hazardous Failure Conditions 
+
+ An individual commenter recommends that the HIRF requirements for systems with major failure conditions should meet the same equipment HIRF test levels as systems with hazardous failure conditions. The commenter believes that this is the general practice of most aircraft manufacturers and that such a requirement would provide additional protection against the effects of portable electronic devices (PEDs) that may transmit during flight. These PEDs include mobile phones and two-way pagers. 
+
+ The FAA agrees, in part, with the commenter. Radiated emissions from PEDs on aircraft are a growing concern, and FAA has requested RTCA, Inc., through Special Committee 202 to investigate PED emissions (both intentional and unintentional emitters) and their possible impact on required aircraft electronic systems. However, the hazards related to radiated fields generated by PEDs are not considered part of the external HIRF environment encountered by an aircraft, and consideration of their effects is therefore beyond the scope of this rulemaking. Such effects would have to be addressed by a separate rulemaking activity when Special Committee 202 completes its assigned task. In addition, the FAA has reviewed certification plans that indicate many manufacturers do not require systems with major failure conditions to meet the same equipment HIRF test levels as systems with hazardous failure conditions. Therefore, we have not made any changes to this final rule based on the comment. 
+
+G. Harmonization of HIRF Certification Standards 
+
+ Thielert Aircraft Engines commented that the European Aviation Safety Agency (EASA) classified the consequence of a failure of their reciprocating engine as major or hazardous, while the FAA has required HIRF tests that assume the engine failures are catastrophic. Thielert commented that this decision has not fulfilled the intent to harmonize HIRF standards because the FAA requires more expensive HIRF tests on Thielert's FADEC systems than EASA does. Thielert states that the FAA HIRF compliance requirements are more expensive to comply with because the engine and engine electronic controls must be tested when they are installed on an airplane rather than prior to any installation. Based on these concerns, Thielert proposed changes to Sec. 23.1308(a) that would eliminate the need for the more expensive airplane tests. 
+
+ The FAA does not agree with the changes proposed by Thielert. The HIRF regulations neither define the specific failure classification for particular aircraft systems nor establish requirements used to classify any particular system. The failure classification must be established by the certification applicant and agreed on by the FAA for the specific aircraft and system being certified. Once a specific failure classification has been established, the HIRF regulations set forth in the final rule only specify those requirements that must be met for that specific failure classification. In fact, EASA currently issues HIRF Certification Review Items (CRI) (equivalent to the FAA's special conditions) that use the same approach as that generally set forth in the rule. The example provided by Thielert is not a consequence of the proposed HIRF regulations, but rather a difference in classification of failure severity. 
+
+ Additionally, this final rule, with the exception of the provisions contained in paragraph (d) of each section, is consistent with current EASA practices. The FAA, however, does recognize that for an aircraft to be exported it may not be acceptable to a foreign authority if a system installed on the aircraft has been certificated in accordance with the provisions of paragraph (d) of each section of the final rule. 
+
+H. Addition of Explanatory Note to HIRF Environment Tables 
+
+ A note was added to each HIRF Environment table in the appendices to this rule. The note states that, ``In this table, the higher field strength applies at the frequency band edges.'' Although not included in the proposal, this note was included in the draft AC that was the subject of a Notice of Availability published in the Federal Register (71 FR 5570) on February 1, 2006 concurrent with the notice for this rule. During the public comment period of the draft AC, we received no comments with regard to this note. The note was added to standardize testing and to remove any ambiguity when applying field strength values at frequency band edges. 
+
+III. Regulatory Notices and Analyses 
+
+Paperwork Reduction Act 
+
+ The Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)) requires that the FAA consider the impact of paperwork and other information collection burdens imposed on the public. An agency may not collect or sponsor the collection of information, nor may it impose an information collection requirement unless it displays a currently valid Office of Management and Budget (OMB) control number. We have determined that there are no new information collection requirements associated with this amendment. 
+
+International Compatibility 
+
+ In keeping with U.S. obligations under the Convention on International Civil Aviation, it is FAA policy to comply with International Civil Aviation Organization (ICAO) Standards and Recommended Practices to the maximum extent practicable. The FAA has determined that there are no ICAO Standards and Recommended Practices that correspond to these regulations. 
+
+Economic Evaluation, Regulatory Flexibility Determination, International Trade Impact Assessment, and Unfunded Mandates Assessment 
+
+ Changes to Federal regulations must undergo several economic analyses. First, Executive Order 12866 directs that each Federal agency shall propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs. Second, the Regulatory Flexibility Act of 1980 (Pub. L. 96-354) requires agencies to analyze the economic impact of regulatory changes on small entities. Third, the Trade Agreements Act (Pub. L. 96-39) prohibits agencies from setting standards that create unnecessary obstacles to the foreign commerce of the United States. In developing U.S. standards, this Trade Act requires agencies to consider international standards and, where appropriate, that they be the basis of U.S. standards. Fourth, the Unfunded Mandates Reform Act of 1995 (Pub. L. 104-4) requires agencies to prepare a written assessment of the costs, benefits, and other effects of proposed or final rules that include a Federal mandate likely to result in the expenditure by State, local, or tribal governments, in the aggregate, or by the private sector, of $100 million or more annually (adjusted for inflation with base year of 1995). This portion of the preamble summarizes the FAA's analysis of the economic impacts of this final rule. We suggest readers seeking greater detail read the full regulatory evaluation, a copy of which we have placed in the docket for this rulemaking. 
+
+ In conducting these analyses, FAA has determined that this final rule: (1) Has benefits that justify its costs; (2) is not an economically ``significant regulatory action'' as defined in section 3(f) of Executive Order 12866; (3) is not ``significant'' as defined in DOT's Regulatory Policies and Procedures; (4) will not have a significant economic impact on a substantial number of small entities; (5) will not create unnecessary obstacles to the foreign commerce of the United States; and (6) will not impose an unfunded mandate on state, local, or tribal governments, or on the private sector by exceeding the threshold identified above. These analyses are summarized below. 
+
+Who Is Affected by This Rulemaking 
+
+ Manufacturers of transport category airplanes will incur no incremental costs; manufacturers of transport category rotorcraft and non-transport category aircraft will incur varying costs. 
+
+ Occupants in, and operators of, affected aircraft receive safety benefits. Assumptions and Standard Values 
+
+ Discount rate: 7%. 
+
+ Period of analysis: Costs are based on a 10-year production period and benefits are based on 25-year operating lives of newly-certificated aircraft. 
+
+ Value of statistical fatality avoided: $3 million. 
+
+ Benefits/costs are evaluated from two perspectives: (1) The `base case'--a comparison of the costs and benefits concomitant with current industry practice to those associated with meeting the rule's requirements, and (2) the `regulatory case'--a comparison of the costs and benefits of complying with current U.S. special conditions to those associated with meeting the rule. Current industry practice for manufacturers of all airplanes certificated under part 25, for manufacturers of the majority of aircraft certificated under parts 23 and 29, and for manufacturers of a sizeable minority of part 27 rotorcraft, is to comply with the European Aviation Safety Agency's (i.e., EASA's, as noted earlier in this preamble) HIRF interim policy, which, with the exception of the provisions of paragraph (d) of each section, is equivalent to the rule. On the other hand, manufacturers of the remaining aircraft (some aircraft certificated under parts 23 and 29 and most rotorcraft certificated under part 27) currently manufacture their aircraft to meet U.S. special conditions, which are not as stringent as the provisions in this final rule. These affected aircraft manufacturers will experience additional costs under the rule. 
+
+ The rule is assumed to be nearly 100 percent effective in preventing HIRF-related accidents. 
+
+Alternatives Considered 
+
+ Although earlier and current special condition levels of HIRF protection were considered, EASA's HIRF interim policy (formerly Joint Aviation Authorities (JAA) policy) was selected for this rule because of both the proven high levels of protection demonstrated and the potential cost savings associated with adoption of substantially harmonized U.S. and European HIRF-requirements. Costs and Benefits of the Rule Costs 
+
+ Estimated Present Value Costs [$millions over a 10-year period]
+
+ In the first column (or, the base case, which reflects actual costs to industry), there are no additional HIRF-protection costs for manufacturers of airplanes certificated under part 25 and for manufacturers of the majority of aircraft certificated under parts 23 and 29, since most U.S. large manufacturers have produced these aircraft to comply with current EASA HIRF interim policy standards (generally equivalent to the requirements in this final rule) to market their aircraft in Europe. There are moderate incremental costs for manufacturers of the remaining portion of aircraft certificated under parts 23 and 29 and relatively lower costs for the majority of rotorcraft certificated under part 27 that do not currently meet EASA's HIRF interim policy standards either because (1) their aircraft do not yet have complex electronic systems installed or (2) they have chosen not to market their aircraft outside the United States. This ``current practice to rule'' is the base perspective in this analysis. The total estimated ten-year costs of $28.6 million (the sum of column one) represent the true incremental impact on the industry. 
+
+ However, most manufacturers of aircraft certificated under parts 23, 25, 27, and 29 believe that U.S. special conditions afford sufficient protection from HIRF. Therefore, in the second column (or, the regulatory case, ``special conditions to rule''), the FAA shows the incremental compliance costs between the current U.S. special conditions (essentially equivalent to industry's self-determined protection) and the rule's more stringent requirements. These regulatory costs equal $409.5 million, and represent the costs for more robust HIRF protection that industry would not have voluntarily incurred. 
+
+Benefits 
+
+ Estimated benefits of this rule are the accidents, incidents, and fatalities avoided as a result of increased protection from HIRF- effects provided to electrical and electronic systems. Quantified benefits are partly based on a study titled ``High-Intensity Radiated Fields (HIRF) Risk Analysis,'' by EMA Electro Magnetic Applications, Inc. of Denver, CO. (DOT/FAA/AR-99/50, July 1999). The complete study is available in the docket for this rulemaking. Using the study's risk analysis results for airplanes certificated under parts 23 and 25 and FAA accident/incident data for rotorcraft certificated under parts 27 and 29, the FAA calculated the difference between the expected number of accidents under the new standards versus those expected under current U.S. special conditions. 
+
+ Estimated Present Value Benefits [$millions over a 34-year period] 
+
+ Following FAA's rationale as stated in the cost section earlier, column one (the base case) in the benefits table above shows incremental benefits of $88.1 million resulting from averted accidents in future compliant parts 23, 27, and 29 aircraft. Part 25 airplanes already meet similar EASA standards, hence no additional benefits attributable to part 25 airplanes accrue to society. Column two in the table presents the regulatory case; it shows the additional benefits associated with going from industry's self-determined protection standards (or current special conditions) to the new HIRF standards. Total regulatory incremental benefits equal $3,940.4 million and represent the value of avoiding the following numbers of accidents over the 34-year analysis period: 
+
+ (1) Part 23 airplanes, 24 accidents; (2) part 25 airplanes, 22 accidents; (3) part 27 rotorcraft, 41 accidents, and (4) part 29 rotorcraft, 14 accidents. The FAA believes that, based on the aforementioned risk assessment, the predicted accidents could occur absent the new HIRF standards in this rule if manufacturers of all airplanes certificated under part 25, manufacturers of the majority of aircraft certificated under parts 23 and 29, and manufacturers of a sizeable minority of part 27 rotorcraft, choose in the future not to market their aircraft abroad and therefore no longer meet EASA's enhanced HIRF requirements (but rather meet only current less stringent U.S. special conditions). 
+
+Comments to the Docket on Costs and Benefits 
+
+ Although there were no comments directly criticizing FAA's cost estimates, GAMA, Rockwell Collins, and Meggitt/S-TEC were concerned that companies which previously installed electrical systems in aircraft pursuant to HIRF special conditions could experience significant additional testing costs, with little additional safety benefit, if those systems required re-certification before installation on other aircraft. A comment from Thielert questioned the efficacy of the risk analysis, which is the basis of the benefits analysis in FAA's regulatory evaluation. Thielert believes the HIRF requirements for small airplanes certificated under part 23 should not be the same as those for transport category airplanes certificated under part 25. The FAA's detailed response to these comments is discussed earlier in this preamble and in the full regulatory evaluation (available in the docket to this rulemaking). Although the FAA has revised the final rule in response to the comments, the benefit and cost estimates remain the same. 
+
+Summary of Costs and Benefits (at Present Value) 
+
+ For a ten-year period, the incremental costs of meeting the new requirements versus current industry practice equal $28.6 million and the associated benefits are $88.1 million, for a benefit-to-cost ratio of 3.1 to 1. Alternatively, the incremental costs of meeting the new requirements versus current U.S. special conditions equal $409.5 million and the benefits are $3,940.4 million, for a benefit-to-cost ratio of 9.6 to 1. From either perspective, this rule is clearly cost- beneficial. 
+
+Regulatory Flexibility Determination 
+
+ The Regulatory Flexibility Act of 1980 (Pub. L. 96-354) (RFA) establishes ``as a principle of regulatory issuance that agencies shall endeavor, consistent with the objective of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the businesses, organizations, and governmental jurisdictions subject to regulation. To achieve this principle, agencies are required to solicit and consider flexible regulatory proposals and to explain the rationale for their actions to assure that such proposals are given serious consideration.'' The RFA covers a wide range of small entities, including small businesses, not-for-profit organizations and small governmental jurisdictions. 
+
+ Agencies must perform a review to determine whether a rulemaking action will have a significant economic impact on a substantial number of small entities. If an agency determines that it will, the agency must prepare a regulatory flexibility analysis as described in the RFA. However, if an agency determines that a proposed or final rule is not expected to have a significant economic impact on a substantial number of small entities, section 605(b) of the RFA provides that the head of the agency may so certify and a regulatory flexibility analysis is not required. The certification must include a statement providing the factual basis for this determination, and the reasoning should be clear. 
+
+ The FAA believes that this final rule will not have a significant economic impact on a substantial number of small entities for the following reasons: 
+
+ As noted in the regulatory evaluation and preamble to the NPRM, this rule will affect manufacturers of aircraft intended for certification under parts 23, 25, 27, and 29. For manufacturers, the RFA considers a small entity to be one with 1,500 or fewer employees. None of the part 25 or part 29 manufacturers has 1,500 or fewer employees; consequently, none is considered a small entity. There are, however, currently about four part 27 (utility rotorcraft) and ten part 23 (small non-transport category airplanes) manufacturers, who have fewer than 1,500 employees and are considered small entities. 
+
+ Based on a sampling of the affected small manufacturers of parts 23 and 27 aircraft, the incremental costs are expected to represent significantly less than one percent of the typical small manufacturer's annual revenues; these compliance costs do not constitute a significant economic impact. There were no comments to the docket disputing this finding. 
+
+ Therefore, as the FAA Administrator, I certify that this rule will not have a significant economic impact on a substantial number of small entities. 
+
+International Trade Impact Assessment 
+
+ The Trade Agreements Act of 1979 prohibits Federal agencies from engaging in any standards or related activities that create unnecessary obstacles to the foreign commerce of the United States. Legitimate domestic objectives, such as safety, are not considered unnecessary obstacles. The statute also requires consideration of international standards and where appropriate, that they be the basis for U.S. standards. The FAA has assessed the potential effect of this final rule and determined that it is in accord with the Trade Agreements Act in that it uses European standards as the basis for United States regulation. 
+
+Unfunded Mandates Reform Act 
+
+ Title II of the Unfunded Mandates Reform Act of 1995 (Pub. L. 104- 4) requires each Federal agency to prepare a written statement assessing the effects of any Federal mandate in a proposed or final agency rule that may result in an expenditure of $100 million or more (adjusted annually for inflation since the base year 1995) in any one year by State, local, and tribal governments, in the aggregate, or by the private sector; such a mandate is deemed to be a ``significant regulatory action.'' The FAA currently uses an inflation-adjusted value of $128.1 million in lieu of $100 million. This final rule does not contain such a mandate. The requirements of Title II do not apply. 
+
+Executive Order 13132, Federalism 
+
+ The FAA has analyzed this final rule under the principles and criteria of Executive Order 13132, Federalism. We determined that this action will not have a substantial direct effect on the States, or the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government, and therefore does not have federalism implications. 
+
+Environmental Analysis 
+
+ FAA Order 1050.1E identifies FAA actions that are categorically excluded from preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act in the absence of extraordinary circumstances. The FAA has determined this rulemaking action qualifies for the categorical exclusion identified in paragraph 308(c)(1) and involves no extraordinary circumstances. 
+
+Regulations That Significantly Affect Energy Supply, Distribution, or Use 
+
+ The FAA has analyzed this final rule under Executive Order 13211, Actions Concerning Regulations that Significantly Affect Energy Supply, Distribution, or Use (66 FR 28355, May 18, 2001). We have determined that it is not a ``significant energy action'' under the executive order because it is not a ``significant regulatory action'' under Executive Order 12866, and it is not likely to have a significant adverse effect on the supply, distribution, or use of energy. 
+
+List of Subjects 
+
+14 CFR Part 23 
+
+ Air transportation, Aircraft, Aviation safety, Certification, Safety. 
+
+14 CFR Part 25 
+
+ Air transportation, Aircraft, Aviation safety, Certification, Safety. 
+
+14 CFR Part 27 
+
+ Air transportation, Aircraft, Aviation safety, Certification, Rotorcraft, Safety. 
+
+14 CFR Part 29 
+
+ Air transportation Aircraft, Aviation safety Certification, Rotorcraft, Safety. 
+
+
+
+ 
+        
+REGULATORY TEXT: The Amendment 
+
+In consideration of the foregoing, the Federal Aviation Administration amends Chapter I of Title 14, Code of Federal Regulations as follows: 
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES 
+
+1. The authority citation for part 23 continues to read as follows: 
+
+ Authority: 49 U.S.C. Sec. Sec. 106(g), 40113, 44701, 44702, and 44704. 
+
+2. Add Sec. 23.1308 to subpart F to read as follows: 
+
+Sec. 23.1308 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Except as provided in paragraph (d) of this section, each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the airplane must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the airplane is exposed to HIRF environment I, as described in appendix J to this part; 
+
+ (2) The system automatically recovers normal operation of that function, in a timely manner, after the airplane is exposed to HIRF environment I, as described in appendix J to this part, unless the system's recovery conflicts with other operational or functional requirements of the system; and 
+
+ (3) The system is not adversely affected during and after the time the airplane is exposed to HIRF environment II, as described in appendix J to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing the function is exposed to equipment HIRF test level 1 or 2, as described in appendix J to this part. 
+
+ (c) Each electrical and electronic system that performs a function whose failure would reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing the function is exposed to equipment HIRF test level 3, as described in appendix J to this part. 
+
+ (d) Before December 1, 2012, an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of an airplane may be designed and installed without meeting the provisions of paragraph (a) provided-- 
+
+ (1) The system has previously been shown to comply with special conditions for HIRF, prescribed under Sec. 21.16, issued before December 1, 2007; 
+
+ (2) The HIRF immunity characteristics of the system have not changed since compliance with the special conditions was demonstrated; and 
+
+ (3) The data used to demonstrate compliance with the special conditions is provided. 
+
+3. Add appendix J to part 23 to read as follows: 
+
+Appendix J to Part 23--HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 23.1308. The field strength values for the HIRF environments and equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I
+
+ 
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.-HIRF Environment II
+
+ (c) Equipment HIRF Test Level 1. 
+
+ (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibels (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 30 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 3 mA at 400 MHz. 
+
+ (4) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (5) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (d) Equipment HIRF Test Level 2. Equipment HIRF test level 2 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (e) Equipment HIRF Test Level 3. 
+
+ (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 7.5 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 0.75 mA at 400 MHz. 
+
+ (4) From 100 MHz to 8 GHz, us
+
+e radiated susceptibility tests at a minimum of 5 V/m. 
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES 
+
+4. The authority citation for part 25 continues to read as follows: 
+
+ Authority: 49 U.S.C. Sec. Sec. 106(g), 40113, 44701, 44702, 44704. 
+
+5. Add Sec. 25.1317 to subpart F to read as follows: 
+
+Sec. 25.1317 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Except as provided in paragraph (d) of this section, each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the airplane must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the airplane is exposed to HIRF environment I, as described in appendix L to this part; 
+
+ (2) The system automatically recovers normal operation of that function, in a timely manner, after the airplane is exposed to HIRF environment I, as described in appendix L to this part, unless the system's recovery conflicts with other operational or functional requirements of the system; and 
+
+ (3) The system is not adversely affected during and after the time the airplane is exposed to HIRF environment II, as described in appendix L to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 1 or 2, as described in appendix L to this part. 
+
+ (c) Each electrical and electronic system that performs a function whose failure would reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing the function is exposed to equipment HIRF test level 3, as described in appendix L to this part. 
+
+ (d) Before December 1, 2012, an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of an airplane may be designed and installed without meeting the provisions of paragraph (a) provided-- 
+
+ (1) The system has previously been shown to comply with special conditions for HIRF, prescribed under Sec. 21.16, issued before December 1, 2007; 
+
+ (2) The HIRF immunity characteristics of the system have not changed since compliance with the special conditions was demonstrated; and 
+
+ (3) The data used to demonstrate compliance with the special conditions is provided. 
+
+6. Add appendix L to part 25 to read as follows: 
+
+Appendix L to Part 25--HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 25.1317. The field strength values for the HIRF environments and equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I
+
+ 
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.-HIRF Environment II 
+
+ (c) Equipment HIRF Test Level 1. 
+
+ (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibels (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 30 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 3 mA at 400 MHz. 
+
+ (4) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (5) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (d) Equipment HIRF Test Level 2. Equipment HIRF test level 2 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (e) Equipment HIRF Test Level 3. 
+
+ (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 7.5 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 0.75 mA at 400 MHz. 
+
+ (4) From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m. 
+
+PART 27--AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT 
+
+7. The authority citation for part 27 continues to read as follows: 
+
+ Authority: 49 U.S.C. Sec. Sec. 106(g), 40113, 44701, 44702, 44704. 
+
+8. Add Sec. 27.1317 to subpart F to read as follows: 
+
+Sec. 27.1317 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Except as provided in paragraph (d) of this section, each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the rotorcraft must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment I, as described in appendix D to this part; 
+
+ (2) The system automatically recovers normal operation of that function, in a timely manner, after the rotorcraft is exposed to HIRF environment I, as described in appendix D to this part, unless this conflicts with other operational or functional requirements of that system; 
+
+ (3) The system is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment II, as described in appendix D to this part; and 
+
+ (4) Each function required during operation under visual flight rules is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment III, as described in appendix D to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 1 or 2, as described in appendix D to this part. 
+
+ (c) Each electrical and electronic system that performs a function whose failure would reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition, must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 3, as described in appendix D to this part. 
+
+ (d) Before December 1, 2012, an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of a rotorcraft may be designed and installed without meeting the provisions of paragraph (a) provided-- 
+
+ (1) The system has previously been shown to comply with special conditions for HIRF, prescribed under Sec. 21.16, issued before December 1, 2007; 
+
+ (2) The HIRF immunity characteristics of the system have not changed since compliance with the special conditions was demonstrated; and 
+
+ (3) The data used to demonstrate compliance with the special conditions is provided. 
+
+9. Add appendix D to part 27 to read as follows: 
+
+Appendix D to Part 27--HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 27.1317. The field strength values for the HIRF environments and laboratory equipment HIRF test levels are expressed in root-mean- square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.--HIRF Environment II 
+
+ (c) HIRF environment III is specified in the following table: 
+
+ Table III.--HIRF Environment III
+
+ (d) Equipment HIRF Test Level 1. 
+
+ (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibels (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 30 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 3 mA at 400 MHz. 
+
+ (4) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (5) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (e) Equipment HIRF Test Level 2. Equipment HIRF test level 2 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (f) Equipment HIRF Test Level 3. 
+
+ (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 7.5 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 0.75 mA at 400 MHz. 
+
+ (4) From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m. 
+
+PART 29--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT 
+
+10. The authority citation for part 29 continues to read as follows: 
+
+ Authority: 49 U.S.C. Sec. Sec. 106(g), 40113, 44701, 44702, 44704. 
+
+ 11. Add Sec. 29.1317 to subpart F to read as follows: 
+
+Sec. 29.1317 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Except as provided in paragraph (d) of this section, each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the rotorcraft must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment I, as described in appendix E to this part; 
+
+ (2) The system automatically recovers normal operation of that function, in a timely manner, after the rotorcraft is exposed to HIRF environment I, as 
+
+described in appendix E to this part, unless this conflicts with other operational or functional requirements of that system; 
+
+ (3) The system is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment II, as described in appendix E to this part; and 
+
+ (4) Each function required during operation under visual flight rules is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment III, as described in appendix E to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 1 or 2, as described in appendix E to this part. 
+
+ (c) Each electrical and electronic system that performs such a function whose failure would reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 3, as described in appendix E to this part. 
+
+ (d) Before December 1, 2012, an electrical or electronic system that performs a function whose failure would prevent the continued safe flight and landing of a rotorcraft may be designed and installed without meeting the provisions of paragraph (a) provided-- 
+
+ (1) The system has previously been shown to comply with special conditions for HIRF, prescribed under Sec. 21.16, issued before December 1, 2007; 
+
+ (2) The HIRF immunity characteristics of the system have not changed since compliance with the special conditions was demonstrated; and 
+
+ (3) The data used to demonstrate compliance with the special conditions is provided. 
+
+12. Add appendix E to part 29 to read as follows: 
+
+Appendix E to Part 29-HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 29.1317. The field strength values for the HIRF environments and laboratory equipment HIRF test levels are expressed in root-mean- square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.--HIRF Environment II
+
+ (c) HIRF environment III is specified in the following table: 
+
+ Table III.--HIRF Environment III
+
+ (d) Equipment HIRF Test Level 1. 
+
+ (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibel (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 30 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 3 mA at 400 MHz. 
+
+ (4) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (5) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (e) Equipment HIRF Test Level 2. Equipment HIRF test level 2 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (f) Equipment HIRF Test Level 3. 
+
+ (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 40 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 40 MHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 7.5 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 0.75 mA at 400 MHz. 
+
+ (4) From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on July 30, 2007.
+
+Marion C. Blakey,
+
+Administrator.
+
+[FR Doc. E7-15195 Filed 8-3-07; 8:45 am]
+
+BILLING CODE 4910-13-P
+
+
+
+ 
+        
+NPRM ACTIONS: Not Applicable.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

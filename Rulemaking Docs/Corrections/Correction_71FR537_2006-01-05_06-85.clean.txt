@@ -1,0 +1,91 @@
+[Federal Register Volume 71, Number 3 (Thursday, January 5, 2006)]
+[Rules and Regulations]
+[Page 537]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 06-85]
+
+========================================================================
+Rules and Regulations
+                                                Federal Register
+________________________________________________________________________
+
+This section of the FEDERAL REGISTER contains regulatory documents
+having general applicability and legal effect, most of which are keyed
+to and codified in the Code of Federal Regulations, which is published
+under 50 titles pursuant to 44 U.S.C. 1510.
+
+The Code of Federal Regulations is sold by the Superintendent of Documents.
+Prices of new books are listed in the first FEDERAL REGISTER issue of each
+week.
+
+========================================================================
+
+Federal Register / Vol. 71, No. 3 / Thursday, January 5, 2006 / Rules
+and Regulations
+
+[[Page 537]]
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 23
+
+Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter
+Category Airplanes; Correction
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Correcting amendment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document makes a correction to the final rule published
+in the Federal Register on August 6, 1993 (58 FR 42165). That rule
+changed airframe and flight airworthiness standards for normal,
+utility, acrobatic and commuter category airplanes.
+
+DATES: Effective Date: This correction is effective on January 5, 2006.
+
+FOR FURTHER INFORMATION CONTACT: Joan Allen, telephone (202) 267-7037.
+
+SUPPLEMENTARY INFORMATION:
+
+Need for Correction
+
+    As published, the final regulation contains an error which may be
+misleading and needs to be clarified.
+
+List of Subjects in 14 CFR Part 23
+
+    Aircraft, Aviation safety, Signs and symbols.
+
+0
+Accordingly, 14 CFR part 23 is corrected by making the following
+correcting amendment:
+
+0
+1. The authority citation for part 23 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704.
+
+0
+2. Revise paragraph (b) of Sec.  23.773 to read as follows:
+
+Sec.  23.773  Pilot compartment view.
+
+* * * * *
+    (b) Each pilot compartment must have a means to either remove or
+prevent the formation of fog or frost on an area of the internal
+portion of the windshield and side windows sufficiently large to
+provide the view specified in paragraph (a)(1) of this section.
+Compliance must be shown under all expected external and internal
+ambient operating conditions, unless it can be shown that the
+windshield and side windows can be easily cleared by the pilot without
+interruption of normal pilot duties.
+
+    Issued in Washington, DC, on December 29, 2005.
+Anthony F. Fazio,
+Director, Office of Rulemaking.
+[FR Doc. 06-85 Filed 1-4-06; 8:45 am]
+BILLING CODE 4910-13-P

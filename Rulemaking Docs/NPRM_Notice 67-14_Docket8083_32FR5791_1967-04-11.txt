@@ -1,0 +1,1696 @@
+CFR NPRM: Part 23
+
+ 
+ 
+        
+CITATION: [Federal Register: April 11, 1967 (Volume 32, Number 69)]
+
+ 
+        
+PAGE NUMBER: [Page 5791]
+
+ 
+        
+DOCKET NUMBER: 8083
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT: Type Certification Standards
+
+ 
+        
+ACTION: Notice of Proposed Rulemaking
+
+ 
+        
+SUMMARY: The Federal Aviation Administration is considering amending Part 23 of the Federal Aviation Regulations to revise the type certification standards for small airplanes. On October 25 through 29, 1965, the then Federal Aviation Agency held an Agency-Industry conference to review regulations dealing with the manufacture of small airplanes. The conference agenda included numerous type certification items of possible regulatory significance. Those items that the Administrator considers appropriate for immediate rule making action are proposed in this notice, together with proposals developed by the FAA and not covered at the conference.
+
+ 
+        
+DATES: Comments on this notice must be received on or before July 8, 1967.
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: Interested persons are invited to participate in the making of these proposed rules by submitting such written data, views, or arguments as they may desire. Communications should identify the regulatory docket or notice number and be submitted in duplicate to: Federal Aviation Administration, Office of the General Counsel, Attention: Rules Docket, GC-24, 800 Independence Avenue SW., Washington, D.C. 20553. All communications received on or before July 8, 1967, will be considered by the Administrator before taking action upon the proposed rule. The proposals contained in this notice may be changed in the light of comments received. All comments will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons.
+
+ 
+
+ 
+
+ 
+        
+REGULATORY TEXT: Flight Proposals
+
+ Proposal 1. Landing demonstration for aircraft of more than 6,000 pounds maximum weight (Sec. 23.75 (a)). Section 23.75 (a) would be amended by -
+
+ a. Striking out the figure "1.5" between the words "least" and "must" in Sec. 23.75 (a) (1) and inserting the figure "1.4" in place thereof;
+
+ b. Adding a new Sec. 23.75 (a) (4) and (5) reading as follows:
+
+ Sec. 23.75 Landing.
+
+ (a) * * *
+
+ (4) It must be shown that a safe transition to the balked landing conditions of Sec. 23.77 can be made from the conditions that exist at the 50-foot height.
+
+ (5) Changes in configuration, power or thrust, and speed must be made in accordance with procedures established under Sec. 23.1585.
+
+* * * * *
+
+ Explanation. The reduction from to is proposed because experience has shown that the landing distance can be safely demonstrated and duplicated, without exceptional piloting skill or exceptionally favorable conditions, at speed down to provided the selected speed is great enough to allow a safe transition to the balked landing conditions of Sec. 23.77 from the conditions established for the 50-foot height. Since the landing and balked landing procedures may be more critical at the lower airspeed, those procedures would be specifically added to the operating procedures portion of the Airplane Flight Manual (see Proposal 10 amendment of Sec. 23.1585) and the entire paragraph (a) would be made subject to those procedures (proposed (a) (5)).
+
+ Proposal 2. Weights and landing conditions for demonstration of flight characteristics (Sec. 23.141). In Sec. 23.141, paragraphs (b) and (c) would be deleted, and paragraph (a) would be editorially revised accordingly.
+
+ Explanation. Section 23.21 requires that each requirement in Subpart B must be met at each "appropriate combination of weight and center of gravity within the range of loading conditions for which certification is requested." The quoted words include all critical loading conditions and the highest weight for which certification is requested. Therefore, Sec. 23.141 (b) and (c) are surplus. Further, literal compliance with Sec. 23.141 (b) and (c) would require that certain flight requirements be shown, at the maximum altitude for which certification is requested (which is a "normally expected operation altitude"), with the highest weight for which certification is requested. This is an unnecessary burden that is not intended under Sec. 23.141.
+
+ Proposal 3. Propeller position for demonstration of minimum control speed (Sec. 23.149 (a)). Section 23.149 (a) would be amended by adding the following new subparagraph (5):
+
+ Sec. 23.149 Minimum control speed.
+
+ (a) * * *
+
+ (5) The propeller of the inoperative engine -
+
+ (i) Windmilling, with the propeller speed or pitch control in the takeoff position; or
+
+ (ii) Feathered, if the airplane has an automatic feathering device and the feathering function is shown to be reliable.
+
+ * * * * *
+
+ Explanation. Section 23.149(a) describes the conditions under which the minimum control speed must be determined. Propeller position is an important such condition since the minimum control speed may be reduced if propeller feathering is allowed. Section 23.149 (a) does not specify propeller position. If an automatic feathering device is used, and its feathering function has been shown to be reliable, no adverse effect on safety will result if the minimum control speed is determined with the propeller on the inoperative engine feathered. In other cases, safety requires that the minimum control speed be determined with the propeller windmilling.
+
+ Proposal 4. Demonstration of longitudinal trim (Sec. 23.161 (c)). Subparagraphs (3), (4), and (5), of Sec. 23.161 (c) would be amended to read as follows:
+
+ Sec. 23.161 Trim.
+
+ * * * * *
+
+ (c) Longitudinal trim. * * *
+
+ (3) A power approach with a three degree angle of descent, the landing gear extended, flaps retracted and -
+
+ (i) A speed of , for airplanes of 6,000 pounds or less maximum weight; or
+
+ (ii) The speed used under Sec. 23.75 (a), for airplanes of more than 6,000 pounds maximum weight;
+
+ (4) A power approach with a 3 degree angle of descent, the landing gear extended, the most forward center of gravity approved for the maximum weight, and -
+
+ (i) A speed of , with flaps extended, for airplanes of 6,000 pounds or less maximum weight; or
+
+ (ii) The speed and flap position used under Sec. 23.75(a), for airplanes of more than 6,000 pounds maximum weight; and
+
+ (5) A power approach with a 3 degree angle of descent, the landing gear extended, the most forward center of gravity approved for any weight, and -
+
+ (i) A speed of with flaps extended, for airplanes of 6,000 pounds or less maximum weight; or
+
+ (ii) The speed and flap position used under Sec. 23.75 (a) for airplanes of more than 6,000 pounds maximum weight.
+
+ * * * * *
+
+ Explanation. Two changes would be made under this proposal:
+
+ (1) The speed would be reduced to for power approaches with airplanes of 6,000 pounds or less maximum weight. Under Proposal 1, above, it is expected that most airplanes with maximum weights of over 6,000 pounds will demonstrate landing distance at the minimum permissible airspeed under that proposal, which is . No approach speed is currently specified for airplanes of 6,000 pounds or less maximum weight. There is no reason to require airplanes with maximum weights over and under 6,000 pounds to demonstrate longitudinal trim at different approach speeds solely because of the weight difference. This is the reason for specifying for airplanes of 6,000 pounds or less maximum weight.
+
+ (2) For airplanes of over 6,000 pounds maximum weight, this proposal would recognize that, while most airplanes will demonstrate landing distance under Sec. 23.75(a) at , it is possible that a higher airspeed may be necessary for compliance with all of Sec. 23.75 (a), particularly the transition-to-balked-landing requirement of proposed (a)(5). For these airplanes, as for airplanes of 6,000 pounds or less maximum weight, the longitudinal trim should be demonstrated at the speed at which the landing distance is determined. In addition, for airplanes of over 6,000 pounds maximum weight, the present requirement for extended flaps does not necessarily reflect the representative power approach flap position. The representative flap position is that used during demonstrations of landing distance under Sec. 23.75 (a). This flap position would therefore be specified for demonstration of longitudinal trim for power approaches with those aircraft.
+
+ Proposal 5. Static longitudinal stability (Sec. 23.175). Section 23.175 would be amended to read as follows:
+
+ Sec. 23.175 Demonstration of static longitudinal stability.
+
+ Static longitudinal stability must be shown as follows:
+
+ (a) Climb. The stick force curve must have a stable slope, at speeds between 85 and 115 percent of the trim speed, with -
+
+ (1) Flaps in the climb position;
+
+ (2) Landing gear retracted;
+
+ (3) 75 percent of maximum continuous power for reciprocating engines or the maximum power or thrust selected by the applicant as an operating limitation for use during climb for turbine engines; and
+
+ (4) The airplane trimmed for or the climb speed recommended by the applicant.
+
+ (b) Cruise. Static longitudinal stability must be shown in the cruise condition as follows:
+
+ (1) With the landing gear retracted at high speed, the stick force curve must have a stable slope at all speeds within a range that is the greater of 15 percent of the trim speed plus the resulting free return speed range, or 40 knots plus the resulting free return speed range, above and below the trim speed (except that the speed range need not include speeds that require a stick force of more than 40 pounds), with -
+
+ (i) Flaps retracted;
+
+ (ii) 75 percent of maximum continuous power for reciprocating engines or, for turbine engines, the maximum cruising power or thrust selected by the applicant as an operating limitation, except that the power need not exceed that required at ; and
+
+ (iii) The airplane trimmed for level flight.
+
+ (2) With the landing gear retracted at low speed, the stick force curve must have a stable slope under all the conditions prescribed in subparagraph (1) of this paragraph except that power for maximum range must be used.
+
+ (3) With the landing gear extended, the stick force curve must have a stable slope at all speeds within a range from 15 percent of the trim speed plus the resulting free return speed range below the trim speed, to the trim speed (except that the speed range need not include speeds less than nor speeds greater than nor speeds that require a stick force of more than 40 pounds), with -
+
+ (i) Flaps retracted;
+
+ (ii) Power required for level flight at ; and
+
+ (iii) The airplane trimmed for level flight.
+
+ (c) Approach and landing. The stick force must have a stable slope at all speeds between and with -
+
+ (1) Landing gear extended;
+
+ (2 The airplane trimmed at -
+
+ (1) , with flaps extended (for airplanes of 6,000 pounds or less maximum weight); or
+
+ (ii) The approach speed used under Sec. 23.75 (a)(1) with flaps in the approach position used under Sec. 23.75 (a) (for airplanes of more than 6,000 pounds maximum weight); and 
+
+ (3) Enough power to maintain a 3 degree angle of descent.
+
+ Explanation. Paragraphs (a) and (b) of Sec. 23.175 now require that a stable stick force be shown over ranges of speed values defined solely in relation to . For modern high speed airplanes, the specified speed ranges may be so wide as to be unrepresentative of actual operation since the airplane would, in normal operation, be retrimmed at a smaller departure from trim speed. For transport category airplanes, this problem has been satisfactorily met by specifying a representative departure from the trim speed in terms of percent of trim speed. For small airplanes as well as for transport category airplanes, 15 percent above and below trim speed is representative of the departures beyond which the airplane would be retrimmed in the climb condition. For the cruise condition, representative departures include speeds within either 15 percent of the trim speed plus the free return speed or 40 knots plus the free return speed.
+
+ Paragraph (a) (1) would be amended by requiring flaps to be in the "climb position" rather than retracted, since some position other than retracted may be more representative of the climb flap position used on airplanes with wide speed ranges.
+
+ The reference to "maximum weight" throughout Sec. 23.175 would be deleted as surplus since Sec. 23.21 (a) requires compliance at each appropriate combination of weight and center of gravity.
+
+ In order to accommodate turbine engines, the present requirement of 75 percent power in paragraphs (a) and (b) of Sec. 23.175 would be specifically restricted to reciprocating engines, and the maximum power or thrust selected by the applicant as an operating limitation for climb would be added for turbine engines.
+
+ The trim speed for static longitudinal stability in climb would be changed from to either or the recommended climb speed because (1) the speed may not be representative of the climb speeds of relatively high speed airplanes, and (2) the speed and the recommended climb speed are by definition representative of the climb speeds of all airplanes, regardless of their speed range.
+
+ The investigation of the cruise condition would be further changed by requiring a showing of a stable stick force not only at 75 percent power (or corresponding power or thrust for turbine engines) for high speed cruise, but also at the power for maximum range. Here, again, the speed range of modern airplanes is becoming so great that to require stability to be shown over the whole cruise range when trimmed for one cruise speed is unduly severe and is unrepresentative of actual practice, which typically involves two main cruise conditions, the high speed cruise and the maximum range cruise.
+
+ The landing gear extended cruise condition would be amended consistent with the amendment proposed for the high (and low) speed cruise conditions. This involves incorporation of the speed departure range and the 40-pound stick force factor. The requirement of flaps retracted would involve no substantive change from the present rule nor would the requirement for power and trim for in level flight. Paragraph (c) would be amended in two main respects: First, the speed and flap positions used under Sec. 23.75 (a) would be referred to in order to make the approach and landing stability investigation consistent with the approach trim investigation in Sec. 23.161 (c) which, under Proposal 2, would also cross reference Sec. 23.75 (a). Second, the 40-pound stick force limit would be deleted since Sec. 23.143 prescribes control force values that prevent excessive stick forces.
+
+ Proposal 6. Normal category spin recovery (Sec. 23.221 (a)). Paragraph (a) of Sec. 23.221 would be amended by inserting the words "or a 3-second spin, whichever takes longer" between the words "one-turn spin" and the words "in not more than".
+
+ Explanation. The purpose of the spin recovery requirement is to ensure that recovery can be accomplished from a point that is as far into the spin as the average pilot would permit a spin to develop inadvertently before recovery use of the controls is begun. When the present rule was adopted, representative turn rates for the first turn were generally low enough so that recovery would normally be begun by completion of the first turn. The trend, however, is for design features that result in greater turn rates in spins. Thus the point for beginning recovery cannot be meaningfully described in terms of the first turn alone, but must also be determined by reference to a time value that is conservatively representative of the expected piloting response to inadvertent spin entry. Three seconds is believed to be such a value.
+
+ Proposal 7. Acrobatic category spin recovery (Sec. 23.221 (c)). Paragraph (c) of Sec. 23.221 would be amended by -
+
+ a. Striking out the words "must be able to spin at least six turns and" between the words "an acrobatic category airplane" and the words "must meet"; and
+
+ b. Amending subparagraph (1) to read as follows:
+
+ 
+
+ Sec. 23.221 Spinning.
+
+ * * * * *
+
+ (c) Acrobatic category. * * *
+
+ (1) The airplane must recover from any point in a spin, in not more than one and one-half additional turns after normal recovery application of the controls. Prior to normal recovery application of the controls, the spin test must proceed for six turns or 3 seconds, whichever takes longer, with flaps retracted, and one turn or 3 seconds, whichever takes longer, with flaps extended. However, beyond 3 seconds, the spin may be discontinued when spiral characteristics appear with flaps retracted.
+
+* * * * *
+
+ Explanation. The main effect of this proposal would be to eliminate the requirement that the airplane be capable of spinning a minimum number of turns. Safety does not require that the airplane be able to spin, but only that recovery be possible from any spin within the ability of the airplane. For airplanes capable of many turns, the present values of six turns and one turn, for flaps retracted and extended, respectively, remain appropriate limits beyond which recovery need not be investigated for intentional spins. However, for inadvertent spins, the time of spin development for acrobatic category airplanes should not be less than that of normal category airplanes which must, under Proposal 6, above, be investigated for a time duration representative of normal piloting response, namely, 3 seconds.
+
+ Since the 3-second period is representative of normal piloting response time, this proposal would specify that each spin may be discontinued when spiral characteristics appear beyond the 3-second period where six turns are required (flaps retracted). However, for the flaps extended case, safety requires that the one full turn be performed, even if it takes longer than 3 seconds, regardless of spiral characteristics.
+
+ Proposal 8. Stall warning speeds and means (Sec. 23.207). Section 23.207 would be amended to read as follows:
+
+ Sec. 23.207 Stall warning.
+
+ (a) There must be a clear and distinctive stall warning, with the flaps and landing gear in any normal position, in straight and turning flight.
+
+ (b) The stall warning may be furnished either through the inherent aerodynamic qualities of the airplane or by a device that will give clearly distinguishable indications under expected conditions of flight. However, a visual stall warning device that requires the attention of the crew within the cockpit is not acceptable by itself.
+
+ (c) The stall warning must begin at a speed exceeding the stalling speed by a margin of not less than 5 knots but not more than 15 knots. In addition -
+
+ (1) For each condition investigated under paragraph (a) of this section, the stall warning margin above the stalling speed for that condition must be within 5 knots of the stall warning margin above the stalling speed for every other condition investigated under paragraph (a) of this section.
+
+ (2) When stall warning begins, it must continue until the stall occurs.
+
+ Explanation. Section 23.207 now requires that stall warning occur between 5 and 10 miles per hour above the stalling speed for each condition. This results in a spread, between the margins above the stalling speeds for every condition, of not more than 5 miles per hour. This narrow spread is desirable since it gives initial stall warning the same meaning to the pilot under all conditions. Except for the change to knots (consistent with the general change to nautical units being made throughout the regulations) this speed spread would be specifically preserved in proposed Sec. 23.207 (c) (1). However, notwithstanding the desirability of a narrow speed spread between conditions, experience has shown that the range of allowable speed margins above stalling speed for each condition should be broadened for high speed aircraft, for which even a 10-m.p.h. warning may be proportionately very small and of limited value as a true warning. For slow airplanes, on the other hand, a slightly greater margin than that presently allowed would not be inconsistent with safety. For all airplanes, it is believed that an increase in the maximum allowable margin above stall to 15 knots will avoid any unnecessary penalty associated with the present narrow stall warning margins that result from a 10-m.p.h. limit, while providing a margin that is still narrow enough to prevent stall warning from invading the area of normal operation and thus losing its effectiveness as a true warning or alarm.
+
+ Proposal 9. Warning, caution, and advisory lights (new Sec. 23.1322). New Sec. 23.1322 would be added to read as follows:
+
+ If warning, caution, or advisory lights are used, they must be -
+
+ (a) Red, for warning lights (lights indicating a hazard requiring immediate corrective action);
+
+ (b) Amber, for caution lights (lights indicating the possible need for future corrective action); and
+
+ (c) Green, for advisory lights (lights used solely for information not indicating the need for corrective action).
+
+ Explanation. The use of lights on airplanes as sources of information is becoming common. There is little color standardization in this area. It is believed that standardization may be necessary for safety.
+
+ Proposal 10. Airspeed placards, markings, and information (Secs. 23.1563, 23.1583, and 23.1585). 1. Section 23.1563 would be amended to read as follows:
+
+ Sec. 23.1563 Airspeed placards.
+
+ There must be an airspeed placard in clear view of the pilot and as close as practicable to the airspeed indicator. This placard must list -
+
+ (a) The design maneuvering speed ; and
+
+ (b) The maximum landing gear operating speed 
+
+ Explanation. There is generally not enough space close to the airspeed indicator, for placard information that is not essential for safe operation of the airplane. Regardless of airplane weight (over or under 6,000 pounds maximum weight), the two speeds that are not currently marked on the airspeed indicator but that are essential to safe operation of the airplane are the maximum speed for landing gear operation and the design maneuvering speed (). Safety requires that these speed values remain clearly posted within the pilot's line of vision next to the appropriate instrument. This proposal also deletes the maximum speed with landing gear extended () from the required airspeed placard. This speed can be safely furnished as an operating limitation solely (see Proposal (2) below). The other speeds now prescribed in Sec. 23.1563 may be safely recorded elsewhere than on valuable placard space.
+
+ 2. Section 23.1583(a) would be amended to read as follows:
+
+ Sec. 23.1583 Operating limitations.
+
+ (a) Airspeed limitations. The following information must be furnished:
+
+ (1) Information necessary for the marking of the airspeed limits on the indicator as required in Sec. 23.1545, and the significance of each of those limits and of the color coding used on the indicator.
+
+ (2) The speeds , , and and their significance.
+
+ * * * * *
+
+ Explanation. Since and will continue to appear on a placard close to the airspeed indicator, and since these speeds, being the only speeds on the placard, would be prominently displayed on the placard, it is unnecessary to require that these speeds also be marked on the airspeed indicator itself as is now required. However, it is intended that these speeds continue to be furnished as operating limitations, and that the maximum speed with landing gear extended 
+
+(), which is no longer necessary on the airspeed placard of Sec. 23.1563 (see Proposal (1) above) be similarly furnished.
+
+ 3. Section 23.1585 would be amended by adding the words "including the demonstrated crosswind velocity and procedures and information pertinent to operation of the airplane in crosswinds" at the end of paragraph (a), and by amending paragraph (b) to read as follows:
+
+ Sec. 23.1585 Operating procedures.
+
+ * * * * *
+
+ (b) For airplanes of more than 6,000 pounds maximum weight, the airspeeds, procedures, and information pertinent to the use of the following airspeeds must be furnished:
+
+ (1) The recommended climb speed;
+
+ (2) ; and
+
+ (3) The approach speeds, including speeds for transition to the balked landing condition.
+
+ * * * * *
+
+ Explanation. For all airplanes, Sec. 23.1585 (a) now requires that the Airplane Flight Manual must contain all pertinent procedures and information necessary for safe operation." Insofar as crosswind procedures and velocities are necessary for safe operation, this information must already be furnished and no substantive change would result. However, since the demonstrated crosswind velocity is being removed from the placard requirement of Sec. 23.1563, this information would be specifically added to Sec. 23.1585 (a) to avoid any inference that pertinent crosswind information is not "necessary for safe operation."
+
+ For airplanes of more than 6,000 pounds maximum weight, Sec. 23.1585 (b) now requires that the Airplane Flight Manual must contain all pertinent procedures and information concerning the speeds prescribed in the airspeed placard requirement of Sec. 23.1563 (b). While the recommended climb speed, , and the approach speeds would be deleted from the airspeed placard (see above), it is not the intent of this proposal to remove them from the Airplane Flight Manual. The reference to speeds for balked landing would be added consistent with flight Proposal 1.
+
+ Proposal 11. Airplane Flight Manual: performance information (Sec. 23.1587). A new Sec. 23.1587 (c) (3) would be added to read as follows:
+
+ Sec. 23.1587 Performance information.
+
+ * * * * *
+
+ (c) Multiengine airplanes. * * *
+
+ (3) The calculated approximate effect, on the steady rate of climb determined under Sec. 23.67 (b), of variations in -
+
+ (i) Altitude from sea level to 8,000 feet in a standard atmosphere; and
+
+ (ii) Temperature, at those altitudes, from 60° F. below standard to 40° F. above standard.
+
+ Explanation. For multiengine airplanes of 6,000 pounds or less maximum weight, the value of the rate of climb information determined under Sec. 23.67 (b) is compromised since there is no requirement that this information be recorded. So far as the calculated effect of altitude and temperature is concerned, this proposal would accomplish, for multiengine airplanes of 6,000 pounds or less maximum weight, what is accomplished for multiengine airplanes of more than 6,000 pounds maximum weight by Sec. 23.1587 (b) (6). These calculations are important for the safe operation of the aircraft regardless of weight. Consistent with proposed new Sec. 23.1587 (c) (3) (ii), the words "minus" and "plus" would be deleted, as unnecessary, from Sec. 23.1587 (b) (6) (ii).
+
+ Proposal 12. Flight load factors as information rather than as operating limitations (New Sec. 23.1591). a. Section 23.1581 would be amended by striking out the reference "23.1589" wherever it is used, and inserting the reference "23.1591" in place thereof.
+
+ b. Section 23.1583 (f) would be deleted, and a new Sec. 23.1591 would be added to read as follows:
+
+ Sec. 23.1591 Flight load factor information.
+
+ The positive limit load factors, in g's, must be furnished.
+
+ Explanation. While the established positive limit load factors are part of the type design and should continue to be furnished as information concerning the type design, the present requirement that the load factors be listed as operating limitations is not realistic since inflight recording of acceleration loads is not required.
+
+ Airframe Proposals
+
+ Proposal 1. Minimum weight for turbojet powered airplanes (Sec. 23.25 (b) (4)). Section 23.25 (b) (4) would be amended to read as follows:
+
+ Sec. 23.25 Weight limits.
+
+ * * * * *
+
+ (b) Minimum weight. * * *
+
+ (4) The weight of -
+
+ (i) For turbojet powered airplanes, 5 percent of the standard fuel capacity; and
+
+ (ii) For other airplanes, the fuel necessary for one-half hour of operation at maximum continuous power.
+
+ Explanation. The current requirement of one-half hour of fuel at maximum continuous power, while satisfactory for turbopropeller and reciprocating engine powered airplanes, is unrealistic and unconservative for turbojet powered airplanes. For those airplanes, this proposal would apply a standard that provides a reasonable relief from the need to consider a zero fuel weight condition and also provides a reasonable minimum weight fuel criterion.
+
+ Proposal 2. Design dive and operating speeds (Secs. 23.253, 23.335, 23.1505, and 23.1545). 1. A new Sec. 23.253 would be added to read as follows:
+
+ Sec. 23.253 High speed characteristics.
+
+ If a maximum operating speed / is established under Sec. 23.1505 (c), the following speed increase and recovery characteristics must be met:
+
+ (a) Operating conditions and characteristics likely to cause inadvertent speed increases (including upsets in pitch and roll) must be simulated with the airplane trimmed at any likely cruise speed up to / . These conditions and characteristics include gust upsets, inadvertent control movements, low stick force gradient in relation to control friction, passenger movement, leveling off from climb, and descent from Mach to airspeed limit altitude.
+
+ (b) Allowing for pilot reaction time after effective inherent or artificial speed warning occurs, it must be shown that the airplane can be recovered to a normal altitude and its speed reduced to / , without -
+
+ (1) Exceptional piloting strength or skill;
+
+ (2) Exceeding /, the maximum speed shown under Sec. 23.251, or the structural limitations; or 
+
+ (3) Buffeting that would cause structure damage.
+
+ (c) There may be no control reversal about any axis at any speed up to the maximum speed shown under Sec. 23.251. Any reversal of elevator control force or tendency of the airplane to pitch, roll, or yaw must be mild and readily controllable, using normal piloting techniques.
+
+ 2. A new Sec. 23.335 (a) (3) would be added to read as follows:
+
+ Sec. 23.335 Design airspeeds.
+
+ * * * * *
+
+ (a) * * * 
+
+ (3) At altitudes where an is established, a cruising speed limited by compressibility may be selected.
+
+ * * * * *
+
+ 3. Section 23.335 (b) (1) would be amended by deleting the words "with the required minimum design cruising speed". and Secs. 23.335 (b) (1) (i) through (iii) would be amended by changing "" to "".
+
+ 4 A new Sec. 23.335 (b) (3) would be added to read as follows:
+
+ Sec. 23.335 Design airspeeds.
+
+ * * * * *
+
+ (b) * * *
+
+ (3) Compliance with subparagraph (1) of this paragraph need not be shown if /is selected so that / is no greater than 0.8 /, or if / is selected so that the minimum speed margin between / and / is the greater of the following:
+
+ (i) The speed increase resulting when, from the initial condition of stabilized flight at /, the airplane is assumed to be upset, flown for 20 seconds along a flight path 7.5 degrees below the initial path, and then pulled up with a load factor of 1.5 (0.5g acceleration increment). At least 75 percent maximum continuous power for reciprocating engines, and maximum cruising power for turbines, or, if less, the power required for / for both kinds of engines, must be assumed until the pullup is initiated, at which point power reduction and pilot-controlled drag devices may be used.
+
+ (ii) Mach 0.05.
+
+ * * * * *
+
+ 4. A new Sec. 23.1505 (c) would be added to read as follows:
+
+ Sec. 23.1505 Airspeed limitations.
+
+ * * * * *
+
+ (c) Paragraphs (a) and (b) of this section do not apply to aircraft for which a design diving speed / is established under Sec. 23.335 (b) (3). For those aircraft, a maximum operating limit speed (/-airspeed or Mach number, whichever is critical at a particular altitude) must be established as a speed that may not be deliberately exceeded in any regime of flight (climb, cruise, or descent) unless a higher speed is authorized for flight test or pilot training operations. / must be established so that it is not greater than the design cruising speed / and so that is sufficiently below / and the maximum speed shown under Sec. 23.251 to make it highly improbable that the latter speeds will be inadvertently exceeded in operations. The speed margin between/ and / or the maximum speed shown under Sec. 23.251 may not be less than that established between / and / under Sec. 23.335 (b) (3), or found necessary in the flight test conducted under Sec. 23.253.
+
+ 5. A new Sec. 23.1545 (d) would be added to read as follows:
+
+ Sec. 23.1545 Airspeed indicator.
+
+ * * * * *
+
+ (d) Paragraphs (b) (1) through (3) and (c) of this section do not apply to aircraft for which a maximum operating speed / is established under Sec. 23.1505 (c). For those aircraft there must either be a maximum allowable airspeed indication showing the variation of / with altitude or compressibility limitations (as appropriate), or the following markings must be made:
+
+ (1) For / a radial red line.
+
+ (2) For the normal operating range, a green arc with the lower limit at at maximum weight and with wing flaps retracted, and the upper limit at /. 
+
+ Explanation. For high performance aircraft, the current design airspeed requirements are unduly restrictive, particularly the requirement that be no less than 1.40 times For high performance aircraft, a more rational basis for selecting design speeds is necessary to permit smaller spreads between and . Provision for design speeds limited by compressibility should also be made. This amendment would accomplish this result for high performance aircraft without affecting the current design airspeed requirements for applicants who still wish to comply with them.
+
+ Proposal 3. Mass parameter method of gust load investigation (Secs. 23.333, 23.341, 23.345, 23.425, 23.443, and A23.3).
+
+ 1. Section 23.333 would be amended by striking out paragraph (c), by changing the heading of paragraph (d) to "Gust envelope", and by amending the envelope of paragraph (d) as follows, consistent with the gust envelope in Sec. 25.333 (c) of Part 25:
+
+ a. Each curve would include the identification "gust line for."
+
+ b. The symbols "+30 (fps gust)", "+15K","-15K", and "-30K" would be amended, respectively, to read " speed", 
+
+" speed", " speed", and speed."
+
+ 2. Section 23.341 would be amended to read as follows:
+
+ Sec. 23.341 Gust loads. 
+
+ (a) The airplane is assumed to be subjected to symmetrical vertical gusts in level flight. The resulting limit load factors must correspond to the conditions determined as follows:
+
+ (1) Positive (up) and negative (down) gusts of 50 fps at must be considered at altitudes between sea level and 20,000 feet. The gust velocity may be reduced linearly from 50 fps at 20,000 feet to 25 fps at 50,000 feet.
+
+ (2) Positive and negative gusts of 25 fps at must be considered at altitudes between sea level and 20,000 feet. The gust velocity may be reduced linearly from 25 fps at 20,000 feet to 12.5 fps at 50,000 feet.
+
+ (b) The following assumptions must be made:
+
+ (1) The shape of the gust is -
+
+ 
+
+ 
+
+ where--
+
+ 8=distance penetrated into gust (ft);
+
+ =mean geometric chord of wing (ft.); and
+
+ =derived gust velocity referred to in paragraph (a) (fps).
+
+ (2) Gust load factors vary linearly with speed between and 
+
+ (c) In the absence of a more rational analysis, the gust load factors must be computed as follows:
+
+ 
+
+ Where--
+
+ Kg = = gust alleviation factor;
+
+ = = airplane mass ratio; 
+
+ Ude = derived gust velocities referred to in paragraph (a) (fps);
+
+ p = density of air (slugs/cu. ft.);
+
+ W/S = wing loading (psf);
+
+ = mean geometric chord (ft.);
+
+ g = acceleration due to gravity (ft./sec.2);
+
+ V = airplane equivalent speed (knots); and
+
+ a = slope of the airplane normal force coefficient curve per radian if the gust loads are applied to the wings and horizontal tail surfaces simultaneously by a rational method. The wing lift curve slope CL per radian may be used when the gust load is applied to the wings only and the horizontal tail gust loads are treated as a separate condition.
+
+ 3. Section 23.345 (a) (2) would be amended by changing the gust velocity value from 15 fps to 25 fps.
+
+ 4. Section 23.425 (a) (1) and (2) and (d) would be amended to read as follows:
+
+ Sec. 23.425 Gust loads.
+
+ (a) * * *
+
+ (1) Gust velocities specified in Sec. 23.341 (a) with flaps retracted; and
+
+ (2) Positive and negative gusts of 25 fps nominal intensity at corresponding to the flight condition specified in Sec. 23.345 (a) (2).
+
+ * * * * *
+
+ (d) In the absence of a more rational analysis, the incremental tail load due to the gust must be computed as follows:
+
+ 
+
+ where--
+
+ = incremental horizontal tail load (lbs.);
+
+ Kg = gust alleviation factor defined in Section 23.341;
+
+ Ude = derived gust velocity (fps);
+
+ V= airplane equivalent speed (knots);
+
+ aht = slope of horizontal tail lift curve (per radian);
+
+ Sht = area of horizontal tail (ft2); and
+
+ = downwash factor.
+
+ 5. Sections 23.443 (a) and (b) would be amended to read as follows:
+
+ Sec. 23.443 Gust loads.
+
+ (a) Vertical tall surfaces must be designed to withstand, in unaccelerated flight, lateral gusts of the values prescribed for in Sec. 23.341 (a).
+
+ (b) In the absence of a more rational analysis, the gust load must be computed as follows:
+
+ 
+
+ Where --
+
+ Lvt = Vertical tail loads (lbs);
+
+ Kgt = = gust alleviation factor;
+
+ = = lateral mass ratio;
+
+ Ude= derived gust velocity (f.p.s.);
+
+ = air density (slugs/cu.ft.);
+
+ W = airplane weight (lbs.);
+
+ Svt = area of vertical tail (ft.2);
+
+ = mean geometric chord or vertical surface (ft.);
+
+ avt = lift curve slope of vertical tail (per radian);
+
+ K = radius of gyration in yaw (ft.);
+
+ 1t = distance from airplane c.g. to lift center of vertical surface (ft.);
+
+ g = acceleration due to gravity (ft./sec.2); and
+
+ V = airplane equivalent speed (knots).
+
+ * * * * *
+
+ 6. Section A23.3 of Appendix A of Part 23 would be amended by striking out the term "30 fps" from the definitions of and 
+
+ Explanation. The present gust load substantiation requirements, prescribed gusts magnitudes, and associated gust load factor formulae are based on airplane wing loading concepts, and do not account for the effect of altitude on gust loads. The several changes under this proposal would substitute gust investigation based on airplane mass parameter concepts in place of the present wing loading concepts. Experience with similar mass parameter derived requirements in Part 25 has shown these requirements to be more accurate than the present requirements at higher altitudes and more representative of actual gust loads sustained at low altitudes. The changes to the gust envelope in Sec. 23.333 (d) are proposed in order to represent graphically the variation of investigated gust velocities with altitude that is assumed under the mass approach. Several changes in prescribed values are proposed, such as the increased gust velocity from 15 to 25 fps in change No. 3. These changes appear to be large changes in substance. However, when the proposed values are placed in the proposed formulae, the resultant burdens are similar to those under the present wing loading derived standards.
+
+ Proposal 4. Determination of design cruising speed (Sec. 23.335). Section 23.335 (a) (2) would be amended, (a) (3) added, and (b) (2) amended to read as follows:
+
+ Sec. 23.335 Design airspeeds.
+
+ * * * * *
+
+ (a) * * *
+
+ (2) For values of W/S more than 20, the multiplying factors may be decreased linearly with W/S to a value of 33 where W/S=100.
+
+ (3) need not exceed 0.9 . 
+
+ (b) * * *
+
+ (2) For values of W/S more than 20, the multiplying factors may be decreased linearly with W/S to a value of 1.35 where W/S=100.
+
+ * * * * *
+
+ Explanation. Two changes are proposed. First, the rule would be changed to make it clear that the specified linear decreases in the multiplying factors determining design cruising speed are allowed but not required. This change reflects long standing intent with respect to the rule. Second, permission to limit design cruising speed to 0.9 would be extended to all airplanes. For airplanes with wing loadings of 20 or less, as well as those with wing loadings greater than 20, an unnecessary burden may result from requiring that the design cruising speed be determined solely with reference to wing loading and the multiplying factors specified in Sec. 23.335 (a) (1). Since is the maximum speed in level flight with rated r.p.m. and power, safety will not be compromised if the design cruising speed is not required to exceed 0.9 
+
+ Proposal 5. Normal category minimum limit maneuvering load factor (Sec. 23.337). Section 23.337 (a) (1) would be amended by striking out the words following the number "3.8."
+
+ Explanation. The present minimum limit maneuvering load factor of 2.5 is below the minimum that can be obtained using the greatest possible weight under Part 23, namely 12,500 pounds. Since this weight parameter determines the minimum limit maneuvering load factor that can possibly be obtained under the formula, no minimum need be specified.
+
+ Proposal 6. Substantiation of high lift devices (Sec. 23.345). Section 23.345 (e) would be amended by striking out the cross reference to Sec. 23.175 (c).
+
+ Explanation. It is impractical to combine flight test conditions and airload conditions, which is the effect of the cross reference to Sec. 23.175 (c).
+
+ Proposal 7. Rolling conditions (Sec. 23.349). The term "wing airload" in Sec. 23.349 (a) (1) and (2) would be changed to "semispan wing airload."
+
+ Explanation. The airloads to which the prescribed percentages apply are the wing airloads on each side of the roll axis, not the total wing airload. Therefore, "wing airload" is too broad. "Semi-span wing airload" is more precise.
+
+ Proposal 8. Engine torque (Sec. 23.361). 1. The word "and" following Sec. 23.361 (a) (1) would be moved to follow Sec 23.361 (a) (2), a semicolon would be inserted to replace the period following Sec. 23.361 (a) (2), and a new Sec. 23.361 (a) (3) would be added to read as follows:
+
+ Sec. 23.361 Engine torque.
+
+ * * * * *
+
+ (a) * * *
+
+ (3) For turbopropeller installations, in addition to the conditions specified in subparagraphs (1) and (2) of this paragraph, the limit engine torque corresponding to takeoff power and propeller speed, multiplied by a factor accounting for propeller control system malfunction, including quick feathering, acting simultaneously with 1g level flight loads. In the absence of a rational analysis, a factor of 1.6 must be used.
+
+ * * * * *
+
+ 2. Subparagraphs (1) and (2) of Sec. 23.361 (b) would be redesignated as subparagraphs (2) and (3), respectively, and a new subparagraph (1) would be added to read as follows:
+
+ (1) 1.25 for turbopropeller installations.
+
+ Explanation. For turbopropeller installations, the present requirements fall to account for torque loadings transmitted to the engine mount and related structure during a control malfunction, such as sudden feathering of the propeller. These loadings together with 1g flight loads could be critical for the engine mounting structure. The present requirements also fail to recognize that the smooth power impulse characteristics of turbine engines justify a multiplying factor as low as 1.25. This proposal would correct these deficiencies in a manner consistent with the requirements in Sec. 25.361 of Part 25, which have been safely applied.
+
+ Proposal 9. Unsymmetrical loads due to turbine engine failure (new Sec. 23.367). A new Sec. 23.367 would be added to read as follows:
+
+ Sec. 23.367 Unsymmetrical loads due to engine failure.
+
+ (a) The airplane must be designed for the unsymmetrical loads resulting from the failure of the critical engine. Turbopropeller airplanes must be designed for the following conditions in combination with a single malfunction of the propeller drag limiting system, considering the probable pilot corrective action on the flight controls:
+
+ (1) At speeds between and the loads resulting from power failure because of fuel flow interruption are considered to be limit loads.
+
+ (2) At speeds between and the loads resulting from the disconnection of the engine compressor from the turbine or from loss of the turbine blades are considered to be ultimate loads.
+
+ (3) The time history of the thrust decay and drag buildup occurring as a result of the prescribed engine failures must be substantiated by test or other data applicable to the particular engine-propeller combination.
+
+ (4) The timing and magnitude of the probable pilot corrective action must be conservatively estimated, considering the characteristics of the particular engine-propeller-airplane combination.
+
+ (b) Pilot corrective action may be assumed to be initiated at the time maximum yawing velocity is reached, but not earlier than 2 seconds after the engine failure. The magnitude of the corrective action may be based on the control forces specified in Sec. 23.397 except that lower forces may be assumed where it is shown by analysis or test that these forces can control the yaw and roll resulting from the prescribed engine failure conditions.
+
+ Explanation. No regulation now provides for substantiation of the airplane for the vertical tail loads resulting from unsymmetrical power conditions due to engine failure in combination with windmilling propeller drag loads. These loads are not critical for reciprocating engines but may be critical for turbopropeller powered airplanes, since windmilling, fixed turbine, turbopropeller installations can develop high drag loads. The proposed standards have been safely applied under Part 25.
+
+ Proposal 10. Turbopropeller installation gyroscopic loads (new Sec. 23.371). A new Sec. 23.371 would be added to read as follows:
+
+ Sec. 23.371 Gyroscopic loads.
+
+ For turbopropeller powered airplanes, each engine mount and its supporting structure must be designed for the gyroscopic loads that result, with the engines at maximum continuous r.p.m., under either of the following conditions:
+
+ (a) The conditions prescribed in Sec. 23.351 and 23.423.
+
+ (b) All possible combinations of the following:
+
+ (1) A yaw velocity of 2.5 radians per second.
+
+ (2) A pitch velocity of 1 radian per second.
+
+ (3) A normal load factor of 2.5.
+
+ (4) Maximum continuous thrust.
+
+ Explanation. The light weight and long overhang characteristics of turbopropeller installations may result in engine mount strength inadequate to withstand gyroscopic loads that result from the pitch and yaw conditions for which the tail surfaces are substantiated. Proposed (a) would require the engine mount structure to be substantiated for those conditions. Proposed (b) would alternatively allow the applicant to use simplified, conservative design conditions to accomplish the same result.
+
+ Proposal 11. Speed control devices (New Sec. 23.373). A new Sec. 23.373 would be added to read as follows:
+
+ Sec. 23.373 Speed control devices.
+
+ 
+
+ If speed control devices (such as spoilers and drag flaps) are incorporated for use in en route conditions -
+
+ (a) The airplane must be designed for the symmetrical maneuvers and gusts prescribed in Secs. 23.333, 23.337, and 23.341, and the yawing maneuvers and lateral gusts in Secs. 23.441 and 23.443, with the device extended at speeds up to the placard device extended speed; and 
+
+ (b) If the device has automatic operating or load limiting features, the airplane must be designed for the maneuver and gust conditions prescribed in paragraph (a) of this section at the speeds and corresponding device positions that the mechanism allows.
+
+ Explanation. En route speed control devices are likely on the coming generation of high performance small airplanes. No provision for such devices is made in Part 23. The proposed standards have been shown to be adequate through long application under Part 25.
+
+ Proposal 12. Use of prescribed "maximum" and "minimum" pilot forces for control system design (Sec. 23.395). 1. Section 23.395 (a) (1) would be amended by adding the following sentence at the end thereof: "Pilot forces used for design need not exceed the maximum forces prescribed in Sec. 23.397 (b)."
+
+ (2) Section 23.395 (a) (2) would be amended by adding the following sentence at the end thereof: "Compliance with this subparagraph may be shown by designing for loads resulting from application of the minimum forces prescribed in Sec. 23.397 (b)."
+
+ (3) Section 23.395 (c) would be amended by striking out the first sentence and by striking out the words "these pilot forces" before the words "are assumed" and inserting the words "pilot forces used for design" in place thereof.
+
+ Explanation. The only design reference in Sec. 23.395 to the limit pilot forces of Sec. 23.397 is the general reference in Sec. 23.395 (c). This reference is a mere editorial one that does not clearly state the regulatory effect of those pilot forces. This proposal would correct this deficiency without substantive change.
+
+ Proposal 13. Clarification of wheel control force (aileron) (Sec. 23.397). 1. The values "53D in-pounds" and "40D in-pounds" in Sec. 23.397 (b) would be amended to read "50 pounds" and "40 pounds", respectively.
+
+ 2. Footnote 4 in Sec. 23.397 (b) would be amended to read as follows:
+
+ 
+
+ The force must be applied simultaneously to opposite sides of the wheel and in opposite directions.
+
+ Explanation. The present terminology based on inch-pounds has been confusing to some persons. The proposed language is intended to prevent further confusion. Except for a rounding of 54D in-pounds to 50 pounds, no substantive change would result from this proposal.
+
+ Proposal 14. Design landing weight Secs. 23.25, 23.473, and 23.1583). 1. Section 23.25(a) introductory text and subparagraph (1) would be amended to read as follows:
+
+ Sec. 23.25 Weight limits.
+
+ (a) Maximum weight. The maximum weight is the highest weight at which compliance with each applicable requirement of this part (other than those complied with at the design landing weight) is shown. The maximum weight must be established so that it is -
+
+ (1) Not more than -
+
+ (i) The highest weight selected by the applicant;
+
+ (ii) The design maximum weight, which is the highest weight at which compliance with each applicable structural loading condition of this part (other than those complied with at the design and weight) is shown; or 
+
+ (iii) The highest weight at which compliance with each applicable flight requirement is shown, except for airplanes equipped with standby power rocket engines, in which case it is the highest weight established in accordance with Appendix E of this part; or 
+
+* * * * *
+
+ 2. Section 23.473 (a), (b), and the introductory text of (c) would be amended to read as follows:
+
+ Sec. 23.473 Ground load conditions and assumptions.
+
+ 
+
+ (a) The ground load requirements of his subpart must be complied with at the design maximum weight except that Sec. 23.479, 23.481, and 23.483 may be complied with at a design landing weight the highest weight for landing conditions at the maximum descent velocity) allowed under paragraphs (b) and (c) of this section.
+
+ (b) The design landing weight may be as low as the design maximum weight less the weight of 25 percent of the total fuel capacity.
+
+ (c) The design landing weight of a multiengine airplane may be less than that allowed under paragraph (b) of this section if -
+
+ * * * * *
+
+ 3. Section 23.473(c) (1) would be amended by striking out the cross reference "Sec. 23.67" and inserting the cross
+
+reference "23.67 (a) or (b) (1)" in place thereof, and Sec. 23.473(c) (2) (i) and (ii) would be deleted.
+
+ 4. Section 23.473 (g) would be amended by inserting the words "at design maximum weight" after the number "2.0."
+
+ 5. A new Sec. 23.1583 (c) (5) would be added to read as follows:
+
+ Sec. 23.1583 Operating limitations.
+
+ * * * * *
+
+ (c) Weight. * * *
+
+ (5) The design landing weight, if less than the maximum weight. 
+
+ * * * * *
+
+ Explanation. Section 23.473 (b) now allows a design landing weight as low as 95 percent of the maximum weight. FAA studies have shown that allowing a design landing weight equal to the design maximum weight less 25 percent of the total fuel capacity would be more rational and would not compromise strength for the landing conditions. The 25 percent figure is based on the increasing average time per flight, increasing fuel capacities, increasing fuel consumption rates, and the typical flight missions of modern small airplanes, including IFR alternate field fuel needs, especially for turbine engine powered airplanes. Proposed new Sec. 23.473 (a) would make it clear that the design maximum weight is the weight to be used in investigating ground loads unless the design landing weight option is chosen by the applicant. That paragraph would also make it clear that the design landing weight option applies only to the conditions actually representing landing loads, namely the conditions in Secs. 23.479, 23.481, and 23.483. Both of these clarifications reflect present practice and would involve no substantive change.
+
+ The conditions under which a design landing weight, less than the maximum weight, may be used are specified in Sec. 23.473(b) (1), (2), and (3). The structural condition in (b) (1) would be surplus and would be deleted because of the addition of the words "design maximum weight" to Sec. 23.473 (g) in change 6 of this proposal. The one-half hour minimum fuel capacity requirement in (b) (2) would be surplus since the 25 percent fuel figure would be used.
+
+ The change to the cross-reference in Sc. 23.473 (c) (1) is one of precision only, with no substantive change. Section 23.473 (c ) (2) (i) and (ii) would be deleted because there is no need to incorporate Part 25 standards in addition to ground load and landing gear requirements that have been added to Part 23 since the adoption of Sec. 23.473.
+
+ The addition of "design maximum weight" to Sec. 23.473 (g) is made because (1) load factors without prescribed weights are meaningless, and (2) the intent of (g) is to prescribe load factors at the highest weight at which compliance with each applicable structural loading condition is shown.
+
+ Proposal 15. Limit side force condition for skiplanes (Sec. 23.505). Section 23.505 would be amended to read as follows:
+
+ Sec. 23.505 Supplementary conditions for skiplanes.
+
+ In determining ground loads for skiplanes, and assuming that the airplane is resting on the ground with one main ski frozen at rest and the other skis free to slide, a limit side force equal to 0.036 times the design maximum weight must be applied near the tail assembly, with a factor of safety of 1.
+
+ Explanation. The present limit side force is based on tail ski design factors. A force appropriate for both tail and nose ski configurations is necessary. The figure 0.036 times the design maximum weight is appropriate for this purpose.
+
+ Proposal 16. Substantiation of multiple-wheel landing gear units (new Sec. 23.511). A new Sec. 23.511 would be added to read as follows:
+
+ Sec. 23.511 Ground load: unsymmetrical loads on multiple-wheel units.
+
+ For dual wheel landing gear units, the following apply:
+
+ (a) The airplane is assumed to pivot about one side of the main gear with -
+
+ (1) The brakes on the pivoting unit locked; and
+
+ (2) A limit vertical load factor of 1, and coefficient of friction of 0.8, applied to the main gear and its supporting structure.
+
+ (b) The loads established under Secs. 23.471 through 23.483 must be applied, in a 60/40 percent distribution, to the dual wheels and tires in each dual wheel landing gear unit.
+
+ (c) For the deflated tire condition -
+
+ (1) 60 percent of the loads established under Secs. 23.471 through 23.483 must be applied to each wheel in a landing gear unit; and
+
+ (2) 60 percent of the limit drag and side loads, and 100 percent of the limit vertical load established under Secs. 23.485 and 23.493 or lesser vertical load obtained under subparagraph (1) of this paragraph, must be applied to either wheel in the dual wheel landing gear unit.
+
+ Explanation. Part 23 does not provide specific standards for the substantiation of multiple-wheel landing gear units. It now appears that small airplanes having such units are being designed. The proposed standards are believed to be the minimum necessary for substantiation of multiple-wheel units.
+
+ Proposal 17. Emergency landing conditions (Sec. 23.561). 1. Section 23.561 (c) (3) and (d) (introductory text) would be amended by adding a comma and the words "in the absence of a more rational analysis -" after the word "assuming."
+
+ 2. The word "upward" in Sec. 23.561 (c) (3) (i) would be deleted and replaced with the word "downward."
+
+ Explanation. change 1 would reflect present intent with respect to allowing the use of rationally determined values of ultimate inertia force and coefficient of friction instead of the specified values. Change 2 is necessary because the term "vertical ultimate acceleration" in the note following former CAR Sec. 3.386 (c) was intended to refer to inertia forces that are downward, with respect to the airline, in the wheels-retracted emergency landing condition. For the turnover condition of Sec. 23.561 (d), the CAR language "vertical ultimate acceleration" is properly recodified as "upward," again with respect to the airplane.
+
+ Proposal 18. Fatigue evaluation of flight structure (Sec. 23.571). The present text of Sec. 23.571 would be designated as paragraph (b), present paragraphs (a) and (b) would be designated as subparagraphs (1) and (2), respectively, of paragraph (b), and the following paragraph (a) would be added:
+
+ Sec. 23.571 Pressurized cabin.
+
+ 
+
+ (a) The strength, detail design, and fabrication of those parts of the wing, wing carry-through, and attaching structure whose failure would be catastrophic must be evaluated under either of the following unless it is shown that the structure, operating stress level, materials, and expected use are comparable, from a fatigue standpoint, to a similar design that has had extensive satisfactory service experience:
+
+ (1) A fatigue strength investigation, in which the structure is shown by analysis, tests, or both, to be able to withstand the repeated loads of variable magnitude expected in service.
+
+ (2) A fail safe strength investigation in which it is shown by analysis, tests, or both, that catastrophic failure of the structure is not probable after fatigue failure, or obvious partial failure, of a principal structural element, and that the remaining structure is able to withstand a static ultimate load factor of 75 percent of the critical limit load factor at These loads must be multiplied by a factor of 1.15 unless the dynamic effects of failure under static load are otherwise considered.
+
+ * * * * *
+
+ Explanation. Part 23 does not require an effective fatigue evaluation of the wing and associated structure. Service experience has shown that fatigue effects not adequately covered by present design practice can develop over a period of time. The proposed alternatives of fatigue strength investigation or fail safe strength investigation, limited to wing and associated structure whose failure could be catastrophic, are intended to prevent the hazard of fatigue failures in service while minimizing the burden on the applicant.
+
+ Proposal 19. Lightning strike evaluation (New Sec. 23.581). 1. A new center heading entitled "Lightning Evaluation" would be added following Sec. 23.571.
+
+ 2. A new Sec. 23.581, following the above new center heading, would be added to read as follows:
+
+ Sec. 23.581 Lightning protection of structure.
+
+ (a) The airplane must be protected against catastrophic effects from lightning.
+
+ (b) For metallic components, compliance with paragraph (a) of this section may be shown by -
+
+ (1) Bonding the components properly to the airframe; or 
+
+ (2.) Designing the components so that a strike will not endanger the airplane.
+
+ (c) For nonmetallic components, compliance with paragraph (a) of this section may be shown by -
+
+ (1) Designing the components to minimize the effect of a strike; or 
+
+ (2) Incorporating acceptable means of diverting the resulting electrical current so as not to endanger the airplane.
+
+ Explanation. Small airplane operations involving potential exposure to lightning strikes are increasing. The hazardous effects of lightning on aircraft are well known. Economically practical means of protecting aircraft from such effects have been under study for several years. In order to prevent undue dictation of design, and yet, on the other hand, avoid an unnecessarily vague standard, this proposal summarizes the design objectives derived from the studies and experience obtained in the field of lightning protection of aircraft structures.
+
+ Proposal 20. Self-locking nuts (Sec. 23.607). Section 23.607 would be amended by adding, at the end thereof, a comma and the words "unless an additional locking means is provided."
+
+ Explanation. The present language was originally intended to prevent the use of self-locking nuts incorporating only one locking means. Self-locking nuts are now available with more than one locking means. These nuts may be safely used on bolts subject to rotation in operation.
+
+ Proposal 21. Accessibility of parts requiring inspection (Sec. 23.611). Section 23.611 would be amended to read as follows:
+
+ Sec. 23.611 Accessibility of parts.
+
+ There must be means to allow close examination, repair, and replacement of each part requiring maintenance, adjustments for proper alignment and function, or lubrication.
+
+ Explanation. Under the present language, the repair and replacement aspects of necessary maintenance may be impaired by the small size or other inadequacy of the access means, since those means need only allow "inspection."
+
+ Proposal 22. Design properties (Sec. 23.615). The words "examples of these items include," in Sec. 23.615 (a) (1), and subdivisions (i) through (iv) of (a) (1) would all be deleted.
+
+ Explanation. The kinds of structure covered by Sec. 23.615 (a) (1) are adequately described therein by the words "where * * * involved". Experience has shown that no need for specific examples exists.
+
+ Proposal 23. Interchangeability of seam-welded and seamless steel tubing (Sec. 23.617). Section 23.617 would be deleted.
+
+ Explanation. Experience with the use of steel tubing has progressed far beyond that which existed when the present language was issued. It is no longer necessary to specifically describe kinds of steel tubing. To the contrary, such specification may now have an unnecessarily restrictive effect.
+
+ Proposal 24. Use of special factors (Sec. 23.619). Section 23.619 would be amended to read as follows:
+
+ Sec. 23.619 Special factors.
+
+ (a) The factor of safety prescribed in Sec. 23.303 must be multiplied by the special factors of safety prescribed in Secs. 23.621 through 23.625 for each part of the structure whose strength is -
+
+ (1) Uncertain;
+
+ (2) Likely to deteriorate in service before normal replacement; or 
+
+ (3) Subject to appreciable variability because of uncertainties in manufacturing processes or inspection methods.
+
+ (b) Only the highest pertinent special factor need be considered.
+
+ Explanation. This proposed change is editorial only. The present language contains redundancies and is unnecessarily different in organization from the equivalent requirement in the other airworthiness parts.
+
+ Proposal 25. Bearing factors (Sec. 23.623). Section 23.623 would be amended to read as follows:
+
+ Sec. 23.623 Bearing factors.
+
+ (a) Each part that has clearance (free fit), and that is subject to pounding or vibration, must have a bearing factor large enough to provide for the effects of normal relative motion.
+
+ (b) For control surface hinges and control system joints, compliance with the factors prescribed in Secs. 23.657 and 23.693, respectively, meets paragraph (a) of this section.
+
+ Explanation. Three changes are proposed. First, proposed paragraph (a) would bring Part 23 into conformity with the equivalent requirements in Parts 25, 27, and 29. Second, present paragraph (b) would be deleted as surplus with the general provision in Sec. 23.619 that only the largest special factor need be considered. Finally, proposed new paragraph (b) would reflect present practice with respect to control surface hinges and control system joints. No substantive change would result from these proposals.
+
+ Proposal 26. Fitting factors (Secs. 23.625, 23.785, and 23.1413 (b)). 1. The flush paragraph following Sec. 23.785 (f) (3) would be deleted.
+
+ 2. Section 23.1413 (b) would be deleted.
+
+ 3. The following new Sec. 23.625(d) would be added:
+
+ Sec. 23.625 Fitting factors.
+
+ * * * * *
+
+ (d) For each seat, berth, and safety belt, its attachment to the structure must be shown, by analysis, tests, or both, to be able to withstand the inertia forces prescribed in Sec. 23.561 multiplied by a fitting factor of 1.33.
+
+ Explanation. This proposal would consolidate seat, berth, and belt attachment factor requirements in one section. No substantive change would result.
+
+ Proposal 27. Flutter (Sec. 23.629). 1. Section (23.629(a) (introductory text) would be deleted.
+
+ 2. Section 23.629 (a) (1) would be redesignated as (a) and would be amended by adding at the end thereof the words ", including all speeds up to selected under Sec. 23.335 (b) (1) or 1.2 times the value of selected under Sec. 23.335 (b)
+
+ (3) In addition -"
+
+ 3. Section 23.629 (a) (2), (3), and (4) would be redesignated, respectively, as (a) (1), (2), and (3).
+
+ Explanation. Present Sec. 23.629 (a) (first sentence) is partially redundant with (a) (1). The proposed consolidation would eliminate this redundancy. The proposed change to current Sec. 23.629 (a) (1) is necessary in order to insure an adequate speed margin for flutter when a more rational speed spread between and is selected in place of the arbitrary speed spread of Sec. 23.335 (b) (1).
+
+ Proposal 28. Turbopropeller installation flutter (Sec. 23.629). A new Sec. 23.620 (d) would be added to read as follows:
+
+ Sec. 23.629 Flutter.
+
+ * * * * *
+
+ (d) For multiengine turbopropeller powered airplanes, the dynamic evaluation must include -
+
+ (1) The significant elastic, inertia, and aerodynamic forces associated with the rotations and displacements of the plane of the propeller; and 
+
+ (2) Engine-propeller-nacelle stiffness and damping variations appropriate to the particular configuration.
+
+ Explanation. Present Sec. 23.629 does not adequately cover turbopropeller installations. For these installations, as opposed to reciprocating engine installations, experience has shown that the resulting inertia, aerodynamic, and elastic forces can have adverse effects on the flutter stability of the wing. Safety requires that variations of propeller axis rigidity in pitch and yaw be prevented from inducing potentially catastrophic wing flutter. This proposal would accomplish this result.
+
+ Proposal 29. Rib tests (Sec. 23.643). Section 23.643 would be deleted.
+
+ Explanation. Section 23.643 involves rib test details that are unnecessary in addition to the general proof of structure requirements in Sec. 23.307.
+
+ Proposal 30. Trim system operation (Sec. 23.677). Section 23.677 (b) would be amended by striking out the words "normal * * * continued" and inserting the words "adequate control for safe flight and landing is available" in place thereof.
+
+ Explanation. The intent of this requirement is that operation of the trim system may not be dependent upon the primary control system and that failures of the primary control system may not prevent safe flight and landing. This proposal would reflect this intent.
+
+ Proposal 31. Control system operation tests (Sec. 23.683). Section 23.683 (b) (1) would be amended by adding, at the end thereof, the words "or the limit pilot forces in Sec. 23.397 (b), whichever are less".
+
+ Explanation. This proposal would preserve consistency with Sec. 23.397 which provides that the airloads on the surfaces need not exceed those that would result from application of the forces in Sec. 23.397 (b).
+
+ Proposal 23. Pulley specifications (Sec. 23.689). Section 23.689 (b) would be amended by striking out the words "as specified in the pulley specifications" after the words "is used".
+
+ Explanation. Correspondence of pulley and cable is prescribed in the first sentence of Sec. 23.689 (b). Correspondence may be verified in several ways. The reference to pulley specifications adds nothing.
+
+ Proposal 33. General landing gear substantiation (Sec. 23.721). Section 23.721 would be deleted.
+
+ Explanation. Section 23.721 adds nothing to the sections referenced therein.
+
+ Proposal 34. Providing for wing lift in drop tests (Secs. 23.725 and 23.727). 1. Section 23.725 (b) would be amended by striking out the words "wing lift is simulated" and inserting the words "the effect of wing lift is provided for" in place thereof.
+
+ 2. Section 23.725 (c) would be amended to read as follows:
+
+ Sec. 23.725 Limit drop tests.
+
+ * * * * *
+
+ (c) The limit inertia load factor must be determined in a rational or conservative manner, during the drop test, using a landing gear unit attitude, and applied drag loads, that represent the landing conditions.
+
+ * * * * *
+
+ 3. Section 23.727 (b) would be amended by striking out the words "wing lift * * * is simulated" and inserting the words "the effect of wing lift is provided for" in place thereof.
+
+ Explanation. Proposals 1 and 3 are made since wing lift is not itself simulated in the drop tests. Rather, the effects of wing lift are provided for. Proposal 3 would also make it clear that the following formula applies in all cases where the effects of wing lift are provided for, not only for wing lift equal to the airplane weight. Proposal 2 is necessary since representative landing gear drag loads, as well as the landing gear unit attitude currently prescribed, must be included in order to determine a rational or conservative limit inertia load factor.
+
+ Proposal 35. Ground load dynamic tests (new Sec. 23.726). The following new Sec. 23.726 would be added:
+
+ Sec. 23.726 Ground load dynamic tests.
+
+ (a) If compliance with the ground load requirements of Secs. 23.479 through 23.483 is shown dynamically by drop test, one drop test must be conducted that meets Sec. 23.725 except that the drop height must be -
+
+ (1) 2.25 times the drop height prescribed in Sec. 23.725 (a); or
+
+ (2) Sufficient to develop 1.5 times the limit load factor.
+
+ (b) The critical landing condition for the design conditions specified in Secs. 23.479 through 23.483 must be used for proof of strength
+
+ Explanation. For manufacturers who desire to use dynamic methods of landing gear strength substantiation, as allowed under Sec. 23.305 (b), this proposal would provide a safe alternative to the preparation of complex and expensive stress analyses and static test programs.
+
+ Proposal 36. Yaw substantiation of retractable landing gear (Sec. 23.729). Section 23.729(a) (2) would be amended by inserting the words ", including loads resulting from all yawing maneuvers prescribed for the airplane," between the words "flight loads" and the words "with the".
+
+ Explanation. Flight loads resulting from yawing maneuvers may be critical for gear doors and other parts of the retractable landing gear. Part 23 does not specifically cover such loads (although they are covered in the general term "flight loads").
+
+ Proposal 37. Flap operated landing gear warning device (Sec. 23.729). Section 23.729 (e) would be amended and a new paragraph (f) would be added to read as follows:
+
+ Sec. 23.729 Retracting mechanism.
+
+ * * * * *
+
+ (e) Landing gear position. There must be means to indicate to the pilot when the wheels are secured in the extreme positions.
+
+(f) Landing gear warning. For landplanes, the following aural or equally effective landing gear warning devices must be provided:
+
+ (1) A device that functions continuously when one or more throttles are closed, if the landing gear is not fully extended and locked. A throttle stop may not be used in place of an aural device.
+
+ (2) A device that functions continuously when the wing flaps are extended beyond the takeoff or approach position (whichever is greater), if the landing gear is not fully extended and locked. There may not be a manual shut-off for this warning device. The flap position sensing unit may be installed at any suitable location. The system for this device may use any part of the system (including the aural warning device) for the device required in subparagraph (1) of this paragraph.
+
+ Explanation. Landings with wheels retracted are occurring in aircraft having a throttle operated landing gear warning device. These potentially hazardous incidents are occurring primarily because power-on approaches are common. The throttle operated aural warning device, of course, does not function with much power on. Reliance upon landing gear position indicators alone has been shown to be insufficient. For airplanes with flaps, this proposal would provide a backup aural device, similar to that required for transport category airplanes, that would function, regardless of throttle setting, when more than a determined amount of flap is used.
+
+ Proposal 38. Tires (Sec 23.733). 1. Section 23.733 (a) (introductory text) would be amended to read as follows:
+
+ (a) Each landing gear wheel must have a tire whose tire rating (assigned by the Tire and Rim Association or the Administrator) is not exceeded -
+
+ 2. Subparagraphs (1) and (2) of paragraph (a) would be deleted.
+
+ (3) Subdivisions (i) and (ii) of subparagraph (2) of paragraph (a) would be redesignated, respectively, as subparagraphs (1) and (2) of paragraph (a).
+
+ Explanation. The requirement that the tire be a proper fit on the rim of the wheel is unnecessarily detailed in the light of well established industry practice. This proposal would delete this requirement.
+
+ Proposal 39. Brakes (Sec. 23.735). Section 23.735 would be amended to read as follows:
+
+ Sec. 23.735 Brakes.
+
+ (a) Brakes must be provided so that the brake kinetic energy capacity rating of each main wheel brake assembly is not less than the kinetic energy absorption requirements determined under either of the following methods:
+
+ (1) The brake kinetic energy absorption requirements must be based on a conservative rational analysis of the sequence of events expected during landings at the design landing weight.
+
+ (2) Instead of a rational analysis, the kinetic energy absorption requirements for each main wheel brake assembly may be derived from the following formula:
+
+ 
+
+ 
+
+ where--
+
+ KE = kinetic energy per wheel (ft.-lbs.);
+
+ W = design landing weight (lbs.);
+
+ = power-off stalling speed in knots, of the airplane at sea level, at the design landing weight, and in the landing configuration; and
+
+ N = number of main wheels.
+
+ b) Brakes must be able to prevent the wheels from rolling on a paved runway with takeoff power on the critical engine, but need not prevent movement of the airplane with wheels locked.
+
+ Explanation. Part 23 does not provide for the determination of the energy absorption requirements of brakes. The present requirement in Sec. 23.735 (b) may not ensure the design of wheel brake combinations adequate for safe operation of the airplane. Proposed Sec. 23.735 (a) would therefore provide standards similar to the energy absorption determination requirements for transport category airplanes (Sec. 25.735 (f)). Proposed Sec. 23.735(b) would reflect the fact that, for aircraft with high power-to-weight ratios, it may be impossible to prevent motion, with locked wheels, when takeoff power is applied to the critical engine. Some question has arisen as to whether such motion constitutes "rolling" of the airplane within the meaning of present (a). It is not the intent of present (a) to prevent this motion, but only to ensure that the brakes can prevent the wheels themselves from rolling. The proposed energy absorption requirements reflect current industry practice in the design of small airplanes.
+
+ Proposed 40. Pressurized windshields and windows (Secs. 23.775 and 23.1583).
+
+ 1. A new Sec. 23.775 (e) would be added to read as follows:
+
+ Sec. 23.775 Windshields and windows.
+
+ * * * * *
+
+ (e) If certification for operation above 25,000 feet is requested, the windshields, windows panels, and canopies must be strong enough to withstand the maximum cabin pressure differential loads combined with critical aerodynamic pressure and temperature effects, after failure of any load-carrying element of the windshield, window panel, or canopy.
+
+ 2, A new Sec. 23.1583 (j) would be added to read as follows:
+
+ Sec. 23.1583 Operating limitations.
+
+ * * * * *
+
+ (j) Altitude limitations. Unless compliance with Sec. 23.775 (e) is shown, a maximum operating altitude limitation of 25,000 feet must be furnished for pressurized airplanes.
+
+ Explanation. Sudden decompression of small cabins due to transparency failure is potentially catastrophic. Experience with transport category airplanes has shown that decompression has been averted in several cases because of the dual element design of transparencies. The value 25,000 feet is believed to represent a reasonable point of demarcation between the altitudes at which sudden decompression is and is not potentially catastrophic, considering the expected cabin sizes and operating altitudes of small airplanes.
+
+ Proposal 41. Protection of occupants (Secs. 23.785 and 23.1413). 1. A new Sec. 23.785(g) would be added to read as follows:
+
+ Sec. 23.785 Seats and berths.
+
+ * * * * *
+
+ (g) Each occupant must be protected from head injury by -
+
+ (1) A safety belt and shoulder harness that will prevent the head from contacting any injurious object;
+
+ (2) A safety belt plus the elimination of any injurious object within striking radius of the head; or
+
+ (3) A safety belt plus an energy absorbing rest that will support the arms, shoulders, head, and spine.
+
+ 2. Section 23.1413 would be amended by changing its heading to read "Safety belts and harnesses" and by changing the first sentence of paragraph (b) by inserting the words "and each harness" after the word "belt."
+
+ Explanation. Experience indicates that a significant reduction in injuries and fatalities in small airplane accidents may be obtained by the installation and use of effective upper body restraints or by designing airplane interiors to either eliminate injurious objects within striking radius of the head or provide energy absorbing support for the upper torso. This proposal would therefore apply, to small airplanes, standards identical with those long administered for large airplanes under Sec. 25.785(c).
+
+ Proposal 42. Emergency exits on multiengine airplanes (Sec. 23.807). Section 23.807 (a) (1) would be amended to read as follows:
+
+ Sec. 23.807 Emergency exits.
+
+ (a) Number and location. * * *
+
+ (1) For an airplane with engines mounted on the wings or on the side of the fuselage and that has a seating capacity of less than 16, and for an airplane with one or more engines mounted on the approximate centerline of the fuselage and that has a seating capacity of more than five, but less than 16, at least one emergency exit on the opposite side of the cabin from the main door specified in Sec. 23.783.
+
+ * * * * *
+
+ Explanation. Section 23.807 (a) (1) exempts all airplanes with five-or-less occupants from the requirement to have an emergency exit opposite the main door. For airplanes with engines mounted on the wings or on the side of the fuselage, the main door may be blocked by engine fire regardless of the number of occupants. Therefore the five-or-less exemption would be discontinued for these aircraft but would be continued for single engine airplanes and centerline thrust twins.
+
+ Proposal 43. Cabin pressure warning means (Sec. 23.841). Section 23.841 (f) would be amended to read as follows:
+
+ Sec. 23.841 Pressurized cabins.
+
+ * * * * *
+
+ (f) Warning indication at the pilot station to indicate when the safe or preset pressure differential and absolute cabin pressure limits are exceeded. Appropriate warning markings on the cabin pressure differential indicator meet the warning requirement for pressure differential limits and an aural or visual signal (in addition to cabin altitude indicating means) meets the warning requirement for absolute cabin pressure limits.
+
+ * * * * * 
+
+ Explanation. Present Sec. 23.841 (f) does not describe what pressure warning devices are acceptable. This proposal would follow the approach of Sec. 25.841 (b) (6), that is, that instrument markings are sufficient for safe warning of pressure differential limits, whereas aural or visual means are necessary for safe warning of absolute pressure limits.
+
+ Proposal 44. Leveling means (Sec. 23.871). Section 23.871 would be amended to read as follows:
+
+ Sec. 23.871 Leveling means.
+
+ There must be means for determining when the airplane is in a level position on the ground.
+
+ Explanation. any means, not just reference marks, are acceptable for leveling the airplane on the ground.
+
+ Proposal 45. Equipment function (Sec. 23.1301). Section 23.1301 (a) would be amended to read as follows:
+
+ Sec. 23.1301 Function and installation.
+
+ 
+
+ (a) Each item of installed equipment essential for safe operation must -
+
+ (1) Be of a kind and design appropriate to its intended function;
+
+ (2) Be labeled as to its identification, function, or operating limitations, or any applicable combination of these factors;
+
+ (3) Be installed according to limitations prescribed for that equipment and in compliance with Sec. 23.1431; and
+
+ (4) Function properly when installed.
+
+ * * * * *
+
+ Explanation. This proposal would remove the unnecessary distinction between radio and other equipment that now exists in Sec. 23.1301 (a) (2) and (3), and extend the provisions of Sec. 23.1431 to all equipment, not only radio equipment. There is no basis for distinguishing between radio and other equipment so far as general functioning requirements are concerned. The other changes are intended to bring the sections in closer conformity with the corresponding sections in Part 25 through 29, without substantive change.
+
+ Proposal 46. Aircraft alternators (Sec. 23.1351). 1. Section 23.1351 (b) (2) would be amended by adding the following at the end thereof: ", except that alternators may depend on a battery for initial excitation or for stabilization."
+
+ 2. Section 23.1351 (b) (3) would be amended by adding the following at the end thereof: ",except that the operation of an alternator that depends on a battery for initial excitation or for stabilization may be stopped by failure of that battery."
+
+ 3. Section 23.1351 (b) (4) would be amended by adding the following at the end thereof: ",except that controls associated with alternators that depend on a battery for initial excitation or for stabilization need not break the connection between the alternator and its battery."
+
+ Explanation. The present electrical system function requirements do not take into account the extensive service experience with aircraft alternators. This experience indicates that it is desirable to have a battery connected to the alternator field for initial excitation and for stabilization of the alternator, and that loss of electrical power (other than battery power) may occur if a heavy load is suddenly applied to an alternator whose field is not connected to a battery. This proposal would amend the electrical system function requirements to reflect this experience.
+
+ Proposal 47. Appendix A corrections -1. Correction 1 sec. A23.1. This section provides that the design load criteria in Appendix A are equivalents of standards in Secs. 23.321 "through 23.399." For consistency with former CAR Part 3, this would be changed to read "through 23.459." No substantive change would result.
+
+ 2. Correction 2 (Table 2). Table 2 of Appendix A in former CAR Part 3 contained a note reading "Note: The surface loadings * * * are based * * * (etc)." The note was inadvertently omitted from Table 2, present Appendix A. This note would be added to present Table 2. No substantive change would result.
+
+ Proposal 48. Approval of weight and balance data in the Airplane Flight Manual (Sec. 23.1583). Section 23.1583 (c) and (d) would be amended to read as follows:
+
+ Sec. 23.1583 Operating limitations.
+
+ * * * * *
+
+ (c) Weight. The maximum weight must be furnished.
+
+ (d) Center of gravity. The established center of gravity limits must be furnished.
+
+ * * * * *
+
+ Explanation. This proposal would remove the requirement for approval of those portions of the Airplane Flight Manual that contain the details of load distribution. This would preclude the need for future amendment and reapproval of the Manual as weight and balance details change. Section 23.1519 provides that the weight and center of gravity limitations determined under Sec. 23.23 must be established as operating limitations. Beyond this, separate and continual reapproval of changes in detailed weight and balance information is unnecessary for safety.
+
+ Proposal 49. Identification of figures in Appendix A and B. In order to prevent further confusion, the figures in Appendix A would be identified as figures "A1" through "A6" and those in Appendix B would be identified as figures "B1" through "B9." Consistent cross reference changes would be made in Secs. 23.421 through 23.455 and in the text of Appendix B.
+
+ Proposal 50. Appendix B: Limitation of maximum control surface defections by pilot effort (section B23.1). Appendix B, section B23.1, would be amended by redesignating section B23.1 (b) as section B23.1 (c) and by adding the following new section B23.1 (b):
+
+ (b) In the control surface loading conditions of section B23.11, the airloads on the movable surfaces need not exceed those that could be obtained in flight by using the maximum limit pilot forces prescribed in Sec. 23.397 (b). If the surface loads are limited by these maximum limit pilot forces, the tabs must be deflected -
+
+ (1) To their maximum travel in the direction that would assist the pilot; or
+
+ (2) In an amount corresponding to the greatest degree of out-of-trim expected at the speed for the condition being considered.
+
+ Explanation. It is the intent of section B23.1 to allow limitation of maximum control surface deflections by pilot effort when the average loadings and distributions of section B23.11 are used
+
+ Proposal 51. Tail surface loads as related to net balancing loads (figure 6 of Appendix B). A new note (c) would be added to Figure 6 of Appendix B to read as follows:
+
+ (c) The load on the fixed surface must be:
+
+ (1) 140 percent of the net balancing load for the flaps retracted case of note (a); 
+
+ (2) 100 percent of the net balancing load for the flaps deflected case of note (a); and
+
+ (3) 120 percent of the net balancing load for the case in note (b).
+
+ Explanation. Failure of figure 6 to describe assumed loads on the fixed surfaces in terms related to net balancing loads has caused unnecessary administrative problems. These would be eliminated by this proposal. No substantive change from present practice would result from this proposal.
+
+ Proposal 52. Basic landing conditions (Appendix C). 1. A new Note 5 would be added to the table in section C23.1 to read as follows:
+
+ 
+
+ Note (5). is the limit inertia load factor, at the c.g. of the airplane, selected under Sec. 23.473 (d), (f), and (g).
+
+ 2. The figure for the tall wheel type airplane in the level landing attitude in section C23.1 would be amended to indicate that the resultant ground load acts through the wheel axle.
+
+ Explanation. These self-explanatory changes are clarifying only, and reflect present practice in administrating Appendix C.
+
+ Powerplant
+
+ Proposal 1. Fuel system independence (Sec. 23.953). Section 23.953 (b) (1) would be amended by striking out the words "a hazardous amount of fuel" between the words "not contain" and the words "that can" and inserting the words "more than one quart of fuel (or any greater amount shown to be safe)" in place thereof.
+
+ Explanation. The present rule allows the shutoff valve for each tank to serve as the required firewall shutoff valve if the line between the valve and the engine compartment does not contain a "hazardous" amount of fuel. For all airplanes, one quart or less has been shown not to be hazardous and would be specified as a general maximum. However, there is no need to preclude showings of safe quantities of more than one quart. This proposal would allow that practice to continue.
+
+ Proposal 2. Measurement of required excess fuel flow for pump systems (Sec. 23.955). Section 23.955 (c) would be amended to read as follows:
+
+ Sec. 23.955 Fuel flow.
+
+ * * * * *
+
+ (c) Pump systems. The fuel flow rate for each pump system (main and reserve supply) must be 125 percent of the takeoff fuel flow of the engine at the maximum power or thrust approved for takeoff under Part 33 of this chapter or lesser power or thrust selected and approved for takeoff under this part.
+
+ * * * * *
+
+ Explanation. This proposal would require measurement of excess fuel flow on the basis of percent of takeoff fuel consumption alone. The figure 0.9 pound per hour for each takeoff horsepower has been shown to add no necessary safety to that resulting from 125 percent of takeoff consumption. On the other hand, application of a fixed value of pounds per horsepower hour can produce erratic results from one engine type to another, results that are not meaningfully related to the basic requirement that establishes the fuel flow rate. The proposal also adapts the excess fuel flow requirement to turbines by specifying power "or thrust," standardizes the use of the word "flow" versus "consumption," and makes it clear that the intended maximum takeoff power or thrust may be either that approved during engine type certification or selected and approved under Part 23.
+
+ Proposal 3. Multiple fuel tanks (Secs. 23.955 and 23.959). Present Sec. 23.959 (e) would be moved, and restricted to reciprocating engines, as new Sec. 23.955 (e) under a paragraph heading of "Multiple fuel tanks."
+
+ Explanation. Proposal 4 below would delete the minimum usable fuel requirements of present Sec. 23.959. However, it is not intended to delete the fuel flow requirements of Sec. 23.959(e). See also "Turbine change 4."
+
+ Proposal 4. Establishing unusable fuel supply (Sec. 23.959). Section 23.959 would be deleted and the following new Sec. 23.959 would be inserted in place thereof:
+
+ Sec. 23.959 Unusable fuel supply.
+
+ The unusable fuel supply for each tank must be established as not less than that quantity at which the first evidence of malfunctioning occurs under the most adverse fuel food condition occurring under each intended operation and flight maneuver involving that tank.
+
+ Explanation. Present Sec. 23.959 (a) through (d) contains detailed conditions for establishing the unusable fuel supply. Potentially critical conditions, and combinations of conditions, may be omitted by limiting the investigation to the specified detailed conditions. This problem of omission could be approached by the addition of more detailed conditions. However, experience in administering the general unusable fuel establishment requirements of Parts 25, 27, and 29 has shown that a general requirement can be safely applied in establishing unusable fuel. This proposal would therefore add an identical general requirement for small airplanes.
+
+ Proposal 5. Demonstration of freedom from vapor lock (for reciprocating engines) (Sec. 23.961). Section 23.961 would be amended by designating the present language as paragraph (a) and by adding a new paragraph (b) to read as follows:
+
+ Sec. 23.961 Fuel system hot weather operation
+
+ * * * * *
+
+ (b) For reciprocating engines, freedom from vapor lock must be shown, at all altitudes below 8,000 feet, using the main fuel pumps alone and using the emergency pumps alone.
+
+ Explanation. Section 23.991 requires that there be emergency pumps to feed the engines after the failure of any engine-driven fuel pump other than a fuel injection pump approved as part of an engine. It is the intent of Sec. 23.991 that each pump alone be able to meet the flow requirements of Sec. 23.955, which means that freedom from vapor lock must be showable with each alone. However, the absence of such a specific requirement has caused some question as to whether freedom from vapor lock may be shown with the combined pumping capacities of main and emergency pumps. This proposal would prevent such a conclusion. The value 8,000 feet is chosen to preclude the need to run the vapor lock test to the maximum operating altitude and is believed to represent a reasonable demarcation altitude below which nearly all airports are located and above which the need for correct equipment and special care in many design areas would make a specific vapor lock requirement unnecessary.
+
+ Proposal 6. Fuel tank installation (Sec. 23.967). A new Sec. 23.967 (a) (6) would be added to read as follows:
+
+ Sec 23.967 Fuel tank installations.
+
+ (a) * * *
+
+ (6) If the fuel filler must be uncovered manually for refueling, the pressure differential between the inner and outer surfaces of bladder cells, under all operating conditions, may not cause collapse of the cell or loss of fuel when the filler opening is partly or fully uncovered.
+
+ * * * * *
+
+ Explanation. Emergency landings and similar hazardous incidents may result if the necessary fuel flow from bladder cells is stopped by fuel loss or cell collapse due to improper use of manual means for uncovering fuel fillers for refueling. It is therefore proposed to require the assumption that the filler will be left open in evaluating the tendency of the tank to collapse or lose fuel under all operating conditions.
+
+ Proposal 7. Protection of fuel system components from wheels-up landings (New Sec. 23.994). A new Sec. 23.994 would be added to read as follows:
+
+ Sec. 23.994 Fuel system components.
+
+ The probability of fuel being released from any fuel system component as a result of a wheels-up landing must be minimized.
+
+ Explanation. Release of fuel from damaged fuel system components causes a potential fire hazard. Under present requirements, fuel system components are not specifically required to be protected from damage when the underside of the airplane contacts the ground in a wheels-up landing. This proposal would correct this deficiency.
+
+ Proposal 8. Accessibility of fuel valve controls (Sec. 23.995). Section 23.995 (c) would be amended by striking out the word "and" following (c) (1), adding a semicolon and the word "and" following (c) (2), and by adding a new (c) (3) to read as follows:
+
+ 
+
+ Sec. 23.995 Fuel valves and controls.
+
+ * * * * *
+
+ (c) * * *
+
+ (3) Be designed and located so that the pilot can see and reach it regardless of any inflight position, or combination of inflight positions, of the pilot seat or any flight control, and without moving any seat or flight control.
+
+ * * * * *
+
+ Explanation. Proper fuel management requires that the pilot be able to reach the fuel selector, at any time, without being forced to move the seat or the primary controls (which may be hazardous at low altitudes). Ability to reach the fuel selector under any condition requires that each selector be visible to the pilot with the seat in any normal inflight position.
+
+ Proposal 9. Adequacy of oil lines (Sec. 23.1017). Section 23.1017(a) would be amended to read as follows:
+
+ Sec. 23.1017 Oil lines and fittings.
+
+ (a) Oil lines. Oil lines must meet Sec. 23.993 and must accommodate a flow of oil at a rate and pressure adequate for proper engine functioning under any normal operating condition.
+
+ * * * * *
+
+ Explanation. If adequate oil flow can be maintained with oil lines whose inside diameters are less than the diameters of the corresponding engine oil pump inlets and outlets, safety does not require that lines with larger inside diameters be used. The present language relating oil line sizes to corresponding engine inlet and outlet sizes is therefore unnecessary for safety.
+
+ Proposal 10. Air induction (Secs. 23.1091 and 23.1093). 1. Section 23.1091 would be amended by redesignating paragraphs (c), (d), and (e) as subparagraphs (1), (2), and (3) of paragraph (b), respectively, and by amending paragraph (b) to read as follows:
+
+ 
+
+ Sec. 23.1091 Air induction.
+
+ * * * * *
+
+ (b) Each reciprocating engine installation must have at least two separate air intake sources and must meet the following:
+
+ * * * * *
+
+ Explanation. Two changes are proposed. First, paragraph (b) would be amended to exclude the present allowance of a single air induction source for engines having fuel injection pumps and having no air intake screens, filters or other parts on which restrictive ice could form. This allowance is undesirable because (1) it encourages the absence of screens, which is not good design practice, (2) in some cases, induction systems without screens may be as sensitive to ice as systems with some screens of advanced design, and (3) systems without screens may experience duct icing that would require an alternate air source. Second, paragraph (b) would be restricted to reciprocating engines, consistent with proposals made below for turbine engines under Sec. 23.1091.
+
+ 2. Section 23.1091 (e), which would be redesignated as Sec. 23.1091 (b) (3) under the above proposal, would also be amended by deleting the words "of the carburetor air preheater".
+
+ Explanation. There is no specific requirement for a "carburetor air preheater" if other means of preventing and eliminating icing are furnished.
+
+ 3. Section 23.1093 would be amended by deleting the present paragraphs and by adding the following:
+
+ Sec. 23.1093 Induction system icing protection.
+
+ (a) The air induction system for each engine must have means to prevent the formation of ice in the air inlet system ducts, or on critical engine components, from having an adverse effect on engine operation. It must be impossible for ice removed or dislodged from any duct to adversely affect engine air or fuel flow.
+
+ * * * * *
+
+ Explanation. The detailed temperature rise requirements in present Sec. 23.1093 are not clearly stated with respect to some types of installation. However, an attempt to give fully detailed, accurate temperature rise requirements for all installations would involve excessive detail. The objective of these standards is icing protection. It is believed that the proposed general requirement can be safely administered to suit individual installation details. Further changes to accommodate turbine engines are proposed below under Sec. 23.1093. See "turbine change 11," below, for proposed Sec. 23.1093 (b).
+
+ Proposal 11. Open drains on the pressure side of turbosuperchargers (Sec. 23.1103). Section 23.1103 (a) would be amended by striking out the words "no open drain may be on the pressure side of turbosupercharger installations."
+
+ Explanation. While the reason for preventing open drains on the pressure side of turbosupercharger installations (i.e., the possibility of fuel or vapor being expelled under pressure and penetrating areas that could ignite it) is valid in many cases there is no reason for the requirement for installations in which open drains on the pressure side of turbosupercharger installations present no hazard. The requirement is therefore inappropriate as a general requirement. For unsafe installations, the general requirements of Sec. 23.901 would be applied.
+
+ Proposal 12. Mixture control (Sec. 23.1147). Section 23.1147 would be amended by adding the following at the end of the first sentence (following the words "separate control"): ",and each mixture control must have guards or must be shaped or arranged to prevent confusion by feel with other controls."
+
+ Explanation. Misuse of the mixture control is increasing in frequency, and is believed to be caused by confusion, by feel, with other controls such as carburetor heat controls, cowl flap controls, and propeller controls.
+
+ Propeller 13. Carburetor air temperature controls (Sec. 23.1157). Section 23.1157 would be amended by adding the following sentence at the end thereof: "Each control must be designed or located so that no possible icing can impair its operation."
+
+ Explanation. Some question has arisen as to whether compliance with the requirement to have separate carburetor air temperature controls for each engine may be shown by automatic alternate air source doors or whether manually operated doors are necessary. Question has also arisen as to whether doors with only a fully open-or-shut capability are allowed or whether continuously variable doors are allowed. These questions need not arise since the kind of carburetor air temperature control is not important so long as it is protected against icing. This proposal would make this clear.
+
+ Proposal 14. Effect of closed fuel shutoff valve (Sec. 23.1189). Section 23.1189 (b) would be amended by adding the following words after the words "remaining engines": "that would be available to those engines with that valve open."
+
+ Explanation. Literally read, the present requirement could be held to require that no on-board fuel be unavailable to the remaining engines when any fuel valve is closed. Such a requirement would require complete crossfeed provisions, which could introduce unnecessary hazards of their own. Under present design practice, many aircraft are designed so that some fuel is unavailable to some engines even with all fuel valves open. This practice is not unsafe in itself. This proposal would make Sec. 23.1189 (b) consistent with this permitted practice.
+
+ Proposal 15. Fire detectors (New Sec. 23.1203). A new Sec. 23.1203 would be added to read as follows:
+
+ Sec. 23.1203 Fire-detector system.
+
+ There must be quick acting fire detectors ensuring prompt detection of fire in the engine compartment of any powerplant that cannot be readily observed from the cockpit in flight.
+
+ Explanation. For engines not observable from the cockpit, means other than a direct visual check are necessary in order to prevent the development of engine fires. While this problem is generally a new one caused by the advent of aft-fuselage mounted turbine engines, it is also present in the case of certain reciprocating and turbine engine installations in other locations.
+
+ Proposal 16. Fuel quantity indicating means (Sec. 23.1305). Section 23.1305 (a) (1) would be amended to read as follows:
+
+ Sec. 23.1305 Powerplant instruments.
+
+ (a) * * *
+
+ (1) A fuel quantity indicating means.
+
+ * * * * *
+
+ Explanation. Section 23.1337(b) requires a fuel quantity indicating "means" to indicate the quantity of fuel in each tank during flight. This may be met with a single indicator plus selector. It is intended that Sec. 23.1305 (a) (1) be consistent with Sec. 23.1337 (b). The present language wrongly suggests that each tank must have its own "indicator."
+
+ Proposal 17. Hydraulic systems (Sec. 23.1435). Section 23.1435(c) would be amended by adding the words "or propeller" after the words "part of an engine." 
+
+ Explanation. The words "or propeller" were inadvertently omitted from the issue of Part 23.
+
+ Proposal 18. Marking usable fuel capacity near the filler cap (Sec. 23.1557). Section 23.1557(c) (1) would be amended to read as follows:
+
+ Sec. 23.1557 Miscellaneous markings and placards.
+
+ * * * * *
+
+ (c) Fuel and oil filler openings. * * *
+
+ (1) The word "fuel" and the minimum fuel grade or designation for the engines.
+
+ * * * * *
+
+ Explanation. Marking the fuel capacity near the filler does not serve any function necessary for safety in flight, nor is it essential for proper refueling. This requirement would therefore be deleted as unnecessary.
+
+ Proposal 19. Miscellaneous turbine installation requirements. The need for type certification standards for turbine engine powered small airplanes is rapidly increasing. Experience in the type certification of turbine engine powered aircraft in other categories has resulted in the identification of certain specific regulatory changes that are necessary to ensure safe turbine engine installations. These changes have also, where applicable, been applied as special conditions in the case of small turbine engine powered airplanes certificated under Part 23. The following proposals contain these changes, adapted to small turbine engine powered airplanes as a class.
+
+ Turbine change 1. Reversing systems (new Sec. 23.933). A new Sec. 23.933 would be added to read as follows:
+
+ Sec. 23.933 Reversing systems.
+
+ (a) Reversing systems intended for ground operation only must be designed so that no single failure or malfunction of the system will result in unwanted reverse thrust under any expected operating condition. Failure of structural elements need not be considered if the probability of this kind of failure is extremely remote. 
+
+ (b) Turbojet reversing systems intended for inflight use must be designed so that no unsafe condition will result during normal operation of the system, or from any failure (or reasonably likely combination of failures) of the reversing system, under any anticipated condition of operation of the airplane. Failure of structural elements need not be considered if the probability of this kind of failure is extremely remote.
+
+ (c) Compliance with this section may be shown by failure analysis, testing, or both, for propeller systems that allow propeller blades to move from the flight low-pitch position to a position that is substantially less than that at the normal flight low-pitch stop position. The analysis may include or be supported by the analysis made to show compliance with the requirements of Sec. 35.21 of this chapter for the propeller and associated installation components.
+
+ (d) Each turbojet reversing system must have means to prevent the engine from producing more than idle forward thrust when the reversing system malfunctions, except that it may produce any greater forward thrust that is shown to allow directional control to be maintained, with aerodynamic means alone, under the most critical reversing condition expected in operation.
+
+ Explanation. Reversing systems were generally not present in reciprocating engine powered small airplanes and so no reversing system standards have evolved. The advent of the turbine engine, however, makes consideration of turbopropeller and turbojet reversing systems necessary. The proposed standards are similar to those in Sec. 25.933, which have been safely applied. In addition, proposed Sec. 23.933 (d) is similar to Sec. 25.933 (d) which was proposed in Notice 65-43 (31 F.R. 93, Jan 5, 1966), for the reasons stated therein, namely that there have been hazardous incidents involving loss of directional control of turbojet powered airplanes, on the ground, caused by thrust reverser malfunctions that allowed forward thrust to be developed by one engine while the remaining engines produced reverse thrust.
+
+ Turbine change 2. Turbopropeller-drag limiting systems (new Sec. 23.937). A new Sec. 23.937 would be added to read as follows:
+
+ Sec. 23.937 Turbopropeller-drag limiting systems.
+
+ Turbopropeller powered airplane propeller-drag limiting systems must be designed so that no single failure or malfunction of any of the systems during normal or emergency operation results in propeller drag in excess of that for which the airplane was designed under the structural requirements of this part. Failure of structural elements of the drag limiting systems need not be considered if the probability of this kind of failure is extremely remote.
+
+ Explanation. Turbopropeller installations may cause exceptionally high windmilling drag, which may, in turn, cause critical flight or structural conditions. This proposal is similar to Sec. 25.937, which has been safely applied.
+
+ Turbine change 3. Turbine engine powerplant operating characteristics (new Sec. 23.939). A new Sec. 23.939 would be added to read as follows:
+
+ Sec. 23.939 Turbine engine powerplant operating characteristics.
+
+ (a) Turbine engine powerplant operating characteristics must be investigated in flight to determine that no adverse characteristics (such as stall, surge, or flameout) are present, to a hazardous degree, during normal and emergency operation within the range of operating limitations of the airplane and of the engine.
+
+ (b) Operation of the airplane within the portion of the flight envelope prescribed in Sec. 23.333 that produces the highest negative acceleration loads may not cause hazardous malfunction of any part of the turbine engine powerplant.
+
+ (c) The vibration characteristics of turbine engine components whose failure could be catastrophic may not be adversely affected during normal operation.
+
+ Explanation. By special condition, requirements similar to those of Sec. 25.939 have been applied in the type certification of a small turbine engine powered airplanes to insure that the turbine engine installation will not be adversely affected by stall, surge, or other characteristics. Proposed (a) is similar to Sec. 25.939. Proposed (b) and (c) are similar to Sec. 25.939 (b) and (c) which are currently proposed in Notice 65-43 and which have been safely applied as special conditions in the type certification of turbine engine powered aircraft to ensure that no adverse vibration characteristics will occur and that extended negative acceleration loads will not interrupt fuel flow.
+
+ Turbine change 4. Fuel flow (Sec. 23.955). 1. A new Sec. 23.955 (f) would be added to read as follows:
+
+ Sec. 23.955 Fuel flow.
+
+ * * * * *
+
+ (f) Turbine engine fuel systems. Each turbine engine fuel system must provide at least 100 percent of the fuel flow required by the engine under each intended operation condition and maneuver. The conditions may be simulated in a suitable mockup. This flow must -
+
+ (1) Be shown with the airplane in the most adverse fuel feed condition (with respect to altitudes, attitudes, and other conditions) that is expected in operation; and 
+
+ (2) Be automatically uninterrupted with respect to any engine until all fuel scheduled for use by the engine has been consumed.
+
+ Explanation. (See Proposal 3 for Sec. 23.955 (e)). Turbine engines are more sensitive to lack of sustained, adequate fuel flow than are reciprocating engines. The danger of flameouts associated with the absence of a continuous ignition source, the difficulty of restarting some turbine engines in flight, and the critical fuel flow rate problems associated with the high flow rates of turbines make it necessary that fuel flow be adequate and uninterrupted under all intended operating conditions and maneuvers.
+
+ 2. Section 23.955 (d) would be amended by striking out the words "paragraphs (b) and (c) of this section apply" and inserting the words "paragraphs (b), (c), and (f) of this section apply." 
+
+ Explanation. This change is necessary since turbine engine fuel system requirements are intended to apply to turbine engine auxiliary and transfer systems, with the exceptions prescribed in Sec. 23.955 (d) (1) and (2).
+
+ Turbine change 5. Fuel system hot weather operation (Sec. 23.961). The present provisions in Sec. 23.961 would be designated as paragraph (a) and new paragraphs (b) and (c) would be added to read as follows:
+
+ Sec. 23.961 Fuel system hot weather operation.
+
+ * * * * *
+
+(b) For turbine engines and turbosupercharged reciprocating engines, the ability of the fuel system to perform satisfactorily in hot weather operation must be shown by climbing from the altitude of the airport elected by the applicant to the altitude representing the service ceiling of the airplane. There may be no evidence of vapor lock or other malfunctioning during the climb test conducted under the following conditions:
+
+ (1) The engines must operate at takeoff power or thrust for the time interval used for showing the takeoff under Sec. 23.51 and at maximum continuous power or thrust for the rest of the climb.
+
+ (2) The weight of the airplane must be the weight with full fuel tanks, minimum crew, and the ballast necessary to maintain the center of gravity within allowable limits.
+
+ (3) The speed of climb may not exceed that allowing compliance with the minimum climb requirement specified in Sec. 23.65.
+
+ (c) The test prescribed in paragraph (b) of this section may be performed in flight or on the ground under closely simulated flight conditions. If a flight test is performed in weather cold enough to interfere with the proper conduct of the test, the fuel tank surfaces, fuel lines, and other fuel system parts subject to cold air must be insulated to simulate, insofar as practicable, flight in hot weather.
+
+ Explanation. For turbine engine powered airplanes, the high altitude capabilities and sustained high rates of climb to altitude require that the fuel system be specifically substantiated throughout the altitude range. These problems are also present for turbosupercharged engine powered airplanes. This proposal would therefore include those airplanes.
+
+ Turbine change 6. Fuel pumps (Sec. 23.991). Section 23.991 (a) and (b) would be amended to read as follows:
+
+ Sec. 23.991 Fuel pumps.
+
+ (a) Main pumps. For main pumps, the following apply:
+
+ (1) For reciprocating engine installations having fuel pumps to supply fuel to the engine, at least one pump for each engine must be directly driven by the engine and must meet Sec. 23.955. This pump is a main pump.
+
+ (2) For turbine engine installations, each fuel pump required for proper engine operation, or required to meet the fuel system requirements of this subpart (other than those in paragraph (b) of this section), is a main pump. In addition -
+
+ (i) There must be at least one main pump for each turbine engine:
+
+ ii) The power supply for the main pump for each engine must be independent of the power supply for each main pump for any other engine; and
+
+ (iii) For each main pump, provision must be made to allow the bypass of each positive displacement fuel pump other than a fuel injection pump approved as part of the engine.
+
+ (b) Emergency pumps. There must be an emergency pump immediately available to supply fuel to the engine if any main pump (other than a fuel injection pump approved as part of an engine) fails. The power supply for each emergency pump must be independent of the power supply for each corresponding main pump.
+
+ * * * * *
+
+ Explanation. Section 23.991 (a) now requires each main pump to be directly driven by the engine. Experience with small turbine engines has shown that these engines may be safely operated with electric fuel pumps if (1) engine independence exits, and (2) fuel pump independence exits. This proposal contains changes necessary to permit the certification of small turbine engine powered airplanes without fuel pumps directly driven by the engine.
+
+ Turbine change 7. Fuel strainer or filter (Sec. 23.997). A new Sec. 23.997 (d) would be added to read as follows:
+
+ Sec. 23.997 Fuel strainer or filter.
+
+ * * * * *
+
+ (d) For turbine engine fuel systems, unless there are means in the fuel system to prevent the accumulation of ice on the filter, there must be means to automatically maintain the fuel flow if ice-clogging of the filter occurs.
+
+ Explanation. Turbine fuels have a high affinity for ice. This requires either that filters and screens be protected from icing or (if icing occurs) that there be means to automatically maintain the fuel flow. This proposal adds language similar to that in Sec. 25.997 (b), and Sec. 27.997 (b), and language now also proposed for transport category rotorcraft (Sec. 29.997) in Notice 65-42, published 30 F.R. 16129, on December 28, 1965.
+
+ Turbine change 8. Fuel system lightning protection (new Sec. 23.1003). A new Sec. 23.1003 would be added to read as follows:
+
+ Sec. 23.1003 Fuel system lightning protection.
+
+ The design and arrangement of each fuel system must provide protection from lightning strike hazards, including the ignition of fuel vapors inside fuel tanks by -
+
+ (a) Direct strokes to areas where direct strokes are highly probable;
+
+ (b) Swept strokes on areas where swept strokes are highly probable; and 
+
+ (c) Corona or streamering at fuel vent outlets.
+
+ Explanation. Turbine fuel system lightning hazards have been shown by experience to be significant enough to require regulation. The proposed standards are based on experience gained in applying lightning protection special conditions in the type certification of turbine engine powered aircraft.
+
+ Turbine change 9. Cooling tests (Secs. 23.1043, 23.1045, 23.1047, and 23.1583). 1. Section 23.1043(a) (4) would be deleted and paragraph (a) (5) would be redesignated as (a) (4).
+
+ 2. The provisions of Sec. 23.1043 (b) would be redesignated as Sec. 23.1043 (b) (1) under the present paragraph heading, and its first sentence would be amended by inserting the words "of reciprocating engines" between the words "for cooling tests" and the words "the maximum."
+
+ 3. A new Sec. 23.1043 (b) (2) would be added to read as follows:
+
+ (2) For cooling tests of turbine engine installations, the applicant must select a temperature of not less than 100° F at sea level, decreasing with altitude as prescribed in subparagraph (1) of this paragraph, for conduct of the test.
+
+ 4. Section 23.1043 (c) would be amended to read as follows:
+
+ (c) Correction factor (except cylinder barrels). Unless a more rational correction applies, temperatures of engine fluids and powerplant components (except cylinder barrels) for which temperature limits are established, must be corrected by adding to them the difference between the maximum ambient atmospheric temperature and the temperature of the ambient air at the time of the first occurrence of the maximum component or fluid temperature recorded during the cooling test.
+
+ 5. The requirements in Secs. 23.1045 and 23.1047 would be specifically restricted to reciprocating engines and would be placed together in Sec. 23.1047 under the section heading "Cooling test procedures for reciprocating engine powered airplanes" with no changes other than appropriate subparagraphing changes, and a new Sec. 23.1045 would be added to read as follows:
+
+ Sec. 23.1045 Cooling test procedures for turbine engine powered airplanes.
+
+ (a) Compliance with Sec. 23.1041 must be shown for the takeoff, climb, en route, and landing stages of flight that correspond to the applicable performance requirements. The cooling test must be conducted with the airplane in the configuration, and operating under the conditions, that are critical relative to cooling during each stage of flight. For the cooling tests, a temperature is "stabilized" when its rate of change is less than 2° F per minute.
+
+ (b) Temperatures must be stabilized under the conditions from which entry is made into each stage of flight being investigated, unless the entry condition normally is not one during which component and engine fluid temperatures would stabilize (in which case, operation through the full entry condition must be conducted before entry into the stage of flight being investigated in order to allow temperatures to reach their natural levels at the time of entry). The takeoff cooling test must be preceded by a period during which the powerplant component and engine fluid temperatures are stabilized with the engines at ground idle.
+
+ (c) Cooling tests for each stage of flight must be continued until -
+
+ (1) The component and engine fluid temperatures stabilize;
+
+ (2) The stage of flight is completed; or
+
+ (3) An operating limitation is reached.
+
+ 6. A new sec. 23.1583 (j) would be added to read as follows:
+
+ Sec. 23.1583 Operating limitations.
+
+ * * * * *
+
+ (j) Climb conditions. For turbine engines, the temperatures and corresponding altitudes used in the climb test in Sec. 23.1043 (b) (2) must be furnished.
+
+ Explanation. Section 23.1043 (a) (4) would be deleted because the sections referenced therein speak for themselves. The requirements now in Secs. 23.1043 (b), 23.1045, and 23.1047 do not provide adequate cooling substantiation for turbines and would therefore be restricted to reciprocating engines. The cooling test requirements added for turbines, including the requirement that test temperatures be furnished as an operating limitation, are necessary because of the effect of high temperature operation on turbines. Proposed Sec. 23.1045 conforms to test program procedures shown to be necessary for turbine engine powered airplanes.
+
+ Turbine change 10. Turbine engine inlet protection (Sec. 23.1091). A new Sec. 23.1091 (c) would be added to read as follows:
+
+ 
+
+ Sec. 23.1091 Air induction.
+
+ * * * * *
+
+ (c) For turbine engine powered airplanes -
+
+ (1) There must be means to prevent hazardous quantities of fuel leakage or overflow from drains, vents, or other components of flammable fluid systems from entering the engine intake system; and 
+
+ (2) The air inlet ducts must be located or protected so as to minimize the ingestion of foreign matter during takeoff, landing, and taxiing.
+
+ Explanation. Protection of turbine engine inlets from flammable fluids and foreign objects is now provided in Sec. 25.1091 (d) for transport category airplanes, and is proposed (Notice 65-42) for rotorcraft. The hazard of turbine engine ingestion of these materials is well known and exists in the same degree for turbine engine powered small airplanes. The proposed standards have been applied as special conditions in the type certification of these airplanes. See "Powerplant Proposal 10," above, for disposition of present (c).
+
+ Turbine change 11. Continuous maximum and intermittent icing conditions (Sec. 23.1093). A new Sec. 23.1093 (b) would be added to read as follows:
+
+ Sec. 23.1093 Induction system icing protection.
+
+ * * * * *
+
+ (b) Each turbine engine must be able to operate throughout its flight power range without adverse effect on engine operation or serious loss of power or thrust, under the icing conditions specified in Appendix C of Part 25 of this chapter. In addition, there must be means to indicate to appropriate flight crewmembers the functioning of the powerplant ice protection system.
+
+ Explanation. Appendix C of Part 25 defines icing conditions relevant to turbine powerplant icing protection. Present powerplant icing requirements in Part 23 are inappropriate for turbine engine installations. Use of the conditions in Appendix C of Part 25 is now required in Part 27 and is also proposed (Notice 65-42) for Part 29.
+
+ Turbine change 12. Turbine engine bleed air ducts (Sec. 23.1103). A new Sec. 23.1103(c) would be added to read as follows:
+
+ Sec. 23.1103 Induction system ducts.
+
+ * * * * *
+
+ (c) For turbine engine bleed air systems, the following apply:
+
+ (1) No hazard may result if duct rupture or failure occurs anywhere between the engine port and the airplane unit served by the bleed air.
+
+ (2) The effect on airplane and engine performance of using maximum bleed air must be established.
+
+ (3) For bleed air systems used for direct cabin pressurization, no failure of the engine lubrication system may result in contamination of cabin air systems.
+
+ Explanation. Bleed air systems used with turbine engine installations present unique problems with respect to three main hazards: Structural effects of duct failure; adverse performance effects caused by taking engine inlet air for bleed air functions; and cabin air contamination. This proposal would meet these hazards specifically.
+
+ Turbine change 13. Turbine engine exhaust system (Sec. 23.1121). A new Sec. 23.1121 (g) would be added to read as follows:
+
+ Sec. 23.1121 General.
+
+ * * * * *
+
+ (g) If significant traps exist, each turbine engine exhaust system must have drains discharging clear of the airplane, in any normal ground and flight attitude, to prevent fuel accumulation after the failure of an attempted engine start.
+
+ Explanation. For turbine engine installations, the potential fire hazard of entrapped fuel in hot exhaust systems after the failure of an attempted engine start is well known. No present rules specifically meet this hazard. The proposed language has been applied as a special condition in the type of certification of turbine engine powered small airplanes.
+
+ Turbine change 14. Powerplant controls; general (Sec. 23.1141). A new Sec. 23.1141 (e) would be added to read as follows.
+
+ Sec. 23.1141 Powerplant controls: general.
+
+ * * * * *
+
+ (e) For turbine engine powered airplanes, no probable failure or combination or failures in any powerplant control system may cause the failure of any function necessary for safety. This must be shown by fault analysis, component tests, and simulated environmental tests.
+
+ Explanation. This proposal would, in effect require that the need for system redundancy, alternate devices, and duplication of functions be determined in the design of turbine powerplant control systems. A similar change is currently being proposed (Notice 65-43) for transport category airplanes.
+
+ Turbine change 15. Turbine engine reverse thrust and propeller pitch settings below the flight regime (new Sec. 23.1155). A new Sec. 23.1155 would be added to read as follows:
+
+ Sec. 23.1155 Turbine engine reverse thrust and propeller pitch settings below the flight regime.
+
+ For turbine engine installations, each control for reverse thrust and for propeller pitch settings below the flight regime must have means to prevent its inadvertent operation. The means must have a positive lock or stop at the flight idle position and must require a separate and distinct operation by the crew to displace the control from the flight regime (forward thrust regime for turbojet powered airplanes).
+
+ Explanation. No reverse thrust or pitch standards have been necessary for reciprocating engine powered small airplanes. However, the advent of the turbine engine powered small airplane makes consideration of reverse thrust and pitch controls necessary for safety. The unique hazard of reversing systems is the possibility of their inadvertent use. These hazards can also result from the inadvertent use of propeller pitch control systems intended to cause high discing drag through the use of pitch settings lower than the flight low pitch limit
+
+ Turbine change 16. Exception to required oil shutoff means (Sec. 23.1189). The introductory text of Sec. 23.1189 would be redesignated as paragraph (a), present paragraphs (a) through (f) would be redesignated as subparagraphs (1) through (6) of paragraph (a), respectively, and the following new paragraph (b) would be added:
+
+ Sec. 23.1189 Shutoff means.
+
+ * * * * *
+
+ (b) Turbine engine installations need not have an engine oil system shutoff if -
+
+ (1) The oil tank is integral with, or mounted on, the engine; and
+
+ (2) All oil system components external to the engine are fireproof.
+
+ Explanation. Turbine engine installations have less need for an oil shutoff than do reciprocating engine installations because less oil is involved, the oil is less flammable, the resultant hazard of oil fire has been much less than in reciprocating engines, and the consequent feasibility of protecting against oil fires by the means proposed herein is much greater than for reciprocating engines. Further, since a turbine engine may windmill at high speeds even when not producing power, the closing of an oil shutoff could damage the engine. The section is reorganized because it is not intended that proposed (b) be subject to the limitations contained in the lead-in to present Sec. 23.1189.
+
+ Turbine change 17. Powerplant instruments (Sec. 23.1305). A new Sec. 23.1305 (c) would be added to read as follows:
+
+ Sec. 23.1305 Powerplant instruments.
+
+ * * * * *
+
+ (c) The following additional powerplant instruments are required for each turbine engine or tank:
+
+ (1) A gas temperature indicator.
+
+ (2) A fuel flow meter, if pilot action is required to maintain fuel flow within limits.
+
+ (3) A fire detector, if required by Sec. 23.1203.
+
+ (4) A thrust indicator, or equivalent, for each turbojet engine.
+
+ (5) A torque indicator, or equivalent, for each turbopropeller engine.
+
+ (6) For each turbopropeller engine, as applicable, means to indicate to the flight crew when the propeller blade angle is below the flight low pitch position. This means must sense propeller pitch directly.
+
+ (7) For each turbopropeller engine, as applicable, a means to indicate to the pilot when the propeller blade angle is in the reverse thrust position.
+
+ (8) For each turbojet engine, as applicable, a means to indicate to the pilot when the turbojet thrust reverser is in the reverse thrust position.
+
+ Explanation. The powerplant instruments in present Sec. 23.1305 are not appropriate for turbine engine powered airplanes. The instruments in this proposal are those that experience has shown to be necessary for the safe operation of those airplanes.
+
+ Turbine change 18. Airplane Flight Manual: inflight restart procedures (Sec. 23.1585). A new Sec. 23.1585 (d) would be added to read as follows:
+
+ Sec. 23.1585 Operating procedures.
+
+ * * * * *
+
+ (d) For turbine engine powered airplanes, one of the following must be furnished:
+
+ (1) A statement that the engines cannot be restarted in flight.
+
+ (2) The air start envelope and air start procedures.
+
+ Explanation. No inflight restart capability is required for small turbine engine powered airplanes. However, if an engine-out condition occurs, safety requires that no time or attention be wasted in attempting to restart an unstartable engine or in using the wrong procedures to restart an otherwise restartable engine.
+
+ Proposal 20. Miscellaneous turbosupercharger installation requirements. The installation of turbosuperchargers in small airplanes is becoming common in both the manufacture of new airplanes and in the alteration of airplanes already in service. Unsafe characteristics may result from improper matching of engine and supercharger. Present Part 23 does not specifically require that these characteristics be investigated and prevented. The changes under this proposal would correct this deficiency. Note that "turbine change 5," above, also affects turbosupercharger installations.
+
+ Turbosupercharger change 1. Safe operation at altitude (Secs. 23.901 and 23.1041). Sections 23.901 (b) (1) and 23.1041 would be amended by inserting the words "to the maximum altitude for which approval is requested" after the word "operation."
+
+ Explanation. The wide range of possible operating altitudes made possible by turbosuperchargers may result in altitude effects adversely affecting powerplant operation and cooling. Safety requires that these effects be investigated and that the limits of investigation determine the limits of approval so far as altitude is concerned.
+
+ Turbosupercharger change 2. General design (new Sec. 23.909). A new Sec. 23.909 would be added to read as follows:
+
+ Sec. 23.909 Turbosuperchargers.
+
+ (a) Each turbosupercharger must be approved under the engine type certificate or it must be shown that the turbosupercharger system -
+
+ (1) Can withstand, without defect, an endurance test of 150 hours that meets the applicable requirements of Sec. 33.49 of this subchapter; and 
+
+ (2) Will have no adverse effect upon the engine.
+
+ (b) Control system malfunctions, vibrations, and abnormal speeds and temperatures expected in service may not damage the turbosupercharger compressor or turbine.
+
+ (c) Each turbosupercharger case must be able to contain fragments of a compressor or turbine that falls at the highest speed that is obtainable with normal speed control devices inoperative.
+
+ (d) Each turbosupercharger and turbosupercharger component close to engine accessories, primary structures, or lines or components carrying flammable fluids must be isolated by fireproof firewalls or shrouds.
+
+ Explanation. The proposed design standards for turbosupercharger installations are necessary because (1) the diversion of exhaust gas through the turbosupercharger turbine subjects the exhaust system to extreme pressures and temperatures (2) failure of high speed rotating components in turbosupercharger installations may cause catastrophic damage to other parts of the airplane, and (3) the turbosupercharger, being operated by hot exhaust gas, may be hot enough to ignite materials close to it.
+
+ Turbosupercharger change 3. Cooling test procedures (Sec. 23.1043). The first sentence of Sec. 23.1043(a) would be amended by adding the following words at the end thereof: "to the maximum altitude for which approval is requested. For turbosupercharged engines, each turbosupercharger must be operated through that part of the climb profile for which operation with the turbosupercharger is requested and in a manner consistent with its intended operation."
+
+ Explanation. Several factors may combine to cause cooling problems not present on nonturbosupercharged engines. These include higher intake, engine compartment, and cylinder head temperatures, and high temperature problems associated with the less dense air at altitude, such as reduced cooling capabilities. Present Part 23 does not specifically require consideration of these factors.
+
+ Turbosupercharger change 4. Engine power controls (Sec. 23.1143). Section 23.1143 would be amended to read as follows:
+
+ Sec. 23.1143 Engine power controls.
+
+ (a) There must be separate power controls for each engine.
+
+ (b) Power controls must be arranged to allow -
+
+ (1) Separate control of each engine; and
+
+ (2) Simultaneous control of all engines.
+
+ (c) Each power control must give a positive and immediate responsive means of controlling its engine.
+
+ (d) The power controls for each engine must be independent of those for every other engine.
+
+ Explanation. Safety requires that the control systems for turbosupercharger installations in each engine be protected and independent of those for every other engine. The present Sec. 23.1143 includes only "throttle" controls. This proposal would extend present Sec. 23.1143 to include all power controls plus a specific requirement of independence.
+
+ Turbosupercharger change 5. Required instruments (Sec. 23.1307). A new Sec. 23.1307 (c) would be added to read as follows:
+
+ 
+
+ Sec. 23.1307 Miscellaneous equipment.
+
+ * * * * *
+
+ (c) For turbosupercharger installations, the following must be furnished:
+
+ (1) A carburetor inlet temperature indicator.
+
+ (2) An exhaust gas temperature indicator.
+
+ (3) An oil temperature and pressure indicator for each turbosupercharger oil system that is separate from other oil systems.
+
+ Explanation. The proposed instruments are necessary to allow monitoring of turbosupercharger installations in order to prevent exceeding engine limitations, and to ensure that separate lubrication systems are monitored.
+
+ Turbosupercharger change 6. Required placard (new Sec. 23.1569). A new Sec. 23.1569 would be added to read as follows:
+
+ Sec. 23.1569 Turbosupercharger placard.
+
+ There must be a placard in clear view of the pilot that specifies all limitations established for the operation of turbosuperchargers.
+
+ Explanation. The possibilities of overheat or overboost conditions in turbosupercharger installations, especially during climb, require that adequate avoidance information be displayed for immediate use by the pilot.
+
+ General Proposals
+
+ Proposal 1. Nautical units of speed and distance. Consistent with the gradual transition from statute miles to nautical miles being made throughout the Federal Aviation Regulations, it is proposed, in addition to certain specific changes made in this notice, to amend Part 23 by changing all references to "miles" and "miles per hour," to "nautical miles" and "knots," respectively, wherever the former are used.
+
+ Proposal 2. Maximum operating altitude (Secs. 23.1501, 23.1527 (new), and 23.1583). 1. A new Sec. 23.1527 would be added to read as follows:
+
+ Sec. 23.1527 Maximum operating altitude.
+
+ For turbine engine powered airplanes and turbosupercharged airplanes, the maximum altitude up to which operation is allowed, as limited by flight, structural, powerplant, functional, or equipment characteristics, must be furnished.
+
+ 2. Section 23.1501 (c) would be amended by striking out the reference to "Sec. 23.1525" and inserting a reference to "Sec. 23.1527" in place thereof.
+
+ 3. A new Sec. 23.1583 (k) would be added to read as follows:
+
+ Sec. 23.1583 Operating limitations.
+
+ * * * * *
+
+ (k) Maximum operating altitude. For turbine engine powered airplanes and turbosupercharged airplanes, the maximum altitude furnished under Sec. 23.1527 must be included.
+
+ Explanation. The increasing use of turbine engine and turbosupercharged engine powered airplanes has resulted in airplanes capable of extremely high altitudes. While certain requirements are now required to be complied with at normally expected operating altitudes. Part 23 does not now require that the highest substantiated altitude become an operating limitation. For airplanes with high altitude capabilities, such a limitation is necessary for safety. See "Turbine changes" for proposed Sec. 23.1583 (j).
+
+ These amendments are proposed under the authority of sections 313 (a), 601, and 603 of the Federal Aviation Act of 1958 (49 U.S.C. 1354 (a), 1421, and 1423).
+
+ 
+
+ 
+        
+FOOTER: Issued in Washington, DC, on April 5, 1967.
+
+James F. Rudolph,
+
+Acting Director, Flight Standards Service.
+
+[FR Doc. 67-3918 Filed 4-10-67; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

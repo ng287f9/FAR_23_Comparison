@@ -1,0 +1,293 @@
+[[Page 1]]
+53278 Federal Register / Vol. 63, No. 192 / Monday, October 5, 1998
+3. Section 1710.302 is amended by DEPARTMENT OF TRANSPORTATION
+revising paragraphs (b), (d)(1), and
+(d)(5), to read as follows: Federal Aviation Administration
+§ 1710.302 Financial forecasts—power 14 CFR Parts 23, 25 and 33
+supply borrowers.
+* (b) The * financial * * forecast * shall cover [Docket 53, 25–95, No. and 28652; 33–19] Amendment Nos. 23–
+a period of 10 years. RUS may request RIN 2120–AF75
+projections for a longer period of time
+if RUS deems necessary. Airworthiness Standards; Rain and
+* * * * * Hail Ingestion Standards; Correction
+(d) * * * AGENCY: Federal Aviation
+(1) Identify all plans for generation Administration, DOT.
+and system transmission operating expenses capital additions on a year-by- and ACTION: Final rule; correction.
+year basis, beginning with the present SUMMARY: This document corrects a
+and running for 10 years, unless a final rule that was published in the
+longer period of time has been requested Federal Register on March 26, 1998 (63
+by RUS. FR 14794). The final rule addressed
+* * * * * engine power loss and instability
+(5) Include sensitivity analysis if phenomena attributed to operation in
+required by RUS pursuant to extreme rain or hail. Also, the final rule
+§ 1710.300(d)(5). generally harmonized the Federal
+* * * * * Aviation Administration and Joint
+Dated: September 28, 1998. Aviation Authorities rain and hail
+Jill Long Thompson, ingestion standards.
+Under Secretary, Rural Development. DATES: Effective October 5, 1998.
+[FR Doc. 98–26484 Filed 10–2–98; 8:45 am] FOR FURTHER INFORMATION CONTACT: John
+BILLING CODE 3410–15–P Fisher, Burlington, Massachusetts
+Foreign object Test quantity Speed of foreign object
+BIRDS:
+3-ounce size .................... One for each 50 square Liftoff speed of typical aircraft
+inches of inlet area, or in
+fraction thereof, up to a
+maximum of 16 birds.
+Three-ounce bird will pass
+the inlet guide vanes into
+the rotor blades.
+11⁄2-pound size ................ One for the first 300 square Initial climb speed of typical
+inches of inlet area, if it aircraft.
+can enter the inlet, plus
+one for each additional
+600 square inches of inlet
+area, or fraction, thereof
+up to a maximum of 8
+birds.
+4-pound size .................... One, if it can enter the inlet. Maximum climb speed of typ-
+ical aircraft, if the engine
+has inlet guide vanes.
+Liftoff speed typical aircraft, if
+the engine does not have
+inlet guide vanes.
+ICE .......................................... Maximum accumulation on a Sucked in ..............................
+typical inlet cowl and en-
+gine face resulting from a
+2-minute delay in actuating
+anti-icing system, or a slab
+of ice which is comparable
+in weight or thickness for
+that size engine.
+Note: The term ‘‘inlet area’’ as used in this section means the engine inlet projected area at
+jected area of any spinner bullet nose that is provided.
+/ Rules and Regulations
+01803–5229; telephone (781) 238–7149;
+fax (781) 238–7199.
+SUPPLEMENTARY INFORMATION: The
+Airworthiness Standards final rule on
+Rain and Hail Ingestion Standards,
+Docket No. 28652 was published in the
+Federal Register on March 26, 1998 (63
+FR 14794). Under ‘‘Discussion of
+Comments,’’ there is an incorrect
+phrase, and under § 33.77 of the rule,
+the foreign object ingestion conditions
+table provides either misplaced or
+incorrect phrases.
+1. On page 14795, under ‘‘Discussion
+of Comments,’’ third column, third
+paragraph, nine lines down, the phrase
+‘‘Some amount of sustained power or
+thrust loss is permitted following an ice
+ingestion test’’ should be replaced with
+‘‘Some amount of sustained power or
+thrust loss is permitted following testing
+to the new rain and hail ingestion
+standards, but no power or thrust loss
+is permitted following an ice ingestion
+test.’’
+2. On page 14798, third column,
+under § 33.77(e), the ingestion
+conditions table is corrected to read as
+follows:
+operation Engine Ingestion
+Takeoff ............. In rapid sequence to simu-
+late flock encounter and
+aimed at selected critical
+areas.
+Takeoff ............. In rapid sequence to simu-
+late a flock encounter and
+aimed at selected critical
+areas.
+Maximum cruise Aimed at critical area.
+Takeoff ............. Aimed at critical area.
+Maximum cruise To simulate a continuous
+maximum icing encounter
+at 25 °F.
+the front face of the engine. It includes the pro-
+
+[[Page 2]]
+Federal Register / Vol. 63,
+Issued in Washington, DC on September
+30, 1998.
+Donald P. Byrne,
+Assistant Chief Counsel.
+[FR Doc. 98–26603 Filed 10–2–98; 8:45 am]
+BILLING CODE 4910–13–M
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Part 71
+[Airspace Docket No. 98–AAL–6]
+RIN 2120–AA66
+Realignment of Colored Federal
+Airway; AK
+AGENCY: Federal Aviation
+Administration (FAA), DOT.
+ACTION: Final rule.
+SUMMARY: This action modifies Colored
+Federal Airway Amber 4 (A–4) and
+revokes Colored Federal Airway Amber
+6 (A–6) due to the decommissioning and
+subsequent removal of the Umiat
+Nondirectional Radio Beacon (NDB),
+AK, from the National Airspace System
+(NAS).
+EFFECTIVE DATE: 0901 UTC, December 3,
+1998.
+FOR FURTHER INFORMATION CONTACT: Ken
+McElroy, Airspace and Rules Division,
+ATA–400, Office of Air Traffic Airspace
+Management, Federal Aviation
+Administration, 800 Independence
+Avenue, SW., Washington, DC 20591;
+telephone: (202) 267–8783.
+SUPPLEMENTARY INFORMATION:
+Background
+On June 5, 1998, the FAA proposed to
+amend 14 CFR part 71 (part 71) to
+modify Colored Federal Airway A–4
+and revoke Colored Federal Airway A–
+6 due to the decommissioning and
+subsequent removal of the Umiat NDB
+(63 FR 30666). Interested parties were
+invited to participate in this rulemaking
+by submitting written comments on the
+proposal to the FAA. One comment
+objecting to the proposal was received
+from the Cape Smythe Air Service
+Safety Officer, opposing the swiftness of
+the FAA action to decommission the
+Umiat NDB and the subsequent loss of
+an instrument flight rules (IFR) alternate
+airport.
+The FAA does not agree with this
+comment for the following reasons: (1)
+there is no standard instrument
+approach procedure supporting Umiat
+Airport; (2) this airport does not meet
+the requirements to be used as an IFR
+alternate airport; (3) the airport weather
+information is unavailable; and (4)
+63, No. 192 / Monday, October 5, 1998
+lighting at the airport is nonoperational.
+Airport operations at Umiat do not
+justify the cost of maintaining the Umiat
+NDB.
+Except for editorial changes this
+amendment is the same as that proposed
+in the notice.
+The Rule
+The FAA is amending 14 CFR part 71
+to modify Colored Federal Airway A–4
+by removing that portion of the airway
+that extends beyond the Anaktuvuk,
+NDB, AK, and revoking Colored Federal
+Airway A–6. The FAA is taking this
+action due to the decommissioning and
+subsequent removal of the Umiat, NDB,
+AK, from the NAS.
+The FAA has determined that this
+regulation only involves an established
+body of technical regulations for which
+frequent and routine amendments are
+necessary to keep them operationally
+current. Therefore, this regulation: (1) is
+not a ‘‘significant regulatory action’’
+under Executive Order 12866; (2) is not
+a ‘‘significant rule’’ under DOT
+Regulatory Policies and Procedures (44
+FR 11034; February 26, 1979); and (3)
+does not warrant preparation of a
+regulatory evaluation as the anticipated
+impact is so minimal. Since this is a
+routine matter that will only affect air
+traffic procedures and air navigation, it
+is certified that this rule, when
+promulgated, will not have a significant
+economic impact on a substantial
+number of small entities under the
+criteria of the Regulatory Flexibility Act.
+Colored Federal airways are
+published in paragraph 6009 of FAA
+Order 7400.9F dated September 10,
+1998, and effective September 16, 1998,
+which is incorporated by reference in 14
+CFR 71.1. The colored Federal airway
+listed in this document will be
+published subsequently in the Order.
+List of Subjects in 14 CFR Part 71
+Airspace, Incorporation by reference,
+Navigation (air).
+Adoption of the Amendment
+In consideration of the foregoing, the
+Federal Aviation Administration
+amends 14 CFR part 71 as follows:
+PART 71—DESIGNATION OF CLASS A,
+CLASS B, CLASS C, CLASS D, AND
+CLASS E AIRSPACE AREAS;
+AIRWAYS; ROUTES; AND REPORTING
+POINTS
+1. The authority citation for part 71
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40103, 40113,
+40120; E.O. 10854, 24 FR 9565, 3 CFR, 1959–
+1963 Comp., p.389.
+/ Rules and Regulations 53279
+§ 71.1 [Amended]
+2. The incorporation by reference in
+14 CFR 71.1 of the Federal Aviation
+Administration Order 7400.9F, Airspace
+Designations and Reporting Points,
+dated September 10, 1998, and effective
+September 16, 1998, is amended as
+follows:
+Paragraph 6009(c)—Amber Federal Airways
+* * * * *
+A–4 [Revised]
+From Evansville, NDB, AK to Anaktuvuk
+Pass, NDB, AK.
+* * * * *
+A–6 [Revoked]
+* * * * *
+Issued in Washington, DC, on September
+29, 1998.
+Reginald C. Matthews,
+Acting Program Director for Air Traffic
+Airspace Management.
+[FR Doc. 98–26599 Filed 10–2–98; 8:45 am]
+BILLING CODE 4910–13–P
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Part 73
+[Airspace Docket No. 97–ASO–9]
+RIN 2120–AA66
+Amendment to Time of Designation for
+Restricted Area R–2908, Pensacola, FL
+AGENCY: Federal Aviation
+Administration (FAA), DOT.
+ACTION: Final rule.
+SUMMARY: This action amends the time
+of designation for Restricted Area R–
+2908 (R–2908) by reducing the
+published time frame for routine
+activation of the area. A special use
+airspace utilization review conducted
+by the FAA determined that the user no
+longer requires regular use of the
+restricted area on a year-round basis.
+The amended time of designation more
+accurately reflects the user’s current
+requirements.
+EFFECTIVE DATE: 0901 UTC, December 3,
+1998.
+FOR FURTHER INFORMATION CONTACT: Paul
+Gallant, Airspace and Rules Division,
+ATA–400, Office of Air Traffic Airspace
+Management, Federal Aviation
+Administration, 800 Independence
+Avenue, SW., Washington, DC 20591;
+telephone (202) 267–8783.
+SUPPLEMENTARY INFORMATION:
+Background
+Restricted Area R–2908 is currently
+designated for daily use, 12 months of

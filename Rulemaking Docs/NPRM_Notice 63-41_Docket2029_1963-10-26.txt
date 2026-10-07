@@ -1,0 +1,110 @@
+CFR NPRM: Part 21|Part 23|Part 25
+
+ 
+ 
+        
+CITATION: [Federal Register: October 26, 1963]
+
+ 
+        
+PAGE NUMBER: [Page 11481]
+
+ 
+        
+DOCKET NUMBER: 2029
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 25
+
+ 
+        
+SUBJECT: Limited Weight Credit For Airplanes Equipped With Standby Power
+
+ 
+        
+ACTION: Notice of Proposed Rulemaking
+
+ 
+        
+SUMMARY: 14 CFR Part 1, 3, 4a, 4b, 8, 9, 10, 40, 41, 42, and 43
+
+ Notice is hereby given that the Federal Aviation Agency has under consideration a proposed Special Civil Air Regulation providing for a limited increase in the maximum certificated takeoff and landing weights of airplanes equipped with rocket engines used to provide standby power.
+
+ 
+        
+DATES: Comments on this notice must be received on or before December 27, 1963.
+
+ 
+        
+ADDRESSES: Comments on this notice may be mailed in duplicate to the Federal Aviation Agency, Office of the General Counsel: Attention Rules Docket, 800 Independence Avenue SW., Washington 25, D.C.
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: Interested persons are invited to participate in the making of the proposed rule by submitting such written data views, or arguments as they may desire. Communications should identify the notice or docket number and be submitted in duplicate to the Federal Aviation Agency, Office of the General Counsel: Attention Rules Docket, 800 Independence Avenue SW., Washington 25, D.C. All communications received on or before December 27, 1963, will be considered by the Administrator before taking action upon the proposed rule. The proposals contained in this notice may be changed in the light of comments received. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons.
+
+ Standby power is power and/or thrust obtained from rocket engines and is separate from the power obtained from the airplane's main engines. Such power and/or thrust is available for a relatively short time for use in cases of emergency. Standby power is capable of producing a temporary increase in airplane climb performance and can be useful in the takeoff and landing regimes of flight where its temporary nature is not a deterrent to its use.
+
+ The purpose of the proposed rule is to provide for a limited increase in the maximum takeoff and landing weights of type certificated airplanes equipped with standby power without determining the extent to which the takeoff and landing performance is improved by the use of standby power. Operators of "standard" and limited category airplanes may elect to take advantage of the proposed rule, if adopted. Operators of restricted category airplanes are not expected to comply with the proposed rule because their airplanes are not subject to strict weight limitations under the current restricted category type certification requirements and little or no benefit is offered them by the proposed weight increase. An applicant for an increase in the maximum weight under this regulation would be required to present an approved standby power installation and to furnish certain limitations and information in the form of placards or, if applicable, Airplane Flight Manual amendments.
+
+ Currently, Special Civil Air Regulation No. SR-426 for transport category airplanes provides that the maximum certificated weights may be increased in proportion to measured increases in performance with standby power. Some operators of transport category airplanes do not desire to undertake the task of extensive flight tests and evaluations which are required by SR-426. These operators together with operators of non-transport category airplanes who have installed standby power in their airplanes must accept, under the current airworthiness regulations, a decrease in useful load at least equal to the weight of the standby power installation.
+
+ The proposed rule is intended to provide a means of restoring this loss of useful load in recognition of the potential takeoff and landing climb performance which is afforded by the use of standby power. This is proposed to be accomplished by permitting the airplane to be cetificated at a maximum weight exceeding that at which the airplane meets: (1) Certain takeoff and landing climb requirements, and (2) the landing of stalling speed limits. In addition, the proposed rule would permit the airplane to be certificated at a maximum weight exceeding the maximum weight limits specified in the various airworthiness and operating regulations. However, to insure that the increase in weight will not adversely affect the operation of the aircraft when standby power is not in use, this proposal limits the increase in weight to a value related to usable impulse and to a percentage of the original maximum weight. Furthermore, to protect the structural integrity of the airplane and to insure adequate performance for en route operations, it is proposed that the weight increase be limited to that which will permit continued compliance with the applicable structural and the en route or the final takeoff climb performance requirements. To insure compliance with these climb performance requirements, it will be necessary to show by appropriate flight tests unless it can be shown by other means that the established lift and drag coefficients are not adversely affected by the inoperative standby power installation.
+
+ Rocket engines have a limited useful life beyond which their operation is not reliable and would no longer justify operation of the airplane at the maximum weight provided by this regulation. Such operation would also be unjustified with expended rocket engines. It is, therefore, proposed to prohibit takeoff at the increased weight provided by this regulation when rockets are installed which exceed the time limits established by the manufacturer (these time limits are usually stenciled on the engine casing); or when the rocket propellant has been used or removed.
+
+ Immediately following the firing of a rocket engine the nozzle and the aft portion of the casing may attain a temperature as high as 700°F. This would be a fire hazard during a wheels-up or crash landing which is executed shortly after the standby power is used. For this reason, it is proposed to require that the pilot be warned of this hazard by means of a suitable placard.
+
+ This proposal is subject to the FAA Recodification Program announced in Draft Release 61-25 (26 F.R. 10698). The final rule, if adopted, may be in recodified form; however, the recodification itself will not alter the substantive contents proposed herein.
+
+ This Special civil Air Regulation is proposed under the authority of sections 313(a), 601, 603, of the Federal Aviation Act of 1958 (72 Stat. 752, 775, 776; 49 U.S.C. 1354, 1421, 1423).
+
+ 
+
+ 
+        
+REGULATORY TEXT: In consideration of the foregoing, it is proposed to adopt a Special Civil Air Regulation to read as follows:
+
+ 1. Notwithstanding other provisions of the regulations of this chapter, approval may be obtained from the Administrator to increase the maximum takeoff and landing weights at which an airplane is certificated if type certificated standby power rocket engines are installed on the airplane. Such approval may be obtained for the increased weights as specified in section 3 of this regulation without a further showing of compliance with the airworthiness requirements applicable to the airplane by filling an application therefor with the Chief, Flight standards Service. Federal Aviation Agency, of the Region in which the applicant is located.
+
+ 2. To be eligible for approval:
+
+ (a) The rocket engine installation must be approved and the applicant must demonstrate by flight test that such rocket engines and their controls can be operated safely and reliably at the increase in maximum weight;
+
+ (b) The Airplane Flight Manual, or the placard markings, or manuals required in lieu of the Airplane Flight Manual, must be amended to set forth in addition to any other operating limitations the Administrator may require, the increased weight approved under this regulation and a prohibition against the operation of the airplane at the approved increased weight when--
+
+ (1) The installed standby power rocket engines have been stored or installed in excess of the time limit established by the manufacturer of the rocket engine (usually stenciled on the engine casing), or
+
+ (2) The rocket engine fuel has been expended or discharged; and
+
+ (c) A placard containing a precaution concerning the potential fire hazard of the hot standby power rocket engine casing during an emergency landing must be installed in the airplane adjacent to the switch which operates such engine.
+
+ 3. The currently approved maximum takeoff and landing weights at which compliance with the applicable first minute and normal climb performance has been shown without a standby power rocket engine installation may be increased by an amount which does not exceed any of the following:
+
+ (a) An amount equal in pounds to 0.014In, where I is the maximum usable impulse in pound-seconds available from each standby power rocket engine and n is the number of rocket engines installed.
+
+ (b) An amount equal to five (5) percent of the maximum certificated weight approved in accordance with the applicable airworthiness regulations without standby power rocket engines installed.
+
+ (c) An amount equal to the weight of the rocket engine installation.
+
+ (d) An amount which together with the currently approved maximum weight would equal the maximum structural weight established for the airplane without standby rocket engines installed.
+
+ (e) For multiengine airplanes, an amount which together with the currently approved maximum weights would equal the weight at which compliance is shown with the applicable one-engine-inoperative final takeoff or en route climb requirements of the applicable airworthiness regulations with the installed standby power rocket engines inoperative.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on October 21, 1963.
+
+G. S. Moore, 
+
+Director, Flight Standards Service.
+
+[FR Doc. 63-11309 Filed 10-25-63; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

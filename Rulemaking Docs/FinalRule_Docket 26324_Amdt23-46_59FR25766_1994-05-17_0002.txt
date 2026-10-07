@@ -1,0 +1,520 @@
+FINAL RULES: 23-46
+
+ 
+ 
+        
+CITATION: [Federal Register: May 17, 1994 (Volume 59, Number 94)]
+
+ 
+        
+PAGE NUMBER: [Page 25766]
+
+ 
+        
+DOCKET NUMBER: 26324
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Airworthiness Standards; Emergency Exit Provisions for Normal, Utility, Acrobatic, and Commuter Category Airplanes
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: This final rule amends the emergency egress airworthiness standards for normal, utility, acrobatic, and commuter category airplanes. This amendment adds requirements for ditching and flightcrew emergency exits for these airplane categories, and provides alternative emergency exit requirements for commuter category airplanes that are consistent with the requirements for similarly sized small transport airplanes. This amendment is intended to ensure that emergency exits are available to all flightcrew members, that exits are available to all multiengine airplane occupants for emergency egress during an emergency landing in water, and to provide alternative exit requirements for commuter category airplanes consistent with the existing transport category airworthiness standards.
+
+ 
+        
+DATES: EFFECTIVE DATE: June 16, 1994.
+
+ 
+        
+EFFECTIVE DATE: 1994-06-16
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Mike Downs, Aerospace Engineer, Standards Office (ACE-110), Small Airplane Directorate, Federal Aviation Administration, room 1544, 601 East 12th Street, Kansas City, Missouri 64106, telephone (816) 426-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+This amendment is based on Notice of Proposed Rulemaking (NPRM) No. 90-20 (55 FR 35544, August 30, 1990). All comments received in response to Notice No. 90-20 have been considered in adopting this amendment.
+
+Notice 78-14, published on October 10, 1978 (43 FR 46734), proposed interim airworthiness requirements for increased takeoff gross weight and passenger seating capacity of certain existing small, propeller-driven, multiengine airplanes. That rulemaking action resulted from a petition for rulemaking to allow certain small airplanes to be type certificated to maximum takeoff weights greater than 12,500 pounds without complying with the transport category type certification requirements of part 25. Special Federal Aviation Regulations (SFAR) 41 (44 FR 53723, September 17, 1979), which became effective October 17, 1979, resulted from Notice 78-14.
+
+In the early 1980's, the FAA explored the feasibility of a new part 24 that would provide airworthiness standards for a new light transport category airplane. The proposal was withdrawn because it was not cost effective. SFAR 41 provides alternative type design standards for an airplane of the same gross weight that would be required to comply with part 25 airworthiness standards. Section 5 of SFAR 41 provides specific requirements for passenger entry doors and additional emergency exits. That section requires, in part, that the passenger entry door qualify as a floor-level emergency exit. For airplanes with a total seating capacity of 15 or fewer, that section requires, in addition to the passenger entry door, an emergency exit as defined in Sec. 23.807(b), on each side of the cabin. For airplanes with a total passenger seating capacity of 16 through 23, that section required three emergency exits as defined in Sec. 23.807(b), with one on the same side as the door and two on the side opposite the door.
+
+SFAR 41 was amended (45 FR 25047, April 14, 1980) for clarification and editorial corrections. SFAR 41B (45 FR 80973, December 8, 1980) further amended the regulation to specify additional requirements for optional compliance with the International Civil Aviation Organization (ICAO), Annex 8, Part III, Airworthiness Standards, which apply to airplanes weighing 5,700 kg (12,566 pounds) or more.
+
+After the expiration of SFAR 41B on October 17, 1981, and termination of the Light Transport Airplane Airworthiness Review, the FAA issued SFAR 41C (47 FR 35153, August 12, 1982), effective September 13, 1982. The amended SFAR: (1) Eliminated the 12,500-pound maximum zero fuel weight restriction; (2) limited the number of passenger seats to 19 for those small propeller-driven, multiengine airplanes that operate at a certificated gross takeoff weight in excess of 12,500 pounds; and (3) relaxed the landing distance determination requirement, making it consistent with the similar requirements in part 23 and part 25. The wording of section 5 was amended, in part, to require that airplanes with a total passenger seating capacity of 16 through 19 be designed with three emergency exits, as defined in Sec. 23.807(b), with one on the same side as the door and two on the side opposite the door.
+
+On November 15, 1983, Notice 83-17 (48 FR 52010) proposed to amend parts 21, 23, 36, 91, and 135 of the Federal Aviation Regulations (FAR) to adopt certification procedures, airworthiness and noise standards, and operating rules for a new commuter category for airplanes type certificated to the FAR. That notice, in part, proposed to amend Sec. 23.807 to require the same number of emergency exits in commuter category airplanes as the number required for airplanes meeting the SFAR 41C requirements.
+
+On December 12, 1986, Notice 86-19 (51 FR 44878), titled "Small Airplane Airworthiness Review Program Notice No. 1", was published proposing new requirements that would enhance cabin safety in normal, utility, and acrobatic category airplanes. Since final rules for commuter category airplanes had not been adopted at the time Notice 86-19 was published, that notice did not address commuter category airplanes. In Notice 86-19, the FAA referred to the proposed commuter category airplane rule and noted that additional rulemaking action would be initiated to enhance the cabin safety of commuter category airplanes if the proposals in Notice 83-17 were adopted.
+
+As a result of Notice 83-17, amendment 23-34 (52 FR 1806, January 15, 1987) was adopted specifying minimum airworthiness standards for a new commuter category airplane. That final rule, in part, amended Sec. 23.807 by adding a new paragraph (d) that required commuter category airplanes with a seating capacity of 15 or fewer to have an emergency exit on each side of the cabin in addition to the entry door; and commuter category airplanes with a total seating capacity of 16 through 19 to have three emergency exits, with one on the same side as the passenger entry door and two on the opposite side. Those requirements were substantively identical to the requirements in SFAR 41C.
+
+As a result of Notice 86-19, amendment 23-36 (53 FR 30802, August 15, 1988) was adopted to provide upgraded airworthiness standards for cabin safety and occupant protection for part 23 airplanes.
+
+Since final action to incorporate commuter category airplane airworthiness standards into the FAR had not been completed at the time Notice 86-19 was published, requirements for commuter category airplanes were not specifically addressed in the proposals of that notice. The proposals in Notice 86-19 were formulated to be compatible with the commuter category airplane cabin safety airworthiness standards that were adopted in amendment 23-34, with the exception of the requirements for dynamic testing of seats and the requirements for shoulder harnesses at the passenger seats. The cabin safety standards adopted by amendment 23-36 were formulated considering both the public comments to Notice 86-19 and the changes to part 23 adopted by amendment 23-34. The requirements for the number of emergency exits in commuter category airplanes, as adopted by amendment 23-34, were not changed by amendment 23-36. The commuter category final rule moved the requirements in Sec. 23.807(d)(3) to a new Sec. 23.811(b), and the requirements of Sec. 23.807(d)(4) were moved to a new Sec. 23.813.
+
+The intent of section 5 of SFAR 41 was to require an additional emergency exit (above the requirements for normal category airplanes) for airplanes with a total seating capacity, including pilot seats, of 12 to 15; therefore, when an airplane with a seating capacity of 11 or fewer, including pilot seats, was certificated to the airworthiness standards of SFAR 41, the emergency exit requirements in Sec. 23.807 for normal category airplanes were applicable. Since the amendment of the emergency exit standards of Sec. 23.807(d)(1)(i), the FAA has reconsidered the number of exits required to commuter category airplanes with a cabin seating capacity of fewer than 9 passengers. Sec. 23.807(d)(1) is applicable to every commuter category airplane, including those airplanes with a total passenger seating capacity of 9 or fewer. This section increases the level of cabin safety requirements for commuter category airplanes.
+
+Since incorporation of amendment 23-34 into part 23, airplane manufacturers and modifiers have petitioned the FAA for exemption from Sec. 23.807(d)(1)(i) or Sec. 23.807(d)(1)(ii). Those standards require that: Commuter category airplanes with a total passenger seating capacity of 15 or fewer have an emergency exit on each side of the cabin in addition to the passenger entry door; and commuter category airplanes with a total passenger seating capacity of 16 through 19 have three emergency exits in addition to the passenger entry door, with one emergency exit on the same side as the door and two exits on the opposite side. Frequently, those petitions have noted the differences in the requirements of Sec. 23.807(d)(1) and the emergency exit requirements for similarly sized transport category airplanes. Sec. 25.807(c)(1) requires, in part, that transport category airplanes with a passenger seating capacity of 19 passengers or fewer provide at least one emergency exit on each side of the fuselage and that the main entry door may be considered one of the emergency exits when it meets the requirements of Secs. 25.807(c)(1) and 25.783.
+
+The petitioners, in general, have proposed to provide the number of emergency exits required by Sec. 25.807(c)(1) for transport category airplanes instead of complying with the requirements of Sec. 23.807(d)(1). In support of these petitions, the petitioners point out that their commuter category airplanes have compensating features that include a variety of other cabin safety provisions and meet the higher levels of safety afforded by small transport category airplanes. Other cabin safety provisions include larger exits, wider aisles, emergency lighting and additional exit marking features, all of which exceed the current requirements for commuter category airplanes. In granting these petitions the FAA stated that the number of emergency exits is only one aspect of overall cabin safety that is provided by the airplane design. For this reason, the FAA initiated a project to amend part 23 to provide that, as an alternative to compliance with the requirements of Sec. 23.807(d)(1), commuter category airplanes may be designed with the number of emergency exits required for transport category airplanes in Sec. 25.807(c)(1).
+
+The FAA conducted a review of the cabin safety standards required for commuter category airplanes in part 23 and the cabin safety provisions required for small transport category airplanes in part 25. The review showed that part 25 standards require numerous features, including a specified emergency exit configuration, emergency lighting, minimum aisle width, and additional exit markings that aid the occupants of transport category airplanes in locating, reaching, and passing through the emergency exits. These additional airworthiness requirements are important factors in minimizing the time required for occupants to safely exit the airplane through a limited number of exits. As an alternative, this final rule allows commuter category airplanes to comply with emergency exit requirements and other cabin safety standards that are substantively the same as those for similarly sized transport category airplanes.
+
+This final rule amends the emergency exit requirements to provide the following: 
+
+(1) Additional emergency landing requirements that give the airplane occupants every reasonable chance of escaping serious injury in a survivable crash landing; 
+
+(2) emergency exit size and step up/step down limitations that enable the airplane occupants to readily pass through the exits; 
+
+(3) emergency exit marking requirements that ensure the exits can be identified easily in an emergency; 
+
+(4) emergency lighting requirements that ensure adequate lighting for rapid egress from the airplane; and 
+
+(5) wider aisles and additional emergency exit access requirements that ensure the airplane occupants have a path to the available emergency exits.
+
+This final rule also adopts new requirements for emergency exit ditching provisions for multiengine airplanes that are type certificated to the airworthiness standards of part 23. The FAA anticipates an increase in the use of multiengine normal and commuter category airplanes in overwater operation. Airports located near large bodies of water have increased the number of departures and approaches that are conducted over water. Since ditching provisions are critical for occupant egress following an emergency landing in water, this proposal would require that the airplane design provide the airplane occupants with a means of exiting the airplane following an emergency landing in water.
+
+Further, this final rule adopts a new airworthiness standard to require that, in emergency landings, emergency exits are readily available to crewmembers when the airplane is configured in a manner that makes the passenger emergency exits inaccessible to the crew. The FAA has previously required additional emergency exits for normal category or commuter category sized airplane designs, where the cabin interiors were configured with cargo nets or other barriers that blocked crewmember access to the passenger emergency exits. Although Sec. 135.87(c)(7) requires at least one emergency or regular exit to be available for crew egress in certain airplanes used in cargo-only operations, there is no such requirement in part 23. This newly adopted requirement is also similar to the standard that is used for transport category airplanes.
+
+Discussion of Comments
+
+General
+
+Interested persons were invited to participate in the development of these final rules by submitting written data, views, or arguments to the regulatory docket on or before February 26, 1991. Five commenters responded to Notice No. 90-20. Minor technical and editorial changes have been made to the proposed rules based on relevant comments received and after further review by the FAA.
+
+One commenter expresses support for the entire proposal without making any specific comments. Another commenter provides comments only to specific proposals. One commenter feels that the commuter category requirements of part 23 already provide an adequate level of safety and asks for an explanation of why the FAA is using part 25 requirements in part 23. This requested explanation can be found in the background section above.
+
+One commenter expresses general agreement with the objectives of the rulemaking and discusses the factors that the commenter considers important to the rapid evacuation of an airplane. This commenter lists those factors as exit availability, adequate exit size, reasonable step up and step down criteria at emergency exits, and illumination of the area immediately outside the exit. The FAA agrees that these factors are also important but questions the relative significance the commenter ascribes to them. The commenter did not submit any supporting data for the comment.
+
+One commenter supports the addition of the small transport category airplane safety features of part 25 to part 23 commuter category airplanes, but strongly opposes tying these features to a reduction in the number of emergency exits. This rulemaking action provides alternative emergency exit requirements for part 23 commuter category airplanes that are consistent with those requirements for similarly sized part 25 small transport category airplanes. This amendment will give the applicant the option of either meeting existing Sec. 23.807(d)(1) emergency exit requirements, or reducing the number of emergency exits to that required by Sec. 23.807(d)(4) and meeting additional cabin safety requirements specified in Sec. 23.807(d)(4). These requirements are similar to those standards required for part 25 small transport airplanes.
+
+Discussion of Comments to Specific Sections of Part 23
+
+Proposal 1. This proposal contains the authority citation for part 23.
+
+Proposal 2. This proposal would add a downward inertia load requirement to the emergency landing ultimate static load factors when an applicant for type certification chooses to comply with the alternate emergency exit requirements of Sec. 23.807(d)(4). This is intended to ensure a specific minimum download airframe strength to protect occupants from structural failures that could prevent their exiting the airplane through the emergency exits or the passenger entry door after an emergency landing.
+
+One commenter believes the 6g downward force is excessive for part 23 airplanes. The FAA disagrees. In the 1970's, the FAA and the National Aeronautics and Space Administration (NASA) conducted considerable research concerning the crash dynamic characteristics of small general aviation airplanes. NASA conducted a test series of 21 controlled full-scale impact tests on single-engine and twin-engine general aviation airplanes. Results from those tests provided a substantial qualitative and quantitative data base regarding the crash behavior and occupant impact protection characteristics of small general aviation airplanes. The results of the research and tests revealed that the downward force occurring during the full-scale impact tests were in excess of 6g in most cases; therefore, the 6g downward inertia load factor was proposed to ensure a minimum download requirement.
+
+One commenter recommends higher downward inertia loads and a correspondingly higher descent velocity, which was proposed as an alternate approach to establishing the static downward load factor. The FAA disagrees. Although downward load factors may be greater than 6g during emergency landing conditions, the FAA intends to make the airworthiness standards for commuter category airplanes consistent with those for small transport airplanes; therefore, the 6g downward load factor will remain as a minimum requirements. Accordingly, that portion of Sec. 23.561(b)(2)(iv) that specifies the use of any lesser force is deleted in the final rule. The removal of this lesser force form the proposed rule further standardizes the alternate cabin safety and emergency exit requirements of part 23 commuter category airplanes with that of part 25 small transport airplanes. The alternative downward force was similarly deleted from part 25. This proposal is adopted with the aforementioned change.
+
+Proposal 3. This proposal would move certain requirements for commuter category airplane passenger entry doors and associated integral stairs from Sec. 23.807(d)(1) to a new Sec. 23.783(f), and add size and shape requirements for the passenger entry door. The final rule clarifies those standards that apply to the passenger entry doors of any commuter category airplane, regardless of the number of emergency exits. One comment was received and it supports the FAA's proposal. Accordingly, this proposal is adopted as proposed.
+
+Proposal 4. Proposed new Sec. 23.812 would require that an emergency lighting system be installed when the applicant for type certification chooses to comply with the alternate emergency exit provisions of proposed Sec. 23.807(d)(4). Proposed Sec. 23.803(b) requires the use of that emergency lighting system during the emergency evacuation demonstration required for commuter category airplanes.
+
+Two comments were received on this proposal. Both commenters suggest that proposed Sec. 23.803(b) be rewritten to eliminate the evacuation demonstration when they comply with Sec. 23.807(d)(4). Both commenters argue that, in their experience, part 25 emergency exit requirements ensure rapid evacuation as long as the airplane is relatively small.
+
+The FAA disagrees. Emergency evacuation demonstrations for passenger-carrying airplanes are consistent with aviation safety. In the absence of showing an ability to evacuate airplanes and the correction of faults in designs and procedures as they are revealed by tests, these demonstrations will result in lives saved. Furthermore, it is not justifiable to exempt an applicant from Sec. 23.803 because the applicant chooses to comply with Sec. 23.807(d)(4), since the applicant that complies with Sec. 23.807(d)(4) has one less emergency exit than the applicant that complies with Sec. 23.807(d)(1). This proposal is adopted as proposed.
+
+Proposal 5. This proposal would add requirements for emergency exits that are available to the flightcrew in an emergency landing. These requirements are intended to ensure that the crew has ready access to an emergency exit when their access to the cabin area aft of the cockpit is blocked by cargo constraints or other barriers. Both normal category (single & multiengine) and commuter category airplanes have been modified for hauling freight, and have included cargo restraint barriers that blocked crew access to the emergency exit in the passenger compartment. Accordingly, these standards were proposed to apply to all categories of airplanes certificated to the airworthiness standards of part 23. These requirements are similar to existing requirements in Sec. 25.807(f) for transport category airplanes.
+
+One commenter suggests that the FAA provide guidance through an advisory circular or other means on how to determine when the cabin entry door or other passenger emergency exit does not offer a convenient and readily accessible means of evacuation for the flightcrew. The FAA agrees that further guidance may be required; however, the FAA will review the need for further guidance after the adoption of the final rule.
+
+One commenter supports the proposal to establish a standard minimum for flightcrew emergency exits; however, the commenter believes that the FAA should conduct tests to determine the minimum exit size that would accommodate pilots in both the ninety-fifth and fifth size percentiles.
+
+Tests to determine exit size were conducted prior to the adoption of a Civil Air Regulations (CAR) amendment in 1962; however, the biometric data derived was taken from the general population and not from a population comprised of pilots. The results of the tests were instrumental in the determination of emergency exit and aisle width requirements. The size of the exits has been determined previously and no change was proposed in the notice. This proposal is adopted without change.
+
+Proposal 6. This proposal would allow type certification of commuter category airplanes configured with one emergency exit on the side of the cabin opposite the passenger entry door when additional cabin safety features are provided in the airplane design. This proposal states the additional cabin safety features required to comply with the alternative emergency exit provisions. This proposal would move specific requirements for the passenger entry door and associated integral stairs from Sec. 23.807(d)(1) to proposed Sec. 23.785(f). This proposal would move from Sec. 23.807(d)(1) to Sec. 23.807(d)(3) the requirement that each emergency exit that is not a floor-level exit be located over a wing or, if the exit is not less than six feet from the ground, have a means to assist occupants in reaching the ground.
+
+Because there are many airports where takeoffs and landings are conducted over large bodies of water, this proposal includes airworthiness standards for multiengine airplanes that require emergency exits for ditching to be located above the waterline. This proposal would require that the airplane design provide the airplane occupants with a means of exiting the airplane following an emergency landing in water.
+
+Nine comments were received regarding proposed Secs. 23.807(d) and 23.807(e). Two commenters state that, according to the preamble to the NPRM, Sec. 23.807(d)(1)(i) is intended to apply to all commuter category airplanes. The commenters further state that this appears inconsistent and impractical when considering a two-place cargo airplane with a cargo barrier immediately aft of the entrance door. The commenters propose to solve this problem by making proposed Sec. 23.807(d)(4)(i) applicable to all commuter category airplanes.
+
+The FAA disagrees. Proposed Sec. 23.807(d)(1) is intended to apply to all commuter category airplanes, but Sec. 23.807(d)(1)(i) is intended to apply only to commuter category airplanes with a total seating capacity of 15 or fewer. Furthermore, the problem of compliance for two-place cargo airplanes is not considered to be a certification problem because there is no special certification for cargo airplanes. The purpose of this rule is to provide alternative emergency exit and cabin safety requirements for commuter category airplanes that are consistent with the airworthiness standards used by small transport airplanes in part 25. This will enable the applicant to choose the requirements of Sec. 23.807(d)(4) instead of Sec. 23.807(d)(1).
+
+Two commenters propose to delete the reference to Sec. 23.803(b) in proposed Sec. 23.807(d)(4)(iii), stating that it is unnecessary. The FAA disagrees. The reference to Sec. 23.803(b) is a necessary part of Sec. 23.807(d)(4)(iii), directing the applicant to the remaining safety requirements of Sec. 23.807(d)(4) that must be met.
+
+One commenter states that multiengine airplanes are required to have emergency exits in accordance with Sec. 23.807(a) and that proposed Sec. 23.807(e) would effectively require two additional exits, even if the Sec. 23.807(a) exit, the main door, or both are above the waterline. The FAA agrees. The intent of the rule is to require that all multiengine airplanes have available exits for emergency egress following an emergency landing in water; therefore, the reference made in the NPRM under Sec. 23.807(e) to Sec. 23.807(b) or (d) is changed to Sec. 23.807(a) or (d). Sec. 23.807(e)(1) remains unchanged. 
+
+One commenter supports the optional exit configuration introduced by Sec. 23.807(d)(4) and states that it is in substantive alignment with part 25.
+
+One commenter opposes the proposal to allow the manufacturer to reduce the number of exits available in exchange for including additional emergency evacuation design features. The commenter further states that emergency evacuation is most critically affected by the proximity of exits to evacuees, and that by reducing the number of exits, evacuation time will increase. The commenter then proposes to extend the useful time for evacuation by requiring the additional part 25 requirement of low flammability interior materials.
+
+The FAA agrees that the number and proximity of exits in an airplane are two parameters that influence evacuation time. One of the purposes of this rulemaking action is to provide an alternative emergency exit configuration for commuter category airplanes without decreasing cabin safety. Since the service history of small transport category airplanes with regard to emergency exit standards has proven successful, this rule provides the applicant with the option of reducing the number of emergency exits required. The compensation for this reduction is accomplished by meeting additional cabin safety requirements. The overall effect is an equivalent level of safety between Sec. 23.807(d)(1) and Sec. 23.807(d)(4), and the standardization of alternative cabin safety and emergency exit requirements for small transport airplanes and commuter category airplanes that comply with Sec. 23.807(d)(4). The request for additional airworthiness standards for low flammability interior materials is beyond the scope of this rulemaking.
+
+One commenter recommends increasing the minimum size of the exit in Secs. 23.807(d)(4)(i) and (ii), to the size of a type I exit and requiring it to be floor level. The commenter states that this is necessary because it is the only exit besides the main entry door, and it replaces two other type III exits. The commenter further contends that the flow rates for the type III exits, as listed in Sec. 25.807, support the commenter's opinion that the type III exits are slow and cumbersome to use; and with such obstacles as allowed in proposed Sec. 23.807(d)(3), their efficiency will be reduced even more.
+
+The FAA disagrees. A requirement for exits larger than those proposed is outside the scope of the rulemaking for the reasons noted above. Furthermore, by meeting the requirements of the proposed exit size and the other cabin safety requirements of Sec. 23.807(d)(4)(iii), minimum requirements for this alternative to Sec. 23.807(d)(4) have been established. This proposal is adopted with the aforementioned changes.
+
+Proposal 7. This proposal would add emergency exit marking requirements applicable when an applicant for type certification chooses to comply with the alternate emergency exit provisions of proposed Sec. 23.807(d)(4). These proposed requirements would result in emergency exits that are easier to locate in adverse conditions and easier to open once located. The proposal includes additional requirements for both internal and external marking of the emergency exits.
+
+One commenter suggests that, even though some additions to the current Sec. 23.811 may be necessary, a full part 25 treatment is not necessarily appropriate for small part 23 commuter airplanes. The commenter recommends that the FAA reconsider this proposal and suggests that a human factor analysis study, determining how people react in commuter size cabins, be completed before any rulemaking activity begins.
+
+The FAA disagrees. Sec. 23.811(c) provides additional airworthiness requirements for emergency exit markings that would be applicable when certification to the emergency exit provisions of Sec. 23.807(d)(4) is requested. The choice is that of the applicant. Also, the service experience gained by part 25 small transport airplanes, and the experience gained from part 23 commuter category applicants that have been granted exemptions from the emergency exit requirements of Sec. 23.807(d)(1), has proven successful. Accordingly, this alternative is considered suitable for all applicants and further human factor analysis studies are not required.
+
+One commenter states that proposed Sec. 23.811(c) would require exit path markings that would be unnecessary and burdensome and suggests that it would provide no added safety benefit. The FAA disagrees. This section requires a means to assist occupants in locating emergency exists in dense smoke and does not limit these means to floor proximity lighting only. This proposal is adopted as proposed with the exception of minor editorial corrections.
+
+Proposal 8. This proposal would add requirements for an emergency lighting system that would apply to an applicant for type certification that chooses to comply with the alternative emergency exit provisions of proposed Sec. 23.807(d)(?). The proposal defines specific minimum requirements for supplying power, arming, and activating the emergency lighting system. The impact activation requirement is consistent with that for emergency locator transmitters. The proposal would also set certain requirements for illumination, function, and the survivability standards of the emergency lighting system. An emergency lighting system that complies with these proposed requirements would aid occupants in locating the emergency exits and exiting after an emergency landing.
+
+One commenter states that more and brighter lights may be detrimental to a fast egress when all human factors are considered. The commenter recommends additional research before any rulemaking activity begins.
+
+The FAA disagrees. The requirements for part 25 airplanes have been found to be suitable for part 23 and an alternative to the current part 23 standard. Furthermore, these improvements in lighting have already been tested by applicants that have been granted exemptions from Sec. 23.807.
+
+One commenter does not understand why the requirement to provide emergency lighting should be limited to applicants that have chosen to comply with Sec. 23.807(d)(4) requirements. The commenter further suggests that emergency lighting requirements should be related only to the number of passengers carried. The FAA disagrees. The emergency lighting requirements are not dependent solely on the number of passengers carried, but are a fundamental aspect of improving cabin safety in emergency evacuations.
+
+Another commenter states that Sec. 23.812(f)(2) implies the use of an inertia switch to activate emergency lighting. The commenter adds that the history of these devices has been poor and the commenter is not convinced of their worth. The FAA disagrees. The use of an inertia switch was not implied in the proposal. The FAA is not mandating the use of specific products in this rulemaking action but rather is addressing an airworthiness requirement. How the applicant chooses to comply with that requirement is left entirely to the applicant.
+
+Another commenter strongly favors emergency lighting but believes that requirements should be adapted for small commuter category airplanes. The commenter suggests that the proposed rule is acceptable through Sec. 23.812(g) and adds that Sec. 23.812(h) should be modified to require bright lights at the emergency exits inside the airplane and outside the exits other than floor level doors.
+
+The FAA disagrees. As proposed these requirements are suitable for the small commuter airplanes and are consistent with the requirements for similarly sized small transport category airplanes.
+
+The same commenter suggests that the floor proximity emergency escape path marking is unnecessary and that Sec. 23.812(h)(3) should be deleted.
+
+The FAA disagrees. Floor proximity emergency escape path marking is intended to allow passengers, who have become oriented within the cabin during the period of general overhead illumination, to find their way to exits unassisted after the general overhead illumination becomes obscured. There are many combinations of lights, markers, and signs that might serve this objective, and each must be shown adequate for the particular cabin interior and exit arrangement; therefore, this performance standard is used to allow design flexibility and ensure the necessary safety.
+
+The same commenter adds that the requirements of Sec. 23.812(i) through Sec. 23.812(l), are acceptable; however, general illumination is not necessary, and Sec. 23.812(l)(1) should probably specify 50 percent instead of 75 percent illumination. General illumination requirements are considered to be an essential element in the standards for providing adequate lighting for the airplane occupants to reach, operate, and egress through the entry door or the emergency exits in emergency situations when the normal interior lighting has been rendered inoperative.
+
+This proposed emergency lighting standard was developed with consideration for: emergency lighting standards used for small transport airplanes; additional airworthiness requirements applied to commuter category airplanes when exemptions to the requirements of Secs. 23.807(d)(1)(i) or (ii), were granted; and the need to ensure that the ability to egress a commuter category airplane is maintained when the number of emergency exits is fewer than the number required by Secs. 23.807(d)(1)(i) or (ii). It is not necessary to require that all lights, except those directly damaged by the fuselage breakup, remain operative after any single vertical separation of the fuselage during a crash landing. The FAA considers the present requirement that permits 25 percent of certain emergency lights, in addition to those directly damaged by the fuselage breakup, to be rendered inoperative (Sec. 23.812(l)(2)) adequate to accomplish safe evacuation. This proposal is adopted as proposed.
+
+Proposal 9. This proposal would add requirements to ensure emergency exit accessibility when an applicant for type certification chooses to comply with the alternative emergency exit provisions of proposed Sec. 23.807(d)(4). Structural failures or yielding of the airframe can occur during an emergency landing or a crash event and may result in one or more emergency exits or the passenger door being rendered unusable. Since the total number of exits available for emergency egress can be fewer with the alternate emergency exit requirements, this proposal defines minimum unobstructed aisle width at the passenger entry door. This proposal would also add other requirements to ensure that any partitions or doorways within the passenger compartment do not hinder occupant access to the exits during an emergency situation.
+
+One commenter suggests that the proposal needs to be clarified so that the lavatory compartment, with a seat approved for use during takeoff and landing, is not considered to be a passenger compartment prohibited from having a door installed between it and the remainder of the passenger compartment. The commenter believes that the provisions of Sec. 23.813(b)(5) provide an adequate and equivalent level of safety whenever doors are installed and that Sec. 23.813(b)(4) should be deleted.
+
+The FAA agrees that clarification of Sec. 23.813(b)(4) and Sec. 23.813(b)(5) is needed. Accordingly, after the semicolon following "compartments" in Sec. 23.813(b)(4), the word "and" will be deleted. The remaining part of the paragraph will read, "unless the door has a means to latch it in the open position. The latching means must be able to withstand the loads imposed upon it by the door when the door is subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2)". Proposed Sec. 23.813(b)(5) is adopted with the change noted above.
+
+Two commenters suggest that proposed Sec. 23.813(b)(2) be deleted because it is not appropriate to small airplanes that do not use cabin attendants. The FAA disagrees. Since not all exits may be operational during an emergency evacuation, the intent of the rule is to ensure minimum unobstructed aisle width and passenger entryways in order to maintain occupant access to exits. The term "assistance", as used in the proposal, does not necessarily mean cabin attendants. This proposal is adopted with the aforementioned changes.
+
+Proposal 10. This proposal would require increased aisle widths when an applicant for type certification chooses to comply with the alternative emergency exit provisions of proposed Sec. 23.807(d)(4). The proposed increased aisle width requirements are intended to ensure that the airplane passengers can reach an exit in an emergency situation even though the floor structure has been warped or there are seats or other items protruding into the normal aisle space.
+
+One commenter supports the establishment of 12 inches as the minimum aisle width and is against allowing aisles as narrow as 9 inches in certain cases. The commenter feels that there is never a time when such a narrow aisle is appropriate. The FAA disagrees. Service experience in small transport category airplanes with a passenger seating capacity of 10 or fewer and an aisle width not less than 9 inches has been found satisfactory.
+
+One commenter states that the expanded aisle widths would cause an increase in the fuselage width of most commuter airplanes and that the proposal would, in most cases, negate the use of any alternate emergency exit provisions. The comment does not reveal whether the commenter has considered that variations in seating layout for new designs would accommodate the requirement and the commenter has supplied no data to support this contention.
+
+One commenter states that, with two abreast seating, aisle width requirements do not control passenger flow in an emergency evacuation. The commenter suggests that if the FAA has evidence that aisle width restricts passenger flow when three abreast seating is used, then the proposed Sec. 23.815(b) should be made applicable only to such arrangements. The commenter adds that the FAA should consider that proposed Sec. 23.815(b) would discriminate against airplanes with two abreast seating because the increased aisle width is generally impractical.
+
+The FAA disagrees. The purpose of the increased aisle width is to increase the probability that occupants can reach an exit during an emergency situation, even though seats or other items may be protruding into the normal aisle space. It is recognized that changes in aisle width have little significant effect on evacuation if minimum airworthiness standards for cabin safety and emergency exits are first met. However, part of the intent of this amendment is to establish these minimum alternative requirements for part 23 commuter category airplanes consistent with those for part 25 small transport category airplanes. This proposal is adopted as proposed.
+
+Final Regulatory Evaluation, Final Regulatory Flexibility Determination, and Trade Impact Assessment
+
+Proposed changes to Federal regulations must undergo several economic analyses. First, Executive Order 12866 directs that each Federal agency shall propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs. Second, the Regulatory Flexibility Act of 1980 requires agencies to analyze the economic effect of regulatory changes on small entities. Third, the Office of Management and Budget directs agencies to assess the effects of regulatory changes on international trade. In conducting these analyses, the FAA has determined that this rule: 
+
+(1) Will generate benefits that justify its costs and is not a "significant regulatory action" as defined in the Executive Order; 
+
+(2) in not "significant" as defined in DOT's Policies and Procedures; 
+
+(3) will not have a significant impact on a substantial number of small entities; and 
+
+(4) will not constitute a barrier to international trade. These analyses, available in the docket, are summarized below.
+
+Regulatory Evaluation Summary
+
+Flightcrew Exit
+
+Few airplane models will likely be affected by this part of the rule. For purposes of illustrating representative costs, it is assumed that one new model will be type certificated three years following the effective date of the rule and that 10 airplanes will be manufactured annually during a ten-year production run, each with an average operating life of 25 years. The FAA estimates that the additional exit will cost $7,300 per airplane, totaling $730,000. Increased fuel cost resulting from the added weight of the exit is estimated to be $200 per airplane per year, totaling $500,000. These costs total $1,230,000, or $525,000 discounted at seven percent to present value. 
+
+Historical accident data do not reveal that crewmember fatalities have occurred as a result of inability to exit cargo-laden airplanes in otherwise survivable accidents. However, such an occurrence is a possibility. As applied to the above representative certification, the additional flightcrew exits would be cost beneficial if only one fatality was prevented. For the purpose of quantifying benefits, the FAA currently uses a minimum value of $2,600,000 to statistically represent a human fatality avoided.
+
+Emergency Ditching Requirements
+
+Most current muliengine airplane models would satisfy the ditching requirements of the rule. Future models with side exits above the waterline will experience little or no incremental costs. However, designs with overhead emergency exits in lieu of side exits above the waterline would cost approximately $11,000 per airplane, totaling $1,100,000 (using the same production run and service life assumptions used above). Increased fuel cost resulting from added weight is estimated to be $300 per airplane per year, totaling $750,000. These costs total $1,850,000, or $790,000 discounted.
+
+Historical accident data indicate that between 1975 and 1991, 14 multiengine commuter airplanes experienced an emergency forced landing in water, resulting in 43 fatalities in total. Although there is no evidence that the fatalities occurred solely because the available emergency exits were below the waterline (hence making it difficult if not impossible to exit the airplane), such a situation is a distinct possibility absent the new requirements. As applied to the above type certification, the modified emergency exits would be cost-beneficial if only two fatalities were prevented.
+
+Remaining Provisions of the Rule
+
+With the exception of the provisions related to the flightcrew exit and emergency ditching, the rule changes will not result in additional costs to manufacturers. Most of the changes will provide manufacturers of certain commuter category airplanes with a choice of either:
+
+(1) Designing to current Part 23 cabin safety standards which require two emergency exits (in addition to the passenger entry door) for airplanes with a total passenger seating capacity of 15 or fewer, or three emergency exits (in addition to the passenger entry door) for airplanes with a total passenger seating capacity of 16 to 19; or
+
+(2) Designing to the alternative Part 23 standards that mirror the current requirements for Part 25 small transport category airplanes requiring only one exit (in addition to the passenger entry door) for airplanes with a passenger seating capacity of 19 or fewer, and also requiring many other cabin safety improvements that are not currently required for Part 23 commuter airplanes.
+
+A manufacturer would choose the alternative that is more cost-effective. A nonquantifiable benefit of this rule is that it will make the cabin safety requirements of commuter category airplanes consistent with those of small transport category airplanes of similar passenger capacities.
+
+Regulatory Flexibility Determination
+
+The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress to ensure that small entities are not unnecessarily and disproportionately burdened by government regulations. The RFA requires agencies to review rules which may have "a significant economic impact on a substantial number of small entities".
+
+As defined by implementing FAA Order 2100.14A, the size threshold for designating an aircraft manufacturer a small entity is 75 employees; that is, an aircraft manufacturer with more than 75 employees is not considered to be a small entity. A substantial number of small entities is defined as a number which is not fewer than 11 and which is more than one-third of the small entities subject to the rule. Since there are fewer than 11 small airplane manufacturers that will be affected by the new requirements, the rule will not have a significant economic impact on a substantial number of small entities.
+
+International Trade Impact Assessment 
+
+The rule will have little or no impact on trade for either American firms doing business in foreign countries or foreign firms doing business in the United States. In the United States, foreign manufacturers will have to meet U.S. requirements, and thus will gain no competitive advantage. In foreign countries, American manufacturers need not comply with these requirements if the foreign country does not require them and, therefore, will not be placed at a competitive disadvantage relative to foreign manufacturers.
+
+Federalism Implications
+
+The regulations herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have federalism implications to warrant the preparation of a Federalism Assessment.
+
+Conclusion
+
+This final rule upgrades the emergency egress requirements of the airworthiness standards for normal, utility, acrobatic, and commuter category airplanes. Applicants seeking new type certification for all airplane categories will be required to provide for ditching and flightcrew emergency exits to ensure that emergency exits are available to all flightcrew members and that emergency exits are available to all multiengine airplane occupants during an emergency landing in water. In addition, this final rule provides an applicant seeking type certification for commuter category airplanes the option of meeting exit requirements that are consistent with the existing transport category standards.
+
+For the reasons discussed in the preamble, and based on the findings in the Regulatory Evaluation, the FAA has determined that this regulation is nonsignificant under Executive Order 12866. In addition, the FAA certifies that this regulation will not have a significant economic impact, positive or negative, on a substantial number of small entities. This regulation is not considered significant under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). A regulatory evaluation of the regulation has been placed in the docket. A copy may be obtained by contacting the person identified under FOR FURTHER INFORMATION CONTACT.
+
+List of Subjects in 14 CFR Part 23
+
+Aircraft, Aviation safety, Signs and symbols.
+
+ 
+        
+REGULATORY TEXT: The Amendment
+
+In consideration of the foregoing, the Federal Aviation Administration amends part 23 of the Federal Aviation Regulations (14 CFR part 23) as follows:
+
+PART 23-AIRWORTHINESS STANDARDS: 
+
+NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES
+
+1. The authority citation for part 23 continues to read as follows:
+
+Authority: 49 U.S.C. 1344, 1354(a), 1355, 1421, 1423, 1425, 1428, 1429, 1430; 49 U.S.C. 106(g).
+
+2. Sec. 23.561 is amended by adding a new paragraph (b)(2)(iv) to read as follows:
+
+Sec. 23.561 General.
+
+* * * * *
+
+(b)* * *
+
+(2)* * *
+
+(iv) Downward, 6.0g when certification to the emergency exit provisions of Sec. 23.807(d)(4) is requested; and
+
+* * * * *
+
+3. Sec. 23.783 is amended by adding a new paragraph (f) to read as follows:
+
+Sec. 23.783 Doors.
+
+* * * * *
+
+(f) In addition, for commuter category airplanes, the following requirements apply:
+
+(1) Each passenger entry door must qualify as a floor level emergency exit. This exit must have a rectangular opening of not less than 24 inches wide by 48 inches high, with corner radii not greater than one-third the width of the exit.
+
+(2) If an integral stair is installed at a passenger entry door, the stair must be designed so that, when subjected to the inertia loads resulting from the ultimate static load factors in Sec. 23.561(b)(2) and following the collapse of one or more legs of the landing gear, it will not reduce the effectiveness of emergency egress through the passenger entry door.
+
+4. Sec. 23.803 is amended by designating the existing text as paragraph (a), and by adding a new paragraph (b) to read as follows:
+
+Sec. 23.803 Emergency evacuation.
+
+* * * * *
+
+(b) In addition, when certification to the emergency exit provisions of Sec. 23.807(d)(4) is requested, only the emergency lighting system required by Sec. 23.812 may be used to provide cabin interior illumination during the evacuation demonstration required in paragraph (a) of this section.
+
+5. A new Sec. 23.805 is added to read as follows:
+
+Sec. 23.805 Flightcrew emergency exits.
+
+For airplanes where the proximity of the passenger emergency exits to the flightcrew area does not offer a convenient and readily accessible means of evacuation for the flightcrew, the following apply:
+
+(a) There must be either one emergency exit on each side of the airplane, or a top hatch emergency exit, in the flightcrew area;
+
+(b) Each emergency exit must be located to allow rapid evacuation of the crew and have a size and shape of at least a 19 by 20 inch unobstructed rectangular opening; and 
+
+(c) For each emergency exit that is not less than six feet from the ground, an assisting means must be provided. The assisting means may be a rope or any other means demonstrated to be suitable for the purpose. If the assisting means is a rope, or an approved device equivalent to a rope, it must be-
+
+(1) Attached to the fuselage structure at or above the top of the emergency exit opening or, for a device at a pilot's emergency exit window, at another approved location if the stowed device, or its attachment, would reduce the pilot's view; and
+
+(2) Able (with its attachment) to withstand a 400-pound static load.
+
+6. Sec. 23.807 is amended by revising paragraphs (d) introductory text and (d)(1), and by adding paragraphs (d)(3), (d)(4), and (e) to read as follows:
+
+Sec. 23.807 Emergency exits.
+
+* * * * *
+
+(d) Doors and exits. In addition, for commuter category airplanes, the following requirements apply:
+
+(1) In addition to the passenger entry door-
+
+(i) For an airplane with a total passenger seating capacity of 15 or fewer, an emergency exit, as defined in paragraph (b) of this section, is required on each side of the cabin; and
+
+(ii) For an airplane with a total passenger seating capacity of 16 through 19, three emergency exits, as defined in paragraph (b) of this section, are required with one on the same side as the passenger entry door and two on the side opposite the door.
+
+* * * * *
+
+(3) Each required emergency exit, except floor level exits, must be located over the wing or, if not less than six feet from the ground, must be provided with an acceptable means to assist the occupants to descend to the ground. Emergency exits must be distributed as uniformly as practical, taking into account passenger seating configuration.
+
+(4) Unless the applicant has complied with paragraph (d)(1) of this section, there must be an emergency exit on the side of the cabin opposite the passenger entry door, provided that-
+
+(i) For an airplane having a passenger seating configuration of nine or fewer, the emergency exit has a rectangular opening measuring not less than 19 inches by 26 inches high with corner radii not greater than one-third the width of the exit, located over the wing, with a step up inside the airplane of not more than 29 inches and a step down outside the airplane of not more than 36 inches;
+
+(ii) For an airplane having a passenger seating configuration of 10 to 19 passengers, the emergency exit has a rectangular opening measuring not less than 20 inches wide by 36 inches high, with corner radii not greater than one-third the width of the exit, and with a step up inside the airplane of not more than 20 inches. If the exit is located over the wing, the step down outside the airplane may not exceed 27 inches; and
+
+(iii) The airplane complies with the additional requirements of Secs. 23.561(b)(2)(iv), 23.803(b), 23.811(c), 23.812, 23.813(b), and 23.815.
+
+(e) For multiengine airplanes, ditching emergency exits must be provided in accordance with the following requirements, unless the emergency exits required by paragraph (a) or (d) of this section already comply with them:
+
+(1) One exit above the waterline on each side of the airplane having the dimensions specified in paragraph (b) or (d) of this section, as applicable; and
+
+(2) If side exits cannot be above the waterline, there must be a readily accessible overhead hatch emergency exit that has a rectangular opening measuring not less than 20 inches wide by 36 inches long, with corner radii not greater than one-third the width of the exit.
+
+7. Sec. 23.811 is amended by adding a new paragraph (c) to read as follows:
+
+Sec. 23.811 Emergency exit marking.
+
+* * * * *
+
+(c) In addition, when certification to the emergency exit provisions of Sec. 23.807(d)(4) is requested, the following apply:
+
+(1) Each emergency exit, its means of access, and its means of opening, must be conspicuously marked;
+
+(2) The identity and location of each emergency exit must be recognizable from a distance equal to the width of the cabin;
+
+(3) Means must be provided to assist occupants in locating the emergency exits in conditions of dense smoke;
+
+(4) The location of the operating handle and instructions for opening each emergency exit from inside the airplane must be shown by marking that is readable from a distance of 30 inches;
+
+(5) Each passenger entry door operating handle must-
+
+(i) Be self-illuminated with an initial brightness of at least 160 microlamberts; or
+
+(ii) Be conspicuously located and well illuminated by the emergency lighting even in conditions of occupant crowding at the door;
+
+(6) Each passenger entry door with a locking mechanism that is released by rotary motion of the handle must be marked-
+
+(i) With a red arrow, with a shaft of at least three-fourths of an inch wide and a head twice the width of the shaft, extending along at least 70 degrees of arc at a radius approximately equal to three-fourths of the handle length;
+
+(ii) So that the center line of the exit handle is within ± one inch of the projected point of the arrow when the handle has reached full travel and has released the locking mechanism;
+
+(iii) With the word "open" in red letters, one inch high, placed horizontally near the head of the arrow; and 
+
+(7) In addition to the requirements of paragraph (a) of this section, the external marking of each emergency exit must-
+
+(i) Include a 2-inch colorband outlining the exit; and
+
+(ii) Have a color contrast that is readily distinguishable from the surrounding fuselage surface. The contrast must be such that if the reflectance of the darker color is 15 percent or less, the reflectance of the lighter color must be at least 45 percent. "Reflectance" is the ratio of the luminous flux reflected by a body to the luminous flux it receives. When the reflectance of the darker color is greater than 15 percent, at least a 30 percent difference between its reflectance and the reflectance of the lighter color must be provided.
+
+8. A new Sec. 23.812 is added to read as follows:
+
+Sec. 23.812 Emergency lighting.
+
+When certification to the emergency exit provisions of Sec. 23.807(d)(4) is requested, the following apply:
+
+(a) An emergency lighting system, independent of the main cabin lighting system, must be installed. However, the source of general cabin illumination may be common to both the emergency and main lighting systems if the power supply to the emergency lighting system is independent of the power supply to the main lighting system.
+
+(b) There must be a crew warning light that illuminates in the cockpit when power is on in the airplane and the emergency lighting control device is not armed.
+
+(c) The emergency lights must be operable manually from the flightcrew station and be provided with automatic activation. The cockpit control device must have "on", "off", and "armed" positions so that, when armed in the cockpit, the lights will operate by automatic activation.
+
+(d) There must be a means to safeguard against inadvertent operation of the cockpit control device from the "armed" or "on" positions.
+
+(e) The cockpit control device must have provisions to allow the emergency lighting system to be armed or activated at any item that it may be needed.
+
+(f) When armed, the emergency lighting system must activate and remain lighted when-
+
+(1) The normal electrical power of the airplane is lost; or
+
+(2) The airplane is subjected to an impact that results in a deceleration in excess of 2g and a velocity change in excess of 3.5 feet-per-second, acting along the longitudinal axis of the airplane; or 
+
+(3) Any other emergency condition exists where automatic activation of the emergency lighting is necessary to aid with occupant evacuation.
+
+(g) The emergency lighting system must be capable of being turned off and reset by the flightcrew after automatic activation.
+
+(h) The emergency lighting system must provide internal lighting, including-
+
+(1) Illuminated emergency exit marking and locating signs, including those required in Sec. 23.811(b);
+
+(2) Sources of general illumination in the cabin that provide an average illumination of not less than 0.05 foot-candle and an illumination at any point of not less than 0.01 foot-candle when measured along the center line of the main passenger aisle(s) and at the seat armrest height; and
+
+(3) Floor proximity emergency escape path marking that provides emergency evacuation guidance for the airplane occupants when all sources of illumination more than 4 feet above the cabin aisle floor are totally obscured.
+
+(i) The energy supply to each emergency lighting unit must provide the required level of illumination for at least 10 minutes at the critical ambient conditions after activation of the emergency lighting system.
+
+(j) If rechargeable batteries are used as the energy supply for the emergency lighting system, they may be recharged from the main electrical power system of the airplane provided the charging circuit is designed to preclude inadvertent battery discharge into the charging circuit faults. If the emergency lighting system does not include a charging circuit, battery condition monitors are required.
+
+(k) Components of the emergency lighting system, including batteries, wiring, relays, lamps, and switches, must be capable of normal operation after being subjected to the inertia forces resulting from the ultimate load factors prescribed in Sec. 23.561(b)(2).
+
+(l) The emergency lighting system must be designed so that after any single transverse vertical separation of the fuselage during a crash landing:
+
+(1) At least 75 percent of all electrically illuminated emergency lights required by this section remain operative; and
+
+(2) Each electrically illuminated exit sign required by Sec. 23.811(b) and (c) remains operative, except those that are directly damaged by the fuselage separation.
+
+9. Sec. 23.813 is amended by designating the existing text as paragraph (a), and by adding a new paragraph (b) to read as follows:
+
+Sec. 23.813 Emergency exist access.
+
+* * * * *
+
+(b) In addition, when certification to the emergency exit provisions of Sec. 23.807(d)(4) is requested, the following emergency exit access must be provided:
+
+(1) The passageway leading from the aisle to the passenger entry door must be unobstructed and at least 20 inches wide.
+
+(2) There must be enough space next to the passenger entry door to allow assistance in evacuation of passengers without reducing the unobstructed width of the passageway below 20 inches.
+
+(3) If it is necessary to pass through a passageway between passenger compartments to reach a required emergency exit from any seat in the passenger cabin, the passageway must be unobstructed; however, curtains may be used if they allow free entry through the passageway.
+
+(4) No door may be installed in any partition between passenger compartments unless that door has a means to latch it in the open position. The latching means must be able to withstand the loads imposed upon it by the door when the door is subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2).
+
+(5) If it is necessary to pass through a doorway separating the passenger cabin from other areas to reach a required emergency exit from any passenger seat, the door must have a means to latch it in the open position. The latching means must be able to withstand the loads imposed upon it by the door when the door is subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2).
+
+10. Sec. 23.815 is amended by designating the existing text as paragraph (a); by amending newly designated paragraph (a) by removing the word "For" and adding in its place the words "Except as provided in paragraph (b) of this section, for"; and by adding a new paragraph (b) to read as follows:
+
+Sec. 23.815 Width of aisle.
+
+* * * * *
+
+(b) When certification to the emergency exist provisions of Sec. 23.807(d)(4) is requested, the main passenger aisle width at any point between the seats must equal or exceed the following values:
+
+Number of passenger seats
+
+ Minimum main passenger aisle width (inches)
+
+ 
+
+Less than 25 inches from floor
+
+ 25 inches and more from floor
+
+ 
+
+10 or fewer
+
+11 through 19
+
+ 12
+
+12
+
+ 15
+
+20
+
+ 
+
+1A narrower width not less than 9 inches may be approved when substantiated by test found necessary by the Administrator.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on May 11, 1994.
+
+David R. Hinson,
+
+Administrator.
+
+[FR Doc. 94-11847 Filed 5-16-94; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 90-20; Issued on 08/23/90.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

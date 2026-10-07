@@ -1,0 +1,922 @@
+Start Preamble
+ Start Printed Page 13911
+ 
+ 
+ 
+ 
+ 
+ 
+ AGENCY:
+
+ Federal Aviation Administration, Department of Transportation (DOT).
+
+ 
+ 
+ ACTION:
+
+ Issuance of accepted means of compliance.
+
+ 
+ 
+ SUMMARY:
+
+ This document announces ASTM International (ASTM) consensus standards for use as a means of compliance to the applicable airworthiness standards for normal category airplanes. The FAA accepts ASTM Designation F3264-21 as a means of compliance for applicable airworthiness standards for normal category airplanes, with the changes identified in Table 1 of this document. For ease of use, Table 2 provides a side-by-side view, linking applicable regulations to the associated ASTM sections.
+
+ 
+ 
+ DATES:
+
+ The FAA accepts the means of compliance effective March 11, 2022.
+
+ 
+ Start Further Info
+ FOR FURTHER INFORMATION CONTACT:
+
+ 
+ Hieu Nguyen, Federal Aviation Administration, Policy and Innovation Division, Small Airplane Strategic Policy Section, AIR-615, 901 Locust Street, Room 301, Kansas City, Missouri 64106; telephone (316) 946-4123; facsimile: (316) 946-4107; email: 
+ hieu.nguyen@faa.gov.
+ 
+
+ End Further Info
+ End Preamble
+ Start Supplemental Information
+ SUPPLEMENTARY INFORMATION:
+
+ Background
+
+ 
+ Under the provisions of the National Technology Transfer and Advancement Act of 1995 [1] 
+ 
+ and Office of Management and Budget (OMB) Circular A-119, “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities,” effective January 27, 2016, the FAA participates in the development of consensus standards and uses consensus standards as a means of carrying out its policy objectives where appropriate.
+ 
+
+ 
+ 
+ Consistent with the Small Airplane Revitalization Act of 2013,[2] 
+ 
+ the FAA has been working with industry and other stakeholders through the ASTM International (ASTM) F44 Committee on General Aviation Aircraft to develop consensus standards as a means of compliance in certificating small airplanes under title 14, Code of Federal Regulations (14 CFR), part 23.
+ 
+
+ 
+ 
+ In part 23, amendment 23-64 [3] 
+ 
+ (81 FR 96572, published on December 30, 2016), the final rule described the FAA would publish those consensus standards in the 
+ Federal Register
+ , when the Administrator accepts the consensus standards as an acceptable means of compliance.
+ 
+
+ 
+ 
+ Additionally, the FAA published Advisory Circular (AC) 23.2010-1,[4] 
+ 
+ dated March 27, 2017, titled “FAA Accepted Means of Compliance Process for 14 CFR part 23”. In paragraph 5.5, the AC also describes that a notice will be published when the Administrator accepts a standard.
+ 
+
+ 
+ The means of compliance accepted by this document is one means, but not the only means of complying with part 23 regulatory requirements.
+
+ The FAA reviewed the published ASTM consensus standards developed by ASTM Committee F44 as the basis for means of compliance to 65 sections of part 23, amendment 23-64.
+
+ In some cases, the Administrator found sections of the ASTM Standard Designation F3264-21, titled “Standard Specification for Normal Category Aeroplanes Certification,” without changes, accepted as means of compliance with the airworthiness requirements of amendment 23-64, and within the scope and applicability of the consensus standards.
+
+ In other cases, the means of compliance, while based on ASTM consensus standards, include additional FAA provisions necessary to comply with the airworthiness requirements of amendment 23-64.
+
+ Applicants who desire to use means of compliance reflected by other revisions to ASTM standards not previously accepted, may seek guidance and possible acceptance from the FAA for the use of those means of compliance on a case-by-case basis. Applicants may also propose alternative means of compliance for FAA review and possible acceptance.
+
+ Part 23, amendment 23-64, established airworthiness requirements based on the safety requirements outlined in amendment 23-63, except in areas that address loss of control and icing, where the FAA increased the safety level. Depending on the details of a design, the applicant may require use of a different means of compliance beyond those accepted by this document. For example, novel airplane designs, such as unmanned airplanes or vertical takeoff and landing airplanes, may be outside the scope of this document, and applicants may need to propose alternative means of compliance applicable to their designs accepted under § 23.2010.
+
+ Means of Compliance Accepted
+
+ 
+ This document accepts only the revisions of the standards referenced in ASTM International Standard Designation (ASTM) F3264-21, “Standard Specification for Normal Category Aeroplanes Certification.”
+ 
+ 
+
+ 
+ 
+ Table 1.
+ The FAA accepts ASTM F3264-21 as a means of compliance for part 23, amendment 23-64, with the changes identified.
+ 
+
+ 
+ Table 2.
+ For ease of use, Table 2 provides a side-by-side view, linking the applicable part 23 regulations to the ASTM F3264-21 sections. The ASTM F3264-21 sections must incorporate the changes required for FAA acceptance from Table 1.
+ 
+
+ Table 1—Part 23 Accepted Means of Compliance Based on ASTM Consensus Standards
+
+ASTM designation No. ASTM document title Changes required for FAA acceptance 5 Additional information 6 
+
+F2490-20 Standard Guide for Aircraft Electrical Load and Power Source Capacity Analysis None. 
+
+Start Printed Page 13912 
+
+F3061/F3061M-20 Standard Specification for Systems and Equipment in Small Aircraft Remove:
+ Tables 1, 3, 4, 5, 13 and 14
+ 
+ Replace 17.3.1 with the following:
+ 
+ (a) Each electrical or electronic system that performs a function, the failure of which would prevent the continued safe flight and landing of the airplane, must be designed and installed such that— 
+ (1) The function at the airplane level is not adversely affected during and after the time the airplane is exposed to lightning; and 
+ (2) The system recovers normal operation of that function in a timely manner after the airplane is exposed to lightning unless the system's recovery conflicts with other operational or functional requirements of the system. Aircraft Type Code compliance matrix tables found in F3061/F3061M-20 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.
+ 
+ F3061/F3061M-20 does not contain means for showing compliance to § 23.2310 
+ Buoyancy for seaplanes and amphibians.
+ If applying for certification of a seaplane or amphibian, applicants may use the provisions of §§ 23.751, 23.755, and 23.757 at amendment 23-63 as a means of complying with § 23.2310, or may obtain FAA acceptance of a different method of compliance in accordance with § 23.2010. 
+
+  Replace 17.3.2 with the following: 
+
+  (b) Each electrical and electronic system that performs a function, the failure of which would significantly reduce the capability of the airplane or the ability of the flight crew to respond to an adverse operating condition, must be designed and installed such that the system recovers normal operation of that function in a timely manner after the airplane is exposed to lightning 
+
+  Remove 17.3.3 
+
+F3062/F3062M-20 Standard Specification for Aircraft Powerplant Installation None. 
+
+F3063/F3063M-20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery None. 
+
+F3064/F3064M-21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication None. 
+
+F3065/F3065M-21a Standard Specification for Aircraft Propeller System Installation None. 
+
+F3066/F3066M-18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation None. 
+
+F3082/F3082M-17 Standard Specification for Weights and Centers of Gravity of Aircraft None. 
+
+F3083/F3083M-20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations None. 
+
+F3093/F3093M-21 Standard Specification for Aeroelasticity Requirements None. 
+
+F3114-21 Standard Specification for Structures None. 
+
+F3115/F3115M-20 Standard Specification for Structural Durability for Small Aeroplanes None If applicant proposes to use F3115/F3115M-20 section 4.3 or 6.3.3, Policy & Innovation Division will be involved as the standard is applied during projects to review the approach to determining similarity (F3115/F3115M-20 section 4.3) and criteria defining obvious damage (F3115/F3115M-20 section 6.3.3). 
+
+Start Printed Page 13913 
+
+F3116/F3116M-18e2 Standard Specification for Design Loads and Conditions Replace:
+ Section 4.1.4.
+ 
+ With:
+ FAA Section 4.1.4 “Appendix X1 through Appendix X4 provides, within the limitations specified within the appendix, a simplified means of compliance with several of the requirements set forth in Sections 4.2 to 4.26 and 7.1 to 7.9 that can be applied as one (but not the only) means to comply. If the simplified methods in appendix X1 through X3 are used, they must be used together in their entirety. 
+
+  Replace:
+ Section X1.1.1 
+
+  With:
+ FAA Section X1.1.1 “The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 and level 2 low speed airplanes.” 
+
+  Replace:
+ Section X2.1.1 
+
+  With:
+ FAA Section X2.1.1 “The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 and level 2 low speed airplanes.” 
+
+  Replace:
+ Section X3.1.1 
+
+  With:
+ FAA Section X3.1.1 “The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 and level 2 low speed airplanes.” 
+
+  Replace:
+ Section X4.1.1.
+ 
+ With:
+ FAA Section X4.1.1 “The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 low speed airplanes.” 
+
+F3117/F3117M-20 Standard Specification for Crew Interface in Aircraft Add:
+ 4.3 Windshields and Windows. 
+ 4.3.1 For Level 4 airplanes, the windshield panels in front of the pilots must be arranged so that, assuming the loss of vision through any one panel, one or more panels remain available for use by a pilot seated at a pilot station to permit continued safe flight and landing 
+
+  Or For Level 4 Airplanes Add F3117/F3117M—21a Section 4.3 
+
+F3120/F3120M-20 Standard Specification for Ice Protection for General Aviation None. 
+
+F3173/F3173M-21 Standard Specification for Aircraft Handling Characteristics None. 
+
+F3174/F3174M-19 Standard Specification for Establishing Operating Limitations and Information for Aeroplanes None. 
+
+F3179/F3179M-20 Standard Specification for Performance of Aircraft None. 
+
+F3180/F3180M-19 Standard Specification for Low-Speed Flight Characteristics of Aircraft FAA does not universally accept F3180/F3180M-19 due to inexperience with Alternative 2 within the standard. FAA previously and continues to accept F3180/F3180M-16 Applicants are encouraged to consider proposing F3180/F3180M-19, particularly Alternative 2, for development of their method of compliance for low speed handling qualities on a project-by-project basis, or may obtain FAA acceptance of a different method of compliance in accordance with § 23.2010. 
+
+Start Printed Page 13914 
+
+F3227/F3227M-21 Standard Specification for Environmental Systems in Small Aircraft Remove:
+ Tables 1, 2, and 3 Aircraft Type Code compliance matrix tables found in F3227/F3227M-21, are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3228-17 Standard Specification for Flight Data and Voice Recording in Small Aircraft Remove:
+ Table 1 Aircraft Type Code compliance matrix table found in F3228-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3229/F3229M-17 Standard Practice for Static Pressure System Tests in Small Aircraft Remove:
+ Table 1 Aircraft Type Code compliance matrix table found in F3229/F3229M-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3230-20a Standard Practice for Safety Assessments of Systems and Equipment in Small Aircraft Remove:
+ Table 1 Aircraft Type Code compliance matrix table found in F3230-20a are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3231/F3231M-21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation Remove:
+ Table 1 Aircraft Type Code compliance matrix table found in F3231/F3231M-21 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3232/F3232M-20 Standard Specification for Flight Controls in Small Aircraft Remove:
+ Tables 1 and 2 Aircraft Type Code compliance matrix tables found in F3232/F3232M-20 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3233/F3233M-21 Standard Specification for Instrumentation in Small Aircraft Remove:
+ Table 1 Aircraft Type Code compliance matrix table found in F3233/F3233M-21 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3234/F3234M-17 Standard Specification for Exterior Lighting in Small Aircraft Remove:
+ Table 1 Aircraft Type Code compliance matrix table found in F3234/F3234M-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3235-17a Standard Specification for Aircraft Storage Batteries Remove:
+ Section 4.2
+ 
+ Remove:
+ Table 1. If applying for certification of an airplane with installed lithium batteries, applicants may use the guidance provided by RTCA DO-311A, or may obtain FAA acceptance of a different method of compliance in accordance with § 23.2010.
+ Aircraft Type Code compliance matrix table found in F3235-17a are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3236-17 Standard Specification for High Intensity Radiated Field (HIRF) Protection in Small Aircraft Remove:
+ Table 1
+ 
+ Revise:
+ Table 2 400 to 700 Mhz frequency range field strength average value:
+ 
+ 
+ Replace:
+ “100 volts/meter.”
+ 
+ 
+ With:
+ “50 volts/meter.” Aircraft Type Code compliance matrix table found in F3236-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+  Replace:
+ Section 4.2.3.3 
+
+  With:
+ FAA Section 4.2.3.3 “From 40 to 400 MHz, use conducted susceptibility tests, starting at a minimum of 30 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 3 mA at 400 MHz.” 
+
+F3239-19 Standard Specification for Aircraft Electric Propulsion Systems FAA does not universally accept F3239-19 due to inexperience with the standard Applicants are encouraged to consider proposing F3239-19 for development of their method of compliance for electric propulsion systems on a project-by-project basis. Any method of compliance proposed must establish a level of safety equivalent to certified reciprocating and turbine propulsion systems and receive acceptance by FAA in accordance with § 23.2010. 
+
+F3254-19 Standard Specification for Aircraft Interaction of Systems and Structures Figures 2, 3 and 4 
+ Replace:
+ “Remote”
+ 
+ With:
+ “10−5
+ .”
+ 
+ 
+ Replace:
+ “Extremely Improbable.” Other proposed probabilities will be considered by the FAA on a case by case basis. 
+
+  With:
+ “10−8
+ ” for Level 1, 2 and 3 airplanes and with “10−9
+ ” for Level 4 airplanes” 
+
+Start Printed Page 13915 
+
+F3309/F3309M-21 Standard Practice for Simplified Safety Assessment of Systems and Equipment in Small Aircraft None. 
+
+F3316/F3316M-19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion FAA does not universally accept F3316/F3316M-19 due to inexperience with the standard
+ 
+ Remove:
+ Table 1. Applicants are encouraged to consider proposing F3316/F3316M-19 for development of their method of compliance for electrical systems installed on airplanes with electric or hybrid-electric propulsion systems on a project-by-project basis. Applicants may obtain FAA acceptance of a different method of compliance in accordance with § 23.2010. 
+
+  Aircraft Type Code compliance matrix table found in F3316/F3316M-19 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section. 
+
+F3331-18 Standard Practice for Aircraft Water Loads None. 
+
+F3367-21 Standard Practice for Simplified Methods for Addressing High-Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft Replace:
+ paragraph 5.1.1.
+ 
+ With:
+ Systems that are part of the Type Certificated Engine must be installed in accordance with the engine manufacturer's requirements. The minimum HIRF and lightning qualification in accordance with Sections 8 and 9 of this ASTM practice should be met at the aircraft level, except for engine control systems in Level 1 and 2 airplanes which should meet the following; 
+
+  • HIRF: DO-160, Section 20—R for both radiated and conducted susceptibility 
+
+  • Lightning: Utilize Guidance in AC 33.28-3
+ For metallic fuselage DO-160G, Section 22—A3J3L3 (shielded) and A3H3L3 (unshielded) 
+
+  For composite fuselage DO-160G, Section 22—B3K3L3 (shielded) and B3H3L3 (unshielded) 
+
+  Use of lower HIRF and lighting induced voltage & current levels may be acceptable for electronic engine control systems if substantiated at the airplane level (by test in the proposed installation or similar) when exposed to external HIRF environment per AC20-158A and Lightning per AC20-136B; using shielding and grounding of the electronic engine control system and accessories in the given installation 
+
+F3380-19 Standard Practice for Structural Compliance of Very Light Aeroplanes None. 
+
+F3396/F3396M-20 Standard Practice for Aircraft Simplified Loads None. 
+
+F3408/F3408M-21 Standard Specification for Aircraft Emergency Parachute Recovery Systems None. 
+
+F3432-20a Standard Practice for Powerplant Instruments None. 
+
+ Start Printed Page 13916
+ Table 2—Side-By-Side View of 14 CFR Part 23 Regulations and ASTM F3264-21 Sections
+
+Part 23 
+ amendment 23-64 
+ regulation(s) ASTM F3264-21 section(s) 7 ASTM F3264-21 subsection(s) 8 
+
+23.1457 9.12 Installation of Cockpit Recorders 9.12.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.12.1.1 F3228—17 Standard Specification for Flight Data and Voice Recording in Small Aircraft. 
+
+23.1459 9.13 Installation of Flight Data Recorders 9.13.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.13.1.1 F3228—17 Standard Specification for Flight Data and Voice Recording in Small Aircraft. 
+
+23.1529 10.6 Instructions for Continued Airworthiness 10.6.1 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation. 
+
+  10.6.2 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  10.6.3 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+Subpart B—Flight: 
+
+23.2100 5.1 Weight/Mass and Centre of Gravity 5.1.1 F3082/F3082M—17 Standard Specification for Weights and Centers of Gravity of Aircraft. 
+
+  5.1.2 F3114—21 Standard Specification for Structures. 
+
+23.2105 5.2 Performance Data 5.2.1 F3179/F3179M—20 Standard Specification for Performance of Aircraft. 
+
+23.2110 5.3 Stall Speed 5.3.1 F3179/F3179M—20 Standard Specification for Performance of Aircraft. 
+
+23.2115 5.4 Takeoff Performance 5.4.1 F3179/F3179M—20 Standard Specification for Performance of Aircraft. 
+
+23.2120 5.5 Climb Requirements 5.5.1 F3179/F3179M—20 Standard Specification for Performance of Aircraft. 
+
+23.2125 5.6 Climb Information 5.6.1 F3179/F3179M—20 Standard Specification for Performance of Aircraft. 
+
+23.2130 5.7 Landing 5.7.1 F3179/F3179M—20 Standard Specification for Performance of Aircraft. 
+
+23.2135 5.8 Controllability 5.8.1 F3173/F3173M—21 Standard Specification for Aircraft Handling Characteristics. 
+
+23.2140 5.9 Trim 5.9.1 F3173/F3173M—21 Standard Specification for Aircraft Handling Characteristics. 
+
+23.2145 5.10 Stability 5.10.1 F3173/F3173M—21 Standard Specification for Aircraft Handling Characteristics. 
+
+23.2150 5.11 Stall Characteristics, Stall Warning, and Spins 5.11.1 F3180/F3180M—19 Standard Specification for Low-Speed Flight Characteristics of Aircraft. 
+
+23.2155 5.12 Ground and Water Handling Characteristics 5.12.1 F3173/F3173M—21 Standard Specification for Aircraft Handling Characteristics. 
+
+23.2160 5.13 Vibration, Buffeting, and High-Speed Characteristics 5.13.1 F3173/F3173M—21 Standard Specification for Aircraft Handling Characteristics. 
+
+23.2165 5.14 Performance and Flight Characteristics Requirements for Flight in Icing Conditions 5.14.1 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+Subpart C—Structures: 
+
+23.2200 6.1 Structural Design Envelope 6.1.1 F3116/F3116M—18e2 Standard Specification for Design Loads and Conditions. 
+
+  6.1.1.1 F3396/F3396M—20 Standard Practice for Aircraft Simplified Loads. 
+
+23.2205 6.2 Interaction of Systems and Structure 6.2.1 F3254—19 Standard Specification for Aircraft Interaction of Systems and Structures. 
+
+23.2210 6.3 Structural Design Loads 6.3.1 F3116/F3116M—18e2 Standard Specification for Design Loads and Conditions. 
+
+  6.3.1.1 F3396/F3396M—20 Standard Practice for Aircraft Simplified Loads. 
+
+  6.3.2 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2215 6.4 Flight Load Conditions 6.4.1 F3116/F3116M—18e2 Standard Specification for Design Loads and Conditions. 
+
+  6.4.1.1 F3396/F3396M—20 Standard Practice for Aircraft Simplified Loads. 
+
+23.2220 6.5 Ground and Water Load Conditions 6.5.1 F3116/F3116M—18e2 Standard Specification for Design Loads and Conditions. 
+
+  6.5.1.1 F3331—18 Standard Practice for Aircraft Water Loads. 
+
+23.2225 6.6 Component Loading Conditions 6.6.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  6.6.1.1 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  6.6.2 F3116/F3116M—18e2 Standard Specification for Design Loads and Conditions. 
+
+Start Printed Page 13917 
+
+  6.6.2.1 F3396/F3396M—20 Standard Practice for Aircraft Simplified Loads. 
+
+23.2230 6.7 Limit and Ultimate Loads 6.7.1 F3114—21 Standard Specification for Structures. 
+
+  6.7.2 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2235 6.8 Structural Strength 6.8.1 F3114—21 Standard Specification for Structures. 
+
+  6.8.2 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2240 6.9 Structural Durability 6.9.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  6.9.2 F3066/F3066M -18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  6.9.3 F3115/F3115M—20 Standard Specification for Structural Durability for Small Aeroplanes. 
+
+  6.9.3.1 F3380 -19 Standard Practice for Structural Compliance of Very Light Aeroplanes. 
+
+  6.9.4 F3116/F3116M—18e2 Standard Specification for Design Loads and Conditions. 
+
+23.2245 6.10 Aeroelasticity 6.10.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  6.10.2 F3093/F3093M—21 Standard Specification for Aeroelasticity Requirements. 
+
+23.2250 6.11 Design and Construction Principles 6.11.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  6.11.1.1 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  6.11.2 F3114—21 Standard Specification for Structures. 
+
+  6.11.2.1 F3380—19 Standard Practice for Structural Compliance of Very Light Aeroplanes. 
+
+  6.11.3 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2255 6.12 Protection of Structure 6.12.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  6.12.1.1 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  6.12.2 F3114—21 Standard Specification for Structures. 
+
+  6.12.2.1 F3380—19 Standard Practice for Structural Compliance of Very Light Aeroplanes. 
+
+  6.12.3 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  6.12.4 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2260 6.13 Materials and Processes 6.13.1 F3114—21 Standard Specification for Structures. 
+
+  6.13.1.1 F3380—19 Standard Practice for Structural Compliance of Very Light Aeroplanes. 
+
+  6.13.2 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2265 6.14 Special Factors of Safety 6.14.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  6.14.2 F3114—21 Standard Specification for Structures. 
+
+  6.14.2.1 F3380 -19 Standard Practice for Structural Compliance of Very Light Aeroplanes. 
+
+23.2270 6.15 Emergency Conditions 6.15.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  6.15.1.1 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  6.15.2 F3083/F3083M—20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations. 
+
+  6.15.3 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+Subpart D—Design and Construction 
+
+23.2300 7.1 Flight Control Systems 7.1.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  7.1.1.1 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  7.1.2 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  7.1.3 F3117/F3117M—20 Standard Specification for Crew Interface. 
+
+Start Printed Page 13918 
+
+23.2305 7.2 Landing Gear Systems 7.2.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+23.2310 7.3 Buoyancy for Seaplanes and Amphibians 7.3.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+23.2315 7.4 Means of Egress and Emergency Exits 7.4.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  7.4.2 F3083/F3083M—20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations. 
+
+23.2320 7.5 Occupant Physical Environment 7.5.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  7.5.1.1 F3227/F3227M—21 Standard Specification for Environmental Systems in Small Aircraft. 
+
+  7.5.2 F3083/F3083M—20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations. 
+
+  7.5.3 F3114—21 Standard Specification for Structures. 
+
+  7.5.4 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+23.2325 7.6 Fire Protection 7.6.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  7.6.1.1 F3231/F3231M—21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation. 
+
+  7.6.1.2 F3234/F3234M—17 Standard Specification for Exterior Lighting in Small Aircraft. 
+
+  7.6.1.3 F3316/F3316M—19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion. 
+
+  7.6.2 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  7.6.3 F3083/F3083M—20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations. 
+
+  7.6.4 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2330 7.7 Fire Protection in Designated Fire Zones and Adjacent Areas 7.7.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  7.7.1.1 F3231/F3231M—21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation. 
+
+  7.7.2 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  7.7.3 F3114—21 Standard Specification for Structures. 
+
+23.2335 7.8 Lightning Protection 7.8.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+Subpart E—Powerplant: 
+
+23.2400 8.1 Powerplant Installation 8.1.1 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.1.2 F3063/F3063M—20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery. 
+
+  8.1.3 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  8.1.4 F3065/F3065M—21a Standard Specification for Aircraft Propeller System Installation. 
+
+  8.1.5 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  8.1.6 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+23.2405 8.2 Power or Thrust Control Systems 8.2.1 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.2.2 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  8.2.3 F3065/F3065M—21a Standard Specification for Aircraft Propeller System Installation. 
+
+  8.2.4 F3117/F3117M—20 Standard Specification for Crew Interface. 
+
+23.2410 8.3 Powerplant Installation Hazard Assessment 8.3.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  8.3.2 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.3.3 F3063/F3063M—20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery. 
+
+  8.3.4 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+Start Printed Page 13919 
+
+  8.3.5 F3065/F3065M—21a Standard Specification for Aircraft Propeller System Installation. 
+
+  8.3.6 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  8.3.7 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  8.3.8 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+23.2415 8.4 Powerplant Installation Ice Protection 8.4.1 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.4.2 F3063/F3063M—20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery. 
+
+  8.4.3 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  8.4.4 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+23.2420 8.5 Reversing Systems 8.5.1 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.5.2 F3065/F3065M—21a Standard Specification for Aircraft Propeller System Installation. 
+
+  8.5.3 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+23.2425 8.6 Powerplant Operational Characteristics 8.6.1 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.6.2 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  8.6.3 F3065/F3065M—21a Standard Specification for Aircraft Propeller System Installation. 
+
+  8.6.4 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  8.6.5 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  8.6.6 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+23.2430 8.7 Fuel and Energy Storage and Distribution Systems 8.7.1 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.7.2 F3063/F3063M—20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery. 
+
+  8.7.3 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  8.7.4 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  8.7.5 F3114—21 Standard Specification for Structures.
+ 8.7.6 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+23.2435 8.8 Powerplant Induction, Exhaust, and Support Systems 8.8.1 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.8.2 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+23.2440 8.9 Powerplant Installation Fire Protection 8.9.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  8.9.2 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  8.9.3 F3063/F3063M—20 Standard Specification for Aircraft Fuel an Energy Storage and Delivery. 
+
+  8.9.4 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  8.9.5 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  8.9.6 F3239—19 Standard Specification for Aircraft Electric Propulsion Systems. 
+
+Subpart F—Equipment: 
+
+23.2500 9.1 Systems and Equipment Function—Requirements 9.1.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.1.1.1 F3231/F3231M—21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation. 
+
+  9.1.1.1(a) F3235—17a Standard Specification for Aircraft Storage Batteries. 
+
+Start Printed Page 13920 
+
+  9.1.1.2 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  9.1.1.3 F3233/F3233M—21 Standard Specification for Instrumentation in Small Aircraft. 
+
+  9.1.1.3(a) F3229/F3229M—17 Standard Practice for Static Pressure System Tests in Small Aircraft. 
+
+  9.1.1.4 F3316/F3316M—19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion. 
+
+  9.1.2 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  9.1.3 F3066/F3066M—18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation. 
+
+  9.1.4 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  9.1.5 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+  9.1.6 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2505 9.2 Equipment Function and Installation Requirements 9.2.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.2.1.1 F3231/F3231M—21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation. 
+
+  9.2.1.1(a) F3235—17a Standard Specification for Aircraft Storage Batteries. 
+
+  9.2.1.2 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  9.2.1.3 F3233/F3233M—21 Standard Specification for Instrumentation in Small Aircraft. 
+
+  9.2.1.4 F3316/F3316M—19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion. 
+
+  9.2.2 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2510 9.3 Equipment, Systems, and Installation 9.3.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.3.1.1 F3230—20a Standard Practice for Safety Assessments of Systems and Equipment in Small Aircraft. 
+
+  9.3.1.2 F3233/F3233M—21 Standard Specification for Instrumentation in Small Aircraft. 
+
+  9.3.1.3 F3227/F3227M—21 Standard Specification for Environmental Systems in Small Aircraft. 
+
+  9.3.1.4 F3309/F3309M—21 Standard Practice for Simplified Safety Assessment of Systems and Equipment in Small Aircraft. 
+
+  9.3.2 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2515 9.4 Electrical and Electronic System Lightning Protection 9.4.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.4.1.1 F3367—21 Standard Practice for Simplified Methods for Addressing High-Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft. 
+
+23.2520 9.5 High Intensity Radiated Fields (HIRF) Protection 9.5.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.5.1.1 F3236—17 Standard Specification for High Intensity Radiated Field (HIRF) Protection in Small Aircraft. 
+
+  9.5.1.2 F3367—21 Standard Practice for Simplified Methods for Addressing High-Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft. 
+
+23.2525 9.6 System Power Generation, Storage, and Distribution 9.6.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.6.1.1 F3231/F3231M—21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation. 
+
+  9.6.1.1(a) F2490—20 Standard Guide for Aircraft Electrical Load and Power Source Capacity Analysis. 
+
+  9.6.1.2 F3233/F3233M—21 Standard Specification for Instrumentation in Small Aircraft. 
+
+  9.6.1.3 F3316/F3316M—19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion. 
+
+Start Printed Page 13921 
+
+  9.6.1.3(a) F2490—20 Standard Guide for Aircraft Electrical Load and Power Source Capacity Analysis. 
+
+  9.6.2 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  9.6.3 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+23.2530 9.7 External and Cockpit Lighting 9.7.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.7.1.1 F3233/F3233M—21 Standard Specification for Instrumentation in Small Aircraft. 
+
+  9.7.1.2 F3234/F3234M—17 Standard Specification for Exterior Lighting in Small Aircraft. 
+
+  9.7.2 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  9.7.3 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+23.2535 9.8 Safety Equipment 9.8.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.8.2 F3083/F3083M—20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations. 
+
+  9.8.3 F3117/F3117M—20 Standard Specification for Crew Interface. 
+
+23.2540 9.9 Flight in Icing Conditions 9.9.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.9.1.1 F3233/F3233M—21 Standard Specification for Instrumentation in Small Aircraft. 
+
+  9.9.2 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+23.2545 9.10 Pressurized System Elements 9.10.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  9.10.2 F3229/F3229M—17 Standard Practice for Static Pressure System Tests in Small Aircraft. 
+
+23.2550 9.11 Equipment Containing High-Energy Rotors 9.11.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+Subpart G—Flight crew Interface and Other Information: 
+
+23.2600 10.1 Flight crew Compartment Interface 10.1.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  10.1.1.1 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  10.1.2 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  10.1.3 F3063/F3063M—20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery. 
+
+  10.1.4 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  10.1.5 F3114—21 Standard Specification for Structures. 
+
+  10.1.6 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  10.1.7 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2605 10.2 Installation and Operation Information 10.2.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  10.2.1.1 F3227/F3227M—21 Standard Specification for Environmental Systems in Small Aircraft. 
+
+  10.2.1.2 F3231/F3231M—21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation. 
+
+  10.2.1.3 F3232/F3232M—20 Standard Specification for Flight Controls in Small Aircraft. 
+
+  10.2.1.4 F3233/F3233M—21 Standard Specification for Instrumentation in Small Aircraft. 
+
+  10.2.2 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  10.2.3 F3063/F3063M—20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery. 
+
+  10.2.4 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  10.2.5 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+Start Printed Page 13922 
+
+  10.2.6 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+  10.2.7 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2610 10.3 Instrument Markings, Control Markings, and Placards: 10.3.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  10.3.2 F3063/F3063M—20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery. 
+
+  10.3.3 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  10.3.4 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+  10.3.5 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+23.2615 10.4 Flight, Navigation, and Powerplant Instruments 10.4.1 F3061/F3061M—20 Standard Specification for Systems and Equipment in Small Aircraft. 
+
+  10.4.2 F3062/F3062M—20 Standard Specification for Aircraft Powerplant Installation. 
+
+  10.4.3 F3064/F3064M—21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication. 
+
+  10.4.3.1 F3432—20a Standard Practice for Powerplant Instruments. 
+
+  10.4.4 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+23.2620 5.15 Operating Limitations
+ 10.5 Airplane Flight Manual 5.15.1 F3174/F3174M—19 Standard Specification for Establishing Operating Limitations and Information for Aeroplanes. 
+
+  5.15.2 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+  10.5.1 F3117/F3117M—20 Standard Specification for Crew Interface in Aircraft. 
+
+  10.5.2 F3174/F3174M—19 Standard Specification for Establishing Operating Limitations and Information for Aeroplanes. 
+
+  10.5.3 F3120/F3120M—20 Standard Specification for Ice Protection for General Aviation Aircraft. 
+
+  10.5.4 F3408/F3408M—21 Standard Specification for Aircraft Emergency Parachute Recovery Systems. 
+
+ 
+ Editorial, Reapproval, Revision or Withdrawal
+ 
+ 
+
+ 
+ 
+ ASTM policy is that a consensus standard should be reviewed in its entirety by the responsible subcommittee and must be balloted for reapproval, revision, or withdrawal, within five years of its last approval date. When an ASTM standard is reapproved, that reapproval is denoted by the year in parentheses (
+ e.g.,
+ F2427-05a(2013)).
+ 
+
+ 
+ This date indicates the completion of a review cycle with no technical changes made to the standard. ASTM issues editorial changes denoted by a superscript epsilon in the standard designation (
+ e.g.,
+ F3235-17ε1). This indicates information was corrected, and it did not change the meaning or intent of a standard. Any means of compliance accepted by this document, that is based on a standard later reapproved or editorially changed, is also considered accepted and without the need for a notice in the 
+ Federal Register
+ .
+ 
+
+ ASTM revises a standard to make changes to its technical content. Revisions to consensus standards serving as the basis for means of compliance accepted by this document, will not be automatically accepted, and will require further FAA acceptance in order for the revisions to be an accepted means of compliance.
+
+ Availability
+
+ 
+ ASTM International Standard Designation F3264-21, “Standard Specification for Normal Category Aeroplanes Certification,” is available for online reading at 
+ https://www.astm.org/​READINGLIBRARY/​
+ . ASTM copyrights these consensus standards, and charges the public a fee for service. Individual downloads or reprints of a standard (single or multiple copies, or special compilations and other related technical information) may be obtained through 
+ www.astm.org
+ or contacting ASTM at (610) 832-9585 (phone), (610) 832-9555 (fax), or through 
+ service@astm.org
+ (email). To inquire about consensus standard content and/or membership or about ASTM Offices abroad, contact Joe Koury, Staff Manager for Committee F44 on General Aviation Aircraft: (610) 832-9804, 
+ jkoury@astm.org
+ .
+ 
+
+ 
+ The FAA maintains a list of accepted means of compliance on the FAA website at 
+ https://www.faa.gov/​aircraft/​air_​cert/​design_​approvals/​small_​airplanes/​small_​airplanes_​regs/​
+ .
+ 
+
+ Start Signature
+ Issued in Kansas City, Missouri, on March 2, 2022.
+
+ Start Printed Page 13923
+ Patrick Mullen,
+
+ Manager, Technical Innovation Policy Branch, Policy and Innovation Division, Aircraft Certification Service.
+
+ 
+
+End Signature
+ End Supplemental Information
+ 
+ 
+ Footnotes
+
+ 1.
+ 
+  
+ Ref
+ Public Law 104-113 as amended by Public Law 107-107.
+ 
+
+ 
+ Back to Citation
+ 
+
+ 2.
+ 
+  
+ Ref
+ Public Law 113-53.
+ 
+
+ 
+ Back to Citation
+ 
+
+ 3.
+ 
+  
+ See https://www.federalregister.gov/​documents/​2016/​12/​30/​2016-30246/​revision-of-airworthiness-standards-for-normal-utility-acrobatic-and-commuter-category-airplanes.
+ 
+
+ 
+ Back to Citation
+ 
+
+ 4.
+ 
+  
+ See https://drs.faa.gov/​browse.
+ 
+
+ 
+ Back to Citation
+ 
+
+ 5.
+ 
+  The means of compliance are inteded for traditional part 23 airplanes, not for novel designs. Novel designs require evaluation and possible modification of the means of compliance.
+ 
+
+ 6.
+ 
+  You may find additional information on the FAA Small Airplane Issues List (SAIL) here: 
+ https://www.faa.gov/​aircraft/​air_​cert/​design_​approvals/​small_​airplanes/​small_​airplanes_​regs/​.
+ 
+
+ 
+ Back to Citation
+ 
+
+ 7.
+ 
+  The ASTM F3264-21 Section(s) provides a means of compliance intended to be used on projects for traditional part 23 airplanes, not for novel designs. Novel designs require evaluation and possible modification of the means of compliance.
+ 
+
+ 8.
+ 
+  The FAA does not accept the Aircraft Type Code compliance matrix tables included in F3061/F3061M-20, F3227/F3227M-21, F3228-17, F3229/F3229M-17, F3230-20a, F3231/F3231M-21, F3232/F3232M-20, F3233/F3233M-21, F3234/F3234M-17, F3235-17a, F3236-17, and F3316/F3316M-19. Applicability will be determined by the Small Airplane Strategic Policy Section.
+ 
+
+ 
+ Back to Citation
+ 
+
+[FR Doc. 2022-04845 Filed 3-10-22; 8:45 am]
+
+BILLING CODE 4910-13-P

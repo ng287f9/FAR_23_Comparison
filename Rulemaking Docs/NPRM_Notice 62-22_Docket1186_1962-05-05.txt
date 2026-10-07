@@ -1,0 +1,150 @@
+CFR NPRM: Part 23|Part 25|Part 27|Part 29
+
+ 
+ 
+        
+CITATION: [Federal Register: May 5, 1962]
+
+ 
+        
+PAGE NUMBER: [Page 4340]
+
+ 
+        
+DOCKET NUMBER: 1186
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29
+
+ 
+        
+SUBJECT: Altimeter System Requirements
+
+ 
+        
+ACTION: Notice of Proposed Rulemaking
+
+ 
+        
+SUMMARY: 14 CFR Parts 3, 4b, 6, 7, 40, 41, 42, 43, 46, 47, 52
+
+Draft Release No. 62-22
+
+ Pursuant to the authority delegated to me by the Administrator (14 CFR 405.27), notice is hereby given that there is under consideration proposed new altimeter system requirements as hereinafter set forth.
+
+ 
+        
+DATES: Comments on this notice must be received on or before July 5, 1962.
+
+ 
+        
+ADDRESSES: Comments on this notice may be mailed in duplicate to the Docket Section of the Federal Aviation Agency, Room C-226, 1711 New York Avenue NW., Washington 25, D.C. 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: Interested persons may participate in the making of the proposed rules by submitting such written data, views, or arguments as they may desire. Communications should be submitted in duplicate to the Docket Section of the Federal Aviation Agency, Room C-226, 1711 New York Avenue NW., Washington 25, D.C. All communication received on or before July 5, 1962, will be considered by the Administrator before taking action upon the proposed rules. The proposals contained in this notice may be changed in the light of the comments received. All comments submitted will be available in the Docket Section for examination by interested persons at any time.
+
+ The current transport category airworthiness requirements concerning altimeter system accuracy prescribed specific limits for errors at low altitudes and airspeeds associated with instrument approach and landing. The accuracy of the systems up to approximately 10,000 feet and at speeds well below the threshold of compressibility effects has been kept within reasonable limits by the combination of these requirements, the current static pressure source requirements associated with the airspeed indicator, and the instrument accuracy requirements of the applicable technical standard orders.
+
+ While altimeter systems complying with these various regulations have been satisfactory in service at lower altitudes, it has been recognized that the accuracy of the systems is adversely affected at higher altitudes and higher speeds. In recognition of the fact that altimeter errors increase with altitude, it was necessary to establish traffic separation above 29,000 feet, at 1,000 feet for mixed VFR and IFR traffic, and 2,000 feet when only IFR traffic is involved. Furthermore, establishment of the base of the continental control area at 14,500 feet, as well as anticipated future refinements envisaged in Project Beacon which would affect operations within controlled airspace, suggest that improvements in altitude indication for operations involving altitudes at least as low as 14,500 feet will be necessary. Therefore, proposals are also being considered which would apply to aircraft operating between 14,500 and 29,000 feet as well as those operating above 29,000 feet.
+
+ Higher speeds also reduce the time available for maneuvering to avoid collisions. Although many aircraft may not travel at extremely high speed, lowspeed traffic is likely to be intermixed with high-speed traffic under VFR and IFR operations. Therefore, accurate altitude indication is important for all aircraft as one means of avoiding collisions as well as being necessary for terrain clearance.
+
+ For the foregoing reasons, the Agency is now considering regulations which would require either improved altimeter system performance, or compliance with an alternate procedure which would provide equivalent safety. The basic requirements for improved altimeter systems among other things would specify performance standards and tolerances for the static pressure system as well as instrument standards for the altimeter. Under the alternate procedure, errors in altitude indication would be identified and applied as corrections to an altitude indicating system that would not, of itself, satisfy the altimeter system performance provisions. For such a procedure to be effective the errors would have to be identified; they would have to be consistent and repeatable (that is, the error under any particular set of conditions would always have to be very nearly the same); information would have to be presented to the pilot in a form enabling him to make use of it; and the corrections would have to be applied universally. To make the application of this procedure practicable, it is considered that, where necessary and until further calibrations could be accomplished, the static pressure system error determined during type certification and provided in the aircraft handbooks or flight manuals, if available, could be used as a basis for preparing the initial data cards for the use of the operators.
+
+ It is recognized that uniformity in the determination of calibration data is desirable and consideration is being given to the development of such a procedure. However, until a standard calibration procedure for the static pressure system becomes available, calibration by any of the accepted methods currently in use would provide data which could be used to achieve satisfactory altimeter system calibrations. Consistency demands that recalibrations, where needed, must be accomplished using the same procedure that was used in the initial calibration.
+
+ The requirements applicable to operations at and above 14,500 feet may not be necessary for operations at lower altitudes where errors corresponding with a higher percentage of the altitude are tolerable. However, there is little information now available concerning the actual performance of the altimeter systems of other than transport aircraft operated at lower altitudes. To provide information needed to establish the basic systemworthiness of aircraft of all categories, altimeter system calibration requirements are specified herein for all new type aircraft.
+
+ For all aircraft operating in the altitude ranges above 14,500 feet where altitude accuracy becomes more critical, a periodic recheck of altimeter system performance is considered to be necessary, since system accuracy might be adversely affected by such service factors as minor skin deformations. Incident to this program of checking altimeters and altimeter system performance, instrument repair stations will need to have the accuracy of their reference barometric standard used in altimeter instrument calibrations checked at specified intervals.
+
+ Flight technical error contributes a significant portion of the total magnitude of unwanted deviations from intended flight altitudes. This error is introduced by the time lag in recognizing changes in altitude indication and applying the necessary flight path corrections. To minimize this source of error, a proposal is included which would require autopilots with height locks for operations above 29,000 feet.
+
+ The steps necessary to bring about improvements in system accuracy will involve closely interrelated requirements covering original airworthiness, continued airworthiness, and operations. It is expected that considerable time will be needed to put such improvements into effect. While the proposals contained herein are presented in rather specific language, this is done primarily to provide interested persons with the best possible basis upon which to prepare comments. It is anticipated that on the basis of comments received and after further study of this problem it may be appropriate to prepare a subsequent notice of proposed rule making or undertake other steps affording interested persons an opportunity to present additional pertinent information.
+
+ 
+
+ 
+        
+REGULATORY TEXT: In view of the foregoing, notice is hereby given that the Federal Aviation Agency, in recognition of the problems covered in the foregoing discussion, has under consideration proposed new requirements for altimeter systems which will affect Parts 3, 4b, 6, 7, 40, 41, 42, 43, 46, 47, and 52 of the Civil Air Regulations. The following proposals contain the substance of the requirements now being considered.
+
+ 1. All aircraft for which a type certificate is issued subsequent to the effective date of this regulation shall have the static pressure system error determined throughout the altitude, speed ranges, and aircraft configurations for which the aircraft is to be certificated. The determination of this error shall be based upon an in-flight calibration of not less than three production aircraft. If these calibrations indicate that there is a difference exceeding 50 feet between the value of any point determined in the calibration of any one of these aircraft and the corresponding point of the mean calibration curve determined from the performance of the static pressure systems of all of the aircraft of that type calibrated in compliance with this section, a calibration of each production aircraft shall be required.
+
+ NOTE: Until a standardized procedure is specified, any calibration methods now used during certification programs which are acceptable to the Administrator may be used in showing compliance with this and other requirements wherein a calibration is necessary.
+
+ 
+
+ 2. All aircraft certificated for operations at or above 14,500 feet but less than 29,000 feet shall be shown to comply with paragraphs (a) through (d) of this section.
+
+ (a) The aircraft shall be equipped with an approved altimeter having an operating range at least equal to the maximum certificated operating altitude of the aircraft. This instrument shall be calibrated throughout the operating altitude range of the aircraft.
+
+ (b) An initial altimeter instrument calibration check and static, pressure system flight check shall be performed:
+
+ (1) Prior to the issuance of an airworthiness certificate in the case of aircraft for which an initial airworthiness certificate is issued subsequent to the effective date of this regulation, or
+
+ (2) Prior to a date 1 year after the effective date of this regulation for all other aircraft.
+
+ (c) The performance of the altimeter instrument and static pressure system shall be rechecked at intervals of not more than 2 years after the initial check, and whenever any surface damage or deformation occurs or any modification is accomplished such that the performance of the system is likely to be altered.
+
+ (d) The flight checks of static pressure system performance required by paragraph (b) and (c) of this section shall include a check of not less than three different points. These points shall include at least the normal landing configuration and the normal cruise configuration and speed. If any of these points differ from the corresponding points of the calibration data established during the aircraft certification program by more than one-fourth percent of the altitude of the point plus 30 feet, recalibration sufficient to establish the magnitude of pressure system error throughout the altitude and operational speed range of the aircraft shall be performed.
+
+ (e) Means shall be provided to correct the altitude indications of each required altimeter system if the total error (instrument plus static pressure) exceeds 100 feet. The correction means shall be either an automatic computer-corrector device or a calibration card. Correction shall be provided, as needed, throughout the normal operating altitude and speed ranges of the aircraft. The correction shall be used in the determination of altitude.
+
+ 3. All aircraft which are certificated for operations at or above 29,000 feet shall comply with paragraphs (a) through (c) of this section.
+
+ (a) Compliance with paragraphs (b), (c), and (d) of section 2 of this regulation shall be required. In addition, compliance with the following shall be required:
+
+ (1) Means shall be provided to apply corrections automatically to the indication of each required altimeter if the total error (instrument plus static pressure) exceeds 100 feet at altitudes below 29,000 feet or 200 feet at or above 29,000 feet, except that, for aircraft type certificated prior to the effective date of this regulation, it shall be acceptable to use calibration cards in lieu of the automatic device.
+
+ (2) If the automatic correction device is utilized, the altitude information presented to the crew shall be within the limits of error specified in subparagraph (1) of this paragraph.
+
+ (3) If an automatic correction device is provided, it shall either be designed and installed so that, in the event of a malfunction, it may be bypassed, or an alternate system shall be provided. If necessary to meet the error limits specified in subparagraph (1) of his paragraph, a calibration card for the uncorrected bypass or alternate system shall be provided and shall be used when the automatic correction device is inoperative.
+
+ (4) If an automatic correction device is provided, it shall be equipped with a positive means of indicating any reasonably probable malfunction including power failure. Such means shall be effective under all cockpit lighting conditions likely to occur.
+
+ (b) The aircraft shall be equipped with an automatic pilot with the capability of holding the aircraft in flight at any selected indicated pressure altitude within 50 feet. Such aircraft shall not be dispatched unless the altitude hold function is operative.
+
+ (c) One altimeter provided for each pilot shall meet the requirements of TSO C10b (effective September 1, 1959). The operating range of these altimeters shall at least equal the maximum certificated operating altitude of the aircraft.
+
+ 4. If altimeter calibration cards or placards are provided in showing compliance with this regulation, each card or placard shall be located near the instrument requiring the use of the data contained thereon, and shall present the contained thereon, and shall present the combined instrument and static system errors for at least each 5,000-foot increment up to the maximum operational altitude of the aircraft.
+
+ 5. The static air pressure system(s) supplying ambient atmospheric pressure to aircraft instruments, which perform measurement and/or control functions, shall be in compliance with paragraphs (a) through (c) of this section.
+
+ (a) The piping system shall be so designed and installed that:
+
+ (1) The pressure in the system responds to changes in pressure at the static source with a minimum lag;
+
+ (2) Positive free drainage of moisture is provided;
+
+ (3) The tubing is securely fastened to the aircraft structure; and
+
+ (4) The angle and radius of the bends in the tubing shall be such that distortion and restrictions are avoided.
+
+ (b) Proof tests of the system, excluding the instruments, shall be conducted to demonstrate the adequacy and integrity of the system with respect to leakage under pneumatic pressure.
+
+ (c) For aircraft approved for IFR operations, the ambient atmospheric pressure vent(s) shall be designed or located so that their performance is not adversely affected when the aircraft encounters icing conditions. It shall be acceptable to use anti-icing means in showing compliance with this requirement.
+
+ 6. Barometers used as standards for altimeter instrument calibrations shall be calibrated against a primary standard at intervals of not more than 1 year. The initial calibration shall be accomplished within 1 year of the effective date of this regulation.
+
+ NOTE: A primary standard barometer is a barometer which requires no comparison test with another barometer to determine its errors, and which measures absolute pressure with an accuracy greater than that required of the barometer or instrument to be tested. The TSO for altimeters will prescribe the accuracy requirements applicable to barometers used in altimeter calibration. To provide acceptable accuracy, the primary standard barometer should be maintained in the operating condition necessary to obtain such accuracy, and the techniques employed in its use should be such as to insure that this accuracy is consistently obtained.
+
+ This regulation is proposed under the authority of sections 313(a), 601, 603, 604, and 607 of the Federal Aviation Act of 1958 (72 Stat. 752, 775, 776, 778, 779; 49 U.S.C. 1354, 1421, 1423, 1424, 1427).
+
+ 
+        
+FOOTER: Issued in Washington, DC, on April 27, 1962.
+
+George C. Prill,
+
+Director, Flight Standards Service.
+
+[FR Doc. 62-4377 Filed 5-4-62; 8:46 am]
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

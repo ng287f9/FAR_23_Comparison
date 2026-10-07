@@ -1,0 +1,1333 @@
+CFR NPRM: Part 23|Part 25|Part 27|Part 29|Part 91|Part 121|Part 125|Part 129|Part 135
+
+ 
+ 
+        
+CITATION: [Federal Register: April 27, 2005 (Volume 70, Number 80)]
+
+ 
+        
+PAGE NUMBER: [Page 21688]
+
+ 
+        
+DOCKET NUMBER: FAA-2005-20245
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29|Part 91|Part 121|Part 125|Part 129|Part 135
+
+ 
+        
+SUBJECT: Revisions to Cockpit Voice Recorder and Digital Flight Data Recorder 
+Regulations
+
+ 
+        
+ACTION: Notice of proposed rulemaking (NPRM); extension of comment 
+
+ 
+        
+SUMMARY: This action extends the comment period for an NPRM published on February 28, 2005. In that document, the FAA proposed to amend the cockpit voice recorder and digital flight data recorder regulations for certain air carriers, operators, and aircraft manufacturers. This extension is a result of a request from the Aerospace Industries Association to extend the comment period for the NPRM. 
+
+
+
+ 
+        
+DATES: Send your comments on or before June 28, 2005.
+
+ 
+        
+ADDRESSES: You may send comments [identified by Docket Number FAA-2005- 20245] using any of the following methods: 
+
+ DOT Docket Web Site: Go to http://dms.dot.gov and follow the instructions for sending your comments electronically. 
+ Government-wide Rulemaking Web Site: Go to http://www.regulations.gov and follow the instructions for sending your comments electronically. 
+ Mail: Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590-001. 
+ Fax: 1-202-493-2251. 
+ Hand Delivery: Room PL-401 on the plaza level of the Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. 
+
+ For more information on the rulemaking process, see the SUPPLEMENTARY INFORMATION section of this document. 
+
+ Privacy: We will post all comments we receive, without change, to http://dms.dot.gov, including any personal information you provide. For more information, see the Privacy Act discussion in the SUPPLEMENTARY INFORMATION section of this document. 
+
+
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Timothy W. Shaver, Avionics Systems Branch, Aircraft Certification Service, AIR-130, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591; telephone (202) 385-4686; facsimile (202) 385-4651; e-mail <A HREF="mailto: tim.shaver@faa.gov"> tim.shaver@faa.gov</A>. 
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited 
+
+ The FAA invites interested persons to participate in this rulemaking by submitting written comments, data, or views. We also invite comments relating to the economic, environmental, energy, or federalism impacts that might result from adopting the proposals in this document. The most helpful comments reference a specific portion of the proposal, explain the reason for any recommended change, and include supporting data. We ask that you send us two copies of written comments. 
+
+ We will file in the docket all comments we receive, as well as a report summarizing each substantive public contact with FAA personnel concerning this proposed rulemaking. The docket is available for public inspection before and after the comment closing date. If you wish to review the docket in person, go to the address in the ADDRESSES section of this preamble between 9:00 a.m. and 5:00 p.m., Monday through Friday, except Federal holidays. You may also review the docket using the Internet at the web address in the ADDRESSES section. 
+
+ Privacy Act: Using the search function of our docket web site, anyone can find and read the comments received into any of our dockets, including the name of the individual sending the comment (or signing the comment on behalf of an association, business, labor union, etc.). You may review DOT's complete Privacy Act Statement in the Federal Register published on April 11, 2000 (65 FR 19477-78) or you may visit http://dms.dot.gov. 
+
+ Before acting on this proposal, we will consider all comments we receive on or before the closing date for comments. We will consider comments filed late if it is possible to do so without incurring expense or delay. We may change this proposal in light of the comments we receive. 
+
+ If you want the FAA to acknowledge receipt of your comments on this proposal, include with your comments a pre-addressed, stamped postcard on which the docket number appears. We will stamp the date on the postcard and mail it to you. 
+
+Availability of Rulemaking Documents 
+
+ You can get an electronic copy using the Internet by: 
+
+ (1) Searching the Department of Transportation's electronic Docket Management System (DMS) web page (http://dms.dot.gov/search); 
+
+ (2) Visiting the Office of Rulemaking's web page at http://www.faa.gov/avr/arm/index.cfm ; or 
+
+ (3) Accessing the Government Printing Office's web page at http://www.access.gpo.gov/su_docs/aces/aces140.html . 
+
+ You can also get a copy by submitting a request to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue SW., Washington, DC 20591, or by calling (202) 267-9680. Make sure to identify the docket number, notice number, or amendment number of this rulemaking. 
+
+Background 
+
+Statement of the Problem 
+
+ The National Transportation Safety Board (NTSB) has indicated through several recommendations that its investigation of a variety of aircraft accidents and incidents has been hampered by the limited duration of cockpit voice recorder (CVR) recordings and the loss of power to both CVRs and digital flight data recorders (DFDR). These shortcomings have been cited during investigation of the following accidents or incidents: Alaska Airlines, Inc. (Alaska), flight 261 on January 31, 2000; EgyptAir flight 990 on October 31, 1999; Delta Air Lines, Inc. (Delta), flight 2461 on December 15, 1998; Swissair flight 111 on September 2, 1998; SilkAir flight 185 on December 19, 1997; ValuJet Airlines (ValuJet) flight 592 on May 11, 1996; Trans World Airlines, Inc. (TWA), flight 800 on July 17, 1996; and ValuJet flight 597 on June 8, 1995. The NTSB has stated that measures taken to determine the cause of the above-referenced accidents and incidents have been limited by the lack of data needed to help identify events that occurred. 
+
+ The NTSB and other investigative authorities have identified areas of concern with CVRs and flight data recorders (FDRs), which are used to record specific information needed by investigative authorities to determine the cause of accidents and incidents. The NTSB issued five safety recommendations for improvements to the flight recorder systems on all aircraft required to carry a CVR and an FDR. The specific NTSB recommendations are discussed later in this notice. 
+
+Summary of Accidents and Incidents 
+
+Alaska Flight 261 
+
+ On January 31, 2000, Alaska flight 261, a Boeing MD-83, was on a scheduled international passenger flight from Puerto Vallarta, Mexico, to San Francisco, CA. The airplane crashed into the Pacific Ocean near Point Mugu, CA, and was destroyed. None of the 5 crewmembers or 83 passengers survived. The FDR captured the entire 2 hours and 43 minutes of the flight, as well as information from previous flights; the CVR captured approximately 31 minutes of flightcrew member conversations. At the beginning of the CVR recording, the flightcrew were already discussing an existing problem with the airplane's stabilizer trim. 
+
+EgyptAir Flight 990 
+
+ On October 31, 1999, EgyptAir flight 990, a Boeing 767-366-ER, was on a scheduled international flight from New York, NY, to Cairo, Egypt. At about 1:50 a.m. Eastern Standard Time, the airplane crashed into the Atlantic Ocean approximately 60 miles south of Nantucket Island, MA. The airplane was destroyed and none of the 217 passengers or crewmembers survived. Power to the CVR and DFDR was lost when the engines were shut down. 
+
+Delta Flight 2461 
+
+ On December 15, 1998, Delta flight 2461, a Boeing 737-232, was on a scheduled domestic passenger/cargo flight from Boston, MA, to Orlando, FL. On approach for landing at Orlando International Airport, the airplane experienced a total loss of electrical power. The airplane sustained minor damage and none of the 5 crewmembers or 51 passengers reported any injuries. The CVR and DFDR stopped recording when electrical power was lost. The FDR indicated the airplane was descending through 2,700 feet when the data stopped. The next recorded data showed the airplane on the ground. The time gap between the data recorded during the descent and the data recorded on the ground is unknown. The NTSB determined that (1) the No. 1 and No. 2 generator control units experienced identical failures (the point-of-regulation fuses had blown, and the automatic test equipment revealed a blocking diode had shorted in the battery power supply input circuit); (2) the battery electrolyte levels were low or nonexistent in all cells and the battery voltage was below minimum serviceable limits; and (3) the cockpit direct current voltmeter indicated approximately 2.0 volts over its full scale deflection. 
+
+Swissair Flight 111 
+
+ On September 2, 1998, Swissair flight 111, a McDonnell Douglas MD- 11, was on a scheduled international flight from New York, NY, to Geneva, Switzerland. Approximately 53 minutes after takeoff, as the airplane was cruising at 33,000 feet, the flightcrew noticed an unusual smell in the cockpit. Within 3 1/2 minutes, the flightcrew noticed visible smoke in the cockpit, declared an emergency, and was cleared to proceed to Halifax, Nova Scotia. Approximately 20 minutes after the flightcrew first noticed the unusual smell and approximately 7 minutes after the emergency declaration, the airplane struck the water near Peggy's Cove, Nova Scotia. The airplane was destroyed and none of the 215 passengers or 14 crewmembers survived. The Transportation Safety Board of Canada investigated the accident; the NTSB assisted under the provisions of Annex 13 to the International Civil Aviation Organization (ICAO) as the investigative authority of the state of manufacture of the airplane. The investigation revealed heat damage consistent with a fire in the ceiling area forward and aft of the cockpit bulkhead. The CVR and the DFDR stopped recording while the airplane was at approximately 10,000 feet, about 6 minutes before the airplane hit the water. 
+
+SilkAir Flight 185 
+
+ On December 19, 1997, SilkAir flight 185, a Boeing 737 (B-737), entered a rapid descent from 35,000 feet that ended with a high-speed impact in the Sumatran River near Palembang, Indonesia. The airplane was destroyed and none of the 104 passengers or crewmembers survived. The Government of Indonesia conducted the investigation, and the NTSB participated. The investigation determined that both recorders stopped before the airplane entered the rapid descent. 
+
+TWA Flight 800 
+
+ On July 17, 1996, TWA flight 800, a Boeing 747-100, was on a scheduled passenger flight from New York, NY, to Paris, France. At 8:45 p.m. Eastern Standard Time, approximately 13 minutes into the flight, the airplane exploded as it was climbing through 13,700 feet. The airplane was destroyed and none of the 212 passengers or 18 crewmembers survived. The NTSB determined the CVR and FDR stopped working at the time of the explosion, which was 40 to 50 seconds before the airplane hit the water. The NTSB has determined that the probable cause of the TWA flight 800 accident was an explosion of the center wing fuel tank (CWT) resulting from ignition of the flammable fuel/air mixture in the tank. The source of ignition energy for the explosion could not be determined with certainty, but of the sources evaluated by the investigation, the most likely was a short circuit outside the CWT that allowed excessive voltage to enter the tank through electrical wiring associated with the fuel quantity indication system. 
+
+ValuJet Flight 592 
+
+ On May 11, 1996, ValuJet flight 592, a DC-9-32, was on a scheduled flight from Miami, FL, to Atlanta, GA. Shortly after departing Miami, the flightcrew reported smoke and fire and began a return to Miami. The airplane crashed into the Everglades approximately 10 minutes after takeoff from Miami. The airplane was destroyed and none of the 111 passengers or crewmembers survived. The CVR and FDR stopped working approximately 40 to 50 seconds before the airplane crashed. 
+
+ValuJet Flight 597 
+
+ On June 8, 1995, as ValuJet flight 597, a DC-9-32, began its takeoff roll at Hartsfield Atlanta International Airport, a loud bang was heard by the occupants and the right engine fire warning light illuminated. The crewmembers of another airplane informed ValuJet flight 597 that its right engine was on fire and the takeoff was rejected. Shrapnel from the right engine penetrated the fuselage and the right engine main fuel line and a cabin fire erupted. Two flight attendants and 5 passengers were injured; none of the remaining 55 passengers or flightcrew were injured. The NTSB determined that the probable cause was the failure of maintenance and inspection personnel to perform a proper inspection of a 7th stage high compressor disc in the engine, thus allowing a detectable crack to grow to a length at which the disc ruptured. The noise level in the cockpit was so high that the voices of the flightcrew could not be heard on the CVR. 
+
+Summary of Revisions to the Flight Data Recorder Regulations 
+
+ The NTSB issued three safety recommendations (Nos. A-95-25, A-95- 26, and A-95-27) during the investigation into the crash of US Air, Inc. (US Air), flight 427 that dealt specifically with upgrades to the FDRs for B-727s, B-737s, Lockheed L-1011s, and all airplanes operating under Title 14, Code of Federal Regulations (14 CFR) part 121, 125, or 135. In response to these recommendations, the FAA revised the DFDR requirements for all airplanes (Revisions to Digital Flight Data Recorder Rules; Final Rule (62 FR 38362, July 17, 1997)). The 1997 rule requires upgrades to the FDR capabilities in most transport airplanes, and requires additional information to be recorded that is intended to enable more thorough accident and incident investigations and to enable the industry to predict certain trends and make necessary modifications before an accident or incident occurs. The revised 1997 DFDR regulations specify that up to 88 parameters be recorded on FDRs, with the exact number depending on the date of airplane manufacture. For turbine-powered transport category airplanes manufactured on or before October 11, 1991, and not equipped with a flight data acquisition unit (FDAU), the regulations require 18 specified parameters to be recorded by August 20, 2001. For airplanes manufactured on or before October 11, 1991, equipped with a FDAU, the regulations require 22 parameters to be recorded by August 20, 2001. For airplanes manufactured after October 11, 1991, the regulations require 34 parameters to be recorded by August 20, 2001; for airplanes manufactured after August 18, 2000, the regulations require 57 parameters to be recorded; and for airplanes manufactured after August 19, 2002, the regulations require 88 parameters to be recorded. 
+
+ In its March 1999 final report on the crash of US Air flight 427, the NTSB concluded that the 1997 rule for upgrading the DFDRs on existing airplanes is not sufficient because it does not require specific flight control information to be recorded. The NTSB issued recommendation Nos. A-99-28 and A-99-29 specific to B-737 model airplanes. The recommendations require all B-737s to record pitch trim, trailing and leading edge flap positions, thrust reverser position, yaw damper command, yaw damper status (on/off), standby rudder status (on/ off), and control wheel, control column, and rudder pedal forces. In response to these recommendations, the FAA proposed further revisions to the DFDR regulations in notice No. 99-19, Revisions to Digital Flight Data Recorder Regulations for Boeing 737 Airplanes and for Part 145 Operations; Notice of Proposed Rulemaking (64 FR 63140, November 18, 1999). In addition to the requirements under the 1997 rule, the B- 737 rule would require all B-737 airplanes manufactured after the date of the B-737 final rule to record parameters (a)(1) through (a)(22) and (a)(88) and new parameters (a)(89), (a)(90), and (a)(91) (yaw damper status, yaw damper command, and standby rudder status, respectively). All B-737 airplanes manufactured on or before the date of the B-737 final rule would be required to record the applicable parameters based on the 1997 rule and parameters (a)(1) through (a)(22) and (a)(88) through (a)(91) at the first heavy maintenance check after 2 years after the date of the B-737 final rule, but no later than 4 years after the date of the B-737 final rule. 
+
+NTSB Recommendations 
+
+ In response to the 1995 ValuJet flight 597 incident, the 1996 crashes of ValuJet flight 592 and TWA flight 800, the 1997 crash of SilkAir flight 185, and the 1998 crash of Swissair flight 111, the NTSB submitted the following recommendations to the FAA regarding further upgrades to the CVR and FDR. 
+
+ Recommendation No. A-96-89. Within two years, require all aircraft required to have a CVR to be retrofitted with a CVR that receives, on dedicated channels, (1) uninterrupted input from the boom or mask microphone and headphones of each crewmember; and (2) uninterrupted input from an area microphone. During these recordings, a sidetone must be produced only when the transmitter or interphone is selected. Finally, all audio signals received by hand-held microphones must be recorded on the respective flight crewmember's channel when keyed to the ``ON'' position.
+
+ Recommendation No. A-96-171. Require that all newly manufactured CVRs intended for use on airplanes have a minimum recording duration of 2 hours. 
+
+ Recommendation No. A-99-16. By January 1, 2005, retrofit all airplanes that are required to carry a CVR and an FDR with a CVR that (1) meets the standards of the Technical Standard Order on Cockpit Voice Recorder Systems, TSO-C123a,\1\ or later revision; (2) is capable of recording the last 2 hours of audio; and (3) is fitted with a 10- minute independent power source that is located with the CVR and that automatically engages and provides 10 minutes of operation whenever power to the recorder ceases, either by normal shutdown or by a loss of power to the bus. 
+
+ 1 The TSO for CVR systems provides, for example, test procedures, fire test requirements, and software development and design standards.
+
+ Recommendation No. A-99-17. Require all aircraft manufactured after January 1, 2003, that are required to carry a CVR and a DFDR, to be equipped with two combination (CVR/DFDR) recording systems. One system should be located as close to the cockpit as practicable and the other as far aft as practicable. Both recording systems should be capable of recording all mandatory data parameters covering the previous 25 hours of operation and all cockpit audio and controller-pilot data-link communications for the previous 2 hours of operation. The system located near the cockpit should be provided with an independent power source that engages automatically and provides 10 minutes of operation whenever normal aircraft power ceases. The aft system should be powered by the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads. The system near the cockpit should be powered by the bus that provides the second highest reliability for operation without jeopardizing service to essential or emergency loads. 
+
+ Recommendation No. A-99-18. Amend Sec. 25.1457 (CVR) and Sec. 25.1459 (FDR) to require that CVRs, FDRs, and redundant combination CVR/DFDR units be powered from separate generator buses with the highest reliability. 
+
+FAA Response to NTSB Recommendations 
+
+ The FAA agrees with recommendation Nos. A-96-89, A-96-171, A-99-18, and parts of A-99-16 and A-99-17, and has initiated this proposed rulemaking in response to those recommendations. In the NTSB's March 9, 1999, Safety Recommendation letter to the FAA regarding recommendation Nos. A-99-16, A-99-17, and A-99-18, it stated that the Swissair flight 111 and SilkAir flight 185 accident investigations were two in a long history of accident and incident investigations that were hindered by the loss of flight recorder data. The FAA concludes that although the airplanes involved in those accidents, and EgyptAir flight 990, were not U.S.-registered airplanes and the proposed rule would not apply to them, the circumstances surrounding those accidents were unrelated to the registry of the airplanes, and that many of the same model airplanes are U.S. registered and could experience similar problems. The FAA also notes that the same issues are of interest to ICAO, and the FAA anticipates that these proposed changes would be incorporated into ICAO standards, making them applicable to airplanes registered worldwide. 
+
+General Discussion of the Proposal 
+
+ The usual format for discussing proposed changes was found to be confusing because this proposal includes revisions to the certification rules and the operating rules. Accordingly, this preamble will discuss the proposed changes by topic, and then by the certification rules and the operating rules. In this way, the operators of specific aircraft can more readily reference the proposed changes that affect them. In addition, we will not repeat these discussions of the proposals in each section. 
+
+ Each proposed change is applicable to aircraft currently operating (a retrofit) or to newly manufactured aircraft. The aircraft retrofits apply to all aircraft currently operating or that are manufactured before [insert date 2 years from the effective date of the final rule]. These aircraft would have 4 years from the date of the final rule to comply. Aircraft that are manufactured on or after [insert date 2 years from the effective date of the final rule], would have to comply at the time of manufacture. Any differences from these time periods will be noted. 
+
+Cockpit Voice Recorder Duration 
+
+ The FAA is proposing that all CVRs be able to retain the last 2 hours of cockpit audio. As stated by the NTSB, the need for this information has made itself evident several times when CVR recordings begin while the flightcrew is already discussing a problem that arose before the 30 minutes now required to be recorded. The FAA notes that in part 91, the current CVR recording requirement is only 15 minutes. The Transportation Safety Board of Canada also cited the short duration of CVR recordings as a hindrance to the investigation of Swissair flight 111 and stated that the recording length is predicated on 1960s technology. 
+
+ In addition to the 2-hour recording length, the proposed rule would require this information be retained using a recorder that meets the standards of TSO-C123a, or later revision. It is the FAA's intent to eliminate magnetic tape recorders because of their vulnerability to damage and decreased reliability given the state of current voice recording technology. The FAA notes that some operators are voluntarily replacing older magnetic tape CVRs with those that use a solid-state recording mechanism because of the high costs and technical problems associated with maintaining outdated equipment, including the difficulties in finding replacement magnetic tape.
+
+ The changes to the CVR recording duration are proposed as amendments to the operating rules, where the requirements currently are found. These changes are proposed as a retrofit and a new manufacture requirement. 
+
+Cockpit Voice Recorder Backup Power 
+
+ Power interruptions have resulted in CVR information not being captured during the last minutes of several recent accidents, including Swissair flight 111, ValuJet flight 592, TWA flight 800, Delta flight 2461, and EgyptAir flight 990. The NTSB noted that power failures may have resulted in the loss of significant information that may have been recordable and retrievable. 
+
+ The proposed rule would require a 10-minute independent backup power source for the CVR. The CVR would automatically be switched to this 10-minute independent power source in the event all power to the CVR is interrupted. The FAA notes that this interruption may be from normal shutdown or any other loss of power to the electrical power bus. No specific power source--such as a battery or a capacitor--is identified in this notice. Manufacturers may develop the 10-minute independent power source as best suits the needs of an individual aircraft installation and issues of safety and reliability. This 10- minute independent power source is proposed as a new manufacture requirement for airplanes and rotorcraft. 
+
+Cockpit Voice Recorder and Flight Data Recorder Wiring 
+
+ The NTSB noted in its investigation of the Swissair flight 111 accident that in an effort to locate the source of smoke in the cockpit, the flightcrew disabled the electrical bus that powered both the CVR and the DFDR on the airplane. The FAA notes that disabling the bus was part of the emergency checklist procedures. The NTSB is concerned that both recorders were powered by the same bus. 
+
+ The FAA considered several wiring options before proposing the one included in this notice. One option the FAA considered was whether the flightcrew should have the ability to disable the recorders during emergency checklist procedures. The FAA also gave lengthy consideration to the various wiring schemes and numerous emergency procedures already in place on airplanes of varying types in the fleet. 
+
+ The proposed rule would require that all newly manufactured aircraft have a CVR and an FDR installed that receives its electrical power from the bus that provides the maximum reliability for operation of the recorder without jeopardizing service to essential or emergency loads. The recorder also must remain powered for as long as possible without jeopardizing emergency operation of the aircraft. 
+
+ The FAA notes that the current regulations are performance-based; they do not specify which bus must power which equipment. The FAA chose the new proposed language to indicate that it is still up to the manufacturer to determine the wiring pattern that is best to fulfill the goal of the recorders being the last items to lose power before only emergency or essential equipment is powered. The FAA understands that, in some cases, the buses that power essential or emergency loads have sufficient power to also power the recording systems. The FAA considers this the ideal situation; however, the safety of the aircraft is paramount, and the electrical circuitry for essential loads should not be compromised. The requirement for this wiring change is found in the proposed revisions to the certification rules. 
+
+ The FAA points out that the NTSB's recommendation requiring the power supply for specific equipment was predicated on its companion recommendation regarding the installation of two complete recording systems. Because the FAA is not proposing a dual recorder system (see the discussion below under Dual Recording Systems), the wiring patterns suggested by the NTSB are not readily adaptable. In addition, because the FAA finds that the CVR wiring requirement is best served by a performance-based rule, the proposal does not specify that any equipment gets wired to the essential bus, battery bus, or first or second most essential bus. The FAA notes that it considered all of these 
+
+possibilities in deciding to continue using a performance-based rule. 
+
+ The FAA specifically requests comments on the clarity of the proposed rule language. The FAA encourages commenters to submit alternative language that meets the goals specified if it would be more readily understood by the industry. 
+
+ A related wiring issue for the CVRs and DFDRs concerns the possibility of a single electrical failure disabling both recorder systems. Accordingly, the proposed changes to the certification rules specify that the aircraft must be designed so that no single electrical failure will disable both the CVR and DFDR. This requirement is proposed for newly manufactured aircraft only. 
+
+Separate Containers 
+
+ The current CVR and DFDR regulations do not specify that the two recorders must be in separate containers. The FAA has always maintained this position and has not approved any installation that replaces two recorders in separate boxes with a single unit that has combined recorder functions. To codify this policy, the FAA is proposing that, for airplanes, the CVR and DFDR must be installed in separate containers, each meeting the crashworthiness requirements already in the regulations. This proposal is not expected to result in any change or cost to operators or manufacturers. Since there is no cost or change in policy, this requirement is proposed to be effective at the time of the final rule. 
+
+ If developed, the FAA will allow combination units to be installed in rotorcraft because of weight and size constraints in these aircraft. If a single combination unit is installed, however, it would still be required to meet the proposed airworthiness requirements for reliability, single electrical failures, and an independent power source for CVRs. This language is included in the proposed certification rules for rotorcraft and states that if a single combination unit is installed, it must meet all of the requirements of that section. An operator that wishes to change to a single unit installation would be required to retrofit its rotorcraft to include the new power and wiring requirements as well. No single unit installation will be approved without meeting these requirements regardless of the age of the aircraft or its original date of certification. 
+
+Increased DFDR Recording Rates 
+
+ The quality of data recovered from FDRs is critical to determining the cause of aircraft accidents. Recent advances in flight data recorder technology have centered around increasing the number of parameters recorded, improving the recording medium, and improving the reliability, maintainability, survivability, and recoverability of recorded data; however, the required data recording rates have lagged behind available technology. A number of parameters currently are required to be recorded at a rate of 1 or 2 Hertz (Hz), but flight tests demonstrate that sensing and recording equipment can support data rates ranging from 20 Hz to 100 Hz. Therefore, based on recommendations by the National Research Council (recommendation 3-3, ``Aviation Safety and Pilot Control; Understanding and Preventing Unfavorable Pilot- Vehicle Interactions,'' 1997) and the NTSB, the FAA is proposing that certain parameters of force and displacement inputs to the primary flight controls by the pilots and associated primary flight control surface deflections be recorded at a rate of at least 16 Hz. 
+
+ Similarly, higher data rates are considered feasible for rotorcraft flight controls. In accordance with European Organisation for Civil Aviation Equipment (EUROCAE) document ED-112 (Minimum Operational Performance Specification for Crash Protected Airborne Recorder Systems) dated March 2003, the FAA is proposing increased recording rates for newly manufactured rotorcraft. 
+
+Data-Link Communication 
+
+ Traditional communication in the U.S. national airspace system is by voice. As the aeronautical community works to provide communication systems that enhance safety, efficiency, and capacity, a key element is the introduction of data-link communication. Data-link communication provides text message exchanges between aircraft, air traffic service facilities, air traffic controllers, and pilots. Data-link communication can act as an alternative to voice communication, and as a replacement when voice communication is not adequate to meet the performance needed for the information exchanged. 
+
+ Data-link communication is playing an increasing role in attaining such objectives as reduced separation and user-preferred routings, and is being integrated into aircraft flight management equipment. As the scope of data-link communication use increases, it becomes more crucial that accident and incident investigators be given a full picture of the flight deck dynamics, flightcrew workload, and flightcrew use of avionics that are initiated by the actual data transmitted to and received by the flightcrew. 
+
+ Using data-link communication, an air traffic controller can directly transmit textual instructions, clearances, and other safety related information to an aircraft. As text communication replaces voice communication, the need arises to define the text message sets being used and to record the actual text messages received on an aircraft that provide instructions to or simply increase the workload of the flightcrew.
+
+ The proposed rule would require that, if data-link communication equipment is installed, all data-link communication messages received on an aircraft be recorded. The FAA considered proposing the recording of only those messages that affect the speed, heading, and altitude of an aircraft, but was unable to clearly describe this smaller set of data messages. Although not every data-link communication received may be critical to accident investigation, the FAA's assessment of data- link communication equipment indicates that the burden is almost the same whether 25 percent or 100 percent of incoming messages are recorded. The bulk of the cost of recording comes from the requirement to record at least one message, because that requirement forces the equipment and wiring to be established. Selecting certain messages to be recorded merely makes the recordation more complicated and could result in extensive, inconsistent review of text message sets during certification. The NTSB also has suggested to the FAA that the recordation of all data-link communication would give it a better picture of the flightcrew workload during the time leading up to an accident or incident. 
+
+ The FAA is requesting specific comments concerning the number of data-link communication messages that are required to be recorded. Commenters are requested to propose clearly defined sets of messages that they believe will satisfy the goal of recording important flight deck communications, and an indication of the cost comparison between the recordation requirement proposed here and any suggested by the commenters. 
+
+ The proposed rule indicates that the data-link communications are to be sent using an approved message set. No specific data-link communication message set is proposed in order to avoid unnecessary restriction of future systems. The FAA intends to approve standardized message sets such as those found in ICAO Annex 10, volume III, section 3, document 9705, ``Manual of Technical Provisions for the Aeronautical Telecommunications Network (ATN),'' section 2.3.4, Controller Pilot Data Link Communication Application: Formal Definitions of Messages; or those established using RTCA, Inc., Document No. RTCA/DO-219, ``Minimum Operational Performance Standards for ATC Two-Way Data Link Communications,'' appendix A (August 27, 1993). The FAA does not intend to encourage the creation of individualized data message sets. The proliferation of individual message sets would most likely complicate accident investigation unnecessarily. As newer systems develop and the current standards are modified and improved, the FAA does not want the rule to become quickly outdated by defining a current standard. Accordingly, the notice is written as a performance standard for recording, with the individual message set to be approved at certification to allow the most recent developments to be included. Further discussion of allowable message sets would be presented in advisory material that would be issued at the time of the final rule. 
+
+ The proposed rule also requires that the data-link communication messages be sent to the recorder from the communications unit that translates the signal into a usable format. In most cases, this is the flight management system or communications management unit. No specific term is being used because no particular system is being required. The FAA anticipates that this recorded signal would be the same as the one sent to the cockpit display. 
+
+ The FAA understands that there are three places that data-link communication messages could be picked up for recording--as the incoming radio signal enters the aircraft, as the data is transmitted from the communications unit to the cockpit display, or as the data is displayed on the cockpit display. The FAA chose the second option for several reasons. First, radio signals entering the aircraft contain extraneous information that is not relevant to accident or incident investigation. Moreover, these signals need to be translated from a radio signal to a text message. Second, the FAA is unable to propose a practical, feasible method of capturing ``what the pilot sees'' off of the actual cockpit display. Last, there is no developed technology for reliable recording of this information. In short, the FAA is trying to minimize the burden on manufacturers in wiring and additional equipment, and to minimize the burden on the FAA and any eventual investigators by not capturing more data than is needed. The communications unit signal is already being generated and would allow investigators to see the incoming data message and any acknowledgement or response by the flightcrew. If the proposed rule language is not clear, the FAA requests comments as to the best way to describe this signal and its relationship to generic communications equipment. 
+
+ The goal of data-link communication recording is to record enough of the information to enable the following items to be determined, either by direct recordation or formal deduction of the recorded informatio
+
+ The content of data-link communication messages as displayed on the flight deck. The precise content need not be recorded if the content can be deduced, such as the message element number, any variable of that message element, and timing information. 
+
+ The message priority assignment. 
+
+ The number of messages in uplink/downlink queues. 
+
+ The content of all messages generated by the flightcrew. 
+
+ The time each downlink message is generated, that is, when the flightcrew selects ``send.'' 
+
+ The time any message was available for display to the flightcrew. 
+
+ The time any message was actually displayed by the flightcrew. 
+
+ Two hours of data-link communications would be required to be recorded, as is proposed for all cockpit voice communications. Weather radar is not considered part of a data-link communication message set and need not be recorded. 
+
+Data-Link Communication Recording Applicability 
+
+ The proposed data-link communication recording requirements would apply to all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], on which data-link communication equipment is installed. The FAA is not proposing that data-link communication equipment be required on any aircraft; the requirement is to record it if the equipment is installed. Similarly, any aircraft on which data-link communication equipment is voluntarily installed on or after [insert date 2 years from the effective date of the final rule], as a retrofit would also be required to record all data-link communications as of the date of installation. 
+
+ These proposed effective dates were recommended by the NTSB. The current data-link communication equipment being used does not use the same message sets, and often includes information extraneous to the operation of the aircraft. The FAA anticipates that both the means and the messages that are to be recorded will be better defined once this rule is in place and data message sets are approved. 
+
+Dual Recording Systems 
+
+ The FAA is not proposing the installation of two complete recording systems (two CVRs and two DFDRs) in each aircraft, as recommended by the NTSB. After a careful analysis of the benefits of having two systems, the FAA is unable to justify the excessive cost that would be incurred in the installation of two complete systems. The NTSB has not cited any instance in which at least one of the two recorders present has not been recovered. In addition, the FAA finds that in the case of an accident so catastrophic that neither recorder survives, a second set of recorders located in the front of the aircraft would probably not survive either. The FAA specifically requests commenters to present any arguments and cost data on the desirability of requiring two combination CVR/DFDR recording systems. The FAA does not anticipate that dual recording systems would be implemented in a final rule, but that any information provided may be considered for future rulemaking action. 
+
+ The FAA finds much greater evidence of benefit in changes to wiring systems that could prevent inadvertent shutdown of power sources, and for an independent power supply for CVRs, and has included those provisions in this proposed rule for newly manufactured airplanes and rotorcraft. Accident investigations indicate that in some instances (Swissair flight 111, ValuJet flight 592, Delta flight 2461, and Egyptair flight 990), valuable voice and background sounds may have been recorded if the CVR had remained powered. Because the airplane involved in TWA flight 800 broke up in flight and there was no electrical connection between the cockpit and the CVR installed in the tail section, it is doubtful that useful information would have been obtained even if there had been a 10-minute independent power source installed. 
+
+ The FAA is not proposing a retrofit of a 10-minute independent power supply for CVRs. We are not able to justify the significant costs of the development and installation of such equipment for in-service aircraft. The FAA is also not proposing a 10-minute independent power source for FDRs. The FAA has found that in the event of a substantial loss of power to the aircraft, there would be no data coming from unpowered sensors; therefore, there would be nothing for a powered FDR to record. 
+
+ The FAA has recently become aware of potential security benefits of a deployable flight recorder system (one that can be jettisoned from the aircraft). We envision that such a system would be an additional set of recorders (flight data and cockpit voice recorders) that could be ejected from the airplane in the event of an emergency. The FAA does not anticipate that a deployable system would be implemented in a final rule, but information provided by commenters may be considered for future rulemaking action. 
+
+ This proposed rule does not include any provisions for such a deployable system. Significant information regarding such a system would be needed before the agency could assess the costs and benefits of such devices. The agency is interested in receiving such information, including the benefits of a deployable recorder system, how it might work, how it would be installed on an aircraft for deployment, the deployment methodology (manual or automatic), changes to aircraft design and certification, and especially the costs for development, installation and maintenance of a hardened, crash survivable, and easily recoverable system. 
+
+ Please submit all comments and information regarding the feasibility and specifications for a deployable recording system to the docket for this rulemaking. 
+
+Recordation of Cockpit Communication or Audio Signals 
+
+ The FAA is proposing to require certain aircraft required to have a cockpit voice recorder and a flight data recorder to include the interphone requirements of Sec. 23.1457(a)(3) through (a)(5) or Sec. 25.1457(a)(3) through (a)(5), as applicable. Transport category airplanes would be required to be retrofit and all airplanes and rotorcraft manufactured on or after [insert date 2 years from the effective date of the final rule], would be required to comply at the time of manufacture. 
+
+Changes to the Aircraft Certification Regulations 
+
+Part 23 Airplanes 
+
+Cockpit Voice Recorders 
+
+ All airplanes certificated under part 23 that are required to have a CVR and an FDR would be required to have their CVRs in a box separate from the FDR. This requirement merely codifies the current policy of the FAA and would be effective at adoption of the final rule. This would be added in proposed Sec. 23.1457(d)(6). 
+
+ For all part 23 airplanes manufactured on or after [insert date 2 years from the effective date of the final rule], four new proposed requirements would be added to Sec. 23.1457. First, the CVR would be required to record data-link communications when such equipment is installed on the airplane (proposed Sec. 23.1457(a)(6)). Second, the CVR would be required to receive its electrical power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads (proposed Sec. 23.1457(d)(1)). Third, the CVR would be required to be installed so that no single electrical failure could disable both the CVR and the DFDR (proposed Sec. 23.1457(d)(4)). Last, for all airplanes required to have a CVR and an FDR, a 10-minute independent power source would be required to which the CVR is switched automatically. Based on the NTSB recommendation, the independent power source is not proposed for aircraft that are required to have only a cockpit voice recorder under Sec. 135.151. 
+
+Digital Flight Data Recorders 
+
+ For part 23 airplanes, the DFDR requirements of Sec. 23.1459 would be changed as follows. All airplanes certificated under part 23 would be required to have their DFDRs in a box separate from the CVR (proposed Sec. 23.1459(a)(7)). This requirement merely codifies the current FAA policy and would be effective at adoption of the final rule. 
+
+ For all part 23 airplanes manufactured on or after [insert date 2 years from the effective date of the final rule], there are two new requirements being proposed as additions to Sec. 23.1459. First, the DFDR would be required to receive its electrical power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads (proposed Sec. 23.1459(a)(3)). Second, the DFDR would be required to be installed so that no single electrical failure could disable both the CVR and the DFDR, (proposed Sec. 23.1459(a)(6)). These requirements are discussed separately in this preamble. 
+
+Part 25 Airplanes 
+
+Cockpit Voice Recorder 
+
+ For part 25 airplanes, the CVR requirements of Sec. 25.1457 will be changed as follows. All airplanes certificated under part 25 that are required to have a CVR and an FDR would be required to have their CVRs in a box separate from the FDR (proposed Sec. 25.1457(d)(6)). This requirement merely codifies the current FAA policy and would be effective at adoption of the final rule. 
+
+ For all part 25 airplanes manufactured on or after [insert date 2 years from the effective date of the final rule], there are four new requirements being proposed as additions to Sec. 25.1457. First, the CVR would be required to record data-link communications when such equipment is installed on the airplane (proposed Sec. 25.1457(a)(6)). Second, the CVR would be required to receive its electrical power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads (proposed Sec. 25.1457(d)(1)). Third, the CVR would be required to be installed so that no single electrical failure could disable both the CVR and the DFDR (proposed Sec. 25.1457(d)(4)). Last, for all airplanes required to have a CVR and an FDR, a 10-minute independent power source would be required, to which the CVR is switched automatically. These requirements are discussed separately in this preamble. 
+
+Digital Flight Data Recorders 
+
+ For part 25 airplanes, the DFDR requirements of Sec. 25.1459 would be changed as follows. All airplanes certificated under part 25 would be required to have their DFDRs in a box separate from the CVR (proposed Sec. 25.1459(a)(8)). This requirement merely codifies the current FAA policy and would be effective at adoption of the final rule. 
+
+ For all part 25 airplanes manufactured on or after [insert date 2 years from the effective date of the final rule], two new proposed requirements would be added to Sec. 25.1459. First, the DFDR would be required to receive its electrical power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads (proposed Sec. 25.1459(a)(3)). Second, the DFDR would be required to be installed so that no single electrical failure could disable both the CVR and the DFDR (proposed Sec. 25.1459(a)(7)). These requirements are discussed separately in this preamble. 
+
+Part 27 or Part 29 Rotorcraft 
+
+Cockpit Voice Recorder 
+
+ For part 27 or part 29 rotorcraft, the CVR requirements of Sec. Sec. 27.1457 and 29.1457 would be changed as follows. For all rotorcraft certificated under part 27 or part 29 required to have a CVR and an FDR, one combination unit could be installed (proposed Sec. Sec. 27.1457(h) and 29.1457(h)). This requirement codifies the current FAA policy and would be effective at adoption of the final rule.
+
+ For all part 27 or part 29 rotorcraft manufactured on or after [insert date 2 years from the effective date of the final rule], four new proposed requirements would be added to Sec. Sec. 27.1457 and 29.1457. First, the CVR would be required to have the ability to record data-link communications when such equipment is installed on the rotorcraft (proposed Sec. Sec. 27.1457(a)(6) and 29.1457(a)(6)). Second, the CVR would be required to receive its electrical power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads (proposed Sec. Sec. 27.1457(d)(1) and 29.1457(d)(1)). Third, if the CVR and DFDR are installed in separate boxes, then the CVR would be required to be installed so that no single electrical failure could disable both the CVR and the DFDR when both are installed (proposed Sec. Sec. 27.1457(d)(4) and 29.1457(d)(4)). Fourth, all rotorcraft certificated under part 27 or part 29 required to have a CVR and an FDR would be required to include a 10-minute independent power source for the CVR to which it is switched automatically (proposed Sec. Sec. 27.1457(d)(5) and 29.1457(d)(5)). These requirements are discussed separately in this preamble. 
+
+Digital Flight Data Recorders 
+
+ For part 27 or part 29 rotorcraft, the DFDR requirements of Sec. Sec. 27.1459 and 29.1459 would be changed as follows. For all rotorcraft certificated under part 27 or part 29 that must have both a CVR and a DFDR, one combination unit could be installed (proposed Sec. Sec. 27.1459(e) and 29.1459(e)). This requirement codifies the current FAA policy and would be effective at adoption of the final rule. 
+
+ For all part 27 and part 29 rotorcraft manufactured on or after [insert date 2 years from the effective date of the final rule], two new proposed requirements would be added to Sec. Sec. 27.1459 and 29.1459. First, the DFDR would be required to receive its electrical power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads (proposed Sec. Sec. 27.1459(a)(3) and 29.1459(a)(3)). These requirements are discussed separately in this preamble. Second, if the CVR and the DFDR are installed in separate boxes, then the DFDR would be required to be installed so that no single electrical failure could disable both the CVR and the DFDR (proposed Sec. Sec. 27.1459(a)(6) and 29.1459(a)(6)). 
+
+Changes to the Aircraft Operating Regulations 
+
+Cockpit Voice Recorders--Aircraft Retrofit Requirements 
+
+ Each of the following proposed requirements would be in addition to all current regulations. The proposed language uses the word ``also'' to indicate that the current regulations for the CVR are not eliminated. 
+
+ The retrofit proposal would require, for all airplanes, 2 hours of cockpit voice communication to be recorded using a CVR that meets the standards of TSO-C123a, or later revision. Current regulations require that 15 minutes to 30 minutes of cockpit voice communication be recorded and do not specify the recording medium. The new operating requirements are proposed in Sec. Sec. 91.609(i)(2), 121.359(i)(2), 125.227(g)(2), and 135.151(f)(2). 
+
+ For all airplanes currently in service that are required to have both a CVR nd an FDR, this proposal would be a retrofit requirement and would require compliance no later than [insert date 4 years from the effective date of the final rule]. 
+
+ These enhancements would also be required on all aircraft (including rotorcraft) manufactured on or after [insert date 2 years from the effective date of the final rule]. 
+
+ The proposal also would require that the CVR be operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to completion of the final checklist at the termination of the flight. The current operating rules contain a mixture of requirements concerning the time the CVR must be operated. This language would be adopted in each of the operating parts to make the requirement the same, regardless of the operating rules under which an aircraft is operated. 
+
+ This ``checklist-to-checklist'' requirement would be effective at adoption of the final rule. The FAA finds that this requirement can easily be incorporated into aircraft operations without a time for retrofit, because it requires only a new checklist be used. This requirement would be added in Sec. Sec. 91.609(e)(2), 121.359(i)(3) and (j)(3), 125.227(g)(3) and (h)(3), and 135.151(a)(2), (b)(2), and (g)(1)(ii). 
+
+ For transport category airplanes, these proposed retrofit times also would apply to the inclusion of current Sec. 25.1457(a)(3), (a)(4), and (a)(5), which address the recording of cockpit interphone communications. These three paragraphs already exist in part 25 and concern which voice communications must be recorded. This requirement would make the rule the same for all transport category airplanes, regardless of the part under which they operate. The proposed requirements would be added to Sec. Sec. 91.609(i)(3), 121.359(i)(4), 125.227(g)(1), and 135.151(f)(3). 
+
+ Part 129 airplanes registered in the United States currently do not have a cockpit voice recorder requirement. These requirements would be added in proposed new Sec. 129.22. In addition, Sec. 129.1 would be amended to add new Sec. 129.22 as a requirement. 
+
+Cockpit Voice Recorders--Newly Manufactured Aircraft Requirements 
+
+ The CVR requirements would be upgraded for all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule]. The operating rules differ in their CVR requirements and require different amendment language to account for the current requirements. The intent is to have the same requirements across the board for all newly manufactured aircraft. In some cases, proposed changes to the rule appear less detailed because certain parts of the current regulations already contain some of the requirements. Accordingly, the following discussion explains the proposed changes by operating rule part. Each of the following proposed requirements is in addition to all current regulations. The proposed language uses the word ``also'' to indicate that the current regulations for the CVR are not eliminated. 
+
+ Proposed Sec. 91.609(j) would require that CVRs in newly manufactured aircraft (aircraft manufactured on or after [insert date 2 years from the effective date of the final rule]) meet all of the requirements of Sec. Sec. 23.1457, 25.1457, 27.1457, or 29.1457, depending on the type of aircraft. This proposed section would incorporate all of the current and proposed requirements for CVRs, including the recording of 2 hours of cockpit voice communications using a recorder that meets the standards of TSO-C123a, or later revision. 
+
+ Proposed Sec. 121.359(j) would require that the CVRs in all newly manufactured turbine engine-powered airplanes meet the requirements of Sec. Sec. 23.1457 or 25.1457. These are the provisions for data-link communication recording, electrical power source, single electrical failure, 10-minute independent power source, and separate containers that were discussed previously. Cockpit voice recorders also would have to record for 2 hours using a recorder that meets the standards of TSO-C123a, or later revision. The interphone requirements, previously applicable only to transport category airplanes and the checklist-to-checklist requirement, would also be required. 
+
+ Proposed Sec. 125.227(h) would require that all CVRs in all newly manufactured turbine engine-powered airplanes meet all of the requirements of Sec. 25.1457(a)(3) through (a)(6), (d)(1), (d)(4), (d)(5), and (d)(6), as proposed. These are the provisions for interphone recording, data-link communications recording, electrical power source, single electrical failure, 10-minute independent power source, and separate containers. New paragraph (h) also proposes the requirement for 2 hours of recording using a CVR that meets the standards of TSO-C123a, or later revision, and the checklist-to- checklist requirement as discussed previously. 
+
+ Proposed Sec. 129.22 would apply all to all U.S.-registered aircraft operated in common carriage by a foreign person or air carrier. These aircraft would be required to have a cockpit voice recorder installed that meets the standards of TSO-C123a, or later revision. The cockpit voice recorders would also be required to record the information that would be required to be recorded if that aircraft were operated under part 121, 125, or 135 and be installed by the compliance times for those parts, as applicable to the aircraft. 
+
+ Proposed Sec. 135.151(g)(1) would apply to newly manufactured multiengine turbine-powered airplanes or rotorcraft that have a passenger seating configuration of six or more seats, for which two pilots are required, and that is required to have a FDR. This paragraph contains the proposed new manufacture requirement for aircraft that would otherwise be covered by Sec. 135.151(a). The proposed requirements are broken down as follows: 
+
+ For part 23 airplanes, the CVRs would be required to meet all of the requirements of Sec. 23.1457, as proposed. These are the provisions for data-link communications recording, electrical power source, single electrical failure, 10-minute independent power source, and separate containers. The interphone requirements of Sec. 23.1457(a)(3) through (a)(5) would also be included. 
+
+ For part 25 airplanes, the CVRs would be required to meet all of the requirements of Sec. 25.1457, as proposed. These are the provisions for interphone recording, data-link communications recording, electrical power source, single electrical failure, 10- minute independent power source, and separate containers. 
+
+ For part 27 rotorcraft, the CVRs would be required to meet the requirements of Sec. 27.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h). These are the provisions for data-link communications recording, electrical power source, single electrical failure, 10-minute independent power source, and combination units. 
+
+ For part 29 rotorcraft, the CVRs would be required to meet the requirements of Sec. 29.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h). These are the provisions for data-link communications recording, electrical power source, single electrical failure, 10-minute independent power source, and combination units. 
+
+ Proposed Sec. 135.151(g)(1) also includes the proposed requirement for 2 hours of recording using a CVR that meets the standards of TSO- C123a, or later revision, and the proposed checklist-to-checklist requirement as discussed above, for all aircraft required to have a CVR regardless of certification basis. 
+
+ Proposed Sec. 135.151(g)(2) would apply to newly manufactured multiengine turbine-powered airplanes or rotorcraft that have a passenger seating configuration of 20 or more seats and that are required to have an FDR under Sec. 135.152. This paragraph contains the proposed new manufacture requirement for aircraft that would otherwise be covered by Sec. 135.151(b), with the addition of rotorcraft of this size. The proposed requirements are broken down as follows: 
+
+ For part 23 airplanes, the CVRs would be required to meet all of the requirements of Sec. 23.1457, as proposed. These are the provisions for interphone recording, data-link communications recording, electrical power source, single electrical failure, 10- minute independent power source, and separate containers. 
+
+ For part 25 airplanes, the CVRs would be required to meet all of the requirements of Sec. 25.1457. These are the provisions for interphone recording, data-link communications recording, electrical power source, single electrical failure, 10-minute independent power source, and separate containers. 
+
+ For part 27 rotorcraft, the CVRs would be required to meet the requirements of Sec. 27.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h). These are the provisions for data-link communications recording, electrical power source, single electrical failure, 10-minute independent power source, and combination units.
+
+ 
+
+ For part 29 rotorcraft, the CVRs would be required to meet the requirements of Sec. 29.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h). These are the provisions for data-link communications recording, electrical power source, single electrical failure, 10-minute independent power source, and combination units. 
+
+ Proposed Sec. 135.151(g)(2) also includes the proposed requirement for 2 hours of recording using a CVR that meets the standards of TSO- C123a, or later revision, and the proposed checklist-to-checklist requirement as discussed above, for all aircraft regardless of certification basis. 
+
+ Proposed Sec. Sec. 91.609(j), 121.359(j), 125.227(h), and 135.151(g) would include the requirement for all newly manufactured airplanes or rotorcraft that are required to have a cockpit voice recorder and a flight data recorder, and that have data-link communication equipment installed, to record the data-link communication in accordance with the proposed changes to the certification rules. These proposed changes are found in Sec. Sec. 23.1457(a)(6), 25.1457(a)(6), 27.1457(a)(6), and 29.1457(a)(6). 
+
+ In addition, proposed Sec. Sec. 91.609(k), 121.359(k), 125.227(i), and 135.151(h) would include the proposed requirement that if data-link communication equipment is installed on any aircraft 2 years after the effective date of the final rule, those aircraft must record all data- link communications in accordance with the proposed certification rule as of the time of equipment installation. 
+
+Digital Flight Data Recorders--Aircraft Retrofit Requirements 
+
+ Each of the following proposed requirements is in addition to all current regulations. The proposed language uses the word ``also'' to indicate that the current regulations for the FDR are not eliminated. 
+
+Part 91 Operations 
+
+ The proposed rule would require that all airplanes subject to Sec. 91.609(c)(1) be retrofitted with a DFDR that retains the last 25 hours of recorded data. The rule also would require that the DFDR be in a separate box from the CVR. This latter proposal is a codification of current policy and is not expected to require any equipment changes. These requirements would be added in Sec. 91.609(c)(2). 
+
+Part 121 Operations 
+
+ The proposed rule would amend Sec. 121.343 by changing a typographical error in the date in paragraph (c). The rule also would add a new paragraph (m) to that section to indicate that it applies only to airplanes listed in Sec. 121.344(l)(2), which are the airplanes excepted from the 1997 upgrade requirements. No change in status is expected by this proposed revision. The FAA has received numerous inquiries regarding the applicability of Sec. Sec. 121.343 and 121.344; this change is meant to clarify the applicability of these two sections.
+
+Part 125 Operations 
+
+ The proposed rule would add a new paragraph (j) to Sec. 125.225 to indicate that that section applies only to airplanes listed in Sec. 125.226(l)(2), which are the airplanes excepted from the 1997 upgrade requirements. No change in status is expected by this proposed revision. The FAA has received numerous inquiries regarding the applicability of Sec. Sec. 125.225 and 125.226; this change is meant to clarify the applicability of these two sections. 
+
+Part 135 Operations 
+
+ The proposed rule would require that the DFDR be in a separate box from the CVR in airplanes. In rotorcraft, when both a CVR and an FDR are required, one combination unit could be installed. This proposal is a codification of current policy and is not expected to require any equipment changes. This requirement would be added in Sec. 135.152(l), including references to four parts of the certification rules applicable to the particular aircraft being operated. 
+
+Digital Flight Data Recorders--Newly Manufactured Aircraft Requirements 
+
+ The digital flight data recorders in all newly manufactured aircraft would be required to meet the standards of the Technical Standard Order on Flight Data Recorder Systems, TSO-C124a2, or later revision. The following are additional proposed requirements by operating part. 
+
+ 2 The TSO for FDR systems provides, for example, test procedures, fire test requirements, and software development and design standards. 
+
+Part 91 Operations 
+
+ The proposed rule would require that all airplanes and rotorcraft subject to Sec. 91.609(c)(1) that are manufactured on or after [insert date 2 years from the effective date of the final rule] would be required to have an FDR that retains the last 25 hours of recorded data using an FDR that meets the standards of TSO-C124a, or later revision. In addition, all aircraft manufactured after that date would have to comply with all of the requirements of Sec. Sec. 23.1459, 25.1459, 27.1459, or 29.1459, as applicable. 
+
+ The proposed rule would also add a footnote to appendix E to part 91 and appendix F to part 91 that would change the sampling interval for the Stabilizer Trim Position or Pitch Control Position parameter in appendix E and the Collective, Pedal Position, Lat. Cyclic, Long. Cyclic, and Controllable Stabilator parameters in appendix F for aircraft manufactured 2 years after the effective date of the final rule. 
+
+Part 121 Operations 
+
+ Turbine engine-powered transport category airplanes that are subject to Sec. 121.344, and are manufactured on or after [insert date 2 years from the effective date of the final rule], would be required to have a DFDR that retains the last 25 hours of recorded data using an FDR that meets the standards of TSO-C124a and receives its power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads. The aircraft would also be required to be configured so that a single electrical failure would not disable the CVR and the FDR. These airplanes would also be required to have their FDR in a box separate from the CVRs, a codification of current FAA policy that is not expected to require any changes to current equipment. These requirements would be added in Sec. 121.344(n), which includes the reference to the appropriate section of the certification regulations of part 25. 
+
+ Turbine engine-powered airplanes that have 10 to 19 passenger seats, that are subject to Sec. 121.344a(a), and are manufactured on or after [insert date 2 years from the effective date of the final rule], would be required to have a DFDR that retains the last 25 hours of recorded data using an FDR that meets the standards of TSO-C124a and that receives its power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads. The aircraft would also be required to be configured so that a single electrical failure would not disable the CVR and the FDR (except for rotorcraft that have both recorders in a single unit). Airplanes would also be required to have their FDRs in a box separate from the CVRs, a codification of current FAA policy that is not expected to require any changes to current equipment. These requirements would be added in Sec. 121.344a(g), which contains the references to the certification requirements of part 23 and part 25, as applicable to the airplane. 
+
+ The proposed rule also would correct minor errors in appendix M and add a footnote to change the sampling interval for parameters (12) through (17) and parameter (88) for aircraft manufactured on or after [insert date 2 years from the effective date of the final rule]. 
+
+Part 125 Operations 
+
+ Turbine engine-powered transport category airplanes that are subject to Sec. 125.226 and are manufactured on or after [insert date 2 years from the effective date of the final rule], would be required to have a FDR that retains the last 25 hours of recorded data using an FDR that meets the standards of TSO-C124a and that receives its power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads. The aircraft would also be required to be configured so that a single electrical failure would not disable the CVR and the FDR. These airplanes would also be required to have their FDRs in a box separate from the CVRs, a codification of current FAA policy that is not expected to require any changes to current equipment. These requirements would be added in Sec. 125.226(m), which includes the reference to the appropriate section of the certification regulations of part 25. 
+
+ The proposed rule would add a footnote to the Pilot Input and /or Surface Position--Primary Controls (Pitch, Roll, Yaw) parameter of appendix D to part 125 for airplanes manufactured on or after [insert date 2 years from the effective date of the final rule]. The proposed rule would also correct minor errors in appendix E to part 125 and add a footnote to change the sampling interval for parameters (12) through (17) and parameter (88) for airplanes manufactured on or after [insert date 2 years from the effective date of the final rule]. 
+
+Part 135 Operations 
+
+ All aircraft operated under part 135 that are manufactured on or after [insert date 2 years from the effective date of the final rule], would be required to have a DFDR that retains the last 25 hours of recorded data using an FDR that meets the standards of TSO-C124a and that receives its power from the bus that provides the maximum reliability for operation without jeopardizing service to essential or emergency loads. The aircraft would also be required to be configured so that a single electrical failure would not disable the CVR and the FDR. Airplanes would be required to have their DFDRs in a box separate from the CVRs, a codification of current FAA policy that is not expected to require any changes to current equipment. For rotorcraft, when both a CVR and an FDR are required, one combination unit could be installed. These proposed requirements would be added in Sec. 135.152(m), which includes the reference to the appropriate paragraphs of the various certification regulations applicable to the aircraft. 
+
+ Appendix C to part 135 would be amended by adding a footnote to change the sampling interval for the Collective, Pedal Position, Lat. Cyclic, Long. Cyclic, and Controllable Stabilator Position parameters for helicopters manufactured on or after [insert date 2 years from the effective date of the final rule]. 
+
+ Appendix E to part 135 would be amended by adding a footnote to change the sampling interval for the Pilot Input--Primary Controls (Collective, Longitudinal Cyclic, Lateral Cyclic, Pedal) parameter for rotorcraft manufactured on or after [insert date 2 years from the effective date of the final rule]. 
+
+ Appendix F to part 135 would be amended by correcting minor typographical errors and by adding a footnote to change the sampling intervals for parameters (12) through (17) and parameter (88) for airplanes manufactured on or after [insert date 2 years from the effective date of the final rule]. 
+
+Paperwork Reduction Act 
+
+ This proposal contains a new information collection requirement to record data-link communications. As required by the Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)), the Department of Transportation has submitted the information collection requirements associated with this proposal to the Office of Management and Budget (OMB) for its review. 
+
+ Title: Revisions to Cockpit Voice Recorder and Digital Flight Data Recorder Regulations. 
+
+ Summary: This notice proposes to amend the regulations to add a requirement for all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], that have data-link communication equipment installed to record all data-link communications. In addition, any aircraft on which data-link communication equipment is voluntarily installed on or after [insert date 2 years from the effective date of the final rule], would also be required to record all data-link communications. 
+
+ Use of: Such a record would provide additional information to accident and incident investigators for use in determining the content of these messages and resultant pilot actions. 
+
+ Respondents: The respondents would be all certificate holders operating the above-referenced U.S.-registered aircraft under parts 91, 121, 125, 129, and 135. 
+
+ Frequency: The required information would be electronically or visually recorded when the message is transmitted from the communications unit to the cockpit display and must be kept until the aircraft has been operated for 2 hours. The recorded data would be overwritten on a continuing basis and would only be accessed following an accident or incident. 
+
+ Annual Burden Estimate: This proposed requirement would be a nominal addition to a passive information collection activity; therefore, it does not contain a measurable hour burden. The cost to install the additional data-link communication recording equipment can be found in the regulatory evaluation summary. 
+
+ The agency is soliciting comments to-- 
+
+ (1) Evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information will have practical utility; 
+
+ (2) Evaluate the accuracy of the agency's estimate of the burden; 
+
+ (3) Enhance the quality, utility, and clarity of the information to be collected; and 
+
+ (4) Minimize the burden of the collection of information on those who are to respond, including through the use of appropriate automated, electronic, mechanical, or other technological collection techniques or other forms of information technology. 
+
+ Individuals and organizations may submit comments on the information collection requirement by April 29 2005, and should direct them to the address listed in the ADDRESSES section of this document. Comments also should be submitted to the Office of Information and Regulatory Affairs, OMB, New Executive Building, Room 10202, 725 17th Street, NW., Washington, DC 20053, Attention: Desk Officer for FAA. 
+
+ According to the 1995 amendments to the Paperwork Reduction Act (5 CFR 1320.8(b)(2)(vi)), an agency may not collect or sponsor the collection of information, nor may it impose an information collection requirement unless it displays a currently valid OMB control number. The OMB control number for this information collection will be published in the Federal Register, after the Office of Management and Budget approves it. 
+
+International Compatibility 
+
+ In keeping with U.S. obligations under the Convention on International Civil Aviation, it is FAA policy to comply with ICAO Standards and Recommended Practices to the maximum extent practicable. The FAA has reviewed the corresponding ICAO Standards and Recommended Practices and has identified the following differences with these proposed regulations. ICAO Annex 6, section 6.3.1.5.1, calls for recording all data-link communication messages, including controller- pilot data-link communications, on all aircraft by January 1, 2007. The FAA is not proposing to require retrofit of data-link communication recording equipment on aircraft. If this proposal is adopted, the FAA intends to file a difference with ICAO. 
+
+Economic Evaluation, Regulatory Flexibility Determination, International Trade Impact Assessment, and Unfunded Mandates Assessment 
+
+ This portion of the preamble summarizes the FAA's analysis of the economic impacts of this NPRM, consistent with various Federal directives and orders. Each Federal agency proposing a regulation must make a reasoned determination that the benefits justify the costs, and, separately, assess the effects on small entities, international trade, and whether or not the proposal imposes a Federal mandate resulting in a total expenditure of $100 million or more in any one year (an ``unfunded mandate assessment''). After conducting these analyses, the FAA has determined that this proposed rule: (1) Has benefits that justify its costs; (2) is a significant regulatory action; (3) would have a significant impact on a substantial number of small entities; (4) is in compliance with the Trade Agreement Act; and (5) would not impose an unfunded mandate of $100 million or more, in any one year, on state, local, or tribal governments, or on the private sector. The FAA has placed these analyses in the docket and summarizes them as following. 
+
+Estimated Costs (20-Year Period) 
+
+ The FAA summarizes its estimated compliance costs in Table 1 using both a 7 percent discount rate and a 3 percent discount rate. 
+
+ Table 1.--Summary of the Total Costs of the Proposal and the Present Value of the Total Costs 
+
+ [In millions 2003 $, discounted to 2003] 
+
+Estimated Incremental Benefits 
+
+ The proposed rule would increase the amount and quality of the information being recorded. This additional and improved information may result in time and cost savings for future accident investigations. It may also generate new or revised safety rules (for airplane manufacturing or operations) or in voluntary changes to airline and pilot procedures that would not otherwise have resulted in the absence of this additional information. As a result, the proposed rule may produce a safer fleet and safer airplane operations. Although the FAA does not propose all of the NTSB recommendations concerning CVR and FDR modifications, the FAA believes that it has chosen the course of action that maximizes safety benefits relative to compliance costs. 
+
+Who Is Affected by This Rulemaking 
+
+ Manufacturers of airplanes and helicopters certificated for 10 or more seats, scheduled service airlines, non-scheduled service airlines, and other operators of airplanes and helicopters with 10 or more seats. 
+
+Assumptions and Standard Values 
+
+ Period of analysis is 2004-2023. 
+
+ Discount rate is 7 percent. 
+
+ Burdened labor rate for an aviation engineer is $125 an hour. 
+
+ Burdened labor rate for an aviation mechanic is $85 an hour. 
+
+ Number of airplanes to be retrofitted is 9,644. 
+
+ To retrofit a 2-hour memory CVR to replace a magnetic tape CVR costs $17,500 in equipment plus $2,400 for labor. 
+
+ To retrofit a 2-hour memory CVR to replace a 30-minute memory solid state CVR costs $7,500 in equipment plus $640 in labor. 
+
+ Cost to retrofit a 10-minute RIPS is $6,500. 
+
+ As the proposed rule would allow sufficient time for a retrofit to be completed during a regularly scheduled maintenance check, there would be no additional out-of-service time for these retrofits. 
+
+ The cost for a future production airplane is $10,640; $3,500 for the CVR, $2,820 for the RIPS, $3,000 to upgrade the FDR, and $1,320 to record data link communications. 
+
+ Cost of aviation fuel is $0.75 per gallon. 
+
+ The primary sources for this information are industry responses to a 2002 FAA survey concerning the costs of meeting the previously described NTSB CVR and FDR recommendations. 
+
+Alternatives Considered 
+
+ The FAA considered 3 alternatives to the proposed rule in order to address the NTSB recommendations that were not adopted. The FAA also considered a fourth alternative of exempting helicopters. 
+
+ Alternative 1: This alternative would adopt the NTSB recommendation that aircraft manufactured 6 months after the final rule publication date (i.e., July 1, 2004) have duplicate CVR and FDR systems--one of each located fore and one of each located aft in the airplane (or to have two combination units, one located fore and the other located aft in the airplane). However, only one voice recorder would be required to have a 10-minute RIPS. 
+
+ Alternative 2: In this alternative, the proposed rule's requirements would remain the same, but the compliance date for all airplanes would be the NTSB recommended 18 months after the publication of the final rule (i.e., July 1, 2005, rather than January 1, 2007). 
+
+ Alternative 3: In addition to the proposed rule's requirements, all existing airplanes would be required to have a 10-minute RIPS retrofitted into their CVR systems. 
+
+ Alternative 4: Future production helicopters would not be covered by the proposed rule. 
+
+ Table 2 presents the FAA's estimated costs of these alternatives. 
+
+Table 2.--Summary of the Costs of the Proposal and the 4 Alternatives [In millions 2003 $, discounted to 2003] 
+
+Alternative 
+
+ Undiscounted total cost 
+
+ Total cost difference from the proposal 
+
+ Present value of the total cost 
+
+ Total present value of the cost difference from the proposal 
+
+ 
+
+Proposed Rule $ 420 
+
+ .. $256 
+
+ . 
+
+ 
+
+Alternative 1 (Duplicate CVR and FDR-new production) 1,213 
+
+ $793 
+
+ 603 
+
+ $347 
+
+ 
+
+Alternative 2 (Accelerated compliance dates) 520 
+
+ 100 
+
+ 353 
+
+ 97 
+
+ 
+
+Alternative 3 (Retrofit RIPS) 582 
+
+ 162 
+
+ 374 
+
+ 118 
+
+ 
+
+Alternative 4 (Exempt Helicopters) 400 
+
+ -20 
+
+ 244 
+
+ -12 
+
+ 
+
+ The FAA determined that the potential benefits of alternatives 1, 2, and 3 would not be commensurate with their costs while the potential benefits from including helicopters was worth the increased cost. 
+
+Regulatory Flexibility Determination 
+
+ The Regulatory Flexibility Act of 1980 (RFA) requires agencies to perform a review to determine whether a proposed or final rule will have a significant economic impact on a substantial number of small entities. The proposed rule would affect manufacturers of part 25 and part 29 airplanes. For manufacturers, a small entity is one with 1,500 or fewer employees. No part 25 or part 29 manufacturer has fewer than 1,500 employees. 
+
+ The proposed rule would also affect all operators of airplanes with 10 or more seats, which includes several small entities, to retrofit their airplanes. The per airplane retrofit cost is between $8,140 and $19,900. The average value of these airplanes ranges from $1.5 million for a pre-1996 small turboprop (10-30 seats) to $85 million for a post- 1995 large turbojet (275 plus seats). Taking the most burdensome scenario (a $19,900 retrofit of an airplane worth $1.5 million), the proposed rule would impose costs that would equal 1.3 percent of the airplane's value, which the FAA determined could have a significant impact. 
+
+ Based on that analysis, the FAA believes this rule could have a significant impact on a substantial number of small entities. A full analysis is separately included in the complete Initial Regulatory Evaluation. The FAA invites comments from interested and affected parties. 
+
+International Trade Impact Assessment 
+
+ The Trade Agreement Act of 1979 prohibits Federal agencies from engaging in any standards or related activities that create unnecessary obstacles to the foreign commerce of the United States. Legitimate domestic objectives, such as safety, are not considered unnecessary obstacles. The statute also requires consideration of international standards and, where appropriate, that they be the basis for U.S. standards. 
+
+ In accordance with the above statute, the FAA assessed the potential effect of this proposed rule on airplanes operated in the United States. The proposed rule would affect all airplanes with 10 or more seats operating in the United States regardless of ownership. Thus, the FAA determined that it would have a minimal impact on international trade. 
+
+Unfunded Mandates Reform Act 
+
+ Title II of the Unfunded Mandates Reform Act of 1995 (the Act) requires each Federal agency, to the extent permitted by law, to prepare a written assessment of the effects of any Federal mandate in a proposed or final agency rule that may result in the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector, of $100 million or more (adjusted annually for inflation) in any one year. The FAA determined that this proposed rule would not contain a significant intergovernmental mandate. The FAA also determined that the proposed rule would not contain a significant private sector mandate, as the estimated cost would be about $70 million during each of the years 2005, 2006, and 2007. 
+
+Request for Comments 
+
+ The FAA requests comments on any and all of its assumptions, methodology, data, and cost estimates in the Regulatory Evaluation. The FAA also requests that commenters provide supporting data for their comments. 
+
+ In addition to the general request for comments, the FAA specifically requests information on the following subject areas: 
+
+ The values reported in the assumptions and values section of the preamble. 
+
+ The amount of engineering time to obtain CVR STCs. 
+
+ The number of CVR STCs that would be needed. 
+
+ The cost to retrofit a switch for the flight crew to activate the FDR to record at the start of the checklist. 
+
+ The number of future production airplanes with CPDLC capabilities. 
+
+ The cost for future production helicopters. 
+
+ The number of affected future production helicopters. 
+
+ The potential costs due to weight and balance issues for helicopters. 
+
+Executive Order 13132, Federalism 
+
+ The FAA has analyzed this proposed rule under the principles and criteria of Executive Order 13132, Federalism. We determined that this action would not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, we determined that this notice of proposed rulemaking would not have federalism implications. 
+
+Plain Language 
+
+ In response to the June 1, 1998, Presidential memorandum regarding the use of plain language, the FAA reexamined the writing style currently used to develop regulations. The memorandum requires Federal agencies 
+
+to communicate clearly with the public. We are interested in your comments on whether the style of this document is clear, and in any other suggestions you might have to improve the clarity of FAA communications that affect you. You can get more information about the Presidential memorandum and the plain language initiative at http://www.plainlanguage.gov . 
+
+Environmental Analysis 
+
+ FAA Order 1050.1D defines FAA actions that may be categorically excluded from preparation of a National Environmental Policy Act (NEPA) environmental impact statement. In accordance with FAA Order 1050.1D, appendix 4, paragraph 4(j), this proposed rulemaking action qualifies for a categorical exclusion. 
+
+Energy Impact 
+
+ The energy impact of the notice has been assessed in accordance with the Energy Policy and Conservation Act (EPCA), Public Law 94-163, as amended (43 U.S.C. 6362), and FAA Order 1053.1. It has been determined that the notice is not a major regulatory action under the provisions of the EPCA. 
+
+List of Subjects 
+
+14 CFR Part 23 
+
+ Aircraft, Aviation safety. 
+
+14 CFR Part 25 
+
+ Aircraft, Aviation safety. 
+
+14 CFR Part 27 
+
+ Aircraft, Aviation safety. 
+
+14 CFR Part 29 
+
+ Aircraft, Aviation safety. 
+
+14 CFR Part 91 
+
+ Aircraft, Aviation safety. 
+
+14 CFR Part 121 
+
+ Air carriers, Aircraft, Aviation safety, Charter flights, Safety, Transportation. 
+
+14 CFR Part 125 
+
+ Aircraft, Aviation safety. 
+
+14 CFR Part 129 
+
+ Air carriers, Aircraft, Aviation safety. 
+
+14 CFR Part 135 
+
+ Air taxis, Aircraft, Aviation safety. 
+
+
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment 
+
+ In consideration of the foregoing, the Federal Aviation Administration proposes to amend parts 23, 25, 27, 29, 91, 121, 129, 125, and 135 of Title 14, Code of Federal Regulations, as follows: 
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES 
+
+ 1. The authority citation for part 23 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704. 
+
+ 2. Amend Sec. 23.1457 by amending paragraph (d)(2) to remove the ``and'' at the end of the sentence and paragraph (d)(3) to change the period at the end of the sentence to a semicolon, and by adding new paragraphs (a)(6), (d)(4), (d)(5), and (d)(6) and by amending paragraph (d)(1) to read as follows: 
+
+Sec. 23.1457 Cockpit voice recorders. 
+
+ (a) * * * 
+
+ (6) If data-link communication equipment is installed, all data- link communications, using an approved data message set. Data-link messages must be recorded as the output signal from the communications unit that translates the signal into usable data. 
+
+* * * * *
+
+ (d) * * * 
+
+ (1) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads. The cockpit voice recorder must remain powered for as long as possible without jeopardizing emergency operation of the airplane; 
+
+* * * * *
+
+ (4) Any single electrical failure does not disable both the cockpit voice recorder and the digital flight data recorder; 
+
+ (5) It has an independent power source-- 
+
+ (i) That provides 10 minutes of electrical power to the cockpit voice recorder, and 
+
+ (ii) To which the cockpit voice recorder is switched automatically in the event that all other power to the cockpit voice recorder is interrupted either by normal shutdown or by any other loss of power to the electrical power bus; and 
+
+ (6) It is in a separate container from the flight data recorder when both are required. If used to comply with only the cockpit voice recorder requirements, a combination unit may be installed. 
+
+* * * * *
+
+ 3. Amend Sec. 23.1459 by amending paragraph (a)(4) to change the period at the end of the sentence to a semicolon and paragraph (a)(5) to remove the ``and'' at the end of the sentence and by revising the section heading and paragraph (a)(3) and by adding new paragraphs (a)(6) and (a)(7) to read as follows: 
+
+Sec. 23.1459 Flight data recorders. 
+
+ (a) * * * 
+
+ (3) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads. The flight data recorder must remain powered for as long as possible without jeopardizing emergency operation of the airplane; 
+
+* * * * *
+
+ (6) Any single electrical failure does not disable both the cockpit voice recorder and the flight data recorder; and 
+
+ (7) It is in a separate container from the cockpit voice recorder when both are required. If used to comply with only the flight data recorder requirements, a combination unit may be installed. 
+
+* * * * *
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES 
+
+ 4. The authority citation for part 25 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, and 44704. 
+
+ 5. Amend Sec. 25.1457 by amending paragraph (d)(2) to remove the ``and'' at the end of the sentence and paragraph (d)(3) to change the period at the end of the sentence to a semicolon and by adding new paragraphs (a)(6), (d)(4), (d)(5), and (d)(6) and revising paragraph (d)(1) to read as follows: 
+
+Sec. 25.1457 Cockpit voice recorders. 
+
+ (a) * * * 
+
+ (6) If data-link communication equipment is installed, all data- link communications, using an approved data message set. Data-link messages must be recorded as the output signal from the communications unit that translates the signal into usable data. 
+
+* * * * *
+
+ (d) * * * 
+
+ (1) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads. The cockpit voice recorder must remain powered for as long as possible without jeopardizing emergency operation of the airplane; 
+
+* * * * *
+
+ (4) Any single electrical failure does not disable both the cockpit voice recorder and the digital flight data recorder; 
+
+ (5) It has an independent power source-- 
+
+ (i) That provides 10 minutes of electrical power to the cockpit voice recorder, and 
+
+ (ii) To which the cockpit voice recorder is switched automatically in the event that all power to the cockpit voice recorder is interrupted either by normal shutdown or by any other loss of power to the electrical power bus; and 
+
+ (6) It is in a separate container from the flight data recorder when both are required. If used to comply with only the cockpit voice recorder requirements, a combination unit may be installed. 
+
+* * * * *
+
+ 6. Amend Sec. 25.1459 by amending paragraph (a)(4) to change the period at the end of the sentence to a semicolon, paragraph (a)(5) to remove the ``and'' at the end of the sentence, and paragraph (a)(6) to change the period at the end of the sentence to a semicolon and by revising the section heading and paragraph (a)(3) and by adding new paragraphs (a)(7) and (a)(8) to read as follows: 
+
+Sec. 25.1459 Flight data recorders. 
+
+ (a) * * * 
+
+ (3) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads. The flight data recorder must remain powered for as long as possible without jeopardizing emergency operation of the airplane; 
+
+* * * * *
+
+ (7) Any single electrical failure does not disable both the cockpit voice recorder and the flight data recorder; and 
+
+ (8) It is in a separate container from the cockpit voice recorder when both are required. If used to comply with only the flight data recorder requirements, a combination unit may be installed. 
+
+* * * * *
+
+PART 27--AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT 
+
+ 7. The authority citation for part 27 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704. 
+
+ 8. Amend Sec. 27.1457 by amending paragraph (d)(2) to remove the ``and'' at the end of the sentence and paragraph (d)(3) to change the period at the end of the sentence to a semicolon and by adding new paragraphs (a)(6), (d)(4), (d)(5), and (h) and by revising paragraph (d)(1) to read as follows: 
+
+Sec. 27.1457 Cockpit voice recorders. 
+
+ (a) * * * 
+
+ (6) If data-link communication equipment is installed, all data- link communications, using an approved data message set. Data-link messages must be recorded as the output signal from the communications unit that translates the signal into usable data. 
+
+* * * * *
+
+ (d) * * * 
+
+ (1) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads. The cockpit voice recorder must remain powered for as long as possible without jeopardizing emergency operation of the rotorcraft; 
+
+* * * * *
+
+ (4) Whether the cockpit voice recorder and digital flight data recorder are installed in separate boxes or in a combination unit, no single electrical failure may disable both the cockpit voice recorder and the digital flight data recorder; and 
+
+ (5) It has an independent power source-- 
+
+ (i) That provides 10 minutes of electrical power to the cockpit voice recorder, and 
+
+ (ii) To which the cockpit voice recorder is switched automatically in the event that all power to the cockpit voice recorder is interrupted either by normal shutdown or by any other loss of power to the electrical power bus. 
+
+* * * * *
+
+ (h) When both a cockpit voice recorder and a flight data recorder are required by the operating rules, one combination unit may be installed, provided that all other requirements of this section are met. 
+
+ 9. Amend Sec. 27.1459 by revising the section heading and paragraph (a)(3) and by adding new paragraphs (a)(6) and (e) to read as follows: 
+
+Sec. 27.1459 Flight data recorders. 
+
+ (a) * * * 
+
+ (3) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads. The flight data recorder must remain powered for as long as possible without jeopardizing emergency operation of the rotorcraft; 
+
+* * * * *
+
+ (6) Whether the cockpit voice recorder and digital flight data recorder are installed in separate boxes or in a combination unit, no single electrical failure may disable both the cockpit voice recorder and the digital flight data recorder. 
+
+* * * * *
+
+ (e) When both a cockpit voice recorder and a flight data recorder are required by the operating rules, one combination unit may be installed, provided that all other requirements of this section are met. 
+
+PART 29--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT 
+
+ 10. The authority citation for part 29 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704. 
+
+ 11. Amend Sec. 29.1457 by amending paragraph (d)(2) to remove the ``and'' at the end of the sentence and paragraph (d)(3) to change the period at the end of the sentence to a semicolon and by adding new paragraphs (a)(6), (d)(4), (d)(5), and (h) and by revising paragraph (d)(1) to read as follows: 
+
+Sec. 29.1457 Cockpit voice recorders. 
+
+ (a) * * * 
+
+ (6) If data-link communication equipment is installed, all data- link communications, using an approved data message set. Data-link messages must be recorded as the output signal from the communications unit that translates the signal into usable data. 
+
+* * * * *
+
+ (d) * * * 
+
+ (1) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads. The cockpit voice recorder must remain powered for as long as possible without jeopardizing emergency operation of the rotorcraft; 
+
+* * * * *
+
+ (4) Whether the cockpit voice recorder and digital flight data recorder are installed in separate boxes or in a combination unit, no single electrical failure may disable both the cockpit voice recorder and the digital flight data recorder; and 
+
+ (5) It has an independent power source that-- 
+
+ (i) Provides 10 minutes of electrical power to the cockpit voice recorder, and 
+
+ (ii) To which the cockpit voice recorder is switched automatically in the event that all power to the cockpit voice recorder is interrupted either by normal shutdown or by any other loss of power to the electrical power bus. 
+
+* * * * *
+
+ (h) When both a cockpit voice recorder and a flight data recorder are required by the operating rules, one combination unit may be installed, provided that all other requirements of this section are met. 
+
+ 12. Amend Sec. 29.1459 by amending paragraph (a)(4) to remove the ``and'' at the end of the sentence and paragraph (a)(5) to change the period at the end of the sentence to a semicolon and add the word ``and'' after the new semicolon and by revising the section heading and paragraph (a)(3) and by adding new paragraphs (a)(6) and (e) to read as follows: 
+
+Sec. 29.1459 Flight data recorders. 
+
+ (a) * * * 
+
+ (3) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads. The flight data recorder must remain powered for as long as possible without jeopardizing emergency operation of the rotorcraft; 
+
+* * * * *
+
+ (6) Whether the cockpit voice recorder and digital flight data recorder are installed in separate boxes or in a combination unit, no single electrical failure may disable both the cockpit voice recorder and the digital flight data recorder. 
+
+* * * * *
+
+ (e) When both a cockpit voice recorder and a flight data recorder are required by the operating rules, one combination unit may be installed, provided that all other requirements of this section are met. 
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES 
+
+ 13. The authority citation for part 91 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 1155, 40103, 40113, 40120, 44101, 44111, 44701, 44709, 44711, 44712, 44715, 44716, 44717, 44722, 46306, 46315, 46316, 46504, 46506-46507, 47122, 47508, 47528-47531, articles 12 and 29 of the Convention on International Civil Aviation (61 stat. 1180). 
+
+ 14. Amend Sec. 91.609 by revising the section heading and paragraph (e)(2), by redesignating paragraph (c) as (c)(1), and by adding new paragraphs (c)(2), (c)(3), (i), (j), and (k) to read as follows: 
+
+Sec. 91.609 Flight data recorders and cockpit voice recorders. 
+
+* * * * *
+
+ (c)(2) All airplanes subject to paragraph (c)(1) of this section that are manufactured before [insert date 2 years from the effective date of the final rule], by [insert date 4 years from the effective date of the final rule], must meet the requirements of Sec. 23.1459(a)(7) or Sec. 25.1459(a)(8), as applicable, and also have a digital flight data recorder that retains at least the last 25 hours of recorded information. 
+
+ (c)(3) All airplanes and rotorcraft subject to paragraph (c)(1) of this section that are manufactured on or after [insert date 2 years from the effective date of the final rule], must meet the requirements in Sec. 23.1459, Sec. 25.1459, Sec. 27.1459, or Sec. 29.1459, as applicable, and also retain at least the last 25 hours of recorded information using a recorder that meets the standards of TSO-C124a, or later revision. 
+
+* * * * *
+
+ (e) * * * 
+
+ (2) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to completion of the final checklist at the termination of the flight. 
+
+* * * * *
+
+ (i) All airplanes required by this section to have a cockpit voice recorder and a flight data recorder, that are manufactured before [insert date 2 years from the effective date of the final rule], must by [insert date 4 years from the effective date of the final rule], have a cockpit voice recorder that also-- 
+
+ (1) Meets the requirements of Sec. 23.1457(d)(6) or Sec. 25.1457(d)(6) of this chapter, as applicable; 
+
+ (2) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision; and 
+
+ (3) If transport category, meets the requirements of Sec. 25.1457(a)(3), (a)(4), and (a)(5) of this chapter. 
+
+ (j) All airplanes or rotorcraft required by this section to have a cockpit voice recorder and flight data recorder, that are manufactured on or after [insert date 2 years from the effective date of the final rule], must have a cockpit voice recorder installed that also-- 
+
+ (1) Meets the requirements of Sec. 23.1457, Sec. 25.1457, Sec. 27.1457, or Sec. 29.1457 of this chapter, as applicable; and 
+
+ (2) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision. 
+
+ (k) All airplanes or rotorcraft required by this section to have a cockpit voice recorder and a flight data recorder, that install data- link communication equipment on or after [insert date 2 years from the effective date of the final rule], must record all data-link messages as required by the certification rule applicable to the aircraft. 
+
+ 15. Amend appendix E to part 91 by adding footnote 5 to the Stabilizer Trim Position or Pitch Control Position parameter to read as follows: 
+
+ Appendix E to Part 91.--Airplane Flight Recorder Specifications 
+
+Parameters 
+
+ Range 
+
+ Installed system 1 minimum accuracy (to recovered data) 
+
+ Sampling interval (per second) 
+
+ Resolution 4 read out 
+
+ 
+
+* 
+
+Stabilizer Trim Position or 
+
+Pitch Control Position. 5 
+
+* 
+
+ * 
+
+Full Range ....
+
+* 
+
+ ±3% unless higher uniquely required. * 
+
+1
+
+* 
+
+ * 
+
+ 1% 3 
+
+* 
+
+ 
+
+1 When data sources are aircraft instruments (except altimeters) of acceptable quality to fly the aircraft, the recording system, excluding these sensors (but including all other characteristics of the recording system), shall contribute no more than half of the values in this column. 
+
+* * * * *
+
+3 Percent of full range.
+
+4 This column applies to aircraft manufactured after October 11, 1991. 
+
+5 Pitch Control Position for all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], the sampling interval per second is 16. 
+
+ 16. Amend appendix F to part 91 by adding footnote 4 to the Collective, Pedal Position, Lat. Cyclic, Long. Cyclic, and Controllable Stabilator Position parameters to read as follows: 
+
+ Appendix F to Part 91.--Helicopter Flight Recorder Specifications 
+
+Parameters 
+
+ Range 
+
+ Installed system 1 minimum accuracy (to recovered data) 
+
+ Sampling interval (per second) 
+
+ Resolution 3 read out 
+
+ 
+
+* 
+
+ * 
+
+ * 
+
+ * * * * 
+
+ 
+
+Collective 4 Full Range ±3% 2 1% 2 
+
+Pedal Position 4 Full Range ±3% 2 1% 2 
+
+Lat. Cyclic 4 Full Range ±3% 2 1% 2 
+
+Long. Cyclic 4 Full Range ±3% 2 1% 2 
+
+Controllable Stabilator Position. 4 Full Range ±3% 2 1% 2 
+
+1 When data sources are aircraft instruments (except altimeters) of acceptable quality to fly the aircraft, the recording system, excluding these sensors (but including all other characteristics of the recording system), shall contribute no more than half of the values in this column. 
+
+2 Percent of full range. 
+
+3 This column applies to aircraft manufactured after October 11, 1991. 
+
+4 For all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], the sampling interval per second is 4. 
+
+PART 121--OPERATING REQUIREMENTS: DOMESTIC, FLAG, AND SUPPLEMENTAL OPERATIONS 
+
+ 17. The authority citation for part 121 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 40119, 41706, 44101, 44701- 44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 46105. 
+
+ 18. Amend Sec. 121.343 by revising the section heading, by amending paragraph (c) to change ``1994'' to ``1995'', and by adding new paragraph (m) to read as follows: 
+
+Sec. 121.343 Flight data recorders. 
+
+* * * * *
+
+ (m) After August 20, 2001, this section applies only to the airplane models listed in Sec. 121.344(l)(2). All other airplanes must comply with the requirements of Sec. 121.344, as applicable. 
+
+ 19. Amend Sec. 121.344 by adding new paragraph (n) to read as follows: 
+
+Sec. 121.344 Digital flight data recorders for transport category airplanes. 
+
+* * * * *
+
+ (n) All aircraft subject to the requirements of this section that are manufactured on or after [insert date 2 years from the effective date of the final rule], must have a digital flight data recorder installed that also-- 
+
+ (1) Meets the requirements of Sec. 25.1459(a)(3), (a)(7), and (a)(8) of this chapter; and 
+
+ (2) Retains the 25 hours of recorded information required in paragraph (h) using a recorder that meets the standards of TSO-C124a, or later revision. 
+
+ 20. Amend Sec. 121.344a by adding new paragraph (g) to read as follows: 
+
+Sec. 121.344a Digital flight data recorders for 10-19 seat airplanes. 
+
+* * * * *
+
+ (g) All airplanes subject to the requirements of this section that are manufactured on or after [insert date 2 years from the effective date of the final rule], must have a digital flight data recorder installed that also-- 
+
+ (1) Meets the requirements in Sec. 23.1459(a)(3), (a)(6), and (a)(7) or Sec. 25.1459(a)(3), (a)(7), and (a)(8) of this chapter, as applicable; and 
+
+ (2) Retains the 25 hours of recorded information required in Sec. 121.344(g) using a recorder that meets the standards of TSO-C124a, or later revision. 
+
+ 21. Amend Sec. 121.359 by adding new paragraphs (i), (j), and (k) to read as follows: 
+
+Sec. 121.359 Cockpit voice recorders. 
+
+* * * * *
+
+ (i) By [insert date 4 years from the effective date of the final rule], all turbine engine-powered airplanes subject to this section that are manufactured before [insert date 2 years from the effective date of the final rule], must have a cockpit voice recorder installed that also-- 
+
+ (1) Meets the requirements of Sec. 23.1457(d)(6) or Sec. 25.1457(d)(6) of this chapter, as applicable; 
+
+ (2) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision; 
+
+ (3) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight; and 
+
+ (4) If transport category, meets the requirements in Sec. 25.1457(a)(3), (a)(4), and (a)(5) of this chapter. 
+
+ (j) All turbine engine-powered airplanes subject to this section that are manufactured on or after [insert date 2 years from the effective date of the final rule], must have a cockpit voice recorder installed that also-- 
+
+ (1) Meets the requirements of Sec. 23.1457 or Sec. 25.1457 of this chapter, as applicable; 
+
+ (2) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision; and 
+
+ (3) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight. 
+
+ (k) All airplanes required by this part to have a cockpit voice recorder and a flight data recorder, that install data-link communication equipment on or after [insert date 2 years from the effective date of the final rule], must record all data-link messages as required by the certification rule applicable to the airplane. 
+
+ 22. Amend appendix M to part 121 by revising parameters 1, 14a, 14b, 15, 16 and 17 to correct typographical errors; and by adding footnote 20 to parameters 12a through 17 and 88 to read as follows: 
+
+ Appendix M to Part 121.--Airplane Flight Recorder Specifications 
+
+PART 125--CERTIFICATION AND OPERATIONS: AIRPLANES HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT 
+
+ 23. The authority citation for part 125 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44705, 44710- 44711, 44713, 44716-44717, 44722. 
+
+ 24. Amend Sec. 125.225 by revising the section heading and by adding new paragraph (j) to read as follows: 
+
+Sec. 125.225 Flight data recorders. 
+
+* * * * *
+
+ (j) After August 20, 2001, this section applies only to the airplane models listed in Sec. 125.226(l)(2). All other airplanes must comply with the requirements of Sec. 125.226. 
+
+ 25. Amend Sec. 125.226 by adding new paragraph (m) to read as follows: 
+
+Sec. 125.226 Digital flight data recorders. 
+
+* * * * *
+
+ (m) All aircraft subject to the requirements of this section that are manufactured on or after [insert date 2 years from the effective date of the final rule], must have a flight data recorder installed that also-- 
+
+ (1) Meets the requirements in Sec. 25.1459(a)(3), (a)(7), and (a)(8) of this chapter; and 
+
+ (2) Retains the 25 hours of recorded information required in paragraph (f) of this section using a recorder that meets the standards of TSO-C124a, or later revision. 
+
+ 26. Amend Sec. 125.227 by adding new paragraphs (g), (h), and (i) to read as follows: 
+
+Sec. 125.227 Cockpit voice recorders. 
+
+* * * * *
+
+ (g) By [insert date 4 years from the effective date of the final rule], all turbine engine-powered airplanes subject to this section that are manufactured before [insert date 2 years from the effective date of the final rule], must have a cockpit voice recorder installed that also-- 
+
+ (1) Meets the requirements of Sec. 25.1457(a)(3), (a)(4), (a)(5), and (d)(6) of this chapter; 
+
+ (2) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision; and 
+
+ (3) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight. 
+
+ (h) All turbine engine-powered airplanes subject to this section that are manufactured on or after [insert date 2 years from the effective date of the final rule], must have a cockpit voice recorder installed that also-- 
+
+ (1) Meets the requirements of Sec. 25.1457(a)(3) through (a)(6), (d)(1), (d)(4), (d)(5), and (d)(6) of this chapter; 
+
+ (2) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision; and 
+
+ (3) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight. 
+
+ (i) All turbine engine-powered airplanes required by this part to have a cockpit voice recorder and a flight data recorder, that install data-link communication equipment on or after [insert date 2 years from the effective date of the final rule], must record all data-link messages as required by the certification rule applicable to the airplane. 
+
+ 27. Amend appendix E to part 125 by revising parameters 12b, 13b, 14a, 14b, 15 and 23, and by adding footnote 20 to parameters 12a through 17 and 88 to read as follows: 
+
+ 
+
+PART 129--OPERATIONS: FOREIGN AIR CARRIERS AND FOREIGN OPERATORS OF U.S.-REGISTERED AIRCRAFT ENGAGED IN COMMON CARRIAGE 
+
+ 28. The authority citation for part 129 continues to read as follows: 
+
+ Authority: 49 U.S.C. 1372, 40113, 40119, 44101, 44701-44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 44901-44904, 44906, 44912, 46105, Pub. L. 107-71, sec. 104. 
+
+ 29. Amend Sec. 129.1 by revising paragraph (b) to read as follows: 
+
+Sec. 129.1 Applicability. 
+
+* * * * *
+
+ (b) Sections 129.14, 129.20, and 129.22 also apply to U.S.- registered aircraft operated in common carriage by a foreign person or foreign air carrier solely outside the United States. For the purpose of this part, a foreign person is any person, not a citizen of the United States, who operates a U.S.-registered aircraft in common carriage solely outside the United States. 
+
+* * * * *
+
+ 30. Amend part 129 by adding new Sec. 129.22 to read as follows: 
+
+Sec. 129.22 Cockpit voice recorders. 
+
+ No person may operate an aircraft under this part that is registered in the United States unless it is equipped with an approved cockpit voice recorder that meets the standards of TSO-C123a, or later revision. The cockpit voice recorder must record the information that would be required to be recorded if the aircraft were operated under part 121, 125, or 135 of this chapter and must be installed by the compliance times required by that part, as applicable to the aircraft. 
+
+PART 135--OPERATING REQUIREMENTS: COMMUTER AND ON DEMAND OPERATIONS AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT 
+
+ 31. The authority citation for part 135 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 41706, 44113, 44701-44702, 44705, 44709, 44711-44713, 44715-44717, 44722. 
+
+ 32. Amend Sec. 135.151 by amending paragraphs (a)(2) and (b)(2) and by adding new paragraphs (f), (g), and (h) to read as follows: 
+
+Sec. 135.151 Cockpit voice recorders. 
+
+ (a) * * * 
+
+ (2) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight. 
+
+ (b) * * * 
+
+ (2) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight. 
+
+* * * * *
+
+ (f) By [insert date 4 years from the effective date of the final rule], all airplanes subject to paragraph (a) or paragraph (b) of this section that are manufactured before [insert date 2 years from the effective date of the final rule], and are required to have a flight data recorder installed in accordance with Sec. 135.152, must have a cockpit voice recorder that also-- 
+
+ (1) Meet the requirements in Sec. 23.1457(d)(6) or Sec. 25.1457(d)(6) of this chapter, as applicable; 
+
+ (2) Retain at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision; and 
+
+ (3) If transport category, meet the requirements in Sec. 25.1457(a)(3), (a)(4), and (a)(5) of this chapter. 
+
+ (g)(1) No person may operate a multiengine, turbine-powered airplane or rotorcraft that is manufactured on or after [insert date 2 years from the effective date of the final rule], has a passenger seating configuration of six or more seats, for which two pilots are required by certification or operating rules, and that is required to have a flight data recorder under Sec. 135.152, unless it is equipped with an approved cockpit voice recorder that also-- 
+
+ (i) Is installed in accordance with the requirements of Sec. 23.1457, Sec. 25.1457, Sec. 27.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h), or Sec. 29.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h) of this chapter, as applicable; 
+
+ (ii) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight; and 
+
+ (iii) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision. 
+
+ (2) No person may operate a multiengine, turbine-powered airplane or rotorcraft that is manufactured on or after [insert date 2 years from the effective date of the final rule], has a passenger seating configuration of 20 or more seats, and that is required to have a flight data recorder under Sec. 135.152, unless it is equipped with an approved cockpit voice recorder that also-- 
+
+ (i) Is installed in accordance with the requirements of Sec. 23.1457, Sec. 25.1457, Sec. 27.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h), or Sec. 29.1457(a)(6), (d)(1), (d)(4), (d)(5), and (h) of this chapter, as applicable; 
+
+ (ii) Is operated continuously from the start of the use of the checklist before starting the engines for the purpose of flight, to the completion of the final checklist at the termination of the flight; and 
+
+ (iii) Retains at least the last 2 hours of recorded information using a recorder that meets the standards of TSO-C123a, or later revision. 
+
+ (h) All airplanes or rotorcraft required by this part to have a cockpit voice recorder and a flight data recorder, that install data- link communication equipment on or after [insert date 2 years from the effective date of the final rule], must record all data-link messages as required by the certification rule applicable to the aircraft. 
+
+ 33. Amend Sec. 135.152 by revising the section heading and by adding new paragraphs (l) and (m) to read as follows: 
+
+Sec. 135.152 Flight data recorders. 
+
+* * * * *
+
+ (l) By [insert date 4 years from the effective date of the final rule], all aircraft manufactured before [insert date 2 years from the effective date of the final rule], must also meet the requirements in Sec. 23.1459(a)(7), Sec. 25.1459(a)(8), Sec. 27.1459(e), or Sec. 29.1459(e) of this chapter, as applicable. 
+
+ (m) All aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], must have a flight data recorder installed that also-- 
+
+ (1) Meets the requirements of Sec. 23.1459(a)(3), (a)(6), and (a)(7), Sec. 25.1459(a)(3), (a)(7), and (a)(8), Sec. 27.1459 (a)(3), (a)(6), and (e), or Sec. 29.1459(a)(3), (a)(6), and (e) of this chapter, as applicable; and 
+
+ (2) Retains the 25 hours of recorded information required in paragraph (d) of this section using a recorder that meets the standards of TSO-C124a, or later revision. 
+
+ 34. Amend appendix C to part 135 by adding footnote 4 to the Collective, Pedal Position, Lat. Cyclic, Long. Cyclic, and Controllable Stabilator Position parameters to read as follows: 
+
+ Appendix C to Part 135.--Helicopter Flight Recorder Specifications 
+
+Parameters 
+
+ Range 
+
+ Installed system 1 minimum accuracy (to recovered data) 
+
+ Sampling interval (per second) 
+
+ Resolution 3 read out 
+
+ 
+
+* 
+
+ * 
+
+ * 
+
+ * * * * 
+
+ 
+
+Collective. 4 Full Range ±3% 2 1% 2 
+
+Pedal Position 4 ..Full Range ±3% 2 1% 2 
+
+Lat. Cyclic 4 Full Range ±3% 2 1% 2 
+
+Long. Cyclic 4. Full Range ±3% 2 1% 2 
+
+Controllable Stabilator Position. 4 Full Range ±3% 2 1% 2 
+
+1 When data sources are aircraft instruments (except altimeters) of acceptable quality to fly the aircraft, the recording system, excluding these sensors (but including all other characteristics of the recording system), shall contribute no more than half of the values in this column. 
+
+2 Per cent of full range. 
+
+3This column applies to aircraft manufactured after October 11, 1991. 
+
+4 For all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], the sampling interval per second is 4. 
+
+ 35. Amend appendix E to part 135 by adding footnote 3 to the Pilot Input--Primary Controls (Collective, Longitudinal Cyclic, Lateral Cyclic, Pedal) parameter to read as follows: 
+
+ Appendix E to Part 135.--Helicopter Flight Recorder Specifications 
+
+Parameters 
+
+ Range 
+
+ Accuracy sensor input to DFDR readout 
+
+ Sampling interval (per second) 
+
+ Resolution 2 read out 
+
+ 
+
+* * * 
+
+ * * * * 
+
+Pilot Input-Primary Controls (Collective, Longitudinal Cyclic, Lateral Cyclic, Pedal). 3 Full Range ±3% 2 0.5% 1 
+
+* 
+
+ * * * * * * 
+
+1 Percent of full range. 
+
+2 This column applies to aircraft manufactured after October 11, 1991. 
+
+3 For all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], the sampling interval per second is 4. 
+
+ 36. Amend appendix F to part 135 by revising the appendix heading and parameters 14a, 14b, 15, 16, 17, and (23); and by adding footnote 18 to parameters 12a through 17 and 88 to read as follows: 
+
+* * * * * * *
+
+18 For all aircraft manufactured on or after [insert date 2 years from the effective date of the final rule], the seconds per sampling interval is 0.0625. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on April 21, 2005.
+
+John J. Hickey,
+
+Director, Aircraft Certification Service.
+
+[FR Doc. 05-8457 Filed 4-26-05; 8:45 am]
+
+BILLING CODE 4910-13-P
+
+
+
+ 
+        
+NPRM ACTIONS: 23-56, 25-118, 27-41, 29-48, 91-286, 121-308, 125-47, 129-40, 135-95

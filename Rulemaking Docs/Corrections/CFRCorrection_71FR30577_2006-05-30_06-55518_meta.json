@@ -1,0 +1,36 @@
+{
+  "document_number": "06-55518",
+  "title": "Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter Category Airplanes",
+  "type": "Rule",
+  "action": null,
+  "start_page": 30577,
+  "end_page": 30577,
+  "publication_date": "2006-05-30",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "docket_ids": [],
+  "citation": "71 FR 30577",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2006/05/30/06-55518.txt",
+  "html_url": "https://www.federalregister.gov/documents/2006/05/30/06-55518/airworthiness-standards-normal-utility-acrobatic-and-commuter-category-airplanes",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2006-05-30/pdf/06-55518.pdf",
+  "_match": "cfr-filter-only",
+  "_kind": "cfr-correction"
+}

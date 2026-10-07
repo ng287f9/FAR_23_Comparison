@@ -1,0 +1,2041 @@
+CFR NPRM: Part 23|Part 25|Part 27|Part 29
+
+ 
+ 
+        
+CITATION: [Federal Register: February 1, 2006 (Volume 71, Number 21)]
+
+ 
+        
+PAGE NUMBER: [Page 5553-5567]
+
+ 
+        
+DOCKET NUMBER: FAA-2006-23657
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29
+
+ 
+        
+SUBJECT: High-Intensity Radiated Fields (HIRF) Protection for Aircraft Electrical and 
+Electronic Systems
+
+ 
+        
+ACTION: Notice of proposed rulemaking (NPRM).
+
+ 
+        
+SUMMARY: The FAA proposes to add certification standards to protect aircraft electrical and electronic systems from high-intensity radiated fields (HIRF). This action is necessary due to the vulnerability of aircraft electrical and electronic systems and the increasing use of high-power radio frequency transmitters. The intended effect of this action is to create a safer operating environment for civil aviation by protecting aircraft and their systems from the adverse effects of HIRF. 
+
+
+
+ 
+        
+DATES: Send your comments to reach us on or before May 2, 2006.
+
+ 
+        
+ADDRESSES: You may send comments, identified by Docket Number FAA-2006- 23657, using any of the following methods: 
+
+ DOT Docket Web site: Go to http://dms.dot.gov and follow the instructions for sending your comments. 
+
+ Government-wide rulemaking Web site: Go to http://www.regulations.gov and follow the instructions for sending your comments. 
+
+ Mail: Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590-001. 
+
+ Fax: 1-202-493-2251. 
+
+ Hand Delivery: Room PL-401 on the plaza level of the Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. 
+
+ For more information, see the SUPPLEMENTARY INFORMATION section of this document. 
+
+ Privacy: We will post all comments we receive, without change, to http://dms.dot.gov, including any personal information you provide. For more information, see the Privacy Act discussion in the SUPPLEMENTARY INFORMATION section of this document. 
+
+ Docket: To read background documents or comments received, go to http://dms.dot.gov at any time or to Room PL-401 on the plaza level of the Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. 
+
+
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Richard E. Jennings, Aircraft Certification Service, Aircraft Engineering Division, AIR-130, 1895 Phoenix Blvd., Suite 450, Atlanta, GA 30349. Telephone (770) 703-6090. Or, via e-mail at: Richard.Jennings@faa.gov. 
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+We Invite Your Comments 
+
+ The FAA invites interested persons to participate in this rulemaking by submitting written comments, data, or views. We also invite comments relating to the economic, environmental, energy, or federalism impacts that might result from adopting the proposals in this document. The most helpful comments reference a specific portion of the proposal, explain the reason for any recommended change, and include supporting data. 
+
+ We will file in the docket all comments we receive, as well as a report summarizing each substantive public contact with FAA personnel concerning this proposed rulemaking. The docket is available for public inspection before and after the comment closing date. If you wish to review the docket in person, go to the address in the ADDRESSES section of this preamble between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. You may also review the docket using the Internet at the web address in the ADDRESSES section. 
+
+ Before acting on this proposal, we will consider all comments we receive on or before the closing date for comments. We will consider comments filed late if it is possible to do so without incurring expense or delay. We may change this proposal in light of the comments we receive. 
+
+ If you want the FAA to acknowledge receipt of your comments on this proposal, include with your comments a pre-addressed, stamped postcard on which the docket number appears. We will stamp the date on the postcard and mail it to you. 
+
+ Readers should note that the FAA is publishing elsewhere in today's Federal Register a notice of availability of a draft Advisory Circular. The Advisory Circular describes one way, but not the only way, to comply with the requirements contained in this NPRM. We also invite comments on the draft Advisory Circular. Refer to the notice of availability for instructions on how file comments on the draft Advisory Circular. 
+
+Privacy Act 
+
+ Anyone is able to search the electronic form of all comments received into any of our dockets by the name of the individual submitting the comment (or signing the comment, if submitted on behalf of an association, business, labor union, etc.). You may review DOT's complete Privacy Act Statement in the Federal Register published on April 11, 2000 (65 FR 19477-78) or you may visit http://dms.dot.gov. 
+
+Proprietary or Confidential Business Information 
+
+ Do not file in the docket information that you consider to be proprietary or confidential business information. Send or deliver this information directly to the person identified in the FOR FURTHER INFORMATION CONTACT section of this document. You must mark the information that you consider proprietary or confidential. If you send the information on a disk or CD ROM, mark the outside of the disk or CD ROM and also identify electronically within the disk or CD ROM the specific information that is proprietary or confidential. 
+
+ Under 14 CFR 11.35(b), when we are aware of proprietary information filed with a comment, we do not place it in the docket. We hold it in a separate file to which the public does not have access, and place a note in the docket that we have received it. If we receive a request to examine or copy this information, we treat it as any other request under the Freedom of Information Act (5 U.S.C. 552). We process such a request under the DOT procedures found in 49 CFR part 7. 
+
+Availability of NPRMs 
+
+ You can get an electronic copy of this NPRM using the Internet by: 
+
+ Searching the DOT electronic docket Web page (http://dms.dot.gov/search ); 
+
+ Visiting the FAA's Regulations and Policies Web page at http://www.faa.gov/regulations_policies/; or 
+
+ Accessing the Government Printing Office's Web page (http://www.gpoaccess.gov/fr/index.html). 
+
+ You can also get a copy by sending a request to the Federal Aviation Administration, Office of Rulemaking, 800 Independence Avenue, SW., Washington, DC 20591; or by calling (202) 267-9680. Be sure to identify the docket number of this NPRM. 
+
+Authority for This Rulemaking 
+
+ The FAA's authority to issue rules regarding aviation safety is found in Title 49 of the United States Code. 
+
+Subtitle I, section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the agency's authority. This rulemaking is promulgated under the authority described in subtitle VII, part A, subpart III, section 44701(a)(1). Under that section the FAA is charged to promote safe flight of civil aircraft in air commerce by prescribing minimum standards in the interest of safety for appliances and for the design, material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers. By prescribing standards to protect aircraft electrical and electronic systems from high-intensity radiated fields, this proposed regulation is within the scope of the Administrator's authority. 
+
+Background 
+
+Statement of the Problem 
+
+ The electromagnetic HIRF environment results from the transmission of electromagnetic energy from radar, radio, television, and other ground-based, shipborne, or airborne radio frequency (RF) transmitters. This environment has the capability of adversely affecting the operation of aircraft electric and electronic systems. 
+
+ Although the HIRF environment did not pose a significant threat to earlier generations of aircraft, in the late 1970s designs for civil aircraft were first proposed that included flight-critical electronic controls, electronic displays, and electronic engine controls, such as those used in military aircraft. These systems are more susceptible to the adverse effects of operation in the HIRF environment. Accidents and incidents on civil aircraft with flight-critical electrical and electronic systems have also brought attention to the need to protect these critical systems from high-intensity radiated fields. 
+
+ On April 15, 1990, an Airship Industries Airship-600 traversed the beam of a highly directional RF broadcast from a Voice of America antenna and suffered a complete loss of power in both engines that resulted in a collision with trees and terrain during a forced landing in North Carolina. The National Transportation Safety Board stated in its investigation of the accident that the lack of HIRF certification standards for airships was a factor in the accident. 
+
+ On March 2, 1999, a Robinson R-44 helicopter passed within 1,000 meters of the main beam of a high frequency (HF), high energy broadcast transmission antenna in Portugal. The pilot reported strong interference in the aircraft's communication systems, navigation radios, and intercom followed by illumination of the low rotor revolutions per minute (RPM) and clutch lights. He further noted that engine noise dropped to idle level and the engine and rotor RPM indicators dropped. The pilot entered autorotation and landed the helicopter successfully with damage only to the main rotor. Following landing, the pilot reported all cockpit indications were normal. The accident investigation division of Portugal's Instituto Nacional da Aviacao Civil stated that the probable cause of the incident was severe electromagnetic and RF interference. 
+
+ The FAA has issued three airworthiness directives (ADs) in response to HIRF effects between 1991 and 1998. In AD 91-03-05, Airship Industries Skyship Model 600 Airships, the FAA required the installation of a modified ignition control unit because of the previously described dual-engine failure that occurred when the ignition control units were exposed to HIRF. 
+
+ In AD 96-21-13, LITEF GmbH Attitude and Heading System Reference (AHRS) Unit Model LCR-92, LCR-92S, and LCR-92H, the FAA stated there are indications of an unusual AHRS reaction to certain RF signals that could cause the AHRS to give misleading roll and pitch information. As a result, the FAA required either (1) the installation of a placard adjacent to each primary attitude indicator stating that flight is limited to day visual flight rules (VFR) operations only, or, if the primary attitude instruments have been deactivated, installation of a placard stating that flight is limited to VFR operations only, or (2) a modification and inspection of the AHRS wiring cables, a repetitive inspection of the cable shielding, and an insertion of a statement in the aircraft flight manual regarding unannounced heading errors that could occur after switching operation from DG to MAG or operation of the switch in flight with any bank angle. 
+
+ In AD 98-24-05, HOAC-Austria Model DV-20 Katana Airplanes, the FAA required the replacement of engine electronic modules to prevent electromagnetic interference in the modules. The FAA required the replacement of the modules because electromagnetic interference could cause the airplane's engine to stop due to an interruption in the ignition system resulting in loss of control. 
+
+ Concern for the protection of electrical and electronic systems in aircraft has increased substantially in recent years because of-- 
+
+ (1) A greater dependence on electrical and electronic systems performing functions required for the continued safe flight and landing of the aircraft; 
+
+ (2) The reduced electromagnetic shielding afforded by some composite materials used in aircraft designs; 
+
+ (3) The increase in susceptibility of electrical and electronic systems to HIRF because of increased data bus or processor operating speeds, higher density integrated circuits and cards, and greater sensitivities of electronic equipment; 
+
+ (4) Expanded frequency usage, especially above 1 gigahertz (GHz); 
+
+ (5) The increased severity of the HIRF environment because of an increase in the number and power of RF transmitters; and 
+
+ (6) The adverse effects experienced by some aircraft when exposed to HIRF. 
+
+History 
+
+ In 1987, the FAA contracted with the Department of Defense Electromagnetic Compatibility Analysis Center (ECAC) (currently the Joint Spectrum Center) to research and define the U.S. HIRF environment to be used for the certification of aircraft and the development of Technical Standard Orders. In February 1988, the FAA and the Joint Aviation Authorities (JAA) tasked the Society of Automotive Engineers (SAE) and the European Organization for Civil Aviation Equipment (EUROCAE) to develop guidance material and acceptable means of compliance (AMC) documents to support FAA and JAA efforts to develop HIRF certification requirements. In response, one SAE panel reviewed and revised the assumptions used for ECAC's definition of a HIRF environment and published several iterations of that HIRF environment for fixed-wing aircraft based on revised assumptions. Another SAE panel prepared advisory material to support the FAA's rulemaking efforts. 
+
+ Because of efforts undertaken by the FAA and the JAA to harmonize the JAA's airworthiness requirements and the FAA's airworthiness regulations in the early 1990s, the FAA and the JAA agreed that the proposed HIRF certification requirements needed further international harmonization before a rule could be adopted. 
+
+ As a result, the FAA established the Electromagnetic Effects Harmonization Working Group (EEHWG) under the Aviation Rulemaking Advisory Committee on Transport Airplane and Engine Issues (57 FR 58843, December 11, 1992) and tasked it to develop, in coordination with the JAA, HIRF certification requirements for aircraft. 
+
+The EEHWG expanded the existing HIRF environments developed by the ECAC with the SAE committee to include HIRF environments appropriate for aircraft certificated under parts 23, 25, 27, and 29. 
+
+ In 1994, the FAA tasked the Naval Air Warfare Center Aircraft Division (NAWCAD) to conduct a HIRF electromagnetic field survey study to support the efforts of the EEHWG. The EEHWG also received HIRF electromagnetic environment data on European transmitters from European governments. The EEHWG converted the U.S. and European data into a set of harmonized HIRF environments, prepared draft advisory circular/ advisory material joint (AC/AMJ), and also prepared a harmonized FAA draft HIRF NPRM and JAA draft HIRF Notice of Proposed Amendment (NPA). 
+
+ In November 1997, the EEHWG adopted a set of HIRF environments agreed on by the FAA, the JAA, and the industry participants. The HIRF environments contained in these proposed rules reflect the HIRF environments adopted by the EEHWG. In addition, the information contained in this NPRM is based on the draft NPRM/NPA document. 
+
+Current Requirements 
+
+ Currently, Sec. Sec. 23.1309, 25.1309, 27.1309, and 29.1309 provide general certification requirements applicable to the installation of all aircraft systems and equipment, but they do not include specific certification requirements for protection against HIRF. AC 23.1309-1C, ``Equipment, Systems, and Installations in Part 23 Airplanes,'' states that Sec. 23.1309 is not intended to include certification requirements for protection against HIRF. Because of the lack of specific HIRF certification requirements, special conditions to address HIRF have been imposed on applicants seeking issuance of a type certificate (TC), amended TC, or supplemental type certificate (STC) since 1986. Applicants have the option of demonstrating compliance using the external HIRF environment defined in HIRF special conditions or a system bench test level of 100 volts per meter (V/m), whichever is less. The FAA issued additional interim guidance for the certification of aircraft operating in HIRF environments in FAA Notice N8110.71, Guidance for the Certification of Aircraft Operating in High-Intensity Radiated Field (HIRF) Environments, dated April 2, 1998, with a cancellation date of April 2, 1999. 
+
+Development of the HIRF Environments 
+
+ The HIRF environment was originally categorized into the rotorcraft severe, fixed-wing severe, certification, and normal HIRF environments. Each of these four HIRF environments was developed based on specific assumptions dealing with distance between the aircraft and transmitter, appropriate for the class of aircraft under consideration. The EEHWG investigated the likelihood that fixed wing aircraft and rotorcraft operate in the vicinity of high power transmitters. The EEHWG also investigated testing practicality and availability of test facilities for the HIRF environment levels. The EEHWG used these factors to select the levels for the HIRF environments used in the proposal. 
+
+ The U.S. HIRF environments were calculated by the NAWCAD based on the assumptions agreed on by the EEHWG, using unclassified and classified data on government and civilian transmitters, such as electromagnetic effects databases, technical manuals, and information provided by transmitter operators. 
+
+ In developing the U.S. rotorcraft severe, fixed-wing severe, certification, and normal HIRF environments, the NAWCAD reviewed the Joint Spectrum Center's HIRF data and updated the transmitter information to ensure the most current licensed and authorized transmitters were used. A subset of data was created that contained the licensing information and equipment descriptions on the 25 highest radiated power transmitters in each of the following 17 HIRF frequency bands for each of the HIRF environments: 10 to 100 kilohertz (kHz), 100 to 500 kHz, 500 kHz to 2 megahertz (MHz), 2 to 30 MHz, 30 to 70 MHz, 70 to 100 MHz, 100 to 200 MHz, 200 to 400 MHz, 400 to 700 MHz, 700 MHz to 1 GHz, 1 to 2 GHz, 2 to 4 GHz, 4 to 6 GHz, 6 to 8 GHz, 8 to 12 GHz, 12 to 18 GHz, and 18 to 40 GHz. 
+
+ The NAWCAD then selected the five transmitters with the highest peak and the five transmitters with the highest average radiated power in each frequency band to develop the HIRF environments. The NAWCAD performed further analysis and investigation to confirm the transmitters were operating and producing the radiated power indicated in their licensing information. If one of the transmitters was located in prohibited or restricted airspace, the NAWCAD noted that information, removed the transmitter from consideration as a potential HIRF transmitter, and selected the next lower radiated power transmitter not in prohibited or restricted airspace. Once the five highest peak and five highest average power transmitters were identified and confirmed operational, the NAWCAD recalculated their electromagnetic field strengths, in V/m. Finally, the NAWCAD created each U.S. HIRF environment using the transmitters with the highest calculated field strength in each of the 17 frequency bands for peak and average power. JAA-member nations undertook similar efforts to develop the European HIRF environments. 
+
+ To create the harmonized HIRF environments, the EEHWG compared the U.S. and European HIRF environments and selected the transmitters with the highest field strength values for each of the 17 frequency bands for peak and average power. 
+
+ The harmonized HIRF environments are based on the individual U.S. and European HIRF environments and form an estimate of the international electromagnetic field strength, in V/m, over a frequency range from 10 kHz to 40 GHz. The FAA, JAA, and other governmental and international agencies, such as the International Civil Aviation Organization (ICAO) and the International Telecommunications Union, plan to monitor the future growth of the harmonized HIRF environment. 
+
+ The following general assumptions were used to develop the HIRF environments: 
+
+ (1) The HIRF environment was divided into 17 frequency bands, ranging from 10 kHz to 40 GHz. 
+
+ (2) The main-beam illumination and maximum-beam gain of the transmitting antenna were used. 
+
+ (3) The duty cycle of pulsed transmitters was used to calculate the average power; however, the modulation of a transmitted signal was not considered. The duty cycle was defined as the product of pulse width and pulse repetition frequency and applied only to pulsed systems. 
+
+ (4) Constructive ground reflections (direct and reflected waves) of HF signals were assumed to be in phase. 
+
+ (5) The noncumulative field strength was calculated; however, simultaneous illumination by more than one antenna was not considered. 
+
+ (6) Near-field corrections were used for aperture and phased-array antennas. 
+
+ (7) Field strengths were calculated at minimum distances dependent on the locations of the transmitter and the aircraft. 
+
+ (8) The field strength was calculated for each frequency band using the maximum field strength for all 
+
+transmitters within that band for peak and average power, given in V/m. The field strength values were expressed in root-mean-square (rms) units measured during the peak of the modulation cycle, as many laboratory instruments indicate amplitude. The true peak field strength values will be higher by a factor of the square root of two. 
+
+ (9) The peak field strength was based on the transmitter's maximum authorized peak power, maximum antenna gain, and system losses. 
+
+ (10) The average field strength was based on the transmitter's maximum authorized peak power, maximum duty cycle, maximum antenna gain, and system losses. 
+
+ (11) The aircraft's altitude and the transmitter's maximum antenna elevation were taken into account. The slant range was defined as the line-of-sight distance between the transmitter and the aircraft. The adjusted slant range was defined as the line-of-sight distance at which the aircraft encounters the maximum illumination from an elevation- limited antenna's main beam. If the transmitter's maximum antenna elevation angle was not available, 90 degrees was assumed. 
+
+ (12) Transmitters located in prohibited areas, restricted areas, or warning areas (ICAO danger areas) were not included. 
+
+ (13) Proposed special-use airspace (SUA) boundaries were defined for selected high-power transmitters. The size of the proposed SUA was derived from transmitter data and, therefore, varied from transmitter site to transmitter site. For transmitters located within a proposed SUA, the transmitter field strength was assessed at the boundary of the proposed SUA. 
+
+ (14) Transmitters with experimental licenses and non-airport mobile tactical military transmitters were excluded. 
+
+ (15) Certain transmitters have the capability to reduce power or restrict scanning coverage if aircraft operate in close vicinity. This capability was assumed to be operating for calculating illumination and power density. 
+
+ (16) Transmitter losses into the antenna were estimated at 3 decibels in the U.S. HIRF environment, unless transmitter data were available. 
+
+ For further information on the development of the HIRF environments, consult NAWCAD Technical Memorandum, Report No. NAWCADPAX-98-156-TM, High-intensity Radiated Field External Environments for Civil Aircraft Operating in the United States of America (Unclassified), dated November 12, 1998. A copy of the NAWCAD Technical Memorandum is available in the docket. 
+
+ Table I.--Summary of Transmitter Locations Used To Develop the HIRF Environments 
+
+Geographic lockation of transmitter source
+
+ Treansmitter distance from aircraft (feet, slant or adjusted (adj.) slant range)
+
+ 
+
+Rotorcraft severe
+
+ Fixed-wing severe
+
+ Certification (all aircraft)
+
+ Normal (all aircraft)
+
+ 
+
+Airport 1, heliport, and offshore platform 2: 
+
+Fixed: 
+
+Air route/Airport surveillance radar 300 adj. slant 500 adj. slant 500 adj. slant 500 adj. slant. 
+
+All others 100 slant 250 adj. slant 250 adj. slant 250 adj. slant. 
+
+Mobile: 
+
+Aircraft weather radar 150 slant 150 slant 150 slant 250 slant. 
+
+All others 50 slant 50 slant 50 slant 50 slant. 
+
+Land-based (other than airport and heliport) 3: 
+
+HIRF SUA Edge of SUA Edge of SUA Edge of SUA Edge of SUA. 
+
+All others (distance from facility): 
+
+> 0–3 nautical miles (nm) 100 slant. 500 adj. slant 500 adj. slant 500 adj. slant. 
+
+3–5 nm 100 slant 500 adj. slant 1000 adj. slant 1000 adj. slant. 
+
+5–10 nm 100 slant 500 adj. slant 1000 adj. slant 1500 adj. slant. 
+
+10–25 nm 100 slant 500 adj. slant 1000 adj. slant 2500 adj. slant. 
+
+> 25 nm 100 slant 500 adj. slant 1000 adj. slant 1000 adj. slant. 
+
+Ship-based transmitters 4: 
+
+All ships 500 slant 500 adj. slant 1000 adj. slant Not applicable. 
+
+Air-to-air 5: 
+
+Interceptor Not applicable 100 slant 100 slant Not applicable. 
+
+All others Not applicable 500 slant 500 slant Not applicable. 
+
+ \1\ The airport environment consisted of all fixed and mobile transmitters located within a 5-nm boundary around the airport. The fixed transmitters considered included the marker beacon, localizer, very-high-frequency omnirange (VOR) navigation, glide slope, tactical air navigation (TACAN), weather radar, telemetry, ground controlled approach radar, distance measuring equipment, microwave landing system (MLS), airport surveillance radar, air route surveillance radar, ultra high frequency/very high frequency (UHF/VHF) communications, and air traffic control radar beacon system (ATCRBS) interrogator. The mobile transmitters considered included all the ground transmitters not in a fixed location, such as VHF radios on ground support equipment and the following aircraft transmitters: High frequency (HF)/UHF communication, TACAN, Doppler navigation radar, radio altimeter, weather radar, and ATCRBS beacon. 
+
+ \2\ The heliport and offshore platform environments consisted of all transmitters, fixed and mobile, located on commercial heliport and offshore platforms. The transmitters considered included satellite, HF, and UHF/VHF communications, VOR navigation, homing beacons, weather radar, surface search radar, and MLS. 
+
+ \3\ The land-based environment (other than the airport and heliport environments) consisted of all ground transmitters not located on an airport, heliport, or offshore platform. The transmitters considered included sounders, submarine and UHF/VHF communication, radar astronomy, land mobile equipment, test and training equipment, weather radar, national defense radar, long-range navigation (LORAN), television broadcast, air route surveillance radar, and satellite uplinks.
+
+ \4\ The ship-based environment consisted of all transmitters located on all commercial and military ships located at sea or in harbors near airports. The transmitters considered included air search radar, fire control radar, satellite, HF, and UHF/VHF communications, TACAN, weather radar, surface search radar, MLS, and ATCRBS interrogator.
+
+ \5\ The air-to-air environment consisted only of those transmitters on military aircraft because the transmitters on civilian aircraft were considered in the mobile airport environment. For military aircraft on intercept courses all non-hostile transmitters were assumed to be operational, and for all military aircraft on intercept courses all transmitters were assumed to be operational. 
+
+HIRF Environments 
+
+ Table II.--HIRF Environments, as Developed by the EEHWG and as Proposed in This Notice 
+
+HIRF Environment, as developed by the EEHWG 
+
+ HIRF Environment, as proposed in this notice 
+
+ 
+
+Fixed-wing Severe .... Not used. 
+
+Rotorcraft Severe ...... HIRF Environment III. 
+
+Certification ............... HIRF Environment I. 
+
+Normal ....................... HIRF Environment II. 
+
+ The fixed-wing severe and rotorcraft severe HIRF environments present worst-case estimates of the electromagnetic field strength in the airspace in which fixed-wing aircraft and rotorcraft operations, respectively, are permitted. The fixed-wing severe HIRF environment, as shown in table III, was used only to develop the certification HIRF environment. The rotorcraft severe HIRF environment, as shown in table IV, is identical to HIRF environment III as proposed in this notice. 
+
+ The certification HIRF environment, as shown in table V (HIRF environment I as proposed in this notice) provides test and analysis levels to demonstrate that an aircraft and its systems meet HIRF certification requirements. HIRF environment I is based on likely aircraft separation distances and takes into account high peak power microwave transmitters that typically do not operate continuously at their maximum output levels. Based on statistical analysis of aircraft operations, the EEHWG determined that the assumptions used for calculating HIRF environment I were more appropriate for aircraft certification than the assumptions of the fixed-wing severe HIRF environment; therefore, the fixed-wing severe HIRF environment is not used in the proposed rules. 
+
+ The normal HIRF environment, as shown in table VI (HIRF environment II as proposed in this notice) also provides test and analysis levels to demonstrate that the aircraft and its systems meet HIRF certification requirements. HIRF environment II is an estimate of the electromagnetic field strength in the airspace above an airport or heliport in which routine departure and arrival operations take place. HIRF environment II also takes into account high peak power microwave transmitters that typically do not operate continuously at their maximum output levels. The EEHWG determined that the assumptions used for HIRF environment II are most appropriate for aircraft operating in the vicinity of airports. 
+
+ Table III.--Fixed-Wing Severe HIRF Environment 
+
+Frequency
+
+ Field strength (V/m)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–100 kHz ....... 50 
+
+ 50 
+
+ 
+
+100kHz–500 kHz ...... 60 
+
+ 60 
+
+ 
+
+500kHz–2 MHz ......... 70 
+
+ 70 
+
+ 
+
+2 MHz–30 MHz ......... 200 
+
+ 200 
+
+ 
+
+30 MHz–100 MHz ..... 30 
+
+ 30 
+
+ 
+
+100 MHz–200 MHz ... 90 
+
+ 30 
+
+ 
+
+200 MHz–400 MHz ... 70 
+
+ 70 
+
+ 
+
+400 MHz–700 MHz ... 730 
+
+ 80 
+
+ 
+
+700 MHz–1 GHz ....... 1,400 
+
+ 240 
+
+ 
+
+1 GHz–2 GHz ........... 3,300 
+
+ 160 
+
+ 
+
+2 GHz–4 GHz ........... 4,500 
+
+ 490 
+
+ 
+
+4 GHz–6 GHz ........... 7,200 
+
+ 300 
+
+ 
+
+6 GHz–8 GHz ........... 1,100 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 2,600 
+
+ 330 
+
+ 
+
+12 GHz–18 GHz ....... 2,000 
+
+ 330 
+
+ 
+
+18 GHz–40 GHz ....... 1,000 
+
+ 420 
+
+ 
+
+ 
+
+ Table IV.--Rotorcraft Severe HIRF Environment [HIRF Environment III] 
+
+Frequency
+
+ Field strength (V/m)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–100 kHz ....... 150 
+
+ 150 
+
+ 
+
+100 kHz–400 MHz .... 200 
+
+ 200 
+
+ 
+
+400 MHz–700 MHz ... 730 
+
+ 200 
+
+ 
+
+700 MHz–1 GHz ....... 1,400 
+
+ 240 
+
+ 
+
+1 GHz–2 GHz ........... 5,000 
+
+ 250 
+
+ 
+
+2 GHz–4 GHz ........... 6,000 
+
+ 490 
+
+ 
+
+4 GHz–6 GHz ........... 7,200 
+
+ 400 
+
+ 
+
+6 GHz–8 GHz ........... 1,100 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 5,000 
+
+ 330 
+
+ 
+
+12 GHz–18 GHz ....... 2,000 
+
+ 330 
+
+ 
+
+18 GHz–40 GHz ....... 1,000 
+
+ 420 
+
+ 
+
+ Table V.--Certification HIRF Environment [HIRF Environment I]
+
+Frequency
+
+ Field strength (V/m)
+
+ 
+
+ Peak
+
+ Average
+
+ 
+
+10 MHz–2 MHz ......... 50 
+
+ 50 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 50 
+
+ 50 
+
+ 
+
+100 MHz–400 MHz ... 100 
+
+ 100 
+
+ 
+
+400 MHz–700 GHz ... 700 
+
+ 50 
+
+ 
+
+700 GHz–1 GHz ....... 700 
+
+ 100 
+
+ 
+
+1 GHz–2 GHz ........... 2,000 
+
+ 200 
+
+ 
+
+2 GHz–6 GHz ........... 3,000 
+
+ 200 
+
+ 
+
+6 GHz–8 GHz ........... 1,000 
+
+ 200 
+
+ 
+
+8 GHz–12 GHz ......... 3,000 
+
+ 300 
+
+ 
+
+12 GHz–18 GHz ....... 2000 
+
+ 200 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 200 
+
+ 
+
+ Table VI.--Normal HIRF Environment [HIRF Environment II]
+
+Frequency
+
+ Field strength (V/m)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–500 kHz ....... 
+
+ 20 
+
+ 20 
+
+ 
+
+500 kHz–2 MHz ........ 30 
+
+ 30 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 10 
+
+ 10 
+
+ 
+
+100 MHz–200 MHz ... 30 
+
+ 10 
+
+ 
+
+200 MHz–400 MHz ... 10 
+
+ 10 
+
+ 
+
+400 MHz–1 GHz ....... 700 
+
+ 40 
+
+ 
+
+1 GHz–2 GHz ........... 1,300 
+
+ 160 
+
+ 
+
+2 GHz–4 GHz ........... 3,000 
+
+ 120 
+
+ 
+
+4 GHz–6 GHz ........... 3,000 
+
+ 160 
+
+ 
+
+6 GHz–8 GHz ........... 400 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 1,230 
+
+ 230 
+
+ 
+
+12 GHz–18 GHz ....... 730 
+
+ 190 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 150 
+
+ 
+
+Equipment Test Levels 
+
+ The EEHWG developed four equipment HIRF test levels, which have been included in this proposal. The four test levels were created using typical aircraft HIRF protection characteristics and data from aircraft service experience to provide the ability to perform testing in a laboratory environment. 
+
+ Equipment HIRF test levels 1 and 2 are based on the normal HIRF environment reduced by typical aircraft attenuation. The typical aircraft attenuation was determined using the mean attenuation measured on a number of transport airplanes, small airplanes, and rotorcraft. Equipment HIRF test level 3 is based on the normal HIRF environment reduced by the aircraft attenuation for a specific aircraft. Equipment HIRF test level 4 was developed to provide assurance for HIRF protection based on service experience for certain aircraft systems. To develop test level 4, the EEHWG reviewed all available reports of HIRF interference. This equipment HIRF test level was selected to minimize the effects of HIRF and is 5 to 10 times higher than the system test levels currently used. 
+
+General Discussion of the Proposal 
+
+HIRF Certification Requirements 
+
+ The proposed HIRF certification requirements would apply to an applicant for a new type certificate and to an applicant for a change to an existing type certificate when the certification basis for the aircraft includes the proposed requirements. The applicability of the proposed requirements to an applicant for a change to an existing type certificate would be governed by the provisions contained in current Sec. 21.101 Designation of applicable regulations (generally referred to as the ``changed product rule''). Specifically, Sec. 21.101 would apply when an applicant intends to change a type certificate to obtain approval for the installation of an electrical or electronic system on an existing aircraft model. Accordingly, an electrical or electronic system that has previously met HIRF special conditions may require additional testing for it to be found in compliance with the HIRF environments specified in this proposal. The FAA specifically invites comments that discuss the effect (including any potential costs) of Sec. 21.101 on the ability of applicants to comply with the proposed HIRF certification requirements. 
+
+ The hazard assessment conducted to show compliance with Sec. Sec. 23.1309, 25.1309, 27.1309, and 29.1309 then could be used to assist in determining the appropriate HIRF certification requirements for the aircraft electrical and electronic systems. HIRF certification requirements in the proposed rule would be established only for aircraft electrical and electronic systems whose failure would: (1) Prevent the continued safe flight and landing of the aircraft; (2) significantly reduce the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition; or (3) reduce the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition. This resulting failure classification would determine which HIRF environment the aircraft and/ or electrical and electronic systems would be exposed to during certification testing. 
+
+ Under the proposed rule, electrical and electronic systems that perform a function whose failure would prevent the continued safe flight and landing of the aircraft must be designed and installed so that-- 
+
+ (1) Each function is not affected adversely during and after the aircraft is exposed to HIRF environment I; 
+
+ (2) Each electrical and electronic system automatically recovers normal operation, in a timely manner, after the aircraft is exposed to HIRF environment I, unless this conflicts with other operational or functional requirements of that system; and 
+
+ (3) Each electrical and electronic system is not adversely affected during and after the aircraft is exposed to HIRF environment II. 
+
+An example of an electrical or electronic system whose failure would prevent the continued safe flight and landing of the aircraft is a full authority digital electronic engine control (FADEC). 
+
+ In addition, rotorcraft would be required to meet additional HIRF certification standards because rotorcraft operating under VFR do not have to comply with the same minimum safe altitude restrictions for airplanes in Sec. 91.119 and, therefore, may operate closer to transmitters. Accordingly, for functions required during operation under VFR whose failure would prevent the continued safe flight and landing of the rotorcraft, the electrical and electronic systems that perform such a function, considered separately and in relation to other systems, would be required to be designed and installed so that each function is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment III. Rotorcraft operating under instrument flight rules (IFR) have to comply with more restrictive altitude limitations and, therefore, electrical and electronic systems with functions required for IFR operations would be required to not be adversely affected when the rotorcraft is only exposed to HIRF environment I. 
+
+ The proposal would mandate that each electrical and electronic system that performs a function whose failure would reduce significantly the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition be designed and installed so the system is not affected adversely when the equipment providing these functions is exposed to equipment HIRF test level 1, 2, or 3. A system that is not adversely affected by any one of these test levels would be considered acceptable. Test levels 1 and 2 have equivalent energy, but provide different modulation applications. This flexibility permits test laboratories to use existing test equipment. Test level 2 allows an applicant to use equipment test levels developed for the specific aircraft being certificated. Any one of these test levels may be used to demonstrate HIRF protection. Examples of electrical and electronic systems whose failure would significantly reduce the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition are an instrument landing system (ILS) receiver or a VHF communications receiver. 
+
+ Lastly, under the proposed rule, each electrical and electronic system that performs a function whose failure would reduce the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not affected adversely when the equipment providing these functions is exposed to equipment HIRF test level 4. An example of an electrical or electronic system whose failure would reduce the capability of the aircraft or the ability of the flightcrew to respond to an adverse operating condition is a cabin pressurization system. 
+
+ HIRF environments I, II, and III, and equipment HIRF test levels 1, 2, 3, and 4 would be found in proposed appendixes to the affected parts. 
+
+Compliance With HIRF Certification Requirements 
+
+ Acceptable operation of a system or equipment installation during exposure to a HIRF environment or equipment HIRF test level could be shown through similarity with existing systems, analyses, testing, or any combination acceptable to the FAA. However, certification by similarity could not be used for a combination of new aircraft design and new equipment design. In addition, service experience alone would not be acceptable because such experience may not include exposure to HIRF environments. Acceptable system performance could be attained by demonstrating that the system under consideration continued to perform its intended function. Deviations from the performance specifications of systems under consideration could be acceptable, but they would need to be assessed independently to ensure the effects of the deviations neither cause nor contribute to conditions that would affect adversely aircraft operational capabilities. When deviations in performance occur as a consequence of the system's or equipment's exposure to the HIRF environment or equipment HIRF test level, an assessment of the acceptability of the performance should be made. This assessment should be supported by data and analyses. 
+
+ Because aircraft control system failures and malfunctions could contribute more directly and abruptly to the continued safe flight and landing of an aircraft than display system failures and malfunctions, compliance with the proposed rule for systems performing display functions would not require aircraft level testing. Therefore, systems performing display functions could demonstrate compliance with the appropriate HIRF certification requirements in a laboratory using generic HIRF attenuation curves for that aircraft developed during previous HIRF aircraft level testing. The compliance should address instructions for continued airworthiness of the HIRF protection features. 
+
+Paperwork Reduction Act 
+
+ In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)), the FAA has determined that there are no requirements for information collection associated with this proposed rule. 
+
+International Compatibility 
+
+ In keeping with U.S. obligations under the Convention on International Civil Aviation, it is FAA policy to comply with International Civil Aviation Organization (ICAO) Standards and Recommended Practices to the maximum extent practicable. The FAA determined that there are no ICAO Standards and Recommended Practices that correspond to these proposed regulations. 
+
+Economic Evaluation, Regulatory Flexibility Determination, International Trade Impact Assessment, and Unfunded Mandate Assessment 
+
+ Changes to Federal regulations must undergo several economic analyses. First, Executive Order 12866 directs that each Federal agency shall propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs. Second, the Regulatory Flexibility Act of 1980 requires agencies to analyze the economic impact of regulatory changes on small entities. Third, the Trade Agreements Act of 1979 (19 U.S.C. 2531-2533) prohibits agencies from setting standards that create unnecessary obstacles to the foreign commerce of the United States. In developing U.S. standards, this Trade Act requires agencies to consider international standards and, where appropriate, to be the basis of U.S. standards. Fourth, the Unfunded Mandates Reform Act of 1995 (Pub. L. 104-4) requires agencies to prepare a written assessment of the costs, benefits, and other effects of proposed or final rules that include a Federal mandate likely to result in the expenditure by State, local, or tribal governments, in the aggregate, or by the private sector, of $100 million or more annually (adjusted for inflation). This portion of the preamble summarizes the FAA's analysis of the economic impacts of this NPRM. We suggest readers seeking greater detail read the full regulatory evaluation, a copy of which we have placed in the docket for this rulemaking. 
+
+ In conducting these analyses, FAA has determined that this proposal: (1) Has benefits that justify its costs; (2) is not an economically ``significant regulatory action'' as defined in section 3(f) of Executive Order 12866; (3) is not ``significant'' as defined in DOT's Regulatory Policies and Procedures; (4) would not have a significant economic impact on a substantial number of small entities; (5) is consistent with the Trade Agreements Act of 1979 in that it appropriately adopts international standards as the basis of U.S. standards; and (6) would not impose an unfunded mandate on state, local, or tribal governments, or on the private sector. 
+
+Who Is Affected By This Rulemaking 
+
+ Manufacturers of transport category airplanes incur no incremental costs; manufacturers of transport category rotorcraft and non-transport category aircraft incur varying costs. 
+
+ Occupants in affected aircraft receive safety benefits. 
+
+Assumptions and Standard Values 
+
+ Discount rate: 7%. 
+
+ Period of analysis: Costs--based on a 10-year production period. Benefits--based on 25-year operating lives of newly- certificated aircraft. 
+
+ Value of statistical fatality avoided: $3 million. 
+
+ Benefits/costs are evaluated from two perspectives: (1) The ``base case''--a comparison of the costs and associated benefits of current industry practice to those of the proposed rule, and (2) the ``regulatory case''--a comparison of the costs and associated benefits of complying with current U.S. special conditions to those of the proposed rule. Current industry practice for manufacturers of all airplanes certificated under part 25, for manufacturers of the majority of parts 23/29 aircraft, and for manufacturers of a sizeable minority of part 27 rotorcraft, is to comply with JAA's (now EASA's) HIRF interim standards (JAA's version of special conditions), which are equivalent to those of the NPRM. On the other hand, manufacturers of the remaining aircraft (some part 23 and part 29 aircraft and most part 27 rotorcraft) currently meet only U.S. special conditions, which are not as stringent as those set forth in the NPRM. These affected aircraft manufacturers would experience additional costs under the proposed rule.
+
+ 
+
+ The proposed rule is assumed to be 100 percent effective in preventing HIRF-related accidents. 
+
+Alternatives Considered 
+
+ Although earlier and current special condition levels of HIRF protection were considered, JAA's HIRF standards were selected for this NPRM because of both the proven high levels of protection demonstrated and the potential cost savings resulting from harmonization of FAA and JAA/EASA requirements. 
+
+Costs and Benefits of This Rulemaking 
+
+Costs 
+
+ Estimated Discounted Costs [$millions over a 10-year period]
+
+ Current practice to NPRM 
+
+ Special conditions to NPRM 
+
+ 
+
+Part 23 certificated airplanes 21.8 
+
+ 72.8 
+
+ 
+
+Part 25 certificated airplanes 0 
+
+ 308.1 
+
+ 
+
+Part 27 certificated rotorcraft 1.5 
+
+ 2.0 
+
+ 
+
+Part 29 certificated rotorcraft 5.3 
+
+ 26.6 
+
+ 
+
+Total estimated costs $28.6 
+
+ $409.5 
+
+ 
+
+ In the first column (or, the base case, which reflects actual costs to industry), there are no additional HIRF-protection costs for manufacturers of part 25 airplanes and relatively low incremental costs for manufacturers of the majority of parts 23 and 29 aircraft, since U.S. manufacturers of these compliant aircraft currently meet JAA's/ EASA's HIRF standards in order to market their aircraft in Europe. There are moderate incremental costs for manufacturers of the remaining portion of parts 23/29 aircraft and relatively lower costs for the majority of part 27 rotorcraft that do not currently meet JAA's/EASA's HIRF standards (equivalent to the requirements in this proposal) either because (1) their aircraft do not yet have complex electronic systems installed or (2) they have chosen not to market their aircraft abroad. This ``current practice to proposed rule'' is the base perspective in this analysis. The total estimated ten-year costs of $28.6 million (the sum of column one) represent the true incremental impact on the industry. 
+
+ However, most manufacturers of parts 23, 25, 27, and 29 aircraft believe that U.S. special conditions afford sufficient protection from HIRF. Therefore, in the second column (or, the regulatory case, ``special conditions to NPRM''), the FAA shows the incremental compliance costs between the current U.S. special condition levels (essentially equivalent to industry's self-determined protection) and the NPRM's more stringent requirements. These regulatory costs equal $409.5 million, and represent the costs for more robust HIRF protection that industry would not have voluntarily incurred. 
+
+Benefits 
+
+ Estimated benefits of this proposal are the accidents, incidents, and fatalities avoided as a result of increased protection from HIRF- effects provided to electric and electronic systems. Quantified benefits are partly based on a study titled ``High-Intensity Radiated Fields (HIRF) Risk Analysis,'' by EMA Electro Magnetic Applications, Inc. of Denver, Co. (report DOT/FAA/AR-99/50, July 1999); the complete study is available in the docket for this rulemaking. Using the study's risk analysis results for airplanes certificated under parts 23 and 25 and FAA accident/incident data for rotorcraft certificated under parts 27 and 29, the FAA calculated the difference between the expected number of accidents under the proposed standards versus those that could be expected if current U.S. special condition levels were maintained in the future in lieu of the proposed standards. 
+
+ Estimated Discounted Benefits [$millions over a 34-year period] 
+
+ Current practice to NPRM 
+
+ Special conditions to NPRM 
+
+Part 23 certificated airplanes 37.1 
+
+ 123.5 
+
+ 
+
+Part 25 certificated airplanes 0 
+
+ 3,683.9 
+
+ 
+
+Part 27 certificated rotorcraft 33.3 
+
+ 44.4 
+
+ 
+
+Part 29 certificated rotorcraft 17.7 
+
+ 88.6 
+
+ 
+
+Total estimated benefits $88.1 
+
+ $3,940.4 
+
+ 
+
+ Following FAA's rationale as stated in the cost section earlier, column one (the base case) in the benefits table above shows incremental benefits of $88.1 million resulting from averted accidents in future compliant parts 23/27/29 aircraft; part 25 airplanes already meet similar JAA standards, hence no additional benefits attributable to part 25 airplanes accrue to society. Column two in the table presents the regulatory case; it shows the additional benefits associated with going from industry's self-determined protection standards (or current special conditions) to the NPRM's HIRF standards. Total regulatory incremental benefits equal $3,940.4 million and represent the value of avoiding the following numbers of accidents over the 34-year analysis period: (1) Part 23 airplanes, 24 accidents; (2) part 25 airplanes, 22 accidents; (3) part 27 rotorcraft, 41 accidents, and (4) part 29 rotorcraft, 14 accidents. The FAA believes that, based on the aforementioned risk assessment (by EMA Electro Magnetic Applications, Inc.), this would be the potential result absent the proposed standards if all airplanes certificated under part 25, the majority of aircraft certificated under parts 23 and 29, and a sizeable minority of part 27 rotorcraft, currently or in the future did not meet the JAA/EASA HIRF requirements (i.e., equivalent to those in the NPRM). 
+
+Summary of Costs and Benefits 
+
+ The incremental costs of meeting the NPRM requirements versus current industry practice equal $28.6 million and the associated benefits are $88.1 million, for a benefit-to-cost ratio of 3.1 to 1. Alternatively, the incremental costs of meeting the NPRM requirements versus current U.S. special conditions equal $409.5 million and the benefits are $3,940.4 million, for a benefit-to-cost ratio of 9.6 to 1. From either perspective, the proposed rule is clearly cost-beneficial. 
+
+Regulatory Flexibility Determination 
+
+ The Regulatory Flexibility Act of 1980 (RFA) establishes ``as a principle of regulatory issuance that agencies shall endeavor, consistent with the objective of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the business, organizations, and governmental jurisdictions subject to regulation.'' To achieve that principle, the Act requires agencies to solicit and consider flexible regulatory proposals and to explain the rationale for their actions. The Act covers a wide-range of small entities, including small businesses, not-for-profit organizations and small governmental jurisdictions. 
+
+ Agencies must perform a review to determine whether a rulemaking action will have a significant economic impact on a substantial number of small entities. If an agency determines that it will, the agency must prepare a regulatory flexibility analysis as described in the Act. However, if an agency determines that a proposed or final rule is not expected to have a significant economic impact on a substantial number of small entities, section 605(b) of the 1980 act provides that the head of the agency may so certify and a regulatory flexibility analysis is not required. The certification must include a statement providing the factual basis for this determination, and the reasoning should be clear. 
+
+ The proposed rule would affect manufacturers of parts 23, 25, 27, and 29 aircraft produced under future new type-certificates. For manufacturers, a small entity is one with 1,500 or fewer employees. None of the part 25 or part 29 manufacturers has 1,500 or fewer employees; consequently, none is considered a small entity. There are, however, currently about four part 27 (utility rotorcraft) and ten part 23 (small non-transport category airplanes) manufacturers, who have fewer than 1,500 employees and are considered small entities. 
+
+ With respect to the part 27 entities, the incremental costs of this NPRM are estimated at $875 per new-production rotorcraft. Part 27 rotorcraft at the small end generally sell for about $200,000; thus the incremental cost would represent only a fraction of one percent of each unit's sales price and clearly less than one percent of the typical small manufacturer's annual revenues. Consequently, the FAA does not consider the incremental cost to constitute a significant economic impact. Further, most utility rotorcraft are engaged in specialized activities such as logging, offshore oil drilling, construction, etc., the demand for which is highly price-inelastic; the manufacturers can readily pass on the relatively low incremental costs to purchasers of these highly- specialized rotorcraft. 
+
+ The FAA contacted the ten part 23 small airframe manufacturers actively producing airplanes. The majority of these manufacture piston- engine airplanes, most of which do not include sophisticated electrical systems. Six of the ten companies are in the initial stages of developing new airplane models that will include full-authority- digital-engine-controls (FADEC). About one-half of these, however, could not yet estimate new development costs. One manufacturer, sufficiently into the pre-certification process, did provide estimates of incremental costs related to the FADECs (costs were based on data received from the engine supplier). Additional non-recurring design/ testing costs for engines in the new model would total $170,000 (recurring costs were not specified and thus assumed not significant). Annualizing the cost at 7% over a 10-year production period equals $24,200. The company expects to produce 100 airplanes annually, each selling for $130,000; expected annual sales revenue therefore equals $13,000,000. Thus, the $24,200 total annual incremental cost attributable to HIRF represents less than two-tenths of one percent of annual sales ($24,200/$13,000,000), which the FAA believes does not constitute a significant economic impact. 
+
+ Two other small airframe manufacturers were contacted for similar cost data. When the FAA determined that the engine supplier in both cases was the same company referred to in the previous paragraph, that supplier was queried in order to save time. The incremental costs associated with HIRF-testing were similar, but less, than those estimated in the first case described, i.e., ranging from $120,000 to $140,000 per type certification. Annualizing the upper-end estimate of $140,000 at 7% over a 10-year production run equates to about $20,000. At a selling price of $130,000 per airplane (see first example above) and sales of 100 units annually, the $20,000 total annual incremental cost attributable to HIRF is between one-tenth/two-tenths of one percent of annual sales ($20,000/$13,000,000), which does not constitute a significant economic impact. 
+
+ Based on there being no small manufacturers of part 25 or part 29 aircraft, and based on the described expense/revenue relationships for the part 23 and part 27 small manufacturers, the FAA certifies that this proposed rule would not have a significant economic impact on a substantial number of small entities. The FAA invites comments on the estimated small entity impact from interested and affected parties. 
+
+International Trade Impact Assessment 
+
+ The Trade Agreements Act of 1979 prohibits Federal agencies from engaging in any standards or related activities that create unnecessary obstacles to the foreign commerce of the United States. Legitimate domestic objectives, such as safety, are not considered unnecessary obstacles. The statute also requires consideration of international standards and where appropriate, that they be the basis for U.S. standards. 
+
+ In accordance with the above statute, the FAA has assessed the potential effect of this proposed rule for aircraft produced under the affected parts. This rulemaking is consistent with the Trade Agreements Act in that it adopts international standards as the basis of U.S. standards. 
+
+Unfunded Mandates Reform Act 
+
+ The Unfunded Mandates Reform Act of 1995 (the Act) is intended, among other things, to curb the practice of imposing unfunded Federal mandates on State, local, and tribal governments. Title II of the Act requires each Federal agency to prepare a written statement assessing the effects of any Federal mandate in a proposed or final agency rule that may result in an expenditure of $100 million or more (adjusted annually for inflation) in any one year by State, local, and tribal governments, in the aggregate, or by the private sector; such a mandate is deemed to be a ``significant regulatory action.'' The FAA currently uses an inflation-adjusted value of $120.7 million in lieu of $100 million. This proposed rule does not contain such a mandate. The requirements of Title II do not apply. 
+
+Environmental Analysis 
+
+ FAA Order 1050.1E identifies FAA actions that are categorically excluded from preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act in the absence of extraordinary circumstances. The FAA has determined this proposed rulemaking action qualifies for the categorical exclusion identified in paragraph 308(c)(1) and involves no extraordinary circumstances. 
+
+Executive Order 13132, Federalism 
+
+ The FAA has analyzed this NPRM under the principles and criteria of Executive Order 13132, Federalism. We have determined that this action would not have a substantial direct affect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government, and therefore would not have federalism implications. 
+
+Plain English 
+
+ Executive Order 12866 (58 FR 51735, Oct. 4, 1993) requires each agency to write regulations that are simple and easy to understand. We invite your comments on how to make these proposed regulations easier to understand, including answers to questions such as the following: 
+
+ Are the requirements in the proposed regulations clearly stated? 
+
+ Do the proposed regulations contain unnecessary technical language or jargon that interferes with their clarity? 
+
+ Would the regulations be easier to understand if they were divided into more (but shorter) sections? 
+
+ Is the description in the preamble helpful in understanding the proposed regulations? 
+
+ Please send your comments to the address specified in the ADDRESSES section. 
+
+Regulations That Significantly Affect Energy Supply, Distribution, or Use 
+
+ The FAA has analyzed this NPRM under Executive Order 13211, Actions Concerning Regulations that Significantly Affect Energy Supply, Distribution, or Use (May 18, 2001). We have determined that it is not a ``significant energy action'' under the executive order because it is not a ``significant regulatory action'' under Executive Order 12866, and it is not likely to have a significant adverse effect on the supply, distribution, or use of energy. 
+
+List of Subjects 
+
+14 CFR Part 23 
+
+ Air transportation, Aircraft, Aviation safety, Certification, Safety. 
+
+14 CFR Part 25 
+
+ Air transportation, Aircraft, Aviation safety, Certification, Safety. 
+
+14 CFR Part 27 
+
+ Air transportation, Aircraft, Aviation safety, Certification, Rotorcraft, Safety. 
+
+14 CFR Part 29 
+
+ Air transportation, Aircraft, Aviation safety, Certification, Rotorcraft, Safety. 
+
+
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment 
+
+ In consideration of the foregoing, the Federal Aviation Administration proposes to amend parts 23, 25, 27, and 29 of Title 14, Code of Federal Regulations (14 CFR) as follows: 
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES 
+
+ 1. The authority citation for part 23 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704. 
+
+ 2. Add Sec. 23.1308 to subpart F to read as follows: 
+
+Sec. 23.1308 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the airplane must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the airplane is exposed to HIRF environment I, as described in appendix J to this part; 
+
+ (2) The system automatically recovers normal operation, in a timely manner, after the airplane is exposed to HIRF environment I, as described in appendix J to this part, unless the system's recovery conflicts with other operational or functional requirements of the system; and 
+
+ (3) The system is not adversely affected during and after the time the airplane is exposed to HIRF environment II, as described in appendix J to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing the function is exposed to equipment HIRF test level 1, 2, or 3, as described in appendix J to this part. 
+
+ (c) Each electrical and electronic system that performs a function whose failure would reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing the function is exposed to equipment HIRF test level 4, as described in appendix J to this part. 
+
+ 3. Add appendix J to part 23 to read as follows: 
+
+Appendix J to Part 23--HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 23.1308. The field strength values for the HIRF environments and equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–2 MHz .......... 50 
+
+ 50 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 50 
+
+ 50 
+
+ 
+
+100 MHz–400 MHz ... 100 
+
+ 100 
+
+ 
+
+400 MHz–700 MHz ... 700 
+
+ 50 
+
+ 
+
+700 MHz–1 GHz ....... 700 
+
+ 100 
+
+ 
+
+1 GHz–2 GHz ........... 2,000 
+
+ 200 
+
+ 
+
+2 GHz–6 GHz ........... 3,000 
+
+ 200 
+
+ 
+
+6 GHz–8 GHz ........... 1,000 
+
+ 200 
+
+ 
+
+8 GHz–12 GHz ......... 3,000 
+
+ 300 
+
+ 
+
+12 GHz–18 GHz ....... 2,000 
+
+ 200 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 200 
+
+ 
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.--HIRF Environment II
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–500 kHz ....... 20 
+
+ 20 
+
+ 
+
+500 kHz–2 MHz ........ 30 
+
+ 30 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 10 
+
+ 10 
+
+ 
+
+100 MHz–200 MHz ... 30 
+
+ 10 
+
+ 
+
+200 MHz–400 MHz ... 10 
+
+ 10 
+
+ 
+
+400 MHz–1 GHz ....... 700 
+
+ 40 
+
+ 
+
+1 GHz–2 GHz ........... 1,300 
+
+ 160 
+
+ 
+
+2 GHz–4 GHz ........... 3,000 
+
+ 120 
+
+ 
+
+4 GHz–6 GHz ........... 3,000 
+
+ 160 
+
+ 
+
+6 GHz–8 GHz ........... 400 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 1,230 
+
+ 230 
+
+ 
+
+12 GHz–18 GHz ....... 730 
+
+ 190 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 150 
+
+ 
+
+ (c) Equipment HIRF Test Level 1. (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibels (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak, with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 0.1 percent duty cycle with 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (5) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 28 V/m peak with 1 kHz square wave modulation with 90 percent depth or greater. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (d) Equipment HIRF Test Level 2. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests with CW and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 V/m peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (e) Equipment HIRF Test Level 3. Test level 3 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (f) Equipment HIRF Test Level 4. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting 
+
+at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m. 
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES 
+
+ 4. The authority citation for part 25 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704. 
+
+ 5. Add Sec. 25.1317 to subpart F to read as follows: 
+
+Sec. 25.1317 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the airplane must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the airplane is exposed to HIRF environment I, as described in appendix K to this part; 
+
+ (2) The system automatically recovers normal operation, in a timely manner, after the airplane is exposed to HIRF environment I, as described in appendix K to this part, unless the system's recovery conflicts with other operational or functional requirements of the system; and 
+
+ (3) The system is not adversely affected during and after the time the airplane is exposed to HIRF environment II, as described in appendix K to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 1, 2, or 3, as described in appendix K to this part. 
+
+ (c) Each electrical and electronic system that performs a function whose failure would reduce the capability of the airplane or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing the function is exposed to equipment HIRF test level 4, as described in appendix K to this part. 
+
+ 6. Add appendix K to part 25 to read as follows: 
+
+Appendix K to Part 25--HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 25.1317. The field strength values for the HIRF environments and equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I 
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–2 MHz .......... 50 
+
+ 50 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 50 
+
+ 50 
+
+ 
+
+100 MHz–400 MHz ... 100 
+
+ 100 
+
+ 
+
+400 MHz–700 MHz ... 700 
+
+ 50 
+
+ 
+
+700 MHz–1 GHz ....... 700 
+
+ 100 
+
+ 
+
+1 GHz–2 GHz ........... 2,000 
+
+ 200 
+
+ 
+
+2 GHz–6 GHz ........... 3,000 
+
+ 200 
+
+ 
+
+6 GHz–8 GHz ........... 1,000 
+
+ 200 
+
+ 
+
+8 GHz–12 GHz ......... 3,000 
+
+ 300 
+
+ 
+
+12 GHz–18 GHz ....... 2,000 
+
+ 200 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 200 
+
+ 
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.--HIRF Environment II 
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–500 kHz ....... 20 
+
+ 20 
+
+ 
+
+500 kHz–2 MHz ........ 30 
+
+ 30 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 10 
+
+ 10 
+
+ 
+
+100 MHz–200 MHz ... 30 
+
+ 10 
+
+ 
+
+200 MHz–400 MHz ... 10 
+
+ 10 
+
+ 
+
+400 MHz–1 GHz ....... 700 
+
+ 40 
+
+ 
+
+1 GHz–2 GHz ........... 1,300 
+
+ 160 
+
+ 
+
+2 GHz–4 GHz ........... 3,000 
+
+ 120 
+
+ 
+
+4 GHz–6 GHz ........... 3,000 
+
+ 160 
+
+ 
+
+6 GHz–8 GHz ........... 400 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 1,230 
+
+ 230 
+
+ 
+
+12 GHz–18 GHz ....... 730 
+
+ 190 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 150 
+
+ 
+
+ (c) Equipment HIRF Test Level 1. (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibels (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 0.1 percent duty cycle with 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (5) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 28 V/m peak with 1 kHz square wave modulation with 90 percent depth or greater. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (d) Equipment HIRF Test Level 2. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests with CW and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 V/m peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (e) Equipment HIRF Test Level 3. Test level 3 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (f) Equipment HIRF Test Level 4. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m. 
+
+PART 27--AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT 
+
+ 7. The authority citation for part 27 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704. 
+
+ 8. Add Sec. 27.1317 to subpart F to read as follows: 
+
+Sec. 27.1317 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the rotorcraft must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment I, as described in appendix D to this part; 
+
+ (2) The system automatically recovers normal operation, in a timely manner, after the rotorcraft is exposed to HIRF environment I, as described in appendix D to this part, unless this conflicts with other operational or functional requirements of that system; 
+
+ (3) The system is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment II, as described in appendix D to this part; and 
+
+ (4) Each function required during operation under visual flight rules is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment III, as described in appendix D to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 1, 2, or 3, as described in appendix D to this part. 
+
+ (c) Each electrical and electronic system that performs a function whose failure would reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition, must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 4, as described in appendix D to this part. 
+
+ 9. Add appendix D to part 27 to read as follows: 
+
+Appendix D to Part 27--HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 27.1317. The field strength values for the HIRF environments and laboratory equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–2 MHz .......... 50 
+
+ 50 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 50 
+
+ 50 
+
+ 
+
+100 MHz–400 MHz ... 100 
+
+ 100 
+
+ 
+
+400 MHz–700 MHz ... 700 
+
+ 50 
+
+ 
+
+700 MHz–1 GHz ....... 700 
+
+ 100 
+
+ 
+
+1 GHz–2 GHz ........... 2,000 
+
+ 200 
+
+ 
+
+2 GHz–6 GHz ........... 3,000 
+
+ 200 
+
+ 
+
+6 GHz–8 GHz ........... 1,000 
+
+ 200 
+
+ 
+
+8 GHz–12 GHz ......... 3,000 
+
+ 300 
+
+ 
+
+12 GHz–18 GHz ....... 2,000 
+
+ 200 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 200 
+
+ 
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.--HIRF Environment II 
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–500 kHz ....... 20 
+
+ 20 
+
+ 
+
+500 kHz–2 MHz ........ 30 
+
+ 30 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 10 
+
+ 10 
+
+ 
+
+100 MHz–200 MHz ... 30 
+
+ 10 
+
+ 
+
+200 MHz–400 MHz ... 10 
+
+ 10 
+
+ 
+
+400 MHz–1 GHz ....... 700 
+
+ 40 
+
+ 
+
+1 GHz–2 GHz ........... 1,300 
+
+ 160 
+
+ 
+
+2 GHz–4 GHz ........... 3,000 
+
+ 120 
+
+ 
+
+4 GHz–6 GHz ........... 3,000 
+
+ 160 
+
+ 
+
+6 GHz–8 GHz ........... 400 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 1,230 
+
+ 230 
+
+ 
+
+12 GHz–18 GHz ....... 730 
+
+ 190 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 150 
+
+ 
+
+ (c) HIRF environment III is specified in the following table: 
+
+ Table III.--HIRF Environment III 
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–100 kHz ....... 150 150 
+
+100 kHz–400 MHz .... 200 200 
+
+400 MHz–700 MHz ... 730 200 
+
+700 MHz–1 GHz ....... 1,400 240 
+
+1 GHz–2 GHz ........... 5,000 250 
+
+2 GHz–4 GHz ........... 6,000 490 
+
+4 GHz–6 GHz ........... 7,200 400 
+
+6 GHz–8 GHz ........... 1,100 170 
+
+8 GHz–12 GHz ......... 5,000 330 
+
+12 GHz–18 GHz ....... 2,000 330 
+
+18 GHz–40 GHz ....... 1,000 420 
+
+ (d) Equipment HIRF Test Level 1. (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibels (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 0.1 percent duty cycle with 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (5) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 28 V/m peak with 1 kHz square wave modulation with 90 percent depth or greater. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (e) Equipment HIRF Test Level 2. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests with CW and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 V/m peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (f) Equipment HIRF Test Level 3. Test level 3 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (g) Equipment HIRF Test Level 4. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m. 
+
+PART 29--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT 
+
+ 10. The authority citation for part 29 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704. 
+
+ 11. Add Sec. 29.1317 to subpart F to read as follows: 
+
+Sec. 29.1317 High-intensity Radiated Fields (HIRF) Protection. 
+
+ (a) Each electrical and electronic system that performs a function whose failure would prevent the continued safe flight and landing of the rotorcraft must be designed and installed so that-- 
+
+ (1) The function is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment I, as described in appendix E to this part; 
+
+ (2) The system automatically recovers normal operation, in a timely manner, after the rotorcraft is exposed to HIRF environment I, as described in appendix E to this part, unless this conflicts with other operational or functional requirements of that system; 
+
+ (3) The system is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment II, as described in appendix E to this part; and 
+
+ (4) Each function required during operation under visual flight rules is not adversely affected during and after the time the rotorcraft is exposed to HIRF environment III, as described in appendix E to this part. 
+
+ (b) Each electrical and electronic system that performs a function whose failure would significantly reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 1, 2, or 3, as described in appendix E to this part. 
+
+ (c) Each electrical and electronic system that performs such a function whose failure would reduce the capability of the rotorcraft or the ability of the flightcrew to respond to an adverse operating condition must be designed and installed so the system is not adversely affected when the equipment providing these functions is exposed to equipment HIRF test level 4, as described in appendix E to this part. 
+
+ 12. Add appendix E to part 29 to read as follows: 
+
+Appendix E to Part 29--HIRF Environments and Equipment HIRF Test Levels 
+
+ This appendix specifies the HIRF environments and equipment HIRF test levels for electrical and electronic systems under Sec. 29.1317. The field strength values for the HIRF environments and laboratory equipment HIRF test levels are expressed in root-mean-square units measured during the peak of the modulation cycle. 
+
+ (a) HIRF environment I is specified in the following table: 
+
+ Table I.--HIRF Environment I 
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–2 MHz .......... 50 
+
+ 50 
+
+ 
+
+2 MHz–30 MHz ......... 100 
+
+ 100 
+
+ 
+
+30 MHz–100 MHz ..... 50 
+
+ 50 
+
+ 
+
+100 MHz–400 MHz ... 100 
+
+ 100 
+
+ 
+
+400 MHz–700 MHz ... 700 
+
+ 50 
+
+ 
+
+700 MHz–1 GHz ....... 700 
+
+ 100 
+
+ 
+
+1 GHz–2 GHz ........... 2,000 
+
+ 200 
+
+ 
+
+2 GHz–6 GHz ........... 3,000 
+
+ 200 
+
+ 
+
+6 GHz–8 GHz ........... 1,000 
+
+ 200 
+
+ 
+
+8 GHz–12 GHz ......... 3,000 
+
+ 300 
+
+ 
+
+12 GHz–18 GHz ....... 2,000 
+
+ 200 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 200 
+
+ 
+
+ (b) HIRF environment II is specified in the following table: 
+
+ Table II.--HIRF Environment II 
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–500 kHz ....... 20 
+
+ 20 
+
+ 
+
+500 kHz–2 MHz ........ 30 
+
+ 30 
+
+ 
+
+2 MHz–30 MHz ......... 100
+
+ 100
+
+ 
+
+30 MHz–100 MHz ..... 10 
+
+ 10 
+
+ 
+
+100 MHz–200 MHz ... 30 
+
+ 10 
+
+ 
+
+200 MHz–400 MHz ... 10 
+
+ 10 
+
+ 
+
+400 MHz–1 GHz ....... 700 
+
+ 40 
+
+ 
+
+1 GHz–2 GHz ........... 1,300 
+
+ 160 
+
+ 
+
+2 GHz–4 GHz ........... 3,000 
+
+ 120 
+
+ 
+
+4 GHz–6 GHz ........... 3,000 
+
+ 160 
+
+ 
+
+6 GHz–8 GHz ........... 400 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 1,230 
+
+ 230 
+
+ 
+
+12 GHz–18 GHz ....... 730 
+
+ 190 
+
+ 
+
+18 GHz–40 GHz ....... 600 
+
+ 150 
+
+ 
+
+ (c) HIRF environment III is specified in the following table: 
+
+ Table III.-- HIRF Environment III 
+
+Frequency (cycles/second)
+
+ Field strength (volts/meter)
+
+ 
+
+Peak
+
+ Average
+
+ 
+
+10 kHz–100 kHz ....... 150 
+
+ 150 
+
+ 
+
+100 kHz–400 MHz .... 200 
+
+ 200 
+
+ 
+
+400 MHz–700 MHz ... 730 
+
+ 200 
+
+ 
+
+700 MHz–1 GHz ....... 1,400 
+
+ 240 
+
+ 
+
+1 GHz–2 GHz ........... 5,000 
+
+ 250 
+
+ 
+
+2 GHz–4 GHz ........... 6,000 
+
+ 490 
+
+ 
+
+4 GHz–6 GHz ........... 7,200 
+
+ 400 
+
+ 
+
+6 GHz–8 GHz ........... 1,100 
+
+ 170 
+
+ 
+
+8 GHz–12 GHz ......... 5,000 
+
+ 330 
+
+ 
+
+12 GHz–18 GHz ....... 2,000 
+
+ 330 
+
+ 
+
+18 GHz–40 GHz ....... 1,000 
+
+ 420 
+
+ 
+
+ (d) Equipment HIRF Test Level 1. (1) From 10 kilohertz (kHz) to 400 megahertz (MHz), use conducted susceptibility tests with continuous wave (CW) and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 milliamperes (mA) at 10 kHz, increasing 20 decibels (dB) per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 volts per meter (V/m) peak, with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 gigahertz (GHz), use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 0.1 percent duty cycle with 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (5) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 28 V/m peak with 1 kHz square wave modulation with 90 percent depth or greater. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (e) Equipment HIRF Test Level 2. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests with CW and 1 kHz square wave modulation with 90 percent depth or greater. The conducted susceptibility current must start at a minimum of 0.6 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 30 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, the conducted susceptibility current must be at least 30 mA. 
+
+ (3) From 100 MHz to 400 MHz, use radiated susceptibility tests at a minimum of 20 V/m peak with CW and 1 kHz square wave modulation with 90 percent depth or greater. 
+
+ (4) From 400 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 150 V/m peak with pulse modulation of 4 percent duty cycle with a 1 kHz pulse repetition frequency. This signal must be switched on and off at a rate of 1 Hz with a duty cycle of 50 percent. 
+
+ (f) Equipment HIRF Test Level 3. Test level 3 is HIRF environment II in table II of this appendix reduced by acceptable aircraft transfer function and attenuation curves. Testing must cover the frequency band of 10 kHz to 8 GHz. 
+
+ (g) Equipment HIRF Test Level 4. (1) From 10 kHz to 400 MHz, use conducted susceptibility tests, starting at a minimum of 0.15 mA at 10 kHz, increasing 20 dB per frequency decade to a minimum of 7.5 mA at 500 kHz. 
+
+ (2) From 500 kHz to 400 MHz, use conducted susceptibility tests at a minimum of 7.5 mA. 
+
+ (3) From 100 MHz to 8 GHz, use radiated susceptibility tests at a minimum of 5 V/m. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on January 25, 2006.
+
+Dorenda D. Baker,
+
+Acting Director, Aircraft Certification Service.
+
+[FR Doc. 06-895 Filed 1-31-06; 8:45 am]
+
+BILLING CODE 4910-13-P
+
+
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

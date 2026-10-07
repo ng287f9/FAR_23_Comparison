@@ -1,0 +1,94 @@
+[Federal Register Volume 73, Number 71 (Friday, April 11, 2008)]
+[Rules and Regulations]
+[Page 19746]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E8-7649]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 23
+
+Damage Tolerance and Fatigue Evaluation of Structure
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; technical amendment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This action corrects a paragraph reference that appeared in
+the final rule, Airworthiness Standards; Airframe Rules Based on
+European Joint Aviation Requirements, which the FAA published in the
+Federal Register on February 9, 1996. In that final rule, the FAA
+inadvertently changed a paragraph reference. The intent of this action
+is to correct the error in the regulation to ensure the requirement is
+clear and accurate.
+
+DATES: Effective Date: April 11, 2008.
+
+FOR FURTHER INFORMATION CONTACT: Pat Mullen, Regulations and Policy,
+ACE-111, Federal Aviation Administration, 901 Locust Street, Kansas
+City, MO 64106; telephone (816) 329-4111; e-mail [email protected].
+
+SUPPLEMENTARY INFORMATION: On February 9, 1996, the FAA published in
+the Federal Register (61 FR 5147) a final rule that amended Sec.
+23.573(b) by removing the reference ``Sec.  23.571(c)'' and adding the
+reference ``Sec.  23.571(a)(3)'' in its place. Paragraph (a)(3) of
+Sec.  23.571 does not exist, and the reference to Sec.  23.571(c)
+should have remained. This document corrects Sec.  23.573(b) to reflect
+the correct paragraph reference, Sec.  23.571(c). This correction will
+not impose any additional requirements.
+
+Technical Amendment
+
+    This technical amendment will correct Sec.  23.573(b) to properly
+reference Sec.  23.571(c).
+
+Justification for Immediate Adoption
+
+    Because this action corrects an incorrect paragraph reference, the
+FAA finds that notice and public comment under 5 U.S.C. 553(b) is
+unnecessary. For the same reason, the FAA finds that good cause exists
+under 5 U.S.C. 553(d) for making this rule effective upon publication.
+
+List of Subjects in 14 CFR Part 23
+
+    Aircraft, Aviation safety, Signs and symbols.
+
+The Amendment
+
+0
+Accordingly, Title 14 of the Code of Federal Regulations (CFR) part 23
+is amended as follows:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND
+COMMUTER CATEGORY AIRPLANES
+
+0
+1. The authority citation for part 23 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40013, 44701, 44702, 44704.
+
+0
+2. Amend Sec.  23.573 by revising the first sentence in paragraph (b)
+introductory text to read as follows:
+
+Sec.  23.573  Damage tolerance and fatigue evaluation of structure.
+
+* * * * *
+    (b) Metallic airframe structure. If the applicant elects to use
+Sec.  23.571(c) or Sec.  23.572(a)(3), then the damage tolerance
+evaluation must include a determination of the probable locations and
+modes of damage due to fatigue, corrosion, or accidental damage. * * *
+* * * * *
+
+    Issued in Washington, DC, on April 7, 2008.
+Pamela Hamilton-Powell,
+Director, Office of Rulemaking.
+[FR Doc. E8-7649 Filed 4-10-08; 8:45 am]
+BILLING CODE 4910-13-P

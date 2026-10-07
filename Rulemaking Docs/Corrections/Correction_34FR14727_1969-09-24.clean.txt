@@ -1,0 +1,430 @@
+[[Federal Register Vol. 34, p.14727 — 1969-09-24]]
+(来源：govinfo FR-1969-09-24 整期影印 PDF 第 9 页，OCR 文字层 + 分栏重排)
+(整期共 40 页，本更正件还在次页时一并纳入)
+
+[[PDF page 9]]
+Rules
+Title 8— ALIENS AND
+NATIONALITY
+Chapter I— Immigration and Natural­
+ization Service, Department of
+Justice
+PART 235— INSPECTION OF PER­
+SONS APPLYING FOR ADMISSION
+PART 299— IMMIGRATION FORMS
+Presentation for Further Inspection
+The following amendments to Chapter
+I of Title 8 of the Code of Federal Regula­
+tions are hereby prescribed:
+1. Paragraph (b) of § 235.3 is amended
+to read as follows:
+§ 235.3 Detention.
+* * * ♦ *
+(b) Detention after'inspection. If in
+the opinion of the examining immigra­
+tion officer it is not practical to resolve
+a question of admissibility at the time of
+arrival of a passenger on a vessel or air­
+craft, the officer shall execute Form 1-259
+to notify the agent for the vessel or air­
+craft and the master or commanding
+officer, if available, that the passenger
+is to be presented for further inspection.
+The Form 1-259 shall list the name of
+each such passenger and shall contain
+instructions as to the date and place the
+passenger is to be presented for con­
+tinued inspection or further proceedings
+under the Act. If the place specified is a
+designated port of entry to which the
+transportation company has carried or
+has contracted to carry the passenger,
+the transportation company shall remain
+under the obligation, described- in the
+preceding paragraph, to prevent an un­
+authorized landing, unless the transpor­
+tation company has been relieved of such
+obligation by removal under section
+233(a) at the direction of the Service or
+unless the Service has paroled the alien
+under section 212(d) (5) of the Act with­
+out directing the carrier in writing to
+present the alien for further inspection.
+The term port of entry as used in this
+paragraph includes a Service district
+office or suboflfice within the city or town
+or in local commuting distance of the
+seaport or airport at which the passenger
+arrived or of the onward seaport or air­
+port specified by the examining immigra­
+tion officer as the place for completion
+of inspection.
+§ 299.1 [Amended]
+2. Section 299.1 Prescribed forms is
+amended by amending the reference to
+Form 1-259 to read as follows: “Form
+1-259 Notice to Detain, Deport, Remove
+or Present Aliens.”
+(Sec. 103, 66 Stat. 173; 8 U.S.C. 1103)
+No. 183----- 2 FEDERAL REGISTER,
+and Regulations
+This order shall be effective on the date
+of its publication in the Federal R eg­
+ister. Compliance with the provisions of
+section 553 of title 5 of the United States
+Code (80 Stat. 383), as to notice of pro­
+posed rule making and delayed effective
+date is unnecessary in this instance be­
+cause the rules prescribed by the order
+confer benefits upon persons affected
+thereby.
+Dated: September 19, 1969.
+Raymond F. F arrell,
+Commissioner of
+Immigration and Naturalization.
+[F.R. Doc. 69-11359; Filed, Sept. 23, 1969;
+8:45 a.m.]
+Title 14— AERONAUTICS AND
+SPACE
+in Chapter I— Federal Aviation Adminis­
+tration, Department of Transportation
+[Docket No. 8083; Amdt. 23-7]
+PART 23— AIRWORTHINESS STAND­
+ARDS: NORMAL, UTILITY, AND
+ACROBATIC CATEGORY AIRPLANES
+Small Airplane Type Certification
+Requirements
+Correction
+In F.R. Doc. 69-9417, appearing at page
+13078 of the issue for Wednesday, Au­
+gust 13, 1969, the following changes
+should be made on page 13097, item 112:
+1. The last sentence of the Note under
+Table 2 should read:
+For conditions I, H, HI, and V the multi­
+plying factor used must be the higher of
+j_V¿ r ; min. - J t or l_Vc r v c min. .e, J v
+2. The first two items under Figure A3
+should read:
+Vd m«n= 24.0Vni W but need not exceed
+~S
+Vc m«n= 17.0V™t W but need not exceed
+S
+0.9 Vh;
+[Docket No. 69-EA-lll; Amdt. 39-845]
+PART 39— AIRWORTHINESS
+DIRECTIVES
+Fairchild Hiller Aircraft
+The Federal Aviation Administration
+is amending § 39.13 of Part 39 of the
+Federal Aviation Regulations so as to
+issue an airworthiness directive requir­
+ing inspection and replacement where
+necessary of the flap operating system of
+VOL. 34, NO. 183— WEDNESDAY, SEPTEMBER
+14727
+the Fairchild Hiller F-27 and FH-227
+type airplanes.
+There have been reports of failures
+in the area of the joint pins and bolts
+of the universals at the ends of the wing
+flap connecting assembly. As a result,
+an airworthiness directive was adopted
+on September 3,1969, and made effective
+as to all known U.S. owners of F-27 and
+FH-227 airplanes.
+Since it was found that immediate cor­
+rective action was required, notice and
+public procedure thereon was imprac­
+ticable and contrary to the public inter­
+est and the airworthiness directive was
+made effective immediately. These con­
+ditions still exist and therefore notice
+and public procedure hereon are imprac­
+ticable and the airworthiness directive
+may be made effective in less than 30
+days.
+In consideration of the foregoing and
+pursuant to the authority delegated to
+me by the Administrator, 14 CFR 11.85
+(31 F.R. 13697), §39.13 of Part 39 of
+the Federal Aviation Regulations is
+amended by adding the following new
+Airworthiness Directive:
+Applies to Fairchild Hiller F-27 and FH-
+227 type airplanes certificated in all
+categories.
+To prevent malfunction of the flap operat­
+ing system accomplish the following within
+15 hours time in service after receipt of this
+telegram, unless already accomplished within
+the last 25 horns time in service, and there­
+after when the universal joint pins or bolts
+at either end of the subject connecting shaft
+assembly are removed:
+(a) Inspect the universal joint at each
+end of the wing flap connecting shaft as­
+sembly, P/N 27-727944-11, located between
+the flap motor gearbox at wing station 141
+left (installed in the wheel well of the left
+nacelle) and the gearbox at wing station 121
+left to assure some freedom of movement in
+all axes. If freedom of movement is not de­
+terminable, remove and replace deficient uni­
+versal joint pin or bolt before further flight
+except that a ferry flight may be permitted
+without the use of flaps in accordance with
+FAR 21.197.
+(b) Report the results of the findings in
+compliance with this AD to the Chief, Engi­
+neering and Manufacturing Branch, FAA
+Eastern Region (reporting approved by the
+Bureau of the Budget under BOB No.
+04—R0174).
+This amendment is effective Octo­
+ber 23, 1969, and was effective upon re­
+ceipt for all recipients of the telegram
+dated September 3, 1969, which con­
+tained this amendment.
+(Secs. 313(a), 601, 603, Federal Aviation Act
+of 1958 (49 U.S.C. 1354(a), 1421, 1423) ; sec.
+6(c), Department of Transportation Act (49
+U.S.C. 1655(c)))
+Issued in Jamaica, N.Y., on Septem­
+ber 15, 1969.
+George M. Gary,
+Director, Eastern Region.
+[F.R. Doc. 69-11363; Filed, Sept. 23, 1969;
+8:46 a.m.]
+24, 1969
+
+[[PDF page 10]]
+14728
+[Airspace Docket No. 69-EA-45]
+PART 71— d esig n a tio n o f fed er a l
+AIRWAYS, CONTROLLED AIRSPACE,
+AND REPORTING POINTS
+Alteration, Designation, and Revoca­
+tion of Federal Airway Segments
+and Revocation of Reporting Points
+On July 30, 1969, a notice of proposed
+rule making was published in the F ederal
+R egister (34F.R. 12451) stating that the
+Federal Aviation Administration was
+considering amendments to Part 71 of
+the Federal Aviation Regulations that
+would realign numerous VOR Federal
+airways in the vicinity of Pittsburgh, Pa.
+Interested persons were afforded an
+opportunity to participate in the pro­
+posed rule making through the submis­
+sion of comments. All comments received
+were favorable.
+In consideration of the foregoing,
+Part 71 of the Federal Aviation Regula­
+tions is amended, effective 0901 G.m.t.,
+December 11, 1969, as hereinafter set
+forth.
+1. Section 71.123 (34 F.R. 1011, 3655,
+4509, 5008, 5010, 6078, 6682, 7899, 9419,
+13363, 13793) is amended as follows:
+a. In V-8 all after “Briggs, Ohio;’’ is
+deleted and “Bellaire, Ohio; INT Bellaire
+108° and Grantsville, Md., 285° radials;
+Grantsville; Martinsburg, W. Va.; INT
+Herndon, Va., 048° and Washington,
+D.C., 324° radials; Washington, includ­
+ing a north alternate from Grantsville
+to INT Washington 324° and Herndon
+048° radials via Hagerstown, Md. The
+portion outside the United States has no
+upper limit.’’ is substituted therefor.
+b. In V-10 all after “Youngstown,
+Ohio, 320° radials;” is deleted and
+“Youngstown; INT Youngstown 116°
+and Clarion, Pa., 222° radials; Revloc,
+Pa. The airspace within Canada is ex­
+cluded.” is substituted therefor.
+c. In V-12 all between “Newcomers­
+town, Ohio;” and “Johnstown, Pa.” is
+deleted and “Bellaire, Ohio; INT Bellaire
+108° and Indian Head, Pa., 254° radials;
+Indian Head;” is substituted therefor.
+d. In V-30 all between “Akron, Ohio;”
+and “Philipsburg, Pa.” is deleted and
+“Clarion, Pa.;” is substituted therefor.
+e. In V-35 “Johnstown, Pa.;” is de­
+leted and “Johnstown, Pa., including
+a west alternate from Morgantown to
+Johnstown via INT Morgantown 010°
+and Johnstown 260° radials;” is substi­
+tuted therefor.
+f. In V-37 all between “Morgantown,
+W. Va.;” and “Erie, Pa.” is deleted and
+“Indian Head, Pa.; Clarion, Pa.; Frank­
+lin, Pa.;” is substituted therefor.
+g. In V-40 “Imperial, Pa.” is deleted
+and “INT Briggs 082° and Youngstown,
+Ohio, 186° radials.” is substituted
+therefor.
+h. V-41 is amended to read:
+V-41 From INT Briggs, Ohio, 082° and
+Youngstown, Ohio, 186° radials; Youngstown.
+i. In V-58 all preceding “Philipsburg,
+Pa.” is deleted and “From” is substituted
+therefor.
+j. In V-75 all preceding “Briggs, Ohio”
+is deleted and “From Morgantown,
+FEDERAL REGISTER,
+RULES AND REGULATIONS
+W. Va.; Bellaire, Ohio;” is substituted
+therefor.
+k. In V-92 all after “Mansfield, Ohio;”
+is deleted and “Briggs, Ohio; Bellaire,
+Ohio; INT Bellaire 108° and Grantsville
+285° radials; Grantsville; Front Royal,
+Va,” is substituted therefor.
+l. In V-103 all between “Clarksburg,
+W. Va.;” and “Akron, Ohio” Is deleted
+and “Bellaire, Ohio; INT Bellaire 327°
+and Akron, Ohio, 182° radials;” is substi­
+tuted therefor.
+m. In V-115 all between “Parkersburg,
+W. Va.;” and “Tidioute, Pa.” is deleted
+and “Newcomerstown, Ohio; INT New-
+comerstown 037° and Franklin, Pa., 239°
+radials; Franklin;” is substituted there­
+for.
+n. V-117 is added as follows:
+V-117 From Parkersburg, W. Va.; Bell­
+aire, Ohio; INT Bellaire 044° and Newcomers­
+town, Ohio, 099° radials.
+o. In V-119 all between “Parkersburg,
+W. Va.;” and “Clarion, Pa.” is deleted
+and “INT Parkersburg 067° and Indian
+Head, Pa., 254° radials; Indian Head;”
+is substituted therefor.
+p. In V-210 all between “Tiverton,
+jOhio;” and “INT Revloc 096°” is deleted
+and “Briggs, Ohio; INT Briggs 044° and
+Akron, Ohio, 088° radials; INT Akron
+088° and Youngstown, Ohio, 116° radials;
+INT Youngstown 116° and Clarion, Pa.,
+222° radials; Revloc, Pa.;” is substituted
+therefor.
+q. In V-214 “Allegheny, Pa.” is deleted
+and “INT Bellaire, 108° and Indian Head,
+Pa., 254° radials; Indian Head; Martins­
+burg, w. Va.” is substituted therefor.
+r. In V-226 all preceding “Clarion,
+Pa.” is deleted and “From INT Franklin,
+Pa., 175° and Clarion, Pa., 222° radials;”
+is substituted therefor.
+s. In V-276 all preceding “Tyrone,
+Pa.” is deleted and “From Clarion, Pa.;”
+is substituted therefor.
+t. In V-297 all preceding “Akron,
+Ohio” is deleted and “From Johnstown,
+Pa.; INT Johnstown 315° and Clarion,
+Pa., 222° radials; INT Clarion 269° and
+Youngstown, Ohio, 116° radials;” is sub­
+stituted therefor.
+u. V-309 is amended to read:
+V-309 From Charleston, W. Va.; INT
+Charleston 034° and Morgantown, W. Va.,
+284° radials; Bellaire, Ohio.
+v. In V-337 all preceding “INT Akron
+328°” is deleted and “Prom INT Briggs,
+Ohio, 082° and Youngstown, Ohio, 186°
+radials; Akron, Ohio;” is substituted
+therefor.
+w. In V-443 all preceding “Newcom­
+erstown, Ohio” is deleted and “From INT
+Newcomerstown, Ohio, 099° and Bellaire,
+Ohio, 044° radials;” is substituted
+therefor.
+x. In V-474 all preceding “Indian
+Head, Pa.” is deleted and “From INT
+Morgantown, W. Va., 010° and Johns­
+town, Pa., 260° radials;” is substituted
+therefor.
+2. In § 71.203 (34 F.R. 4792) the Power
+Point INT reporting point is revoked.
+(Sec. 307(a), Federal Aviation Act of 1958;
+49 U.S.C. 1348; sec. 6(c), Department of
+Transportation Act; 49 U.S.C. 1655(c))
+VOL. 34, NO. 183— WEDNESDAY, SEPTEMBER
+Issued in Washington, D.C., on Sep­
+tember 16, 1969.
+Louis H. McCaughey,
+Acting Chief, Airspace and
+Air Traffic Rules Division,
+[F.R. Doc. 69-11364; Filed, Sept. 23, 1969;
+. 8:46 a.m.[
+[Airspace Docket No. 69-SW-49]
+PART 71— DESIGNATION OF FEDERAL
+AIRWAYS, CONTROLLED AIRSPACE,
+AND REPORTING POINTS
+Alteration and Revocation of
+Transition Areas
+The purpose of this amendment to
+Part 71 of the Federal Aviation Regula­
+tions is to designate, alter, revoke, and
+redescribe controlled airspace in the
+Houston, Tex., terminal area.
+On July 25, 1969, a notice of proposed
+rule making was published in the Federal
+R egister (34 F.R. 12290) stating the
+Federal Aviation Administration pro­
+posed to expand the 700-foot portion of
+the Houston, Tex., transition area to
+encompass five surrounding transition
+areas which would be revoked.
+Interested persons were afforded an
+opportunity to participate in the rule
+making through submission of com­
+ments. In addition to the normal distri­
+bution afforded airspace notices which
+includes national aviation interests, mili­
+tary services, and other interested orga­
+nizations, distribution was also made to
+39 airports considered to be in the gen­
+eral area of Houston, Tex., although 21
+•of these airports are associated with
+smaller towns or cities. Due considera­
+tion was given to all relevant matter
+presented.
+With one exception, all comments re­
+ceived were favorable. This one comment
+was submitted by TARCO Aviation Serv­
+ice, a fixed based operator at William P.
+Hobby Airport. Concern was expressed
+over the extent of the airspace proposed,
+of the difficulty of flying near the Hous­
+ton, Tex., area on a VFR cross country
+flight in poor weather, and the fact that
+there was not enough traffic at points
+like Conroe, Rosenberg, Alvin, Texas
+City and Galveston, Tex., to warrant
+such a change.
+As stated, it is true that the extent of
+the Houston, Tex., 700-foot transition
+area would be increased. This is due
+primarily to the incorporation of the
+five other currently designated transi­
+tion areas, i.e., Alief, Conroe, Galveston,
+Sugar Land, Tomball, and a new Bay-
+town, Tex., transition area, into a single
+Houston, Tex., 700-foot transition area.
+Additional airspace would have been
+necessary to adjust the existing transi­
+tion area configurations to conform to
+a recent change in dimension criteria.
+The extent of the remaining airspace to
+be added is comparatively small and it
+would contribute to improve air traffic
+control service. The perimeter of the
+proposed Houston, Tex., 700-foot tran­
+sition area was designed to encompass
+all of these additional transition areas.
+24, 1969

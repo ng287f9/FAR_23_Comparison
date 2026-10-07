@@ -1,0 +1,1426 @@
+FINAL RULES: 23-62
+
+ 
+ 
+        
+CITATION: [Federal Register Volume 76, Number 232 (Friday, December 2, 2011)]
+
+ 
+        
+PAGE NUMBER: [Pages 75736-75769]
+
+ 
+        
+DOCKET NUMBER: FAA-2009-0738
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Certification of Part 23 Turbofan- and Turbojet-Powered Airplanes and Miscellaneous Amendments 
+
+ 
+        
+ACTION: Final rule.
+
+ 
+        
+SUMMARY: This action enhances safety by amending the applicable standards for part 23 turbofan- and turbojet-powered airplanes--which are commonly referred to as ``part 23 jets,'' or ``jets''--as well as turbopropeller-driven and reciprocating-engine airplanes, to reflect the current needs of industry, accommodate future trends, address emerging technologies, and provide for future airplane operations. This action is necessary to eliminate the current workload of processing exemptions, special conditions, and equivalent level of safety findings necessary to certificate jets. The effect of the changes will: Enhance safety by requiring additional battery endurance requirements; increase the climb gradient performance for certain part 23 airplanes; standardize and simplify the certification of jets; clarify areas of frequent non-standardization and misinterpretation, particularly for electronic equipment and system certification; and codify existing certification requirements in special conditions for jets that incorporate new technologies. 
+
+
+
+ 
+        
+DATES: These amendments become effective January 31, 2012.
+
+ 
+        
+EFFECTIVE DATE: 2012-01-31
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: For technical questions concerning this final rule, contact Pat Mullen, Regulations and Policy, ACE-111, Federal Aviation Administration, 901 Locust Street, Kansas City, MO 64106; telephone: (816) 329-4111; facsimile: (816) 329-4090; email: pat.mullen@faa.gov. For legal questions concerning this final rule, contact Mary Ellen Loftus, ACE-7, Federal Aviation Administration, 901 Locust Street, Kansas City, MO 64106; telephone: (816) 329-3764; email: mary.ellen.loftus@faa.gov. 
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Authority for This Rulemaking 
+
+ The FAA's authority to issue rules on aviation safety is found in Title 49 of the United States Code. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs describes in more detail the scope of the agency's authority. This rulemaking is promulgated under the authority described in Subtitle VII, Part A, Subpart III, Section 44701. Under that section, the FAA is charged with promoting safe flight of civil airplanes in air commerce by prescribing minimum standards required in the interest of safety for the design and performance of airplanes. This regulation is within the scope of that authority because it prescribes new safety standards for the design of normal, utility, acrobatic, and commuter category airplanes. 
+
+Table of Contents 
+
+I. Background 
+ A. Aviation Rulemaking Committee (ARC) Recommendations 
+ B. Summary of the Notice of Proposed Rulemaking 
+ C. Summary of the Final Rule 
+ D. Summary of the Comments 
+II. Discussion of the Final Rule 
+ A. 14 CFR Part 1: Clarifying Power and Engine Definitions 
+ B. Expanding Commuter Category To Include Turbojets 
+ C. Performance, Flight Characteristics, and Other Design Considerations 
+ D. Structural Considerations for Crashworthiness and High- Altitude Operations 
+ E. Powerplant and Operational Considerations 
+ F. General Fire Protection and Flammability Standards for Insulation Materials 
+ G. Additional Powerplant and Operational Considerations 
+ H. Additional Powerplant Fire Protection and Flammability Standards 
+ I. Avionics, Systems, and Equipment Changes 
+ J. Placards, Operating Limitations, and Information 
+ K. Test Procedures and Appendices III. Regulatory Analyses 
+
+I. Background 
+
+A. Aviation Rulemaking Committee (ARC) Recommendations 
+
+ On February 3, 2003, we published a notice announcing the creation of the part 125/135 Aviation Rulemaking Committee (68 FR 5488). The ARC completed its work in 2005 and submitted its recommendations to the FAA for safety standards applicable to part 23 turbojets. The ARC recommended modifying forty-one 14 CFR part 23 sections as a result of its review of these areas. Those documents may be reviewed in the docket for this final rule. 
+ The safety standards are to reflect the current industry trends, emerging technologies and operations under parts 125 and 135, and associated regulations. The ARC also reviewed the existing part 23 certification requirements and the accident history of light piston- powered, multiengine airplanes up through small turbojets used privately and for business purposes. In addition, the ARC reviewed the special conditions applied to part 23 turbojets. 
+ Based on those ARC recommendations, the FAA's intent is to enhance safety and to codify standards consistent with the level of safety currently required through special conditions. We compared the special conditions applied to part 23 turbojets, as well as several additional proposed part 23 changes, with the ARC's recommendations. With few exceptions, the ARC recommendations validated the FAA's long-held approach to certification of part 23 turbojets. 
+ The ARC did not want to impose commuter category takeoff speeds for turbojets weighing more than 6,000 pounds, nor did the ARC want to impose more stringent requirements for one-engine inoperative (OEI) climb performance than those established for similar-sized piston- powered and turboprop, multiengine airplanes. The FAA ultimately accepted thirty-nine of the forty-one ARC recommendations and developed the proposed rulemaking in accordance with them. The two recommendations we disagreed with would have lowered the standards previously applied through special conditions. 
+
+B. Summary of the Notice of Proposed Rulemaking 
+
+ The FAA issued the notice of proposed rulemaking (NPRM), "Certification of Turbojets," on August 6, 2009 and published it for public comment on August 17, 2009 (74 FR 41556). The comment period for the NPRM closed on December 16, 2009 after a one-month extension. 
+ The FAA proposed the adoption of 67 new or revised amendments in the NPRM. The amendments were proposed to codify previous certification activity. 
+
+C. Summary of the Final Rule 
+
+ This final rule adopts 59 of the 67 proposed amendments. We have also amended Sec. Sec. 23.65 and 23.1431 in this final rule based on comments received. Changes to Sec. 23.65 make it consistent with the changes made to Sec. 23.63. Editorial changes to Sec. 23.1431 are based on paragraph designation changes to Sec. 23.1309. 
+ This final rule mainly levies new regulations for part 23 jets. These new regulations generally fall into the following categories: 
+
+ Airplane flight performance and stability 
+ Airplane structural and cabin environment 
+ Airplane avionics systems and electrical equipment 
+ Powerplant considerations 
+ Flammability standards 
+
+ The majority of this final rule allows manufacturers of jets to achieve product certification without the numerous special conditions, equivalent level of safety (ELOS) findings, and exemptions previously required to certificate these products. Therefore, this final rule reduces the certification burden on the applicant and allows the FAA to focus resources on other safety-critical items. In addition, this final rule enhances safety by requiring additional battery endurance requirements and increasing the climb gradient performance for certain part 23 airplanes. 
+
+D. Summary of the Comments 
+
+ The FAA received 244 substantive comments from 14 commenters. All of the commenters generally supported the proposed changes. The comments included suggested changes, which are discussed more fully below in Section II, Discussion of the Final Rule. 
+ The FAA received no comments on the following sections, and they are adopted as proposed or with minor editorial changes: 
+· 23.77, Balked landing 
+
+· 23.853(d)(2), Passenger and crew compartment interiors 
+
+· 23.1303(c), Flight and navigation instruments 
+
+· 23.1445, Oxygen distribution system 
+
+· 23.1447, Equipment standards for oxygen dispensing units 
+
+· 23.1545, Airspeed indicator 
+
+· 23.1555, Control markings 
+
+· 23.1559, Operating limitations placard 
+
+· 23.1563, Airspeed placards 
+
+· 23.1567, Flight maneuver placard 
+
+ The FAA received comments from manufacturers, foreign aviation authorities, and industry associations. No commenters recommended withdrawing the NPRM. Most of the commenters provided suggestions for improvement or requested clarification of specific proposed amendments. Some commenters recommended that several proposed amendments (or portions of them) not be adopted. However, objection to one proposed amendment did not equate to overall objection to the NPRM. 
+ The following areas are the key concerns expressed by industry: 
+· Mandating software and complex hardware development assurance levels 
+
+· Requirement for electronic engine controls to meet the requirements of Sec. 23.1309 "Equipment, systems and installations" 
+
+· Subpart B, Flight, and Subpart G, Operating Limitations and Information 
+
+· Requirement for "two shot" fire extinguishing systems for engines embedded within the fuselage 
+
+· Codifying high-altitude operations 
+
+· Requirements for electronic displays in part 23 airplanes 
+
+· Part 1 definitions (Sec. 1.1) 
+
+ The FAA also received comments regarding FAA policy, means of compliance, and suggested changes to advisory circulars and regulations not included in the NPRM. These comments are considered to be beyond the scope of this rulemaking effort. No further discussion of them occurs in this final rule. 
+
+II. Discussion of the Final Rule 
+
+A. 14 CFR Part 1: Clarifying Power and Engine Definitions 
+
+ The FAA proposed to amend Sec. 1.1 definitions for "rated takeoff power," "rated takeoff thrust," "turbine engine," "turbojet engine," and "turboprop engine." Defining engine-specific terms was proposed to clarify the new requirements in part 23. Communications between the FAA and members of industry indicated a need to define those terms. These communications were mainly based on current part 1 definitions for "rated takeoff power" and "rated takeoff thrust," which currently limit the use of power and thrust ratings to no more than five minutes for takeoff operation. 
+ The FAA received comments from Rolls Royce, Transport Canada, General Electric (GE), and the European Aviation Safety Agency (EASA) objecting to the proposed definitions. The FAA agrees with the commenters that "rated takeoff power," "rated takeoff thrust," "turbine engine," "turbojet engine," and "turboprop engine" are not used consistently in Title 14, Code of Federal Regulations (14 CFR). 
+ Defining engine types--whether turbine-powered (turbine), turbojet- powered (turbojet), or turbopropeller-driven (turboprop)--is unnecessary because they are commonly understood by those within industry. However, the commenters make a valid point regarding changes to the definitions for "rated takeoff power" and "rated takeoff thrust." These terms may not necessarily be accepted for use in part 25, and as such, should not be defined under Sec. 1.1. 
+ The Engine and Propeller Directorate is currently working to establish common definitions for "rated takeoff power" and "rated takeoff thrust" that would apply to both part 23 and part 25 airplanes. The proposals to add these definitions are withdrawn to allow the Engine and Propeller Directorate time to complete its work on this effort. 
+
+B. Expanding Commuter Category to Include Jets 
+
+ The FAA proposed to revise Sec. 23.3 to codify the current FAA practice of certificating multiengine jets weighing up to and including 19,000 pounds under part 23 in the commuter category. Prior amendments to part 23 limited Sec. 23.3 commuter category to propeller-driven, multiengine airplanes weighing no more than 19,000 pounds. However, the FAA issued exemptions to allow jets weighing more than 12,500 pounds to be certificated under part 23, commuter category. 
+ The FAA received comments from Transport Canada and EASA. Transport Canada proposed that jets with seating capacity of 10 or more (excluding pilot seats), or maximum certificated take-off weight of more than 12,500 pounds, continue to be certificated using part 25 transport category requirements in Subpart B: Performance. EASA suggested the rule pertain to "high performance" rather than "multiengine" airplanes. 
+ The FAA did not adopt either comment. Transport Canada's comment was not adopted because part 23, Subpart B has been shown to be an acceptable means of compliance for airplanes weighing up to 19,000 pounds. This final rule retains that weight limit. EASA's comment was not adopted because "high performance" is an undefined, subjective term relative to airplane certification. Therefore, Sec. 23.3 is adopted as proposed. 
+
+C. Performance, Flight Characteristics, and Other Design Considerations 
+
+1. Performance 
+ The FAA proposed to incorporate in part 23 the current special conditions approach for jets weighing more than 6,000 pounds by applying most commuter category performance requirements. The proposed revisions to Sec. 23.45 would apply the commuter category performance requirements for the normal, utility, and acrobatic categories to multiengine jets weighing more than 6,000 pounds. 
+ As a general matter, several commenters recommended replacing the proposed propulsion-based criteria with performance-based criteria. The FAA agrees, as indicated in the Small Airplane Directorate's Certification Process Study from 2009 which recommends revising part 23 based on airplane performance and complexity versus propulsion and weight. However, amending part 23 to a performance-based standard is a substantially larger initiative than this rulemaking effort. 
+ During rulemaking discussions, the ARC decided that applying the commuter category takeoff performance requirements in proposed revisions to Sec. Sec. 23.51 through 23.61 would include restrictions that could become a takeoff weight limitation for operations. The concern was that these requirements would be too restrictive for part 91 operations. 
+ The FAA disagreed with the ARC concerning multiengine jets weighing more than 6,000 pounds. The FAA has several decades of experience applying existing special conditions to part 23 jets. The performance requirements for these jets have proven successful for part 91 operations and are necessary to maintain the existing level of safety. 
+ We received three comments regarding this proposal. EASA supported the changes and suggested requirements be extended to all jets, not just to those weighing more than 6,000 pounds. Diamond Aircraft (Diamond) asked why this rule did not apply to turboprops and piston- powered airplanes. Transport Canada proposed that the all-engines- operating accelerate-stop distance be determined in addition to the one-engine inoperative (OEI) distance, and the greater of the two be used as the accelerate-stop distance. 
+ Again, the Small Airplane Directorate's Certification Process Study from 2009 recommends revising part 23 based on performance and complexity versus propulsion and weight. We have not yet proposed to completely rewrite part 23, and doing so would be beyond the scope of this rulemaking. Accordingly, no change was made to the proposal in this final rule, except to change the word "turbojet" to "jet" wherever appropriate in this final rule. 
+ The FAA proposed revisions to Sec. Sec. 23.63 and 23.67 to enhance safety by increasing the OEI climb gradient performance for multiengine piston-powered airplanes weighing more than 6,000 pounds and for all multiengine turbines. We proposed no change to the current 2 percent OEI climb gradient that has been consistently applied via special condition for multiengine jets weighing more than 6,000 pounds. 
+ We proposed to revise the OEI climb gradient requirements to require a 1 percent OEI climb gradient for all multiengine turboprops and multiengine piston-powered airplanes weighing more than 6,000 pounds. We did so because of the similarity in how these two types of airplanes are used. Multiengine jets weighing 6,000 pounds or less will be required to meet an OEI climb gradient of 1.2 percent with this revision.
+ The FAA has revised Sec. 23.63(c) and (d), and Sec. 23.67(b) and (c) to reflect these changes to the climb gradient requirements. The FAA also made a minor editorial change to replace "turbojet engine- powered" with "jet" wherever appropriate in this final rule to simplify the term. Table 1 summarizes those changes: 
+
+Table 1--One-Engine Inoperative (OEI) Climb Requirements to 400 Feet Above Ground Level AGL
+
+Multiengine category
+
+ Current rule
+
+ ARC’s recommendation (percent)
+
+ FAA’s position in final rule (percent)
+
+ 
+
+Pistons > 6,000 lbs Measurably positive 1.0 1.0 
+
+Turboprops ≤ 6,000 lbs Measurably positive 1.0 1.0 
+
+Turboprops > 6,000 lbs Measurably positive 1.0 1.0 
+
+Jets ≤ 6,000 lbs Measurably positive 1.0 1.2 
+
+Jets > 6,000 lbs 2.0% imposed through special conditions 1.0 2.0 
+
+ The FAA received comments on Sec. Sec. 23.63, 23.65, and 23.67 from Transport Canada, Hawker Beechcraft, and Diamond. Transport Canada stated that the proposed Sec. 23.63 would conflict with the existing Sec. 23.65. The FAA has accordingly revised Sec. 23.65 for consistency. Hawker Beechcraft stated that the change from "must be measurably positive" to "may be no less than 1 percent" could reduce takeoff payload by a maximum of 900 pounds. This would limit the utility of a normal category turboprop under high-hot conditions with takeoff flaps. The FAA understands that leveling the turboprop requirements with certain jets will cause a loss of utility and market disadvantage. However, given similar missions (many in revenue service), turboprops should be held to a performance standard similar to that for jets. The FAA reviewed the current service history safety data for these airplanes. Based on this data, the FAA only required half the single-engine climb requirements of multiengine jets. 
+ Diamond stated that this makes sense to a certain degree if the reasoning behind it is that turbines are capable of better performance than piston-powered airplanes. However, Diamond asked if there is a need to require compensating features if the airplane cannot meet a reasonable climb gradient. Diamond also asked why the FAA would change to a safer engine type if history has not shown there to be a problem with the current engine type. Diamond further stated that this requirement should be consistent with those for turbines, with no distinction between jets and turboprops. The FAA partially agreed and, as stated above, adopted an OEI climb gradient of 1 percent. 
+ The FAA received a comment from GE on the economic benefit of improved climb performance. GE stated that the improved climb performance is not a new requirement, and it is currently imposed by special condition. Since that special condition is not changing--it is now only being levied by this final rule--GE asked how a safety benefit can be credited to the rule. 
+ The FAA believes that adding this special condition as a requirement in part 23 will not only have a safety benefit, but it will also enhance our efforts toward continued operational safety. Special conditions are aircraft-specific and have not been issued for every part 23 airplane. Section 23.67 (and Sec. 23.77, which was adopted without change) addresses the additional climb performance for all part 23 turbojets and turboprops. The additional climb performance requirements will apply to all new part 23 turboprops and part 23 turbojets under 6,000 pounds, thereby increasing the operational safety of those newly certificated airplanes. 
+ In addition, special conditions increase paperwork and workload for FAA and industry. Also, they create uncertainty for the manufacturer during design. By incorporating the improved climb performance into part 23, special condition paperwork will be reduced and, in effect, will allow FAA and industry resource leveraging towards other safety-critical endeavors in our goal of continued operational safety. 
+ In developing cost estimates for the NPRM, the FAA contacted members of the ARC to determine when and if special conditions were voluntarily accepted by industry. When a special condition is voluntarily accepted by industry, the FAA does not include the special condition(s) cost in the regulatory impact assessment (RIA). When industry informs the FAA that a special condition will impose costs on industry, as do Sec. Sec. 23.67 and 23.77, the FAA estimates the incremental cost between the current and final rule. 
+ The FAA proposed to correct a reference error to a velocity term in Sec. 23.73. Maximum landing configuration stall speed (VSO) was changed to specified flap configuration stall speed (VS1). VSO is not applicable to other flap configurations. The reference landing approach speed (VREF) is based on 1.3 times the VS1. The FAA proposed to amend the standards to address airplanes certificated under part 23 that may have more than one landing flap setting. Additionally, the FAA proposed to include multiengine jets weighing more than 6,000 pounds in the commuter category requirements. 
+ The FAA received one comment. Diamond stated that the distinction between jet engines and other engine types may not be appropriate. It suggested the requirement for a higher level of safety be related to performance, not to engine type. As stated earlier, the FAA has determined that amending part 23 to a performance-based standard is a substantially larger initiative and beyond the scope of this rulemaking effort.
+
+2. Flight Characteristics 
+ In Sec. 23.175(b), the FAA proposed to define the maximum speed for stability characteristics (VFC/MFC). The term VFC/MFC was added to part 23 in the last large- scale revision to Subpart B, but the definition was inadvertently omitted. 
+ EASA commented on multiple proposed sections that it applies a special condition for high-speed characteristics that are not included in our proposal. EASA's comments suggested these sections be drafted as a performance-based standard. However, amending part 23 to a performance-based standard is a substantially larger initiative than this rulemaking effort. 
+ The FAA also received comments from Transport Canada and Cessna regarding flight characteristics. Both commenters recommended that we include the definition of VFC/MFC in Sec. 23.253 for consistency with part 25. The FAA agrees and has relocated the definition for it from Sec. 23.175 to Sec. 23.253. 
+ The FAA proposed revisions to Sec. 23.177 that would have clarified the specific speed limitations to include jets. The proposed speed limitations also included specific criteria ("VFE, VLE, VNO or VFC/MFC as appropriate" as defined in Part 1). 
+ The FAA proposed to relax the stability requirements in Sec. 23.181 for airplanes operating above 18,000. The original requirements were developed for small airplanes typically operated under 18,000 feet and not equipped with yaw dampers. The existing requirement is still appropriate for low-altitude operations, such as for approaches. However, the existing requirement is not appropriate for larger airplanes that typically use yaw dampers and fly at altitudes above 18,000 feet. In fact, the FAA has issued multiple ELOS findings for most certificated part 23 jets because such findings were appropriate for high-altitude, high-speed operations. 
+ The FAA received comments from EASA, Cessna, and Emivest. EASA commented in multiple sections that it applies a special condition for high-speed characteristic not included in our proposal. EASA's comment suggests a performance-based standard. Amending part 23 to a performance-based standard is a substantially larger initiative than this rulemaking effort. 
+ Cessna suggested Sec. 23.181 include a similar definition to the revised Sec. 23.177. The FAA agrees with Cessna's comment and added that definition to Sec. 23.181. 
+ Emivest recommended that part 23 allow the lower standard found in part 25 for flight above 18,000 feet. The FAA disagrees with this recommendation. Part 23 airplanes are frequently flown by a single pilot and operated under part 91. Single pilots operating part 23 airplanes may not necessarily have the same experience level as part 25 airplane pilots. Therefore, the stability and control requirements in part 23 will remain higher than in part 25. 
+ We proposed revisions to the stall requirements in Sec. Sec. 23.201 and 23.203 to include jets and a new generation of part 23 airplanes with high-power and high-altitude capability. 
+ The proposed revisions included: 
+· Incorporating additional configurations for all part 23 airplanes; 
+
+· Clarifying flap and gear position as appropriate for the altitude and flight phase; 
+
+· Relaxing the roll-off requirements for high-altitude stalls; and 
+
+· Defining what is meant by "extreme nose-high attitudes." 
+
+ The FAA received comments from the General Aviation Manufacturers Association (GAMA) and Emivest. GAMA stated the requirement for the demonstration of control during entry and recovery from wings level stall is unnecessary above 1.5 VS1 instead of 1.6 VS1, as this requirement matches the requirements applicable to part 25 airplanes. The FAA agrees and has made the necessary change to be consistent with the requirements for part 23 jets. 
+ Emivest recommended the FAA allow the lower handling characteristic standards from part 25, specifically being able to control rolling from 15 to 20 degrees of roll. The FAA does not believe that this is appropriate for all altitudes. Parts 23 and 25 still have a considerable number of stall/departure accidents at low altitudes, even with stall barrier devices. The FAA is moving part 23 towards even more benign stall characteristics and additional stall protection systems. 
+ The FAA determined that relieving the controllability requirements in Sec. 23.201 across the entire altitude capability would move part 23 in the wrong direction--inconsistent with current stall requirements. Considering that most stall accidents occur at low altitudes, this revision would relax the stall handling characteristic roll requirement to 25 degrees for stalls at or above 25,000 feet. We believe this is an acceptable action for this flight regimen for the class of airplane operating at or above 25,000 feet. 
+ The FAA proposed to incorporate provisions from Sec. Sec. 25.251(d) and (e) into Sec. 23.251 while limiting the requirements to airplanes that fly over 25,000 feet or that have a Mach Dive Speed (MD) faster than Mach (M) 0.6. The proposed revision also included the use of VDF/MDF, as referenced in part 23 jet special conditions. 
+ The FAA received similar comments from Cirrus and Transport Canada. Cirrus stated that Sec. 23.251(b) and (c) use the term "perceptible buffeting," which is a subjective term. Cirrus requested a concise term to differentiate "normal vibration" from "perceptible buffeting," or a standard definition of "perceptible buffeting." The FAA will address this comment in an advisory circular, which we believe is the appropriate place to address it. 
+ Transport Canada stated that the use of operational speeds is considered more appropriate than using a design speed as criteria. The FAA understands the commenter's point. For this situation, however, the FAA believes the part 23 speed rationale should parallel the rationale in part 25 for consistency in our decisions for continued aviation safety. 
+ The FAA revised Sec. 23.253(b) to add the use of demonstrated flight diving speed (VDF/MDF) as applicable, consistent with standards in Sec. 25.253. The FAA also moved the proposed definition for VFC/MFC from Sec. 23.175 to this section as paragraph (d). 
+ The FAA proposed adding Sec. 23.255 to include new requirements that consider potential high-speed Mach effects for airplanes with MD greater than M 0.6. The FAA proposed these requirements, which came from part 25, for airplanes that incorporate a trimmable horizontal stabilizer. This decision was based on the positive service history with the existing fleet of part 23 jets designed with conventional horizontal tails and those that use trimmable elevators. Airplanes that experienced upset incidents involving out-of-trim conditions were part 25 certificated airplanes and designed with a trimmable horizontal stabilizer. 
+ The FAA received a comment from Transport Canada, stating that this requirement should apply to all horizontal tail configurations as required for transport category airplanes. The FAA disagrees with Transport Canada. The high-performance airplanes that will be certificated under part 23 are similar to those that have established a positive service history using similar regulations; therefore, this final rule has not been changed as a result of this comment. 
+
+D. Structural Considerations for Crashworthiness and High-Altitude Operations 
+
+1. Design and Construction 
+ The FAA proposed changes to Sec. 23.561 to address structural requirements for engines contained within the fuselage and located behind the passenger cabin. The FAA proposed these changes to: (1) Add structural requirements to single-engine jets with centerline engines embedded in the fuselage, and (2) minimize the likelihood of the engine breaching the passenger compartment in the event of an emergency landing. The proposal would have reduced the potential for the engine to separate from its mounts under forward-acting crash loads and subsequently intrude into the passenger compartment (i.e., cabin). 
+ The FAA received several comments on this proposed change. EASA suggested the proposed rule should be expanded to include any engine mounted inside the fuselage and aft of the cabin, not just turbojet engines. The FAA agrees with EASA. Any engine mounted in this type of configuration may be a hazard to cabin occupants in the event of an emergency landing, so the regulation should not be limited to turbojet engines. The proposed amendment has been modified to capture this comment. 
+ Transport Canada stated that the proposed load factors should be adjusted upward if the VS0 of the airplane exceeds 61 knots. The FAA disagrees with Transport Canada since the proposed regulation would require the engine to be retained at 18 g in combination with maximum takeoff thrust. This approach is reasonable for engine retention. 
+ Transport Canada also stated that the attached accessories need not be required to withstand the added load of maximum engine takeoff thrust since accessories do not react to engine thrust loads. The FAA disagrees with this comment. While engine accessories should not directly react to engine thrust loads, engine accessories impart a load to their mounting structure. This load is typically highest when the engine is producing maximum takeoff thrust. The intent of this rule is to ensure the engine and its accessories do not penetrate the cabin in an emergency landing. 
+ Transport Canada further stated that proposed Sec. 23.561(e)(1)(ii), which in the relevant part states "to deflect the engine" may be too limited. The commenter suggested there are other methods an airplane designer may propose, such as an energy-absorbing bulkhead or barrier. We agree, and by adopting this comment, the rule will be more performance-based and preclude dictation of the airframe design. The FAA has changed this final rule accordingly. 
+ The FAA proposed changes to Sec. 23.562 to require dynamic seat testing for commuter category jets. The FAA also proposed changes to the Head Injury Criteria (HIC) calculation in Sec. 23.562 to be consistent with the HIC calculation contained in Sec. 25.562. 
+ Our intent with the proposed rule was to codify a requirement that has become industry practice. All manufacturers of those recently certificated commuter category jets have agreed to comply with Sec. 23.562. It was not our intent to include commuter category propeller- driven airplanes in Sec. 23.562 in light of the rulemaking history associated with that effort.1 The FAA has decided against adding commuter category propeller-driven airplanes to Sec. 23.562 at this time. The FAA reserves the right, however, to reconsider this position in the future should adverse service history suggest changes are necessary.
+
+ 1 The FAA provided a history of the previous rulemaking effort in the NPRM. 74 FR 41522.
+
+ In addition, the FAA received comments from several organizations indicating a mistake in the proposed HIC calculation. The commenters stated that the proposed definition of "a(t)" would require calculating HIC for the entire head acceleration time, not just for the time of impact with interior components. The FAA agrees the proposed rule did not specify the word "strike" when defining "a(t)" as the total acceleration versus the time curve for a head strike. The FAA has made the necessary changes to the definition of "a(t)" in this final rule so it is clear that HIC is calculated for the head strike only. 
+ The NPRM included new sections in Sec. Sec. 23.571, 23.573, and 23.574, which noted additional requirements referencing the new high altitude requirements of Sec. 23.841(e). These additional requirements included the establishment of a Limit of Validity (LOV), as well as additional test requirements. Several commenters, including Cessna and GAMA, objected to the LOV concept due to the burden it could place on applicants. Upon consideration of these comments the FAA agrees we need additional time to consider the need for LOV. Therefore, we consolidated the requirements into Sec. 23.571(d) and removed the reference to Sec. 23.841. Proposed Sec. 23.841(e), which contained the LOV and additional test requirements, has been withdrawn. 
+ Section 23.571(d) still requires the damage tolerance option under Sec. 23.573 to be used on airplanes that exceed 41,000 feet. Section 23.571(d) will also require that damage tolerance be used to evaluate structure for operations above 41,000 feet on all airplanes except commuter category. Commuter category airplanes are already required to use damage tolerance under Sec. 23.574. The FAA has modified Sec. 23.571 as discussed and withdrawn the proposed revisions to Sec. Sec. 23.573 and 23.574. 
+ In addition, GE stated it would be difficult to comply with the proposed Sec. 23.841, given all of the exemptions granted for this rule in the past. The FAA disagrees with this comment, but GE is correct that a number of exemptions have been granted. However, all but one of the exemptions were for part 25 airplanes. This single part 23 airplane exemption dealt with the method of compliance for this rule. (See Exemption No. 5223; also, a copy of this exemption will be placed in the docket for this rulemaking.) 
+ As noted above, the proposed rule has been revised, and previous part 25 exemptions are irrelevant to the subject part 23 airplanes. Several jets have successfully met depressurization profiles, thereby meeting appropriate part 23 certification requirements. 
+ The FAA proposed to clarify the use of either the MD or the Dive Velocity (VD) in Sec. 23.629, whichever is appropriate, for jets. As dive speeds increase with high performance airplanes, the compressibility effects of the air become more significant; therefore, it is more appropriate to refer to MD instead of VD. Proposed changes would have also allowed the use of a "demonstrated" flight dive speed (VDF/MDF) instead of the theoretical speeds (VD/MD) when flight flutter testing jets. Using a demonstrated speed, in lieu of a theoretical speed, can relieve some compliance burden when an airplane is unable to attain those theoretical dive speeds during the test phase of an airplane certification program. 
+ Cessna stated that the FAA was attempting to align the part 23 small airplane flutter requirements with those of part 25 for transport category airplanes. The FAA does not agree with this summary of the change. While the change is similar to certain transport category requirements, there was no decision in this case to make this part 23 requirement identical to part 25 requirements. The FAA seeks only to establish a category-appropriate rule for jets which balances many factors; those factors include risk management, safety, and cost. 
+ Cessna stated that in one paragraph the FAA only made the change to add the Mach dive speed designation, but did not include the option for the demonstrated flight speeds. The FAA agrees with Cessna. It was inadvertently omitted from the proposed rule language. The FAA adopted that change in the final rule. 
+ Cessna further stated the proposal implied that the flutter analysis need only be performed to the demonstrated flight speed. The FAA agrees the wording was misleading and ambiguous. Therefore, the proposed language is revised to clarify that the flutter analysis must be performed to 20 percent above the design dive speed or 20 percent above the design Mach dive speed, whichever is appropriate. Additionally, Sec. 23.629 is revised to clarify that the 20 percent margin above the design dive speed need not go above Mach 1.0, as this unnecessarily complicates the analysis. 
+
+2. Other Design Considerations 
+ Proposed revisions to Sec. 23.703 introductory text and paragraph (b) would have added takeoff warning system requirements to all airplanes weighing more than 6,000 pounds and to all jets. The definition of an unsafe condition, in this case, is the inability to rotate or prevent an immediate stall after rotation. High temporary control forces that can be quickly "trimmed out" would not necessarily be considered unsafe. 
+ The FAA received two comments. EASA suggested the rule did not address all devices for a safe takeoff. Diamond asked why this rule did not apply to turboprops and piston-powered airplanes. 
+ Parking brakes and antiskid devices are optional installations and cannot be required by this rule; but if installed, optional installations can be included in the determination of an unsafe takeoff condition. Also, this rule applies to all airplanes weighing more than 6,000 pounds and to jets of any weight. Therefore, turboprops and piston-powered airplanes weighing more than 6,000 pounds are included. The FAA inadvertently modified Sec. 23.703(b) in the NPRM. Our intent was to add a new section, Sec. 23.703(c). The FAA is adopting Sec. 23.703(c) as originally intended and with a minor editorial change. 
+ The FAA changed the rejected takeoff requirements in Sec. 23.735, which were previously only for commuter category airplanes, to be applicable for all multiengine jets weighing more than 6,000 pounds. The higher takeoff speeds and distances for these airplanes make the ability to stop in a specified distance a safety issue. 
+ Two commenters suggested adding similar rejected requirements from part 25. Adding these part 25 requirements, however, was not part of the NPRM. In this case, the part 25 requirements are too stringent for part 23 airplanes. We cannot justify those more stringent requirements based on our current service history. 
+
+E. Powerplant and Operational Considerations 
+
+ Previous amendments to Sec. 23.777 standardized the height and location of powerplant controls because pilots may become confused and use the wrong controls on propeller-driven airplanes. However, previous amendments did not include single-power levers (which are typical for electronically-controlled engines). The FAA made an ELOS finding for each airplane program that included a single-power lever. Revised paragraph (d) in Sec. 23.777 incorporates the ELOS language. 
+ The FAA received one comment that the requirement for power (thrust) levers should be easily distinguishable for human factor considerations instead of one inch higher than mixture and propeller levers. The FAA agrees with this comment and revised the rule to delete the one-inch requirement and changed the wording to easily distinguish the power levers from other controls. 
+ The FAA proposed to provide an alternative to meeting the requirement for an emergency exit above the waterline on both sides of the cabin for multiengine airplanes. The proposed change to Sec. 23.807 allows the placement of a water barrier in the main cabin doorway before the door is opened as a means to comply with the above waterline exit requirement. This barrier is above the waterline and slows the water inflow, thus allowing exit through the main cabin door in a ditched airplane. The FAA approved the use of this barrier as an alternative to the above waterline exit for several airplanes by issuing an ELOS finding. 
+ The FAA received two comments. Emivest stated the rule language would permit a main cabin door below the waterline to be approved as an emergency exit. Embraer stated a water barrier should be allowed regardless of whether the main cabin door is above the waterline since the determination of the waterline is undefined. 
+ The FAA disagrees with both comments. The new Sec. 23.807(e)(3) states "may" because the new paragraph is an option for paragraph (e)(2), which specifies an overhead exit if side exits cannot be above the waterline. Furthermore, buoyancy analysis is standard practice to determine the waterline of an airplane. There is no reason to provide a water barrier if the emergency exit is above the waterline. Therefore, no changes were made to the proposal in this final rule. 
+ The FAA proposed amending Sec. 23.831 by adding new paragraphs (c) and (d), which would include standards appropriate for airplanes operating at high altitudes beyond those included in part 23. The changes were intended to ensure that flight deck and cabin environments do not result in the crew's mental errors or physical exhaustion. Such an event would prevent the crew from successfully completing assigned tasks for continued safe flight and landing of an airplane. An applicant may demonstrate compliance with paragraph (d) of this requirement if the applicant can show the flight deck crew's performance is not degraded. 
+ Several new part 23 jet certification programs include approval for operations at altitudes above 41,000 feet. Additionally, the FAA issued special conditions for operations up to 49,000 feet and changed rules for structures and the cabin environment to ensure structural integrity of the airplane at higher altitudes. The FAA also made rule changes to prevent exposure of the occupants to cabin pressure altitudes that could cause them physiological injury or prevent the flight crew from safely flying and landing the airplane. 
+ The FAA intended the requirement "* * * must not affect crew performance so as to result in a hazardous condition * * *" to mean the crew can reliably perform published and trained duties to complete a safe flight and landing. In the past, a person's ability to track and perform tasks was measured by crew performance; however, acceptable crew performance is limited to the procedures defined by the manufacturer or required by existing regulations. The FAA uses "No occupant shall sustain permanent physiological harm" to describe the requirement that occupants who may have required some form of assistance must be expected to return to their normal activities once treated. 
+ Cirrus and Transport Canada stated the proposal, as written, applied to all phases of flight, including slow speed phases. The proposal was intended to apply to flight above 41,000 feet. The final rule for paragraphs (c) and (d) is changed to state the paragraphs are applicable only for the cruise phase of flight above 41,000 feet. 
+ Diamond suggested the rule should apply to all pressurized airplanes, not just to jets. The intent of the proposal was for it to apply to airplanes that operate above 41,000 feet. The FAA is unaware of any turboprops or piston-powered airplanes that operate above 41,000 feet. Special conditions would be applied to a turboprop or piston- powered airplane with a maximum service ceiling above 41,000 feet. 
+ EASA stated two figures used for high-altitude airplanes, regarding the time temperature correlation, were not included. That oversight is corrected in this final rule. 
+ We proposed amending requirements in Sec. 23.841 to prevent exposure of the occupants to cabin pressure altitudes that could keep the flight crew from safely flying and landing the airplane, or cause permanent physiological injury to the occupants. The changes provide airworthiness standards that allow subsonic, pressurized jets to operate at their maximum achievable altitudes--the highest altitude an applicant can choose to demonstrate the effects to several occupant- related items after decompression. The applicant must show that: (1) The flight crew would remain alert and be able to fly the airplane, (2) the cabin occupants are protected from the effects of hypoxia (i.e., deprivation of adequate oxygen supply), and (3) if some occupants do not receive supplemental oxygen, they are protected against permanent physiological harm. 
+ Several new part 23 jet certification programs include approval for operations at altitudes above 41,000 feet. Additionally, we issued special conditions for operations up to 49,000 feet. In this final rule, we changed rules for structures and the cabin environment to ensure structural integrity of the airplane at higher altitudes. 
+ Earlier amendments required the cabin pressure control system to maintain the cabin at an altitude of not more than 15,000 feet if any probable failure or malfunction in the pressurization system occurred. Cabin pressure control systems on part 23 airplanes frequently exhibit a slight overshoot above 15,000 feet cabin altitude before stabilizing below 15,000 feet. Existing technology for cabin pressure control systems on part 23 airplanes cannot prevent this momentary overshoot, which prevents strict compliance with the rule. The FAA granted ELOS findings for this characteristic because physiological data show that the brief duration of the overshoot has no significant effect on an airplane's occupants. 
+ Special conditions issued for part 23 jets to operate at altitudes above 41,000 feet are equivalent to the requirements in Sec. 25.841 adopted in Amendment 25-87 (61 FR 28684, June 5, 1996). The amendment in this final rule modified Sec. 23.841 to include requirements for pressurized cabins previously covered only in special conditions. The special conditions required consideration of specific failures. Part 25 incorporated reliability, probability, and damage tolerance concepts addressing other failures and methods of analysis after the issuance of the special conditions. Sections 23.571, 23.573, and 23.574 address the damage tolerance requirements. This final rule requires the use of these additional methods of analysis. 
+ Part 23 requires a warning of an excessive cabin altitude at 10,000 feet. Part 23 does not adequately address operations at airfield elevations above 10,000 feet. Rather than disable the cabin altitude warning to prevent nuisance warnings, the FAA has issued ELOS findings allowing the warning altitude setting to be shifted above the maximum approved field elevation, not to exceed 15,000 feet. The FAA proposed to modify Sec. 23.841 to incorporate language from existing ELOS findings into the regulation. 
+ The FAA received nine comments on this proposal. Several commenters disagreed with the structure of the initial proposed rule, the use of the noted damage tolerance principles, and the general systems rule for pressurization at high altitude. While EASA supported establishment of a Limit of Validity (LOV) and additional testing, Cessna, Embraer, and GAMA disagreed with the implementation of these concepts, which are not currently used in part 23. 
+ In response to comments from GAMA and Embraer, the FAA changed paragraph (b)(6)(ii) to permit a single operation for high altitude takeoffs and landings. In response to a comment from GE, paragraph (c)(2) is changed to exclude improbable failures. 
+ In addition, ruptures must be limited to control pressurized cabin breeches. Rapid pressure loss at high altitudes may result in physiological damage to the occupants. Section 23.841 defines acceptable depressurization profiles in such an event, and the pressurized structure serves as a part of the system to ensure the minimum cabin pressure is maintained. To control the cabin pressure vessel breeches in the fuselage structure, the noted damage tolerance principles are used (specifically borrowing the process referenced in Sec. 23.573(a) or (b)). 
+
+F. General Fire Protection and Flammability Standards for Insulation Materials 
+
+ The FAA proposed upgrading flammability standards for thermal and acoustic insulation materials by adding a new Sec. 23.856. The previous standards did not realistically address situations where thermal or acoustic insulation materials may contribute to producing a fire. The changes are based on the requirements in Sec. 25.856(a) and part VI, Appendix F, which were adopted following accidents involving part 25 airplanes, such as the Swissair MD-11. The proposed new standards would enhance safety by reducing the incidence and severity of cabin fires, particularly those in inaccessible areas where thermal and acoustic insulation materials are installed. 
+ The proposed new standards also would include flammability tests and criteria that address flame propagation. They would apply to thermal/acoustic insulation material installed in the fuselage of part 23 airplanes. 
+ Prior amendments focus almost exclusively on materials located in occupied compartments (Sec. 23.853) and cargo and baggage compartments (Sec. 23.855). The potential for an in-flight fire is not limited to those specific compartments. Thermal/acoustic insulation can be installed throughout the fuselage in other areas, such as electrical or electronic compartments or surrounding air ducts, where the potential also exists for materials to spread fire. 
+ Proposed Sec. 23.856 accounts for insulation installed within a specific compartment in areas the regulations might not otherwise cover and is applicable to all part 23 airplanes, regardless of size or passenger capacity. Advisory material describing test sample configurations to address design details (e.g., tapes and hook-and-loop fasteners) is available in DOT/FAA/AR-00/12, Aircraft Materials Fire Test Handbook, April 2000. 
+ Cessna stated this proposal should be limited to commuter category airplanes. The FAA disagrees because this hazard is not limited to commuter category airplanes. In addition, there has been a certification project to install this insulation in a normal category airplane. 
+
+G. Additional Powerplant and Operational Considerations 
+
+ We inadvertently proposed to add requirements to Sec. 23.903(b)(2) when we meant to propose a new paragraph (b)(3). This proposal was intended to protect passengers and maintain the ability for continued safe flight and landing following a fan disconnect event for fuselage- embedded, jet-engine installations. 
+ The FAA received six comments on this proposed rule change. Cirrus favors avoiding the use of the "embedded" classification altogether; the FAA does not. The crux of Cirrus' position relates to the requirements for fire protection of embedded engines, and not protection against fan disconnect. Hawker Beechcraft, GE, and EASA commented on assessing the threat from fan disconnect questions as the means of compliance to this rule change. 
+ For each airplane with an embedded engine, the FAA will provide project-specific guidance for an acceptable means of compliance regarding fan-disconnect concerns. If the engine does not have a failure mode that results in a fan-disconnect event, then basic compliance would need to show the failure cannot occur. In this instance, no further showing of compliance would be required. Transport Canada supports the rule change. 
+ The FAA proposed adding a paragraph to Sec. 23.1141 to require electronic engine control systems to meet the equipment, systems, and installation standards of Sec. 23.1309. The FAA has applied this requirement to all digital engine control installations in part 23 airplanes by special condition for over ten years. The proposed rule change for Sec. 23.1141 would have codified the requirements previously applied via special condition. 
+ The FAA received six comments on this proposed rule change. Most of the comments questioned the need for the specific application of Sec. 23.1309 to electronic engine control systems. Diamond, GAMA, and Hawker Beechcraft stated that compliance was already required. Cessna stated there were similar requirements in Sec. 23.1141(e). GE stated there were no commensurate requirements in part 25, and that engine control was certificated in part 33. Transport Canada suggested the change should only address the electromagnetic environment and compatibility requirements, rather than all of Sec. 23.1309. 
+ The FAA has not directly adopted these comments. However, the comments highlighted the difficulties in using Sec. 23.1309 as the primary means by which to certificate electronic engine control system installation. There are conflicts between the guidance material for Sec. 23.1309 and propulsion system certification. One example is a single-engine turbine-powered airplane with a failure of the electronic engine control system which cannot meet the failure probability commensurate with the hazard. As a result, applicants have elected to declare a reduced hazard severity of a failure of the electronic engine control system. This is not the intent of Sec. 23.1309. The greater hazard severity should drive lower probability of failure, and the higher probability of failure should not drive the lower hazard severity. 
+ There is also a conflict between the hazard severity of a failure of an electronic engine control system and the required test levels for lightning and high intensity radiated frequency (HIRF). Testing to a level lower than required for a catastrophic failure results in a lower level of safety than the mechanical system it replaces. This is contrary to the intent of the certification requirements. As a result, the FAA decided to withdraw the proposed rule change and will continue to require the test levels via special conditions. 
+ We also proposed to expand the requirement in Sec. 23.1165(f) for all turbine engine installations in commuter category airplanes, as it is currently limited to turboprops. The revision to the rule covers all turbines in the commuter category and removes the propeller driven restriction. (The definition of commuter category is also changed in Sec. 23.3(d).) 
+ Transport Canada stated that the proposed rule conflicted with the gas turbine ignition systems for restarting an engine in flight, as required by Sec. 23.903(e)(3), (f) and (g). The FAA does not agree with this comment, as there is no conflict with the cited rules. Embraer suggested that the rule should be reworded to state "* * * each turbine engine ignition system must be considered an essential electrical load." The FAA disagrees, as the suggested change does not change the substance of the rule. The proposal is adopted without change. 
+
+H. Additional Powerplant Fire Protection and Flammability Standards 
+
+ When the FAA initially introduced powerplant fire protection provisions in part 23, jet engines were not embedded in the fuselage, or in pylons on the aft fuselage, for airplanes certificated to part 23 standards. Sections 23.1193, 23.1195, 23.1197, 23.1199, and 23.1201 added fire protection requirements for commuter category airplanes. 
+ Manufacturers also provide fire prevention through minimizing the potential for the ignition of flammable fluids and vapors. Historically, pilots were able to see engines and identify fires or use the incorporated fire detection systems, or both. The ability to see engines provided for the rapid detection of fires, which led to fires being rapidly extinguished. However, engine(s) embedded in the fuselage or in pylons on the aft fuselage do not allow the pilot to see a fire. 
+ For airplanes equipped with fuselage-embedded engines, the consequences of a fire are more varied, adverse, and difficult to predict than an engine fire for a typical part 23 airplane. An engine embedded in the fuselage offers minimal opportunity to actually see a fire. Therefore, an engine's location becomes critical to the ability to see and extinguish an engine fire. With fuselage-embedded engines, an engine fire could affect both the airplane's fuselage and the empennage structure, which include the pitch and yaw controls. A sustained fire could further result in the loss of airplane control before a pilot could make an emergency landing. 
+ Transport Canada stated that a clarification for embedded engines would be useful. The FAA believes the term "embedded" is not confusing. A general definition of the term, which is to enclose closely in a surrounding mass, is adequate. Therefore, we do not provide further clarification of the term in this final rule. 
+ The FAA also proposed to change requirements in Sec. 23.1195 for fire extinguishing systems, extinguishing agent containers, and fire extinguishing system materials. Diamond and Cirrus stated the issue is location of the engine(s) rather than the airplane category or type of engine. The FAA agrees and modified the rule to make it applicable to all part 23 airplanes with fuselage-embedded engines and to any part 23 airplanes with engines mounted in pylons on the aft fuselage. For embedded engine installations, a two-shot fire-extinguishing system would be required because the metallic components in the fire zone can become hot enough to reignite flammable fumes after extinguishing the first fire. 
+ GAMA, Cessna, and Cirrus objected to the requirement for a two-shot fire extinguishing system if an engine is embedded. Commenters had various reasons for their objections. However, while engines other than those embedded in a fuselage could reignite a fire, the hazard of fire damage to empennage flight controls or primary structure is greater for embedded engines than for other engine mounting installations. Cirrus also stated the rule change was not needed because small airplanes, including some jets, can descend and land in 15 minutes, as stated in the NPRM. 
+ We agree that some jets will likely be able to descend and land in 15 minutes without a problem, if an adequate airport is available. However, altitude is only one issue. These airplanes are approved for Instrument Flight Rules (IFR), so the ability to continue safe flight and landing also must consider time to descend under Air Traffic Control (ATC) through Instrument Meteorological Conditions (IMC) and make an approach and a go-around. Also, the ability to land off airport is an issue for an airplane with a 65 knot or higher stall speed. 
+
+I. Avionics, Systems, and Equipment Changes 
+
+ The FAA proposed removing Sec. 23.1301(d) to improve standardization for systems and equipment certification, particularly for non-required equipment and non-essential functions embedded within complex avionic systems. EASA stated it will retain Sec. 23.1301(d). Individuals also asked the FAA to retain this paragraph for non- required equipment and systems and intended functions. 
+ Section 23.1301(d) is directed towards environmental qualifications and operating conditions of the equipment and systems. The requirement in Sec. 23.1309(a) replaces the requirement in Sec. 23.1301(d) and, if Sec. 23.1301(d) were retained, there would be a duplication of requirements. The requirement for intended function is further explained in Sec. Sec. 23.1309(a)(1) and (a)(2) and the NPRM. 
+ Removal of Sec. 23.1301(d) aligns with the proposed changes to Sec. 25.1301(d) that was developed by the Joint Aviation Authorities (JAA) of Europe and the Aviation Rulemaking Advisory Committee (ARAC), which was established on January 22, 1991 (56 FR 2190). We have decided to adopt this proposal without change. 
+ Proposed Sec. 23.1305 would have eliminated the need for an ELOS finding for digital engine display parameters. It would have added requirements regarding usability for an ELOS finding. In addition, the ELOS finding would include the requirements for color indications for normal operation, operation in a caution range, and exceeding any limitation. These changes, however, were not part of the NPRM. Furthermore, there would still be a need for an ELOS finding for digital engine display parameters due to the digital indications being noncompliant with the requirements of Sec. 23.1549. 
+ The FAA received seven comments. The FAA did not adopt these comments since the FAA is withdrawing the proposed change to Sec. 23.1305. 
+ The FAA proposed Sec. 23.1307 to require applicants to install the equipment necessary for anticipated operations (for example, operations identified in parts 91 and 135 and meteorological conditions). Cirrus, Embraer, and GAMA stated that the examples identified in proposed Sec. 23.1307 add little value and could increase burden on the manufacturer. The FAA agrees the certification applicant does not need to comply with the operational requirements of parts 91 and 135 at the time of certification. Therefore, we are withdrawing this proposal. 
+ The FAA proposed changing the requirements for two different types of equipment and systems installed in the airplane. Section 23.1309 lists the qualifiers "under the airplane operating and environmental conditions." This section also describes two actions for the applicant. First, the applicant must consider the full normal operating envelope of the airplane, as defined by the Airplane Flight Manual, with any modification to that envelope associated with abnormal or emergency procedures and any anticipated crew action. Second, the applicant must consider the anticipated external and internal airplane environmental conditions, as well as any additional conditions where equipment and systems are assumed to "perform as intended." 
+ Section 23.1309(a)(2) requires analysis of any installed equipment or system with potential failure condition that are catastrophic, hazardous, major, or minor to determine their impact on the safe operation of the airplane. The applicant must show that they do not adversely affect proper functioning of the equipment, systems, or installations covered by Sec. 23.1309 and do not otherwise adversely influence the safety of the aircraft or its occupants. 
+ Section 23.1309(a)(2) does not mandate that non-required equipment and systems function properly during all airplane operations once in service, provided all potential failure conditions have no effect on the safe operation of the airplane. The equipment or system must function in the manner expected by the manufacturer's operating manual for the equipment or system. An applicant's statement of intended function must be sufficiently specific and detailed so that the FAA can evaluate whether the system is appropriate for the intended function(s). 
+ Garmin and Hawker Beechcraft stated, "* * * radio frequency energy and the effects (both direct and indirect) of lightning strikes" should be removed from Sec. 23.1309(a)(1). Their rationale is that there are specific requirements in Sec. 23.1308 for HIRF and for lightning in Sec. Sec. 23.867 and 23.954. 
+ The NPRM included this phrase to replace the existing general requirements in Sec. 23.1309(e) for the indirect effects of lightning. Since there is a specific HIRF requirement in Sec. 23.1308, the FAA agrees to remove the words "radio frequency." Sections 23.867 and 23.954 are requirements for the direct effects of lightning; therefore, the FAA also agrees to remove the word "direct." 
+ Several months after the FAA issued the NPRM for this rule, the FAA issued an NPRM (75 FR 16676, April 2, 2010) proposing specific requirements for the indirect effects of lightning in proposed Sec. 23.1306. The FAA plans to keep the requirement for indirect effects of lightning in Sec. 23.1309(a)(1) until that final rule publishes. 
+ GAMA and Garmin suggested deleting the phrase "or systems whose improper function could reduce safety" in Sec. 23.1309(a)(1). However, they agree to the explanation of the requirements in the preamble of the NPRM. They also stated the rule would be challenging to comply with since proposed Sec. 23.1309(b) deals with failure conditions such as the effects of malfunctions. The FAA agrees and has removed the phrase. 
+ Several commenters stated that Sec. 23.1309(a)(2) should be revised by replacing the beginning phrase "Those required for type certification or by operating rules and other" with "Any." This revision is not a substantive change, and the FAA has revised the phrase as requested. 
+ Cessna and Garmin stated that the safety assessment process in proposed Sec. 23.1309(b) should not supersede the HIRF requirements of Sec. 23.1308 and proposed Sec. 23.1306, electrical and electronic system lightning protection. They also stated that the environmental effects, such as HIRF and lightning, should not be considered in combination with another single failure or pre-existing latent failure. The FAA agrees. 
+ We proposed that Sec. 23.1309(a)(3) be applicable for all functional reliability, flight testing, or flight evaluations. Proposed Sec. 23.1309(a)(3) was revised to be applicable during Type Inspection Authorization (TIA) and FAA flight-certification testing. 
+ Proposed Sec. 23.1309(a)(3) is being changed to Sec. 23.1309(b) in this final rule. Cessna, Embraer, and Garmin stated that the probability requirements were not appropriate for typical certification flight test, but portions of the preamble material are appropriate for advisory material. They also commented that root cause analysis and corrective action is the current industry practice and should be reflected in the rule. The FAA does not intend for the probability requirements, based on random distribution across a fleet of aircraft, to be applied on the beginning phase of operation. The FAA accepted these comments and modified proposed Sec. 23.1309(b) in this final rule. This section was revised to be applicable during TIA and FAA flight-certification testing. This requirement now reads: "Minor, major, hazardous, or catastrophic failure condition(s), which occur during TIA or FAA flight-certification testing, must have root cause analysis and corrective action." 
+ The FAA expects the applicant to show the system does not exhibit unintended or undesirable failure conditions that are minor, major, hazardous, or catastrophic. Guidance will be provided in AC 23.1309-1E. 
+ Garmin stated that the FAA removed the catastrophic failure condition limitation for the Visual Flight Rules (VFR) airplane from proposed Sec. 23.1309(b) without explanation. We removed this limitation since airplanes limited to VFR operation may have technologies that were not envisioned when Amendment 23-41 was developed. The advanced complex technologies now being installed also need to undergo the system safety assessment process. 
+ Several proposed amendments to introductory text for Sec. 23.1309 and Appendix K would have codified a long-established means of compliance with current equipment, systems, and installations requirements. We also proposed updating failure condition(s) terminology used in related system safety assessment documents developed by industry working groups (e.g., RTCA and the Society of Automotive Engineers (SAE)). Some of this material identifies four classes of airplanes, as defined in Appendix K, and applies appropriate probability values and development assurance levels for each class. The FAA added this material as proposed requirements in the NPRM due to problems with one significant certification program. 
+ EASA stated that the proposed requirements and current requirements are applicable and no hierarchy is implied. EASA also stated that both specific and general requirements should apply, and the exceptions to other requirements should be listed. Time and the often case-by-case nature of exceptions do not permit the FAA to list all (potential) exceptions for Sec. 23.1309. The FAA has withdrawn the proposed exceptions from Sec. 23.1309 but will list some of them in AC 23.1309- 1E. The FAA will determine and consider additional exceptions in future revisions of AC 23.1309. Until then, applicants and certification authorities should contact the FAA, Small Airplane Directorate for approval of additional exceptions. 
+ Boeing, Cessna, Cirrus, Diamond, Embraer, GAMA, Garmin, GE, and Hawker Beechcraft stated that the guidance and clarification to proposed sections and Appendix K should not be regulatory text and should only be in the guidance material of AC 23.1309-1E. They stated that most of these proposed changes would result in more confusion and less standardization. They also asserted that there would be more exemptions, ELOS findings, and complicated compliance demonstrations with no safety benefit. As such, this would cause additional burden, inefficiencies, and cost. The commenters further asserted that having this material available only as guidance would allow the applicant to choose an alternative to the proposed requirements as a means of compliance. 
+ The FAA acknowledges that there has not been a problem with most applicants using this material as a means of compliance when only using AC 23.1309-1D, except for one type-certification program. Therefore, the FAA has decided not to proceed with the pertinent proposed amendments to Sec. 23.1309(b)(4), (b)(5), (c), (d), and (e) and will also not codify Appendix K. As requested, this material will remain available as a means of compliance in AC 23.1309-1E. Proposed Sec. Sec. 23.1309 (b)(1), (b)(2), and (b)(3) are now redesignated as Sec. Sec. 23.1309(c)(1), (c)(2), and (c)(3) since proposed Sec. 23.1309(a)(3) is redesignated as Sec. 23.1309(b) in this final rule, as discussed above. 
+ Cirrus stated that note 5 in figure 2 of AC 23.1309-1C/D, should also be in Appendix K. Neither Appendix K nor figure 2 of AC 23.1309-1E contained note 5 as AC 23.1309-1C/D did. Note 5 allows an additional reduction of Development Assurance Level (DAL) for Navigation, Communication, and Surveillance Systems if an altitude encoding altimeter transponder is installed and it provides the appropriate mitigations. 
+ This note was deleted since it was misused, and it is not appropriate to use a transponder as mitigation. If the transponder is actually providing mitigations for failure conditions, then the note is unnecessary for the system assessment process. Note 5 is removed from AC 23.1309-1E and, as stated above, the proposal to codify Appendix K is withdrawn. 
+ GE stated that the implementation of the four classes of airplanes, in Appendix K of the NPRM, has a sliding scale of acceptable risk/ severity. That scale depends on airplane category, and it introduces inconsistency with other rules. GE believes this may lead to confusion of different numeric interpretations depending on the size of the airplane. 
+ The FAA developed the four classes of airplanes in AC 23.1309-1C over 10 years ago for the implementation of modern avionics that provide safety benefits in part 23 airplanes. History has shown that developing the four classes improves safety, without confusion, due to the new features on electronic systems being installed. The aviation industry as a whole is on the threshold of a revolutionary change in communication, navigation, and surveillance of aircraft operations. The four-class certification criteria have been shown to be beneficial for new technologies and affordable for General Aviation. The FAA considers the four-classes more appropriate for an advisory circular and has decided to retain the four classes of airplanes in AC 23.1309-1E and to remove Appendix K. 
+ The FAA proposed revising Sec. 23.1309(f) to make it compatible with the current Sec. 23.1322 ("Warning, caution, and advisory lights"), which distinguishes between caution, warning, and advisory lights installed on the flight deck. Other paragraphs were deleted from this section, as mentioned earlier; therefore, Sec. 23.1309(f) has been redesignated as Sec. 23.1309(d). Rather than only providing a warning to the flight crew, which is required by the current rule, newly redesignated Sec. 23.1309(d) requires that information concerning an unsafe system operating condition(s) be provided to the flight crew. 
+ Section 23.1309(d) also specifies that the design of systems and controls, including indications and annunciations, must reduce crew errors that could create more hazards. The additional hazards to be minimized include those caused by inappropriate actions by a crewmember in response to the failure, or those that could occur after a failure. 
+ The FAA proposed a new Sec. 23.1310 that was previously part of Sec. 23.1309. The proposed change would not have changed the current requirements; the only change would have been the new section designation. 
+ In the past, Sec. 23.1309 and Sec. 25.1309 had the same power source requirements. Then, there was a proposal for part 25 to move these requirements from Sec. 25.1309 to Sec. 25.1310 without change. In Amendment 25-123 (72 FR 63405, November 8, 2007), the proposed requirements were changed for clarification without substantial changes to the requirements. 
+ GAMA suggested a revision for clarification. Therefore, the FAA made a change to Sec. 23.1310 in the final rule by adopting the requirements in Sec. 25.1310. This will also provide consistency in our standards. 
+ The FAA also proposed amendments for plain language purposes. Transport Canada stated the word "instrument," which appears in several section titles in part 23, should be replaced with "indications." The FAA disagrees and maintains that the use of the word "instrument" is clear and appropriate. 
+ GAMA stated the requirements in Sec. 23.1311(a)(5) should only be applicable when part 23 airplanes are operating in IFR conditions. GAMA also noted that some of the equipment listed, like attitude, is not required for Visual Flight Rules (VFR). The FAA agrees attitude instruments are not required for VFR operations under part 91. 
+ The redundancy requirements for some flight instruments or indicators may be too restrictive for airplanes limited to VFR operations only. This has caused several applicants to request an ELOS from Sec. 23.1311(a)(5) for installation approval of electronic displays in part 23 airplanes limited to VFR operations only. The FAA agrees with this comment since it would reduce the burden of processing multiple ELOS findings. 
+ We proposed clarifying the requirements for "sensory cues" in Sec. 23.1311(a)(6). We also proposed amending Sec. 23.1311(a)(7) to make acceptable instrument markings on electronic displays equivalent to those instrument markings on conventional mechanical and electromechanical instruments. Several commenters suggested minor changes to the requirements for clarification. The FAA agrees with most of these changes and has made them in this final rule. 
+ The FAA proposed amending Sec. 23.1311(b) by replacing the phrase "remain available to the crew, without need for immediate action" with "be available within one second to the crew by a single pilot action or by automatic means." This proposal would allow an applicant to take credit for reversionary or secondary flight displays on multi- function flight displays that provide a secondary means of primary flight information. 
+ Embraer stated the one-second requirement in Sec. 23.1311(b) should be limited to the display of attitude. The FAA disagrees but acknowledges that in most current certifications of part 23 airplanes, the attitude is the only information considered essential for continued safe flight and landing. The FAA does not want to limit the one-second requirement to only attitude. With the expansion of future advanced technologies, some airplanes may have other information essential for continued safe flight and landing. 
+ GAMA, Cessna, and Garmin commented on making minor changes to proposed Sec. 23.1311 for clarification. We incorporated most of these changes. Garmin suggested other minor recommendations to the NPRM. We also accepted most of these recommendations. They will be reflected in AC 23.1311-1C. 
+ To meet the jet performance requirements in Subpart B, the pilot needs accurate speed indicators while accelerating on the runway. We proposed revisions to add the requirement to calibrate the airspeed system down to 0.8 of the minimum value of V1. We also proposed the language used in part 25 for this same requirement because it is more in line with operating new part 23 jets. 
+ Diamond asked why this requirement is specific to jets and commuter category aircraft. Additionally, Diamond found the wording used in proposed Sec. 23.1323(e) confusing and suggested that it be reworded. If the intent is to keep this rule applicable to multiengine and commuter jets, then the commenter recommends removing the words normal, utility, and acrobatic (which represent the different categories of aircraft). 
+ The requirement in the prior amendment for Sec. 23.1323(e) was applicable to the commuter category because only those part 23 airplanes were required to be certificated for accelerate-stop testing. The proposed amendment changed Sec. 23.55 to require accelerate-stop testing for multiengine jets weighing more than 6,000 pounds, as well as commuter category airplanes. A multiengine airplane can be commuter category, but it may also be in the normal, utility, or the acrobatic category. This final rule will clarify that all multiengine jets weighing more than 6,000 pounds are subject to accelerate-stop testing, regardless of category or whether it is a turboprop or jet. This final rule also adds the requirement to calibrate the airspeed system down to 0.8 of the minimum value of V1. 
+ Changes to pitot heat indication systems requirements in Sec. 23.1326 were not included in the NPRM. Cessna stated that the previous rule required an amber light during startup and taxi when there was no safety issue. Since current annunciation systems provide the ability to change the annunciation of pitot heat during flight phases to amber, the rule should acknowledge the capability. Cessna suggested that the rule specify the following: "If a flight instrument pitot heating system is installed to meet the requirements specified in Sec. 23.1323(d), an indication system must be provided to indicate to the flight crew when that pitot heating system is not operating during takeoff or in flight." 
+ The FAA agrees, but the amber light must be operating except when the airplane is on the ground. However, since this comment is beyond the scope of the current rulemaking, the FAA did not include this change in the final rule. 
+ The FAA further proposed to change requirements for instruments that use a power source. Proposed Sec. 23.1331 would apply to instruments that rely on a power source to provide required flight information for IFR operations. Independent power sources must be provided for these instruments or a separate display of the parameters that have a power source independent from the airplane's primary electrical power system. Embraer requested clarification of Sec. 23.1331(c)(2) without substantial change to the requirements. The FAA agrees and made those changes in this final rule. 
+ Cirrus stated that an additional heading display should not be required in Sec. 23.1331(c)(2) for small general aviation aircraft since heading has a low safety criticality relative to altitude, attitude, and airspeed for this class of airplane. The FAA disagrees since an additional or separate display is not required if there are two independent power sources. Heading is an important parameter, and Sec. 91.205 requires a stabilized heading source for IFR operations, in addition to the magnetic direction indicator. 
+ Proposed amendments for storage battery design and installation in Sec. 23.1353 would have added additional battery endurance requirements to enhance safety based on the airplane's altitude performance. The proposal addressed the power needs of new all- electrical instruments, navigation and communications equipment, and engine controls. 
+ When those requirements were initially adopted, part 23 airplanes were mostly mechanical. All-electric, or almost all-electric airplanes were not envisioned. Previously, the FAA required 30 minutes of sufficient electrical power for a reduced or emergency group of equipment and instrumentation. The FAA considered 30 minutes adequate to reach VFR conditions to continue flying to an adequate airport and to accomplish a safe landing for traditional part 23 airplanes. 
+ Integrated electrical cockpits were also not envisioned during initial development of those requirements. Currently, new part 23 airplanes are being certificated with all-electrical instruments, including the standby instruments. This reliance on electric power has increased the importance of ensuring adequate battery power until the pilot can descend and make a safe landing. 
+ Most new turbine-powered airplanes, and some turbocharged, piston- powered airplanes, operate at high altitudes under IFR. Under these conditions, 30 minutes may not be adequate for battery power because it would take more time to descend from maximum altitude to find visual meteorological conditions (VMC) and land, or to perform an instrument approach for a landing. For these reasons, the proposed requirement would extend the battery time requirement to 60 minutes for approved airplanes with a maximum operating altitude above 25,000 feet. The 30 minute battery capacity was retained for airplanes with a maximum operating altitude of 25,000 feet or less. 
+ We received five comments on this issue. Cessna, Diamond, and GAMA stated that the 60-minute battery capacity should not be required. They suggested a requirement to demonstrate descent and landing plus 10 minutes. Cirrus recommended a second energy source instead of a 60- minute battery. EASA suggested including the time to recognize the failure and take load shedding action, which was inadvertently omitted in the NPRM. 
+ The FAA disagrees with the Cessna, Diamond, and GAMA's comments. While jets often have speed brakes and a high dive speed, the rule requires descent and landing. Jets also typically have high stall speeds, which may limit the number of airports where they can safely land, and off-airport landing capability is minimal. There are also piston-powered airplanes that operate above 25,000 feet with turbocharging, which do not have the dive speed and speed brakes often installed in jets. All of these airplanes can operate in IMC, which can delay the landing. Thus, the 60-minute battery capacity is valid for higher performance aircraft that operate above 25,000 feet. 
+ The FAA also disagrees with Cirrus that a separate power source is superior to a 60-minute battery. Single- or dual-power sources are not causes for concern because the intent of Sec. 23.1353(h) is to assume the loss of all generated power. 
+ There was not a proposal in the NPRM to revise Sec. 23.1431, electronic equipment, but editorial changes have become necessary since there were paragraph designation changes in Sec. 23.1309. 
+ We proposed changing requirements in Sec. 23.1443 for minimum mass flow of supplemental oxygen. The FAA has addressed oxygen systems for airplanes operating above 41,000 feet using special conditions derived from part 25. A large number of new jets and high-performance airplanes applying for part 23 certification operate at higher altitudes than previously envisioned for part 23 airplanes. Proposed revisions would establish requirements for those oxygen systems. These proposed revisions would also eliminate the need for oxygen system special conditions for airplanes with maximum operating altitudes above 41,000 feet. 
+ Cessna and EASA stated that the proposed rule conflicted with another rule for crew oxygen equipment since a continuous oxygen system is unacceptable for the crew at that altitude. The FAA agrees and has modified Sec. 23.1443(a) to apply continuous flow oxygen systems only to passengers for operations above 41,000 feet as required by Sec. 23.1441(d). 
+
+J. Placards, Operating Limitations, and Information 
+
+ Proposed revisions to airspeed limitations in Sec. 23.1505(c) would include jet-specific V-speeds. This proposal would base airspeed limits on a combination of analytical (VD/MD) and demonstrated (VDF/MDF) dive speeds for jets. 
+ The FAA received one comment from EASA. EASA stated that it applies a special condition for high-speed characteristics not included in our proposal. Again, EASA's comment suggests performance-based standards. Amending part 23 to a performance-based standard is a substantially larger initiative than this rulemaking effort. 
+ The FAA also proposed amendments that were clarifying in nature so applicants would understand that they may need additional equipment for their airplane(s) to conduct part 135 operations. Part 23 is a minimum- performance standard, and it may not include all the required equipment for operations under part 135. Proposed revisions to Sec. 23.1525 would include parts 91 and 135 as potential kinds of authorized operation. 
+ The FAA received comments from Transport Canada, Embraer, Cirrus, and Diamond. All four commenters stated that the operating rules should not be referenced in part 23. There was concern the proposed revisions could be misinterpreted and increase the certification burden to manufacturers. We do not intend to add any burden to manufacturers. We simply wanted to remind them that in many cases, part 135 operations require additional equipment not typically installed as standard equipment in part 23 airplanes. However, in light of those comments, this proposal is withdrawn. 
+ The FAA proposed revising Sec. Sec. 23.1583(c)(3), 23.1583(c)(4), and 23.1583(c)(5), operating limitations; Sec. 23.1585(f), operating procedures; and Sec. 23.1587(d) performance information by applying most commuter category performance requirements to jets weighing over 6,000 pounds. The proposed AFM requirements would maintain consistency with the performance requirements proposed in Subpart B. These requirements include the single-engine climb performance increase for turboprops. 
+ The FAA received three comments, one from EASA, Diamond, and Transport Canada. EASA states that it requires a special condition for landing distance factors not included in our proposal. This comment is outside the scope of this rulemaking effort. Diamond questioned the distinction between turbines and high-performance piston airplanes. The FAA agrees conceptually with these comments, but they are also beyond the scope of this rulemaking effort. Transport Canada stated that part 23 jets should include data for wet and contaminated runways. The upcoming part 23 regulatory review for future rulemaking will consider performance data. 
+
+K. Test Procedure and Appendices 
+
+ The FAA proposed changing Appendix F, which is the test procedure for the requirement in Sec. 23.856. GE asked if the test procedure was new. The test procedure is not new; Appendix F modifications made new part 23, Appendix F, part II, identical to part 25, Appendix F, part VI. GAMA questioned the use of a brand name in the discussion of Appendix F, Figure F1. In response, we reaffirm the use of the brand name as adopted from part 25, Appendix F. Again, our efforts toward standardization should be maintained wherever appropriate in our requirements. Appendix F is adopted as proposed. 
+
+III. Regulatory Analyses 
+
+Paperwork Reduction Act 
+
+ The Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)) requires that the FAA consider the impact of paperwork and other information collection burdens imposed on the public. The FAA has determined that there is no new requirement for information collection associated with this final rule. 
+
+International Compatibility 
+
+ In keeping with U.S. obligations under the Convention on International Civil Aviation, it is FAA policy to conform to International Civil Aviation Organization (ICAO) Standards and Recommended Practices to the maximum extent practicable. The FAA has reviewed the corresponding ICAO Standards and Recommended Practices and has identified no differences with these regulations. 
+
+Regulatory Evaluation, Regulatory Flexibility Determination, International Trade Impact Assessment, and Unfunded Mandates Assessment 
+
+ Changes to Federal regulations must undergo several economic analyses. First, Executive Order 12866 directs that each Federal agency shall propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs. Second, the Regulatory Flexibility Act of 1980 (Pub. L. 96-354) requires agencies to analyze the economic impact of regulatory changes on small entities. Third, the Unfunded Mandates Reform Act of 1995 (Pub. L. 104- 4) requires agencies to prepare a written assessment of the costs, benefits, and other effects of proposed or final rules that include a Federal mandate likely to result in the expenditure by State, local, or Tribal governments, in the aggregate, or by the private sector, of $100 million or more annually (adjusted for inflation with base year of 1995). This portion of the preamble summarizes the FAA's analysis of the economic impacts of this final rule. Readers seeking greater detail should read the full regulatory evaluation, a copy of which we have placed in the docket for this rulemaking. 
+ In conducting these analyses, the FAA has determined that this final rule: (1) Has benefits that justify its costs, (2) is not an economically "significant regulatory action" as defined in section 3(f) of Executive Order 12866, (3) is "significant" as defined in DOT's Regulatory Policies and Procedures; (4) will not have a significant economic impact on a substantial number of small entities; (5) will not create unnecessary obstacles to the foreign commerce of the United States; and (6) will not impose an unfunded mandate on state, local, or Tribal governments, or on the private sector by exceeding the threshold identified above. These analyses are summarized below. 
+
+Total Benefits and Costs of This Rule 
+ The estimated cost of this final rule ranges from a low of $65.2 million to a high of $72.9 million in nominal dollars ($22.9 million to $26.7 million at a seven percent present value). 
+ The total benefits are equal to the sum of the safety and efficiency benefits. The estimated safety benefits of avoiding 26 accidents on newly certificated part 23 airplanes over the 57-year analysis interval are estimated at about $187.1 million in nominal dollars ($46.5 million at a seven percent present value). 
+ The estimated efficiency benefits to streamline the part 23 certification process are valued at about $965 thousand, in nominal dollars, for five special conditions per aircraft certification, to about $1.5 million, in nominal dollars, for eight special conditions per aircraft certification. The total benefits range from a low of about $188.1 million to high of about $188.6 million in nominal dollars. The following table shows these results. 
+
+Who is Potentially Affected by This Rule 
+ This rulemaking will affect U.S. manufacturers and operators of part 23 turbojets, turboprops, and reciprocating engine airplanes. 
+
+Assumptions 
+ This final rule makes the following assumptions: 
+
+The base year is 2010; 
+The average life of a U.S.-operated part 23 airplane is 32 years; 
+The average part 23 airplane production life cycle is 25 years; 
+The analysis period extends for 57 years (32 + 25); and 
+The value of a fatality avoided is $6.0 million. Benefits of This Rule 
+
+ The FAA estimates the final rule will avoid 26 accidents over the 32-year operating life of 29,725 newly certificated and delivered part 23 airplanes. The resulting benefits include standardizing and streamlining the certification process, averted fatalities and injuries, loss of airplanes, investigation cost, and collateral damages for the accidents. 
+ The safety benefits for averting the 26 accidents are about $187.1 million in nominal dollars ($46.5 million at a seven percent present value). Other benefits of this final rule include FAA and industry paperwork and certification time saved by standardizing and streamlining the certification of part 23 airplanes. These efficiency benefits for standardizing and streamlining the certification process range from a low estimate of about $965 thousand to a high estimate of $1.5 million in nominal dollars. 
+ The total benefits are equal to the sum of the safety and efficiency benefits and range from a low of about $188.1 million to high of about $188.6 million in nominal dollars. 
+
+Costs of This Rule 
+ Estimated nominal dollar unit costs per part 23 airplane could be as high as: $1,009 for reciprocating engine airplanes, $6,105 for turboprops, and $8,053 for turbojets. Total incremental costs equal the nominal dollar unit costs multiplied by the number of newly certificated airplanes produced and delivered over the analysis interval. The estimated cost of this final rule ranges from a low of $65.2 million to high of $72.9 million in nominal dollars ($22.9 million to $26.7 at a seven percent present value). 
+
+Alternatives Considered 
+ Alternative 1--The FAA would continue to issue special exemptions, exceptions and equivalent levels of safety to certificate part 23 airplanes. As that would perpetuate "rulemaking by exemption," we choose not to continue with the status quo; and 
+ Alternative 2--The FAA would continue to enforce the current regulations that affect single-engine climb performance and power loss. The FAA rejected this alternative because the accident rate for part 23 airplanes identified a safety issue that had to be addressed. 
+
+Regulatory Flexibility Determination 
+
+ The Regulatory Flexibility Act of 1980 (Pub. L. 96-354) (RFA) establishes "as a principle of regulatory issuance that agencies shall endeavor, consistent with the objectives of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the businesses, organizations, and governmental jurisdictions subject to regulation. To achieve this principle, agencies are required to solicit and consider flexible regulatory proposals and to explain the rationale for their actions to assure that such proposals are given serious consideration." The RFA covers a wide range of small entities, including small businesses, not-for-profit organizations, and small governmental jurisdictions. 
+ Agencies must perform a review to determine whether a rule will have a significant economic impact on a substantial number of small entities. If the agency determines that it will, the agency must prepare a regulatory flexibility analysis as described in the RFA. 
+ However, if an agency determines that a rule is not expected to have a significant economic impact on a substantial number of small entities, Section 605(b) of the RFA provides that the head of the agency may so certify and a regulatory flexibility analysis is not required. The certification must include a statement providing the factual basis for this determination, and the reasoning should be clear. 
+ The FAA has determined that this final rule will not have a significant impact on a substantial number of small entities. The purpose of this analysis is to provide the reasoning underlying the FAA's determination. 
+ The FAA made the same determination that this proposal would not have a significant impact on a substantial number of small entities in the notice of proposed rulemaking (NPRM). The only comment regarding small entities for the NPRM was Sino Swearingen, who requested we note that it is now Emivest Aerospace, which is foreign owned. 
+ First, we will discuss the reasons why the FAA is considering this action. We will follow with a discussion of the objective of, and legal basis for, the rule. Next we explain there are no relevant federal rules which may overlap, duplicate, or conflict with the final rule. Lastly, we will describe and provide an estimate of the number of small entities affected by the final rule and why the FAA believes this final rule will not result in a significant economic impact on a substantial number of small entities. 
+ We now discuss the reasons why the FAA is considering this action. 
+ The FAA proposed this action to amend safety and applicability standards for part 23 turbojets to reflect the current needs of the industry, accommodate future trends, address emerging technologies, and provide for future aircraft operations. This final rule primarily standardizes and streamlines the certification of part 23 turbojets. The changes to part 23 are necessary to eliminate the current workload of exemptions, special conditions, and equivalent levels of safety necessary to certificate part 23 turbojets. These part 23 changes will also clarify areas of frequent non-standardization and misinterpretation and provide appropriate safety and applicability standards that reflect the current state of the industry, emerging technologies and new types of operations for all part 23 airplanes, including turbojets, turboprops, and reciprocating engine airplanes. 
+ The FAA currently issues type certificates (TCs) for part 23 turbojets using extensive special conditions. Issuance of TCs has not been significant until now because there were few part 23 turbojet certification programs. However, in the past seven years, the number of new part 23 turbojet certification programs has increased by more than 100 percent when compared to over the past three decades. 
+ The need to incorporate these special conditions into part 23 stems from both the existing number of new turbojet certification programs and the expected number of future turbojet programs. Codifying these special conditions will allow manufacturers to know the requirements during the design phase instead of designing the turbojet and then having to apply for special conditions that may ultimately require a redesign. Codifying will also reduce the manufacturers and FAA's paper process required to type certificate an airplane and reduces the potential for program delays. These final rule changes will also clarify areas of frequent non-standardization and misinterpretation, particularly for electronic equipment and system certification on all newly certificated part 23 airplanes. 
+ The revisions include general definitions, error corrections, and specific requirements for performance and handling characteristics to ensure safe operation of part 23 airplanes. The revisions will apply to all future new part 23 turbojets, turboprops, and reciprocating engine airplane certifications. 
+ We now discuss the legal basis for, and objective of, the rule. Next, we discuss if there are relevant federal rules that may overlap, duplicate, or conflict with the rule. 
+ The FAA's authority to issue rules on aviation safety is found in Title 49 of the United States Code. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority. 
+ This rulemaking is promulgated under the authority described in Subtitle VII, Part A, Subpart III, Section 44701. Under that section, the FAA is charged with promoting safe flight of civil aircraft in air commerce by prescribing minimum standards required in the interest of safety for the design and performance of aircraft. This regulation is within the scope of that authority because it prescribes new safety standards for the design of part 23 normal, utility, acrobatic, and commuter category airplanes. 
+ Accordingly, this final rule will amend Title 14, the Code of Federal Regulations to address deficiencies in current regulations regarding the certification of part 23 light turbojets, turboprops and reciprocating engine airplanes. The final rule will also clarify areas of frequent non-standardization and misinterpretation and codify certification requirements that currently exist in special conditions. 
+ The rule will not overlap, duplicate, or conflict with existing federal rules. 
+ We now discuss our methodology to determine the number of small entities for which the rule will apply. 
+ Under the RFA, the FAA must determine whether a proposed or final rule significantly affects a substantial number of small entities. This determination is typically based on small entity size and cost thresholds that vary depending on the affected industry. 
+ Using the size standards from the Small Business Administration for Air Transportation and Aircraft Manufacturing, we defined companies as small entities if they have fewer than 1,500 employees.2
+
+ 2 13 CFR 121.201, Size Standards Used to Define Small Business Concerns, Sector 48-49 Transportation, Subsector 481 Air Transportation.
+
+ There are nine U.S.-owned aircraft manufacturers who deliver part 23 airplanes in the 1998-2009 analysis interval. These manufacturers are American Champion, Cessna, Cirrus, Hawker Beechcraft, Liberty, Maule, Mooney, Piper, and Quest. 
+ Using information provided by the World Aviation Directory, Internet filings and industry contacts, manufacturers that are subsidiary businesses of larger businesses, manufacturers that are foreign owned, and businesses with more than 1,500 employees were eliminated from the list of small entities. Cessna and Hawker Beechcraft are businesses with more than 1,500 employees and Cirrus and Liberty are foreign owned. We found no source of employment or revenue data for American Champion. For the remaining businesses, we obtained company revenue and employment from the above sources. 
+ The base year for the final rule is 2010. Although the FAA forecasts traffic and air carrier fleets, we cannot determine the number of new entrants, nor who will be in the part 23 aircraft manufacturing business in the future. Therefore we use current U.S. part 23 aircraft manufacturers' revenue and employment in order to determine the number of operators this final rule will affect. 
+ The methodology discussed above resulted in the following list of four U.S. part 23 aircraft manufactures, with less than 1,500 employees. 
+
+ From the list of small entity U.S. airplane manufacturers above, there are no manufacturers currently producing part 23 turbojets; only Piper and Quest produce turboprops. The remaining small entity U.S. aircraft manufacturers produce part 23 reciprocating engine airplanes. 
+ The U.S. Census Bureau data on the Small Business Administration's Web site shows an estimate of the total number of small entities who could be affected if they purchase newly certificated part 23 airplanes. The U.S. Census Bureau data lists 39,754 small entities in the Non-scheduled Air Transportation Industry that employ less than 500 employees. Many of these non-scheduled businesses are subject to part 25. Other small businesses may own aircraft and not be included in the U.S. Census Bureau Non-scheduled Air Transportation Industry category.3 Therefore, we will use the list of small entities from Table RF1 instead of the U.S. Census Bureau data for our Final Regulatory Flexibility Act (FRFA) analysis.
+
+ 3 http://www.sba.gov/advo/research/us05_n6.pdf.
+
+ We will now develop the estimate of the effect of this final rule on the total number of small entities that manufacture part 23 airplanes. 
+ First, we discuss our methodology to estimate the costs of the final rule to the small entity part 23 airplane manufacturers and operators. Next, we will discuss why the FAA believes the final rule will not result in a significant economic impact to part 23 airplane manufacturers and operators. 
+ In 2003, we published a notice (68 FR 5488) creating the part 125/ 135 Aviation Rulemaking Committee (ARC). The FAA and the part 23 industry have worked together to develop common part 23 airplane certification requirements for this rulemaking. We contacted the part 23 aircraft manufacturers, the ARC, and GAMA (an industry association for part 23 aircraft manufacturers) for specific cost estimates for each section change for the final rule. Not every party we contacted responded to our request for costs. Many of the ARC members, from the domestic and international manufacturing community, collaborated and filed a joint cost estimate for the proposed rule. 
+ We are basing our cost estimates for this final rule from data provided by the domestic part 23 U.S. aircraft manufacturers, ARC members, and GAMA. They informed us that the final rule will add costs for fire extinguishing systems, climb, take-off warning systems, ventilation systems, system designs, and batteries. Industry informed us that this proposal will save the manufacturers design time for the certification of cockpit controls. Industry has also informed us that every other section of this final rule is either clarifying, error correcting, or will only add minimal to no costs. 
+ The final rule adds certification requirements for the following part 23 airplane categories: 
+ 1. Turbojets; 
+ 2. Turbojets with a MTOW less than 6,000 pounds; 
+ 3. Turboprops; 
+ 4. Turboprops with a MTOW less than 6,000 pounds; 
+ 5. Reciprocating engine airplanes; and 
+ 6. Reciprocating engine airplanes with a MTOW greater than 6,000 pounds. 
+ In some cases the final rule will only affect part 23 airplanes operated in revenue service. Any part 23 airplane could be used as a business airplane to haul passengers and cargo in commercial service. We estimated the business versus the personal use of a part 23 airplane by analyzing the number of all U.S.-operated airplanes from Table 3.1 of the 2008 General Aviation and Part 135 Activity Survey. 
+ Table 3.1 of that survey shows the breakout of the 2008 General Aviation fleet by business, corporate, instructional, aerial applications, aerial observations, aerial other, external load, other work, sight see, air medical, other, part 135 Air Taxi, Air Tours, and Air Medical airplane usage. For the purpose of estimating the cost of this proposal, we assume all-business part 23 airplane operators from Table 3.1 of the 2008 General Aviation and Part 135 Activity Survey will operate in commuter service. 
+ Table RF2 shows these results: 
+
+ Table RF3 shows the final rule sections that add (or subtract) incremental costs by increasing design or flight testing times, adding weight, adding batteries, or reducing payload: 
+
+ We estimated part 23 airplane fixed manufacturer (added certification plus flight test hours) and operator-variable flight operation (added weight, batteries, or a reduction in payload) costs and applied our estimated costs to the expected fleet delivered in compliance with this final rule. The total cost of this final rule is the sum of the fixed certification cost plus the variable flight operation cost multiplied by the expected newly certificated part 23 fleet delivered over the analysis interval. 
+ The total fixed certification compliance cost equals the industry- provided incremental hours or dollar costs multiplied by the expected number of new certifications for part 23 turbojets, turboprops, and reciprocating engine airplanes. 
+ The total variable flight operation compliance cost equals the industry-provided incremental weight, payload reduction, or dollar costs multiplied by the expected number of newly certificated part 23 turbojets, turboprops, and reciprocating engine airplanes delivered. In the regulatory analysis, we estimated a low case and a high case cost range for the fixed operation compliance costs. The range was based on the 10% loss in payload capacity noted in Table RF3. 
+ In the low case, we estimated no loss in capacity because our analysis showed that part 23 airplanes operate well below the airplane's payload capacity. In the high case, we estimated a cost to operators for the 10% loss in payload capacity. We will use the high- variable, flight operation cost scenario for this FRFA analysis. 
+ We estimated the nominal dollar unit costs for all part 23 airplanes by summing the fixed certification costs with the variable flight operations compliance costs by part 23 turbojets, turboprops, and reciprocating engine airplanes. Next, we divided these sums by the number of newly certificated delivered part 23 turbojets, turboprops, and reciprocating engine airplanes. Our calculations yielded that unit costs could be as high as $1,009 for newly certificated reciprocating engine airplanes and $6,105 for turboprop airplanes. 
+ We then took the product of the estimated unit airplane cost with the average annual number of part 23 turbojets, turboprops, and reciprocating engine airplanes that each of the four small business part 23 manufacturers (from Table RF1) delivered from 1998 to 2009. This product determined the annual impact of the final rule to each small business part 23 manufacturer. Lastly, we divided each small part 23 airplane manufacturer's annual revenue by the incremental costs. 
+ Table RF4 shows these results: 
+
+ We do not believe that these final rule costs will be a significant impact to small entity operators because, even for the high-cost case, the compliance costs of this proposal to operators would only be less than one percent of annual revenue for each of the small business part 23 manufacturers. Again, the only comment regarding small entities for the NPRM was the noted comment from Sino Swearingen. 
+ Therefore, as the FAA Administrator, I certify that this final rule will not have a significant economic impact on a substantial number of small entities. 
+
+International Trade Impact Assessment 
+
+ The Trade Agreements Act of 1979 (Pub. L. 96-39), as amended by the Uruguay Round Agreements Act (Pub. L. 103-465), prohibits Federal agencies from establishing standards or engaging in related activities that create unnecessary obstacles to the foreign commerce of the United States. Pursuant to these Acts, the establishment of standards is not considered an unnecessary obstacle to the foreign commerce of the United States, so long as the standard has a legitimate domestic objective, such as the protection of safety, and does not operate in a manner that excludes imports that meet this objective. The statute also requires consideration of international standards and, where appropriate, that they be the basis for U.S. standards. 
+ The FAA has assessed the potential effect of this final rule and determined that the standards are necessary for aviation safety and will not create unnecessary obstacles to the foreign commerce of the United States. 
+
+Unfunded Mandates Assessment 
+
+ Title II of the Unfunded Mandates Reform Act of 1995 (Pub. L. 104- 4) requires each Federal agency to prepare a written statement assessing the effects of any Federal mandate in a proposed or final agency rule that may result in an expenditure of $100 million or more (in 1995 dollars) in any one year by State, local, and Tribal governments, in the aggregate, or by the private sector; such a mandate is deemed to be a "significant regulatory action." 
+ The FAA currently uses an inflation-adjusted value of $140.8 million in lieu of $100 million. This final rule does not contain such a mandate; therefore, the requirements of Title II of the Act do not apply. 
+
+Executive Order 13132, Federalism 
+
+ The FAA has analyzed this final rule under the principles and criteria of Executive Order 13132, Federalism. We determined that this action will not have a substantial direct effect on the States, or the relationship between the Federal Government and the States, or on the distribution of power and responsibilities among the various levels of government; therefore, it does not have federalism implications. 
+
+Regulations Affecting Intrastate Aviation in Alaska 
+
+ Section 1205 of the FAA Reauthorization Act of 1996 (110 Stat. 3213) requires the FAA, when modifying its regulations in a manner affecting intrastate aviation in Alaska, to consider the extent to which Alaska is not served by transportation modes other than aviation, and to establish appropriate regulatory distinctions. In the NPRM, we requested comments on whether the proposed rule should apply differently to intrastate operations in Alaska. We did not receive any comments. We have determined, based on the administrative record of this rulemaking, that there is no need to make any regulatory distinctions applicable to intrastate aviation in Alaska. 
+
+Environmental Analysis 
+
+ FAA Order 1050.1E identifies FAA actions that are categorically excluded from preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act in the absence of extraordinary circumstances. The FAA has determined this rulemaking action qualifies for the categorical exclusion identified in paragraph 312(f) and involves no extraordinary circumstances. 
+
+Regulations That Significantly Affect Energy Supply, Distribution, or Use 
+
+ The FAA analyzed this final rule under Executive Order 13211, Actions Concerning Regulations that Significantly Affect Energy Supply, Distribution, or Use (May 18, 2001). We have determined that it is not a "significant energy action" under the executive order because it is not a "significant regulatory action," and it is not likely to have a significant adverse effect on the supply, distribution, or use of energy. 
+
+Availability of Rulemaking Documents 
+
+ You can get an electronic copy of rulemaking documents using the Internet by-- 
+ 1. Searching the Federal eRulemaking Portal (http://www.regulations.gov); 
+ 2. Visiting the FAA's Regulations and Policies Web page at http://www.faa.gov/regulations_policies/ or 
+ 3. Accessing the Government Printing Office's Web page at http://www.gpoaccess.gov/fr/index.html. 
+ You can also get a copy by sending a request to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue SW., Washington, DC 20591, or by calling (202) 267-9680. Make sure to identify the notice, amendment, or docket number of this rulemaking. 
+ Anyone is able to search the electronic form of all comments received into any of our dockets by the name of the individual submitting the comment (or by signing the comment, if submitted on behalf of an association, business, labor union, etc.). You may review DOT's complete Privacy Act statement in the Federal Register published on April 11, 2000 (Volume 65, Number 70; Pages 19477-78) or you may visit http://DocketsInfo.dot.gov. 
+
+Small Business Regulatory Enforcement Fairness Act 
+
+ The Small Business Regulatory Enforcement Fairness Act (SBREFA) of 1996 requires FAA to comply with small entity requests for information or advice about compliance with statutes and regulations within its jurisdiction. If you are a small entity and you have a question regarding this document, you may contact your local FAA official, or the person listed under the FOR FURTHER INFORMATION CONTACT heading at the beginning of the preamble. You can find out more about SBREFA on the Internet at http://www.faa.gov/regulations_policies/rulemaking/sbre_act/. 
+
+List of Subjects in 14 CFR Part 23 
+
+ Aviation safety, Signs, Symbols, Aircraft. 
+
+ 
+        
+REGULATORY TEXT: The Amendments 
+
+In consideration of the foregoing, the Federal Aviation Administration amends Chapter I of Title 14, Code of Federal Regulations, as follows: 
+
+PART 23--AIRWORTHINESS STANDARDS; NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES 
+
+1. The authority citation for part 23 continues to read as follows: 
+
+Authority: 49 U.S.C. 106(G), 40113, 44701-44702, 44704. 
+
+2. Amend Sec. 23.3 by revising the first sentence in paragraph (d) to read as follows: 
+
+Sec. 23.3 Airplane categories. 
+
+* * * * *
+(d) The commuter category is limited to multiengine airplanes that have a seating configuration, excluding pilot seats, of 19 or less, and a maximum certificated takeoff weight of 19,000 pounds or less. * * * 
+* * * * *
+
+3. Amend Sec. 23.45 by revising the introductory text of paragraph (h) to read as follows: 
+
+Sec. 23.45 General. 
+
+* * * * *
+(h) For multiengine jets weighing over 6,000 pounds in the normal, utility, and acrobatic category and commuter category airplanes, the following also apply: 
+* * * * *
+
+4. Amend Sec. 23.49 by revising the section heading and the introductory text of paragraphs (a) and (c) to read as follows: 
+
+Sec. 23.49 Stalling speed. 
+
+(a) VSO (maximum landing flap configuration) and VS1 are the stalling speeds or the minimum steady flight speeds, in knots (CAS), at which the airplane is controllable with-- 
+* * * * *
+(c) Except as provided in paragraph (d) of this section, VSO at maximum weight may not exceed 61 knots for-- 
+* * * * *
+
+5. Amend Sec. 23.51 by revising paragraph (b)(1) introductory text and paragraph (c) introductory text to read as follows: 
+
+Sec. 23.51 Takeoff speeds. 
+
+* * * * *
+(b) * * * 
+
+(1) For multiengine airplanes, the highest of-- 
+
+* * * * *
+
+(c) For normal, utility, and acrobatic category multiengine jets of more than 6,000 pounds maximum weight and commuter category airplanes, the following apply: 
+* * * * *
+
+6. Amend Sec. 23.53 by revising paragraph (c) to read as follows: 
+
+Sec. 23.53 Takeoff performance. 
+
+* * * * *
+(c) For normal, utility, and acrobatic category multiengine jets of more than 6,000 pounds maximum weight and commuter category airplanes, takeoff performance, as required by Sec. Sec. 23.55 through 23.59, must be determined with the operating engine(s) within approved operating limitations. 
+
+7. Amend Sec. 23.55 by revising the introductory text to read as follows: 
+
+Sec. 23.55 Accelerate-stop distance. 
+
+For normal, utility, and acrobatic category multiengine jets of more than 6,000 pounds maximum weight and commuter category airplanes, the accelerate-stop distance must be determined as follows: 
+* * * * *
+
+8. Amend Sec. 23.57 by revising the introductory text to read as follows: 
+
+Sec. 23.57 Takeoff path. 
+
+For normal, utility, and acrobatic category multiengine jets of more than 6,000 pounds maximum weight and commuter category airplanes, the takeoff path is as follows: 
+* * * * *
+
+9. Amend Sec. 23.59 by revising the introductory text to read as follows: 
+
+Sec. 23.59 Takeoff distance and takeoff run. 
+
+For normal, utility, and acrobatic category multiengine jets of more than 6,000 pounds maximum weight and commuter category airplanes, the takeoff distance and, at the option of the applicant, the takeoff run, must be determined. 
+* * * * *
+
+10. Amend Sec. 23.61 by revising the introductory text to read as follows: 
+
+Sec. 23.61 Takeoff flight path. 
+
+For normal, utility, and acrobatic category multiengine jets of more than 6,000 pounds maximum weight and commuter category airplanes, the takeoff flight path must be determined as follows: 
+* * * * *
+
+11. Amend Sec. 23.63 by revising the introductory text of paragraphs (c) and (d) to read as follows: 
+
+Sec. 23.63 Climb: General. 
+
+* * * * *
+(c) For reciprocating engine-powered airplanes of more than 6,000 pounds maximum weight, single-engine turbines, and multiengine turbine airplanes of 6,000 pounds or less maximum weight in the normal, utility, and acrobatic category, compliance must be shown at weights as a function of airport altitude and ambient temperature, within the operational limits established for takeoff and landing, respectively, with-- 
+* * * * *
+
+(d) For multiengine turbine airplanes over 6,000 pounds maximum weight in the normal, utility, and acrobatic category and commuter category airplanes, compliance must be shown at weights as a function of airport altitude and ambient temperature within the operational limits established for takeoff and landing, respectively, with-- 
+* * * * *
+
+12. Amend Sec. 23.65 by revising paragraph (b) to read as follows: 
+
+Sec. 23.65 Climb: All engines operating. 
+
+* * * * *
+(b) Each normal, utility, and acrobatic category reciprocating engine-powered airplane of more than 6,000 pounds maximum weight, single-engine turbine, and multiengine turbine airplanes of 6,000 pounds or less maximum weight in the normal, utility, and acrobatic category must have a steady gradient of climb after takeoff of at least 4 percent with 
+* * * * *
+
+13. Amend Sec. 23.67 by revising paragraph (b) introductory text and (b)(1) introductory text, redesignating paragraph (c) as paragraph (d), revising newly redesignated paragraph (d) introductory text, and adding new paragraph (c) to read as follows: 
+
+Sec. 23.67 Climb: One-engine inoperative. 
+
+* * * * *
+(b) For normal, utility, and acrobatic category reciprocating engine-powered airplanes of more than 6,000 pounds maximum weight, and turbopropeller-powered airplanes in the normal, utility, and acrobatic category-- 
+
+(1) The steady gradient of climb at an altitude of 400 feet above the takeoff must be no less than 1 percent with the-- 
+
+* * * * *
+(c) For normal, utility, and acrobatic category jets of 6,000 pounds or less maximum weight-- 
+
+(1) The steady gradient of climb at an altitude of 400 feet above the takeoff must be no less than 1.2 percent with the-- 
+
+(i) Critical engine inoperative; 
+(ii) Remaining engine(s) at takeoff power; 
+(iii) Landing gear retracted; 
+(iv) Wing flaps in the takeoff position(s); and 
+(v) Climb speed equal to that achieved at 50 feet in the demonstration of Sec. 23.53. 
+
+(2) The steady gradient of climb may not be less than 0.75 percent at an altitude of 1,500 feet above the takeoff surface, or landing surface, as appropriate, with the-- 
+
+(i) Critical engine inoperative; 
+(ii) Remaining engine(s) at not more than maximum continuous power; 
+(iii) Landing gear retracted; 
+(iv) Wing flaps retracted; and 
+(v) Climb speed not less than 1.2 VS1. 
+
+(d) For jets over 6,000 pounds maximum weight in the normal, utility and acrobatic category and commuter category airplanes, the following apply: 
+* * * * *
+
+14. Revise Sec. 23.73 to read as follows: 
+
+Sec. 23.73 Reference landing approach speed. 
+
+(a) For normal, utility, and acrobatic category reciprocating engine-powered airplanes of 6,000 pounds or less maximum weight, the reference landing approach speed, VREF, may not be less than the greater of VMC, determined in Sec. 23.149(b) with the wing flaps in the most extended takeoff position, and 1.3 VS1. 
+(b) For normal, utility, and acrobatic category turbine powered airplanes of 6,000 pounds or less maximum weight, turboprops of more than 6,000 pounds maximum weight, and reciprocating engine-powered airplanes of more than 6,000 pounds maximum weight, the reference landing approach speed, VREF, may not be less than the greater of VMC, determined in Sec. 23.149(c), and 1.3 VS1. 
+(c) For normal, utility, and acrobatic category jets of more than 6,000 pounds maximum weight and commuter category airplanes, the reference landing approach speed, VREF, may not be less than the greater of 1.05 VMC, determined in Sec. 23.149(c), and 1.3 VS1. 
+
+15. Amend Sec. 23.77 by revising the introductory text of paragraphs (b) and (c) to read as follows: 
+
+Sec. 23.77 Balked landing. 
+
+* * * * *
+(b) Each normal, utility, and acrobatic category reciprocating engine-powered and single engine turbine powered airplane of more than 6,000 pounds maximum weight, and multiengine turbine engine-powered airplane of 6,000 pounds or less maximum weight in the normal, utility, and acrobatic category must be able to maintain a steady gradient of climb of at least 2.5 percent with-- 
+* * * * *
+(c) Each normal, utility, and acrobatic multiengine turbine powered airplane over 6,000 pounds maximum weight and each commuter category airplane must be able to maintain a steady gradient of climb of at least 3.2 percent with-- 
+* * * * *
+
+16. Amend Sec. 23.177 by revising paragraphs (a), (b), and (d) to read as follows: 
+
+Sec. 23.177 Static directional and lateral stability. 
+
+(a)
+
+(1) The static directional stability, as shown by the tendency to recover from a wings level sideslip with the rudder free, must be positive for any landing gear and flap position appropriate to the takeoff, climb, cruise, approach, and landing configurations. This must be shown with symmetrical power up to maximum continuous power, and at speeds from 1.2 VS1 up to VFE, VLE, VNO, VFC/MFC, whichever is appropriate. 
+(2) The angle of sideslip for these tests must be appropriate to the type of airplane. The rudder pedal force must not reverse at larger angles of sideslip, up to that at which full rudder is used or a control force limit in Sec. 23.143 is reached, whichever occurs first, and at speeds from 1.2 VS1 to VO. 
+
+(b)
+
+(1) The static lateral stability, as shown by the tendency to raise the low wing in a sideslip with the aileron controls free, may not be negative for any landing gear and flap position appropriate to the takeoff, climb, cruise, approach, and landing configurations. This must be shown with symmetrical power from idle up to 75 percent of maximum continuous power at speeds from 1.2 VS1 in the takeoff configuration(s) and at speeds from 1.3 VS1 in other configurations, up to the maximum allowable airspeed for the configuration being investigated (VFE, VLE, VNO, VFC/MFC, whichever is appropriate) in the takeoff, climb, cruise, descent, and approach configurations. For the landing configuration, the power must be that necessary to maintain a 3-degree angle of descent in coordinated flight. 
+(2) The static lateral stability may not be negative at 1.2 VS1 in the takeoff configuration, or at 1.3 VS1 in other configurations. 
+(3) The angel of sideslip for these tests must be appropriate to the type of airplane, but in no case may the constant heading sideslip angle be less than that obtainable with a 10 degree bank or, if less, the maximum bank angle obtainable with full rudder deflection or 150 pound rudder force. 
+
+* * * * *
+(d)
+
+(1) In straight, steady slips at 1.2 VS1 for any landing gear and flap position appropriate to the takeoff, climb, cruise, approach, and landing configurations, and for any symmetrical power conditions up to 50 percent of maximum continuous power, the aileron and rudder control movements and forces must increase steadily, but not necessarily in constant proportion, as the angle of sideslip is increased up to the maximum appropriate to the type of airplane. 
+(2) At larger slip angles, up to the angle at which the full rudder or aileron control is used or a control force limit contained in Sec. 23.143 is reached, the aileron and rudder control movements and forces may not reverse as the angle of sideslip is increased. 
+(3) Rapid entry into, and recovery from, a maximum sideslip considered appropriate for the airplane may not result in uncontrollable flight characteristics. 
+
+17. Amend Sec. 23.181 by revising paragraph (b) to read as follows: 
+
+Sec. 23.181 Dynamic stability. 
+
+* * * * *
+(b) Any combined lateral-directional oscillations (Dutch roll) occurring between the stalling speed and the maximum allowable speed (VFE, VLE, VN0, VFC/ MFC) appropriate to the configuration of the airplane with the primary controls in both free and fixed position, must be damped to 1/10 amplitude in: 
+
+(1) Seven (7) cycles below 18,000 feet and 
+(2) Thirteen (13) cycles from 18,000 feet to the certified maximum altitude. 
+
+* * * * *
+
+18. Amend Sec. 23.201 by revising paragraph (d), by revising and redesignating current paragraph (e) as paragraph (f), and by adding a new paragraph (e) to read as follows: 
+
+Sec. 23.201 Wings level stall. 
+
+* * * * *
+
+(d) During the entry into and the recovery from the maneuver, it must be possible to prevent more than 15 degrees of roll or yaw by the normal use of controls except as provided for in paragraph (e) of this section. 
+(e) For airplanes approved with a maximum operating altitude at or above 25,000 feet during the entry into and the recovery from stalls performed at or above 25,000 feet, it must be possible to prevent more than 25 degrees of roll or yaw by the normal use of controls. 
+(f) Compliance with the requirements of this section must be shown under the following conditions: 
+
+(1) Wing flaps: Retracted, fully extended, and each intermediate normal operating position, as appropriate for the phase of flight. 
+(2) Landing gear: Retracted and extended as appropriate for the altitude. 
+(3) Cowl flaps: Appropriate to configuration. 
+(4) Spoilers/speedbrakes: Retracted and extended unless they have no measureable effect at low speeds. 
+(5) Power: 
+
+(i) Power/Thrust off; and 
+(ii) For reciprocating engine powered airplanes: 75 percent of maximum continuous power. However, if the power-to-weight ratio at 75 percent of maximum continuous power results in nose-high attitudes exceeding 30 degrees, the test may be carried out with the power required for level flight in the landing configuration at maximum landing weight and a speed of 1.4 VSO, except that the power may not be less than 50 percent of maximum continuous power; or 
+(iii) For turbine engine powered airplanes: The maximum engine thrust, except that it need not exceed the thrust necessary to maintain level flight at 1.5 VS1 (where VS1 corresponds to the stalling speed with flaps in the approach position, the landing gear retracted, and maximum landing weight). 
+
+(6) Trim: At 1.5 VS1 or the minimum trim speed, whichever is higher. 
+(7) Propeller: Full increase r.p.m. position for the power off condition. 
+
+19. Amend Sec. 23.203 by revising paragraph (c) to read as follows: 
+
+Sec. 23.203 Turning flight and accelerated turning stalls. 
+
+* * * * *
+(c) Compliance with the requirements of this section must be shown under the following conditions: 
+
+(1) Wings flaps: Retracted, fully extended, and each intermediate normal operating position as appropriate for the phase of flight. 
+(2) Landing gear: Retracted and extended as appropriate for the altitude. 
+(3) Cowl flaps: Appropriate to configuration. 
+(4) Spoilers/speedbrakes: Retracted and extended unless they have no measureable effect at low speeds. 
+(5) Power: 
+
+(i) Power/Thrust off; and 
+(ii) For reciprocating engine powered airplanes: 75 percent of maximum continuous power. However, if the power-to-weight ratio at 75 percent of maximum continuous power results in nose-high attitudes exceeding 30 degrees, the test may be carried out with the power required for level flight in the landing configuration at maximum landing weight and a speed of 1.4 VSO, except that the power may not be less than 50 percent of maximum continuous power; or 
+(iii) For turbine engine powered airplanes: The maximum engine thrust, except that it need not exceed the thrust necessary to maintain level flight at 1.5 VS1 (where VS1 corresponds to the stalling speed with flaps in the approach position, the landing gear retracted, and maximum landing weight). 
+
+(6) Trim: The airplane trimmed at 1.5 VS1. 
+(7) Propeller: Full increase rpm position for the power off condition. 
+
+20. Revise Sec. 23.251 to read as follows: 
+
+Sec. 23.251 Vibration and buffeting. 
+
+(a) There must be no vibration or buffeting severe enough to result in structural damage, and each part of the airplane must be free from excessive vibration, under any appropriate speed and power conditions up to VD/MD, or VDF/MDF for turbojets. In addition, there must be no buffeting in any normal flight condition, including configuration changes during cruise, severe enough to interfere with the satisfactory control of the airplane or cause excessive fatigue to the flight crew. Stall warning buffeting within these limits is allowable. 
+(b) There must be no perceptible buffeting condition in the cruise configuration in straight flight at any speed up to VMO/ MMO, except stall buffeting, which is allowable. 
+(c) For airplanes with MD greater than M 0.6 or a maximum operating altitude greater than 25,000 feet, the positive maneuvering load factors at which the onset of perceptible buffeting occurs must be determined with the airplane in the cruise configuration for the ranges of airspeed or Mach number, weight, and altitude for which the airplane is to be certificated. The envelopes of load factor, speed, altitude, and weight must provide a sufficient range of speeds and load factors for normal operations. Probable inadvertent excursions beyond the boundaries of the buffet onset envelopes may not result in unsafe conditions. 
+
+21. Amend Sec. 23.253 by revising paragraphs (b)(1) and (b)(2), and by adding new paragraphs (b)(3) and (d) to read as follows: 
+
+Sec. 23.253 High speed characteristics. 
+
+* * * * *
+(b) * * * 
+(1) Exceptional piloting strength or skill; 
+(2) Exceeding VD/MD, or VDF/ MDF for turbojets, the maximum speed shown under Sec. 23.251, or the structural limitations; and 
+(3) Buffeting that would impair the pilot's ability to read the instruments or to control the airplane for recovery. 
+* * * * *
+(d) Maximum speed for stability characteristics, VFC/MFC. VFC/MFC may not be less than a speed midway between VMO/MMO and VDF/MDF except that, for altitudes where Mach number is the limiting factor, MFC need not exceed the Mach number at which effective speed warning occurs. 
+
+22. Section 23.255 is added to subpart B to read as follows: 
+
+Sec. 23.255 Out of trim characteristics. 
+
+For airplanes with an MD greater than M 0.6 and that incorporate a trimmable horizontal stabilizer, the following requirements for out-of-trim characteristics apply: 
+(a) From an initial condition with the airplane trimmed at cruise speeds up to VMO/MMO, the airplane must have satisfactory maneuvering stability and controllability with the degree of out-of-trim in both the airplane nose-up and nose-down directions, which results from the greater of the following: 
+
+(1) A three-second movement of the longitudinal trim system at its normal rate for the particular flight condition with no aerodynamic load (or an equivalent degree of trim for airplanes that do not have a power-operated trim system), except as limited by stops in the trim system, including those required by Sec. 23.655(b) for adjustable stabilizers; or 
+(2) The maximum mistrim that can be sustained by the autopilot while maintaining level flight in the high speed cruising condition. 
+
+(b) In the out-of-trim condition specified in paragraph (a) of this section, when the normal acceleration is varied from +l g to the positive and negative values specified in paragraph (c) of this section, the following apply: 
+
+(1) The stick force versus g curve must have a positive slope at any speed up to and including VFC/MFC; and 
+(2) At speeds between VFC/MFC and VDF/MDF, the direction of the primary longitudinal control force may not reverse. 
+
+(c) Except as provided in paragraphs (d) and (e) of this section, compliance with the provisions of paragraph (a) of this section must be demonstrated in flight over the acceleration range as follows: 
+
+(1) -1 g to +2.5 g; or 
+(2) 0 g to 2.0 g, and extrapolating by an acceptable method to -1 g and +2.5 g. 
+
+(d) If the procedure set forth in paragraph (c)(2) of this section is used to demonstrate compliance and marginal conditions exist during flight test with regard to reversal of primary longitudinal control force, flight tests must be accomplished from the normal acceleration at which a marginal condition is found to exist to the applicable limit specified in paragraph (b)(1) of this section. 
+(e) During flight tests required by paragraph (a) of this section, the limit maneuvering load factors, prescribed in Sec. Sec. 23.333(b) and 23.337, need not be exceeded. In addition, the entry speeds for flight test demonstrations at normal acceleration values less than 1 g must be limited to the extent necessary to accomplish a recovery without exceeding VDF/MDF. 
+(f) In the out-of-trim condition specified in paragraph (a) of this section, it must be possible from an overspeed condition at VDF/MDF to produce at least 1.5 g for recovery by applying not more than 125 pounds of longitudinal control force using either the primary longitudinal control alone or the primary longitudinal control and the longitudinal trim system. If the longitudinal trim is used to assist in producing the required load factor, it must be shown at VDF/MDF that the longitudinal trim can be actuated in the airplane nose-up direction with the primary surface loaded to correspond to the least of the following airplane nose-up control forces: 
+
+(1) The maximum control forces expected in service, as specified in Sec. Sec. 23.301 and 23.397. 
+(2) The control force required to produce 1.5 g. 
+(3) The control force corresponding to buffeting or other phenomena of such intensity that it is a strong deterrent to further application of primary longitudinal control force. 
+
+23. Amend Sec. 23.561 by adding new paragraph (e)(1), and adding and reserving paragraph (e)(2), to read as follows: 
+
+Sec. 23.561 General. 
+
+* * * * *
+(e) * * * 
+
+(1) For engines mounted inside the fuselage, aft of the cabin, it must be shown by test or analysis that the engine and attached accessories, and the engine mounting structure-- 
+
+(i) Can withstand a forward acting static ultimate inertia load factor of 18.0 g plus the maximum takeoff engine thrust; or 
+(ii) The airplane structure is designed to preclude the engine and its attached accessories from entering or protruding into the cabin should the engine mounts fail. 
+
+(2) [Reserved] 
+
+24. Amend Sec. 23.562 by revising paragraphs (a) introductory text, (b) introductory text, and (c)(5)(ii) to read as follows: 
+
+Sec. 23.562 Emergency landing dynamic conditions. 
+
+(a) Each seat/restraint system for use in a normal, utility, or acrobatic category airplane, or in a commuter category jet airplane, must be designed to protect each occupant during an emergency landing when-- 
+* * * * *
+(b) Except for those seat/restraint systems that are required to meet paragraph (d) of this section, each seat/restraint system for crew or passenger occupancy in a normal, utility, or acrobatic category airplane, or in a commuter category jet airplane, must successfully complete dynamic tests or be demonstrated by rational analysis supported by dynamic tests, in accordance with each of the following conditions. These tests must be conducted with an occupant simulated by an anthropomorphic test dummy (ATD) defined by 49 CFR part 572, subpart B, or an FAA-approved equivalent, with a nominal weight of 170 pounds and seated in the normal upright position. 
+* * * * *
+(c) * * * 
+
+(5) * * * 
+
+(ii) The value of HIC is defined as-- 
+
+Where-- 
+t1 is the initial integration time, expressed in seconds, t2 is the final integration time, expressed in seconds, and a(t) is the total acceleration vs. time curve for the head strike expressed as a multiple of g (units of gravity). 
+
+* * * * *
+
+25. Amend Sec. 23.571 by adding a new paragraph (d) to read as follows: 
+
+Sec. 23.571 Metallic pressurized cabin structures. 
+
+* * * * *
+(d) If certification for operation above 41,000 feet is requested, a damage tolerance evaluation of the fuselage pressure boundary per Sec. 23.573(b) must be conducted. 
+
+26. Amend Sec. 23.629 by revising paragraphs (b)(1), (b)(3), (b)(4), and (c) to read as follows: 
+
+Sec. 23.629 Flutter. 
+
+* * * * *
+(b) * * * 
+
+(1) Proper and adequate attempts to induce flutter have been made within the speed range up to VD/MD, or VDF/MDF for jets; 
+
+* * * * *
+
+(3) A proper margin of damping exists at VD/ MD, or VDF/MDF for jets; and 
+(4) As VD/MD (or VDF/ MDF for jets) is approached, there is no large or rapid reduction in damping. 
+
+(c) Any rational analysis used to predict freedom from flutter, control reversal and divergence must cover all speeds up to 1.2 VD/1.2 MD, limited to Mach 1.0 for subsonic airplanes. 
+* * * * *
+
+27. Amend Sec. 23.703 by revising the introductory text and adding a new paragraph (c) to read as follows: 
+
+Sec. 23.703 Takeoff warning system. 
+
+For all airplanes with a maximum weight more than 6,000 pounds and all jets, unless it can be shown that a lift or longitudinal trim device that affects the takeoff performance of the airplane would not give an unsafe takeoff configuration when selected out of an approved takeoff position, a takeoff warning system must be installed and meet the following requirements: 
+* * * * *
+(c) For the purpose of this section, an unsafe takeoff configuration is the inability to rotate or the inability to prevent an immediate stall after rotation. 
+
+28. Amend Sec. 23.735 by revising paragraph (e) to read as follows: 
+
+Sec. 23.735 Brakes. 
+
+* * * * *
+(e) For airplanes required to meet Sec. 23.55, the rejected takeoff brake kinetic energy capacity rating of each main wheel brake assembly may not be less than the kinetic energy absorption requirements determined under either of the following methods-- 
+
+(1) The brake kinetic energy absorption requirements must be based on a conservative rational analysis of the sequence of events expected during a rejected takeoff at the design takeoff weight. 
+(2) Instead of a rational analysis, the kinetic energy absorption requirements for each main wheel brake assembly may be derived from the following formula-- 
+
+KE = 0.0443 WV2/N where; 
+KE = Kinetic energy per wheel (ft.-lbs.); 
+W = Design takeoff weight (lbs.); 
+V = Ground speed, in knots, associated with the maximum value of V1 selected in accordance with Sec. 23.51(c)(1); 
+N = Number of main wheels with brakes. 
+
+29. Amend Sec. 23.777 by revising paragraph (d) to read as follows: 
+
+Sec. 23.777 Cockpit controls. 
+
+* * * * *
+(d) When separate and distinct control levers are co-located (such as located together on the pedestal), the control location order from left to right must be power (thrust) lever, propeller (rpm control), and mixture control (condition lever and fuel cut-off for turbine- powered airplanes). Power (thrust) levers must be easily distinguishable from other controls, and provide for accurate, consistent operation. Carburetor heat or alternate air control must be to the left of the throttle or at least eight inches from the mixture control when located other than on a pedestal. Carburetor heat or alternate air control, when located on a pedestal, must be aft or below the power (thrust) lever. Supercharger controls must be located below or aft of the propeller controls. Airplanes with tandem seating or single-place airplanes may utilize control locations on the left side of the cabin compartment; however, location order from left to right must be power (thrust) lever, propeller (rpm control), and mixture control. 
+* * * * *
+
+30. Amend Sec. 23.807 by adding a new paragraph (e)(3) to read as follows: 
+
+Sec. 23.807 Emergency exits. 
+
+* * * * *
+(e) * * * 
+
+(3) In lieu of paragraph (e)(2) of this section, if any side exit(s) cannot be above the waterline, a device may be placed at each of such exit(s) prior to ditching. This device must slow the inflow of water when such exit(s) is opened with the airplane ditched. For commuter category airplanes, the clear opening of such exit(s) must meet the requirements defined in paragraph (d) of this section. 
+
+31. Amend Sec. 23.831 by adding paragraphs (c) and (d) to read as follows: 
+
+Sec. 23.831 Ventilation. 
+
+* * * * *
+(c) For jet pressurized airplanes that operate at altitudes above 41,000 feet, under normal operating conditions and in the event of any probable failure conditions of any system which would adversely affect the ventilating air, the ventilation system must provide reasonable passenger comfort. The ventilation system must also provide a sufficient amount of uncontaminated air to enable the flight crew members to perform their duties without undue discomfort or fatigue. For normal operating conditions, the ventilation system must be designed to provide each occupant with at least 0.55 pounds of fresh air per minute. In the event of the loss of one source of fresh air, the supply of fresh airflow may not be less than 0.4 pounds per minute for any period exceeding five minutes. 
+(d) For jet pressurized airplanes that operate at altitudes above 41,000 feet, other probable and improbable Environmental Control System failure conditions that adversely affect the passenger and flight crew compartment environmental conditions may not affect flight crew performance so as to result in a hazardous condition, and no occupant shall sustain permanent physiological harm. 
+
+32. Amend Sec. 23.841 by revising paragraphs (a) and (b)(6), and by adding paragraphs (c) and (d) to read as follows: 
+
+Sec. 23.841 Pressurized cabins. 
+
+(a) If certification for operation above 25,000 feet is requested, the airplane must be able to maintain a cabin pressure altitude of not more than 15,000 feet, in the event of any probable failure condition in the pressurization system. During decompression, the cabin altitude may not exceed 15,000 feet for more than 10 seconds and 25,000 feet for any duration. 
+(b) * * * 
+
+(6) Warning indication at the pilot station to indicate when the safe or preset pressure differential is exceeded and when a cabin pressure altitude of 10,000 feet is exceeded. The 10,000 foot cabin altitude warning may be increased up to 15,000 feet for operations from high altitude airfields (10,000 to 15,000 feet) provided: 
+
+(i) The landing or the take off modes (normal or high altitude) are clearly indicated to the flight crew. 
+(ii) Selection of normal or high altitude airfield mode requires no more than one flight crew action and goes to normal airfield mode at engine stop. 
+(iii) The pressurization system is designed to ensure cabin altitude does not exceed 10,000 feet when in flight above flight level (FL) 250. 
+(iv) The pressurization system and cabin altitude warning system is designed to ensure cabin altitude warning at 10,000 feet when in flight above FL250. 
+
+* * * * *
+(c) If certification for operation above 41,000 feet and not more than 45,000 feet is requested-- 
+
+(1) The airplane must prevent cabin pressure altitude from exceeding the following after decompression from any probable pressurization system failure in conjunction with any undetected, latent pressurization system failure condition: 
+
+(i) If depressurization analysis shows that the cabin altitude does not exceed 25,000 feet, the pressurization system must prevent the cabin altitude from exceeding the cabin altitude-time history shown in Figure 1 of this section. 
+(ii) Maximum cabin altitude is limited to 30,000 feet. If cabin altitude exceeds 25,000 feet, the maximum time the cabin altitude may exceed 25,000 feet is 2 minutes; time starting when the cabin altitude exceeds 25,000 feet and ending when it returns to 25,000 feet. 
+
+(2) The airplane must prevent cabin pressure altitude from exceeding the following after decompression from any single pressurization system failure in conjunction with any probable fuselage damage: 
+
+(i) If depressurization analysis shows that the cabin altitude does not exceed 37,000 feet, the pressurization system must prevent the cabin altitude from exceeding the cabin altitude-time history shown in Figure 2 of this section. 
+(ii) Maximum cabin altitude is limited to 40,000 feet. If cabin altitude exceeds 37,000 feet, the maximum time the cabin altitude may exceed 25,000 feet is 2 minutes; time starting when the cabin altitude exceeds 25,000 feet and ending when it returns to 25,000 feet. 
+
+(3) In showing compliance with paragraphs (c)(1) and (c)(2) of this section, it may be assumed that an emergency descent is made by an approved emergency procedure. A 17-second flight crew recognition and reaction time must be applied between cabin altitude warning and the initiation of an emergency descent. Fuselage structure, engine and system failures are to be considered in evaluating the cabin decompression. 
+
+(d) If certification for operation above 45,000 feet and not more than 51,000 feet is requested-- 
+
+(1) Pressurized cabins must be equipped to provide a cabin pressure altitude of not more than 8,000 feet at the maximum operating altitude of the airplane under normal operating conditions. 
+(2) The airplane must prevent cabin pressure altitude from exceeding the following after decompression from any failure condition not shown to be extremely improbable: 
+
+(i) Twenty-five thousand (25,000) feet for more than 2 minutes; or 
+(ii) Forty thousand (40,000) feet for any duration. 
+
+(3) Fuselage structure, engine and system failures are to be considered in evaluating the cabin decompression. 
+(4) In addition to the cabin altitude indicating means in (b)(6) of this section, an aural or visual signal must be provided to warn the flight crew when the cabin pressure altitude exceeds 10,000 feet. 
+(5) The sensing system and pressure sensors necessary to meet the requirements of (b)(5), (b)(6), and (d)(4) of this section and Sec. 23.1447(e), must, in the event of low cabin pressure, actuate the required warning and automatic presentation devices without any delay that would significantly increase the hazards resulting from decompression. 
+
+33. Amend Sec. 23.853 by revising paragraph (d)(2) to read as follows: 
+
+Sec. 23.853 Passenger and crew compartment interiors. 
+
+* * * * *
+(d) * * * 
+
+(2) Lavatories must have "No Smoking" or "No Smoking in Lavatory" placards located conspicuously on each side of the entry door. 
+
+* * * * *
+
+34. Add a new Sec. 23.856 to read as follows: 
+
+Sec. 23.856 Thermal/acoustic insulation materials. 
+
+Thermal/acoustic insulation material installed in the fuselage must meet the flame propagation test requirements of part II of Appendix F to this part, or other approved equivalent test requirements. This requirement does not apply to "small parts," as defined in Sec. 23.853(d)(3)(v). 
+
+35. Amend Sec. 23.903 by adding paragraph (b)(3) to read as follows: 
+
+Sec. 23.903 Engines. 
+
+* * * * *
+(b) * * * 
+
+(3) For engines embedded in the fuselage behind the cabin, the effects of a fan exiting forward of the inlet case (fan disconnect) must be addressed, the passengers must be protected, and the airplane must be controllable to allow for continued safe flight and landing. 
+
+* * * * *
+
+36. Amend Sec. 23.1165 by revising paragraph (f) to read as follows: 
+
+Sec. 23.1165 Engine ignition systems. 
+
+* * * * *
+(f) In addition, for commuter category airplanes, each turbine engine ignition system must be an essential electrical load. 
+
+37. Amend Sec. 23.1193 by revising paragraph (g) to read as follows: 
+
+Sec. 23.1193 Cowling and nacelle. 
+
+* * * * *
+(g) In addition, for all airplanes with engine(s) embedded in the fuselage or in pylons on the aft fuselage, the airplane must be designed so that no fire originating in any engine compartment can enter, either through openings or by burn-through, any other region where it would create additional hazards. 
+
+38. Amend Sec. 23.1195 by revising the introductory text of paragraph (a) and by revising paragraph (a)(2) to read as follows: 
+
+Sec. 23.1195 Fire extinguishing systems. 
+
+(a) For all airplanes with engine(s) embedded in the fuselage or in pylons on the aft fuselage, fire extinguishing systems must be installed and compliance shown with the following: 
+* * * * *
+
+(2) The fire extinguishing system, the quantity of the extinguishing agent, the rate of discharge, and the discharge distribution must be adequate to extinguish fires. An individual "one shot" system may be used, except for engine(s) embedded in the fuselage, where a "two shot" system is required. 
+
+* * * * *
+
+39. Amend Sec. 23.1197 by revising the introductory text to read as follows: 
+
+Sec. 23.1197 Fire extinguishing agents. 
+
+For all airplanes with engine(s) embedded in the fuselage or in pylons on the aft fuselage the following applies: 
+* * * * *
+
+40. Amend Sec. 23.1199 by revising the introductory text to read as follows: 
+
+Sec. 23.1199 Extinguishing agent containers. 
+
+For all airplanes with engine(s) embedded in the fuselage or in pylons on the aft fuselage the following applies: 
+* * * * *
+
+41. Amend Sec. 23.1201 by revising the introductory text to read as follows: 
+
+Sec. 23.1201 Fire extinguishing systems materials. 
+
+For all airplanes with engine(s) embedded in the fuselage or in pylons on the aft fuselage the following applies: 
+* * * * *
+
+42. Revise Sec. 23.1301 by revising paragraphs (b) and (c) and by removing paragraph (d) to read as follows: 
+
+Sec. 23.1301 Function and installation. 
+
+* * * * *
+(b) Be labeled as to its identification, function, or operating limitations, or any applicable combination of these factors; and 
+(c) Be installed according to limitations specified for that equipment. 
+* * * * *
+
+43. Amend Sec. 23.1303 by revising paragraph (c) to read as follows: 
+
+Sec. 23.1303 Flight and navigation instruments. 
+
+* * * * *
+(c) A magnetic direction indicator. 
+* * * * *
+
+44. Revise Sec. 23.1309 to read as follows: 
+
+Sec. 23.1309 Equipment, systems, and installations. 
+
+The requirements of this section, except as identified in paragraphs (a) through (d), are applicable, in addition to specific design requirements of part 23, to any equipment or system as installed in the airplane. This section is a regulation of general requirements and does not supersede any requirements contained in another section of part 23. 
+(a) The airplane equipment and systems must be designed and installed so that: 
+
+(1) Those required for type certification or by operating rules perform as intended under the airplane operating and environmental conditions, including the indirect effects of lightning strikes. 
+(2) Any equipment and system does not adversely affect the safety of the airplane or its occupants, or the proper functioning of those covered by paragraph (a)(1) of this section. 
+
+(b) Minor, major, hazardous, or catastrophic failure condition(s), which occur during Type Inspection Authorization or FAA flight- certification testing, must have root cause analysis and corrective action. 
+(c) The airplane systems and associated components considered separately and in relation to other systems, must be designed and installed so that: 
+
+(1) Each catastrophic failure condition is extremely improbable and does not result from a single failure; 
+(2) Each hazardous failure condition is extremely remote; and 
+(3) Each major failure condition is remote. 
+
+(d) Information concerning an unsafe system operating condition must be provided in a timely manner to the crew to enable them to take appropriate corrective action. An appropriate alert must be provided if immediate pilot awareness and immediate or subsequent corrective action is required. Systems and controls, including indications and annunciations, must be designed to minimize crew errors which could create additional hazards. 
+
+45. Add a new Sec. 23.1310 to read as follows: 
+
+Sec. 23.1310 Power source capacity and distribution. 
+
+(a) Each installation whose functioning is required for type certification or under operating rules and that requires a power supply is an "essential load" on the power supply. The power sources and the system must be able to supply the following power loads in probable operating combinations and for probable durations: 
+
+(1) Loads connected to the system with the system functioning normally. 
+(2) Essential loads, after failure of any one prime mover, power converter, or energy storage device. 
+(3) Essential loads after failure of-- 
+
+(i) Any one engine on two-engine airplanes; and 
+(ii) Any two engines on airplanes with three or more engines. 
+
+(4) Essential loads for which an alternate source of power is required, after any failure or malfunction in any one power supply system, distribution system, or other utilization system. 
+
+(b) In determining compliance with paragraphs (a)(2) and (3) of this section, the power loads may be assumed to be reduced under a monitoring procedure consistent with safety in the kinds of operation authorized. Loads not required in controlled flight need not be considered for the two-engine-inoperative condition on airplanes with three or more engines. 
+
+46. Amend Sec. 23.1311 by revising paragraphs (a)(5), (a)(6), (a)(7), and paragraph (b) to read as follows: 
+
+Sec. 23.1311 Electronic display instrument systems. 
+
+(a) * * * 
+
+(5) For certification for Instrument Flight Rules (IFR) operations, have an independent magnetic direction indicator and either an independent secondary mechanical altimeter, airspeed indicator, and attitude instrument or an electronic display parameters for the altitude, airspeed, and attitude that are independent from the airplane's primary electrical power system. These secondary instruments may be installed in panel positions that are displaced from the primary positions specified by Sec. 23.1321(d), but must be located where they meet the pilot's visibility requirements of Sec. 23.1321(a). 
+(6) Incorporate sensory cues that provide a quick glance sense of rate and, where appropriate, trend information to the parameter being displayed to the pilot. 
+(7) Incorporate equivalent visual displays of the instrument markings required by Sec. Sec. 23.1541 through 23.1553, or visual displays that alert the pilot to abnormal operational values or approaches to established limitation values, for each parameter required to be displayed by this part. 
+
+(b) The electronic display indicators, including their systems and installations, and considering other airplane systems, must be designed so that one display of information essential for continued safe flight and landing will be available within one second to the crew by a single pilot action or by automatic means for continued safe operation, after any single failure or probable combination of failures. 
+* * * * *
+
+47. Amend Sec. 23.1323 by revising paragraph (e) to read as follows: 
+
+Sec. 23.1323 Airspeed indicating system. 
+
+* * * * *
+(e) In addition, for normal, utility, and acrobatic category multiengine jets of more than 6,000 pounds maximum weight and commuter category airplanes, each system must be calibrated to determine the system error during the accelerate-takeoff ground run. The ground run calibration must be determined-- 
+
+(1) From 0.8 of the minimum value of V1 to the maximum value of V2, considering the approved ranges of altitude and weight; and 
+(2) The ground run calibration must be determined assuming an engine failure at the minimum value of V1. 
+
+* * * * *
+
+48. Amend Sec. 23.1331 by revising paragraph (c) to read as follows: 
+
+Sec. 23.1331 Instruments using a power source. 
+
+* * * * *
+(c) For certification for Instrument Flight Rules (IFR) operations and for the heading, altitude, airspeed, and attitude, there must be at least: 
+
+(1) Two independent sources of power (not driven by the same engine on multiengine airplanes), and a manual or an automatic means to select each power source; or 
+(2) A separate display of parameters for heading, altitude, airspeed, and attitude that has a power source independent from the airplane's primary electrical power system. 
+
+49. Amend Sec. 23.1353 by revising paragraph (h) to read as follows: 
+
+Sec. 23.1353 Storage battery design and installation. 
+
+* * * * *
+(h)
+
+(1) In the event of a complete loss of the primary electrical power generating system, the battery must be capable of providing electrical power to those loads that are essential to continued safe flight and landing for: 
+
+(i) At least 30 minutes for airplanes that are certificated with a maximum altitude of 25,000 feet or less; and 
+(ii) At least 60 minutes for airplanes that are certificated with a maximum altitude over 25,000 feet. 
+
+(2) The time period includes the time to recognize the loss of generated power and to take appropriate load shedding action. 
+
+50. Amend Sec. 23.1431, paragraph (a) to read as follows: 
+
+Sec. 23.1431 Electronic equipment. 
+
+(a) In showing compliance with Sec. 23.1309(a), (b), and (c) with respect to radio and electronic equipment and their installations, critical environmental conditions must be considered. 
+* * * * *
+
+51. Revise Sec. 23.1443 to read as follows: 
+
+Sec. 23.1443 Minimum mass flow of supplemental oxygen. 
+
+(a) If the airplane is to be certified above 41,000 feet, a continuous flow oxygen system must be provided for each passenger. 
+(b) If continuous flow oxygen equipment is installed, an applicant must show compliance with the requirements of either paragraphs (b)(1) and (b)(2) or paragraph (b)(3) of this section: 
+
+(1) For each passenger, the minimum mass flow of supplemental oxygen required at various cabin pressure altitudes may not be less than the flow required to maintain, during inspiration and while using the oxygen equipment (including masks) provided, the following mean tracheal oxygen partial pressures: 
+
+(i) At cabin pressure altitudes above 10,000 feet up to and including 18,500 feet, a mean tracheal oxygen partial pressure of 100mm Hg when breathing 15 liters per minute, Body Temperature, Pressure, Saturated (BTPS) and with a tidal volume of 700cc with a constant time interval between respirations. 
+(ii) At cabin pressure altitudes above 18,500 feet up to and including 40,000 feet, a mean tracheal oxygen partial pressure of 83.8mm Hg when breathing 30 liters per minute, BTPS, and with a tidal volume of 1,100cc with a constant time interval between respirations. 
+
+(2) For each flight crewmember, the minimum mass flow may not be less than the flow required to maintain, during inspiration, a mean tracheal oxygen partial pressure of 149mm Hg when breathing 15 liters per minute, BTPS, and with a maximum tidal volume of 700cc with a constant time interval between respirations. 
+(3) The minimum mass flow of supplemental oxygen supplied for each user must be at a rate not less than that shown in the following figure for each altitude up to and including the maximum operating altitude of the airplane. 
+
+(c) If demand equipment is installed for use by flight crewmembers, the minimum mass flow of supplemental oxygen required for each flight crewmember may not be less than the flow required to maintain, during inspiration, a mean tracheal oxygen partial pressure of 122mm Hg up to and including a cabin pressure altitude of 35,000 feet, and 95 percent oxygen between cabin pressure altitudes of 35,000 and 40,000 feet, when breathing 20 liters per minutes BTPS. In addition, there must be means to allow the flight crew to use undiluted oxygen at their discretion. 
+(d) If first-aid oxygen equipment is installed, the minimum mass flow of oxygen to each user may not be less than 4 liters per minute, STPD. However, there may be a means to decrease this flow to not less than 2 liters per minute, STPD, at any cabin altitude. The quantity of oxygen required is based upon an average flow rate of 3 liters per minute per person for whom first-aid oxygen is required. 
+(e) As used in this section: 
+
+(1) BTPS means Body Temperature, and Pressure, Saturated (which is 37 °C, and the ambient pressure to which the body is exposed, minus 47mm Hg, which is the tracheal pressure displaced by water vapor pressure when the breathed air becomes saturated with water vapor at 37 °C). 
+(2) STPD means Standard, Temperature, and Pressure, Dry (which is 0 °C at 760mm Hg with no water vapor). 
+
+52. Amend Sec. 23.1445 by adding a new paragraph (c) to read as follows: 
+
+Sec. 23.1445 Oxygen distribution system. 
+
+* * * * *
+(c) If the flight crew and passengers share a common source of oxygen, a means to separately reserve the minimum supply required by the flight crew must be provided. 
+
+53. Amend Sec. 23.1447 by adding a new paragraph (g) to read as follows: 
+
+Sec. 23.1447 Equipment standards for oxygen dispensing units. 
+
+* * * * *
+(g) If the airplane is to be certified for operation above 41,000 feet, a quick-donning oxygen mask system, with a pressure demand, mask mounted regulator must be provided for the flight crew. This dispensing unit must be immediately available to the flight crew when seated at their station and installed so that it: 
+
+(1) Can be placed on the face from its ready position, properly secured, sealed, and supplying oxygen upon demand, with one hand, within five seconds and without disturbing eyeglasses or causing delay in proceeding with emergency duties; and 
+(2) Allows, while in place, the performance of normal communication functions. 
+
+54. Amend Sec. 23.1505 by revising paragraph (c) to read as follows: 
+
+Sec. 23.1505 Airspeed limitations. 
+
+* * * * *
+(c)
+
+(1) Paragraphs (a) and (b) of this section do not apply to turbine airplanes or to airplanes for which a design diving speed VD/MD is established under Sec. 23.335(b)(4). For those airplanes, a maximum operating limit speed (VMO/ MMO airspeed or Mach number, whichever is critical at a particular altitude) must be established as a speed that may not be deliberately exceeded in any regime of flight (climb, cruise, or descent) unless a higher speed is authorized for flight test or pilot training operations. 
+(2) VMO/MMO must be established so that it is not greater than the design cruising speed VC/MC and so that it is sufficiently below VD/MD, or VDF/MDF for jets, and the maximum speed shown under Sec. 23.251 to make it highly improbable that the latter speeds will be inadvertently exceeded in operations. 
+(3) The speed margin between VMO/MMO and VD/MD, or VDF/MDF for jets, may not be less than that determined under Sec. 23.335(b), or the speed margin found necessary in the flight tests conducted under Sec. 23.253. 
+
+55. Amend Sec. 23.1545 by revising paragraph (d) to read as follows: 
+
+Sec. 23.1545 Airspeed indicator. 
+
+* * * * *
+(d) Paragraphs (b)(1) through (b)(4) and paragraph (c) of this section do not apply to airplanes for which a maximum operating speed VMO/MMO is established under Sec. 23.1505(c). For those airplanes, there must either be a maximum allowable airspeed indication showing the variation of VMO/MMO with altitude or compressibility limitations (as appropriate), or a radial red line marking for VMO/MMO must be made at lowest value of VMO/MMO established for any altitude up to the maximum operating altitude for the airplane. 
+
+56. Amend Sec. 23.1555 by adding a new paragraph (d)(3) to read as follows: 
+
+Sec. 23.1555 Control markings. 
+
+* * * * *
+(d) * * * 
+
+(3) For fuel systems having a calibrated fuel quantity indication system complying with Sec. 23.1337(b)(1) and accurately displaying the actual quantity of usable fuel in each selectable tank, no fuel capacity placards outside of the fuel quantity indicator are required. 
+
+* * * * *
+
+57. Amend Sec. 23.1559 by adding a new paragraph (d) to read as follows: 
+
+Sec. 23.1559 Operating limitations placard. 
+
+* * * * *
+(d) The placard(s) required by this section need not be lighted. 
+
+58. Amend Sec. 23.1563 by adding a new paragraph (d) to read as follows: 
+
+Sec. 23.1563 Airspeed placard. 
+
+* * * * *
+(d) The airspeed placard(s) required by this section need not be lighted if the landing gear operating speed is indicated on the airspeed indicator or other lighted area such as the landing gear control and the airspeed indicator has features such as low speed awareness that provide ample warning prior to VMC. 
+
+59. Amend Sec. 23.1567 by adding a new paragraph (e) to read as follows: 
+
+Sec. 23.1567 Flight maneuver placard. 
+
+* * * * *
+(e) The placard(s) required by this section need not be lighted. 
+
+60. Amend Sec. 23.1583 as follows: 
+
+A. Revise the introductory text of paragraphs (c)(3) and (c)(4); 
+B. Redesignate paragraphs (c)(4)(iii) and (c)(4)(iv) as paragraphs (c)(4)(ii)(A) and (c)(4)(ii)(B); and 
+C. Revise paragraph (c)(5) introductory text: 
+
+Sec. 23.1583 Operating limitations. 
+
+* * * * *
+(c) * * * 
+
+(3) For reciprocating engine-powered airplanes of more than 6,000 pounds maximum weight, single-engine turbines, and multiengine jets 6,000 pounds or less maximum weight in the normal, utility, and acrobatic category, performance operating limitations as follows-- 
+
+* * * * *
+
+(4) For normal, utility, and acrobatic category multiengine jets over 6,000 pounds and commuter category airplanes, the maximum takeoff weight for each airport altitude and ambient temperature within the range selected by the applicant at which-- 
+
+* * * * *
+
+(5) For normal, utility, and acrobatic category multiengine jets over 6,000 pounds and commuter category airplanes, the maximum landing weight for each airport altitude within the range selected by the applicant at which-- 
+
+* * * * *
+
+61. Amend Sec. 23.1585 by revising paragraph (f) introductory text to read as follows: 
+
+Sec. 23.1585 Operating procedures. 
+
+* * * * *
+(f) In addition to paragraphs (a) and (c) of this section, for normal, utility, and acrobatic category multiengine jets weighing over 6,000 pounds, and commuter category airplanes, the information must include the following: 
+* * * * *
+
+62. Amend Sec. 23.1587 by revising paragraph (d) introductory text to read as follows: 
+
+Sec. 23.1587 Performance information. 
+
+* * * * *
+(d) In addition to paragraph (a) of this section, for normal, utility, and acrobatic category multiengine jets weighing over 6,000 pounds, and commuter category airplanes, the following information must be furnished-- 
+* * * * *
+
+63. Amend Appendix F to Part 23 as follows: 
+
+A. Redesignate the existing text as Part I and add a new Part I heading; 
+B. Add a new Part II. 
+
+Appendix F to Part 23--Test Procedure 
+
+Part I--Acceptable Test Procedure for Self-Extinguishing Materials for Showing Compliance With Sec. Sec. 23.853, 23.855, and 23.1359 
+* * * * *
+Part II--Test Method To Determine the Flammability and Flame Propagation Characteristics of Thermal/Acoustic Insulation Materials 
+
+Use this test method to evaluate the flammability and flame propagation characteristics of thermal/acoustic insulation when exposed to both a radiant heat source and a flame. 
+(a) Definitions. 
+
+Flame propagation means the furthest distance of the propagation of visible flame towards the far end of the test specimen, measured from the midpoint of the ignition source flame. Measure this distance after initially applying the ignition source and before all flame on the test specimen is extinguished. The measurement is not a determination of burn length made after the test. 
+Radiant heat source means an electric or air propane panel. 
+Thermal/acoustic insulation means a material or system of materials used to provide thermal and/or acoustic protection. Examples include fiberglass or other batting material encapsulated by a film covering and foams. 
+Zero point means the point of application of the pilot burner to the test specimen. 
+
+(b) Test apparatus.
+
+(1) Radiant panel test chamber. Conduct tests in a radiant panel test chamber (see figure F1 above). Place the test chamber under an exhaust hood to facilitate clearing the chamber of smoke after each test. The radiant panel test chamber must be an enclosure 55 inches (1397 mm) long by 19.5 inches (495 mm) deep by 28 inches (710 mm) to 30 inches (maximum) (762 mm) above the test specimen. Insulate the sides, ends, and top with a fibrous ceramic insulation, such as Kaowool MTM board. On the front side, provide a 52 by 12-inch (1321 by 305 mm) draft-free, high-temperature, glass window for viewing the sample during testing. Place a door below the window to provide access to the movable specimen platform holder. The bottom of the test chamber must be a sliding steel platform that has provision for securing the test specimen holder in a fixed and level position. The chamber must have an internal chimney with exterior dimensions of 5.1 inches (129 mm) wide, by 16.2 inches (411 mm) deep by 13 inches (330 mm) high at the opposite end of the chamber from the radiant energy source. The interior dimensions must be 4.5 inches (114 mm) wide by 15.6 inches (395 mm) deep. The chimney must extend to the top of the chamber (see figure F2). 
+
+(2) Radiant heat source. Mount the radiant heat energy source in a cast iron frame or equivalent. An electric panel must have six, 3- inch wide emitter strips. The emitter strips must be perpendicular to the length of the panel. The panel must have a radiation surface of 12 7/8 by 18 1/2 inches (327 by 470 mm). The panel must be capable of operating at temperatures up to 1300 °F (704 °C). An air propane panel must be made of a porous refractory material and have a radiation surface of 12 by 18 inches (305 by 457 mm). The panel must be capable of operating at temperatures up to 1,500 °F (816 °C). See figures F3a and F3b. 
+
+(i) Electric radiant panel. The radiant panel must be 3-phase and operate at 208 volts. A single-phase, 240 volt panel is also acceptable. Use a solid-state power controller and microprocessor- based controller to set the electric panel operating parameters. 
+(ii) Gas radiant panel. Use propane (liquid petroleum gas--2.1 UN 1075) for the radiant panel fuel. The panel fuel system must consist of a venturi-type aspirator for mixing gas and air at approximately atmospheric pressure. Provide suitable instrumentation for monitoring and controlling the flow of fuel and air to the panel. Include an air flow gauge, an air flow regulator, and a gas pressure gauge. 
+(iii) Radiant panel placement. Mount the panel in the chamber at 30 degrees to the horizontal specimen plane, and 7 1/2 inches above the zero point of the specimen. 
+
+(3) Specimen holding system. 
+
+(i) The sliding platform serves as the housing for test specimen placement. Brackets may be attached (via wing nuts) to the top lip of the platform in order to accommodate various thicknesses of test specimens. Place the test specimens on a sheet of Kaowool MTM board or 1260 Standard Board (manufactured by Thermal Ceramics and available in Europe), or equivalent, either resting on the bottom lip of the sliding platform or on the base of the brackets. It may be necessary to use multiple sheets of material based on the thickness of the test specimen (to meet the sample height requirement). Typically, these non-combustible sheets of material are available in 1/4-inch (6 mm) thicknesses. See figure F4. A sliding platform that is deeper than the 2-inch (50.8mm) platform shown in figure F4 is also acceptable as long as the sample height requirement is met. 
+
+(ii) Attach a 1/2-inch (13 mm) piece of Kaowool MTM board or other high temperature material measuring 41 1/2 by 8 1/4 inches (1054 by 210 mm) to the back of the platform. This board serves as a heat retainer and protects the test specimen from excessive preheating. The height of this board may not impede the sliding platform movement (in and out of the test chamber). If the platform has been fabricated such that the back side of the platform is high enough to prevent excess preheating of the specimen when the sliding platform is out, a retainer board is not necessary. 
+(iii) Place the test specimen horizontally on the non- combustible board(s). Place a steel retaining/securing frame fabricated of mild steel, having a thickness of 1/8-inch (3.2 mm) and overall dimensions of 23 by 13 1/8 inches (584 by 333 mm) with a specimen opening of 19 by 10 3/4 inches (483 by 273 mm) over the test specimen. The front, back, and right portions of the top flange of the frame must rest on the top of the sliding platform, and the bottom flanges must pinch all 4 sides of the test specimen. The right bottom flange must be flush with the sliding platform. See figure F5. 
+
+(4) Pilot Burner. The pilot burner used to ignite the specimen must be a BernzomaticTM commercial propane venturi torch with an axially symmetric burner tip and a propane supply tube with an orifice diameter of 0.006 inches (0.15 mm). The length of the burner tube must be 2 7/8 inches (71 mm). The propane flow must be adjusted via gas pressure through an in-line regulator to produce a blue inner cone length of 3/4-inch (19 mm). A 3/4-inch (19 mm) guide (such as a thin strip of metal) may be soldered to the top of the burner to aid in setting the flame height. The overall flame length must be approximately 5 inches long (127 mm). Provide a way to move the burner out of the ignition position so that the flame is horizontal and at least 2 inches (50 mm) above the specimen plane. See figure F6. 
+
+(5) Thermocouples. Install a 24 American Wire Gauge (AWG) Type K (Chromel- Alumel) thermocouple in the test chamber for temperature monitoring. Insert it into the chamber through a small hole drilled through the back of the chamber. Place the thermocouple so that it extends 11 inches (279 mm) out from the back of the chamber wall, 11 1/2 inches (292 mm) from the right side of the chamber wall, and is 2 inches (51 mm) below the radiant panel. The use of other thermocouples is optional. 
+(6) Calorimeter. The calorimeter must be a one-inch cylindrical water-cooled, total heat flux density, foil type Gardon Gage that has a range of 0 to 5 BTU/ft 2-second (0 to 5.7 Watts/cm 2). 
+(7) Calorimeter calibration specification and procedure. 
+
+(i) Calorimeter specification. 
+
+(A) Foil diameter must be 0.25 +/-0.005 inches (6.35 +/-0.13 mm). 
+(B) Foil thickness must be 0.0005 +/-0.0001 inches (0.013 +/- 0.0025 mm). 
+(C) Foil material must be thermocouple grade Constantan. 
+(D) Temperature measurement must be a Copper Constantan thermocouple. 
+(E) The copper center wire diameter must be 0.0005 inches (0.013 mm). 
+(F) The entire face of the calorimeter must be lightly coated with "Black Velvet" paint having an emissivity of 96 or greater. 
+
+(ii) Calorimeter calibration. 
+
+(A) The calibration method must be by comparison to a like standardized transducer. 
+(B) The standardized transducer must meet the specifications given in paragraph II(b)(6) of this appendix. 
+(C) Calibrate the standard transducer against a primary standard traceable to the National Institute of Standards and Technology (NIST). 
+(D) The method of transfer must be a heated graphite plate. 
+(E) The graphite plate must be electrically heated, have a clear surface area on each side of the plate of at least 2 by 2 inches (51 by 51 mm), and be 1/8-inch +/- 1/16-inch thick (3.2 +/- 1.6 mm). 
+(F) Center the 2 transducers on opposite sides of the plates at equal distances from the plate. 
+(G) The distance of the calorimeter to the plate must be no less than 0.0625 inches (1.6 mm), and no greater than 0.375 inches (9.5 mm). 
+(H) The range used in calibration must be at least 0-3.5 BTUs/ft 2-second (0-3.9 Watts/cm 2) and no greater than 0-5.7 BTUs/ft 2-second (0-6.4 Watts/cm 2). 
+(I) The recording device used must record the 2 transducers simultaneously or at least within 1/10 of each other. 
+
+(8) Calorimeter fixture. With the sliding platform pulled out of the chamber, install the calorimeter holding frame and place a sheet of non-combustible material in the bottom of the sliding platform adjacent to the holding frame. This will prevent heat losses during calibration. The frame must be 13 1/8 inches (333 mm) deep (front to back) by 8 inches (203 mm) wide and must rest on the top of the sliding platform. It must be fabricated of 1/8-inch (3.2 mm) flat stock steel and have an opening that accommodates a 1/2-inch (12.7 mm) thick piece of refractory board, which is level with the top of the sliding platform. The board must have three 1-inch (25.4 mm) diameter holes drilled through the board for calorimeter insertion. The distance to the radiant panel surface from the centerline of the first hole ("zero" position) must be 7 1/2 ± 1/8- inches (191 ± 3 mm). The distance between the centerline of the first hole to the centerline of the second hole must be 2 inches (51 mm). It must also be the same distance from the centerline of the second hole to the centerline of the third hole. See figure F7. A calorimeter holding frame that differs in construction is acceptable as long as the height from the centerline of the first hole to the radiant panel and the distance between holes is the same as described in this paragraph. 
+
+(9) Instrumentation. Provide a calibrated recording device with an appropriate range or a computerized data acquisition system to measure and record the outputs of the calorimeter and the thermocouple. The data acquisition system must be capable of recording the calorimeter output every second during calibration. 
+(10) Timing device. Provide a stopwatch or other device, accurate to ± 1 second/hour, to measure the time of application of the pilot burner flame. 
+
+(c) Test specimens. 
+
+(1) Specimen preparation. Prepare and test a minimum of three test specimens. If an oriented film cover material is used, prepare and test both the warp and fill directions. 
+(2) Construction. Test specimens must include all materials used in construction of the insulation (including batting, film, scrim, tape, etc.). Cut a piece of core material such as foam or fiberglass, and cut a piece of film cover material (if used) large enough to cover the core material. Heat sealing is the preferred method of preparing fiberglass samples, since they can be made without compressing the fiberglass ("box sample"). Cover materials that are not heat sealable may be stapled, sewn, or taped as long as the cover material is sufficiently over-cut to be drawn down the sides without compressing the core material. The fastening means should be as continuous as possible along the length of the seams. The specimen thickness must be of the same thickness as installed in the airplane. 
+(3) Specimen Dimensions. To facilitate proper placement of specimens in the sliding platform housing, cut non-rigid core materials, such as fiberglass, 12 1/2 inches (318mm) wide by 23 inches (584mm) long. Cut rigid materials, such as foam, 11 1/2 ± 1/4 inches (292 mm ± 6mm) wide by 23 inches (584mm) long in order to fit properly in the sliding platform housing and provide a flat, exposed surface equal to the opening in the housing. 
+
+(d) Specimen conditioning. Condition the test specimens at 70 ± 5 °F (21 ± 2 °C) and 55 percent ± 10 percent relative humidity, for a minimum of 24 hours prior to testing. 
+(e) Apparatus Calibration. 
+
+(1) With the sliding platform out of the chamber, install the calorimeter holding frame. Push the platform back into the chamber and insert the calorimeter into the first hole ("zero" position). See figure F7. Close the bottom door located below the sliding platform. The distance from the centerline of the calorimeter to the radiant panel surface at this point must be 7 1/2 inches ± 1/8 (191 mm ± 3). Before igniting the radiant panel, ensure that the calorimeter face is clean and that there is water running through the calorimeter. 
+(2) Ignite the panel. Adjust the fuel/air mixture to achieve 1.5 BTUs/feet2-second ± 5 percent (1.7 Watts/cm2 ± 5 percent) at the "zero" position. If using an electric panel, set the power controller to achieve the proper heat flux. Allow the unit to reach steady state (this may take up to 1 hour). The pilot burner must be off and in the down position during this time. 
+(3) After steady-state conditions have been reached, move the calorimeter 2 inches (51 mm) from the "zero" position (first hole) to position 1 and record the heat flux. Move the calorimeter to position 2 and record the heat flux. Allow enough time at each position for the calorimeter to stabilize. Table 1 depicts typical calibration values at the three positions. 
+
+Table 1--Calibration Table
+
+Position
+
+ BTU/feet 2 sec
+
+ Watts/cm2
+
+ 
+
+‘‘Zero’’ Position 1.5 1.7 
+
+Position 1 1.51–1.50–1.49 1.71–1.70–1.69 
+
+Position 2 1.43–1.44 1.62–1.63 
+
+(4) Open the bottom door, remove the calorimeter and holder fixture. Use caution as the fixture is very hot. 
+
+(f) Test Procedure. 
+
+(1) Ignite the pilot burner. Ensure that it is at least 2 inches (51 mm) above the top of the platform. The burner may not contact the specimen until the test begins. 
+(2) Place the test specimen in the sliding platform holder. Ensure that the test sample surface is level with the top of the platform. At "zero" point, the specimen surface must be 7 1/2 inches ± 1/8 inch (191 mm ± 3) below the radiant panel. 
+(3) Place the retaining/securing frame over the test specimen. It may be necessary (due to compression) to adjust the sample (up or down) in order to maintain the distance from the sample to the radiant panel (7 1/2 inches ± 1/8 inch (191 mm ± 3) at "zero" position). With film/fiberglass assemblies, it is critical to make a slit in the film cover to purge any air inside. This allows the operator to maintain the proper test specimen position (level with the top of the platform) and to allow ventilation of gases during testing. A longitudinal slit, approximately 2 inches (51mm) in length, must be centered 3 inches ± 1/2 inch (76mm ± 13mm) from the left flange of the securing frame. A utility knife is acceptable for slitting the film cover. 
+(4) Immediately push the sliding platform into the chamber and close the bottom door. 
+(5) Bring the pilot burner flame into contact with the center of the specimen at the "zero" point and simultaneously start the timer. The pilot burner must be at a 27 degree angle with the sample and be approximately 1/2 inch (12 mm) above the sample. See figure F7. A stop, as shown in figure F8, allows the operator to position the burner correctly each time. 
+
+(6) Leave the burner in position for 15 seconds and then remove to a position at least 2 inches (51 mm) above the specimen. 
+
+(g) Report. 
+
+(1) Identify and describe the test specimen. 
+(2) Report any shrinkage or melting of the test specimen. 
+(3) Report the flame propagation distance. If this distance is less than 2 inches, report this as a pass (no measurement required). 
+(4) Report the after-flame time. 
+
+(h) Requirements. 
+
+(1) There must be no flame propagation beyond 2 inches (51 mm) to the left of the centerline of the pilot flame application. 
+(2) The flame time after removal of the pilot burner may not exceed 3 seconds on any specimen. 
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on November 16, 2011.
+
+J. Randolph Babbitt,
+
+Administrator.
+
+[FR Doc. 2011-30412 Filed 12-1-11; 8:45 am]
+
+BILLING CODE 4910-13-P
+
+
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice 09-09, Published 8/17/2009
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+-

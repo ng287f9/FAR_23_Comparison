@@ -1,0 +1,642 @@
+<html>
+<head>
+<style>
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent;
+}
+
+body {
+	line-height:1.3;
+	padding-left: 15px
+}
+
+a {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0
+}
+
+hr {
+	display:block;
+	height:1px;
+	border:0;
+	border-top:1px solid #cccccc;
+	margin:1em 0;
+	padding:0
+}
+
+body {
+	font-family:"Georgia", serif;
+	font-size:16px;
+	line-height:1.3	
+}
+
+body h1, body h2, body h3, body h4, body h5, body h6, body h7 {
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	line-height:1.3;
+	margin:1em 0 0.5em
+}
+
+body h7 {
+	display:block
+}
+
+body {
+	color:#333333
+}
+body a {
+	color:#3071a9
+}
+body a:hover{
+	color:#B88659
+}
+body a:visited {
+	color:#3071a9
+}
+body h1,body h2,body h3,body h4,body h5,body h6,body h7 {
+	color:#333333
+}
+
+p {
+	font-family: "Georgia", serif;
+	padding-bottom: 15px
+}
+
+ul.bullets,ul.subject-list {
+	list-style-type:none;
+	margin-bottom:10px
+}
+
+ul.bullets li,ul.subject-list li {
+	padding-left:15px;
+	text-indent:-15px
+}
+
+ul.bullets li:before,ul.subject-list li:before {
+	content:"\25AA";
+	color:#7F7F7F;
+	padding-right:7px;
+	top:-2px;
+	position:relative
+}
+
+ul.bullets a,ul.subject-list a {
+	color:#428BCA
+}
+
+ul.bullets a:hover,ul.subject-list a:hover {
+	color:#B88659;
+	text-decoration:none
+}
+
+.unprinted-element-wrapper {
+	display:none
+}
+
+p.flush-paragraph {
+	padding-bottom:15px;
+}
+
+p.flush-paragraph.flush-paragraph-1 {
+	margin-left:1em !important;
+	padding-left:1em;
+	text-indent:-1.15em
+}
+p.flush-paragraph.flush-paragraph-2 {
+	margin-left:2em !important;
+	padding-left:2.5em;
+	text-indent:-2.5em
+}
+p.flush-paragraph.flush-paragraph-1-2 {
+	margin-left:4em !important;
+	padding-left:1.15em;
+	text-indent:-1.15em
+}
+p.flush-paragraph.flush-left {
+	text-indent:0
+}
+p.flush-paragraph.flush-paragraph-dash:after {
+	content:"_____________________________________________________________"
+}
+p.flush-paragraph.flush-paragraph-dash.flush-paragraph-no-wrap {
+	white-space:nowrap
+}
+
+table.wide {
+	max-width:initial
+}
+
+table {
+	display:block;
+	margin-bottom:20px;
+	padding:10px;
+	border-collapse:separate
+}
+table caption {
+	color:#777777;
+	font-weight: bold;
+	margin-bottom:10px;
+	text-align:center
+}
+table caption p {
+	margin:0 !important
+}
+table tfoot {
+	font-style:italic
+}
+table tfoot tr:first-child td {
+	padding-top:20px
+}
+table th {
+	vertical-align:middle;
+	position:-webkit-sticky;
+	position:-moz-sticky;
+	position:-ms-sticky;
+	position:-o-sticky;
+	position:sticky;
+	z-index:1
+}
+table th, table td {
+	padding:6px;
+	border-bottom:2px dotted #cccccc
+}
+table tr.page_break {
+	display:none
+}
+table .right {
+	text-align:right
+}
+table .left {
+	text-align:left
+}
+table .center {
+	text-align:center
+}
+table .border-top-single {
+	border-top:1px solid #333333
+}
+table .border-top-bold {
+	border-top:2px solid #333333
+}
+table .border-top-double {
+	border-top:4px double #333333
+}
+table .border-bottom-single {
+	border-bottom:1px solid #333333
+}
+table .border-bottom-bold {
+	border-bottom:2px solid #333333
+}
+table .border-bottom-double {
+	border-bottom:4px double #333333
+}
+table .border-left-single {
+	border-left:1px solid #333333
+}
+table .border-left-bold {
+	border-left:2px solid #333333
+}
+table .border-left-double {
+	border-left:4px double #333333
+}
+table .border-right-single {
+	border-right:1px solid #333333
+}
+table .border-right-bold {
+	border-right:2px solid #333333
+}
+table .border-right-double {
+	border-right:4px double #333333
+}
+table .primary-indent-0 {
+	padding-left:0em
+}
+table .primary-indent-hanging-0 {
+	padding-left:1em;
+	text-indent:-1em
+}
+table .primary-indent-1 {
+	padding-left:2em
+}
+table .primary-indent-hanging-1 {
+	padding-left:3em;
+	text-indent:-1em
+}
+table .primary-indent-2 {
+	padding-left:4em
+}
+table .primary-indent-hanging-2 {
+	padding-left:5em;
+	text-indent:-1em
+}
+table .primary-indent-3 {
+	padding-left:6em
+}
+table .primary-indent-hanging-3 {
+	padding-left:7em;
+	text-indent:-1em
+}
+table .primary-indent-4 {
+	padding-left:8em
+}
+table .primary-indent-hanging-4 {
+	padding-left:9em;
+	text-indent:-1em
+}
+table .primary-indent-5 {
+	padding-left:10em
+}
+table .primary-indent-hanging-5 {
+	padding-left:11em;
+	text-indent:-1em
+}
+table .primary-indent-6 {
+	padding-left:12em
+}
+table .primary-indent-hanging-6 {
+	padding-left:13em;
+	text-indent:-1em
+}
+table .primary-indent-7 {
+	padding-left:14em
+}
+table .primary-indent-hanging-7 {
+	padding-left:15em;
+	text-indent:-1em
+}
+table .primary-indent-8 {
+	padding-left:16em
+}
+table .primary-indent-hanging-8 {
+	padding-left:17em;
+	text-indent:-1em
+}
+table .primary-indent-9 {
+	padding-left:18em
+}
+table .primary-indent-hanging-9 {
+	padding-left:19em;
+	text-indent:-1em
+}
+
+.footnote {
+	font-style:italic;
+	margin-bottom:20px
+}
+
+.footnote p {
+	margin-bottom:0 !important;
+	line-height:1.5em !important
+}
+
+.footnote a.back {
+	font-style:normal;
+	font-size:14.2222222222px
+}
+
+.amendment-part-number, .amendment-part-subnumber {
+    margin-left: 0;
+    padding-right: 5px;
+    display: inline-block;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: -2px;
+}
+
+.amendment-part-subnumber {
+    margin-left: 20px;
+    padding-right: 5px;
+}
+
+.sectno-reference, .section-subject {
+    font-weight: bold;
+    font-size: 14px;
+    float: left;
+}
+
+.sectno-reference {
+    width: 15%;
+}
+
+.section-subject {
+    width: 85%;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    float: left;
+}
+
+p.authority {
+    margin-left: 20px;
+}
+
+.auth-header {
+    font-size: 14.2222222222px;
+    font-weight: bold;
+}
+
+caption {
+    caption-side: top;
+}
+</style>
+</head>
+<body>
+
+            <span class="preamble-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="preamble unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#preamble-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Preamble"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Preamble</span></span></span>
+                <span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13911"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13911" data-page="13911" data-text="Start Printed Page 13911" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13911}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13911</span></span></span>
+                
+                
+                
+                
+                
+                
+                    <h1 id="h-1">AGENCY:</h1>
+                    <p id="p-1" data-page="13911">Federal Aviation Administration, Department of Transportation (DOT).</p>
+                
+                
+                    <h1 id="h-2">ACTION:</h1>
+                    <p id="p-2" data-page="13911">Issuance of accepted means of compliance.</p>
+                
+                
+                    <h1 id="h-3">SUMMARY:</h1>
+                    <p id="p-3" data-page="13911">This document announces ASTM International (ASTM) consensus standards for use as a means of compliance to the applicable airworthiness standards for normal category airplanes. The FAA accepts ASTM Designation F3264-21 as a means of compliance for applicable airworthiness standards for normal category airplanes, with the changes identified in Table 1 of this document. For ease of use, Table 2 provides a side-by-side view, linking applicable regulations to the associated ASTM sections.</p>
+                
+                
+                    <h1 id="h-4">DATES:</h1>
+                    <p id="p-4" data-page="13911">The FAA accepts the means of compliance effective March 11, 2022.</p>
+                
+                <span class="further-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="further-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#furinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Further Info"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Further Info</span></span></span>
+                    <h1 id="further-info">FOR FURTHER INFORMATION CONTACT:</h1>
+                    <p id="p-5" data-page="13911">
+                        Hieu Nguyen, Federal Aviation Administration, Policy and Innovation Division, Small Airplane Strategic Policy Section, AIR-615, 901 Locust Street, Room 301, Kansas City, Missouri 64106; telephone (316) 946-4123; facsimile: (316) 946-4107; email: 
+                        <em><a href="mailto:hieu.nguyen@faa.gov" class="email">hieu.nguyen@faa.gov</a>.</em>
+                    </p>
+                <span class="further-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="further-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#furinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Further Info"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Further Info</span></span></span>
+            <span class="preamble-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="preamble unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#preamble-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Preamble"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Preamble</span></span></span>
+            <span class="supplemental-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="supplemental-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#suplinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Supplemental Information"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Supplemental Information</span></span></span>
+                <h1 id="h-6">SUPPLEMENTARY INFORMATION:</h1>
+                <h2 id="h-7">Background</h2>
+                <p id="p-6" data-page="13911">
+                    Under the provisions of the National Technology Transfer and Advancement Act of 1995&thinsp;<sup>[<a class="document-link citation-1-p13911" href="javascript:void(0);" id="footnote-1-p13911">1</a>] </sup>
+                    
+                     and Office of Management and Budget (OMB) Circular A-119, &ldquo;Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities,&rdquo; effective January 27, 2016, the FAA participates in the development of consensus standards and uses consensus standards as a means of carrying out its policy objectives where appropriate.
+                </p>
+                
+                <p id="p-8" data-page="13911">
+                    Consistent with the Small Airplane Revitalization Act of 2013,<sup>[<a class="document-link citation-2-p13911" href="javascript:void(0);" id="footnote-2-p13911">2</a>] </sup>
+                    
+                     the FAA has been working with industry and other stakeholders through the ASTM International (ASTM) F44 Committee on General Aviation Aircraft to develop consensus standards as a means of compliance in certificating small airplanes under <a href="https://www.ecfr.gov/current/title-14" class="cfr external" rel="noopener noreferrer" target="_blank">title 14, Code of Federal Regulations</a> (14 CFR), part 23.
+                </p>
+                
+                <p id="p-10" data-page="13911">
+                    In part 23, amendment 23-64&thinsp;<sup>[<a class="document-link citation-3-p13911" href="javascript:void(0);" id="footnote-3-p13911">3</a>] </sup>
+                    
+                     (<a href="https://www.federalregister.gov/citation/81-FR-96572" class="fr-reference" data-reference="81 FR 96572" target="_blank">81 FR 96572</a>, published on December 30, 2016), the final rule described the FAA would publish those consensus standards in the 
+                    <strong>Federal Register</strong>
+                    , when the Administrator accepts the consensus standards as an acceptable means of compliance.
+                </p>
+                
+                <p id="p-12" data-page="13911">
+                    Additionally, the FAA published Advisory Circular (AC) 23.2010-1,<sup>[<a class="document-link citation-4-p13911" href="javascript:void(0);" id="footnote-4-p13911">4</a>] </sup>
+                    
+                     dated March 27, 2017, titled &ldquo;FAA Accepted Means of Compliance Process for <a href="https://www.ecfr.gov/current/title-14/part-23" class="cfr external" rel="noopener noreferrer" target="_blank">14 CFR part 23</a>&rdquo;. In paragraph 5.5, the AC also describes that a notice will be published when the Administrator accepts a standard.
+                </p>
+                
+                <p id="p-14" data-page="13911">The means of compliance accepted by this document is one means, but not the only means of complying with part 23 regulatory requirements.</p>
+                <p id="p-15" data-page="13911">The FAA reviewed the published ASTM consensus standards developed by ASTM Committee F44 as the basis for means of compliance to 65 sections of part 23, amendment 23-64.</p>
+                <p id="p-16" data-page="13911">In some cases, the Administrator found sections of the ASTM Standard Designation F3264-21, titled &ldquo;Standard Specification for Normal Category Aeroplanes Certification,&rdquo; without changes, accepted as means of compliance with the airworthiness requirements of amendment 23-64, and within the scope and applicability of the consensus standards.</p>
+                <p id="p-17" data-page="13911">In other cases, the means of compliance, while based on ASTM consensus standards, include additional FAA provisions necessary to comply with the airworthiness requirements of amendment 23-64.</p>
+                <p id="p-18" data-page="13911">Applicants who desire to use means of compliance reflected by other revisions to ASTM standards not previously accepted, may seek guidance and possible acceptance from the FAA for the use of those means of compliance on a case-by-case basis. Applicants may also propose alternative means of compliance for FAA review and possible acceptance.</p>
+                <p id="p-19" data-page="13911">Part 23, amendment 23-64, established airworthiness requirements based on the safety requirements outlined in amendment 23-63, except in areas that address loss of control and icing, where the FAA increased the safety level. Depending on the details of a design, the applicant may require use of a different means of compliance beyond those accepted by this document. For example, novel airplane designs, such as unmanned airplanes or vertical takeoff and landing airplanes, may be outside the scope of this document, and applicants may need to propose alternative means of compliance applicable to their designs accepted under &sect;&thinsp;23.2010.</p>
+                <h2 id="h-8">Means of Compliance Accepted</h2>
+                <p id="p-20" data-page="13911">
+                    This document accepts only the revisions of the standards referenced in ASTM International Standard Designation (ASTM) F3264-21, &ldquo;Standard Specification for Normal Category Aeroplanes Certification.&rdquo;
+                    
+                </p>
+                
+                <p id="p-23" data-page="13911">
+                    <em>Table 1.</em>
+                     The FAA accepts ASTM F3264-21 as a means of compliance for part 23, amendment 23-64, with the changes identified.
+                </p>
+                <p id="p-24" data-page="13911">
+                    <em>Table 2.</em>
+                     For ease of use, Table 2 provides a side-by-side view, linking the applicable part 23 regulations to the ASTM F3264-21 sections. The ASTM F3264-21 sections must incorporate the changes required for FAA acceptance from Table 1.
+                </p>
+                <div class="table-wrapper"><table class="wide" data-point-width="300"><caption><p class="title">Table 1&mdash;Part 23 Accepted Means of Compliance Based on ASTM Consensus Standards</p></caption><thead><tr><th class="center border-top-single border-bottom-single border-right-single">ASTM designation No.</th><th class="center border-top-single border-bottom-single border-right-single">ASTM document title</th><th class="center border-top-single border-bottom-single border-right-single">Changes required for FAA acceptance&thinsp;<sup>5</sup></th><th class="center border-top-single border-bottom-single">Additional information&thinsp;<sup>6</sup></th></tr></thead><tbody><tr><td class="left border-right-single">F2490-20</td><td class="left border-right-single">Standard Guide for Aircraft Electrical Load and Power Source Capacity Analysis</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr class="page_break"><td colspan="4"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13912"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13912" data-page="13912" data-text="Start Printed Page 13912" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13912}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13912</span></span></span></td></tr><tr><td class="left border-right-single">F3061/F3061M-20</td><td class="left border-right-single">Standard Specification for Systems and Equipment in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Tables 1, 3, 4, 5, 13 and 14
+                             
+                                <strong class="minor-caps">Replace 17.3.1 with the following:</strong>
+                             
+                             (a) Each electrical or electronic system that performs a function, the failure of which would prevent the continued safe flight and landing of the airplane, must be designed and installed such that&mdash; 
+                             (1) The function at the airplane level is not adversely affected during and after the time the airplane is exposed to lightning; and 
+                             (2) The system recovers normal operation of that function in a timely manner after the airplane is exposed to lightning unless the system's recovery conflicts with other operational or functional requirements of the system.</td><td class="left">Aircraft Type Code compliance matrix tables found in F3061/F3061M-20 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.
+                             
+                                F3061/F3061M-20 does not contain means for showing compliance to &sect;&thinsp;23.2310 
+                                <em>Buoyancy for seaplanes and amphibians.</em>
+                                 If applying for certification of a seaplane or amphibian, applicants may use the provisions of &sect;&sect;&thinsp;23.751, 23.755, and 23.757 at amendment 23-63 as a means of complying with &sect;&thinsp;23.2310, or may obtain FAA acceptance of a different method of compliance in accordance with &sect;&thinsp;23.2010.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">Replace 17.3.2 with the following:</strong></td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single">(b) Each electrical and electronic system that performs a function, the failure of which would significantly reduce the capability of the airplane or the ability of the flight crew to respond to an adverse operating condition, must be designed and installed such that the system recovers normal operation of that function in a timely manner after the airplane is exposed to lightning</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">Remove 17.3.3</strong></td><td class="left"></td></tr><tr><td class="left border-right-single">F3062/F3062M-20</td><td class="left border-right-single">Standard Specification for Aircraft Powerplant Installation</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3063/F3063M-20</td><td class="left border-right-single">Standard Specification for Aircraft Fuel and Energy Storage and Delivery</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3064/F3064M-21</td><td class="left border-right-single">Standard Specification for Aircraft Powerplant Control, Operation, and Indication</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3065/F3065M-21a</td><td class="left border-right-single">Standard Specification for Aircraft Propeller System Installation</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3066/F3066M-18</td><td class="left border-right-single">Standard Specification for Aircraft Powerplant Installation Hazard Mitigation</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3082/F3082M-17</td><td class="left border-right-single">Standard Specification for Weights and Centers of Gravity of Aircraft</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3083/F3083M-20a</td><td class="left border-right-single">Standard Specification for Emergency Conditions, Occupant Safety and Accommodations</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3093/F3093M-21</td><td class="left border-right-single">Standard Specification for Aeroelasticity Requirements</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3114-21</td><td class="left border-right-single">Standard Specification for Structures</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3115/F3115M-20</td><td class="left border-right-single">Standard Specification for Structural Durability for Small Aeroplanes</td><td class="left border-right-single">None</td><td class="left">If applicant proposes to use F3115/F3115M-20 section 4.3 or 6.3.3, Policy &amp; Innovation Division will be involved as the standard is applied during projects to review the approach to determining similarity (F3115/F3115M-20 section 4.3) and criteria defining obvious damage (F3115/F3115M-20 section 6.3.3).</td></tr><tr class="page_break"><td colspan="4"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13913"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13913" data-page="13913" data-text="Start Printed Page 13913" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13913}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13913</span></span></span></td></tr><tr><td class="left border-right-single">F3116/F3116M-18e2</td><td class="left border-right-single">Standard Specification for Design Loads and Conditions</td><td class="left border-right-single"><strong class="minor-caps">Replace:</strong>
+                             Section 4.1.4.
+                             
+                                <strong class="minor-caps">With:</strong>
+                                 FAA Section 4.1.4&emsp;&ldquo;Appendix X1 through Appendix X4 provides, within the limitations specified within the appendix, a simplified means of compliance with several of the requirements set forth in Sections 4.2 to 4.26 and 7.1 to 7.9 that can be applied as one (but not the only) means to comply. If the simplified methods in appendix X1 through X3 are used, they must be used together in their entirety.</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">Replace:</strong>
+                             Section X1.1.1</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">With:</strong>
+                             FAA Section X1.1.1&emsp;&ldquo;The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 and level 2 low speed airplanes.&rdquo;</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">Replace:</strong>
+                             Section X2.1.1</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">With:</strong>
+                             FAA Section X2.1.1&emsp;&ldquo;The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 and level 2 low speed airplanes.&rdquo;</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">Replace:</strong>
+                             Section X3.1.1</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">With:</strong>
+                             FAA Section X3.1.1&emsp;&ldquo;The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 and level 2 low speed airplanes.&rdquo;</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">Replace:</strong>
+                             Section X4.1.1.
+                             
+                                <strong class="minor-caps">With:</strong>
+                                 FAA Section X4.1.1 &ldquo;The methods provided in this appendix provide one possible means (but not the only possible means) of compliance and can only be applied to level 1 low speed airplanes.&rdquo;</td><td class="left"></td></tr><tr><td class="left border-right-single">F3117/F3117M-20</td><td class="left border-right-single">Standard Specification for Crew Interface in Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Add:</strong>
+                             4.3&emsp;Windshields and Windows. 
+                             4.3.1&emsp;For Level 4 airplanes, the windshield panels in front of the pilots must be arranged so that, assuming the loss of vision through any one panel, one or more panels remain available for use by a pilot seated at a pilot station to permit continued safe flight and landing</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single">Or For Level 4 Airplanes Add F3117/F3117M&mdash;21a Section 4.3</td><td class="left"></td></tr><tr><td class="left border-right-single">F3120/F3120M-20</td><td class="left border-right-single">Standard Specification for Ice Protection for General Aviation</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3173/F3173M-21</td><td class="left border-right-single">Standard Specification for Aircraft Handling Characteristics</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3174/F3174M-19</td><td class="left border-right-single">Standard Specification for Establishing Operating Limitations and Information for Aeroplanes</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3179/F3179M-20</td><td class="left border-right-single">Standard Specification for Performance of Aircraft</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3180/F3180M-19</td><td class="left border-right-single">Standard Specification for Low-Speed Flight Characteristics of Aircraft</td><td class="left border-right-single">FAA does not universally accept F3180/F3180M-19 due to inexperience with Alternative 2 within the standard. FAA previously and continues to accept F3180/F3180M-16</td><td class="left">Applicants are encouraged to consider proposing F3180/F3180M-19, particularly Alternative 2, for development of their method of compliance for low speed handling qualities on a project-by-project basis, or may obtain FAA acceptance of a different method of compliance in accordance with &sect;&thinsp;23.2010.</td></tr><tr class="page_break"><td colspan="4"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13914"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13914" data-page="13914" data-text="Start Printed Page 13914" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13914}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13914</span></span></span></td></tr><tr><td class="left border-right-single">F3227/F3227M-21</td><td class="left border-right-single">Standard Specification for Environmental Systems in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Tables 1, 2, and 3</td><td class="left">Aircraft Type Code compliance matrix tables found in F3227/F3227M-21, are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3228-17</td><td class="left border-right-single">Standard Specification for Flight Data and Voice Recording in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Table 1</td><td class="left">Aircraft Type Code compliance matrix table found in F3228-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3229/F3229M-17</td><td class="left border-right-single">Standard Practice for Static Pressure System Tests in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Table 1</td><td class="left">Aircraft Type Code compliance matrix table found in F3229/F3229M-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3230-20a</td><td class="left border-right-single">Standard Practice for Safety Assessments of Systems and Equipment in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Table 1</td><td class="left">Aircraft Type Code compliance matrix table found in F3230-20a are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3231/F3231M-21</td><td class="left border-right-single">Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Table 1</td><td class="left">Aircraft Type Code compliance matrix table found in F3231/F3231M-21 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3232/F3232M-20</td><td class="left border-right-single">Standard Specification for Flight Controls in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Tables 1 and 2</td><td class="left">Aircraft Type Code compliance matrix tables found in F3232/F3232M-20 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3233/F3233M-21</td><td class="left border-right-single">Standard Specification for Instrumentation in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Table 1</td><td class="left">Aircraft Type Code compliance matrix table found in F3233/F3233M-21 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3234/F3234M-17</td><td class="left border-right-single">Standard Specification for Exterior Lighting in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Table 1</td><td class="left">Aircraft Type Code compliance matrix table found in F3234/F3234M-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3235-17a</td><td class="left border-right-single">Standard Specification for Aircraft Storage Batteries</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Section 4.2
+                             
+                                <strong class="minor-caps">Remove:</strong>
+                                 Table 1.</td><td class="left">If applying for certification of an airplane with installed lithium batteries, applicants may use the guidance provided by RTCA DO-311A, or may obtain FAA acceptance of a different method of compliance in accordance with &sect;&thinsp;23.2010.
+                             Aircraft Type Code compliance matrix table found in F3235-17a are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3236-17</td><td class="left border-right-single">Standard Specification for High Intensity Radiated Field (HIRF) Protection in Small Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Remove:</strong>
+                             Table 1
+                             
+                                <strong class="minor-caps">Revise:</strong>
+                                 Table 2 400 to 700 Mhz frequency range field strength average value:
+                             
+                             
+                                <strong class="minor-caps">Replace:</strong>
+                                 &ldquo;100 volts/meter.&rdquo;
+                             
+                             
+                                <strong class="minor-caps">With:</strong>
+                                 &ldquo;50 volts/meter.&rdquo;</td><td class="left">Aircraft Type Code compliance matrix table found in F3236-17 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">Replace:</strong>
+                             Section 4.2.3.3</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">With:</strong>
+                             FAA Section 4.2.3.3 &ldquo;From 40 to 400 MHz, use conducted susceptibility tests, starting at a minimum of 30 mA at 40 MHz, decreasing 20 dB per frequency decade to a minimum of 3 mA at 400 MHz.&rdquo;</td><td class="left"></td></tr><tr><td class="left border-right-single">F3239-19</td><td class="left border-right-single">Standard Specification for Aircraft Electric Propulsion Systems</td><td class="left border-right-single">FAA does not universally accept F3239-19 due to inexperience with the standard</td><td class="left">Applicants are encouraged to consider proposing F3239-19 for development of their method of compliance for electric propulsion systems on a project-by-project basis. Any method of compliance proposed must establish a level of safety equivalent to certified reciprocating and turbine propulsion systems and receive acceptance by FAA in accordance with &sect;&thinsp;23.2010.</td></tr><tr><td class="left border-right-single">F3254-19</td><td class="left border-right-single">Standard Specification for Aircraft Interaction of Systems and Structures</td><td class="left border-right-single">Figures 2, 3 and 4 
+                            <strong class="minor-caps">Replace:</strong>
+                             &ldquo;Remote&rdquo;
+                             
+                                <strong class="minor-caps">With:</strong>
+                                 &ldquo;10<sup>&minus;</sup><sup>5</sup>
+                                .&rdquo;
+                             
+                             
+                                <strong class="minor-caps">Replace:</strong>
+                                 &ldquo;Extremely Improbable.&rdquo;</td><td class="left">Other proposed probabilities will be considered by the FAA on a case by case basis.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"><strong class="minor-caps">With:</strong>
+                             &ldquo;10<sup>&minus;</sup><sup>8</sup>
+                            &rdquo; for Level 1, 2 and 3 airplanes and with &ldquo;10<sup>&minus;</sup><sup>9</sup>
+                            &rdquo; for Level 4 airplanes&rdquo;</td><td class="left"></td></tr><tr class="page_break"><td colspan="4"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13915"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13915" data-page="13915" data-text="Start Printed Page 13915" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13915}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13915</span></span></span></td></tr><tr><td class="left border-right-single">F3309/F3309M-21</td><td class="left border-right-single">Standard Practice for Simplified Safety Assessment of Systems and Equipment in Small Aircraft</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3316/F3316M-19</td><td class="left border-right-single">Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion</td><td class="left border-right-single">FAA does not universally accept F3316/F3316M-19 due to inexperience with the standard
+                             
+                                <strong class="minor-caps">Remove:</strong>
+                                 Table 1.</td><td class="left">Applicants are encouraged to consider proposing F3316/F3316M-19 for development of their method of compliance for electrical systems installed on airplanes with electric or hybrid-electric propulsion systems on a project-by-project basis. Applicants may obtain FAA acceptance of a different method of compliance in accordance with &sect;&thinsp;23.2010.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single"></td><td class="left">Aircraft Type Code compliance matrix table found in F3316/F3316M-19 are not accepted. Applicability will be determined by the Small Airplane Strategic Policy Section.</td></tr><tr><td class="left border-right-single">F3331-18</td><td class="left border-right-single">Standard Practice for Aircraft Water Loads</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3367-21</td><td class="left border-right-single">Standard Practice for Simplified Methods for Addressing High-Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft</td><td class="left border-right-single"><strong class="minor-caps">Replace:</strong>
+                             paragraph 5.1.1.
+                             
+                                <strong class="minor-caps">With:</strong>
+                                 Systems that are part of the Type Certificated Engine must be installed in accordance with the engine manufacturer's requirements. The minimum HIRF and lightning qualification in accordance with Sections 8 and 9 of this ASTM practice should be met at the aircraft level, except for engine control systems in Level 1 and 2 airplanes which should meet the following;</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single">&bull; HIRF: DO-160, Section 20&mdash;R for both radiated and conducted susceptibility</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single">&bull; Lightning: Utilize Guidance in AC 33.28-3
+                             For metallic fuselage DO-160G, Section 22&mdash;A3J3L3 (shielded) and A3H3L3 (unshielded)</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single">For composite fuselage DO-160G, Section 22&mdash;B3K3L3 (shielded) and B3H3L3 (unshielded)</td><td class="left"></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left border-right-single">Use of lower HIRF and lighting induced voltage &amp; current levels may be acceptable for electronic engine control systems if substantiated at the airplane level (by test in the proposed installation or similar) when exposed to external HIRF environment per AC20-158A and Lightning per AC20-136B; using shielding and grounding of the electronic engine control system and accessories in the given installation</td><td class="left"></td></tr><tr><td class="left border-right-single">F3380-19</td><td class="left border-right-single">Standard Practice for Structural Compliance of Very Light Aeroplanes</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3396/F3396M-20</td><td class="left border-right-single">Standard Practice for Aircraft Simplified Loads</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-right-single">F3408/F3408M-21</td><td class="left border-right-single">Standard Specification for Aircraft Emergency Parachute Recovery Systems</td><td class="left border-right-single">None.</td><td class="left"></td></tr><tr><td class="left border-bottom-single border-right-single">F3432-20a</td><td class="left border-bottom-single border-right-single">Standard Practice for Powerplant Instruments</td><td class="left border-bottom-single border-right-single">None.</td><td class="left border-bottom-single"></td></tr></tbody></table></div>
+                <span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13916"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13916" data-page="13916" data-text="Start Printed Page 13916" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13916}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13916</span></span></span>
+                <div class="table-wrapper"><table class="wide" data-point-width="300"><caption><p class="title">Table 2&mdash;Side-By-Side View of <a href="https://www.ecfr.gov/current/title-14/part-23" class="cfr external" rel="noopener noreferrer" target="_blank">14 CFR Part 23</a> Regulations and ASTM F3264-21 Sections</p></caption><thead><tr><th class="center border-top-single border-bottom-single border-right-single">Part 23 
+                             amendment 23-64  
+                             regulation(s)</th><th class="center border-top-single border-bottom-single border-right-single">ASTM F3264-21 section(s)&thinsp;<sup>7</sup></th><th class="center border-top-single border-bottom-single">ASTM F3264-21 subsection(s)&thinsp;<sup>8</sup></th></tr></thead><tbody><tr><td class="left border-right-single">23.1457</td><td class="left border-right-single">9.12 Installation of Cockpit Recorders</td><td class="left">9.12.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.12.1.1 F3228&mdash;17 Standard Specification for Flight Data and Voice Recording in Small Aircraft.</td></tr><tr><td class="left border-right-single">23.1459</td><td class="left border-right-single">9.13 Installation of Flight Data Recorders</td><td class="left">9.13.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.13.1.1 F3228&mdash;17 Standard Specification for Flight Data and Voice Recording in Small Aircraft.</td></tr><tr><td class="left border-right-single">23.1529</td><td class="left border-right-single">10.6 Instructions for Continued Airworthiness</td><td class="left">10.6.1 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.6.2 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.6.3 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single">Subpart B&mdash;Flight:</td><td class="left border-right-single"></td><td class="left"></td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2100</td><td class="left border-right-single">5.1 Weight/Mass and Centre of Gravity</td><td class="left">5.1.1 F3082/F3082M&mdash;17 Standard Specification for Weights and Centers of Gravity of Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">5.1.2 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2105</td><td class="left border-right-single">5.2 Performance Data</td><td class="left">5.2.1 F3179/F3179M&mdash;20 Standard Specification for Performance of Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2110</td><td class="left border-right-single">5.3 Stall Speed</td><td class="left">5.3.1 F3179/F3179M&mdash;20 Standard Specification for Performance of Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2115</td><td class="left border-right-single">5.4 Takeoff Performance</td><td class="left">5.4.1 F3179/F3179M&mdash;20 Standard Specification for Performance of Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2120</td><td class="left border-right-single">5.5 Climb Requirements</td><td class="left">5.5.1 F3179/F3179M&mdash;20 Standard Specification for Performance of Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2125</td><td class="left border-right-single">5.6 Climb Information</td><td class="left">5.6.1 F3179/F3179M&mdash;20 Standard Specification for Performance of Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2130</td><td class="left border-right-single">5.7 Landing</td><td class="left">5.7.1 F3179/F3179M&mdash;20 Standard Specification for Performance of Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2135</td><td class="left border-right-single">5.8 Controllability</td><td class="left">5.8.1 F3173/F3173M&mdash;21 Standard Specification for Aircraft Handling Characteristics.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2140</td><td class="left border-right-single">5.9 Trim</td><td class="left">5.9.1 F3173/F3173M&mdash;21 Standard Specification for Aircraft Handling Characteristics.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2145</td><td class="left border-right-single">5.10 Stability</td><td class="left">5.10.1 F3173/F3173M&mdash;21 Standard Specification for Aircraft Handling Characteristics.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2150</td><td class="left border-right-single">5.11 Stall Characteristics, Stall Warning, and Spins</td><td class="left">5.11.1 F3180/F3180M&mdash;19 Standard Specification for Low-Speed Flight Characteristics of Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2155</td><td class="left border-right-single">5.12 Ground and Water Handling Characteristics</td><td class="left">5.12.1 F3173/F3173M&mdash;21 Standard Specification for Aircraft Handling Characteristics.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2160</td><td class="left border-right-single">5.13 Vibration, Buffeting, and High-Speed Characteristics</td><td class="left">5.13.1 F3173/F3173M&mdash;21 Standard Specification for Aircraft Handling Characteristics.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2165</td><td class="left border-right-single">5.14 Performance and Flight Characteristics Requirements for Flight in Icing Conditions</td><td class="left">5.14.1 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-right-single">Subpart C&mdash;Structures:</td><td class="left border-right-single"></td><td class="left"></td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2200</td><td class="left border-right-single">6.1 Structural Design Envelope</td><td class="left">6.1.1 F3116/F3116M&mdash;18e2 Standard Specification for Design Loads and Conditions.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.1.1.1 F3396/F3396M&mdash;20 Standard Practice for Aircraft Simplified Loads.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2205</td><td class="left border-right-single">6.2 Interaction of Systems and Structure</td><td class="left">6.2.1 F3254&mdash;19 Standard Specification for Aircraft Interaction of Systems and Structures.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2210</td><td class="left border-right-single">6.3 Structural Design Loads</td><td class="left">6.3.1 F3116/F3116M&mdash;18e2 Standard Specification for Design Loads and Conditions.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.3.1.1 F3396/F3396M&mdash;20 Standard Practice for Aircraft Simplified Loads.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.3.2 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2215</td><td class="left border-right-single">6.4 Flight Load Conditions</td><td class="left">6.4.1 F3116/F3116M&mdash;18e2 Standard Specification for Design Loads and Conditions.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.4.1.1 F3396/F3396M&mdash;20 Standard Practice for Aircraft Simplified Loads.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2220</td><td class="left border-right-single">6.5 Ground and Water Load Conditions</td><td class="left">6.5.1 F3116/F3116M&mdash;18e2 Standard Specification for Design Loads and Conditions.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.5.1.1 F3331&mdash;18 Standard Practice for Aircraft Water Loads.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2225</td><td class="left border-right-single">6.6 Component Loading Conditions</td><td class="left">6.6.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.6.1.1 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.6.2 F3116/F3116M&mdash;18e2 Standard Specification for Design Loads and Conditions.</td></tr><tr class="page_break"><td colspan="3"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13917"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13917" data-page="13917" data-text="Start Printed Page 13917" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13917}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13917</span></span></span></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.6.2.1 F3396/F3396M&mdash;20 Standard Practice for Aircraft Simplified Loads.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2230</td><td class="left border-right-single">6.7 Limit and Ultimate Loads</td><td class="left">6.7.1 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.7.2 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2235</td><td class="left border-right-single">6.8 Structural Strength</td><td class="left">6.8.1 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.8.2 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2240</td><td class="left border-right-single">6.9 Structural Durability</td><td class="left">6.9.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.9.2 F3066/F3066M -18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.9.3 F3115/F3115M&mdash;20 Standard Specification for Structural Durability for Small Aeroplanes.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.9.3.1 F3380 -19 Standard Practice for Structural Compliance of Very Light Aeroplanes.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.9.4 F3116/F3116M&mdash;18e2 Standard Specification for Design Loads and Conditions.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2245</td><td class="left border-right-single">6.10 Aeroelasticity</td><td class="left">6.10.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.10.2 F3093/F3093M&mdash;21 Standard Specification for Aeroelasticity Requirements.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2250</td><td class="left border-right-single">6.11 Design and Construction Principles</td><td class="left">6.11.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.11.1.1 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.11.2 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.11.2.1 F3380&mdash;19 Standard Practice for Structural Compliance of Very Light Aeroplanes.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.11.3 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2255</td><td class="left border-right-single">6.12 Protection of Structure</td><td class="left">6.12.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.12.1.1 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.12.2 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.12.2.1 F3380&mdash;19 Standard Practice for Structural Compliance of Very Light Aeroplanes.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.12.3 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.12.4 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2260</td><td class="left border-right-single">6.13 Materials and Processes</td><td class="left">6.13.1 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.13.1.1 F3380&mdash;19 Standard Practice for Structural Compliance of Very Light Aeroplanes.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.13.2 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2265</td><td class="left border-right-single">6.14 Special Factors of Safety</td><td class="left">6.14.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.14.2 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.14.2.1 F3380 -19 Standard Practice for Structural Compliance of Very Light Aeroplanes.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2270</td><td class="left border-right-single">6.15 Emergency Conditions</td><td class="left">6.15.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.15.1.1 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.15.2 F3083/F3083M&mdash;20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">6.15.3 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single">Subpart D&mdash;Design and Construction</td><td class="left border-right-single"></td><td class="left"></td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2300</td><td class="left border-right-single">7.1 Flight Control Systems</td><td class="left">7.1.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.1.1.1 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.1.2 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.1.3 F3117/F3117M&mdash;20 Standard Specification for Crew Interface.</td></tr><tr class="page_break"><td colspan="3"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13918"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13918" data-page="13918" data-text="Start Printed Page 13918" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13918}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13918</span></span></span></td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2305</td><td class="left border-right-single">7.2 Landing Gear Systems</td><td class="left">7.2.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2310</td><td class="left border-right-single">7.3 Buoyancy for Seaplanes and Amphibians</td><td class="left">7.3.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2315</td><td class="left border-right-single">7.4 Means of Egress and Emergency Exits</td><td class="left">7.4.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.4.2 F3083/F3083M&mdash;20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2320</td><td class="left border-right-single">7.5 Occupant Physical Environment</td><td class="left">7.5.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.5.1.1 F3227/F3227M&mdash;21 Standard Specification for Environmental Systems in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.5.2 F3083/F3083M&mdash;20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.5.3 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.5.4 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2325</td><td class="left border-right-single">7.6 Fire Protection</td><td class="left">7.6.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.6.1.1 F3231/F3231M&mdash;21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.6.1.2 F3234/F3234M&mdash;17 Standard Specification for Exterior Lighting in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.6.1.3 F3316/F3316M&mdash;19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.6.2 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.6.3 F3083/F3083M&mdash;20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.6.4 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2330</td><td class="left border-right-single">7.7 Fire Protection in Designated Fire Zones and Adjacent Areas</td><td class="left">7.7.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.7.1.1 F3231/F3231M&mdash;21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.7.2 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">7.7.3 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2335</td><td class="left border-right-single">7.8 Lightning Protection</td><td class="left">7.8.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">Subpart E&mdash;Powerplant:</td><td class="left border-right-single"></td><td class="left"></td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2400</td><td class="left border-right-single">8.1 Powerplant Installation</td><td class="left">8.1.1 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.1.2 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.1.3 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.1.4 F3065/F3065M&mdash;21a Standard Specification for Aircraft Propeller System Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.1.5 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.1.6 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2405</td><td class="left border-right-single">8.2 Power or Thrust Control Systems</td><td class="left">8.2.1 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.2.2 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.2.3 F3065/F3065M&mdash;21a Standard Specification for Aircraft Propeller System Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.2.4 F3117/F3117M&mdash;20 Standard Specification for Crew Interface.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2410</td><td class="left border-right-single">8.3 Powerplant Installation Hazard Assessment</td><td class="left">8.3.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.3.2 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.3.3 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.3.4 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr class="page_break"><td colspan="3"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13919"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13919" data-page="13919" data-text="Start Printed Page 13919" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13919}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13919</span></span></span></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.3.5 F3065/F3065M&mdash;21a Standard Specification for Aircraft Propeller System Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.3.6 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.3.7 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.3.8 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2415</td><td class="left border-right-single">8.4 Powerplant Installation Ice Protection</td><td class="left">8.4.1 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.4.2 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.4.3 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.4.4 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2420</td><td class="left border-right-single">8.5 Reversing Systems</td><td class="left">8.5.1 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.5.2 F3065/F3065M&mdash;21a Standard Specification for Aircraft Propeller System Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.5.3 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2425</td><td class="left border-right-single">8.6 Powerplant Operational Characteristics</td><td class="left">8.6.1 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.6.2 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.6.3 F3065/F3065M&mdash;21a Standard Specification for Aircraft Propeller System Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.6.4 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.6.5 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.6.6 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2430</td><td class="left border-right-single">8.7 Fuel and Energy Storage and Distribution Systems</td><td class="left">8.7.1 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.7.2 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.7.3 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.7.4 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.7.5 F3114&mdash;21 Standard Specification for Structures.
+                             8.7.6 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2435</td><td class="left border-right-single">8.8 Powerplant Induction, Exhaust, and Support Systems</td><td class="left">8.8.1 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.8.2 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2440</td><td class="left border-right-single">8.9 Powerplant Installation Fire Protection</td><td class="left">8.9.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.9.2 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.9.3 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel an Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.9.4 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.9.5 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">8.9.6 F3239&mdash;19 Standard Specification for Aircraft Electric Propulsion Systems.</td></tr><tr><td class="left border-right-single">Subpart F&mdash;Equipment:</td><td class="left border-right-single"></td><td class="left"></td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2500</td><td class="left border-right-single">9.1 Systems and Equipment Function&mdash;Requirements</td><td class="left">9.1.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.1.1 F3231/F3231M&mdash;21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.1.1(a) F3235&mdash;17a Standard Specification for Aircraft Storage Batteries.</td></tr><tr class="page_break"><td colspan="3"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13920"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13920" data-page="13920" data-text="Start Printed Page 13920" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13920}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13920</span></span></span></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.1.2 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.1.3 F3233/F3233M&mdash;21 Standard Specification for Instrumentation in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.1.3(a) F3229/F3229M&mdash;17 Standard Practice for Static Pressure System Tests in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.1.4 F3316/F3316M&mdash;19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.2 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.3 F3066/F3066M&mdash;18 Standard Specification for Aircraft Powerplant Installation Hazard Mitigation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.4 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.5 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.1.6 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2505</td><td class="left border-right-single">9.2 Equipment Function and Installation Requirements</td><td class="left">9.2.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.2.1.1 F3231/F3231M&mdash;21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.2.1.1(a) F3235&mdash;17a Standard Specification for Aircraft Storage Batteries.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.2.1.2 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.2.1.3 F3233/F3233M&mdash;21 Standard Specification for Instrumentation in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.2.1.4 F3316/F3316M&mdash;19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.2.2 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2510</td><td class="left border-right-single">9.3 Equipment, Systems, and Installation</td><td class="left">9.3.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.3.1.1 F3230&mdash;20a Standard Practice for Safety Assessments of Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.3.1.2 F3233/F3233M&mdash;21 Standard Specification for Instrumentation in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.3.1.3 F3227/F3227M&mdash;21 Standard Specification for Environmental Systems in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.3.1.4 F3309/F3309M&mdash;21 Standard Practice for Simplified Safety Assessment of Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.3.2 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2515</td><td class="left border-right-single">9.4 Electrical and Electronic System Lightning Protection</td><td class="left">9.4.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.4.1.1 F3367&mdash;21 Standard Practice for Simplified Methods for Addressing High-Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2520</td><td class="left border-right-single">9.5 High Intensity Radiated Fields (HIRF) Protection</td><td class="left">9.5.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.5.1.1 F3236&mdash;17 Standard Specification for High Intensity Radiated Field (HIRF) Protection in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.5.1.2 F3367&mdash;21 Standard Practice for Simplified Methods for Addressing High-Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2525</td><td class="left border-right-single">9.6 System Power Generation, Storage, and Distribution</td><td class="left">9.6.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.6.1.1 F3231/F3231M&mdash;21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.6.1.1(a) F2490&mdash;20 Standard Guide for Aircraft Electrical Load and Power Source Capacity Analysis.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.6.1.2 F3233/F3233M&mdash;21 Standard Specification for Instrumentation in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.6.1.3 F3316/F3316M&mdash;19 Standard Specification for Electrical Systems for Aircraft with Electric or Hybrid-Electric Propulsion.</td></tr><tr class="page_break"><td colspan="3"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13921"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13921" data-page="13921" data-text="Start Printed Page 13921" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13921}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13921</span></span></span></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.6.1.3(a) F2490&mdash;20 Standard Guide for Aircraft Electrical Load and Power Source Capacity Analysis.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.6.2 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.6.3 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2530</td><td class="left border-right-single">9.7 External and Cockpit Lighting</td><td class="left">9.7.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.7.1.1 F3233/F3233M&mdash;21 Standard Specification for Instrumentation in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.7.1.2 F3234/F3234M&mdash;17 Standard Specification for Exterior Lighting in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.7.2 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.7.3 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2535</td><td class="left border-right-single">9.8 Safety Equipment</td><td class="left">9.8.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.8.2 F3083/F3083M&mdash;20a Standard Specification for Emergency Conditions, Occupant Safety and Accommodations.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.8.3 F3117/F3117M&mdash;20 Standard Specification for Crew Interface.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2540</td><td class="left border-right-single">9.9 Flight in Icing Conditions</td><td class="left">9.9.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.9.1.1 F3233/F3233M&mdash;21 Standard Specification for Instrumentation in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.9.2 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2545</td><td class="left border-right-single">9.10 Pressurized System Elements</td><td class="left">9.10.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">9.10.2 F3229/F3229M&mdash;17 Standard Practice for Static Pressure System Tests in Small Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2550</td><td class="left border-right-single">9.11 Equipment Containing High-Energy Rotors</td><td class="left">9.11.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">Subpart G&mdash;Flight crew Interface and Other Information:</td><td class="left border-right-single"></td><td class="left"></td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2600</td><td class="left border-right-single">10.1 Flight crew Compartment Interface</td><td class="left">10.1.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.1.1.1 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.1.2 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.1.3 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.1.4 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.1.5 F3114&mdash;21 Standard Specification for Structures.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.1.6 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.1.7 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2605</td><td class="left border-right-single">10.2 Installation and Operation Information</td><td class="left">10.2.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.1.1 F3227/F3227M&mdash;21 Standard Specification for Environmental Systems in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.1.2 F3231/F3231M&mdash;21 Standard Specification for Electrical Systems for Aircraft with Combustion Engine Electrical Power Generation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.1.3 F3232/F3232M&mdash;20 Standard Specification for Flight Controls in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.1.4 F3233/F3233M&mdash;21 Standard Specification for Instrumentation in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.2 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.3 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.4 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.5 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr class="page_break"><td colspan="3"><span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13922"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13922" data-page="13922" data-text="Start Printed Page 13922" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13922}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13922</span></span></span></td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.6 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.2.7 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2610</td><td class="left border-right-single">10.3 Instrument Markings, Control Markings, and Placards:</td><td class="left">10.3.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.3.2 F3063/F3063M&mdash;20 Standard Specification for Aircraft Fuel and Energy Storage and Delivery.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.3.3 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.3.4 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.3.5 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2615</td><td class="left border-right-single">10.4 Flight, Navigation, and Powerplant Instruments</td><td class="left">10.4.1 F3061/F3061M&mdash;20 Standard Specification for Systems and Equipment in Small Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.4.2 F3062/F3062M&mdash;20 Standard Specification for Aircraft Powerplant Installation.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.4.3 F3064/F3064M&mdash;21 Standard Specification for Aircraft Powerplant Control, Operation, and Indication.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.4.3.1 F3432&mdash;20a Standard Practice for Powerplant Instruments.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.4.4 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single primary-indent-hanging-2">23.2620</td><td class="left border-right-single">5.15 Operating Limitations
+                             10.5 Airplane Flight Manual</td><td class="left">5.15.1 F3174/F3174M&mdash;19 Standard Specification for Establishing Operating Limitations and Information for Aeroplanes.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">5.15.2 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.5.1 F3117/F3117M&mdash;20 Standard Specification for Crew Interface in Aircraft.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.5.2 F3174/F3174M&mdash;19 Standard Specification for Establishing Operating Limitations and Information for Aeroplanes.</td></tr><tr><td class="left border-right-single">&emsp;</td><td class="left border-right-single"></td><td class="left">10.5.3 F3120/F3120M&mdash;20 Standard Specification for Ice Protection for General Aviation Aircraft.</td></tr><tr><td class="left border-bottom-single border-right-single">&emsp;</td><td class="left border-bottom-single border-right-single"></td><td class="left border-bottom-single">10.5.4 F3408/F3408M&mdash;21 Standard Specification for Aircraft Emergency Parachute Recovery Systems.</td></tr></tbody></table></div>
+                <h2 id="h-9">
+                    Editorial, Reapproval, Revision or Withdrawal
+                    
+                </h2>
+                
+                <p id="p-27" data-page="13922">
+                    ASTM policy is that a consensus standard should be reviewed in its entirety by the responsible subcommittee and must be balloted for reapproval, revision, or withdrawal, within five years of its last approval date. When an ASTM standard is reapproved, that reapproval is denoted by the year in parentheses (
+                    <em>e.g.,</em>
+                     F2427-05a(2013)).
+                </p>
+                <p id="p-28" data-page="13922">
+                    This date indicates the completion of a review cycle with no technical changes made to the standard. ASTM issues editorial changes denoted by a superscript epsilon in the standard designation (
+                    <em>e.g.,</em>
+                     F3235-17&epsilon;1). This indicates information was corrected, and it did not change the meaning or intent of a standard. Any means of compliance accepted by this document, that is based on a standard later reapproved or editorially changed, is also considered accepted and without the need for a notice in the 
+                    <strong>Federal Register</strong>
+                    .
+                </p>
+                <p id="p-29" data-page="13922">ASTM revises a standard to make changes to its technical content. Revisions to consensus standards serving as the basis for means of compliance accepted by this document, will not be automatically accepted, and will require further FAA acceptance in order for the revisions to be an accepted means of compliance.</p>
+                <h2 id="h-10">Availability</h2>
+                <p id="p-30" data-page="13922">
+                    ASTM International Standard Designation F3264-21, &ldquo;Standard Specification for Normal Category Aeroplanes Certification,&rdquo; is available for online reading at 
+                    <em><a href="https://www.astm.org/READINGLIBRARY/" class="external" rel="noopener noreferrer" target="_blank">https://www.astm.org/&#8203;READINGLIBRARY/&#8203;</a></em>
+                    . ASTM copyrights these consensus standards, and charges the public a fee for service. Individual downloads or reprints of a standard (single or multiple copies, or special compilations and other related technical information) may be obtained through 
+                    <em><a href="http://www.astm.org" class="external" rel="noopener noreferrer" target="_blank">www.astm.org</a></em>
+                     or contacting ASTM at (610) 832-9585 (phone), (610) 832-9555 (fax), or through 
+                    <em><a href="mailto:service@astm.org" class="email">service@astm.org</a></em>
+                     (email). To inquire about consensus standard content and/or membership or about ASTM Offices abroad, contact Joe Koury, Staff Manager for Committee F44 on General Aviation Aircraft: (610) 832-9804, 
+                    <em><a href="mailto:jkoury@astm.org" class="email">jkoury@astm.org</a></em>
+                    .
+                </p>
+                <p id="p-31" data-page="13922">
+                    The FAA maintains a list of accepted means of compliance on the FAA website at 
+                    <em><a href="https://www.faa.gov/aircraft/air_cert/design_approvals/small_airplanes/small_airplanes_regs/" class="external" rel="noopener noreferrer" target="_blank">https://www.faa.gov/&#8203;aircraft/&#8203;air_&#8203;cert/&#8203;design_&#8203;approvals/&#8203;small_&#8203;airplanes/&#8203;small_&#8203;airplanes_&#8203;regs/&#8203;</a></em>
+                    .
+                </p>
+                <span class="signature-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="signature unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#signature-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Signature"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Signature</span></span><span class="unprinted-element-border"></span></span><div class="signature">
+                    <p class="signature-date">Issued in Kansas City, Missouri, on March 2, 2022.</p>
+                    <span class="printed-page printed-page-inline unprinted-element icon-fr2 icon-fr2-doc-generic document-markup" data-page="13923"></span><span class="printed-page-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="printed-page unprinted-element document-markup bootstrap-popover" id="page-13923" data-page="13923" data-text="Start Printed Page 13923" data-tooltip-template="#print-page-tooltip-template" data-toggle="popover" data-original-title="" data-placement="left" data-html="true" data-tooltip-data='{"page": 13923}'><span class="icon-fr2 icon-fr2-doc-generic"></span><span class="text cj-tooltip" data-tooltip="Click for more print page information">Start Printed Page 13923</span></span></span>
+                    <p class="signature-name">Patrick Mullen,</p>
+                    <p class="signature-title">Manager, Technical Innovation Policy Branch, Policy and Innovation Division, Aircraft Certification Service.</p>
+                </div><span class="signature-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="signature unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#signature-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Signature"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Signature</span></span><span class="unprinted-element-border"></span></span>
+            <span class="supplemental-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="supplemental-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#suplinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Supplemental Information"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Supplemental Information</span></span></span>
+            
+            
+        <h1 id="footnotes">Footnotes</h1><div class="footnotes">
+<div class="footnote" id="footnote-1-p13911">
+                    <p id="p-7" data-page="13911">1.
+    
+                        &thinsp;
+                        <em>Ref</em>
+                         <a href="https://www.govinfo.gov/link/plaw/104/public/113" class="publ external" rel="noopener noreferrer" target="_blank">Public Law 104-113</a> as amended by <a href="https://www.govinfo.gov/link/plaw/107/public/107" class="publ external" rel="noopener noreferrer" target="_blank">Public Law 107-107</a>.
+                    </p>
+                <a class="document-link footnote-1-p13911" href="javascript:void(0);" id="citation-1-p13911">
+        Back to Citation
+      </a>
+</div>
+<div class="footnote" id="footnote-2-p13911">
+                    <p id="p-9" data-page="13911">2.
+    
+                        &thinsp;
+                        <em>Ref</em>
+                         <a href="https://www.govinfo.gov/link/plaw/113/public/53" class="publ external" rel="noopener noreferrer" target="_blank">Public Law 113-53</a>.
+                    </p>
+                <a class="document-link footnote-2-p13911" href="javascript:void(0);" id="citation-2-p13911">
+        Back to Citation
+      </a>
+</div>
+<div class="footnote" id="footnote-3-p13911">
+                    <p id="p-11" data-page="13911">3.
+    
+                        &thinsp;
+                        <em>See <a href="https://www.federalregister.gov/documents/2016/12/30/2016-30246/revision-of-airworthiness-standards-for-normal-utility-acrobatic-and-commuter-category-airplanes" class="external" rel="noopener noreferrer" target="_blank">https://www.federalregister.gov/&#8203;documents/&#8203;2016/&#8203;12/&#8203;30/&#8203;2016-30246/&#8203;revision-of-airworthiness-standards-for-normal-utility-acrobatic-and-commuter-category-airplanes</a>.</em>
+                    </p>
+                <a class="document-link footnote-3-p13911" href="javascript:void(0);" id="citation-3-p13911">
+        Back to Citation
+      </a>
+</div>
+<div class="footnote" id="footnote-4-p13911">
+                    <p id="p-13" data-page="13911">4.
+    
+                        &thinsp;
+                        <em>See <a href="https://drs.faa.gov/browse" class="external" rel="noopener noreferrer" target="_blank">https://drs.faa.gov/&#8203;browse</a>.</em>
+                    </p>
+                <a class="document-link footnote-4-p13911" href="javascript:void(0);" id="citation-4-p13911">
+        Back to Citation
+      </a>
+</div>
+<div class="footnote" id="footnote-5-p13911">
+                    <p id="p-21" data-page="13911">5.
+    
+                        &thinsp;The means of compliance are inteded for traditional part 23 airplanes, not for novel designs. Novel designs require evaluation and possible modification of the means of compliance.
+                    </p>
+                    <p id="p-22" data-page="13911">6.
+    
+                        &thinsp;You may find additional information on the FAA Small Airplane Issues List (SAIL) here: 
+                        <em><a href="https://www.faa.gov/aircraft/air_cert/design_approvals/small_airplanes/small_airplanes_regs/" class="external" rel="noopener noreferrer" target="_blank">https://www.faa.gov/&#8203;aircraft/&#8203;air_&#8203;cert/&#8203;design_&#8203;approvals/&#8203;small_&#8203;airplanes/&#8203;small_&#8203;airplanes_&#8203;regs/&#8203;</a>.</em>
+                    </p>
+                <a class="document-link footnote-5-p13911" href="javascript:void(0);" id="citation-5-p13911">
+        Back to Citation
+      </a>
+</div>
+<div class="footnote" id="footnote-7-p13922">
+                    <p id="p-25" data-page="13922">7.
+    
+                        &thinsp;The ASTM F3264-21 Section(s) provides a means of compliance intended to be used on projects for traditional part 23 airplanes, not for novel designs. Novel designs require evaluation and possible modification of the means of compliance.
+                    </p>
+                    <p id="p-26" data-page="13922">8.
+    
+                        &thinsp;The FAA does not accept the Aircraft Type Code compliance matrix tables included in F3061/F3061M-20, F3227/F3227M-21, F3228-17, F3229/F3229M-17, F3230-20a, F3231/F3231M-21, F3232/F3232M-20, F3233/F3233M-21, F3234/F3234M-17, F3235-17a, F3236-17, and F3316/F3316M-19. Applicability will be determined by the Small Airplane Strategic Policy Section.
+                    </p>
+                <a class="document-link footnote-7-p13922" href="javascript:void(0);" id="citation-7-p13922">
+        Back to Citation
+      </a>
+</div>
+</div><div class="end-matter">
+<p class="frdoc">[<a href="https://www.federalregister.gov/d/2022-04845" target="_blank">FR Doc. 2022-04845</a> Filed 3-10-22; 8:45 am]</p>
+<p class="billing-code">BILLING CODE 4910-13-P</p>
+</div>
+</body></html>

@@ -1,0 +1,246 @@
+FINAL RULES: 23-39
+
+ 
+ 
+        
+CITATION: [Federal Register: May 2, 1990 (Volume 55, No. 85]
+
+ 
+        
+PAGE NUMBER: [Page 18570]
+
+ 
+        
+DOCKET NUMBER: 23516
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Commuter Category Airplanes
+
+ 
+        
+ACTION: Final rule.
+
+ 
+        
+SUMMARY: This action responds to comments received on the small airplane commuter category airworthiness requirements that were recently adopted by FAA. The final rule action, which adopted the airworthiness requirements, invited public comments. This amendment informs the public of FAA's response to all comments received and amends certain commuter airplane requirements.
+
+ 
+        
+DATES: EFFECTIVE DATE: May 2, 1990.
+
+ 
+        
+EFFECTIVE DATE: 1990-05-02
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Joseph H. Snitkoff, Manager, Regulations Section, ACE-112, Small Airplane Directorate, Aircraft Certification Service, Federal Aviation Administration, 601 East 12th Street, Kansas City, Missouri 64106; telephone (816) 426-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Regulatory History
+
+ This amendment is based on the requirements adopted by amendment 23-34 and the comments received in response to the request for comments to that final rule action. Amendment 23-34 was published in the FEDERAL REGISTER (52 FR 1806; January 15, 1987) and included a request for comments. Amendment 23-34 resulted from the Notice of Proposed Rulemaking (NPRM), Notice 83-17, published in the Federal Register (48 FR 52010; November 15, 1983).
+
+ All comments received in response to Notice 83-17 were considered in adopting amendment 23-34 and amendments 21-59, 36-13, 91-197, and 135-21 of the Federal Aviation Regulations (FAR), published concurrently with amendment 23-34.
+
+ All comments received in response to the request for comments published with the above-cited amendments were considered in adopting this amendment.
+
+Background
+
+ Since 1953, the airworthiness standards have distinguished small from large airplanes by a 12,500 pound maximum certificated takeoff weight limitation regardless of the type of operation. When this weight limitation was established, little concern was expressed that this demarcation would eventually become questionable with regard to airworthiness standards for an airplane of the commuter category. At that time, there were few airplane designs near this 12,500 pound limitation, i.e., they were either considerably above or below that weight.
+
+ In 1966, the FAA established an Air Taxi Airworthiness Program with the objective to provide a transition for air taxi airplanes from the small airplane requirements of part 23 to the transport category airplane requirements of part 25. That program resulted in the issuance of Special Federal Aviation Regulation (SFAR) 23 (34 FR 189; January 7, 1969). An additional step in the upgrading of airworthiness standards for reciprocating-engine and turbopropeller-powered small airplanes used in part 135 operations was the adoption of an appendix A to part 135 (35 FR 10098; June 19, 1970), which set forth additional airworthiness standards for airplanes with ten or more passenger seats.
+
+ On July 7, 1970, the FAA issued Notice 70-25 (35 FR 10911) proposing to upgrade the level of airworthiness of small airplanes intended for operations under part 135. In response to the comments received to Notice 70-25, and after further consideration, the FAA determined to limit the future applicability of part 23 to small normal, utility, and acrobatic category airplanes with a seating configuration, excluding pilot seats, of nine or fewer. At that time, this action was considered more appropriate than adding additional airworthiness requirements to part 23. This action was based upon a trend toward an increase in the number and types of airplanes designed to carry relatively large numbers of passengers. At that time, the FAA considered that continued applicability of part 23 to small airplanes designed to carry ten or more passengers was no longer in the interest of safety and future generations of these small airplanes should adhere to the level of safety afforded by the requirements of part 25, irrespective of whether operations were conducted under part 135 or part 91. Thus, amendment 23-10 (36 FR 2864; February 11, 1974), which limited the number of seats, excluding pilot seats, to nine or fewer became effective March 13, 1971, and is applicable to normal, utility , and acrobatic category airplanes for which an application for a type certificate is received by the FAA after the March 13, 1971, date.
+
+ On August 29, 1977, the FAA issued Notice 77-17 (42 FR 43490), part 135 Regulatory Review Program, which proposed, in part, to prohibit the operation, after certain dates, of reciprocating engine or turbopropeller-powered small airplanes not certificated in the transport category and having a passenger seating configuration of ten or more seats. Before the closing date for comments on November 28, 1977, the FAA withdrew this part of the proposal in Notice 77-17. The more significant reasons given for the withdrawal were: (1) Comments on this proposal showed its effect would virtually destroy the commuter airline industry and deprive the general public of needed transportation; (2) the proposal had already disastrously affected the industry; (3) airplane sales had been canceled and operators had serious difficulty with financing; and (4) the cost of complying with the proposal would exceed $300 million for an industry whose total profits did not exceed $50 million a year.
+
+ Consequently, the FAA determined that the proposal should not be retained as part of the proposed new part 135. The FAA did note that the withdrawal of the proposal did not preclude the FAA from issuing similar proposals in the future due to a change in circumstances or commit the FAA to any course of action. The FAA encouraged further comments on this issue.
+
+ The FAA/Industry Commuter Aircraft Weight Committee submitted a petition to amend the regulations to allow certain small airplanes to be type-certificated at maximum certificated weights greater than the 12,500 pound limitation without complying with the transport category airworthiness requirements of part 25. Responding to this petition and other needs for improved standards resulting from the Airline Deregulation Act, the FAA initiated a three-phase program for certification and operation of commuter airplanes. The first phase was the issuance of a revised part 135-Air Taxi Operators and Commercial Operators (43 FR 46742; October 10, 1978), which aligned the rules for those operations more closely with those of part 121-Certification, and Operations: Domestic, Flag, and Supplemental Air Carriers and Commercial Operators of Large Aircraft. The second phase, initiated by Notice 78-14 (43 FR 46734; October 10, 1978), proposed temporary rules stating the additional airworthiness requirements necessary to provide for increased takeoff gross weight and passenger seating capacity of certain existing small, propeller-driven, multiengine airplanes. The outcome of this notice was the adoption of SFAR 41 (44 FR 53723; September 17, 1979), which became effective October 17, 1979. The third phase established the Light Transport Airworthiness Review, Notice 78-17 (43 FR 60846; December 28, 1978) to develop a separate set of airworthiness standards for multiengine airplanes with a maximum gross weight up to 35,000 pounds and a seating capacity up to 30 passengers. Subsequent considerations and recommendations from industry during the review escalated the maximum weight and passenger capacity limits to 50,000 pounds and 60 passengers for the light transport category airplane. Nevertheless, the FAA terminated the Light Transport Airworthiness Review Program because, based on available information, the expected economic benefits resulting from a new light transport airplane airworthiness regulation would not be realized.
+
+ After the expiration of SFAR 41, as amended on October 17, 1981, and termination of the Light Transport Airplane Airworthiness Review, the FAA reinstated SFAR 41, with amendments, as SFAR 41C, effective September 13, 1982 (47 FR 35150; August 12, 1982), for 1 year and subsequently started development of the commuter category requirements. Accordingly, Notice 83-17 (48 FR 52010; November 15, 1983) contained the proposed commuter category requirements.
+
+ The final commuter rule amended Section 91.213, by adding a new paragraph to require two pilots for airplanes with ten or more passengers. Because this change was not in the original notice, FAA requested comments and stated in the final action that if comments and further study by the FAA indicated a need to make further regulatory changes, the FAA would initiate appropriate action. Further, the FAA requested comments on possible new seat and weight demarcations between the small and large airplanes. Six commenters responded to the final rule.
+
+Discussion of Comments
+
+ One commenter cites the preamble of Notice 83-17 and its economic impact statement relative to this commenter's expectations that an airplane that complies with the requirements of pre-commuter rule part 23; part 135, appendix A; SFAR 1; and ICAO Annex 8 would also meet those sections of part 23 that incorporate the commuter category rules. Based on these expectations, the commenter believes that an airplane certificated to SFAR 41 for ICAO Annex 8 operation should be certifiable in the new commuter category without further showing of compliance.
+
+ This commenter cites new Section 23.53(c)(6) and (c)(7) relative to takeoff speeds, Section 23.67 relative to one-engine-inoperative climb, and Section 23.807 relative to emergency exits.
+
+ This commenter contends that new Section 23.53(c)(6) and (c)(7) incorporate portions of part 25 that were not previously applied to SFAR 41 airplane compliance with ICAO Annex 8, and further contends that, based on the commenter's experience with SFAR 23 airplanes, the agency had previously determined that takeoff-speed abuse testing was not necessary. A search of FAA records did not reveal any previous determination on this point. The commuter category was specifically intended for commuter air carrier operations. Public Law 95-504, the Airline Deregulation Act of 1978, charged the FAA with establishing requirements to assure that the level of safety provided to persons traveling on such commuter air carriers be, to the maximum feasible extent, equivalent to the level of safety provided to persons traveling on air carriers. The FAA considers compliance with the cited requirements feasible for certification in the commuter category. Therefore, Section 23.53(c)(6) and (c)(7) are not being revised and remain applicable for certification in the commuter category.
+
+ This commenter also contends that the FAA, in responding to comments received to proposal 13 of Notice 83-17, included a climb requirement for the takeoff, landing gear extended configuration in Section 23.67. The commenter considers it unfortunate that the FAA adopted a portion of Section 25.121(a) instead of Section 6(b)(1) of part 135, appendix A for the commuter category, and further notes that SFAR 41 did not require compliance with Section 25.121(a); the commenter claims that this seemingly unimportant difference will require reevaluation of SFAR 41 airplanes certificated to ICAO Annex 8. The commenter further contends that, as adopted, Section 23.67 requires that landing gear doors, which are opened only while the landing gear is in motion, must be blocked open for the whole period of the test.
+
+ Proposal 13 of the notice to amend Section 23.67 proposed that takeoff climb must be determined in accordance with Section 23.57 for takeoff path, and would require that the slope of the airborne part of the takeoff path must be positive at each point. No comments on the notice were received relative to this proposed requirement, and the substance of Section 23.57 was adopted. However, a comment was received to the effect that the proposed requirement in Section 23.67 was not complete and referenced the more complete statement in Section 6 of part 135, appendix A, which was cited as a reference source for proposal 13 of the notice.
+
+ The FAA reviewed all of the relevant data and concluded that incorporating takeoff path requirements of Section 23.57 into Section 23.67 as takeoff climb requirements achieved the consistency desired, but was unclear. The agency considered adopting the same language in Section 23.67 as that used in part 135, appendix A. The FAA determined that the use of the language of part 135, appendix A would clarify the requirement providing the intent of the proposed requirement in Notice 83-17 is retained; that is, the slope of the airborne part of the takeoff path must be positive at each point. Therefore, Section 23.67(e), climb with one engine inoperative for commuter category airplanes, was adopted without incorporating Section 23.57 by reference and was worded similarly to part 135, appendix A, Section 6(b).
+
+ The issue raised by this commenter is whether the FAA should require testing at only one specific airspeed (V1) with the landing gear down and the gear doors closed to assure that the airplane is capable of safely continuing a takeoff after an engine failure at VEF. The alternative is that the FAA require testing to assure that the airplane is capable of safely continuing a takeoff after an engine failure at VEF with a measurably positive climb gradient at all points. This includes the climb phase during which the gear is being retracted with the gear doors opened to allow storage of the gear. The FAA considered this issue in developing the notice of proposed rulemaking for the commuter category and concluded that, for the level of safety intended in the commuter category, a positive gradient of climb at all points of the takeoff climb is necessary.
+
+ In regard to this commenter's expectations that an airplane certificated to SFAR 41 for ICAO operation should be certificated in the new commuter category without further showing of compliance, Notice 83-17 was designed to make it clear that is was FAA's intent to establish a new airplane category, within part 23, in response to the Airline Deregulation Act. Although the FAA cited SFAR 41 as a reference source for the majority of the new commuter category requirements, the FAA clearly stated that the proposals in the notice would be proposed new rules that would be applicable to newly-certificated airplanes. Because newly-certificated airplanes would not have any significant service history or safety record comparable to "derivative" SFAR 41 airplanes, the FAA determined that they should be required to meet ICAO performance requirements, which were optional for SFAR 41 approval. Comments to the proposed ICAO performance requirement in the notice were addressed in the preamble to the final rule. The FAA believes that the commuter category requirements were clearly explained in previous documents and, therefore, has not made changes to those requirements, as suggested by this commenter.
+
+ This commenter further contends that the adopted rule now requires that landing gear doors, which are opened only while the landing gear is in motion, must be blocked open for the whole period of the takeoff test. The FAA disagrees. The applicant has several testing options, including:
+
+(1) With instrumentation installed that will clearly indicate the presence or absence of a positive gradient of climb at each point, tests may be conducted where failure of the critical engine is simulated at VEF and the one-engine-inoperative takeoff and climb is continued to 400 feet altitude above the surface, with landing gear retraction initiated after the airplane has reached on altitude of at least the airplane's wingspan (out of ground effect).
+
+(2) Without special instrumentation installed, tests may be conducted with the landing gear locked down and the gear doors blocked open where failure of the critical engine is simulated VEF, and the one-engine-inoperative takeoff and climb to 400 feet altitude above the surface is accomplished; and
+
+(3) For airplanes whose minimum lift condition occurs with the landing gear down and locked, tests may be conducted out-of-ground effect at VEF to show that, in this condition, the minimum steady gradient of climb is measurably positive.
+
+ Based on the above-discussed considerations, the FAA has determined that Section 23.67(e) as adopted in amendment 23-34 is appropriate for the commuter category and remains unchanged.
+
+ This same commenter also referred to its previous comment to Notice 83-17, Proposal 29 on Section 23.807, Emergency exits, and stated that it was the commenter's impression Section 23.807(d) was amended to bring it into agreement with prior interpretations of SFAR 41. The commenter contends that SFAR 41 airplanes with eleven or fewer occupants are required to have the same number of exits as normal category airplanes. Normal category airplanes, other than SFAR 41 airplanes, are limited to a passenger seating configuration, excluding pilot seats, of nine or fewer passenger seats. This commenter contends that the FAA summarily rejected the comment to Notice 83-17 and ignored a previous FAA policy letter relative to SFAR 41 emergency exits.
+
+ The commenter further contends that the FAA has established two different standards for seating requirements for airplanes with eleven or fewer occupant seats and nine or fewer passenger seats within part 23, and that both normal category and commuter category airplanes may be used in scheduled passenger operations for compensation under part 135 or for operations under part 91.
+
+ In regard to the comment on Notice 83-17, the FAA rejected this comment because, for the level of safety intended for the commuter category, it considered the minimum acceptable number of exits for a total passenger seating configuration of fifteen or fewer to be three. To meet this requirement, the main entry door must qualify as an emergency exit. There must also be one exit on the side of the airplane opposite the door, and one additional exit on the same side as the door. Typically, the main door, which qualifies as an emergency exit, incorporates features such as airstairs and is hinged at the bottom. Such features tend to inhibit the door's function as an emergency exit in emergency situations involving collapsed landing gear.
+
+ Review of all rulemaking documents and other available documents concerning establishment of SFAR 41 shows that the intent of SFAR 41 remains as stated in the Federal Register (44 FR 53723; September 17, 1979):
+
+ The essential provisions that were proposed in Notice 78-14 are being adopted by this amendment. The new rules will allow the certification of propeller-driven multiengine small airplanes with a passenger seating configuration of between 10 and 19 seats that were originally type certificated in accordance with part 23 of the FAR in effect on March 13, 1971, or later. The new rules will also allow the certification and operation, with appropriate restrictions and limitations, of small propeller-driven multiengine airplanes at maximum takeoff weights in excess of 12,500 pounds.
+
+ The interim nature of the SFAR is reflected in the same limits proposed * * *.
+
+ When SFAR 41 was adopted, the FAA clearly stated that this temporary rule was intended for airplanes with a passenger seating configuration between 10 and 19 seats.
+
+ In the same rulemaking action, the FAA stated "* * * this rulemaking action (SFAR 41) is not intended to impose retroactive requirements on airplanes of older type design * * *." At that time, the FAA did not anticipate certification of airplanes to SFAR 41 with fewer than ten passenger seats, and, therefore, Section 5(b) of SFAR 41 did not consider airplanes with this seating capacity. Subsequently, applications were received for certification to SFAR 41 with fewer than ten passenger seats. For these airplanes, the only relief needed was from the 12,500 pound maximum gross weight, so the FAA only imposed those additional requirements in SFAR 41 related to the increased gross weight, and issued a policy letter, cited by the commenter, relative to airplanes with fewer than ten passengers and the emergency exit requirements.
+
+ In contrast to SFAR 41, the commuter category rule was intended to provide requirements that would allow the type certification of newly-designed airplanes that have no operating history. This rulemaking action was intended to increase the level of safety above that established in SFAR 41. Accordingly, the prior decision relative to SFAR 41 exits did not effect the rulemaking action to establish the new commuter category. Therefore, Section 23.807 will retain the commuter emergency exit requirements as adopted in amendment 23-34.
+
+ One commenter recommended that the word "automatic" be deleted from Section 23.57(c)(4). This requirement concerns feathering of the propeller on an inoperative engine during takeoff and climb to 480 feet. Simulation studies and accident investigations have shown that during heavy workload in the cockpit, as with an engine loss during takeoff, the pilot might feather the wrong propeller. As explained in the response to comments to Notice 83-17, the propeller feathering allowed in showing compliance with Section 23.57(c)(4) is limited to "automatic" feathering, not manual feathering, and "automatic" was added to the rule to clarify the intent. Section 23.57(c)(4) remains as adopted in amendment 23-34.
+
+ One commenter identified Section 23.65, but the comment was applicable to Section 23.67(e)(2). The commenter agreed that Section 23.67(e)(2) relative to en route climb, as adopted, is consistent with other airworthiness requirements but recommended that the rate-of-climb requirement be changed from "at an altitude of 1,500 feet above the takeoff surface" to "* * * at a height of 1,500 feet above the takeoff surface." The FAA has reviewed this comment and agrees that the intent of Section 23.67(e)(2) was for the enroute climb determination to be made on the basis of a specified climb gradient, depending on the number of engines, at a tape line height of 1,500 feet above the takeoff surface. The use of the word "height" in this requirement will more accurately reflect that intent and Section 23.67(e)(2) is being amended to reflect this clarification.
+
+ One commenter requested that the FAA establish rules and procedures which would allow a single pilot for non-passenger carrying operations. This request is beyond the scope of the commuter category rulemaking.
+
+ One commenter proposed that the 19,000-pound maximum gross weight be changed to 19,000-pound maximum zero fuel weight. The commenter anticipated that a 3-abreast, 19-passenger airplane with transport category aisle width and a full complement of avionics and safety equipment could well have an operating empty weight in the range of 14,000 pounds. Under the adopted rule, this would leave 5,000 pounds for payload and fuel that the commenter contends is barely enough for a short commuter flight. There would be no allowance for additional optional equipment and the airplane would be severely limited on any long routes.
+
+ The FAA does not intend the commuter category requirements to provide the certification basis for all airplanes of 19 or fewer passengers. The airplane described by this commenter would clearly be a higher gross weight airplane designed for operation over longer routes than those considered for the commuter category. The FAA adopted the 19,000-pound maximum gross weight limit for the commuter category to provide a practical weight limit for certification in this category. Contrary to this commenter's contention that this weight limit will unduly restrict range and payload of commuter category airplanes, applicants who have applied for type certification of commuter category airplanes have not identified any problem with the airplane range that would be provided by the fuel permitted under the 19,000-pound maximum gross weight. At this time, heavier airplanes will continue to be certificated under the transport category requirements. Therefore, the recommended zero fuel weight change has not been adopted.
+
+ One commenter recommends the tightening of noise standards for commuter category airplanes. This commenter is concerned about recurring noise from maintenance "run-ups" of turboprop commuter airplanes between the hours of 4:00 and 7:00 a.m., seven days a week, in smaller communities where residential areas are in close proximity to airport property. Since, this commenter's concerns are outside the scope of this rulemaking, no action is being taken to revise that noise standard.
+
+ One commenter considered the seat demarcation to be well placed at 19 passengers since this configuration avoids the burden that would be imposed by the requirement for a flight attendant. Another commenter recommends that Section 23.3(d) be changed to read, "The commuter category is limited to * * * airplanes that have a seating configuration, excluding crew seats, of 19 or less * * *." This substitution of "crew seats" for "pilot seats" would permit certification of commuter category airplanes with 19 passenger seats plus a cabin attendant's seat. The commenter contends that this would enhance safety and that should an operator seek to include an additional crew seat in the cabin for a cabin attendant, the FAA would probably grant such an exemption to the current rule.
+
+ The FAA did not propose airworthiness criteria appropriate to a flight attendant's seat in Notice 83-17 and the criteria applicable to a passenger seat is not appropriate for a flight attendant's seat. There are other airworthiness and operational requirements that are related to the installation of a flight attendant seat. Issues related to those requirements need to be considered in a separate rulemaking action and, therefore, are beyond the scope of this rulemaking.
+
+ One commenter recommended shoulder harnesses for all seats in commuter category airplanes. At the time Notice 83-17 was issued, part 23 required shoulder harnesses for the front seats. Subsequently, amendment 23-32 required shoulder harnesses at all seats in normal, utility, and acrobatic category airplanes with nine or fewer passenger seats and manufactured after December 12, 1986. Airplanes in these categories having ten or more passenger seats may continue to be produced in accordance with their previously approved design without shoulder harnesses for passenger seats.
+
+ Shoulder harnesses remain a significant agency concern relative to commuter category occupant protection. The FAA plans to address commuter category occupant protection in a separate rulemaking action.
+
+ One commenter recommended requirements that fire blocking seat cushions be required for commuter category airplanes, as they are for part 25 (Section 25.853(c)), because such provisions would increase the available evacuation time in case of fire. As stated in Notice 83-17, the FAA is considering the need for similar requirements for all aircraft used in part 135 operations. Until the FAA adopts such requirements for all aircraft used in part 135 operations, the compartment interior requirements will remain as adopted in amendment 23-34.
+
+ One commenter recommended that flight recorders and cockpit voice recorders be required for the commuter category airplanes. Amendment 23-35 (53 FR 26134; July 11, 1988) adopted airworthiness requirements for these recorders. Operating rules define the airplanes on which the recorders must be installed. Accordingly, action on this recommendation has been accomplished.
+
+ One commenter recommended incorporating the intent of National Transportation Safety Board (NTSB) Recommendations A-87-1 and A-87-2, relative to potential for injury of occupants seated in areas within the plane of rotation of engine propeller blades. After completing its review of these recommendations, the FAA informed the NTSB that shielding sufficient to protect the cabin from a propeller blade or blade fragment separation would impose prohibitive airplane weight penalties and that relocating passengers away from the propeller area in smaller transport or commuter category airplanes is not feasible because there is no place to relocate these seats. Removal of these seats and reducing the passenger capacity would be the only alternative. Because the additional prohibitive weight or removal of seats from the airplane would impose a large economic burden on the aircraft community, the FAA has advised NTSB that no such rulemaking action is being proposed. Accordingly, no such action is being taken as recommended by this comment.
+
+ One commenter agreed with the airworthiness standards as adopted for the commuter category.
+
+ One commenter considered it an error that Section 23.933(d) incorporated by reference Section 23.933(c) because part 135, appendix A, section 39 does not include a similar requirement. The FAA did use part 135, appendix A, section 39 as a reference source in developing the NPRM. However, the reference material cited did not specifically address the failures where an airplane is designed for use of inflight reverse thrust and where a failure allows one engine to remain in the forward thrust mode while the other engine(s) go to the reverse thrust mode. Until power is applied for reverse thrust, this failure might not be detected and loss of control could occur before failure recognition (from resulting yaw conditions) and corrective action. Incorporating Section 23.933(c) by reference, for the commuter category, appeared to be an expeditious means of establishing the level of safety intended for the commuter category in this regard.
+
+ The FAA does not consider a malfunction of thrust reversing systems on commuter category airplanes, intended for ground operation only, to result in hazardous conditions, and did not intend Section 23.933(c) to be applicable to such systems. However, the requirement, as adopted, applies to all commuter category thrust reversing systems. After further review of Section 23.933(d), as adopted, which incorporates both Section 23.933(b) and Section 23.933(c) by reference, the FAA has concluded that the requirements in Section 23.933(b) are adequate to ensure the level of safety intended because that paragraph specifically addresses failures of reversing systems intended for inflight use. Accordingly, Section 23.933(d) is amended to remove the incorporation by reference of Section 23.933(c).
+
+ One commenter considered it an error that Section 23.1587(d)(6) required "calibrated airspeeds" rather than "indicated airspeeds" for presentation of performance information in the flight manual, citing part 135, appendix A, Section 20(f), which uses "indicated airspeeds", and further contends that indicated airspeeds are preferred for flight manual presentations. The FAA did use part 135, appendix A, Section 20(f) as a reference source in developing the NPRM. However, use of "indicated airspeeds" in the commuter category would not provide the intended accuracy of the information required to be presented. Indicated airspeeds include errors which are typically attributable to pitot and static pressure sensing errors and indicating system errors. The indicating system errors vary with each airplane, with the quality of the indicating system and accuracy of its calibration, which determine whether these errors are held to a low enough value at the critical airspeeds to ensure that they are nonsignificant.
+
+ The pitot and static pressure sensing errors are usually attributable to the location of the pitot tube and the static ports on the airplane. Due to the wide range of speeds at which airplanes of the commuter category will typically operate, it is expected that manufacturers of these airplanes will encounter significant difficulty in locating positions for these sensors that result in consistently insignificant errors. These errors are referred to as position errors. If the errors are consistently repeatable, air data computers can provide automatic correction. Both the airplane design and quality control during production determine whether the position error is consistently repeatable.
+
+ Added to these concerns was that Section 23.1587(d)(6) required the information be presented as determined in accordance with Section 23.53, Takeoff speeds. These takeoff speeds are required by Section 23.53 to be determined in calibrated airspeed.
+
+ The FAA agrees that flight manual information presented in terms of indicated airspeed requires less effort for the flight crew to use. The FAA also agrees that the calibrated airspeed data determined in accordance with Section 23.53 can be converted to indicated airspeed accurately. However, the FAA has reviewed flight manuals in which the data (in indicated airspeed) was corrected for position error and all other errors were assumed to be zero.
+
+ Part 1 defines "calibrated airspeed" as the indicated airspeed of an aircraft, corrected for position and instrument errors. Calibrated airspeed is equal to true airspeed in standard atmosphere at sea level. Part 1 defines "indicated airspeed" as the speed of an aircraft as shown on its pitot static airspeed indicator calibrated to reflect standard atmosphere compressible flow at sea level uncorrected for airspeed system errors.
+
+ In consideration of the concern for the pilot's airspeed accuracy, Section 23.1587(d)(6) was adopted in amendment 23-34 requiring that data be presented in calibrated airspeed so that all errors are accounted for in the data presented for the flight crew's use. The FAA agrees that, if all errors are accounted for, the required data could be presented in indicated airspeed and result in an equivalent level of safety. Therefore, Section 23.1587(d)(6) is amended to allow this alternative data presentation if it is clearly shown that all errors are accounted for and the presented data accurately represents the calibrated airspeed data determined in showing compliance with Section 23.53.
+
+Regulatory Evaluation Summary
+
+ These amendments involve substantial benefits without any associated incremental costs as they basically integrate into the FAR previous temporary airworthiness standards for type certification. If more detailed economic information is desired than is contained in this summary, the reader is referred to the full regulatory evaluation contained in the docket.
+
+Regulatory Flexibility Determination
+
+ The FAA determined that the rule changes will not have a significant economic impact on a substantial number of small entities. The FAA's criteria for a small airplane manufacturer is one employing fewer than 75 employees, and a substantial number is a number which is not fewer than 11 and which is more than one-third of the small entities subject to the proposed rules, and a significant impact is one having an annual cost of more than $14,258 per manufacturer.
+
+ A review of domestic general aviation manufacturing companies indicates that only six companies meet the size threshold of 75 employees or fewer. The amendment will, therefore, not affect a substantial number of small entities.
+
+Trade Impact
+
+ The amendments to the FAR will not affect trade opportunities for both U.S. firms doing business overseas and foreign firms doing business in the United States.
+
+Federalism Implications
+
+ The regulations adopted herein will not have substantial direct effects on the states, on the relationship between the national government and the states, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment.
+
+Conclusion
+
+ For the reasons discussed in the preamble, the FAA has determined that this document (1) involves regulations which are not considered to be major under the procedures and criteria prescribed by Executive Order 12291, and (2) is not significant under Department of Transportation Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). I certify that under the criteria of the Regulatory Flexibility Act, these final rules will not have a significant economic impact on a substantial number of small entities. In addition, these final rules will have little or no impact on trade opportunities for U.S. firms doing business overseas or for foreign firms doing business in the United States.
+
+List of Subjects in 14 CFR Part 23
+
+ Aircraft, Air transportation, Aviation safety, Safety
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendments
+
+ Accordingly, 14 CFR Part 23 is amended as follows.
+
+PART 23-AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES
+
+1. The authority citation for part 23 continues to read as follows:
+
+ Authority: 49 U.S.C. 1344, 1354(a), 1355, 1421, 1423, 1425, 1428, 1429, 1430, and 1502; and 49 U.S.C. 106(g) (Revised, Public L. 97-449; January 12, 1983).
+
+Section 23.67 [Amended]
+
+2. Section 23.67(e)(2) is amended by changing the phrase "at an altitude of 1,500 feet above the takeoff surface" to "at a height of 1,500 feet above the takeoff surface".
+
+Section 23.933 [Amended]
+
+3. Section 23.933(d) is amended by changing the words "paragraphs (b) and (c) of this section" to "paragraph (b) of this section."
+
+4. Section 23.1587(d)(6) is amended by adding a sentence at the end to read as follows:
+
+Section 23.1587 Performance information.
+
+* * * * *
+
+(d) * * *
+
+(6) * * * The calibrated airspeed may be shown in units of indicated airspeed, and identified as indicated airspeed, provided that all pressure sensing and instrumentation errors, including the indicator, are accounted for in the flight manual data.
+
+ 
+        
+FOOTER: Issued in Washington , DC on April 26, 1990.
+
+James B., Busey,
+
+Administrator.
+
+[FR Doc. 90-10162 Filed 5-1-90; 8:45 am]
+
+BILLING CODE 1490-13-M
+
+ 
+        
+NPRM ACTIONS: Not Applicable.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

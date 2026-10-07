@@ -1,0 +1,226 @@
+FINAL RULES: 23-13|27-8|91-108|121-97|127-29
+
+ 
+ 
+        
+CITATION: [Federal Register: September 23, 1972 (Volume 37, Number 186)]
+
+ 
+        
+PAGE NUMBER: [Page 20022]
+
+ 
+        
+DOCKET NUMBER: 9826
+
+ 
+        
+14 CFR PARTS: Part 23|Part 27|Part 91|Part 121|Part 127
+
+ 
+        
+SUBJECT HEADING: Airplane and Rotorcraft Manuals, Markings, and Placards
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of these amendments to Parts 23, 27, 91, 121, and 127 of the Federal Aviation Regulations is to revise and clarify the requirements for airplane and rotorcraft manuals, markings, and placards.
+
+ 
+        
+DATES: EFFECTIVE DATE: This rule becomes effective October 23, 1972.
+
+ 
+        
+EFFECTIVE DATE: 1972-10-23
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ These amendments are based on notice of proposed rule making (Notice 70-47) issued on November 18, 1970, and published in the Federal Register on November 25, 1970 (35 F.R. 18054). Three comments were received in response to Notice 70-47 one of which favored the proposed amendments. The two comments recommending changes to the proposed amendments are discussed below. Based upon these comments and upon further consideration by the FAA, a number of substantive and editorial changes have been made to the proposed rule. Interested persons have been afforded an opportunity to participate in the making of these amendments, and due consideration has been given to all relevant matter presented. Except as modified by the following discussion, the reasons for these amendments are those in the notice.
+
+ One comment suggested that all aircraft, including those weighing less than 6,000 pounds, should have approved airplane flight manuals containing all of the required information and that placards should be kept on the aircraft for emergency reference only. Commentator stated that a flight manual can be temporarily removed from the aircraft for comfortable reference in a ramp office when outside temperatures are extremely high or low, and that fewer CG. out of limit or overweight temperature accidents will occur with small aircraft if the total information is available for reference in a comfortable environment. The airworthiness requirements were changed in 1953 to eliminate the requirement for airplane flight manuals for airplanes under 6,000 pounds, and the FAA agrees that this exception should be considered in view of the complexity of small airplanes being type certificated today and the resulting increase in information that must be made available to the pilot. However, that consideration is beyond the scope of Notice 70-47. The notice proposed amendments to the present regulations which are primarily clarifying in nature and intended to make the present airworthiness standards and operating rules internally consistent. Nevertheless, the comment is appreciated and will be considered for future rule making action. However, in response to the comment and to insure that the information is readily available to the pilot, proposed Sec. 23.1559 has been revised to require the form and location of the "approved manual material" to be specified in the operating limitations placard.
+
+ Another comment, while agreeing with the proposed changes to Secs. 23.31 and 23.1541, noted that the proposed change to Sec. 23.1559 would eliminate the "operating limitations placard" for airplanes certificated in a single category. This was not the intent of the proposal and proposed Sec. 23.1559(a) has been changed to include airplanes type certificated in only one category. In addition, proposed Sec. 23.1559(a) has been editorially revised to indicate the mandatory status of the operating limitations contained in the airplane flight manual, approved manual material, markings, and placards.
+
+ With respect to the proposed amendment to Sec. 23.1581, a commentator opposed the insertion of the word "approved" before the word manual and the requirement that "all approved manual material must be approved, clearly identified and not easily erased, disfigured, or misplaced." The commentator stated that to require FAA approval for material which previously did not require approval would materially complicate a system that has been successfully used by manufacturers for 15 years and that there is no safety justification or administrative need for the requirement. The FAA does not agree. The applicable information in Secs. 23.1583 through 23.1589 that proposed Sec. 23.1581 would require to be furnished in an airplane flight manual or in any combination of approved manual material, markings, and placards is necessary for the safe operation of an airplane and the form and manner in which that information is presented to the pilot as well as the information itself should be approved by the FAA. However, proposed Secs. 23.1581(b) and 27.1581(b) have been revised to further specify the form and content of the "approved manual material."
+
+ Based on further consideration of the requirement in proposed Sec. 27.1581(a)(2) that the information contained in Secs. 27.1583 through 27.1589 be furnished not only in a rotorcraft flight manual or approved manual material but also in markings and placards, the proposal has been revised to permit the information to be furnished either in a rotorcraft flight manual or in any combination of approved manual material, markings, and placards. The FAA has determined that it is not necessary for the information contained in Sec. 27.1583 through 27.1589 to be furnished in one form and then repeated in the form of markings and placards. As revised the requirement is consistent with the amendment to Sec. 23.1581 and is the same as present Sec. 27.1581(a)(2) except that the option of furnishing the information in approved manual material is provided for in the event that the operating rules of Chapter I do not require a rotorcraft flight manual.
+
+ Finally, consistent with the amendments to Sec. 23.1559 and 27.1501, Sec. 27.1559 is amended to reflect the option for a helicopter, of using a rotorcraft flight manual or approved manual material to furnish the required operating limitations and to require that the form and location of approved manual material be set forth in the operating limitations placard.
+
+ 
+        
+REGULATORY TEXT: 
+
+Adoption of the Amendments. 
+
+ In consideration of the foregoing, Parts 23, 27, 91, 121, and 127 of the Federal Aviation Regulations are amended, effective October 23, 1972, as follows:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+1. By amending Sec. 23.31(b) to read as follows:
+
+Sec. 23.31 Removable ballast.
+
+* * * * *
+
+(b) Instructions are included in the airplane flight manual, approved manual material, or markings and placards, for the proper placement of the removable ballast under each loading condition for which removable ballast is necessary.
+
+2. By amending Sec. 23.1541 by revising paragraph (c) and adding paragraph (d) to read as follows:
+
+Sec. 23.1541 General.
+
+* * * * *
+
+(c) For airplanes having a maximum weight of more than 6,000 pounds and which are to be certificated in more than one category--
+
+(1) The applicant must select one category upon which the placards and markings are to be based; and
+
+(2) The placard and marking information for the other categories in which the airplane is to be certificated must be recorded in the airplane flight manual.
+
+(d) For airplanes having a maximum weight of 6,000 pounds or less and which are to be certificated in more than one category--
+
+(1) The applicant must select one category upon which the placards and markings are to be based, except that he may include operating limitations covering more than one category on a single placard if the differences between the categories involve only a difference in maximum weights; a difference in the center of gravity range at the corresponding maximum weight; a difference involving approved maneuvers and corresponding entry speeds; or any combination thereof.
+
+(2) Except as provided in subparagraph (1) of this paragraph, the placard and marking information for the other categories in which the airplane is to be certificated must be recorded in the airplane flight manual or in approved manual material.
+
+3. By amending Sec. 23.1559(a) to read as follows:
+
+Sec. 23.1559 Operating limitations placard.
+
+(a) There must be a placard in clear view of the pilot stating--
+
+(1) For airplane certificated in one category:
+
+The markings and placards installed in this airplane contain operating limitations which must be complied with when operating this airplane in the category. (Insert category.) Other operating limitations which must be complied with when operating this airplane in this category are contained in the (Insert "airplane flight manual" for airplanes of more than 6,000 pounds maximum weight. Insert either "airplane flight manual" or "approved manual material" whichever is appropriate, for airplanes of 6,000 pounds or less maximum weight . If "approved manual material" is inserted, the placard must also contain a statement setting forth the form and location of the material.)
+
+(2) For airplanes of more than 6,000 pounds maximum weight certificated in more than one category:
+
+The markings and placards installed in this airplane contain operating limitations which must be complied with when operating this airplane in the category. (Insert correct category.) Other operating limitations which must be complied with when operating this airplane in this category or in the category are contained in the airplane flight manual. (Insert the correct category or categories.)
+
+(3) For airplanes of 6,000 pounds or less maximum weight certificated in more than one category:
+
+Except as may be otherwise indicated on a placard, the markings and placards installed in this airplane contain operating limitations which must be complied with when operating this airplane in the category. (Insert category.) Other operating limitations which must be complied with when operating this airplane in this category or in the category (insert category) are contained in the ." (Insert "airplane flight manual" or "approved manual material," whichever is applicable. If "approved manual material" is inserted, this placard must also contain a statement setting forth the form and location of the material.)
+
+* * * * *
+
+4. By changing the title following Sec. 23.1567 to read "Airplane flight manual and approved manual material" and by amending Sec. 23.1581 (a)(2) and (b) to read as follows:
+
+Sec. 23.1581 General
+
+(a) * * *
+
+(2) Sec. 23.1581 General.
+
+(a) * * *
+
+(2) For each airplane of 6,000 pounds or less maximum weight, in an airplane flight manual or in any combination of approved manual material, markings, and placards.
+
+(b) Approval and segregation of information . Each part of the airplane flight manual containing information prescribed in Secs. 23.1583 through 23.1589 must be approved, segregated, identified, and clearly distinguished from each unapproved part of that airplane flight manual. All approved manual material must be clearly identified, and not easily erased, disfigured, or misplaced, and it must be in the form of individual sheets capable of being inserted in a manual provided by the applicant, or in a folder, or in any other permanent form. Information not required to be furnished by this section may not be included in the approved manual material.
+
+ * * * * *
+
+PART 27--AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+
+5. By amending Sec. 27.1501 to read as follows:
+
+Sec. 27.1501 General.
+
+Each operating limitation specified in Secs. 27.1503 through 27.1525 and other information necessary for safe operation, must--
+
+(a) For each rotorcraft, other than a helicopter, be included in a rotorcraft flight manual and expressed in placards and markings;
+
+(b) For each helicopter, be included in a rotorcraft flight manual and expressed in placards and markings, or in any combination of approved manual material, marking and placards, unless the operating rules of this chapter require a rotorcraft flight manual; and
+
+(c) Be made available by any other means that will convey the information to the 
+
+crewmembers.
+
+6. By amending Sec. 27.1559 to read as follows:
+
+Sec. 27.1559 Limitations placard.
+
+ There must be a placard in clear view of the pilot stating:
+
+ "This _______________(insert helicopter, gyrodyne, etc.) must be operated in compliance with the operating limitations specified in the ________________. (Insert "rotorcraft flight manual" for rotorcraft other than helicopters. Insert either "rotorcraft flight manual" or "approved manual material," whichever is applicable, for helicopters. If "approved manual material" is inserted, the placard must also contain a statement setting forth the form and location of the material.) If the rotorcraft maintenance manual contains "Airworthiness limitations" issued under Sec. 27.1529(a)(2), the placard must contain the following additional statement: "The 'Airworthiness limitations' section of the rotorcraft maintenance manual must be complied with."
+
+7. By changing the title following Sec. 27.1565 to read "Rotorcraft flight manual and approved manual material," and by amending Sec. 27.1581(a)(2) and (b) to read as follows:
+
+Sec. 27.1581 General.
+
+(a) * * *
+
+(2) For each helicopter, in a rotorcraft flight manual, or in any combination of approved manual material, markings, and placards, unless the operating rules of this chapter require a rotorcraft flight manual.
+
+(b) Approval and segregation of information. Each part of the rotorcraft flight manual containing information prescribed in Secs. 27.1583 through 27.1589 must be approved, segregated, identified, and clearly distinguished from each unapproved part of the rotorcraft flight manual. All approved manual material must be clearly identified, and not easily erased, disfigured, or misplaced, and it must be in the form of individuals sheets capable of being inserted in a manual provided by the applicant, or in a folder, or in any other permanent form. Information not required to be furnished by this section may not be included in the approved manual material.
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES
+
+8. By amending Sec. 91.31(b) to read as follows:
+
+Sec. 91.31 Civil aircraft operating limitations and marking requirements.
+
+* * * * *
+
+(b) No person may operate a U.S. registered civil aircraft unless there is available in the aircraft a current airplane or rotorcraft flight manual, approved manual material, markings, and placards, or any combination thereof, containing each operating limitation prescribed for that aircraft by the Administrator, including the following:
+
+* * * * *
+
+PART 121--CERTIFICATION AND OPERATIONS: DOMESTIC FLAG AND SUPPLEMENTAL AIR CARRIERS AND COMMERCIAL OPERATORS OF HEAVY AIRCRAFT
+
+8. By amending Sec. 121.141 to read as follows:
+
+Sec. 121.141 Airplane or rotorcraft flight manual.
+
+(a) Each certificate holder shall keep a current approved airplane or rotorcraft flight manual for each type of transport category aircraft that it operates.
+
+(b) Each certificate holder shall carry an approved airplane or rotorcraft flight manual, or manual required by Sec. 121.133 containing the information required for the airplane or rotorcraft flight manual, in each transport category aircraft. If sections of the required information from the airplane or rotorcraft flight manual are incorporated in the manual required by Sec. 121.133, the holder shall clearly identify the sections as airplane or rotorcraft flight manual requirements.
+
+PART 127--CERTIFICATION AND OPERATIONS OF SCHEDULED AIR CARRIERS WITH HELICOPTERS
+
+Sec. 127.63 [Amended]
+
+10. By amending Sec. 127.63(b)(22) by striking out the words "approved flight manual" and inserting the words "approved rotorcraft flight manual", in place thereof.
+
+Sec. 127.81 [Amended]
+
+11. By amending Sec. 127.81 by striking out the words "Helicopter flight manual" and inserting the words "Rotorcraft flight manual", in place thereof.
+
+(Secs. 313(a), 601, 603, Federal Aviation Act of 1958, 49 U.S.C. 1354, 1421, 1423; sec. 6(c), Department of Transportation Act, 49 U.S.C. 1655(c) )
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on September 19, 1972.
+
+J. H. Shaffer,
+
+Administrator.
+
+[FR Doc. 72-16233 Filed 9-23-72; 8:49 am]
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 70-47; Issued on 11/18/70.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

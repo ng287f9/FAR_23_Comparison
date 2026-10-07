@@ -1,0 +1,252 @@
+FINAL RULES: 23-6|25-12|43-7|91-40
+
+ 
+ 
+        
+CITATION: [Federal Register: May 24, 1967 (Volume 32, Number 100)]
+
+ 
+        
+PAGE NUMBER: [Page 7585]
+
+ 
+        
+DOCKET NUMBER: 7831
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 43|Part 91
+
+ 
+        
+SUBJECT HEADING: Altimeter System Requirements
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of this amendment to Parts 23, 25, 43, and 91 of the Federal Aviation Regulations is to revise the design standards concerning static pressure systems and to revise the test requirements applicable to the maintenance of altimeter systems.
+
+ 
+
+ 
+        
+DATES: EFFECTIVE DATE: This rule becomes effective August 1, 1967.
+
+ 
+        
+EFFECTIVE DATE: 1967-08-01
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ This amendment is based on a notice of proposed rule making (Notice No. 66-44) published in the FEDERAL REGISTER on December 31, 1966 (31 F.R. 16790).
+
+ Numerous comments were received in response to Notice 66-44, most of which were in agreement with the proposal. The more pertinent of the comments that raised questions together with the changes in the proposal resulting therefrom are discussed hereinafter.
+
+ With reference to the static pressure system proof test required under both Part 23 and Part 25, an inconsistency in wording was noted in regard to the pressure differential at which the tests are run for unpressurized aircraft. Since there is no reason for different requirements, Sec. 25.1325(c) (2) (i) has been modified to require a pressure differential of approximately 1 inch of mercury rather than the absolute value of 1 inch as stated in the notice.
+
+ One commentator pointed out that the requirement that the proof tests of the static pressure systems on unpressurized aircraft be conducted with the static pressure system evacuated to a pressure differential based on an altimeter reading of 1,000 feet at sea level could be confusing to people located at elevations above 1,000 feet mean sea level. The FAA agrees and Secs. 23.1325(b) (2) (i) and 25.1325 (c) (2) (i) have been further amended to permit the proof test of unpressurized aircraft with the static pressure system evacuated to an altimeter reading of 1,000 feet above the airplane elevation at the time of the test.
+
+ It was recommended that Sec. 25.1325(c) (2) (ii) be changed in its entirety to provide a new leak test tolerance formula that would reduce test ambiguities resulting from calculating the 2 percent tolerance using pounds per square inch or feet altitude at different airport elevations. In this connection, the FAA previously investigated the feasibility of establishing a quantitative static system test. That investigation, however, indicated that a quantitative test was much too complex for general use but that the simplified qualitative test would be satisfactory and would provide adequate results without any adverse effect on safety. The latter was accordingly proposed in the notice. In the interest of simplicity and ease of performance, the FAA is retaining the test references in terms of feet altitude even though this qualitative approach may give minor differences in test results where the tests are run at different field elevations.
+
+ One commenter stated that the proposed Sec. 23.1325(b)(3) requirement for a correction card where altimeter readings on primary and alternate static systems differ by more than 50 feet, is too restrictive at high altitudes and high Mach numbers and suggested clarification as to the range of altitude and Mach numbers applying to this tolerance. However, the FAA believes that the proposed requirement is necessary to assure proper vertical separation considering the entire altitude-speed range. In the high Mach-high altitude regime, the static system accuracy may be marginal at best and errors introduced while on the alternate system could lead to hazardous operation if the pilot is not informed of the magnitude of the error. In the low speed-low altitude regime, static system errors are minimized so that correspondence between the two systems should pose no problem.
+
+ As noted by one commentator, the first altitude entry in Table I, Appendix E, Part 43, was inadvertently printed as 1,000 feet when it should have been -1,000. The table has been corrected accordingly.
+
+ One of the comments contained a recommendation that section (c) of Appendix E should be changed to require recording of date and test altitude on the altimeter dial. The FAA does not, however, agree with the recommended change. Such a requirement would result in the unnecessary cluttering of the instrument face and unnecessary expense and inconvenience due to instrument removal and teardown in order to record the information on subsequent inspections. The requirement that the date and maximum altitude to which the altimeter has been tested be recorded on the altimeter, is necessary to provide the information for entry in the airplane log or other permanent record when the instrument is installed in an airplane. With the maximum altitude for the altimeter entered in the aircraft log, there is no need, insofar as the pilot is concerned, to enter that data on the face of the instrument.
+
+ In connection with the altimeter test and inspection, comments variously suggested the importance of preliminary pitot system checks to preclude damage to the airspeed meter, of periodic purging of pitot and static lines, and of information concerning the accuracy of altimeter test equipment. The FAA sees merit in these comments, and contemplates that to the extent that it has not already been accomplished, such information will be presented as acceptable means of compliance with the proposed rules in appropriate advisory circulars.
+
+ One commentator suggested changes to section (c) of Appendix E to eliminate the requirement for commercial operators to prepare records Under Sec. 43.9 in addition to those they presently keep. Commercial operators of large aircraft maintained in accordance with a continuous airworthiness program under Part 121 are exempted from the requirements of Sec. 91.170 by the provisions of Sec. 91.161. Therefore, there is no need for the recommended change insofar as such operators are concerned. On the other hand, commercial operators of small aircraft are governed by Part 135 of the FARs and they are not required to maintain their aircraft under a continuous airworthiness program. The provisions of present Sec. 43.9(a) apply to such operators and they would not, by the proposed rule, be required to prepare records in addition to those they presently keep. The recommended change, is, therefore, unnecessary.
+
+ Expressing the belief that the proposed regulations would require periodic removal of the altimeter instruments for the required tests and inspections, one comment indicated that extensive work behind the instrument panel can cause malfunctions of other equipment disturbed in the process. For this reason, the comment suggested that there should be an amendment to allow airframe repair stations to use external connections to test the static system and the altimeter using a reference altimeter that is calibrated against a master semiannually. The FAA presently permits the use of external connections to test the static and altimeter systems. However, the advisory circular covering this matter suggests that the reference altimeter be calibrated once each month until the necessary interval between calibration checks can be determined. Using this procedure, it may be that the accuracy of the reference altimeter can be maintained by a semiannual calibration.
+
+ The proposal has not been revised in accordance with the recommendation that altimeters and static systems be tested and inspected once each year instead of each 24 months. Based on current experience as reported by major altimeter manufacturers and repair stations, the FAA has determined that an altimeter instrument and static system will maintain accuracy and integrity for 2 years following a test and inspection. To require yearly tests of either or both systems would impose a burden on owners and operators without a corresponding increase in safety.
+
+ Numerous comments were received concerning the persons authorized to perform the tests and inspections of the static pressure system and the altimeter instrument. One comment suggested that the designation should have included noncertificated repair stations and fixed base operators. In this connection, it should be pointed out that the static pressure system and altimeter instrument tests and inspections are maintenance items and must, therefore, be performed by persons certificated to perform maintenance. Moreover, the tests and inspections require sophisticated test equipment and a capability that must be maintained under a system of periodic inspections. It is only through the certification procedures that the FAA is able to regularly conduct surveillance of the approved facilities and make periodic determinations as to their capability. Another comment suggested that a certificated "A & P" mechanic should be permitted to conduct the necessary tests and inspections. The FAA agrees with this comment insofar as the static pressure system tests are concerned and the regulation has been so revised. However, the FAA does not consider that it would be appropriate to authorize certificated mechanics to conduct the required altimeter tests and inspections in the light of the test equipment and capability that is necessary for those tests and inspections. The opinion was also expressed that the proposal would permit certificated repair stations with airframe ratings to accomplish an instrument major repair without the necessity of obtaining an instrument rating. As proposed, the rule permits a repair station having an airframe rating to conduct the tests and inspections necessary for the altimeter instrument. However, the rule does not permit repair stations with only an airframe rating to accomplish any repairs to the instrument. Contrary to the understanding of this commentator, the altimeter tests covered under this proposal are not considered to be major repairs to the altimeter. Finally, the FAA does not concur with the recommendation that the provision designating the persons authorized to conduct the required inspections and tests be deleted from Sec. 91.170 and added to Appendix E in Part 43. While it is true that Appendix E contains the scope of the required inspections and tests that the designated persons are authorized to conduct, the FAA considers that from the standpoint of the owner or operator of an airplane, it would be better to set forth the designation in the operating requirements of Part 91 rather than as part of the technical details of the inspections and tests in the Appendix to Part 43.
+
+ The present requirements of Sec. 91.170 apply only to persons operating an airplane in controlled airspace under IFR. The phrase "in controlled airspace," which limits the applicability of Sec. 91.170, was incorporated into the regulation after consideration by the Agency in an appropriate rule-making action. However, a comment has now been received in response to Notice 66-44 requesting the FAA to delete the phrase "in controlled airspace" on the ground that a substantial number of IFR flights are made within uncontrolled airspace and that there is no reason why the altimetery maintenance and alteration standards should not apply to IFR flight in both controlled and uncontrolled airspace. While this comment involves a substantive change to the present requirements that goes beyond the scope of this notice of proposed rule making, the FAA believes that it warrants further consideration in connection with other altitude indication projects now in process.
+
+ Interested persons have been afforded an opportunity to participate in the making of this amendment, and due consideration has been given to all matter presented. 
+
+ 
+        
+REGULATORY TEXT: In consideration of the foregoing, 
+
+ Parts 23,25, 43, and 91 of the Federal Aviation Regulations are amended effective August 1, 1967, as follows:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+ 1. Section 23.1325(b) (2) and (3) is amended to read as follows:
+
+Sec. 23.1325 Static pressure systems.
+
+ * * * * *
+
+ (b) * * *
+
+ (2) A proof test must be conducted to demonstrate the integrity of the static pressure system in the following manner:
+
+ (i) Unpressurized airplanes. Evacuate the static pressure system to a pressure differential of approximately 1 inch of mercury or to a reading on the altimeter, 1,000 feet above the aircraft elevation at the time of the test. Without additional pumping for a period of 1 minute, the loss of indicated altitude must not exceed 100 feet on the altimeter.
+
+ (ii) Pressurized airplanes. Evacuate the static pressure system until a pressure differential equivalent to the maximum cabin pressure differential for which the airplane is type certificated is achieved. Without additional pumping for a period of 1 minute, the loss of indicated altitude must not exceed 2 percent of the equivalent altitude of the maximum cabin differential pressure or 100 feet, whichever is greater. 
+
+ (3) If a static pressure system is provided for any instrument, device, or system required by the operating rules of this chapter, each static pressure port must be designed or located in such a manner that the correlation between air pressure in the static pressure system and true ambient atmospheric static pressure is not altered when the airplane encounters icing conditions. An anti-icing means or an alternate source of static pressure may be used in showing compliance with this requirement. If the reading of the altimeter, when on the reading of the altimeter, when on the alternate static pressure system differs from the reading of the altimeter when on the primary static system by more than 50 feet, a correction card must be provided for the alternate static system.
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+ 2. Section 25.1325(c) (2) is amended to read as follows:
+
+Sec. 25.1325 Static pressure systems.
+
+ * * * * *
+
+ (c) * * *
+
+ (2) It is airtight except for the port into the atmosphere. A proof test must be conducted to demonstrate the integrity of the static pressure system in the following manner:
+
+ (i) Unpressurized airplanes. Evacuate the static pressure system to a pressure differential of approximately 1 inch of mercury or to a reading on the altimeter, 1,000 feet above the airplane elevation at the time of the test. Without additional pumping for a period for a period of 1 minute, the loss of indicated altitude must not exceed 100 feet on the altimeter.
+
+ (ii) Pressurized airplanes. Evacuate the static pressure system until a pressure differential equivalent to the maximum cabin pressure differential for which the airplane is type certificated is achieved. Without additional pumping for a period of 1 minute, the loss of indicated altitude must not exceed 2 percent of the equivalent altitude of the maximum cabin differential pressure or 100 feet, whichever is greater.
+
+ * * * * *
+
+PART 43--MAINTENANCE, PREVENTIVE MAINTENANCE, REBUILDING, AND ALTERATION
+
+ 3. Appendix E of Part 43 is amended as follows:
+
+ a. The second sentence of subparagraph (ii) of paragraph (b)(1) is amended to read as follows:
+
+ (b) Altimeter:
+
+ (1) * * *
+
+ (ii) Hysteresis. * * * Pressure shall be increased at a rate simulating a descent in altitude at the rate of 5,000 to 20,000 feet per minute until within 3,000 feet of the first test point (50 percent of maximum altitude). * * *
+
+ * * * * *
+
+ b. Section (c) is amended to read as follows:
+
+ (c) Records: Comply with the provisions of Sec. 43.9 of this chapter as to content, form, and disposition of the records. The person performing the altimeter tests shall record on the altimeter the date and maximum altitude to which the altimeter has been tested and the persons approving the airplane for return to service shall enter that data in the airplane log or other permanent record.
+
+ c. Table I is amended to read as follows:
+
+TABLE I
+
+Altitude (feet) Equivalent pressure (inches of mercury) Tolerance (feet) 
+
+-1,000 31.018 20 
+
+0 29.921 20 
+
+800 29.385 20 
+
+1,000 28.856 20 
+
+1,500 28.335 25 
+
+2,000 27.821 30 
+
+3,000 26.817 30 
+
+4,000 25.842 35 
+
+6,000 23.978 40 
+
+8,000 22.225 60 
+
+10,000 20.577 80 
+
+12,000 19.029 90 
+
+14,000 17.577 100 
+
+16,000 16.216 110 
+
+18,000 14.942 120 
+
+20,000 13.750 130 
+
+22,000 12.626 140 
+
+25,000 11.104 155 
+
+30,000 8.835 180 
+
+35,000 7.041 205 
+
+40,000 5.533 230 
+
+45,000 4.355 255 
+
+50,000 3.425 280 
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES
+
+ 4. Part 91 is amended as follows:
+
+Sec. 91.165 [Amended]
+
+ a. Section 91.165 is amended by inserting the words "and Sec. 91.170" immediately after the reference "Sec. 91.169".
+
+ b. Section 91.170 is amended to read as follows:
+
+Sec. 91.170 Altimeter system tests and inspections.
+
+ (a) No person may operate an airplane in controlled airspace under IFR unless, within the preceding 24 calendar months, each static pressure system and each altimeter instrument has been tested and inspected and found to comply with Appendix E of Part 43 of this chapter. The static pressure system and altimeter instrument tests and inspections may be conducted by--
+
+ (1) The manufacturer of the airplane on which the tests and inspections are to be performed;
+
+ (2) A certificated repair station properly equipped to perform these functions and holding--
+
+ (i) An instrument rating, Class I;
+
+ (ii) A limited instrument rating appropriate to the make and model altimeter to be tested;
+
+ (iii) A limited rating appropriate to the test to be performed;
+
+ (iv) An airframe rating appropriate to the airplane to be tested; or
+
+ (v) A limited rating for a manufacturer issued for the altimeter in accordance with Sec. 145.101(b) (4) of this chapter; or
+
+ (3) A certificated mechanic with an airframe rating (static pressure system tests and inspections only).
+
+ (b) The first test and inspection required by this section for airplanes, under annual inspection is not required to be made until the first annual inspection after July 31, 1967.
+
+ (c) No person may operate an airplane in controlled airspace under IFR at an altitude above the maximum altitude to which an altimeter of that airplane has been tested.
+
+ (Secs. 313(a), 601, 603, Federal Aviation Act of 1956; 49 U.S.C. 1354(a), 1421, 1423)
+
+ 
+        
+FOOTER: Issued in Washington, DC, on May 16, 1967.
+
+William F. McKee, 
+
+Administrator.
+
+[FR Doc. 67-5739 Filed 5-23-67; 8:46 am]
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 66-44; Issued on 12/22/66.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

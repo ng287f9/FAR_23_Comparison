@@ -1,0 +1,1530 @@
+FINAL RULES: 23-49
+
+ 
+ 
+        
+CITATION: [Federal Register: February 9, 1996 (Volume 61, Number 28)]
+
+ 
+        
+PAGE NUMBER: [Page 5151]
+
+ 
+        
+DOCKET NUMBER: 27806
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Airworthiness Standards; Systems and Equipment Rules Based on European Joint Aviation Requirements
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: 14 CFR Parts 23 and 91
+
+Amendment Nos. 23-49, 91-247
+
+This final rule amends the systems and equipment airworthiness standards for normal, utility, acrobatic, and commuter category airplanes. This amendment completes a portion of the Federal Aviation Administration (FAA) and the European Joint Aviation Authorities (JAA) effort to harmonize the Federal Aviation Regulations and the Joint Aviation Requirements (JAR) for airplanes certified in these categories. This amendment will provide nearly uniform systems and equipment standards for airplanes certificated in the United States under 14 CFR part 23 and in JAA countries under Joint Aviation Requirements 23, simplifying international airworthiness approval. 
+
+ 
+        
+DATES: EFFECTIVE DATE: March 11, 1996.
+
+ 
+        
+EFFECTIVE DATE: 1996-03-11
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Earsa Tankesley, Aerospace Engineer, Standards Office (ACE-100), Small Airplane Directorate, Federal Aviation Administration, 601 East 12th Street, Kansas City, Missouri 64106, telephone (816) 426-6932.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Background 
+
+This amendment is based on Notice of Proposed Rulemaking (NPRM) No. 94-21 (59 FR 37620, July 22, 1994). All comments received in response to Notice 94-21 have been considered in adopting this amendment. 
+
+This amendment completes part of an effort to harmonize the requirements of part 23 and JAR 23. The revisions to part 23 in this amendment pertain to systems and equipment airworthiness standards. Three other final rules are being issued in this Federal Register that pertain to airworthiness standards for flight, powerplant, and airframe. These related rulemakings are also part of the harmonization effort. Interested persons should review all four final rules to ensure that all revisions to part 23 are recognized. 
+
+The harmonization effort was initiated at a meeting in June 1990 of the JAA Council (consisting of JAA members from European countries) and the FAA, during which the FAA Administrator committed the FAA to support the harmonization of the U.S. regulations with the JAR that were being developed. In response to the commitment, the FAA Small Airplane Directorate established an FAA Harmonization Task Force to work with the JAR 23 Study Group to harmonize part 23 with the proposed JAR 23. The General Aviation Manufacturers Association (GAMA) also established a JAR 23/part 23 committee to provide technical assistance. 
+
+The FAA, JAA, GAMA, and the Association Europeenne des Constructeurs de Material Aerospatial (AECMA), an organization of European airframe manufacturers, met on several occasions in a continuing harmonization effort. 
+
+Near the end of the effort to harmonize the normal, utility, and acrobatic category airplane airworthiness standards, the JAA requested and received recommendations from its member countries on proposed airworthiness standards for commuter category airplanes. Subsequent JAA and FAA meetings on this issue resulted in proposals that were reflected in Notice 94-21 to revise portions of the part 23 commuter category airworthiness standards. Accordingly, this final rule adopts the systems and equipment airworthiness standards for all part 23 airplanes. 
+
+In January 1991, the FAA established the Aviation Rulemaking Advisory Committee (ARAC) (56 FR 2190, January 22, 1991). At an FAA/JAA Harmonization Conference in Canada in June 1992, the FAA announced that it would consolidate the harmonization effort within the ARAC structure. The FAA assigned to ARAC the rulemakings related to JAR/part 23 harmonization, which ARAC assigned to the JAR/FAR 23 Harmonization Working Group. The proposals for systems and equipment airworthiness standards contained in Notice 94-21 were a result of both the working group's efforts and the efforts at harmonization that occurred before the formation of the working group. 
+
+The JAA submitted comments to the FAA on January 20, 1994, in response to the four draft proposals for harmonization of the part 23 airworthiness standards. The JAA submitted comments again during the comment period of the NPRM. At the April 26, 1995, ARAC JAR/FAR 23 Harmonization Working Group meeting, the JAA noted that many of the comments in the January 20 letter had been satisfied or were no longer relevant. The few remaining items concern issues that are considered beyond the scope of this rulemaking and, therefore, will be dealt with at future FAA/JAA Harmonization meetings. 
+
+Discussion of Comments 
+
+General 
+
+Interested persons were invited to participate in the development of these final rules by submitting written data, views, or arguments to the regulatory docket on or before November 21, 1994. Six commenters responded to Notice 94-21. Two of these commenters, the Civil Aviation Authority (CAA) and the Joint Aviation Authorities (JAA), submitted comments that were identical; therefore, the responses to both commenters are the same. Minor technical and editorial changes have been made to the proposed rules based on relevant comments received and after further review by the FAA. 
+
+One general comment was received from Transport Canada. It expressed concurrence with the notice. The comment also noted that the proposals (the comment did not identify the specific sections) are applicable to JAR Very Light Aircraft (VLA) standards for night operations and that it will consider adding these proposals to the Canadian standards for VLA approved for night and Instrument Flight Rule (IFR) operations. It suggests that the FAA may wish to consider this as well. 
+
+Discussion of Comments to Specific Sections of Parts 23 and 91 
+
+Section 23.677 Trim Systems 
+
+Proposed Sec. 23.677(a) would clarify the need to mark the lateral and directional trim indicators with the neutral trim position. Since trim indicators on most airplanes are currently marked with the neutral position of the trimming device, this proposal would standardize the cockpit markings for all airplanes. 
+
+Revised paragraph (a) would also add a requirement for the pitch trim indicator to be marked with the proper pitch trim range for the takeoff of the airplane. Some takeoff accidents, including some involving fatalities, have occurred because the pitch trim was not set to the proper range needed for the airplane takeoff. 
+
+No comments were received on the proposals for this section. On reviewing the published notice, the FAA discovered the phrase "center or gravity" should have read "center of gravity." 
+
+The proposals are adopted with the above correction. 
+
+Section 23.691 Artificial Stall Barrier System 
+
+The requirements of Sec. 23.201(c) provide criteria for the in- flight demonstration of wings level stall. The requirements also specify the means of identifying when a stall has occurred. Amendment No. 23-45 (58 FR 42136, August 6, 1993) revised Sec. 23.201(c) by adding the activation of an artificial stall barrier as an acceptable means of identifying when a stall has occurred. Proposed new Sec. 23.691 would provide standards for artificial stall barrier systems if such a system is used to show compliance with Sec. 23.201(c). 
+
+Two comments were received on this proposal in which the JAA and the CAA note that the proposal has not been fully discussed by JAA specialists and recommend that the proposal be withdrawn. The JAA also provides a list of 12 issues to be considered if the FAA proceeds with the adoption of the proposal. 
+
+The FAA has reviewed the handling of this proposal from the time that it was identified in the original 1990 FAA comments on an early draft of JAR 23. This item was first presented to the JAA specialists for review in 1991 and since that time it has been thoroughly coordinated with the JAA. The JAA's current JAR 23 Notice of Proposed Amendment list contains an item for the inclusion of 23.691 in JAR 23, based on the text in a draft of this final rule. The FAA understands that the JAA expects to adopt the item following the finalization of this rule. Under these circumstances, the FAA does not find it necessary to defer adoption for further consideration. 
+
+Moreover, the FAA has reviewed each of the 12 issues that the JAA provided for FAA's consideration, and prepared a response which has been included in the Rules Docket. Since the issues are beyond the scope of the proposal, the FAA has not included them in this final rule publication. 
+
+In the course of the FAA's review, however, the FAA noted that the word "necessary" in the introductory paragraph of Sec. 23.691 should be changed to "used," to make it clear that the equipment requirements of this section are applicable if a stick pusher system is used in the airplane to show compliance with Sec. 23.201(c). 
+
+Section 23.691 is adopted with the above change. 
+
+Section 23.697 Wing Flap Controls 
+
+Proposed new Sec. 23.697(c) would provide safety standards for the wing flap control levers installed in airplanes that use wing flap settings other than fully retracted when showing compliance with Sec. 23.145. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.701 Flap Interconnection 
+
+Section 23.701 (a)(1) and (a)(2) would be revised to clarify the requirements for flap systems installed on part 23 airplanes. 
+
+No comments were received on the proposals for this section, and they are adopted as proposed. 
+
+Section 23.703 Takeoff Warning System 
+
+This proposed new section would require a takeoff warning system on some commuter category airplanes. The requirement would be applicable if the certification flight evaluation showed that an unsafe takeoff condition would result if lift devices or longitudinal trim devices are set to any position outside the approved takeoff range. If the evaluation shows that no unsafe condition would result at any setting of these devices, a takeoff warning system would not be required. For those airplanes on which a warning system must be installed, the proposal would provide requirements for the installation of the system. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.723 Shock Absorption Tests 
+
+To correct a grammatical error in the rules, paragraph (b) of this section would be revised by changing the word "reserved" in the phrase "reserved energy absorption capacity" to "reserve." 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.729 Landing Gear Extension and Retraction System 
+
+This proposal would revise Sec. 23.729(e) to clarify that a landing gear indicator is required for each gear. This proposal would also add a new Sec. 23.729(g) requiring that if the landing gear bay is used as the location for equipment other than landing gear, that equipment must be designed to minimize damage from items such as a tire burst, or rocks, water, and slush that may enter the landing gear bay. 
+
+One comment was received on this section, which suggested that the current requirements do not properly include a standard for amphibious operation. The comment specifically identified the warning horn or similar aural device as confusing and a source of pilot error during operations of an amphibian airplane. The commenter provided a suggestion for a landing gear position indicator on an amphibian airplane that would assist in clarifying this confusion. 
+
+Although this comment has merit, the proposed rule did not consider such a requirement, and no action has been taken to include the suggested landing gear position indicator for amphibian airplanes in this final rule. This comment will be retained and the suggestion for an amphibian landing gear indicator will be presented at a future harmonization meeting for specialist consideration and possible future inclusion in part 23/JAR 23. 
+
+Although not proposed in the notice, the text of paragraph (g) has been revised to identify sources of equipment damage that should be considered in the application of this requirement. 
+
+Section 23.729 is adopted with the above changes. 
+
+Section 23.735 Brakes 
+
+Section 23.735(a) would be revised to state clearly that wheel brakes must be provided. A proposed new Sec. 23.735(c) would require the brake system to be designed so that the brake manufacturer's specified brake pressures are not exceeded during the landing distance determined in accordance with Sec. 23.75. Proposed new Sec. 23.735(e), applicable to commuter category airplanes, would require establishing the minimum rejected takeoff brake kinetic energy capacity rating of each main wheel brake assembly. 
+
+One comment was received on the proposal for Sec. 23.735(e), which noted that the factor, "0.0443" is not defined for the kinetic energy formula. The commenter recommends that V be stated in units such as, feet-per-second (or mph, or knots, as required). The commenter notes that the recommended clarification should reduce possible future misunderstanding and confusion, as well as improper brake capacity calculations. 
+
+The FAA agrees. The units for "V" in the definition of the kinetic energy formula were inadvertently omitted from the proposal for this section. To correct this omission, the definition is being revised to read: "V=Ground speed, in knots, associated with the maximum value of V<INF>1 selected in accordance with Sec. 23.51(c)(1)." 
+
+The proposal is adopted with the above change. 
+
+Section 23.745 Nose/Tail Wheel Steering 
+
+Proposed new Sec. 23.745 would provide requirements that apply if nose/tail wheel steering is installed. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.775 Windshields and Windows 
+
+Section 23.775(a) would be revised to allow internal glass panels of windshields and windows to be constructed of nonsplintering material, as well as nonsplintering glass. Section 23.775(c) would be revised to clarify that the requirement of this section applies to pressurized airplanes if certification for operation up to and including 25,000 feet is requested. 
+
+Section 23.775(h), introductory text, and paragraph (h)(1) would be added to require windshield panes of commuter category airplanes that are directly in front of the pilots to withstand the impact of a two- pound bird strike. This requirement is based on a Joint Aviation Authority recommendation to add windshield bird strike protection for commuter category airplanes. 
+
+No comments were received on the proposals for this section, and they are adopted as proposed. 
+
+Section 23.783 Doors 
+
+Proposed paragraph (b) would add a requirement that passenger doors must not be located near any propeller disk or any other potential hazard that could endanger persons using the door. The propeller disk remains the prominent hazard but other items, such as hot deicer surfaces or sharp objects on the airplane structure, are also hazards. 
+
+Proposed new paragraph (g) would require lavatory doors, if installed, that would not trap occupants inside a closed and locked lavatory compartment. 
+
+No comments were received on the changes proposed for this section, and they are adopted as proposed. 
+
+Section 23.785 Seats, Berths, Litters, Safety Belts, and Shoulder Harnesses 
+
+Seat requirements of part 23 would be clarified by moving the seat provisions from current Sec. 23.1307(a), which requires a seat or berth for each occupant, to the introductory text of Sec. 23.785. The notice proposed to reference the requirements of Sec. 23.1413, for a metal-to-metal latching device for seat belts and shoulder harnesses, in Sec. 23.785(b). These proposed changes were intended to combine related seat requirements in one section. The JAA and CAA comments note that the phrase "with metal-to-metal latching device" is also reflected in Sec. 23.1413, but with different applicability. 
+
+The FAA agrees. The proposed changes to this section were made to clarify the seat requirements by including, or referencing, all of the seat requirements in one section. The notice proposal to add the phrase "with metal-to-metal latching devices as required by Sec. 23.1413" to paragraph (b) would provide this clarification for normal, utility, or acrobatic category airplanes. However, because this paragraph is not applicable to all categories of airplanes, this change, along with the retention of Sec. 23.1413 could be confusing. 
+
+To accomplish the originally intended clarification of the seat requirements, and to correct the applicability differences noted by the commenters, Sec. 23.1413 is being removed and the phrase, "with metal-to-metal latching device" is being added to Secs. 23.785(b) and 23.785(c). Also, to make Sec. 23.785(c) clearer, it has been divided into two sentences. 
+
+Section 23.785 is amended by adopting the introductory text and the revision of paragraphs (b) and (c) as identified above. 
+
+ 
+
+Section 23.787 Baggage and Cargo Compartments 
+
+Section 23.787 would be revised by extending the present requirements for cargo compartments to baggage compartments. As proposed, future baggage compartments on all airplane categories would be required to: be placarded for their maximum weight capacity; have a means to prevent the baggage from shifting; and have a means to protect controls, wiring, lines, and equipment or accessories that are located in the compartment and whose damage or failure would affect safe operation of the airplane. This revision would result in the commuter category requirements of Sec. 23.787(g) being redundant, and that requirement is being removed. 
+
+Proposed revisions to this section would also move the requirements of paragraphs (d) and (f) to a proposed new Sec. 23.855, which would address cargo and baggage compartment fire protection. Proposed new paragraph (c) of this section would require flight crew emergency exits on airplanes that are used only for the carriage of cargo to meet the requirements of Sec. 23.807. 
+
+No comments were received on the proposal for this section, and they are adopted as proposed. 
+
+Section 23.791 Passenger Information Signs 
+
+This proposed new section would require at least one illuminated sign to notify passengers when seat belts should be fastened on those airplanes in whit the flightcrew members cannot observe the other occupants' seats or where the flightcrew members' compartment is separated from the passenger compartment. One comment was received on this proposal, which noted the JAA's support of the proposal to require all airplanes, where the flightcrew members cannot observe the passenger seats, to be equipped with a "fasten seat belt" sign. The JAA also identified its intent to take NPA action to propose the same requirement. 
+
+Section 23.791 is adopted as proposed. 
+
+Section 23.807 Emergency Exits 
+
+Proposed new Sec. 23.807(a)(4) would provide the same protection from any propeller disk and other potential hazard for a person who uses emergency exits as that provided by proposed Sec. 23.783(b) for a person who uses a passenger door. 
+
+The proposed revision of Sec. 23.807(b) would provide that the inside handles of emergency exits that open outward must be designed so that the emergency exit is protected against inadvertent operation. 
+
+The proposed revisions to Sec. 23.807(b)(5) and new Sec. 23.807(b)(6) would apply to acrobatic and utility category airplanes that are approved for maneuvers, such as spinning. The proposed rule would require that emergency exits for these category airplanes allow the occupants to abandon the airplane at certain speeds related to such maneuvers. 
+
+No comments were received on the proposals for this section, and they are adopted as proposed. 
+
+Section 23.841 Pressurized Cabins 
+
+The proposed revision to Sec. 23.841(a) would extend the cabin pressure requirements of current paragraph (a), which now apply to airplanes certificated for operation above 31,000 feet, to airplanes certificated for operation over 25,000 feet. 
+
+No comments were received on this proposal, and it is adopted as proposed. 
+
+Section 23.853 Passenger and Crew Compartment Interiors 
+
+This proposal would revise the section heading from "Compartment interiors" to "Passenger and crew compartment interiors" to clarify the content of the section. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.855 Cargo and Baggage Compartment Fire Protection 
+
+This proposed new section would require the following: 
+
+Proposed paragraph (a) would require all sources of heat that are capable of igniting the contents of each cargo and baggage compartment to be shielded and insulated to prevent such ignition. 
+
+Proposed paragraph (b) would require cargo and baggage compartments to be constructed of materials that meet the appropriate provisions of Sec. 23.853(d)(3). Currently these requirements apply to commuter category airplanes and to the materials used in the compartments of these airplanes. The proposed new requirement would expand this applicability to the cargo and baggage compartments of all part 23 airplanes. In effect, the proposed new requirement would require materials that are self-extinguishing rather than flame resistant as currently required under Sec. 23.787(d). 
+
+Proposed new paragraph (c) would add new fire protection requirements for cargo and baggage compartments for commuter category airplanes. The proposed rule would require one of the following alternatives: (1) Either the compartment must be located where pilots seated at their duty station would easily discover the fire or the compartment must be equipped with a smoke or fire detector system to provide a warning at the pilot's station. Access to the compartment with a fire extinguisher must also be provided; (2) If the cargo or baggage compartment is inaccessible to the flightcrew, it must be equipped with a fire detector system that provides a warning at the pilot's station, and the compartment must have ceiling and sidewall floor panels constructed of materials that have been subjected to and meet the vertical self-extinguishing tests of appendix F of part 23; (3) The Compartment must be constructed and sealed to contain any fire. 
+
+Two comments were received on this proposal. The JAA and the CAA comment that proposed paragraph (b) would extend the self-extinguishing standards of Sec. 23.853(d)(3) to the baggage and cargo compartments of all airplanes. JAR 23.855 requires this self-extinguishing standard for commuter category only. The commenters noted that the proposed applicability of this standard to all airplanes has not been agreed to for JAR 23. 
+
+There were no objections to the proposal or suggestions for changes, and Sec. 23.855 is adopted as proposed. 
+
+Section 23.867 Electrical Bonding and Protection Against Lightning and Static Electricity 
+
+This proposed revision would change the heading that precedes Sec. 23.867 from "Lightning Evaluation" to "Electrical Bonding and Lightning Protection." It would also revise the section heading from "Lightning protection of structures" to "Electrical bonding and protection against lightning and static electricity." The proposed revisions more accurately clarify the content of the section. 
+
+No comments were received on this proposal, and it is adopted as proposed. 
+
+Section 23.1303 Flight and Navigation Instruments 
+
+The introductory text of Sec. 23.1303 would be revised to clarify that the section contains the minimum required instruments. Also, Sec. 23.1303(d) would add a requirement for those airplanes whose performance must be based on weight, altitude, and temperature to be equipped with a free air temperature indicator. A new sentence added to Sec. 23.1303(e)(2) would state that nuisance overspeed warnings should not occur at lower speeds where pilots might ignore the warning. A new paragraph (f) would propose requirements for attitude instruments that include a means for flightcrew members to adjust the relative position of the attitude reference symbol and the horizon line. Finally, a new paragraph (g) would be added to identify certain specific instruments required for a commuter category airplane. 
+
+Two comments were received, which note that the additional instruments proposed for commuter category airplanes are not included in JAR 23. The JAA and the CAA also note that consideration of this proposal is being deferred by the JAA pending the publication of JAR- OPS and a review of the proposal by JAA specialists. (JAR-OPS are the JAR operations requirements issued by JAA.) 
+
+The requirement for Sec. 23.1303 is adopted as proposed. 
+
+Section 23.1307 Miscellaneous Equipment 
+
+This proposal would remove Sec. 23.1307(a); these requirements are being added to Sec. 23.785. The discussion of Sec. 23.785 above addresses this change. 
+
+Also, the provisions of Sec. 23.1307(b) are being removed from Sec. 23.1307 as proposed. These requirements are stated in Secs. 23.1361, 23.1351, and 23.1357, respectively, and are being removed to prevent confusion. The designation of paragraph (c) would be removed since it would no longer be necessary. 
+
+Two comments were received on this proposal. In these comments, the JAA and the CAA note that paragraph (c), adopted by Amendment 24-43, is pending a review by the JAA specialist for JAR 23. 
+
+The proposal is adopted as proposed. 
+
+Section 23.1309 Equipment, Systems, and Installation 
+
+Proposed new Sec. 23.1309(a)(4) would correct an omission that occurred when the FAA issued Amendment No. 23-41 (55 FR 43306, October 26, 1990). To correct this oversight, and to continue the single fault provision of this paragraph, Sec. 23.1309(a)(4) was proposed. 
+
+Two comments were received on this proposal. The JAA and the CAA note that, although the proposal for Sec. 23.1309(a)(4) is not included in JAR 23, they support it, and will be considered for adoption in JAR 23. 
+
+Section 23.1309(a)(4) is adopted as proposed. 
+
+Section 23.1311 Electronic Display Instrument Systems 
+
+This proposal would revise Sec. 23.1311 to remove redundant requirements and to clarify which secondary instruments are required and the visibility requirements for these instruments. 
+
+No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1321 Arrangement and Visibility 
+
+The proposed revision to Sec. 23.1321(d) would remove the wording that limits the instrument location to airplanes certificated for flight under instrument flight rules or airplanes weighing more than 6,000 pounds. Instruments are for the pilot and should be located near that pilot's vertical plane of vision without regard to what flight rules are approved for the airplane's operation or the maximum weight of the airplane. 
+
+No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1323 Airspeed Indicating System 
+
+The proposed new Sec. 23.1323(c) would add a requirement that each airspeed indicating system design and installation should provide positive drainage of moisture from the system. 
+
+To better organize the requirements that are applicable to the airspeed systems on all part 23 airplane categories and those that would be additional requirements for the airspeed systems of commuter category airplanes, the FAA proposed to redesignate existing paragraphs (c) and (e), respectively, as paragraphs (e) and (d). By this redesignation, paragraphs (a), (b), (c), and (d) would apply to all airplanes, and paragraphs (e) and (f) would include additional requirements applicable to commuter category airplanes. 
+
+The proposal for redesignated paragraph (e) would also remove the words "in flight and" from the first sentence of that paragraph. Proposed new Sec. 23.1323(f) would provide that, on those commuter airplanes where duplicate airspeed indicators are required, the airspeed pitot tubes must be located far enough apart so that both tubes would not be damaged by a single bird strike. 
+
+No comments were received on the proposals for this section, and they are adopted as proposed. 
+
+Section 23.1325 Static Pressure System 
+
+Current Sec. 23.1325(g) exempts from the requirements of Sec. 23.1325(b)(3) airplanes that are prohibited from flight in instrument meteorological conditions in accordance with Sec. 23.1559(b). The notice proposed to revise Sec. 23.1325(g) by adding airplanes that are prohibited from flight in icing conditions to the airplanes that are currently exempted from the requirements of Sec. 23.1325(b)(3). 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.1326 Pitot Heat Indication Systems 
+
+Proposed new Sec. 23.1326 would require the installation of a pitot tube heat indicating system on those airplanes required to be equipped with a heated pitot tube. 
+
+The comments received from the JAA and the CAA show that this existing requirement in JAR 23 is applicable to commuter category airplanes only. They state that the FAA proposal would be applicable to all airplanes and would result in a continuous indication of pitot heat non-selection in every case. The JAA and the CAA do not support the applicability of this section to all airplanes. 
+
+The FAA does not agree that the proposal would be applicable to all airplanes. The proposal would apply only to these airplanes that are required, by Sec. 23.1323(d), to be equipped with a heated pitot tube. By this applicability, airplanes that are approved for instrument flight, or for flight in icing conditions, would be required to be equipped with a heated pitot tube and a heated pitot tube indicator. These are the flight conditions where the pilot needs to be alerted if the pitot heat has not been turned on or if the heater fails. By this applicability, an airplane owner who has installed a heated pitot tube as optional equipment may continue to operate the airplane without a heated pitot tube indicator. 
+
+The preamble of the NPRM discusses the safety benefits that would be provided by this change. 
+
+The proposal is adopted as proposed. 
+
+Section 23.1329 Automatic Pilot System 
+
+Section 23.1329(b), as adopted by Amendment No. 23-24 (58 FR 18958, April 9, 1993), does not state clearly that stick controlled airplanes must be equipped with the same autopilot quick release controls that are required for airplanes with control wheels. The proposed revision of Sec. 23.1329(b) would make it clear that a quick release control must be installed on each control stick of an airplane that can be operated from either pilot seat. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.1337 Powerplant Instruments Installation 
+
+This proposal would revise the heading of this section to accurately reflect the powerplant instrument installation requirements that it contains. The difference between this section and Sec. 23.1305 is clarified by this change. 
+
+Section 23.1337(b) would be revised by removing the wording that authorizes installation of only those fuel indicators marked in gallons and pounds. Section 23.1337(b) would also be revised by adding the word "usable" to the first sentence of this section. Proposed new Sec. 23.1337(b)(4) would require a "means to indicate" the amount of usable fuel in each tank when the airplane is on the ground. 
+
+No comments were received on the proposals for this section, and they are adopted as proposed. 
+
+Section 23.1351 General 
+
+The proposal would revise current Sec. 23.1351 by removing portions of paragraphs (b)(2) and (b)(3) and by removing paragraph (b)(4). The requirements proposed for removal are applicable to alternators that depend upon the battery for initial excitation or for stabilization. 
+
+Revised Sec. 23.1351(c)(3) would require an automatic means for reverse current protection. 
+
+Section 23.1351(f) would be revised by adding a provision that would require the ground power receptacle to be located where its use will not result in a hazard to the airplane or to people on the ground using the receptacle. 
+
+No comments were received on the proposals. The proposals are adopted as proposed, except that paragraph (c)(3) has been revised to clarify that protection for any generator/alternator and the airplane electrical system must be provided. 
+
+Section 23.1353 Storage Battery Design and Installation 
+
+Proposed new Sec. 23.1353(h) would require that, in the event of a complete loss of the primary electrical power generating system, airplane battery capacity must be sufficient to supply at least 30 minutes of electrical power to those loads essential to the continued safe flight and landing of the airplane. 
+
+No comments were received on this proposal, and it is adopted as proposed. 
+
+Section 23.1359 Electrical System Fire Protection 
+
+Proposed new Sec. 23.1359 would require smoke and fire protection for electrical system installations. Proposed Sec. 23.1359(a) would state that electrical systems must meet the applicable requirements of Secs. 23.863 and 23.1182. 
+
+Proposed Sec. 23.1359(b) would require that the electrical systems components installed in designated fire zones and used during emergency procedures be fire resistant. This provision is needed to clarify the requirements for electrical system components that may be installed in the designated fire zones identified in Sec. 23.1181. 
+
+Finally, Sec. 23.1359(c) would provide burn criteria for electrical wire and cables. A revision to appendix F of part 23 that would add appropriate wire testing criteria was also included in this proposal. 
+
+No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 23.1361 Master Switch Arrangement 
+
+To harmonize with the JAR this proposal would revise Sec. 23.1361(c) by making an editorial change to remove the last two words of the paragraph that read "in flight." This change will not alter the meaning of the requirement. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.1365 Electrical Cables and Equipment 
+
+This proposal would revise Sec. 23.1365(b) and would add three new paragraphs. 
+
+Section 23.1365(b) would be revised in relation to proposed new Sec. 23.1359(c), which would require self-extinguishing insulated electrical wires and cables. The proposed revisions to Sec. 23.1365(b) would remove the reference to electrical cables from the flame resistance requirement since the cables would be required to have self-extinguishing insulation under Sec. 23.1359(c). The proposed revision retains the requirement for electrical cables and associated equipment to not emit dangerous quantities of toxic fumes when they overheat. The phrase "at least flame resistant" in Sec. 23.1365(b) would also be revised by removing the words "at least." 
+
+The three paragraphs that would be added by this proposal would require: (1) The identification of electrical cables, terminals, and connectors; (2) the protection of electrical cables from damage by external sources; and (3) installation criteria for cables that cannot be protected by a circuit protection device. 
+
+No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 23.1383 Taxi and Landing Lights 
+
+The landing light requirements of Sec. 23.1383 would be revised by adding taxi lights to this section. 
+
+Current Sec. 23.1383(a), which requires the lights to be acceptable, would be deleted because it is unnecessary to state this. The paragraphs would be redesignated accordingly. 
+
+Current Sec. 23.1383(b)(3) requires that a landing light must be installed to provide enough light for a night landing. Proposed Sec. 23.1383(c) would revise "night landing" to "night operation" since the requirements would also cover taxiing and parking. Proposed new paragraph (d) would require the lights to be installed so that they do not cause a fire hazard. 
+
+No comments were received on the proposals for this section, and they are adopted as proposed. 
+
+Section 23.1401 Anticollision Light System 
+
+This proposal would revise Sec. 23.1401 to require the installation of an anticollision light system on all part 23 airplanes. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.1413 Safety Belts and Harnesses 
+
+The proposals in the notice did not include a revision that would remove this section. However, comments received on the notice proposal for Sec. 23.785 showed that the proposed change, along with the retention of this section could be confusing and, thereby, not accomplish the FAA's intent to clarify the seat requirement. 
+
+Section 23.1413 is being removed, and the phrase "with metal-to-metal latching device" is being added to Secs. 23.785(b) and 23.785(c) to accomplish the intended clarification identified in this notice. This change will not add a substantive requirement. 
+
+Section 23.1431 Electronic Equipment 
+
+This proposal would add three new paragraphs to Sec. 23.1431. Proposed new paragraph (c) would provide that airplanes required to be operated by more than one flightcrew member be evaluated to determine if the flightcrew members can converse without difficulty when they are seated at their duty stations. Proposed new paragraph (d) would require installed communication equipment to use "off-on" transmitter switching that will ensure that the transmitter is turned off when it is not being used. Proposed new paragraph (e) would require that, if provisions for communication headsets are provided, the applicant must demonstrate that flightcrew members will receive all warnings when a headset is being used. The demonstration must be made under actual cockpit noise conditions. 
+
+ 
+
+The Air Line Pilots Association (ALPA) submitted the only comment on this proposal. ALPA expressed concern over the cockpit noise conditions that would be used in the determination of compliance with proposed paragraphs (c) and (e). 
+
+This notice preamble identified an earlier harmonization consideration to include text in JAR 23 and this proposal that would have required compliance under actual cockpit noise conditions. The preamble explained that this text was not included because it may be misinterpreted and result in demonstrations being conducted under more severe noise conditions than are needed. ALPA understood this explanation to mean that the FAA had made a determination that compliance demonstrations should not be conducted under the actual cockpit noise conditions that exist when the airplane is being operated. ALPA recommends that the FAA re-evaluate its position. 
+
+The FAA has reviewed the record of earlier harmonization discussions where the concerns about noise conditions were first considered. During these discussions, which included industry representatives, it was decided that any requirement for testing under noise conditions could be interpreted to require testing under conditions that were more severe than needed. Accordingly, it was decided that such text should not be included in either JAR or part 23. The FAA agreed with the position reached in these discussions; therefore, these proposals did not include any requirements for testing under noise conditions, and the explanation was placed in the notice to identify why such requirements were not included. 
+
+Earlier harmonization and this comment make it clear that the proposals, with or without the requirements for testing under noise conditions, may be misinterpreted. ALPA's interpretation that the FAA had determined that the demonstrations of compliance with these requirements should not be conducted under actual cockpit noise conditions, is not correct. The test for compliance with the requirements should be done under the actual noise conditions. 
+
+To clarify the conditions under which these evaluations should be conducted, not withstanding earlier harmonization agreements, these two paragraphs are being revised to include the phrase, "under actual cockpit noise conditions when the airplane is being operated." 
+
+The proposals for Sec. 23.1431 are adopted with the above-identified revision of paragraphs (c) and (e). 
+
+Section 23.1435 Hydraulic Systems 
+
+Since the adoption of Amendment No. 23-43 (58 FR 18958, April 9, 1993), the FAA has received questions about the installation of hydraulic accumulators that are permitted by Sec. 23.1435(c). These questions have shown that applicants find Sec. 23.1435(c) difficult to understand. The notice proposed a revision of Sec. 23.1435(c) to clarify the type and size of a hydraulic accumulator or reservoir that may be installed on the engine side of any firewall. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.1447 Equipment Standards for Oxygen Dispensing Units 
+
+If radio equipment is installed, proposed new Sec. 23.1447(a)(4) would require that flightcrew oxygen dispensing units be designed to allow the use of communication equipment when oxygen is being used. 
+
+Revisions to Sec. 23.1447(d) would require the flightcrew oxygen dispensing units to either be the quick donning type or be automatically presented before the cabin pressure altitude exceeds 15,000 feet, if the airplane is certificated for operation above 25,000 feet. The passenger oxygen requirements of former paragraph (e) and (e)(1) have not been revised, but are now contained in new paragraph (e). Proposed paragraph (d) would be revised to provide the flightcrew and the airplane passengers the same level of safety as required by other airworthiness standards (14 CFR part 25). This proposed revision is also consistent with the proposed revision of Sec. 23.841. 
+
+No comments were received on the proposals for this section, and they are adopted as proposed. 
+
+Section 23.1451 Fire Protection for Oxygen Equipment 
+
+This proposed new section would specify fire protection for oxygen equipment installations. Section 23.1451(a) and (b) would, respectively, prohibit the installation of oxygen equipment in designated fire zones and require that oxygen system components be protected from the heat from designated fire zones. Proposed Sec. 23.1451(c) would require oxygen equipment and lines to be installed so that escaping oxygen cannot come in contact with grease, fluids, or vapors that may be present. 
+
+No comments were received on the proposal for this section, and it is adopted as proposed. 
+
+Section 23.1453 Protection of Oxygen Equipment From Rupture 
+
+Proposed new Sec. 23.1453 would clarify the rupture protection needed for oxygen system installation. Rupture protection for oxygen systems is currently required by the application of the structure load requirements of part 23. The addition of Sec. 23.1453(a) would clarify the application of these load requirements and would identify the need to consider maximum temperatures and pressures that may be present. Section 23.1453(b) would identify the protection to be provided for high pressure oxygen sources and the pressure lines that connect such sources to the oxygen system shutoff valves. 
+
+The comments received on this proposal from the JAA and the CAA noted that the word "high" in paragraph (b) could lead to confusion and require interpretation. Accordingly, they suggested that the words "High pressure oxygen sources" be revised to read as follows: "Oxygen pressure sources." This is the same text that is used in JAR 23. 
+
+The FAA agrees with the suggested wording change. When the proposal was originally drafted, the FAA was considering the oxygen source side of the oxygen regulator, the high pressure side, and the passenger dispensing side of the regulator, the low pressure side; thus, the word "high" was used. 
+
+The suggested change will not alter the requirement's applicability and will be more clearly understood. It is also noted that the suggested text change will more closely align with the same requirement in Sec. 25.1453. Section 23.1453 is changed by revising the first four words of proposed paragraph (b) to read, "Oxygen pressure sources." 
+
+This section is adopted with the above change. 
+
+Section 23.1461 Equipment Containing High Energy Rotors 
+
+This proposal would revise paragraph (a) of this section to clarify that the requirements apply to high energy rotors included in an auxiliary power unit (APU). 
+
+One comment was received on this proposal. The JAA and the CAA noted that the JAA does not agree that the requirements of this section are applicable to APU's. They suggest that the proposed changes to paragraph (a) not be adopted. 
+
+In the preamble of the notice, the FAA identified policy issued after this section was adopted. That policy indicated that the section was applicable to "equipment such as APU's and constant speed drives," but this policy was not widely distributed to all FAA offices. The proposal in the notice does not alter the policy applicability, but it does clarify the policy. 
+
+Removing the proposed change would not alter the situation. The FAA defines "Equipment containing high energy rotors" to include APU's and constant speed drives. In cases where rotor containment has been demonstrated by complying with JAA-APU or FAA TSO C77a, this compliance will be examined by the FAA office responsible for the airplane certification. If it is found that this demonstration also meets the requirements of Sec. 23.1461, it will be accepted for the airplane's compliance. 
+
+The proposal for Sec. 23.1461 is adopted as proposed. 
+
+Appendix F to Part 23--Test Procedure 
+
+This proposal would revise appendix F to provide the procedures needed to test electrical wire to ensure that the wire meets the burn requirements of Sec. 23.1359. It would also add procedures for meeting the 45 degree and 60 degree angle burn test requirement proposed in Secs. 23.855(c)(2) and 23.1359(c), respectively. Paragraph (b) would clarify the specimen configuration to be used in the proposed testing procedures. 
+
+No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 91.205 Powered Civil Aircraft With Standard Category U.S. Airworthiness Certificates: Instrument and Equipment Requirements 
+
+Proposed new Sec. 91.205(b)(11) would require that airplanes certificated under Sec. 23.1401 be equipped with an anticollision light system for day visual flight rule (VFR) operations. Day VFR operations are discussed under Sec. 23.1401 of the notice. 
+
+No comments were received on the proposed addition to this section, and that addition is adopted as proposed. 
+
+Section 91.209 Aircraft Lights 
+
+Proposed new Sec. 91.209(b) would require that airplanes equipped with an anticollision light system be operated with the anticollision light system lighted during all types of operations, except when the pilot determines that, because of operating conditions, it would be in the interest of safety to turn the lights off. 
+
+One commenter believes that the proposal is unacceptable to aircraft operators. This commenter contends that the midair collision statistics are purely conjectural and that any safety benefits are merely guesswork. The commenter also notes that this change would affect an aircraft's dispatch capability, and questions why an airplane that is perfectly capable of being flown should be grounded from daytime flight because something, such as a lamp, is defective. 
+
+The FAA agrees that there will be incidents where an airplane will be temporarily grounded from daylight operations until a failure in the light system can be repaired. However, the additional safety cue provided to pilots by operating anticollision light systems will outweigh the cost of maintaining the light system. 
+
+The proposed revision of Sec. 91.209 is adopted as proposed. 
+
+Regulatory Evaluation, Regulatory Flexibility Determination, and Trade Impact Assessment 
+
+Changes to Federal regulations must undergo several economic analyses. First, Executive Order 12866 directs that Federal agencies promulgate new regulations or modify existing regulations only if the potential benefits to society justify its costs. Second, the Regulatory Flexibility Act of 1980 requires agencies to analyze the economic effect of regulatory changes on small entities. Finally, the Office of Management and Budget directs agencies to assess the effects of regulatory changes on international trade. In conducting these assessments, the FAA has determined that this rule: (1) Will generate benefits exceeding its costs and is "significant" as defined in the Executive Order 12866; (2) is "significant" as defined in DOT's Policies and Procedures; (3) will not have a significant impact on a substantial number of small entities; and (4) will not constitute a barrier to international trade. These analyses, available in the docket, are summarized below. 
+
+Regulatory Evaluation Summary 
+
+This section summarizes the costs and benefits of each provision of the final rule. Many of the provisions in the final rule will impose either no cost or a negligible cost. Such provisions are typically administrative, editorial, clarifying, relieving, or conforming in nature. In addition, the FAA holds that certain provisions have a potential safety benefit that can be achieved with no incremental cost, due primarily to the fact that this rule will apply to future certificated airplanes and retrofitting will not be required. All provisions of the final rule, including those with no or negligible costs, are summarized below. Only those provisions with non-negligible costs are further evaluated in the section that follows. It should be noted that the various cost impacts are not additive since the individual provisions often apply to different airplane types included under part 23. The reader is directed to the full regulatory evaluation in the docket for additional information. 
+
+Section
+
+ Incremental Cost
+
+ Benefit
+
+ 
+
+Section 23.677 Trim systems Negligible... Safety. 
+
+Section 23.691 Artificial stall barrier system. None... Administrative. 
+
+Section 23.697 Wing flap controls. $480 per certification and $100 per airplane for affected airplanes. Nominal safety and relief. 
+
+Section 23.701 Flap interconnection. None... Clarification. 
+
+Section 23.703 Takeoff warning system. $240 per certification for evaluation. Where necessary, $5,120 per certification, $1,000 per airplane and $100 per year. Nominal safety and relief. 
+
+Section 23.723 Shock absorption tests. None... Editorial. 
+
+Section 23.729 Landing gear extension and retraction system. para. (e). None...
+
+para. (g). Negligible, general practice. Clarification.
+
+Minor; general practice 
+
+Section 23.735 Brakes... para. (a). None...
+
+para. (c). None...
+
+para. (e). $240 per certification. Editorial clarification. 
+
+Administrative.
+
+Minor safety. 
+
+Section 23.745 Nose/Tail wheel steering. None... Minor. Avoids special conditions. 
+
+Section 23.775 Windshields and windows. para. (a). None...
+
+para. (c). None...
+
+para. (h). Up to $350,000 per certification. Relieving.
+
+Clarification.
+
+Safety. 
+
+Section 23.783 Doors... para. (b). None...
+
+para. (g). $25 per airplane. Minor safety.
+
+Safety 
+
+Section 23.785 Seats, births, litters, safety belts and shoulder harnesses. None... Editorial organization. 
+
+Section 23.787 Baggage and cargo compartments. para. (a) $1 per airplane.
+
+para. (b). $60 per certification and up to $100 per airplane.
+
+para. (c). None... Minor safety.
+
+Safety.
+
+Clarification. 
+
+Section 23.791 Passenger information signs. $60 per clarification, up to $200 per airplane, and a negligible effect on operating costs. Safety. 
+
+Section 23.807 Emergency exists. para. (a)(4). Expected negligible.
+
+para. (b) and (b)(5). None.
+
+para. (b)(6). Where chosen, $10,000 per certification and $500 per airplane. Minor safety.
+
+Clarification and editorial.
+
+Safety. 
+
+Section 23.841 Pressurized cabins. $1,000 per certification and $2,000 per airplane. Safety. 
+
+Section 23.853 Passenger and crew compartment interiors. None... Editorial. 
+
+Section 23.855 Cargo and baggage compartment fire protection. para. (a). Less than $40 per airplane.
+
+para. (b). Less than $200 per airplane.
+
+para. (c). Potentially as high as $1,800 per certification, $4,550 per airplane, and $100 per year. Minor safety.
+
+Safety.
+
+Safety 
+
+Section 23.867 Electrical bonding and protection against lightning and static electricity. None... Editorial. 
+
+Section 23.1303 Flight and navigation instruments. Introduction. None...
+
+para. (d). Negligible.
+
+para. (e)(2). None...
+
+para. (f). None...
+
+para. (g)(1). Up to $2,000 per airplane.
+
+para. (g)(2). None...
+
+para. (g)(3). Up to $3,600 per certification and $7,000 per airplane. Clarification.
+
+Safety.
+
+Minor safety.
+
+Minor safety.
+
+Safety.
+
+Minor safety.
+
+Safety. 
+
+Section 23.1307 Miscellaneous equipment None... Editorial and conforming. 
+
+Section 23.1309 Equipment, systems, and installations. None... Minor safety. 
+
+Section 23.1311 Electronic display instrument systems. None... Clarifying, editorial, and relieving. 
+
+Section 23.1321 Arrangement and visibility. None... Minor safety. 
+
+Section 23.1323 Airspeed indicating system. None... Minor safety. 
+
+Section 23.1325 Static pressure system. None... Relieving. 
+
+Section 23.1326 Pitot heat indication system. $2,800 per certification, $1,600 per airplane. Safety. 
+
+Section 23.1329 Automatic pilot system None... Clarifying. 
+
+Section 23.1337 Powerplant instruments installation. Heading and para. (b). None.
+
+para. (b)(4). Negligible. Clarifying, relieving.
+
+Safety. 
+
+Section 23.1351 General... para. (b). None...
+
+para (c)(3). None...
+
+para. (f). None... Administrative.
+
+Clarifying.
+
+Minor safety. 
+
+Section 23.1353 Storage battery design and installation. Where necessary, up to $30 per five years capital, up to $10 per year operating, and $600 per certification. Safety. 
+
+Section 23.1359 Electrical system fire protection. para. (a). None...
+
+para. (b). Negligible.
+
+para. (c). $240 per certification. Clarifying emphasis.
+
+Clarifying.
+
+Safety. 
+
+Section 23.1361 Master switch arrangement. None... Editorial. 
+
+Section 23.1365 Electrical cables and equipment. para. (b). None...
+
+para. (d). $4,400 per certification and $100 per airplane.
+
+para. (e). None...
+
+para. (f). Negligible. Conforming editorial.
+
+Safety.
+
+Minor safety.
+
+Minor safety. 
+
+Section 23.1383 Taxi and landing lights. None... Editorial update. 
+
+Section 23.1401 Anticollision light system. Where necessary, $2,400 per certification and $1,600 per airplane. Safety. 
+
+Section 23.1431 Electronic equipment. para. (c). Where necessary, up to $1,200 per certification and $1,600 per airplane.
+
+para. (d). negligible. 
+
+Included above.
+
+para. (e). None or negligible. Safety.
+
+Minor safety.
+
+Safety. 
+
+Section 23.1435 Hydraulic systems. None... Clarifying. 
+
+Section 23.1447 Equipment standards for oxygen dispensing units. para. (a)(4). Up to $2,000 per airplane.
+
+para.'s (d) and (e). None. Safety.
+
+Minor safety. 
+
+Section 23.1451 Fire protection for oxygen equipment. None... Safety. 
+
+Section 23.1453 Protection of oxygen equipment for rupture. $960 per certification. Safety. 
+
+Section 23.1461 Equipment containing high energy rotors. None... Clarifying. 
+
+Appendix F to Part 23 - Test Procedure. None. Considered above. Minor safety. 
+
+Section 91.205 Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements. None... Safety, considered above. 
+
+Section 91.209 Aircraft lights. $25 per year per airplane Safety, considered above. 
+
+Evaluation of Provisions With Non-Negligible Projected Costs 
+
+This section describes and evaluates those provisions of the rule that are expected to impose costs that are not negligible. 
+
+Section 23.697 Wing Flap Controls 
+
+New Sec. 23.697(c) provides safety standards for the wing flap control lever installed in airplanes that use wing flap settings other than fully retracted when showing compliance with Sec. 23.145. The FAA estimates that an aerospace engineer could design the flap control lever to meet the requirement in 8 hours at a burdened rate of $60 per hour, totaling $480 per certification. The control lever itself would impose an incremental cost, including installation, of approximately $100 per airplane. 
+
+The nominal benefits of this provision will derive from the increased safety afforded the pilot in positively selecting the proper flap setting to maintain longitudinal control. In fact, if a flap position other than fully retracted were needed to maintain longitudinal control: (1) That position would be necessary to prevent an unsafe condition, (2) the airplane would not be certificated under that design, and (3) the airplane would have to be redesigned so that intermediate flap positions would not be needed for control. Paragraph (c) will allow the identification of an intermediate flap position and the positive means of selecting that position. This alternative would rectify the unsafe condition without requiring the manufacturer to redesign the airplane. 
+
+Section 23.703 Takeoff Warning System 
+
+This new section requires that a takeoff warning system on some commuter category airplanes. The requirement will apply if a flight evaluation shows that an unsafe takeoff condition would result when lift devices on longitudinal trim devices are set to any position outside the approved takeoff range. If the evaluation shows that no unsafe condition could result at any setting of these devices, a takeoff warning system will not be required. For those airplanes on which a warning system must be installed, the rule will provide requirements for the installation of the system. 
+
+The FAA estimates that an evaluation to determine whether a takeoff warning system is needed will cost $240 (4 hours of engineering at a burdened rate of $60 per hour). Where needed, the integration design of a warning system will cost $2,400 (40 hours at $60 per hour). In addition, an incremental 4 hours of flight testing at a cost of $2,720 ($500 per hour for two test pilots and $180 per hour for fuel) will be needed to demonstrate the system's performance. The FAA estimates that the system, including acquisition, wiring, micro switches, and labor, will add approximately $1,000 to the cost of each airplane required to have one. Maintenance of such a system will cost approximately $100 per year. 
+
+The nominal benefit of this provision derive from the increased safety provided by the takeoff warning system that would activate whenever lift or longitudinal trim devices are not set within their approved takeoff ranges. If an evaluation showed that positions of the lift or longitudinal trim devices could create an unsafe condition on takeoff, the manufacturer is required, under existing regulations, to redesign the devices so that the unsafe positions could not be obtained. The new section will provide relief by allowing the applicant to install a warning system rather than redesigning the trim device(s). 
+
+Section 23.735 Brakes 
+
+New Sec. 23.735(e), applicable to commuter category airplanes, requires establishing the minimum rejected takeoff brake kinetic energy capacity rating of each main wheel brake assembly. Based on the operating experience of airplanes used in passenger-carrying operations, existing Sec. 23.45 requires the determination of the accelerate-stop distance for commuter category airplanes. New Sec. 23.735 is needed to ensure that the brakes will perform safely under accelerate-stop conditions. 
+
+Under the final rule, manufacturers of commuter airplanes may determine the kinetic energy absorption requirements either through a conservation, rational analysis of the sequence of events expected during a rejected takeoff, or by using the formula in new Sec. 23.735(e)(2). The FAA estimates that the determination will cost $240, based on four hours of engineering at a burdened rate of $60 per hour. The potential benefits of the requirement derive from the added safety that will be provided by establishing beforehand the minimum necessity kinetic energy capacity rating of each main wheel brake assembly under rejected takeoff conditions. 
+
+Section 23.775 Windshields and Windows 
+
+Introductory text and paragraph (h)(1) are added to require that commuter category windshield panes that are directly in front of the pilots be able to withstand the impact of a two pound bird at maximum approach flap speed. By requiring full protection against the strike of a two-pound bird at approach speed, additional protection will also be provided if the airplane strikes a larger bird or strikes a bird at a higher speed. 
+
+New Sec. 23.775(h)(2) further requires the panels of the windshield to be so arranged that, if one is damaged, other panels will remain to provide visibility for continuous safe flight and landing. 
+
+The potential cost of Sec. 23.775(h) will vary depending on circumstances of the affected manufacturer. Industry sources estimate that the total nonrecurring cost per certification will range from $250,000 to $350,000, consisting of: (1) Up to $200,000 for a bird strike test article ("bird gun") if the manufacturer does not have one; and (2) up to $150,000 of time and materials cost for the actual testing. 
+
+A manufacturer that has a bird strike test article will not incur additional capital test costs. Most manufacturers will incur up to $150,000 in time and materials costs for the actual testing, but even these costs could be mitigated by the existing need of most manufacturers to perform such tests for export sales to JAA member countries. 
+
+Industry sources estimate that there will be no identifiable increment in design or tooling costs since the windshield is an integral part of the initial design. Similarly, little or no recurring costs per airplane (incremental materials, installation, or weight) are projected since it is reasonable to assume that the pressure load, as compared to bird strike resistance, will be the controlling factor in windshield design strength. 
+
+The benefit of the revision is the incremental protection against bird strikes that would be afforded to commuter category airplanes. The FAA has reviewed International Civil Aviation Organization (ICAO) data on bird strikes that occurred on member country airplanes weighing 19,000 or fewer pounds from 1981 through 1989. These data shows that approximately 550 strikes occurred and that one out of seven hits the windshield. The data show that: 
+
+1. Almost 52 percent of the strikes occurred at altitudes of less than 100 feet, and 26.7 percent occurred between 101 and 1000 feet. 
+
+2. Eighty-five percent of the strikes occurred at airspeeds of 150 knots or less. 
+
+3. Where bird types were reported, 27.6 percent of strikes involved small birds and 58.6 involved medium size birds (2 pounds or less). 
+
+4. Incidents where the airplane was damaged showed that 16.9 percent resulted from small bird strikes and 64 percent resulted from medium size bird strikes. 
+
+These data show that most bird strikes occur at takeoff and landing airspeeds, and that birds weighing two pounds or less are struck most often. The standards of the final rule are based on these statistics. Few fatalities and injuries resulted from the bird strikes reported in the ICAO data. Similarly, a review of NTSB accident records between 1982 and 1992 revealed no U.S. accidents resulting from bird strikes to the windshields of commuter category airplanes. As a result, the FAA cannot justify this provision solely on the basis of historical accidents. Instead, the standards are based on the expert recommendations of the ARAC. It is also noted that this standard will be applied to JAA certifications and that U.S. manufacturers wishing to export to JAA countries will be required to meet the standard. 
+
+Section 23.783 Doors 
+
+New paragraph (g) requires that the locks on lavatory doors, if installed, be designed so that they will not trap occupants. Lavatory door locks used in transport category airplanes (see Sec. 25.783) meet the requirements of this rule. The FAA estimates that the incremental cost of this provision would be no more than $25 per lock. The rule will reduce the likelihood that occupants would be trapped in a locked lavatory, both in emergency and non-emergency situations. 
+
+Section 23.787 Baggage and Cargo Compartments 
+
+The final rule extends to normal, utility, and acrobatic airplanes the existing commuter requirement to prevent baggage from hazardous shifting. The FAA estimates that an aerospace engineer can analyze the subject loads that would need to be constrained in 1 hour, at a burdened cost of $60 per hour. Tiedowns will cost approximately $50 per baggage compartment, or no more than $100 per airplane. These additional costs apply to normal, utility, and acrobatic airplanes since commuter category airplanes are already subject to the requirement under the existing rule. 
+
+The potential benefits of the provision include the reduced likelihood: (1) That baggage compartments would be overloaded, (2) that stowed baggage would shift dangerously, and (3) that essential co- located equipment or wiring would be damaged. 
+
+Section 23.791 Passenger Information Signs 
+
+This new section requires at least one illuminated sign notifying all passengers when seat belts should be fastened. The requirement will apply only to airplanes where flightcrew members cannot observe occupant seats or where the flightcrew compartment is separated from the passenger compartment. The signs will have to be legible to all seated passengers and to be operable from a crewmember station. 
+
+The FAA estimates that an aerospace engineer could design the required sign in 1 hour, at a burdened rate of $60 per hour. The sign would cost approximately $200 per airplane, including parts and installation. Maintenance costs for bulb replacement will be negligible. The weight penalty associated with the light system would also be minor (no more than 2 pounds). 
+
+The safety benefits of the change will derive from the increased likelihood that passengers will know when their seat belts should be fastened. 
+
+Section 23.807 Emergency Exits 
+
+New Sec. 23.807(a)(4) provides the same hazard protection for a person using an emergency exit as that provided by revised Sec. 23.783(b) for a person who uses a passenger door. Emergency exits will not be allowed to be located with respect to a propeller disk or any other hazard in a manner that will endanger persons using that exit. 
+
+The FAA holds that no incremental cost will be incurred to meet the standards of the provision for newly certificated airplanes. No comments to the NPRM were received on the potential costs and methods of compliance that manufacturers would choose to comply with this requirement. 
+
+Section 23.807(b)(5) revises the current egress requirements for acrobatic airplanes. Section 23.807(b)(6) establishes similar egress standards for utility category airplanes that are certificated for spinning. Industry sources estimate that an aerobatic, quick-release door will cost an incremental $10,000 in engineering design per affected airplane model and an additional $500 per production airplane. Little or no additional weight is expected. These costs will apply only in cases where the manufacturer determines that the marketplace return of a combination type certificate would outweigh the additional costs of design and production. 
+
+Section 23.841 Pressurized Cabins 
+
+The revision to Sec. 23.841(a) extends the cabin pressure requirements of current paragraph (a), which apply to airplanes certificated for operation above 31,000 feet, to airplanes certificated for operation above 25,000 feet. Current part 25, JAR 25, and proposed JAR 23 include the same requirement. This revision is intended to protect airplane occupants if a malfunction occurs at altitudes where symptoms of hypoxia occur, usually above 25,000 feet. 
+
+For airplanes that will be certificated for maximum altitude operation between 25,000 feet and 31,000 feet, the provision requires two additional pressure altitude regulators and associated plumbing. Industry sources estimate that the requirement will cost an incremental $1,000 in engineering design per affected airplane model and $2,000 per production airplane. Any additional weight will be negligible. 
+
+The benefits of the proposal derive from the incremental protection against hypoxia afforded to occupants of airplanes certificated for maximum altitudes between 25,000 and 31,000 feet. Due to the increasing use of turbine engines, more part 23 airplanes are likely to be approved for operation above 25,000 feet. In the absence of this rule, an increasing number of occupants would be exposed to the potential for harm in the event of a failure or malfunction of the pressure system on these airplanes. 
+
+Section 23.855 Cargo and Baggage Compartment Fire Protection 
+
+Paragraph (a) requires all sources of heat within each cargo and baggage compartment that are capable of igniting the compartment contents to be shielded and insulated to prevent such ignition. Existing Sec. 23.787(f) requires that cargo compartment lamps be installed so as to prevent contact between the lamp bulb and cargo. The final rule will clarify and extend this provision to include all sources of heat for baggage as well as cargo compartments. 
+
+Lights and (rarely) heaters for pets are typically the only sources of heat located in a baggage or cargo compartment. A wire cage, costing no more than $20, around the heat source would meet these requirements. The FAA estimates that the total cost of compliance per airplane will be no more than $40 in those rare cases where such protection would not have been provided anyway. The benefit of the proposed provision is a reduction in the possibility of fire caused by the ignition of compartment contents by lights or heaters. 
+
+Paragraph (b) requires cargo and baggage compartments to be constructed of materials that meet the appropriate provisions of Sec. 23.853(d)(3). Currently these requirements apply to commuter category airplanes and to the materials used in the compartments of these airplanes. The new requirement extends this applicability to the cargo and baggage compartments of all part 23 airplanes. In effect, the new requirement requires materials that are self-extinguishing, rather than flame resistant, as currently required under Sec. 23.787(d). 
+
+Information provided by manufacturers shows that materials that meet self-extinguishing flame requirements are available at a slightly higher cost than materials that meet only flame resistant requirements. The FAA conservatively estimates that the incremental costs of complying with Sec. 23.855(b) will be less than $200 per airplane. The safety benefits of this provision will be an increase in cargo and baggage compartment fire protection. 
+
+New paragraph (c) adds new fire protection requirements for cargo and baggage compartments for commuter category airplanes. The rule requires one of the following three alternatives: 
+
+(1) The compartment must be located where pilots seated at their duty station would easily discover the fire, or the compartment must be equipped with a smoke or fire detector system to provide a warning at the pilot's station. The compartment must also be accessible for fire extinguisher application. 
+
+(2) The compartment may be inaccessible, but must be equipped with a fire detector system that provides a warning at the pilot's station, and the compartment must have ceiling and sidewall floor panels constructed of materials that have been subjected to and meet the vertical self-extinguishing tests of appendix F to part 23. 
+
+(3) The compartment must be constructed and sealed to contain any fire. 
+
+The FAA cannot predict the designs of cargo and baggage compartments for future airplanes. If manufacturers choose to use smoke detectors, however, no more than 2 smoke detectors would be required per airplane. An aerospace engineer can design the smoke detector system in approximately 30 hours at a burdened rate of $60 per hour, for a total cost of $1,800 per certification. Two detectors, including wiring and installation, are estimated to cost about $4,550. Maintenance costs for the smoke detectors will cost approximately $100 per year. 
+
+Materials that meet the vertical self-extinguishing tests of appendix F (alternative 2 in the discussion above) will result in incremental costs of less than $200 per airplane. For alternative 3, the FAA estimates that it will cost $500 to construct a sealed compartment, or a total of $1,000 for 2 compartments, if the manufacturer chooses that method of complying with the proposed requirement. 
+
+Irrespective of the individual compliance method, the benefits of the provision will come from the increased likelihood that a cargo or baggage compartment fire could either be extinguished or contained. 
+
+Section 23.1303 Flight and Navigation Instruments 
+
+Revised Sec. 23.1303(d) adds the requirement for a free air temperature indicator for those airplanes whose performance must be based on weight, altitude, and temperature. This requirement already applies to turbine-powered airplanes. The final rule extends the requirement to reciprocating engine-powered airplanes of more than 6,000 pounds. Manufacturers currently include free air temperature indicators as standard equipment on all part 23 airplanes, and would continue to do so in future designs in the absence of the requirement. Since the provision formalizes current practice, any costs would be negligible. Benefits will accrue from the requirement that the information necessary to determine the performance envelope of the airplane be available to the pilot. 
+
+New Sec. 23.1303(g) identifies specific instruments, and the limits of those instruments, required for commuter category airplanes. New Sec. 23.1303(g)(1) states that if airspeed limitations vary with altitude, the airspeed indicators must show the variation of the maximum operating limit speed (V<INF>MO) with altitude. Industry sources indicate that an airspeed indicator with a V<INF>MO "pointer" would cost $1,000 more than one without. Since two airspeed indicators are required on commuter airplanes, the incremental cost of this requirement will be $2,000 per commuter category airplane produced. The potential safety benefit of the requirement derives from the requirement that the information necessary to determine the maximum operating limit speed be available at all altitudes. 
+
+New Sec. 23.1303(g)(3) requires (for commuter category IFR-approved airplanes with passenger seating configurations of 10 or more) a third, independent, attitude indicator (AI). Industry sources estimate that an aerospace engineer can design and document a third attitude instrument system in 100 hours at a burdened rate of $60 per hour, totaling $6,000 per certification. It is estimated that an AI will cost approximately $8,000, including a standby battery, and that the installation will cost $2,200 for 40 hours of a mechanic's time at a burdened rate of $55 per hour. However, Sec. 23.1311(a)(5), discussed below, deletes the requirement for a rate-of-turn indicator when an independent attitude indicator is installed. The costs associated with a rate-of-turn indicator include: 40 hours of design and documentation costs, $1,000 per indicator, and 40 hours of installation. Therefore, the incremental cost for an IFR-approved airplane with a passenger seating capacity of 10 or more will be $3,600 per certification for 60 hours of engineering (100 hours for the AI, minus 40 hours for the rate-of-turn indicator); and $7,000 per airplane for the instrument ($8,000 for the AI, minus $1,000 for the rate-of- turn indicator); and no additional cost for the installation (40 hours for the AI, minus 40 hours for the rate-of-turn indicator). 
+
+The potential safety benefits of a third, independent attitude indicator derive from the reduced potential for erroneous attitude information. Currently, two attitude instruments are required for a ten passenger, IFR-approved commuter category airplane. Service experience has shown that a failure can occur whereby an attitude indicator can appear to be working when it is actually providing incorrect information. During such a failure, pilots may have difficulty determining which instrument to follow, and hazardous flight attitudes may result. A third attitude indicator will allow the crew to retain reliable attitude information even in cases where one instrument is not operating correctly. 
+
+Section 23.1326 Pitot Heat Indication System 
+
+New Sec. 23.1326 requires the installation of a pitot tube heat indicating system on those airplanes required to be equipped with a heated pitot tube. Heated pitot tubes ensure that moisture will not freeze in the tube and block or partially block the airspeed system. 
+
+A pitot heat indicating system, including an in-line current sensor, panel light, and associated wiring, costs approximately $500. According to industry sources, an aerospace engineer can design and document such a system in 20 hours at a burdened rate of $60 per hour, totaling $1,200. A mechanic can install the system in 20 hours at a burdened rate of $55 per hour, totaling $1,100. The estimated non- recurring cost per certification, therefore, will total $2,800 ($1,200 for design, $500 for the certification airplane's indicator, and $1,100 for installation of that indicator). The estimated cost per production airplane will be $1,600 ($500 for the system and $1,100 for 
+
+installation). 
+
+A pitot heat indicating system can advise the pilots of any inoperative heating element in the pitot tube and that subsequent inaccuracies could result. The provision will reduce the likelihood that pilots would rely on inaccurate airspeed information resulting from a blocked or partially blocked pitot tube. 
+
+Section 23.1353 Storage Battery Design and Installation 
+
+New Sec. 23.1353(h) requires that, in the event of a complete loss of the primary electrical power generating system, airplane battery capacity must be sufficient to supply at least 30 minutes of electrical power to those loads essential to the continued safe flight and landing of the airplane. 
+
+In some cases, manufacturers may need to install larger batteries with greater capacities to comply with the requirements. The FAA estimates that the size and capacity of a larger battery will add no more than a few pounds (incremental operating costs of less than $10 per year) and $20 to $30 of additional cost for the battery. 
+
+On some airplanes, a "load shedding" procedure, where the pilot would sequentially turn off certain equipment, could be required either in place of or in addition to a larger battery. The procedure would be provided in the pilot's operating handbook (POH). The FAA estimates that an aerospace engineer can establish a load shedding procedure in 10 hours at a burdened rate of $60 per hour, for a total cost of $600 per affected certification. 
+
+Irrespective of the method of compliance, the provision will increase the likelihood that sufficient electrical power will be available to safely land the airplane in the event of an electrical generating system failure. 
+
+Section 23.1359 Electrical System Fire Protection 
+
+Revised Sec. 23.1359(c) provides burn criteria for electrical wire and cables. A revision to appendix F to part 23 adds appropriate wire testing criteria. Demonstrating and documenting that electrical wires and cables meet the requirements of this provision will take an aerospace engineer approximately 4 hours at a burdened rate of $60 per hour, for a total cost of $240 per certification. The requirement and testing criteria increase the likelihood that necessary wires and cables will continue to function in the event of a fire. 
+
+Section 23.1365 Electrical Cables and Equipment 
+
+Section 23.1365(d) adds a requirement for the identification of electrical cables, terminals, and connectors. Different colored wires and/or tags could be used in conjunction with a wiring diagram to identify the cables, terminals, and connectors. The FAA estimates that a draftsman can design and document this identification system in 80 hours at a burdened rate of $55 per hour, a total of $4,400 per certification. Incremental installation costs will be approximately $100 per airplane. 
+
+The increasing use of electrical systems in part 23 airplanes has added to the difficulty of wiring installation. The requirement for cable identification will increase the likelihood that cables are correctly installed initially and will be correctly reinstalled as part of later maintenance or modification. 
+
+Section 23.1401 Anticollision Light System 
+
+The final rule revises Sec. 13.1401 to require the installation of an anticollision light system on all part 23 airplanes. Existing Sec. 23.1401 requires an anticollision light system only if certification for night operations is requested. Many manufacturers currently install anticollision light systems on all airplanes they produce. 
+
+Industry sources estimate that an aerospace engineer can design and document an anticollision light system in 40 hours at a burdened rate of $60 per hour, for a total of $2,400 per affected certification. The system will cost $500 and will take a mechanic approximately 20 hours to install at a burdened rate of $55 per hour, a total of $1,600 per affected airplane ($500 + (20 hours x $55 per hour) = $1,600). The weight penalty will be negligible. Only those future models that would not otherwise have anticollision light systems will actually incur incremental costs as a result of this provision. 
+
+The increasing speeds resulting from improved technology, especially turbine engines, warrant the use of anticollision lights for day operations as well as night. The reports of midair collisions for 1984 through 1990 document that 269 aircraft were involved in midair collisions in which 108 fatalities occurred. After data were filtered (to account for night operations, IFR conditions, and aircraft not affected by this rule), 167 airplanes were involved in collisions that occurred in daytime VFR conditions. The reports do not reveal whether the airplanes were using anticollision lights at the time of the accidents. 
+
+The FAA holds that requiring the installation of anticollision lights on all newly certificated airplanes, and requiring their use during day operations (revised Sec. 91.209), will reduce the number of daylight midair accidents. Even if the requirement were only 25 percent effective, the accident history indicates that approximately 17 fatalities could be avoided during a similar 6-year period. 
+
+Section 23.1431 Electronic Equipment 
+
+The final rule adds three new paragraphs to Sec. 23.1431. New paragraph (c) states that airplanes required to be operated by more than one flightcrew member must be evaluated to determine if the flightcrew members, when they are seated at their duty stations, can converse without difficulty under the actual cockpit noise conditions when the airplane is being operated. If the required evaluation shows that the noise level does not impair conversation, no further action would be required. If the evaluation shows that conversation would be difficult, however, an intercommunication system will be required. 
+
+The FAA estimates that an evaluation of cockpit noise could be conducted in conjunction with other certification testing, therefore, no incremental costs are associated with the evaluation. An aerospace engineer could design an intercom system in 20 hours at a burdened rate of $60 per hour, for a total of $1,200 per affected certification. The FAA estimates that the addition of an intercom system will cost approximately $500 per airplane. A mechanic could install the system in approximately 20 hours at a burdened rate of $55 per hour. The total incremental production cost for an affected airplane, therefore, will be $1,600 ($500 + (20 hours x $55 per hour)). 
+
+New paragraph (d) requires that, if the communication equipment that is installed includes any means of switching from the receive mode to the transmit mode, the equipment must use "off-on" transmitter switching that turns the transmitter off when it is not being used. The cost of this feature is included in the $500 cost of the intercom, described above. 
+
+NTSB investigations of at least two commuter accidents determined that excessive cockpit noise levels probably adversely affected the ability of the flight crews to communicate. (Bar Harbor Airlines, Flight 1808, August 25, 1985, 8 fatalities; and Henson Airlines, Flight 1517, September 23, 1985, 14 fatalities.) As a result, the Board recommended (Recommendation No. A-86-113) that the FAA require the installation and use of crew interphone systems in the cockpit of airplanes operating under part 135. The benefit of the new requirement derives from the increased likelihood that flightcrew members will be able to converse without difficulty and that the safety hazard of miscommunication will be reduced. 
+
+Section 23.1447 Equipment Standards for Oxygen Dispensing Units 
+
+New Sec. 23.1447(a)(4) requires that if radio equipment is installed in an airplane, flightcrew oxygen dispensing units must be designed to allow use of the communication equipment when oxygen is being used. 
+
+Industry sources estimate that an oxygen mask with an integral microphone costs $1,000 more than an oxygen mask without a microphone. The costs per affected airplane, therefore, will be $2,000 for two masks. The benefit of the requirement is that it will allow flightcrew communication under all operating conditions, including operations when oxygen is required. 
+
+Section 23.1453 Protection of Oxygen Equipment From Rupture 
+
+This new section clarifies the rupture protection needed for oxygen system installation. Rupture protection for oxygen systems is currently required by the application of the structures load requirements of part 23. The addition of Sec. 23.1453(a) clarifies the application of these load requirements and identifies the need to consider maximum temperatures and pressures that may be present. Section 23.1453(b) identifies the protection to be provided for oxygen pressure sources and the lines that connect these sources to the oxygen system shutoff valves. 
+
+Industry sources estimate that an aerospace engineer could analyze and document the loads on each element of the oxygen system in 16 hours at a burdened rate of $60 per hour, for a total cost of $960. The routing of oxygen pressure sources and lines to protect them from unsafe temperatures and crash landings would be part of an airplane's basic design and will not impose incremental costs. 
+
+Section 91.209 Aircraft Lights 
+
+New Sec. 91.209(b) requires airplanes equipped with an anticollision light system to perate those lights during all operations, including daytime VFR. 
+
+The incremental cost of this provision consists of light bulb replacement. The FAA estimates that a light bulb for an anticollision light system costs approximately $50 and that this provision would necessitate an incremental bulb replacement every two years. Accordingly, the cost is projected to equal $25 per year, per affected operating airplane. The FAA holds that any grounding of an airplane due to a faulty bulb or light system will be rare and quickly corrected. The cost of such grounding will be negligible, when compared with the safety benefits of operating anticollision light systems. 
+
+In summary, the FAA holds that the benefits of the rule, though not directly quantifiable, will exceed the expected costs. Each of the provisions, as well as the entire final rule, will be cost beneficial. 
+
+Regulatory Flexibility Determination 
+
+The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress to ensure that small entities are not unnecessarily or disproportionately burdened by Government regulations. The RFA requires a Regulatory Flexibility Analysis if a proposed or final rule would have a significant economic impact, either detrimental or beneficial, on a substantial number of small entities. FAA Order 2100.14A, Regulatory Flexibility Criteria and Guidance, establishes threshold cost values and small entity size standards for complying with RFA review requirements in FAA rulemaking actions. The Order defines "small entities" in terms of thresholds, "significant economic impact" in terms of annualized costs thresholds, and "substantial number" as a number which is not less than eleven and which is more than one-third of the small entities subject to the proposed or final rule. 
+
+Order 2100.14A specifies a size threshold for classification as a small manufacturer as 75 or fewer employees. There are approximately 8 small part 23 airplane manufacturers. The annualized cost threshold for significant impact, expressed in 1995 dollars, is $18,700. No part 23 airplane manufacturer's annualized cost will exceed this cost threshold. 
+
+Order 2100.14A specifies a size threshold for classification as a small operator as 9 aircraft owned. The annualized cost threshold for significant impact, expressed in 1995 dollars, are $67,000 for air carriers whose fleet has a seating capacity of fewer than 60 and $4,700 for an unscheduled operator. No part 23 airplane operator's annualized cost will exceed this cost threshold. 
+
+The amendments in the final rule, therefore, will not have a significant economic impact on a substantial number of small entities. 
+
+Trade Impact Assessment 
+
+The rule will not constitute a barrier to international trade, including the export of U.S. airplanes to foreign countries and the import of foreign airplanes into the United States. Instead, the systems airworthiness standards have been harmonized with those of the Joint Aviation Authorities and will result in cost savings to manufacturers in the United States and in JAA member countries. 
+
+Federalism Implications 
+
+The regulations adopted herein do not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment. 
+
+Conclusion 
+
+The FAA is revising the airworthiness standards to provide systems and equipment standards for normal, utility, acrobatic, and commuter category airplanes that are substantively the same as the standards that will be proposed for the same category airplanes by the Joint Aviation Authorities in Europe. The revision will reduce the regulatory burden on the United States and European airplane manufacturers by relieving them of the need to show compliance with different standards each time they seek certification approval of an airplane in the United States or in a country that is a member of the JAA. 
+
+For the reasons discussed in the preamble, and based on the findings in the Regulatory Evaluation, the FAA has determined that this regulation is significant under Executive Order 12866. In addition, the FAA certifies that this regulation, will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. This final rule is considered significant under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). A regulatory evaluation of the rule has been placed in the docket. A copy may be obtained by contacting the person identified under FOR FURTHER INFORMATION CONTACT. 
+
+List of Subjects 
+
+14 CFR Part 23 
+
+Aircraft, Aviation safety, Signs and symbols. 
+
+14 CFR Part 91 
+
+Aircraft, Aviation safety, Safety. 
+
+ 
+        
+REGULATORY TEXT: The Amendment 
+
+In consideration of the foregoing, the Federal Aviation Administration amends 14 CFR parts 23 and 91 as follows: 
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES. 
+
+1. The authority citation for part 23 continues to read as follows: 
+
+Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704. 
+
+2. Section 23.677(a) is revised to read as follows: 
+
+Sec. 23.677 Trim systems. 
+
+(a) Proper precautions must be taken to prevent inadvertent, improper, or abrupt trim tab operation. There must be means near the trim control to indicate to the pilot the direction of trim control movement relative to airplane motion. In addition, there must be means to indicate to the pilot the position of the trim device with respect to both the range of adjustment and, in the case of lateral and directional trim, the neutral position. This means must be visible to the pilot and must be located and designed to prevent confusion. The pitch trim indicator must be clearly marked with a position or range within which it has been demonstrated that take-off is safe for all center of gravity positions and each flap position approved for takeoff. 
+
+* * * * *
+
+3. A new Sec. 23.691 is added to read as follows: 
+
+Sec. 23.691 Artificial stall barrier system. 
+
+If the function of an artificial stall barrier, for example, stick pusher, is used to show compliance with Sec. 23.201(c), the system must comply with the following: 
+
+(a) With the system adjusted for operation, the plus and minus airspeeds at which downward pitching control will be provided must be established. 
+
+(b) Considering the plus and minus airspeed tolerances established by paragraph (a) of this section, an airspeed must be selected for the activation of the downward pitching control that provides a safe margin above any airspeed at which any unsatisfactory stall characteristics occur. 
+
+(c) In addition to the stall warning required Sec. 23.07, a warning that is clearly distinguishable to the pilot under all expected flight conditions without requiring the pilot's attention, must be provided for faults that would prevent the system from providing the required pitching motion. 
+
+(d) Each system must be designed so that the artificial stall barrier can be quickly and positively disengaged by the pilots to prevent unwanted downward pitching of the airplane by a quick release (emergency) control that meets the requirements of Sec. 23.1329(b). 
+
+(e) A preflight check of the complete system must be established and the procedure for this check made available in the Airplane Flight Manual (AFM). Preflight checks that are critical to the safety of the airplane must be included in the limitations section of the AFM. 
+
+(f) For those airplanes whose design includes an autopilot system: 
+
+(1) A quick release (emergency) control installed in accordance with Sec. 23.1329(b) may be used to meet the requirements of paragraph (d), of this section, and 
+
+(2) The pitch servo for that system may be used to provide the stall downward pitching motion. 
+
+(g) In showing compliance with Sec. 23.1309, the system must be evaluated to determine the effect that any announced or unannounced failure may have on the continued safe flight and landing of the airplane or the ability of the crew to cope with any adverse conditions that may result from such failures. This evaluation must consider the hazards that would result from the airplane's flight characteristics if the system was not provided, and the hazard that may result from unwanted downward pitching motion, which could result from a failure at airspeeds above the selected stall speed. 
+
+4. Section 23.697(c) is added to read as follows: 
+
+Sec. 23.697 Wing flap controls 
+
+* * * * *
+
+(c) If compliance with Sec. 23.145(b)(3) necessitates wing flap retraction to positions that are not fully retracted, the wing flap control lever settings corresponding to those positions must be positively located such that a definite change of direction of movement of the lever is necessary to select settings beyond those settings. 
+
+5. Section 23.701 is amended by revising paragraphs (a)(1) and (a)(2) to read as follows: 
+
+Sec. 23.701 Flap interconnection. 
+
+(a) * * * 
+
+(1) Be synchronized by a mechanical interconnection between the movable flap surfaces that is independent of the flap drive system; or by an approved equivalent means; or 
+
+(2) Be designed so that the occurrence of any failure of the flap system that would result in an unsafe flight characteristic of the airplane is extremely improbable; or 
+
+* * * * *
+
+6. A new Sec. 23.703 is added to read as follows: 
+
+Sec. 23.703 Takeoff warning system. 
+
+For commuter category airplanes, unless it can be shown that a lift or longitudinal trim device that affects the takeoff performance of the aircraft would not give an unsafe takeoff configuration when selection out of an approved takeoff position, a takeoff warning system must be installed and meet the following requirements: 
+
+(a) The system must provide to the pilots an aural warning that is automatically activated during the initial portion of the takeoff role if the airplane is in a configuration that would not allow a safe takeoff. The warning must continue until-- 
+
+(1) The configuration is changed to allow safe takeoff, or 
+
+(2) Action is taken by the pilot to abandon the takeoff roll. 
+
+(b) The means used to activate the system must function properly for all authorized takeoff power settings and procedures and throughout the ranges of takeoff weights, altitudes, and temperatures for which certification is requested. 
+
+Sec. 23.723 [Amended] 
+
+7. Section 23.723(b) is amended by changing the word "reserved" to "reserve". 
+
+8. Section 23.729 is amended by revising paragraph (e) and by adding a new paragraph (g) to read as follows: 
+
+Sec. 23.729 Landing gear extension and retraction system. 
+
+* * * * *
+
+(e) Position indicator. If a retractable landing gear is used, there must be a landing gear position indicator (as well as necessary switches to actuate the indicator) or other means to inform the pilot that each gear is secured in the extended (or retracted) position. If switches are used, they must be located and coupled to the landing gear mechanical system in a manner that prevents an erroneous indication of either "down and locked" if each gear is not in the fully extended position, or "up and locked" if each landing gear is not in the fully retracted position. 
+
+* * * * *
+
+(g) Equipment located in the landing gear bay. If the landing gear bay is used as the location for equipment other than the landing gear, that equipment must be designed and installed to minimize damage from items such as a tire burst, or rocks, water, and slush that may enter the landing gear bay. 
+
+9. Section 23.735 is amended by redesignating paragraph (c) as paragraph (d), by revising the introductory text of paragraph (a), and by adding new paragraphs (c) and (e) to read as follows: 
+
+Sec. 23.735 Brakes. 
+
+(a) Brakes must be provided. The landing brake kinetic energy capacity rating of each main wheel brake assembly must not be less than the kinetic energy absorption requirements determined under either of the following methods: 
+
+* * * * *
+
+(c) During the landing distance determination required by Sec. 23.75, the pressure on the wheel braking system must not exceed the pressure specified by the brake manufacturer. 
+
+* * * * *
+
+(e) In addition, for commuter category airplanes, the rejected takeoff brake kinetic energy capacity rating of each main wheel brake assembly must not be less than the kinetic energy absorption requirements determined under either of the following methods-- 
+
+(1) The brake kinetic energy absorption requirements must be based on a conservative rational analysis of the sequence of events expected during a rejected takeoff at the design takeoff weight. 
+
+(2) Instead of a rational analysis, the kinetic energy absorption requirements for each main wheel brake assembly may be derived from the following formula - KE=0.0443 WV\2\N where, KE=Kinetic energy per wheel (ft.-lbs.); W=Design takeoff weight (lbs.); V=Ground speed, in knots, associated with the maximum value of V<INF>1 selected in accordance with Sec. 23.51(c)(1); N=Number of main wheels with brakes. 
+
+10. A new Sec. 23.745 is added to read as follows: 
+
+Sec. 23.745 Nose/tail wheel steering. 
+
+(a) If nose/tail wheel steering is installed, it must be demonstrated that its use does not require exceptional pilot skill during takeoff and landing, in crosswinds, or in the event of an engine failure; or its use must be limited to low speed maneuvering. 
+
+(b) Movement of the pilot's steering control must not interfere with the retraction or extension of the landing gear. 
+
+11. Section 23.775 is amended by revising paragraphs (a) and (c); by redesignating paragraphs (d) and (e) as paragraphs (e) and (d); by revising the newly designated paragraph (e); and by adding a new paragraph (h) to read as follows: 
+
+Sec. 23.775 Windshields and windows. 
+
+(a) The internal panels of windshields and windows must be constructed of a nonsplintering material, such as nonsplintering safety glass. 
+
+* * * * *
+
+(c) On pressurized airplanes, if certification for operation up to and including 25,000 feet is requested, an enclosure canopy including a representative part of the installation must be subjected to special tests to account for the combined effects of continuous and cyclic pressurization loadings and flight loads, or compliance with the fail- safe requirements of paragraph (d) of this section must be shown. 
+
+* * * * *
+
+(e) The windshield and side windows forward of the pilot's back when the pilot is seated in the normal flight position must have a luminous transmittance value of not less than 70 percent. 
+
+* * * * *
+
+(h) In addition, for commuter category airplanes, the following applies: 
+
+(1) Windshield panes directly in front of the pilots in the normal conduct of their duties, and the supporting structures for these panes, must withstand, without penetration, the impact of a two-pound bird when the velocity of the airplane (relative to the bird along the airplane's flight path) is equal to the airplane's maximum approach flap speed. 
+
+(2) The windshield panels in front of the pilots must be arranged so that, assuming the loss of vision through any one panel, one or more panels remain available for use by a pilot seated at a pilot station to permit continued safe flight and landing. 
+
+12. Section 23.783 is amended by revising paragraph (b) and by adding a new paragraph (g) to read as follows: 
+
+Sec. 23.783 Doors. 
+
+* * * * *
+
+(b) Passenger doors must not be located with respect to any propeller disk or any other potential hazard so as to endanger persons using the door. 
+
+* * * * *
+
+(g) If lavatory doors are installed, they must be designed to preclude an occupant from becoming trapped inside the lavatory. If a locking mechanism is installed, it must be capable of being unlocked from outside of the lavatory. 
+
+13. Section 23.785 is amended by adding introductory text and by revising paragraphs (b) and (c) to read as follows: 
+
+Sec. 23.785 Seats, berths, litters, safety belts and shoulder harnesses. 
+
+There must be a seat or berth for each occupant that meets the following: 
+
+* * * * *
+
+(b) Each forward-facing or aft-facing seat/restraint system in normal, utility, or acrobatic category airplanes must consist of a seat, a safety belt, and a shoulder harness, with a metal-to-metal latching device, that are designed to provide the occupant protection provisions required in Sec. 23.562. Other seat orientations must provide the same level of occupant protection as a forward-facing or aft-facing seat with a safety belt and a shoulder harness, and must provide the protection provisions of Sec. 23.562. 
+
+(c) For commuter category airplanes, each seat and the supporting structure must be designed for occupants weighing at least 170 pounds when subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2) of this part. Each occupant must be protected from serious head injury when subjected to the inertia loads resulting from these load factors by a safety belt and shoulder harness, with a metal-to-metal latching device, for the front seats and a safety belt, or a safety belt and shoulder harness, with a metal-to-metal latching device, for each seat other than the front seats. 
+
+* * * * *
+
+14. Section 23.787 is revised to read as follows: 
+
+Sec. 23.787 Baggage and cargo compartments. 
+
+(a) Each baggage and cargo compartment must: 
+
+(1) Be designed for its placarded maximum weight of contents and for the critical load distributions at the appropriate maximum load factors corresponding to the flight and ground load conditions of this part. 
+
+(2) Have means to prevent the contents of any compartment from becoming a hazard by shifting, and to protect any controls, wiring, lines, equipment or accessories whose damage or failure would affect safe operations. 
+
+(3) Have a means to protect occupants from injury by the contents of any compartment, located aft of the occupants and separated by structure, when the ultimate forward inertial load factor is 9g and assuming the maximum allowed baggage or cargo weight for the compartment. 
+
+(b) Designs that provide for baggage or cargo to be carried in the same compartment as passengers must have a means to protect the occupants from injury when the baggage or cargo is subjected to the inertial loads resulting from the ultimate static load factors of Sec. 23.561(b)(3), assuming the maximum allowed baggage or cargo weight for the compartment. 
+
+(c) For airplanes that are used only for the carriage of cargo, the flightcrew emergency exits must meet the requirements of Sec. 23.807 under any cargo loading conditions. 
+
+15. A new Sec. 23.791 is added to read as follows: 
+
+Sec. 23.791 Passenger information signs. 
+
+For those airplanes in which the flightcrew members cannot observe the other occupants' seats or where the flightcrew members' compartment is separated from the passenger compartment, there must be at least one illuminated sign (using either letters or symbols) notifying all passengers when seat belts should be fastened. Signs that notify when seat belts should be fastened must: 
+
+(a) When illuminated, be legible to each person seated in the passenger compartment under all probable lighting conditions; and 
+
+(b) Be installed so that a flightcrew member can, when seated at the flightcrew member's station, turn the illumination on and off. 
+
+16. Section 23.807 is amended by revising paragraphs (b) introductory text and (b)(5) and by adding new paragraphs (a)(4) and (b)(6) to read as follows: 
+
+Sec. 23.807 Emergency exits. 
+
+(a) * * * 
+
+(4) Emergency exits must not be located with respect to any propeller disk or any other potential hazard so as to endanger persons using that exit. 
+
+(b) Type and operation. Emergency exits must be movable windows, panels, canopies, or external doors, openable from both inside and outside the airplane, that provide a clear and unobstructed opening large enough to admit a 19-by-26-inch ellipse. Auxiliary locking devices used to secure the airplane must be designed to be overridden by the normal internal opening means. The inside handles of emergency exits that open outward must be adequately protected against inadvertent operation. In addition, each emergency exit must-- 
+
+* * * * *
+
+(5) In the case of acrobatic category airplanes, allow each occupant to abandon the airplane at any speed between V<INF>SO and V<INF>D; and 
+
+(6) In the case of utility category airplanes certificated for spinning, allow each occupant to abandon the airplane at the highest speed likely to be achieved in the maneuver for which the airplane is certificated. 
+
+* * * * *
+
+Sec. 23.841 [Amended] 
+
+17. Section 23.841 is amended in paragraph (a) by removing the number "31,000" and replacing it with "25,000". 
+
+18. Section 23.853 is amended by revising the section heading to read as follows: 
+
+Sec. 23.853 Passenger and crew compartment interiors. 
+
+* * * * *
+
+19. A new Sec. 23.855 is added to read as follows: 
+
+Sec. 23.855 Cargo and baggage compartment fire protection. 
+
+(a) Sources of heat within each cargo and baggage compartment that are capable of igniting the compartment contents must be shielded and insulated to prevent such ignition. 
+
+(b) Each cargo and baggage compartment must be constructed of materials that meet the appropriate provisions of Sec. 23.853(d)(3). 
+
+(c) In addition, for commuter category airplanes, each cargo and baggage compartment must: 
+
+(1) Be located where the presence of a fire would be easily discovered by the pilots when seated at their duty station, or it must be equipped with a smoke or fire detector system to give a warning at the pilots' station, and provide sufficient access to enable a pilot to effectively reach any part of the compartment with the contents of a hand held fire extinguisher, or 
+
+(2) Be equipped with a smoke or fire detector system to give a warning at the pilots' station and have ceiling and sidewall liners and floor panels constructed of materials that have been subjected to and meet the 45 degree angle test of Appendix F of this part. The flame may not penetrate (pass through) the material during application of the flame or subsequent to its removal. The average flame time after removal of the flame source may not exceed 15 seconds, and the average glow time may not exceed 10 seconds. The compartment must be constructed to provide fire protection that is not less than that required of its individual panels; or 
+
+(3) Be constructed and sealed to contain any fire within the compartment. 
+
+20. Section 23.867 is amended by revising the heading that precedes the section and the section heading to read as follows: 
+
+Electrical Bonding and Lighting Protection 
+
+Sec. 23.867 Electrical bonding and protection against lightning and static electricity. 
+
+* * * * *
+
+21. Section 23.1303 is amended by revising the introductory text; by amending paragraph (d) by inserting the words "reciprocating engine-powered airplanes of more than 6,000 pounds maximum weight and" between the words "For" and "turbine"; by amending paragraph (e) concluding text by adding a line to read, "The lower limit of the warning device must be set to minimize nuisance warning;" at the end of the paragraph and by adding new paragraphs (f) and (g) to read as follows: 
+
+Sec. 23.1303 Flight and navigation instruments. 
+
+The following are the minimum required flight and navigation instruments: 
+
+* * * * *
+
+(f) When an attitude display is installed, the instrument design must not provide any means, accessible to the flightcrew, of adjusting the relative positions of the attitude reference symbol and the horizon line beyond that necessary for parallax correction. 
+
+(g) In addition, for commuter category airplanes: 
+
+(1) If airspeed limitations vary with altitude, the airspeed indicator must have a maximum allowable airspeed indicator showing the variation of V<INF>MO with altitude. 
+
+(2) The altimeter must be a sensitive type. 
+
+(3) Having a passenger seating configuration of 10 or more, excluding the pilot's seats and that are approved for IFR operations, a third attitude instrument must be provided that: 
+
+(i) Is powered from a source independent of the electrical generating system; 
+
+(ii) Continues reliable operation for a minimum of 30 minutes after total failure of the electrical generating system; 
+
+(iii) Operates independently of any other attitude indicating system; 
+
+(iv) Is operative without selection after total failure of the electrical generating system; 
+
+(v) Is located on the instrument panel in a position acceptable to the Administrator that will make it plainly visible to and usable by any pilot at the pilot's station; and 
+
+(vi) Is appropriately lighted during all phases of operation. 
+
+Sec. 23.1307 [Amended] 
+
+22. Section 23.1307 is amended by removing paragraphs (a) and (b); and by removing the designation from paragraph (c). 
+
+23. Section 23.1309(a)(4) is added to read as follows: 
+
+Sec. 23.1309 Equipment, systems, and installations. 
+
+(a) * * * 
+
+(4) In a commuter category airplane, must be designed to safeguard against hazards to the airplane in the event of their malfunction or failure. 
+
+* * * * *
+
+24. Section 23.1311 is revised to read as follows: 
+
+Sec. 23.1311 Electronic display instrument systems. 
+
+(a) Electronic display indicators, including those with features that make isolation and independence between powerplant instrument systems impractical, must: 
+
+(1) Meet the arrangement and visibility requirements of Sec. 23.1321. 
+
+(2) Be easily legible under all lighting conditions encountered in the cockpit, including direct sunlight, considering the expected electronic display brightness level at the end of an electronic display indictor's useful life. Specific limitations on display system useful life must be contained in the Instructions for Continued Airworthiness required by Sec. 23.1529. 
+
+(3) Not inhibit the primary display of attitude, airspeed, altitude, or powerplant parameters needed by any pilot to set power within established limitations, in any normal mode of operation. 
+
+(4) Not inhibit the primary display of engine parameters needed by any pilot to properly set or monitor powerplant limitations during the engine starting mode of operation. 
+
+(5) Have an independent magnetic direction indicator and either an independent secondary mechanical altimeter, airspeed indicator, and attitude instrument or individual electronic display indicators for the altitude, airspeed, and attitude that are independent from the airplane's primary electrical power system. These secondary instruments may be installed in panel positions that are displaced from the primary positions specified by Sec. 23.1321(d), but must be located where they meet the pilot's visibility requirements of Sec. 23.1321(a). 
+
+(6) Incorporate sensory cues for the pilot that are equivalent to those in the instrument being replaced by the electronic display indicators. 
+
+(7) Incorporate visual displays of instrument markings, required by Secs. 23.1541 through 23.1553, or visual displays that alert the pilot to abnormal operational values or approaches to established limitation values, for each parameter required to be displayed by this part. 
+
+(b) The electronic display indicators, including their systems and installations, and considering other airplane systems, must be designed so that one display of information essential for continued safe flight and landing will remain available to the crew, without need for immediate action by any pilot for continued safe operation, after any single failure or probable combination of failures. 
+
+(c) As used in this section, "instrument" includes devices that are physically contained in one unit, and devices that are composed of two or more physically separate units or components connected together (such as a remote indicating gyroscopic direction indicator that includes a magnetic sensing element, a gyroscopic unit, an amplifier, and an indicator connected together). As used in this section, "primary" display refers to the display of a parameter that is located in the instrument panel such that the pilot looks at it first when wanting to view that parameter. 
+
+Sec. 23.1321 [Amended] 
+
+25. Section 23.1321 is amended by removing the words "certificated for flight under instrument flight rules or of more than 6,000 pounds maximum weight" from paragraph (d) introductory text. 
+
+26. Section 23.1323 is amended by removing paragraph (d); redesignating paragraph (e) as (d) and paragraph (c) as (e); by removing the words "in flight and" from the first sentence of redesignated paragraph (e); and by adding new paragraphs (c) and (f) to read as follows: 
+
+Sec. 23.1323 Airspeed indicating system. 
+
+* * * * *
+
+(c) The design and installation of each airspeed indicating system must provide positive drainage of moisture from the pitot static plumbing. 
+
+* * * * *
+
+(f) For commuter category airplanes, where duplicate airspeed indicators are required, their respective pitot tubes must be far enough apart to avoid damage to both tubes in a collision with a bird. 
+
+Sec. 23.1325 [Amended] 
+
+27. Section 23.1325 is amended by inserting the words "or icing" between the words "meteorological" and "conditions" in paragraph (g). 
+
+28. A new Sec. 23.1326 is added to read as follows: 
+
+Sec. 23.1326 Pitot heat indication systems. 
+
+If a flight instrument pitot heating system is installed to meet the requirements specified in Sec. 23.1323(d), an indication system must be provided to indicate to the flight crew when that pitot heating system is not operating. The indication system must comply with the following requirements: 
+
+(a) The indication provided must incorporate an amber light that is in clear view of a flightcrew member. 
+
+(b) The indication provided must be designed to alert the flight crew if either of the following conditions exist: 
+
+(1) The pitot heating system is switched "off." 
+
+(2) The pitot heating system is switched "on" and any pitot tube heating element is inoperative. 
+
+Sec. 23.1329 [Amended] 
+
+29. Section 23.1329(b) is amended by adding the parenthetical phrase "(both stick controls, if the airplane can be operated from either pilot seat)" between the words, "or on the stick control," and the word "such". 
+
+30. Section 23.1337 is amended by revising the section heading, by revising the introductory text of paragraph (b), by redesignating paragraphs (b)(4) and (b)(5) as paragraph (b)(5) and (b)(6), respectively, and by adding a new paragraph (b)(4) to read as follows: 
+
+Sec. 23.1337 Powerplant instruments installation. 
+
+* * * * *
+
+(b) Fuel quantity indication. There must be a means to indicate to the flightcrew members the quantity of usable fuel in each tank during flight. An indicator calibrated in appropriate units and clearly marked to indicate those units must be used. In addition: 
+
+* * * * *
+
+(4) There must be a means to indicate the amount of usable fuel in each tank when the airplane is on the ground (such as by a stick gauge); 
+
+* * * * *
+
+31. Section 23.1351 is amended by removing paragraph (b)(4), by redesignating paragraph (b)(5) as (b)(4), by adding a sentence to the end of paragraph (f) that reads, "The external power connection must be located so that its use will not result in a hazard to the airplane or ground personnel", and by revising paragraphs (b)(2), (b)(3), and (c)(3) to read as follows: 
+
+Sec. 23.1351 General. 
+
+* * * * *
+
+(b) * * * 
+
+(2) Electric power sources must function properly when connected in combination or independently. 
+
+(3) No failure or malfunction of any electric power source may impair the ability of any remaining source to supply load circuits essential for safe operation. 
+
+* * * * *
+
+(c) * * * 
+
+(3) Automatic means must be provided to prevent damage to any generator/alternator and adverse effects on the airplane electrical system due to reverse current. A means must also be provided to disconnect each generator/alternator from the battery and other generators/alternators. 
+
+* * * * *
+
+32. Section 23.1353(h) is added to read as follows: 
+
+Sec. 23.1353 Storage battery design and installation. 
+
+* * * * *
+
+(h) In the event of a complete loss of the primary electrical power generating system, the battery must be capable of providing at least 30 
+
+minutes of electrical power to those loads that are essential to continued safe flight and landing. The 30 minute time period includes the time needed for the pilots to recognize the loss of generated power and take appropriate load shedding action. 
+
+33. A new Sec. 23.1359 is added to read as follows: 
+
+Sec. 23.1359 Electrical system fire protection. 
+
+(a) Each component of the electrical system must meet the applicable fire protection requirements of Secs. 23.863 and 23.1182. 
+
+(b) Electrical cables, terminals, and equipment in designated fire zones that are used during emergency procedures must be fire-resistant. 
+
+(c) Insulation on electrical wire and electrical cable must be self-extinguishing when tested at an angle of 60 degrees in accordance with the applicable portions of Appendix F of this part, or other approved equivalent methods. The average burn length must not exceed 3 inches (76 mm) and the average flame time after removal of the flame source must not exceed 30 seconds. Drippings from the test specimen must not continue to flame for more than an average of 3 seconds after falling. 
+
+Sec. 23.1361 [Amended] 
+
+34. Section 23.1361(c) is amended by removing the last two words "in flight". 
+
+35. Section 23.1365 is amended by revising paragraph (b) and by adding new paragraphs (d), (e), and (f) to read as follows: 
+
+Sec. 23.1365 Electrical cables and equipment. 
+
+* * * * *
+
+(b) Any equipment that is associated with any electrical cable installation and that would overheat in the event of circuit overload or fault must be flame resistant. That equipment and the electrical cables must not emit dangerous quantities of toxic fumes. 
+
+* * * * *
+
+(d) Means of identification must be provided for electrical cables, terminals, and connectors. 
+
+(e) Electrical cables must be installed such that the risk of mechanical damage and/or damage cased by fluids vapors, or sources of heat, is minimized. 
+
+(f) Where a cable cannot be protected by a circuit protection device or other overload protection, it must not cause a fire hazard under fault conditions. 
+
+36. Section 23.1383 is revised to read as follows: 
+
+Sec. 23.1383 Taxi and landing lights. 
+
+Each taxi and landing light must be designed and installed so that: 
+
+(a) No dangerous glare is visible to the pilots. 
+
+(b) The pilot is not seriously affected by halation. 
+
+(c) It provides enough light for night operations. 
+
+(d) It does not cause a fire hazard in any configuration. 
+
+37. Section 23.1401 is amended by revising the introductory text of paragraph (a) to read as follows: 
+
+Sec. 23.1401 Anticollision light system. 
+
+(a) General. The airplane must have an anticollision light system that: 
+
+* * * * *
+
+Sec. 23.1413 [Amended] 
+
+38. Section 23.1413 is removed. 
+
+39. Section 23.1431 is amended by adding new paragraphs (c), (d), and (e) to read as follows: 
+
+Sec. 23.1431 Electronic equipment. 
+
+* * * * *
+
+(c) For those airplanes required to have more than one flightcrew member, or whose operation will require more than one flightcrew member, the cockpit must be evaluated to determine if the flightcrew members, when seated at their duty station, can converse without difficulty under the actual cockpit noise conditions when the airplane is being operated. If the airplane design includes provision for the use of communication headsets, the evaluation must also consider conditions where headsets are being used. If the evaluation shows conditions under which it will be difficult to converse, an intercommunication system must be provided. 
+
+(d) If installed communication equipment includes transmitter "off-on" switching, that switching means must be designed to return from the "transmit" to the "off" position when it is released and ensure that the transmitter will return to the off (non transmitting) state. 
+
+(e) If provisions for the use of communication headsets are provided, it must be demonstrated that the flightcrew members will receive all aural warnings under the actual cockpit noise conditions when the airplane is being operated when any headset is being used. 
+
+40. Section 23.1435(c) is revised to read as follows: 
+
+Sec. 23.1435 Hydraulic systems. 
+
+* * * * *
+
+(c) Accumulators. A hydraulic accumulator or reservoir may be installed on the engine side of any firewall if-- 
+
+(1) It is an integral part of an engine or propeller system, or 
+
+(2) The reservoir is nonpressurized and the total capacity of all such nonpressurized reservoirs is one quart or less. 
+
+41. Section 23.1447 is amended by revising paragraphs (d) and (e) and by adding a new paragraph (a)(4) to read as follows: 
+
+Sec. 23.1447 Equipment standards for oxygen dispensing units. 
+
+* * * * *
+
+(a) * * * 
+
+(4) If radio equipment is installed, the flightcrew oxygen dispensing units must be designed to allow the use of that equipment and to allow communication with any other required crew member while at their assigned duty station. 
+
+* * * * *
+
+(d) For a pressurized airplane designed to operate at flight altitudes above 25,000 feet (MSL), the dispensing units must meet the following: 
+
+(1) The dispensing units for passengers must be connected to an oxygen supply terminal and be immediately available to each occupant wherever seated. 
+
+(2) The dispensing units for crewmembers must be automatically presented to each crewmember before the cabin pressure altitude exceeds 15,000 feet, or the units must be of the quick-donning type, connected to an oxygen supply terminal that is immediately available to crewmembers at their station. 
+
+(e) If certification for operation above 30,000 feet is requested, the dispensing units for passengers must be automatically presented to each occupant before the cabin pressure altitude exceeds 15,000 feet. 
+
+* * * * *
+
+42. A new Sec. 23.1451 is added to read as follows: 
+
+Sec. 23.1451 Fire protection for oxygen equipment. 
+
+Oxygen equipment and lines must: 
+
+(a) Not be installed in any designed fire zones. 
+
+(b) Be protected from heat that may be generated in, or escape from, any designated fire zone. 
+
+(c) Be installed so that escaping oxygen cannot come in contact with and cause ignition of grease, fluid, or vapor accumulations that are present in normal operation or that may result from the failure or malfunction of any other system. 
+
+43. A new Sec. 23.1453 is added to read as follows: 
+
+Sec. 23.1453 Protection of oxygen equipment from rupture. 
+
+(a) Each element of the oxygen system must have sufficient strength to withstand the maximum pressure and temperature, in combination with any externally applied loads arising from consideration of limit structural loads, that may be acting on that part of the system. 
+
+(b) Oxygen pressure sources and the lines between the source and the shutoff means must be: 
+
+(1) Protected from unsafe temperatures; and 
+
+(2) Located where the probability and hazard of rupture in a crash landing are minimized. 
+
+44. Section 23.1461(a) is revised to read as follows: 
+
+Sec. 23.1461 Equipment containing high energy rotors. 
+
+(a) Equipment, such as Auxiliary Power Units (APU) and constant speed drive units, containing high energy rotors must meet paragraphs (b), (c), or (d) of this section. 
+
+* * * * *
+
+45. Appendix F to part 23 is amended by revising the introductory paragraph, by amending paragraph (c) to change the reference from paragraph (e) to paragraph (g), by amending paragraph (d) to change the reference from paragraph (f) to paragraph (h), by redesignating current paragraph (f) as paragraph (h), and by revising paragraph (b) and adding new paragraphs (f) and (g) to read as follows: 
+
+Appendix F To Part 23 Test Procedure 
+
+Acceptable test procedure for self-extinguishing materials for showing compliance with Secs. 23.853, 23.855 and 23.1359. 
+
+* * * * *
+
+(b) Specimen configuration. Except as provided for materials used in electrical wire and cable insulation and in small parts, materials must be tested either as a section cut from a fabricated part as installed in the airplane or as a specimen simulating a cut section, such as: a specimen cut from a flat sheet of the material or a model of the fabricated part. The specimen may be cut from any location in a fabricated part; however, fabricated units, such as sandwich panels, may not be separated for a test. The specimen thickness must be no thicker than the minimum thickness to be qualified for use in the airplane, except that: (1) Thick foam parts, such as seat cushions, must be tested in \1/2\ inch thickness; (2) when showing compliance with Sec. 23.853(d)(3)(v) for materials used in small parts that must be tested, the materials must be tested in no more than \1/8\ inch thickness; (3) when showing compliance with Sec. 23.1359(c) for materials used in electrical wire and cable insulation, the wire and cable specimens must be the same size as used in the airplane. In the case of fabrics, both the warp and fill direction of the weave must be tested to determine the most critical flammability conditions. When performing the tests prescribed in paragraphs (d) and (e) of this appendix, the specimen must be mounted in a metal frame so that (1) in the vertical tests of paragraph (d) of this appendix, the two long edges and the upper edge are held securely; (2) in the horizontal test of paragraph (e) of this appendix, the two long edges and the edge away from the flame are held securely; (3) the exposed area of the specimen is at least 2 inches wide and 12 inches long, unless the actual size used in the airplane is smaller; and (4) the edge to which the burner flame is applied must not consist of the finished or protected edge of the specimen but must be representative of the actual cross section of the material or part installed in the airplane. When performing the test prescribed in paragraph (f) of this appendix, the specimen must be mounted in metal frame so that all four edges are held securely and the exposed area of the specimen is at least 8 inches by 8 inches. 
+
+* * * * *
+
+(f) Forty-five degree test. A minimum of three specimens must be tested and the results averaged. The specimens must be supported at an angle of 45 degrees to a horizontal surface. The exposed surface when installed in the aircraft must be face down for the test. The specimens must be exposed to a Bunsen or Tirrill burner with a nominal \3/8\ inch I.D. tube adjusted to give a flame of 1\1/2\ inches in height. The minimum flame temperature measured by a calibrated thermocouple pyrometer in the center of the flame must be 1550 deg.F. Suitable precautions must be taken to avoid drafts. The flame must be applied for 30 seconds with one-third contacting the material at the center of the specimen and then removed. Flame time, glow time, and whether the flame penetrates (passes through) the specimen must be recorded. 
+
+(g) Sixty-degree test. A minimum of three specimens of each wire specification (make and size) must be tested. The specimen of wire or cable (including insulation) must be placed at an angle of 60 degrees with the horizontal in the cabinet specified in paragraph (c) of this appendix, with the cabinet door open during the test or placed within a chamber approximately 2 feet high x 1 foot x 1 foot, open at the top and at one vertical side (front), that allows sufficient flow of air for complete combustion but is free from drafts. The specimen must be parallel to and approximately 6 inches from the front of the chamber. The lower end of the specimen must be held rigidly clamped. The upper end of the specimen must pass over a pulley or rod and must have an appropriate weight attached to it so that the specimen is held tautly throughout the flammability test. The test specimen span between lower clamp and upper pulley or rod must be 24 inches and must be marked 8 inches from the lower end to indicate the central point for flame application. A flame from a Bunsen or Tirrill burner must be applied for 30 seconds at the test mark. The burner must be mounted underneath the test mark on the specimen, perpendicular to the specimen and at an angle of 30 degrees to the vertical plane of the specimen. The burner must have a nominal bore of three-eighths inch, and must be adjusted to provide a three-inch-high flame with an inner cone approximately one-third of the flame height. The minimum temperature of the hottest portion of the flame, as measured with a calibrated thermocouple pyrometer, may not be less than 1,750 deg.F. The burner must be positioned so that the hottest portion of the flame is applied to the test mark on the wire. Flame time, burn length, and flaming time drippings, if any, must be recorded. The burn length determined in accordance with paragraph (h) of this appendix must be measured to the nearest one-tenth inch. Breaking of the wire specimen is not considered a failure. 
+
+* * * * *
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES 
+
+46. The authority citation for part 91 continues to read as follows: 
+
+Authority: 49 U.S.C. 1301(7), 1303, 1344, 1348, 1352 through 1355, 1401, 1421 through 1431, 1471, 1472, 1502, 1510, 1522, and 2121 through 2125; Articles 12, 29, 21, and 32(a) of the Convention on International Civil Aviation (61 Stat. 1180); 42 U.S.C. 4321 et seq.; E.O. 11514; 49 U.S.C. 106(g). 
+
+47. Section 91.205 is amended by redesignating paragraphs (b)(11) through (b)(16) as paragraphs (b)(12) through (b)(17), respectively, and by adding a new paragraph (b)(11) to read as follows: 
+
+Sec. 91.205 Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements. 
+
+* * * * *
+
+(b) * * * 
+
+(11) For small civil airplanes certificated after March 11, 1996, in accordance with part 23 of this chapter, an approved aviation red or aviation white anticollision light system. In the event of failure of any light of the anticollision light system, operation of the aircraft may continue to a location where repairs or replacement can be made. 
+
+* * * * *
+
+48. Section 91.209 is revised to read as follows: 
+
+Sec. 91.209 Aircraft lights. 
+
+No person may: 
+
+(a) During the period from sunset to sunrise (or, in Alaska, during the period a prominent unlighted object cannot be seen from a distance of 3 statute miles or the sun is more than 6 degrees below the horizon)-- 
+
+(1) Operate an aircraft unless it has lighted position lights; 
+
+(2) Park or move an aircraft in, or in dangerous proximity to, a night flight operations area of an airport unless the aircraft-- 
+
+(i) Is clearly illuminated; 
+
+(ii) Has lighted position lights; or 
+
+(iii) is in an area that is marked by obstruction lights; 
+
+(3) Anchor an aircraft unless the aircraft-- 
+
+(i) Has lighted anchor lights; or 
+
+(ii) Is in an area where anchor lights are not required on vessels; or 
+
+(b) Operate an aircraft that is equipped with an anticollision light system, unless it has lighted anticollision lights. However, the anticollision lights need not be lighted when the pilot-in-command determines that, because of operating conditions, it would be in the interest of safety to turn the lights off. 
+
+ 
+        
+FOOTER: Issued in Washington DC, on January 29, 1996.
+
+David R. Hinson,
+
+Administrator.
+
+[FR Doc. 96-2083 Filed 2-8-96; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 94-21; Issued on 07/14/94.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

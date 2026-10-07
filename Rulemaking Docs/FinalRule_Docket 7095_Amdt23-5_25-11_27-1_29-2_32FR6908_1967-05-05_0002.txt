@@ -1,0 +1,500 @@
+FINAL RULES: 23-5|25-11|27-1|29-2
+
+ 
+ 
+        
+CITATION: [Federal Register: May 5, 1967 (Volume 32, Number 87)]
+
+ 
+        
+PAGE NUMBER: [Page 6908]
+
+ 
+        
+DOCKET NUMBER: 7095
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29
+
+ 
+        
+SUBJECT HEADING: Aircraft Propulsion System Design Requirements
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: 
+
+ This amendment adds miscellaneous changes to the propulsion system design requirements for airplanes and rotorcraft. This amendment is based on, and reflects public comments concerning, notice of proposed rule making 65-43, published in the Federal Register (31 F.R. 93) on January 5, 1966. Except as modified by the following discussion, the reasons for this amendment are those in the notice. Changes to the proposals in the notice, and disposition of public comments, are as follows:
+
+ 
+        
+DATES: EFFECTIVE DATE: June 4, 1967
+
+ 
+        
+EFFECTIVE DATE: 1967-06-04
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ The amendments to the combustion heater fire protection requirements of Secs. 23.859, 25.859, 27.859, and 29.859 are drafted as proposed. One comment objected to the proposals for the following reasons: (1) The commentator states that this amendment would cause unnecessary expense and increase system complexity with a resultant reduction in reliability. The Administrator disagrees. This amendment merely clarifies the rules to reflect long-standing administration of the rules to require the appropriate shutoff device when any of the listed conditions occurs. Combustion heaters have been meeting this requirement for many years without evidence of unnecessary complexity or reduced reliability related to the requirement. This amendment makes no substantive change to this practice; (2) the commentator states that the words "and hold off" are present in Parts 23 and 27 but not in Parts 25 and 29, which indicates that an unnecessary burden may be involved in the case of nontransport category aircraft and should be deleted from Parts 23 and 27. The words "and hold off" are in the present rule. This amendment was intended to effect no substantive change. This comment therefore goes beyond the legitimate scope of the notice. However, the Administrator agrees that this comment may have merit. The comment will therefore be retained for possible rule-making action; (3) the commentator states that the rule should be clarified to allow the pilot to reenergize the heater after it has been shut off in flight, and to allow the use of one safety device to meet the rule with respect to all of the listed conditions requiring shutoff. The Administrator disagrees. This amendment, as written, does not prohibit re-energizing the heater during flight, nor does it prohibit the use of a single device that otherwise complies.
+
+ Another comment stated that long operating experience with combustion heaters does not indicate a need for "this sophisticated system." As stated above, no change in practice would result from this clarifying amendment. No change in required degree of sophistication is intended. The cited long operating experience was in fact obtained with systems which meet the rule as currently administered and as reflected in this amendment.
+
+ Proposed new Secs. 23.906, 25.906, 27.906, and 29.906 are withdrawn. These proposed sections would have required the applicant for an aircraft type certificate to obtain, from the engine and propeller manufacturer, all vibration information that those manufacturers can supply to show compliance with the vibration requirements for aircraft. One industry comment stated that the proposed rule is unnecessary since Sec. 21.21(b) requires, for an aircraft, that no feature or characteristic make it unsafe for the category in which certification is requested. Another industry comment stated that the proposal is not stringent enough. The FAA will continue in the future, as it has in the past, to administer Sec. 21.21(b) to require the use of engine and propeller vibration data to account for vibration conditions that result from the combination of specific engines, propellers, and airframes, where such investigation is necessary for safety. It is believed, however, that the possible kinds and sources of adequate vibration data are too numerous to be adequately covered in a specific, enforceable standard at this time.
+
+ The proposed change to Sec. 23.907, deleting the reference to the propeller manufacturer, was based on proposed new Sec. 23.906 which would have made that reference redundant. Since proposed Sec. 23.906 is withdrawn, the proposed change to Sec. 23.907 is not appropriate and is also withdrawn.
+
+ The notice proposed to amend Sec. 25.933 to require that each turbojet reversing system must have means to prevent the engine from producing more than "idle forward thrust" when the reversing controls are set for reverse but the reversing system is not in the reverse position. Two comments stated that the limitation to "idle forward thrust" would impede reverser design unnecessarily and suggested that maintenance of directional control during reverser malfunction should be the only test for compliance. The administrator agrees that safety does not require a limitation to any specific thrust value of directional control can in fact be maintained. The approach recommended by industry is therefore allowed, by exception, in this amendment. However, in adopting the industry approach, it must be pointed out that safety requires that directional control capabilities be investigated under the most critical conditions expected in operation. Safety also requires that such control be maintained with aerodynamic means alone, since rapid diagnosis of a reverser malfunction, and timely correction by use of thrust controls, cannot be assumed when a reverser fails at the most critical conditions. Dependence, even partial dependence, on other non-aerodynamic means of control such as differential use of brakes, is also not consistent with safety under the most critical conditions in which reverser malfunction could occur. Section 25.933 is drafted to reflect these factors.
+
+ The notice proposed to amend Sec. 25.939 to require that operation of the airplane within the portion of the flight envelope that produces the "highest negative acceleration loads" may not cause hazardous malfunction of any part of the turbine powerplant, and to require that "the vibration characteristics" of turbine engine components whose failure could be catastrophic may not be "adversely affected" during normal operation. The notice also proposed to add new Secs. 27.939 and 29.939 containing the requirements of Sec. 25.959 in effect prior to this amendment plus the same negative acceleration and vibration requirements added to Sec. 25.939.
+
+ One comment objected to the negative acceleration requirement for the following reasons: (1) The commentator states that the requirement involves engine design and may therefore be beyond the aircraft manufacturer's control. The Administrator does not agree that responsibility for proper operation of the turbine engine powerplant within the established flight envelope can be divided between the airplane and engine manufacturers during type certification of the airplane. Further, aircraft applicants have shown themselves capable of showing compliance with special conditions requiring that powerplant operation be safely maintained at vertical accelerations of less than zero g for specified lengths of time; (2) the commentator states that the requirement could be administered to require that the airplane be flown continuously to the negative limits of the maneuvering and gust envelopes for the airplane, whereas lesser negative acceleration loads may in fact be more critical from a fuel flow standpoint. The Administrator agrees with this comment. This result is not intended. The proposal is therefore amended to refer to "the negative acceleration * * * that is most critical from a fuel flow standpoint"; (3) the commentator states that substantiation of the fuel flow provisions under negative loads is not necessary because turbine engine powered airplanes either have continuous ignition or have systems that, when operated according to instructions in the Airplane Flight Manual, will provide ignition continuously during critical phases of takeoff, landing, icing conditions and in turbulence. The Administrator disagrees. While continuous ignition operation may broaden the range of fuel flow disturbances that can be tolerated without flameout, and is therefore significant from a safety standpoint, such ignition cannot prevent a flameout that results from fuel flow stoppage such as occurs when negative acceleration allows fuel ports to become uncovered. In such a case a restart cycle may be necessary. Instructions in the Airplane Flight Manual are no substitute for substantiation of the fuel system under negative loads; (4) the commentator states that long service experience shows that turbine engine fuel system components are not sensitive to negative acceleration loads, contrary to a statement in the preamble to the notice. The Administrator agrees in part. The sensitivity of the turbine fuel system to negative loads lies not in specific components, but rather in the sensitivity of the turbine engine to fuel flow stoppage, the high flow rates in the system, and the c consequent speed with which air introduced into the system can reach the engine and result in flameout; (5) the commentator states that, while it is true that extended periods of negative acceleration may result in deterioration in performance due to interrupted flow, turbine engine fuel systems have been shown to be acceptable for the shorter exposure times actually encountered. The Administrator agrees. Investigation of the safety of turbine fuel systems under representative negative acceleration loads has long been required by special condition. This amendment therefore changes the proposal by adding the words "this must be shown for the greatest duration expected for that acceleration."
+
+ The commentator objected to the proposed vibration requirement, which affects Parts 25, 27, and 29, for the following reasons: (1) The commentator states that the proposal is unnecessary in Part 25, because of general Sec. 25.601. The Administrator agrees that Sec. 25.601 may be administered to cover specific vibration hazards. However, the Administrator's practice is to prescribe specific standards directly where such standards are in fact determined to be necessary for safety; (2) the commentator states that the proposal is unnecessary because vibration substantiation is already being done on a cooperative basis by industry. It is appreciated that vibration substantiation's are already being accomplished. It should be noted, however, that special conditions have required such substantiation for more than a decade; (3) the commentator states that the proposal is too broad and, in the case of Parts 27 and 29, should be amended to refer to allowable vibration limits established by the engine manufacturer. The Administrator agrees. This amendment therefore covers only the turbine engine air inlet system, prohibits only harmful vibration resulting from air flow distortion, and covers normal operation only. This is consistent with special conditions applied over a large number of years. However, since there is no requirement that specific vibration limits (as opposed to values actually withstood during testing of the engine) be established by the engine manufacturer, the requested reference to allowable vibration limits established by the engine manufacturer is inappropriate and is not incorporated in this amendment.
+
+ One comment stated that the vibration standards should be similar to the more detailed standards in certain British Civil Airworthiness Requirements or, in the alternative, that similar material be placed in an Advisory Circular. While these suggestions go beyond the immediate scope of this amendment, they are appreciated and will be held for future reference.
+
+ The notice proposed to amend Sec. 25.955 to require that turbine engine fuel systems "have means to automatically" ensure the uninterrupted flow of fuel to each turbine engine when the tank supplying that engine is depleted for fuel. One comment stated that the proposal should be limited to tanks which supply the engine in normal operation, and should not be applied to tanks that can supply the engine by cross feed. The Administrator agrees. This amendment thus uses the words "any other rank, that normally supplies fuel to that engine alone, * * *." One comment objected to the proposal, stating that the probability of an almost depleted tank in a single-tank-per-engine fuel system is very low. This amendment, however, applies only where another tank that normally supplies the engine contains usable fuel, which would not be the case in a single-tank-per-engine system. Another comment recommended that this amendment make it clear that manual switching capability is required. This comment is accepted. The proposal did not intend to eliminate present practice with respect to appropriate manual switching capability. A further comment objected to the proposal for the following reasons: (1) The commentator states that to require a "means' that is "automatic" strongly implies a sophisticated device that would introduce unnecessary hazards of its own. In order to prevent such an implication, this amendment more generally requires the fuel system design to "prevent interruption * * * without attention by the flight crew." No dictation of specific design or specific degree of complexity or sophistication is intended; (2) the commentator states that adequate fuel interruption warning is provided before flameout by fuel flow and pressure fluctuations, fuel pump low pressure warning lights, loss of rotor speed, reduction in EPR, and by fuel pressure and quantity instruments required by Sec. 25.1305 (f) and (i). The administrator disagrees. Considering the hazards of flameout outlined in the notice experience has not shown that the monitoring of powerplant instruments provides a safe alternative to ensuring uninterrupted fuel flow without attention by the flight crew.
+
+ One comment objected to the proposal for the following reasons: (1) The commentator states that, to its knowledge, there has not been a problem with flameout caused by fuel interruption that indicates a need for automatic tank switching. Experience indicates that the hazard of flameout in a turbine fuel system is severe enough to warrant requiring, as a minimum standard, that some design feature (not necessarily "switching " that is "automatic") be incorporated to ensure uninterrupted fuel flow without attention by the flight crew; (2) the commentator stated that an automatic switching device would result in a relaxation of fuel monitoring due to reliance on the device. It is likely that overall fuel management would suffer. Further, monitoring of the fuel in the nearly depleted condition is not adequate, even if present. It is for this reason that this amendment is made. Finally, necessary monitoring of possible failures of the means for ensuring uninterrupted flow can be safely provided by proper procedures; (3) the commentator cites the hazard s of malfunction of the automatic device and the impracticability of a sophisticated device. Existing manual switching, plus any necessary procedures for monitoring the device, will minimize any malfunction hazard when compared with the hazard of unexpected flameout. As mentioned above, this amendment does not specify any degree of complexity but only requires that appropriate "design features" be incorporated.
+
+ An editorial change is made to Secs. 25.955(b), 27.955(b) and 29.955(b) to correct an apparent departure from former Secs. 4b.413(c), 6.420(c), and 7.413(c) of the Civil Air Regulations. These former section contained the words "if an engine can be supplied with fuel from more than one tank." Sections 25.955(b), 27.955(b), and 29.955(b) shortened this language, without intentional change, to "if an engine can feed from more than one fuel tank." To preclude any questions concerning the applicability of the affected regulations, the language of the former sections is adopted without substantive change. There is not comparable problem in Part 23.
+
+ The notice proposed to amend Sec. 25.961 to require that fuel system hot weather operating capability be shown up to the maximum operating altitude established as an operating limitation, and to limit the climb airspeed of turbine engine powered airplanes to that established for climbing to the maximum operating altitude. One comment stated that the proposal is not necessary for airplanes certificated for use with booster pumps that maintain the fuel system at a pressure greater than the vapor pressure of turbine fuels, up to the maximum operating altitude. The Administrator agrees. This amendment therefore excepts fuel systems having that capability, but is otherwise drafted as proposed.
+
+ The notice proposed to amend Sec. 25.965 by replacing the present fuel tank vibration requirement based on a factor (0.9) related to engine speed with a requirement based on a specific vibration frequency (2,000 c.p.m.). One comment objected to this proposal on the ground that it appears to be a relaxation that would downgrade safety. The Administrator disagrees. This amendment, like its predecessor, applies only where no frequency of vibration resulting from any r.p.m. within the normal operating range of engine speeds is critical. This amendment does not replace the survey of engine speeds conducted under Sec. 25.965 (b) (3) (ii) and (iii) to determine that no critical condition is overlooked. For the purpose of the test covered by this amendment (that is, substantiation of the tank itself rather than substantiation of tank-engine combinations), a test frequency of 2,000 c.p.m., when imposed at the required test amplitude of 1/32 inch, has been shown to be severe enough to ensure the integrity of the tank itself. This comment cannot, therefore, be accepted. This amendment is drafted as proposed.
+
+ The notice proposed to amend Sec. 25.969 to provide that an automatic shutoff must be provided, for pressure fueling systems, as the means of showing compliance with the current requirement that it must be impossible to fill the fuel tank expansion space inadvertently. One comment objected for the following reasons: The commentator states that this means of complying with present Sec. 25.969 should not be limited to the proposed automatic shutoff device and that such a limitation would involve unnecessary dictation of design with respect to the means for preventing the filling of the expansion space. The Administrator agrees. For this reason, and to locate all pressure fueling provisions together, this amendment places the automatic fuel content limiting means requirement in Sec. 25.979(c) and, to avoid unnecessary duplication, provides in Sec. 25.969 (which is otherwise unchanged) that "for pressure fueling systems, compliance with this section may be shown with the means provided to comply with Sec. 25.979(b)"; the commentator states that the substance of the proposed change is already covered in Sec. 25.9799b). The Administrator disagrees. This proposal, like Sec. 25.969, covers only the limitation of fuel quantity. Section 25.979(b), however, covers protection from damaging overpressures that may result if (1) the fuel quantity limiting means fails, or (2) overpressures are transmitted, without "failure" of the fuel quantity limiting means, such as could occur, for example, where air in the tank does not escape under an abnormally high fueling source pressure (so that fuel quantity itself does not exceed "approved' limits) and the air then becomes part of the means by which overpressures are transmitted to the fuel system.
+
+ The notice proposed to amend the fuel tank outlet requirement of Sec. 25.977 to require that fuel tank outlet strainers in turbine fuel systems be fine enough in mesh to prevent the passage of any object that could restrict fuel flow or damage any fuel system component, to require that an alternate means be provided in turbine fuel systems to provide uninterrupted fuel flow if the main strainer could become blocked with ice, and to require that this alternate means be provided in turbine fuel systems to provide uninterrupted fuel flow if the main strainer could become blocked with ice, and to require that this alternate means provide a level of fuel system component protection equal to that provided by the main strainer. One comment stated that the requirement that the main strainer prevent the passage of any object that could restrict fuel flow or damage components, if strictly interpreted, would lead to ice blockage of the means to prevent interruption of the fuel flow. The Administrator agrees. However, it is for this reason that the alternate means in Sec. 25.977(b) was proposed. No change from the notice is necessary in this regard. The comment also states that a four-mesh screen of adequate size has been found to provide proper protection for the fuel system from a standpoint of both extraneous material and icing, and states that a four to eight mesh size should be prescribed specifically. The Administrator disagrees. No single mesh size, or single range of mesh sizes, has been shown to be adequate for turbine fuel systems generally. Another comment stated that it supports this amendment but that the prescribed alternate should not be a screen if another means of showing safety equal to the main strainer is available. This comment specifically mentions a pump inlet screen bypassing arrangement that might prevent pump damage. The Administrator agrees that the words "equal to" should not be administered to automatically exclude any available means of showing equal protection.
+
+ One comment stated that a second strainer is the only available alternative that is equal in safety to the main strainer, that safety would not be advanced by requiring a second strainer since both strainers could collect ice, that an actual need to protect against foreign matter in the tanks simultaneously with icing is not operationally probable, and that the rule should require a "high degree" of protection rather than protection "equal to" that of the main strainer. The Administrator disagrees. Means other than strainers are not precluded under this amendment if protection equal to the main strainer is shown. The probability of simultaneous icing of an alternate strainer and the main strainer is slight enough to justify use of a strainer as an alternate. The words "high degree" of safety would not be appropriate since protection of the fuel system is best measured relative to the protection provided by the main strainer, which must be acceptable to the Administrator. These comments cannot, therefore, be accepted. This amendment is drafted as proposed.
+
+ The notice proposed to amend Sec. 25.979 to cover all pressure fueling systems, to eliminate a reference to the fuel access cover plate, to more fully describe the means of preventing damaging overpressures, and to require that this means comply under the maximum fueling rates and pressures for which the system is designed. One comment objected for the following reasons: The commentator stated that the proposed detailed means of preventing damaging overpressures (that is, providing either proper tank vent sizing or an overflow valve) unduly dictates design. The Administrator agrees. This amendment therefore requires a means to prevent excessive pressures, without further prescribing the method of compliance (Sec. 25.979c)). The commentator stated that the change to cover spillage from the "system" rather than from the "tank" would lead to added complexity without increased safety. The commentator appears to answer its own objection by then stating that highly reliable poppet check valves are commonly available to limit fuel spillage to nonhazardous amounts. No specific degree of complexity is intended or specified in this amendment. The commentator states that the proposal would preclude spillage of "minor" quantities of fuel from the refueling manifold. This comment is not understood, since the proposal concerns only "hazardous" quantities of spilled fuel. The commentator stated that the prohibition of spillage is inconsistent with the fact that large quantities of fuel may be spilled in order to comply with the proposed pressure relief requirement (proposed Sec. 25.979(b)). The Administrator disagrees. The pressure relief provisions specifically apply only to conditions following failure of the prescribed fuel quantity limiting means. Thus, the fuel spillage resulting from pressure relief is tolerated only as a necessary means of preventing a significantly greater hazard, such as structural damage to the airframe which may not be detected before flight, and is tolerated only as a consequence of pressure relief requirements prescribed as a backup to the fuel quantity limiting means. The commentator suggested wording that would limit the fuel spillage requirement to "uncontrolled quantities." Since hazardous quantities may or may not be "controlled" in some way, the requested language would not be useful in preventing a hazardous situation and therefore cannot be adopted. This part of the amendment is therefore drafted as proposed (Sec. 25.979(a)). Section 25.979(b) contains the required automatic shutoff means for limiting tank content that was proposed as part of Sec. 25.969. This means is placed in Sec. 25.979, rather than Sec. 25.969 as proposed, for the reasons covered in the discussion of Sec. 25.969 (see above).
+
+ The notice proposed a new Sec. 25.981 containing certain fuel system lightning protection requirements. In order not to delay the issue of the numerous rule changes of this amendment, action on this proposal will be taken separately. The final rule on lightning protection is now in the process of being prepared and will be issued shortly.
+
+ The notice proposed to add a new Sec. 25.1003 providing that no temperature inside any fuel tank may exceed a specified temperature and requiring that compliance be shown for all normal and abnormal operations of all components that are inside any tank or that could transmit heat to any tank, including all possible malfunctions of those components. This amendment adds a new Sec. 25.981, rather than Sec. 25.1003, since this amendment affects fuel tanks only (rather than fuel systems). One comment stated that substantiation for all "possible" malfunctions and "combination of malfunctions" would be unduly difficult. The Administrator agrees. This amendment specifies only "probable * * * conditions." The comment also stated that specification of a temperature limit to cover all present and future fuels and conditions is undesirable. The Administrator agrees. This amendment therefore incorporates only "the highest temperature allowing a safe margin below the lowest expected autoignition temperature of the fuel in the tanks." Another comment requested that the proposal be eliminated because future design improvements and fuel requirements would require different maximum fuel temperatures. This amendment meets this objection by requiring prevention of fuel autoignition without prescribing a universal maximum temperature.
+
+ The notice proposed to amend Sec. 25.1041 to require adequate cooling not only when the airplane is operating but also after engine shutdown." One comment stated that there may be abnormal engine shutdowns, such as an emergency shutdown from a high power setting, following which temperature limits may be exceeded. This comment stated that the proposal should be narrowed to include only "normal" engine shutdowns. The Administrator agrees. This amendment is so drafted.
+
+ The notice proposed to amend Sec. 25.1141 to require that no probable failure or "combination of failures" in any powerplant control system may cause the failure of any function necessary for safety, and that compliance must be shown by "fault analysis, component tests, and simulated environmental tests." One comment objected to the proposal because (1) "combination of failures" is contrary to the basic philosophy that the airplane need only be capable of continued safe flight and landing after a single failure, and (2) compliance with the requirement should not be required to be by "fault analysis, component tests and simulated environmental tests" since accepted practice is to use fault analysis alone unless tests are necessary to substantiate the validity of a particular analytical result. The Administrator does not agree with the first statement. It is not the policy of the Administrator to ignore a probable combination of failures whose result would be hazardous. The Administrator does, however, agree with the second statement. A combination of means of showing compliance is therefore permitted under this amendment. In addition, two changes to the notice are made to more accurately express its intent. First, the prescribed failed "function" is limited to "powerplant function." Secondly, the words "failures or combination of failures" in the system is changed to include "malfunctions." The notice did not intend to raise a technical or semantic distinction between a powerplant control system "failure" and "malfunction" where their common result is discontinuance of an essential powerplant function.
+
+ The notice proposed to amend Sec. 25.1153(b) to require only that "inadvertent" movement of the propeller control to the feathering position be prevented (rather than positive prevention of such movement as the rule currently required). Once comment objected to this change as an undesirable relaxation. The Administrator disagrees. The present rules for propeller feathering controls generally (in Sec. 25.1153(a)) and for reverse thrust controls (in Sec. 25.1155) cover only "inadvertent" control operation. No higher standard has been shown to be necessary for propeller pitch or speed controls used for feathering. This amendment is drafted as proposed.
+
+ The notice proposed to broaden Sec. 25.1155 to cover controls for propeller pitch settings below the flight regime, not just reverse thrust controls. One comment stated that the degree of complexity of such controls in a certain currently operational aircraft should not be exceeded in the administration of this amendment. This amendment is not intended to dictate any specific degree of complexity. Another comment objected, stating that this amendment relaxes the present rule by using the word "inadvertent." No relaxation results. The word "inadvertent" is used in the present rule. This amendment in fact increases a burden by extending Sec. 25.1155 to cover controls heretofore not covered by the regulations. This amendment is drafted as proposed.
+
+ The notice proposed to delete Sec. 25.1181(c) and place its provisions., with certain amendments, in a new Sec. 25.1182. One comment objected, stating that the fire protection requirements applicable to nacelle areas behind firewalls need not be extended to engine pod attaching structures because the present requirements have provided a superior level of safety for turbojet powered large airplanes and no record of fires in these structures is known. The Administrator agrees concerning the superior level of safety and good service record of engine pod attaching structures with respect to fire. However, this level of safety has resulted through the voluntary incorporation by industry of engine pod attaching structure design provisions meeting the fire protection provisions of Secs. 25.1195 through 25.1201 (except those requiring fire detection and extinguishing). The Administrator agrees with one comment stating that safety does not require that engine pod attaching structures have fire detection and extinguishing provisions, and that those structures may be distinguished from nacelle areas behind the firewall in this regard. To this extent, the industry comment is accepted and this amendment is drafted accordingly. The commentator stated that the "firewall definition" paragraphs are not relevant for the fire zone, that the "internal boundaries" are not clearly defined, and that this will lead to ventilation, containment, and fire extinguishing system difficulties. The intent of this comment is not clear. However, there should be no difficulty in defining the area covered by the term "engine pod attaching structure." Further, the Administrator does not agree that the firewall provisions are irrelevant to this structure. For this structure, as well as for reciprocating engine installations, the firewall separates the engine nacelle from the airframe in compliance with the provisions of Sec. 25.1191. Finally, the claimed relationship between the firewall defining provisions and possible future difficulties in ventilation, containment, and fire extinguishing is neither supported nor evident. This comment cannot, therefore, be accepted.
+
+ One comment requested that an exception should be provided (1) for engine pod attaching structures where the firewall between pod and pylon extends enough beyond the profile of the pylon to prevent propagation of fire from the pod area around the firewall to the pylon zone, and (2) for installations that have means to prevent contact of leaking flammable fluid with a hot firewall. The Administrator agrees that these safety provisions may be relevant in individual showings of equivalent safety that may justify design alternatives to the sections referenced in Sec. 25.1182. However, within the terms framed by the commentator, these safety provisions are not sufficiently definable to permit a general exception in the regulation. This comment cannot, therefore, be accepted.
+
+ No adverse comments having been received, the proposed change to Secs. 23.1183, 25.1183, 27.1183, and 29.1183 (concerning lines and fittings approved as part of an engine) is drafted as proposed.
+
+ The notice proposed to add a new Sec. 25.1305(x) to require "a means, for each air turbine engine starter not designed for continuous use, to indicate to the flight crew when that starter is energized." One comment stated that, for starters designed to contain failures of high energy rotating parts, no indicator should be required because no hazard would result even if the starter is not designed for continuous operation. Another comment stated that numerous possible factors, such as use of starters that cannot be used continuously, protection by starter location, and containment of failed components should obviate the need for an indicating means regardless of whether the starter is designed for continued operation. The Administrator agrees with these comments. This amendment therefore covers only starters that can be used continuously but that are neither designed for continuous operation nor designed to prevent hazard if they fail.
+
+ No adverse comments having been received, the proposed amendment to Secs. 23.1585, 25.1585, 27.1585, and 29.1585 (concerning fuel system operating procedures) is drafted as proposed.
+
+ In consideration of the foregoing, Subchapter C of Chapter I of Title 14 of the Code of Federal Regulations is amended, effective June 4, 1967, as follows:
+
+ 
+        
+REGULATORY TEXT: Part 23 - Airworthiness Standards: Normal, Utility, and Acrobatic Category Airplanes
+
+A. Part 23 is amended as follows:
+
+1. Section 23.859(b) is amended to read as follows:
+
+Sec. 23.859 Combustion heater fire protection.
+
+* * * * *
+
+(b) Means independent of the components provided for the normal continuous control of air temperature, airflow, and fuel flow must be provided, for each heater, to automatically shut off and hold off the ignition and fuel supply to that heater at a point remote from that heater when any of the following occurs:
+
+(1) The heat exchanger temperature exceeds safe limits.
+
+(2) The ventilating air temperature exceeds safe limits.
+
+(3) The combustion airflow becomes inadequate for safe operation.
+
+(4) The ventilating airflow becomes inadequate for safe operation.
+
+2. Section 23.1183(b)(1) is amended to read as follows:
+
+Sec. 23.1183 Lines and fittings.
+
+* * * * *
+
+(b) * * *
+
+(1) Lines and fittings already approved as part of a type certificated engine under Part 33 of this chapter; and
+
+* * * * *
+
+3. A new Sec. 23.1585(d) is added to read as follows:
+
+Sec. 23.1585 Operating procedures.
+
+* * * * *
+
+(d) For multiengine airplanes, information identifying each operating condition in which the fuel system independence prescribed in Sec. 23.953 is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
+
+Part 25 - Airworthiness Standards: Transport Category Airplanes
+
+B. Part 25 is amended as follows:
+
+Sec. 25.859 Combustion heater fire protection.
+
+* * * * *
+
+(e) * * *
+
+(1) Means independent of the components provided for the normal continuous control of air temperature, airflow, and fuel flow must be provided, for each heater, to automatically shut off the ignition and fuel supply to that heater at a point remote from that heater when any of the following occurs:
+
+(i) The heat exchanger temperature exceeds safe limits.
+
+(ii) The ventilating air temperature exceeds safe limits.
+
+(iii) The combustion airflow becomes inadequate for safe operation.
+
+(iv) The ventilating airflow becomes inadequate for safe operation.
+
+* * * * *
+
+2. Section 25.933 is amended by adding the following new paragraph (d):
+
+Sec. 25.933 Reversing systems.
+
+* * * * *
+
+(d) Each turbojet reversing system must have means to prevent the engine from producing more than idle forward thrust when the reversing system malfunctions, except that it may produce any greater forward thrust that is shown to allow directional control to be maintained, with aerodynamic means alone, under the most critical reversing condition expected in operation.
+
+ 3. Section 25.939 is amended to read as follows:
+
+Sec. 25.939 Turbine engine operating characteristics.
+
+(a) Turbine engine operating characteristics must be investigated in flight to determine that no adverse characteristics (such as stall, surge, or flameout) are present, to a hazardous degree, during normal and emergency cooperation within the range of operating limitations of the airplane and of the engine.
+
+(b) No hazardous malfunction of the turbine engine may occur when the airplane is operated at the negative acceleration, within the flight envelope prescribed in Sec. 25.333, that is most critical from a fuel flow standpoint. This must be shown for the greatest duration expected for that acceleration.
+
+(c) The turbine engine air inlet system may not, as a result of air flow distortion during normal operation, cause vibration harmful to the engine.
+
+4. Section 25.955(b) is amended to read as follows:
+
+Sec. 25.955 Fuel flow.
+
+* * * * *
+
+(b) If an engine can be supplied with fuel from more than one tank, the fuel system must -
+
+(1) For each reciprocating engine, supply the full fuel pressure to that engine in not more than 20 seconds after switching to any other fuel tank containing usable fuel when engine malfunctioning becomes apparent due to the depletion of the fuel supply in any tank from which the engine can be fed and
+
+(2) For each turbine engine, in addition to having appropriate manual switching capability, be designed to prevent interruption of fuel flow to that engine, without attention by the flight crew, when any tank supplying fuel to that engine is depleted of usable fuel during normal operation, and any other tank, that normally supplies fuel to that engine alone, contains usable fuel.
+
+5. Section 25.961 is amended to read as follows:
+
+Sec. 25.961 Fuel system hot weather operation.
+
+(a) The fuel system must perform satisfactorily in hot weather operation. This must be shown by showing that the fuel system from the tank outlets to each engine is pressurized, under all intended operations, so as to prevent vapor formation, or must be shown by climbing from the altitude of the airport elected by the applicant to the maximum altitude established as an operating limitation under Sec. 25.15727. If a climb test is elected, there may be no evidence of vapor lock or other malfunctioning during the climb test conducted under the following conditions:
+
+(1) For reciprocating engine powered airplanes, the engines must operate at maximum continuous power, except that takeoff power must be used for the altitudes from 1,000 feet below the critical altitude through the critical altitude. The time interval during which takeoff power is used may not be less than the takeoff time limitation.
+
+(2) For turbine engine powered airplanes, the engines must operate at takeoff power for the time interval selected for showing the takeoff flight path, and at maximum continuous power for the rest of the climb.
+
+(3) The weight of the airplane must be the weight with full fuel tanks, minimum crew, and the ballast necessary to maintain the center of gravity within allowable limits.
+
+(4) The climb airspeed may not exceed -
+
+(i) For reciprocating engine powered airplanes, that speed allowing compliance with the minimum climb requirement specified in Sec. 25.65(a); and
+
+(ii) For turbine engine powered airplanes, the maximum airspeed established for climbing from takeoff to the maximum operating altitude.
+
+(5) The fuel temperature must be at least 110°F.
+
+(b) The test prescribed in paragraph (a) of this section may be performed in flight or on the ground under closely simulated flight conditions. If a flight test is performed in weather cold enough to interfere with the proper conduct of the test, the fuel tank surfaces, fuel lines, and other fuel system parts subject to cold air must be insulated to simulate, insofar as practicable, flight in hot weather.
+
+6. Section 25.965(b)(3)(i) is amended to read as follows:
+
+Sec. 25.965 Fuel tank tests.
+
+* * * * *
+
+(b) * * *
+
+(3) * * *
+
+(i) If no frequency of vibration resulting from any r.p.m. within the normal operating range of engine speeds is critical, the test frequency of vibration must be 2,000 cycles per minute.
+
+* * * * *
+
+7. Section 25.969 is amended to read as follows:
+
+Sec. 25.969 Fuel tank expansion space.
+
+Each fuel tank must have an expansion space of not less than 2 percent of the tank capacity. It must be impossible to fill the expansion space inadvertently with the airplane in the normal ground attitude. For pressure fueling systems, compliance with this section may be shown with the means provided to comply with Sec. 25.979(b).
+
+8. Section 25.977 is amended to read as follows:
+
+Sec. 25.977 Fuel tank outlet.
+
+(a) There must be a fuel strainer for the fuel tank outlet or for the booster pump. This strainer must -
+
+(1) For reciprocating engine powered airplanes, have 8 to 16 meshes per inch; and
+
+(2) For turbine engine powered airplanes, prevent the passage of any object that could restrict fuel flow or damage any fuel system component.
+
+(b) For turbine engine powered airplanes, there must be a means to ensure uninterrupted fuel flow to the engine if the strainer prescribed in paragraph (a) of this section is subject to ice accumulation. This means must provide protection to the fuel system components equal to that provided by the strainer prescribed in paragraph (a) of this section.
+
+(c) The clear area of each fuel tank outlet strainer must be at least five times the area of the outline.
+
+(d) The diameter of each strainer must be at least that of the fuel tank outlet.
+
+(e) Each finger strainer must be accessible for inspection and cleaning.
+
+9. Section 25.979 is amended to read as follows:
+
+Sec. 25.979 Pressure fueling system.
+
+For pressure fueling systems, the following apply:
+
+(a) Each pressure fueling system fuel manifold connection must have means to prevent the escape of hazardous quantities of fuel from the system if the fuel entry valve fails.
+
+(b) An automatic shutoff means must be provided to prevent the quantity of fuel in each tank from exceeding the maximum quantity approved for that tank. This means must -
+
+(1) Allow checking for proper shutoff operation before each fueling of the tank; and
+
+(2) Provide indication, at each fueling station, of failure of the shutoff means to stop fuel flow at the desired level.
+
+(c) A means must be provided to prevent damage to the fuel system in the event of failure of the automatic shutoff means prescribed in paragraph (b) of this section.
+
+10. A new Sec. 25.981 is added, before the center heading "Fuel System Components," to read as follows:
+
+Sec. 25.981 Fuel tank temperature.
+
+(a) The highest temperature allowing a safe margin below the lowest expected autoignition temperature of the fuel in the fuel tanks must be determined.
+
+(b) No temperature at any place inside any fuel tank where fuel ignition is possible may exceed the temperature determined under paragraph (a) of this section. This must be shown under all probable operating, failure, and malfunction conditions of any component whose operation, failure, or malfunction could increase the temperature inside the tank.
+
+11. Section 25.1041 is amended to read as follows:
+
+Sec. 25.1041 General.
+
+The powerplant cooling provisions must be able to maintain the temperatures of powerplant components and engine fluids within the temperature limits established for these components and fluids, under ground, water, and flight operating conditions, and after normal engine shutdown.
+
+12. A new Sec. 25.1141(e) is added to read as follows:
+
+Sec. 25.1141 Powerplant controls: general.
+
+* * * * *
+
+(e) No single failure or malfunction, or probable combination thereof, in any powerplant control system may cause the failure of any powerplant function necessary for safety.
+
+13. Section 25.1153(b) is amended to read as follows:
+
+Sec. 25.1153 Propeller feathering controls.
+
+* * * * *
+
+(b) If feathering is accomplished by movement of the propeller pitch or speed control lever, there must be means to prevent the inadvertent movement of this lever to the feathering position during normal operation.
+
+14. Section 25.1155 is amended to read as follows:
+
+Sec. 25.1155 Reverse thrust and propeller pitch settings below the flight engine.
+
+Each control for reverse thrust and for propeller pitch settings below the flight regime must have means to prevent its inadvertent operation. The means must have a positive lock or stop at the flight idle position and must require a separate and distinct operation by the crew to displace the control from the flight regime (forward thrust regime for turbojet powered airplanes).
+
+Sec. 25.1181 [Amended]
+
+15. Section 25.1181(c) is deleted and a new Sec. 25.1182 is added to read as follows:
+
+Sec. 25.1182 Nacelle areas behind firewalls, and engine pod attaching structures containing flammable fluid lines.
+
+(a) Each nacelle area immediately behind the firewall, and each portion of any engine pod attaching structure containing flammable fluids lines, must meet each requirement of Secs. 25.1103(b), 25.1165(d) and (e), 25.1183, 25.1185(c), 25.1187, 25.1189, and 25.1195 through 25.1203, including those concerning designated fire zones. However, engine pod attaching structures need not contain fire detection or extinguishing means.
+
+(b) For each area covered by paragraph (a) of this section that contains a retractable landing gear, compliance with that paragraph need only be shown with the landing gear retracted.
+
+16. Section 25.1183(b)(1) is amended to read as follows:
+
+Sec. 25.1183 Lines and fittings.
+
+* * * * *
+
+(b) * * *
+
+(1) Lines and fittings already approved as part of a type certificated engine under Part 33 of this chapter; and
+
+* * * * *
+
+17. A new Sec. 25.1305(x) is added to read as follows:
+
+Sec. 25.1305 Powerplant instruments.
+
+* * * * *
+
+(x) For turbine engine powered airplanes, a means to indicate, to the flight crew, the operation of each engine starter that can be operated continuously but that is neither designed for continuous operation nor designed to prevent hazard if it fails.
+
+18. A new Sec. 25.1585(b) is added to read as follows:
+
+Sec. 25.1585 Operating procedures.
+
+* * * * *
+
+(b) Information identifying each operating condition in which the fuel system independence prescribed in Sec. 25.953 is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
+
+Part 27 - Airworthiness Standards: Normal Category Rotorcraft
+
+C. Part 27 is amended as follows:
+
+1. Section 27.859(c)(2) is amended to read as follows:
+
+Sec. 27.859 Heating systems.
+
+* * * * *
+
+(c) * * *
+
+(2) Means independent of the component provided for the normal continuous control of air temperature, airflow, and fuel flow must be provided, for each heater, to automatically shut off and hold off the ignition and fuel supply of that heater at a point remote from that heater when any of the following occurs:
+
+(i) The heat exchanger temperature exceeds safe limits.
+
+(ii) The ventilating air temperature exceeds safe limits.
+
+(iii) The combustion airflow becomes inadequate for safe operation.
+
+(iv) The ventilating airflow becomes inadequate for safe operation.
+
+2. A new Sec. 27.939 is added, before the center heading "Fuel System," to read as follows:
+
+Sec. 27.939 Turbine engine operating characteristics.
+
+(a) Turbine engine operating characteristics must be investigated in flight to determine that no adverse characteristics (such as stall, surge, or flameout) are present, to a hazardous degree, during normal and emergency operation within the range of operating limitations of the rotorcraft and of the engine.
+
+(b) The turbine engine air inlet system may not, as a result of airflow distortion during normal operation, cause vibration harmful to the engine.
+
+3. Section 27.955(b) is amended to read as follows:
+
+Sec. 27.955 Fuel flow.
+
+* * * * *
+
+(b) If an engine can be supplied with fuel from more than one tank, the fuel system must feed promptly when fuel becomes low in one tank and another tank is selected.
+
+4. Section 27.1183(b)(1) is amended to read as follows:
+
+Sec. 27.1183 Lines and fittings.
+
+* * * * *
+
+(b) * * *
+
+(1) Lines and fittings already approved as part of a type certificated engine under Part 33 of this chapter; and
+
+* * * * *
+
+5. Section 27.1585 is amended to read as follows:
+
+Sec. 27.1585 Operating procedures.
+
+(a) Parts of the manual containing operating procedures must have information concerning any normal and emergency procedures, and other information necessary for safe operation, including takeoff and landing procedures and associated airspeeds.
+
+(b) For multiengine rotorcraft, information identifying each operating condition in which the fuel system independence prescribed in Sec. 27.953 is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
+
+Part 29 - Airworthiness Standards: Transport Category Rotorcraft
+
+D. Part 29 is amended as follows:
+
+1. Section 29.859(e)(1) is amended to read as follows:
+
+Sec. 29.859 Combustion heater fire protection.
+
+* * * * *
+
+(e) * * *
+
+(1) Means independent of the components provided for the normal continuous control of air temperature, airflow, and fuel flow must be provided, for each heater, to automatically shut off the ignition and fuel supply of that heater at a point remote from that heater when any of the following occurs:
+
+(i) The heat exchanger temperature exceeds safe limits.
+
+(ii) The ventilating air temperature exceeds safe limits.
+
+(iii) The combustion airflow becomes inadequate for safe operation.
+
+(iv) The ventilating airflow becomes inadequate for safe operation.
+
+* * * * *
+
+2. A new Sec. 29.939 is added, before the center heading "Fuel System," to read as follows:
+
+Sec. 29.939 Turbine engine operating characteristics.
+
+(a) Turbine engine operating characteristics must be investigated in flight to determine that no adverse characteristics (such as stall, surge, or flameout) are present, to a hazardous degree, during normal and emergency operation within the range of operating limitations of the rotorcraft and of the engine.
+
+(b) The turbine engine air inlet system may not, as a result of airflow distortion during normal operation, cause vibration harmful to the engine.
+
+3. Section 29.955(b) is amended to read as follows:
+
+Sec. 29.955 Fuel flow.
+
+* * * * *
+
+(b) If an engine can be supplied with fuel from more than one tank, the fuel system must feed promptly when fuel becomes low in one tank and another tank is selected.
+
+4. Section 29.1183(b)(1) is amended to read as follows:
+
+Sec. 29.1183 Lines and fittings.
+
+* * * * *
+
+(b) * * *
+
+(1) Lines and fittings already approved as part of a type certificated engine under Part 33 of this chapter; and
+
+5. Section 29.1585 is amended to read as follows:
+
+Sec. 29.1585 Operating procedures.
+
+(a) The parts of the manual containing operating procedures must have information concerning any normal and emergency procedures, and other information necessary for safe operation, including the applicable procedures, such as those involving minimum speeds, to be followed if an engine fails.
+
+(b) For multiengine rotorcraft, information identifying each operating condition in which the fuel system independence prescribed in Sec. 29.953 is necessary for safety must be furnished, together with instructions for placing the fuel system in a configuration used to show compliance with that section.
+
+(Secs. 313(a), 601, 608, Federal Aviation Act of 1958; 49 U.S.C. 1354(a), 1421, 1423)
+
+ 
+        
+FOOTER: Issued in Washington, DC, on April 28, 1967.
+
+William F. McKee,
+
+Administrator.
+
+[FR Doc. 67-5034 Filed 5-4-67; 8:47 am]
+
+ 
+        
+NPRM ACTIONS: 
+
+ Notice of Proposed Rule Making. Notice No. 65-43; Issued on 12/28/65.
+
+ Notice of Proposed Rulemaking. Notice No. 66-3; Issued on 02/01/66.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

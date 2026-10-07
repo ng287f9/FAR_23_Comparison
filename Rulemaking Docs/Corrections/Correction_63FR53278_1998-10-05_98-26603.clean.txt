@@ -1,0 +1,102 @@
+[Federal Register Volume 63, Number 192 (Monday, October 5, 1998)]
+[Rules and Regulations]
+[Pages 53278-53279]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 98-26603]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Parts 23, 25 and 33
+
+[Docket No. 28652; Amendment Nos. 23-53, 25-95, and 33-19]
+RIN 2120-AF75
+
+Airworthiness Standards; Rain and Hail Ingestion Standards;
+Correction
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Final rule; correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document corrects a final rule that was published in the
+Federal Register on March 26, 1998 (63 FR 14794). The final rule
+addressed engine power loss and instability phenomena attributed to
+operation in extreme rain or hail. Also, the final rule generally
+harmonized the Federal Aviation Administration and Joint Aviation
+Authorities rain and hail ingestion standards.
+
+DATES: Effective October 5, 1998.
+
+FOR FURTHER INFORMATION CONTACT: John Fisher, Burlington, Massachusetts
+01803-5229; telephone (781) 238-7149; fax (781) 238-7199.
+
+SUPPLEMENTARY INFORMATION: The Airworthiness Standards final rule on
+Rain and Hail Ingestion Standards, Docket No. 28652 was published in
+the Federal Register on March 26, 1998 (63 FR 14794). Under
+``Discussion of Comments,'' there is an incorrect phrase, and under
+Sec. 33.77 of the rule, the foreign object ingestion conditions table
+provides either misplaced or incorrect phrases.
+    1. On page 14795, under ``Discussion of Comments,'' third column,
+third paragraph, nine lines down, the phrase ``Some amount of sustained
+power or thrust loss is permitted following an ice ingestion test''
+should be replaced with ``Some amount of sustained power or thrust loss
+is permitted following testing to the new rain and hail ingestion
+standards, but no power or thrust loss is permitted following an ice
+ingestion test.''
+    2. On page 14798, third column, under Sec. 33.77(e), the ingestion
+conditions table is corrected to read as follows:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+           Foreign object                    Test quantity           Speed of foreign object         Engine  operation                Ingestion
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+BIRDS:
+    3-ounce size....................  One for each 50 square       Liftoff speed of typical     Takeoff....................  In rapid sequence to
+                                       inches of inlet area, or     aircraft.                                                 simulate flock encounter
+                                       in fraction thereof, up to                                                             and aimed at selected
+                                       a maximum of 16 birds.                                                                 critical areas.
+                                       Three-ounce bird will pass
+                                       the inlet guide vanes into
+                                       the rotor blades.
+    1\1/2\-pound size...............  One for the first 300        Initial climb speed of       Takeoff....................  In rapid sequence to
+                                       square inches of inlet       typical aircraft.                                         simulate a flock encounter
+                                       area, if it can enter the                                                              and aimed at selected
+                                       inlet, plus one for each                                                               critical areas.
+                                       additional 600 square
+                                       inches of inlet area, or
+                                       fraction, thereof up to a
+                                       maximum of 8 birds.
+    4-pound size....................  One, if it can enter the     Maximum climb speed of       Maximum cruise.............  Aimed at critical area.
+                                       inlet..                      typical aircraft, if the
+                                                                    engine has inlet guide
+                                                                    vanes.
+                                                                   Liftoff speed typical        Takeoff....................  Aimed at critical area.
+                                                                    aircraft, if the engine
+                                                                    does not have inlet guide
+                                                                    vanes.
+ICE.................................  Maximum accumulation on a    Sucked in..................  Maximum cruise.............  To simulate a continuous
+                                       typical inlet cowl and                                                                 maximum icing encounter at
+                                       engine face resulting from                                                             25  deg.F.
+                                       a 2-minute delay in
+                                       actuating anti-icing
+                                       system, or a slab of ice
+                                       which is comparable in
+                                       weight or thickness for
+                                       that size engine.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: The term ``inlet area'' as used in this section means the engine inlet projected area at the front face of the engine. It includes the projected
+  area of any spinner bullet nose that is provided.
+
+[[Page 53279]]
+
+    Issued in Washington, DC on September 30, 1998.
+Donald P. Byrne,
+Assistant Chief Counsel.
+[FR Doc. 98-26603 Filed 10-2-98; 8:45 am]
+BILLING CODE 4910-13-M

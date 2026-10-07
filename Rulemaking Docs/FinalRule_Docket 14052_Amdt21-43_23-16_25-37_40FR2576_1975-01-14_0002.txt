@@ -1,0 +1,160 @@
+FINAL RULES: 21-43|23-16|25-37
+
+ 
+ 
+        
+CITATION: [Federal Register: January 14, 1975 (Volume 40, Number 9)]
+
+ 
+        
+PAGE NUMBER: [Page 2576]
+
+ 
+        
+DOCKET NUMBER: 14052
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 25
+
+ 
+        
+SUBJECT HEADING: Airworthiness Review Program, Form Number and Clarifying Revisions 
+
+ 
+        
+ACTION: Amendments
+
+ 
+        
+SUMMARY: 
+
+ The purpose of these amendments is to incorporate into Parts 21, 23, and 25 of the Federal Aviation Regulations several form number and clarifying revisions.
+
+ 
+        
+DATES: EFFECTIVE DATE: February 14, 1975.
+
+ 
+        
+EFFECTIVE DATE: 1975-02-14
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ These amendments are based on a Notice of Proposed Rule Making (Notice No. 74-33) published in the Federal Register on October 11, 1974 (39 F.R. 36495) and are the first amendments issued as a part of the First Biennial Airworthiness Review Program (ref. Notice No. 74-5, 39 F.R. 5785). These amendments and the reasons therefor are the same as those proposed in Notice No. 74-33.
+
+Interested persons have been afforded an opportunity to participate in the making of these amendments. No objections were received.
+
+(Secs. 313(a), 601, 603, 608, Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423 and 1428); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c))).
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendments: 
+
+ In consideration of the foregoing, and for the reasons stated in Notice No. 74-33, Parts 21, 23, and 25 of the Federal Aviation Regulations are amended effective February 14, 1975, as follows:
+
+PART 21 - CERTIFICATION PROCEDURES FOR PRODUCTS AND PARTS
+
+Sec. 21.251 [Amended]
+
+1. By amending Sec. 21.251(b)(4)(iii) and (iv) by striking the parenthetical expression "(FAA Form 186)" and inserting the expression "(FAA Form 8130-3)" in its place in both subdivisions.
+
+Sec. 21.271 [Amended]
+
+2. By amending Sec. 21.271(a) by striking the parenthetical expression "(FAA Form 186)" and inserting the expression "(FAA Form 8130-3)" in its place.
+
+Sec. 21.325 [Amended]
+
+3. By amending Sec. 21.325(a)(1) by striking the phrase "FAA Form 26" and inserting the phrase "FAA Form 8130-4" in its place , and by amending Sec. 21.325(a)(2) by striking the phrase "FAA Form 186" and inserting the phrase "FAA Form 8130-3" in its place.
+
+Sec. 21.339 [Amended]
+
+4. By amending Sec. 21.339(a) by striking the parenthetical expression "(FAA Form 1362)" and inserting the expression "(FAA Form 8100-2)" in its place , and by amending Sec. 21.339(b) by striking the parenthetical expression "(FAA Form 306)" and inserting the expression "(FAA Form 8130-1)" in its place.
+
+PART 23 - AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+Sec. 23.335 [Amended]
+
+5. By amending Sec. 23.335(c)(1) by striking the parenthetical expression "(in miles per hour)".
+
+APPENDIX A [Amended]
+
+6. By amending Part 23, Appendix A, A23.3, by adding, after each of the four speed equations, the abbreviation: "kts."
+
+7. By amending Part 23, Appendix A, Figure A-3 by inserting, under the title, the sentence: "Speeds are in knots."
+
+PART 25 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+8. By amending Sec. 25.1459(a)(1) to read as follows:
+
+Sec. 25.1459 Flight recorders.
+
+(a) * * *
+
+(1) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of Secs. 25.1323, 25.1325, and 25.1327, as appropriate;
+
+* * * * *
+
+ 
+        
+FOOTER: Issued in Washington, DC, on December 31, 1974.
+
+Alexander P. Butterfield,
+
+Administrator.
+
+[FR Doc. 75-1076 Filed 01-13-75; 8:45 a.m.]
+
+
+
+ 
+        
+NPRM ACTIONS: 
+
+ Notice of Invitation to Submit Proposals. Notice No. 74-5; Issued on 02/12/74.
+
+ Notice of Compilation of Proposals. Notice No. 74-5A; Issued on 05/22/74.
+
+ Notice of Availability of Agenda. Notice No. 74-5B; Issued on 10/03/74.
+
+ Notice of Clarifying Revisions. Notice No. 74-33; Issued on 10/03/74.
+
+ Notice of Conference. Notice No. 74-5C; Issued on 11/25/74.
+
+ Notice of Availability of Conference Summary. Notice No. 74-5D; Issued on 02/04/75.
+
+ Notice of Airworthiness Review Program No. 2. Notice No. 75-10; Issued on 02/27/75.
+
+ Notice of Airworthiness Review Program No. 3. Notice No. 75-19; Issued on 05/13/75.
+
+ Notice of Airworthiness Review Program No. 4. Notice No. 75-20; Issued on 05/13/75.
+
+ Notice of Airworthiness Review Program No. 5. Notice No. 75-23; Issued on 05/19/75.
+
+ Notice of Airworthiness Review Program No. 6. Notice No. 75-25; Issued on 05/29/75.
+
+ Notice of Airworthiness Review Program No. 7. Notice No. 75-26; Issued on 06/09/75.
+
+ Notice of Airworthiness Review Program No. 8. Notice No. 75-31; Issued on 06/30/75.
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+ Final Rule. Docket No. 14324; Issued on 12/13/76.
+
+ Final Rule. Docket No. 14779, 14324; Issued on 08/27/80.

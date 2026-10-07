@@ -1,0 +1,1764 @@
+CFR NPRM: Part 23|Part 25|Part 27|Part 29|Part 31|Part 33|Part 35
+
+ 
+ 
+        
+CITATION: [Federal Register: May 19, 1975]
+
+ 
+        
+PAGE NUMBER: [Page 21866]
+
+ 
+        
+DOCKET NUMBER: 14606
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29|Part 31|Part 33|Part 35
+
+ 
+        
+SUBJECT: Airworthiness Review Program, Notice No. 3: Powerplant Proposals
+
+ 
+        
+ACTION: Proposed Rules
+
+ 
+        
+SUMMARY: 
+
+ The Federal Aviation Administration is considering amending Parts 1, 23, 25, 27, 29, 33, and 35 of the Federal Aviation Regulations to update and improve the airworthiness standard applicable to the type certification of aircraft engines and propellers and of aircraft with respect to the provisions relating to powerplant installations.
+
+ 
+        
+DATES: Comments due on or before August 18, 1975.
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ This is the third in a series of notices of proposed rule making issued, or to be issued, as a part of the First Biennial Airworthiness Review Program. Notice No. 74-33 (39 FR 36595; October 11, 1974) was the first. Amendments 21-43, 23-16, and 25-37, issued on December 31, 1974 (40 FR 2576; January 14, 1975) pursuant to that notice, incorporated certain form number and clarifying revisions into the Federal Aviation Regulations. Notice No. 75-10 (40 FR 10802; March 7, 1975) was the second.
+
+ Interested persons, including the general public, manufacturers and users of aircraft and their components, both foreign and domestic, and foreign airworthiness authorities, are invited to participate in this proposed rulemaking by submitting such written data, views, or arguments as they may desire. Comments relating to any significant environmental or economic impact that might result because of the adoption of the proposals contained herein may also be submitted. Comments should identify this regulatory docket or notice number (Docket No. 14606; Notice No. 75-19) and be submitted in duplicate to: Federal Aviation Administration, Office of Chief Counsel, Attention: Rules Docket, AGC-24, 800 Independence Avenue, SW, Washington, D.C. 20591. All communications received on or before August 18, 1975, will be considered by the Administrator before taking action on the proposed rules. However, interested persons are urged to submit their comments as early as possible to facilitate rapid resolution of any issues raised. The proposals contained in this notice may be changed in the light of comments received. All comments submitted will be available in the Rules Docket for examination by interested persons.
+
+ On February 12, 1974, the FAA issued an invitation to all interested persons to submit proposals for consideration during the First Biennial Airworthiness Regulations Review (see Notice 74-5, 39 FR 5785, February 15, 1974). In that notice, the FAA announced that it would make available for comment by interested persons a compilation of proposals that were to be given further consideration as possible agenda items for the First Biennial Airworthiness Review Conference. On May 22, 1974, the FAA issued an announcement of the availability of the Compilation of Proposals containing over 1000 submissions by the FAA and interested persons, and invited all interested persons to submit comments on the proposals it contained (see Notice 74-5A, 39 FR 18662, May 29, 1974).
+
+ In response to that invitation for comments, the FAA received over 4900 individual comments contained in 74 submissions. Based on those comments and on the Compilation of Proposals, the FAA prepared a number of working documents, for the Airworthiness Review Conference held in Washington, D.C., on December 2-11, 1974. The FAA distributed those documents to all persons who had participated in the Airworthiness Review Program and to all other interested persons who requested them (see Notice 74-5B, 39 FR 36594, October 11, 1974).
+
+ For reasons given in Notice 74-5B, not all of the proposals contained in the Compilation were included in the agenda for the conference. However, the proposals not included in the agenda were listed in a conference workbook titled "Proposals Not in Agenda." In general, Notice 75-10 deals with the proposals identified as "Items for Notice" in that workbook.
+
+ On November 25, 1974, the FAA issued a Notice of Conference that set forth the schedule for the conference and invited all interested persons to attend the conference (see Notice 74-5C, 39 FR 41319, November 26, 1974).
+
+ The Airworthiness Review Conference was attended by over 586 individuals representing 22 foreign airworthiness authorities as well as aircraft manufacturers and users. Except for the opening and closing plenary sessions of the conference, one or more committees discussed agenda items during conference working hours. Summaries were given by the FAA Committee Chairman at the close of discussions on each agenda item. Persons present were given an opportunity to correct those oral summaries. Those summaries were transcribed with editorial revisions and combined with an attendee list for the conference as well as with transcripts of certain plenary session speeches and distributed in accordance with a Notice of Availability issued February 4, 1975 (see Notice 74-5D; 40 FR 5810; February 7, 1975).
+
+ In general this notice deals with the proposals that were contained in the Committee workbook titled "Committee IV - Powerplant." That workbook contained the proposals discussed by the Powerplant Committee at the Airworthiness Review Conference as well as written comments that were received for those proposals in response to Notice 74-5A. Another conference working document used was the Agenda for the Airworthiness Review Conference. That document, in addition to providing general information relating to the conference, included detailed information on how the proposals were grouped into agenda items, and the scheduling of those items for discussion. Both the workbooks and the agenda were updated and corrected by a supplemental working document distributed prior to and at the conference to participating individuals as well as to other interested persons. These workbooks along with the committee discussions and written information submitted by conference attendees has provided the basis upon which the FAA has developed this notice.
+
+ A number of proposals contained in this notice were not included in the Committee IV workbook. They are directly related to the proposals in the workbook and are included for the sake of clarity, consistency, and comprehensiveness. However, two circumstances exist in which this is not the case. This notice deals with several proposals that were discussed in Committee I - Procedures and Special Issues. Those proposals are included since they related directly to the general subject matter covered by this notice. Several proposals also dealt with in this notice were "Items for Notice" in the "Proposals Not in Agenda" workbook but were withheld from consideration pending the completion of the Airworthiness Review Conference (see Appendix I to Notice 75-10 for a list of those proposals).
+
+ A number of proposals contained in the Committee IV workbook are not included in this notice. These proposals fall into three general categories -- (1) those proposals which are being deferred to a later notice to the next Airworthiness or Operations Review; (2) those proposals withdrawn by their proponent; and (3) those proposals removed by the FAA from consideration as a part of the Airworthiness Review Program.
+
+ Appendix I of this notice lists the proposals in the first category, and Appendix II of this notice lists those in the second. In general it is felt by the FAA that the proposals in Appendix I that will appear in the next Airworthiness or Operations Review, unless withdrawn by their proponent, have sufficient merit to warrant further consideration, but because of the complexity of the proposal, the need for additional data, or the operational character of the proposal, further consideration within this Airworthiness Review Program is not feasible. The other group of proposals included in Appendix I are being deferred to be dealt with in a later notice to be issued as a part of this Airworthiness Review Program. Appendix III lists those proposals being removed from consideration as a part of the Airworthiness Review Program. Reasons for these actions are presented for each proposal.
+
+ The FAA believes that the airworthiness standards should, to the extent practical, be consistent throughout the airplane and rotorcraft certification parts (Parts 23, 25, 27, and 29). Therefore, the FAA has attempted within the time frame of this Airworthiness Review Program, to make consistent and parallel proposals, where appropriate, for each of these certification parts.
+
+ To avoid unnecessary repetition, in a number of instances the proposals developed for purposes of consistency are not set forth in their entirety of those proposals are substantively identical to another proposal in this notice. A short-form proposal referring to a proposal that is expressly set forth in this notice is used. Where a short-form proposal is used, however, there may be a need, if the proposal is to be adopted as a final rule, to change paragraph designations, cross references, or aircraft terminology (e.g. "airplane" to "rotorcraft", or vice versa) from that used in the referenced express proposal.
+
+ The FAA recognizes that there may exist additional instances in which a proposed rule change prescribed in this notice as expressly applying only to certain parts of the Federal Aviation Regulations should more appropriately apply to additional parts as well. Therefore, with respect to each proposal in this notice relating to Parts 23, 25, 27, or 29 of the Federal Aviation Regulations for which similar proposals do not exist for all of those parts, comments are solicited from all interested persons with respect to the applicability of that proposal (and its stated explanation) to those parts for which the proposal has not been expressly presented. Such comments received in response to this notice will either be dealt with as a part of the 1974-1975 Airworthiness Review Program or be considered as a part of the next Biennial Airworthiness Review.
+
+ For convenience, each proposal in this notice is numbered separately. The FAA requests that interested persons, when submitting comments, refer to proposals by these numbers, or by the sections to which they relate. Each proposal contains, or references a proposal that contains, a reference to the Airworthiness Review Program proposal number, section, and agenda item to which that proposal relates. Comments on this notice should not refer to the Airworthiness Review Program proposal numbers or section numbers without also referring to the corresponding proposal numbers as set forth in this notice. Each proposal in this notice is provided with an explanation. In addition, to avoid confusion several of the proposals in this notice reference proposals in Notice 75-10 that deal with the same regulatory provisions. Several explanations deal with comments received in response to Notice 74-5A; however, all comments submitted in response to Notice 74-5A or submitted for the Airworthiness Review Conference, dealing with proposals contained in this notice, should be resubmitted if it is desired that they be considered as a part of this rulemaking action.
+
+ This amendment is proposed under the authority of sections 313(a), 601, and 603 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, and 1423) and of section 6(c) of the Department of Transportation Act (49 U.S.C. 1655(c)).
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment: 
+
+ In consideration of the foregoing, it is proposed to amend Parts 1, 23, 25, 27, 29, 33, and 35 of the Federal Aviation Regulations as follows:
+
+PART 1 - DEFINITIONS AND ABBREVIATIONS
+
+3-1. By inserting in Sec. 1.1 between the definitions of "Alternate airport" and "Appliance" a definition of "Altitude engine" and between the definitions of "Route segment" and "Second in command" a definition of "Sea level engine" to read as follows:
+
+Sec. 1.1 General definitions.
+
+* * * * *
+
+"Altitude engine" means a reciprocating aircraft engine having a rated takeoff power that is producible from sea level to an established higher altitude.
+
+* * * * *
+
+"Sea level engine" means a reciprocating aircraft engine having a rated takeoff power that is producible only at sea level.
+
+* * * * *
+
+Explanation. The terms "altitude engine" and "sea level engine" are used in the induction system icing protection requirements of Parts 23, 27, and 29. The definitions would clarify the meanings of those terms.
+
+Ref. Proposal No. 560; Sec. 1.1; Agenda Item D-11.
+
+PART 23 - AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+3-2. By adding a new Sec. 23.739 to read as follows:
+
+Sec. 23.739 Electrical ground connection.
+
+Provision must be made on the landing gear for attaching an electrical ground connection.
+
+Explanation. A suitably identified point on the landing gear which is satisfactory for grounding the airplane could preclude damage to vital parts of the airplane caused by static discharge.
+
+Ref. Proposal No. 104; Sec. 23.973; Agenda Item F-25.
+
+3-3. By inserting a semicolon at the end of Sec. 23.901(b)(1) and adding a sentence to the end of Sec. 23.901(b)(2), a new Sec. 23.901(b)(3), and a new Sec. 23.901(c) to read as follows:
+
+Sec. 23.901 Installation.
+
+* * * * *
+
+(b) * * *
+
+(2) * * *. Engine cowls and nacelles must be easily removable or openable by the pilot to provide adequate access and exposure of the engine compartment for preflight checks; and
+
+(3) Each turbine engine powerplant must be constructed, arranged, and installed to provide continued engine operation without a sustained loss of power or thrust when being operated at the maximum power or thrust approved for takeoff and at flight idle in rain for at least three minutes with the rate of rain ingestion being not less at four percent, by weight, of the engine induction airflow rate.
+
+(c) The installation must comply with-
+
+(1) The installation instructions provided under Sec. 33.5 of this chapter; and
+
+(2) The applicable provisions of this subpart.
+
+Explanation. Some engine cowls are so difficult to open or remove that the pilot is discouraged from performing essential preflight checks of the engine compartment. The proposed revision of Sec. 23.901(b)(2) is directed at this problem.
+
+In addition, there have been many reports of turbine engine power loss while flying in heavy rain. The proposal would also provide for the consideration of engine operation in rain in Part 23.
+
+For the proposed addition of a new Sec. 23.901(c), see the proposal for Sec. 29.901.
+
+Ref. Proposal Nos. 639, 640; Secs. 23.901(b)(2), 23.901; Agenda Items E-12, E-13.
+
+Sec. 23.939 [Amended]
+
+3-4. By deleting Sec. 23.939(b) and marking it "[Reserved]".
+
+Sec. 23.943 [New]
+
+3-5. By adding a new Sec. 23.943 that would be substantively identical to the proposed new Sec. 25.943.
+
+Explanation. See the proposal for Sec. 25.943.
+
+Sec. 23.959 [Amended]
+
+3-6. By adding a sentence at the end of Sec. 23.959 to read - "Fuel system component failures need not be considered."
+
+Explanation. The proposal would clarify the present rule in which the most adverse fuel feed condition is intended to include only normal operation.
+
+Ref. Proposal Nos. 99, 271, and 272; Secs. 23.959, 25.959; Agenda Item F-22.
+
+3-7. By deleting the word "and" from Sec. 23.967(a)(4)(ii) and revising Sec. 23.967 (a)(5) to read as follows:
+
+Sec. 23.967 Fuel tank installation.
+
+(a) * * *
+
+(5) A positive pressure must be maintained within the vapor space of each bladder cell under all conditions of operation unless it is shown for a particular condition that a zero or negative pressure will not cause the bladder cell to collapse; and
+
+* * * * *
+
+Explanation. It is difficult to maintain a positive pressure in some bladder cells during all operations. The FAA believes a zero or negative pressure during operations should be allowed if it will not cause the bladder cell to collapse.
+
+Ref. Proposal No. 102; Sec. 23.967(a)(5); Agenda Item F-24.
+
+3-8. By adding a new Sec. 23.973(d) to read as follows:
+
+Sec. 23.973 Fuel tank filler connection.
+
+* * * * *
+
+(d) Each fuel filling point must have a provision for electrically bonding the airplane to ground fueling equipment.
+
+Explanation. To avoid possible static discharge sparks between the fuel dispensing nozzle and the airplane, a bonding point needs to be available adjacent to the filler cap so that the fuel dispensing nozzle can be bonded before the cap is opened.
+
+Ref. Proposal Nos. 104, 278; Secs. 23.973, 25.973; Agenda Item F-25.
+
+3-9. By deleting the word "and" from Sec. 23.975(a)(5); by inserting a semicolon at the end of Sec. 23.975(a)(6); and by adding new Secs. 23.975(a)(7) and (a)(8) to read as follows:
+
+Sec. 23.975 Fuel tank vents and carburetor vapor vents.
+
+(a) * * *
+
+(7) Vents must be arranged to prevent the loss of fuel when the airplane is parked in any direction on a ramp having a one-percent slope; and
+
+(8) Each fuel tank must incorporate at least two separate and independent vents except that two vents need not be provided if other tank or vent provisions are incorporated to prevent-
+
+(i) Ice blockage of vent openings;
+
+(ii) Fuel siphoning after blockage of primary vent provisions;
+
+(iii) Blockage of vent openings by insects and dirt; and
+
+(iv) Failure of any vent valve in the system.
+
+* * * * *
+
+Explanation. Proposed paragraph (a)(7) would require fuel vents that preclude fuel loss through the vent in normal parking situations. With respect to the proposed paragraph (a)(8), vents having both primary and alternate openings have had both openings covered with ice, insect nests, or dirt; have had fuel siphon through the alternated opening when the primary opening was blocked; and have been blocked by failed check valves. Therefore, the FAA believes that at least two separate vents are needed to prevent excessive fuel tank pressure differentials unless provisions are made to prevent such blockages.
+
+Ref. Proposal Nos. 644 and 645; Secs. 23.975(a) and 23.975(a)(7); Agenda Item F-26.
+
+Sec. 995 [Amended]
+
+3-10. By deleting Sec. 23.995(c)(1) and marking it "[Reserved]".
+
+Explanation. See the proposals for Secs. 23.1141 and 25.1141.
+
+Sec. 23.1093 [Amended]
+
+3-11. By amending Sec. 23.1093(b) in a manner substantively identical to that proposed for Sec. 25.1093(b).
+
+3-12. By revising Sec. 23.1121(b) and adding a new Sec. 23.1121(h) to read as follows:
+
+Sec. 23.1121 General.
+
+* * * * *
+
+(b) Exhaust system parts must be located or shielded so that leakage from any system carrying flammable fluids or vapors will not result in a fire caused by impingement of the fluid or vapor on any part of the exhaust system.
+
+* * * * *
+
+(h) Each exhaust heat exchanger must incorporate means to prevent blockage of the exhaust port after any internal heat exchanger failure.
+
+Explanation. The present wording in Secs. 23.1121(b), 25.1121(b), and 29.1121(b) requires, in part, that a determination be made as to whether exhaust system parts are dangerously close to a system carrying flammable fluids or vapors. Section 27.1121(d) contains a similar provision. This has resulted in difficulty in administration of the requirement. The revised wording is intended to clarify the rule.
+
+In addition, engine stoppages caused by blockage of engine ports resulting from exhaust heat exchanger failures have occurred in service. The proposal would also require that exhaust heat exchangers be designed to prevent such engine port blockages.
+
+Ref. Proposal Nos. 661, 762, 855, 937, 662; Secs. 23.1121(b), 25.1121(b), 27.1121(d), 29.1121(b), 23.1121(h); Agenda Items J-49, J-50.
+
+Sec. 23.1141 [Amended]
+
+3-13. By adding a new Sec. 23.1141(g) that would be substantively identical to the proposed new Sec. 25.1141(f).
+
+Sec. 23.1145 [Amended]
+
+3-14. By amending Sec. 23.1145(c) in a manner substantively identical to that proposed for Sec. 25.1145(c).
+
+3-15. By revising the heading of Sec. 23.1193 and by adding a new Sec. 23.1193(f) to read as follows:
+
+Sec. 23.1193 Cowling and nacelle.
+
+* * * * *
+
+(f) Each nacelle of a multi-engine airplane with supercharged engines must be designed and constructed so that with the landing gear retracted, a fire in the engine compartment will not burn through a cowling or nacelle and enter a nacelle area other than the engine compartment.
+
+Explanation. Service experience indicates that multi-engine airplanes with supercharged engines are particularly susceptible to critical structural damage that could result from a fire which has entered other nacelle areas from the engine compartment. The proposal would require a fire to be kept within the engine compartment or be prevented from penetrating the nacelle.
+
+Ref. Proposal Nos. 670, 106; Secs. 23.1193, 23.993; Agenda Items L-60, L-57.
+
+3-16. By adding a new Sec. 23.1203 to read as follows:
+
+Sec. 23.1203 Fire detector system.
+
+For multi-engine turbine powered airplanes and multi-engine reciprocating engine powered airplanes incorporating turbo-superchargers the following apply:
+
+(a) There must be a means which ensures the prompt detection of a fire in the engine compartment.
+
+(b) Each fire detector must be constructed and installed to withstand the vibration, inertia, and other loads to which it may be subjected in operation.
+
+(c) No fire detector may be affected by any oil, water, other fluids, or fumes that might be present.
+
+(d) There must be means to allow the crew to check, in flight, the functioning of each fire detector electric circuit.
+
+(e) Wiring and other components of each fire detector system in the engine compartment must be at least fire resistant.
+
+Explanation. Turbine engine tailpipe and reciprocating engine turbo-supercharger exhaust component surfaces can become ignition sources for leaking flammable fluids. For those type engines installed on multi-engine powered airplanes, fire detectors are necessary so that the flight crew can take early action after a fire starts. Reciprocating engines without turbo-superchargers are not covered because they do not have extensive hot surfaces and single engine airplanes are not covered because fires in single engine airplanes are quickly recognizable.
+
+Ref. Proposal No. 671; Sec. 23.1203; Agenda Item L-56.
+
+3-17. By revising Sec. 23.1305(h) and adding a new Sec. 23.1305(w) to read as follows:
+
+Sec. 23.1305 Powerplant instruments.
+
+* * * * *
+
+(h) A manifold pressure indicator for each engine that can exceed the maximum allowable manifold pressure limitations prescribed under Sec. 23.1521 at any power control position.
+
+* * * * *
+
+(w) A fire warning indicator for those airplanes required to comply with Sec. 23.1203.
+
+Explanation. The proposal would extend the applicability of the rule to cover derated engines since the manifold pressure limitations for such engines can be exceeded and an indication to the pilot of such a condition is needed. For the proposed addition of Sec. 23.1305(w), see the proposal for Sec. 23.1203.
+
+Ref. Proposal Nos. 676, 677; Secs. 23.1305(h), 23.1305; Agenda Items N-72, N-73.
+
+3-18. By revising Sec. 23.1337(a), including its heading, to read as follows:
+
+Sec. 23.1337 Powerplant instruments.
+
+(a) Instruments and instrument lines.
+
+(1) Each powerplant instrument line must meet the requirements of Sec. 23.993.
+
+(2) Each line carrying flammable fluids under pressure must-
+
+(i) Have restricting orifices or other safety devices at the source of pressure to prevent the escape of excessive fluid if the line fails; and
+
+(ii) Be installed and located so that the escape of fluids would not create a hazard.
+
+(3) Each powerplant instrument that utilizes flammable fluids must be installed and located so that the escape of fluid would not create a hazard.
+
+* * * * *
+
+Explanation. Powerplant instruments and instrument lines sometimes utilize flammable fluids. The proposal would require that those instruments and lines be installed and located so that leakage of the fluid would not create a hazard. The proposal would also editorially revise Sec. 23.1337(a) for clarity. Parallel proposals are made for Parts 25, 27, ad 29, but it should be noted that the present rules in these parts make reference to other line and fitting requirements besides the rule corresponding with Sec. 23.993. It should also be noted that Notice No. 2 (Notice 75-10) contains proposals for Secs. 25.1337(a) and 29.11337(a) relating to the coverage of auxiliary power unit instruments.
+
+Ref. Proposal No. 116; Sec. 23.1337; Agenda Item N-75.
+
+3-19. By adding a new Sec. 23.1557(e) to read as follows:
+
+Sec. 23.1557 Miscellaneous markings and placards.
+
+* * * * *
+
+(e) Electrical ground connection. Provisions for attaching electrical ground connections must be marked with the words "Attach ground here."
+
+Explanation. See the proposal for Sec. 23.739.
+
+PART 25 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+Sec. 25.739 [New]
+
+3-20. By adding a new Sec. 25.739 that would be substantively identical to the proposed new Sec. 23.739.
+
+3-21. By revising Secs. 25.901(b)(1) and (c) to read as follows:
+
+Sec. 25.901 Installation.
+
+* * * * *
+
+(b) * * *
+
+(1) The installation must comply with-
+
+(i) The installation instructions provided under Sec. 33.5 of this chapter; and
+
+(ii) The applicable provisions of this subpart; 
+
+* * * * *
+
+(c) For each powerplant and auxiliary power unit installation, it must be established that no single failure or malfunction or probable combination of failures will jeopardize the safe operation of the airplane except that the failure of structural elements need not be considered if the probability of such failure is extremely remote.
+
+Explanation. The FAA believes that the proposal would provide for a higher degree of airplane-engine compatibility. The need for such a proposal was disclosed in the discussions on Proposal No. 270, Sec. 25.939.
+
+In addition, the proposal would delete the reference in the section to Sec. 25.1309. That reference is not necessary since that section applies to the powerplant installation by its own terms. A generalized failure requirement, however, would be added.
+
+Ref. Proposal Nos. 917, 737, 270; Secs. 29.901(b)(6), 25.901, 25.939; Agenda Items E-14, E-15, E- 19.
+
+3-22. By revising Sec. 25.903 by-
+
+(1) Revising the heading of Sec. 25.903(c);
+
+(2) Deleting from the second sentence of Sec. 25.903(c) the words "and restarting";
+
+(3) Deleting the third sentence of Sec. 25.903(c); and
+
+(4) Adding a new Sec. 25.903(e) to read as follows:
+
+Sec. 25.903 Engines.
+
+* * * * *
+
+(c) Control of engine rotation.
+
+* * * * *
+
+(e) Restart capability.
+
+(1) Means to restart any engine in flight must be provided.
+
+(2) An altitude and airspeed envelope must be established for in-flight engine restarting, and each engine must have a restart capability within that envelope.
+
+(3) For turbine engine powered airplanes, if the minimum windmilling speed of the engines, following the in-flight shutdown of all engines, is insufficient to provide the necessary electrical power for engine ignition, a power source independent of the engine-driven electrical power generating system must be provided to permit in-flight engine ignition for restarting.
+
+Explanation. The proposal would delete the requirement that certain components of the engine restarting system be fire resistant since the need for such components after a fire is questionable. However, a means to restart any engine in flight when there has been no fire would continue to be required.
+
+In addition, although Sec. 25.1585(a)(3) requires that the Airplane Flight Manual contain recommended procedures for restarting turbine engines in flight, there exists no specific requirement for establishing the conditions of altitude and airspeed for which the restarting capability must exist. The proposal would add such a requirement and would editorially revise Sec. 25.903 for clarity.
+
+The proposal would ensure that a source of ignition energy for in-flight engine restarting exists in the event of loss of combustion in all engines during flight.
+
+Ref. Proposal Nos. 267, 266, 769; Secs. 25.903(c), 25.903, 25.1165(h); Agenda Items E-17, K-53.
+
+3-23. By revising Sec. 25.933(a) to read as follows:
+
+Sec. 25.933 Reversing systems.
+
+(a) Reversing systems intended for ground operation only must be designed so that after any reversal in flight the engine will produce no more than idle forward thrust. In addition, it must be shown by analysis or test, or both, that-
+
+(1) The reverser can be restored to the forward thrust position; or
+
+(2) The aircraft is capable of continued safe flight and landing under any possible thrust reverser system condition.
+
+* * * * *
+
+Explanation. Reversers intended for ground operation only have reversed in flight. The proposal would provide additional safeguards in the event of such occurrences.
+
+Ref. Proposal Nos. 739 and 182; Secs. 25.933(a)(1) and 25.255; Agenda Item E-18.
+
+Sec. 25.939 [Amended]
+
+3-24. By deleting Sec. 25.939(b) and marking it "[Reserved]".
+
+Explanation. See the proposal for Sec. 25.943.
+
+3-25. By adding a new Sec. 25.941 to read as follows:
+
+Sec. 25.941 Augmentation systems.
+
+(a) General. Each fluid injection system must provide a flow of fluid at the rate and pressure established for proper engine functioning under each intended operating condition. If the fluid can freeze, fluid freezing may not damage the airplane or adversely affect airplane performance.
+
+(b) Fluid tanks. Each augmentation system fluid tank must meet the following requirements:
+
+(1) Each tank must be able to withstand without failure the vibration, inertia, fluid, and structural loads that it may be subjected to in operation.
+
+(2) The tanks as mounted in the airplane must be able to withstand without failure or leakage an internal pressure 1.5 times the operating pressure.
+
+(3) Each tank must be vented from the top part of the expansion space so that venting is effective under any normal flight condition.
+
+(4) Each tank filler cap must be marked to identify the fluid and to specify the tank capacity.
+
+(5) Each fiberglass tank that would be exposed to weathering and rain erosion must be able to withstand the weathering and rain erosion expected in service without deterioration of the tank structural integrity.
+
+(c) Augmentation system drains must be designed and located in accordance with Sec. 25.1455 if-
+
+(1) The augmentation system fluid is subject to freezing; and
+
+(2) The fluid may be drained in flight or during ground operation.
+
+(d) This section does not apply to fuel injection systems.
+
+Explanation. A requirement is needed to ensure that augmentation system operation is compatible with engine functioning characteristics and that the system's strength and operating characteristics are adequate for its intended function.
+
+Ref. Proposal No. 754; Sec. 25.1031; Agenda Item E-20.
+
+3-26. By adding a new Sec. 25.943 to read as follows:
+
+Sec. 25.943 Negative acceleration.
+
+No hazardous malfunction of an engine, an auxiliary power unit approved for use in flight, or any component or system associated with the powerplant or auxiliary power unit may occur when the airplane is operated at the negative accelerations within the flight envelopes prescribed in Sec. 25.333. This must be shown for the greatest duration expect for the acceleration.
+
+Explanation. See the proposal for Sec. 25.939.
+
+Powerplant and APU components and systems other than the engine fuel system can be adversely affected during negative acceleration. The proposal would make the current provision clearly applicable to such components and systems and would place it in a separate section. In addition, the proposal would revise the section to make it applicable to reciprocating engines as well as turbine engines as is presently the case in Sec. 23.939(b).
+
+Ref. Proposal No. 741; Sec. 25.939(b); Agenda Item E-19.
+
+3-27. By adding a new Sec. 25.952 to read as follows:
+
+Sec. 25.952 Fuel system analysis and test.
+
+(a) Proper fuel system functioning under all probable operating conditions must be shown by analysis and those tests found necessary by the Administrator. Tests, if required, must be made using the airplane fuel system or a test article that reproduces the general fuel system operating characteristics, temperature regulation, fueling and defueling provisions, pressure regulation, and fuel transfer provisions.
+
+(b) The likely failure of any heat exchanger using fuel as one of its fluids may not result in the contamination of either fluid by the other.
+
+Explanation. Analysis and in some instances tests of the entire fuel system or a facsimile thereof is necessary to disclose problems with the functional interrelationship of portions of the system.
+
+Ref. Proposal No. 744; Sec. 25.952; Agenda Item F-29.
+
+Sec. 25.959 [Amended]
+
+3-28. By revising Sec. 25.959 in a manner substantively identical to that proposed for Sec. 23.959.
+
+3-29. By adding a new Sec. 25.963(f) to read as follows:
+
+Sec. 963 Fuel tanks: general.
+
+* * * * *
+
+(f) For pressurized fuel tanks, a means must be provided to regulate fuel tank pressure in flight. The means must operate automatically and must incorporate fail-safe features to prevent the buildup of an excessive pressure difference between the inside and the outside of the tank.
+
+Explanation. The rules do not presently consider the fuel tank overpressurization effect that might occur during operation with a pressurized fuel tank. For tanks that would be pressurized, the proposal would require automatic regulation of tank pressure and the proposal for Sec. 25.1305 would require a means to check operation of the regulating means before flight.
+
+Ref. Proposal No. 746; Sec. 25.963; Agenda Item F-31.
+
+3-30. By adding a new Sec. 25.965(d) to read as follows:
+
+Sec. 25.965 Fuel tank tests.
+
+* * * * *
+
+(d) For pressurized fuel tanks, it must be shown by tests that the fuel tanks can withstand the maximum pressure likely to occur on the ground or in flight.
+
+Explanation. The use of pressurized fuel tanks is not specifically provided for in the fuel tank test requirements. This proposal would include consideration of the pressure effects of a tank pressurization system.
+
+Ref. Proposal No. 275; Sec. 25.965; Agenda Item F-23.
+
+3-31. By deleting the word "and" from Sec. 25.973(b); by adding a semicolon and the word "and" at the end of a Sec. 25.973(c); and by adding a new Sec. 25.973(d) to read as follows:
+
+Sec. 25.973 Fuel tank filler connection.
+
+* * * * *
+
+(d) Each fuel filling point must have a provision for electrically bonding the airplane to ground fueling equipment.
+
+Explanation. To avoid possible static discharge sparks between the fuel dispensing nozzle and the airplane, a bonding point needs to be available adjacent to the filler cap so that the fuel dispensing nozzle can be bonded before the cap is opened.
+
+Ref. Proposal No. 278; Sec. 25.973; Agenda Item F-25.
+
+Sec. 25.995 [Amended]
+
+3-32. By deleting Sec. 25.995(a) and marking it "[Reserved]".
+
+Explanation. See the proposal for Sec. 25.1141(f).
+
+3-33. By revising Secs. 25.1091(a)(1) and (d), and adding a new Sec. 25.1091(e) to read as follows;
+
+Sec. 25.1091 Air induction.
+
+(a) The air induction system for each engine and auxiliary power unit must supply-
+
+(1) The air required by that engine and auxiliary power unit under each operating condition for which certification is requested; and
+
+* * * * *
+
+(d) For turbine engine powered airplanes and airplanes incorporating auxiliary power units-
+
+(1) There must be means to prevent hazardous quantities of fuel leakage or overflow from drains, vents, or other components of flammable fluid systems from entering the engine or auxiliary power unit intake system; and
+
+(2) The airplane must be designed to prevent water or slush on the runway, taxiway, or other airport operating surfaces from being directed into the engine or auxiliary power unit air inlet ducts in hazardous quantities, and the air inlet ducts must be located or protected so as to minimize the ingestion of foreign matter during takeoff, and landing, and taxiing.
+
+(e) Each turbine powerplant installation must comply with Sec. 23.77 of this chapter.
+
+Explanation. The proposal would revise the air induction requirements of Secs. 25.1091(a) and (d) to make those provisions applicable to auxiliary power units. The proposal would ensure an adequate supply of inlet air to the APU and would protect it from the intake of flammable fluids and of water, slush, or other foreign objects. It would also be required that turbine powerplant installations comply with the foreign object ingestion requirements of Sec. 33.77 that currently apply to turbine engines.
+
+Ref. Proposal No. 757; Secs. 25.1091(d), (e), (f), (g), (h); Agenda Item L-45.
+
+3-34. By revising Sec. 25.1093(b) to read as follows:
+
+Sec. 25.1093 Induction system deicing and anti-icing provisions.
+
+* * * * *
+
+(b) Turbine engines.
+
+(1) Each turbine engine and its air inlet system must function properly throughout the flight power range of the engine (including idling), within the limitations established for the airplane, without the accumulation of ice on engine or inlet system components that would adversely affect engine operation or cause a serious loss of power or thrust-
+
+(i) Under the icing conditions specified in Appendix C of this part; and
+
+(ii) In snow, both falling and blowing.
+
+(2) Each turbine engine must idle for 30 minutes on the ground with the air bleed available for engine icing protection at its critical condition, without adverse effect, in an atmosphere that is at a temperature of 29° F and has a liquid water content of 0.6 grams per cubic meter in the form of drops having a mean effective diameter of 40 microns, followed by a momentary operation at takeoff power or thrust.
+
+Explanation. The FAA believes that ice accumulation on inlet system components such as noise attenuating rings, vortex generators, and splitters could have an adverse effect on engine operation. The proposal would make it clear that the effect of ice accumulation on components of the inlet system as well as on engine components must be considered.
+
+Ref. Proposal No. 759; Sec. 25.1093(b); Agenda Item I-43.
+
+3-35. By revising the heading of Sec. 25.1103 and Sec. 25.1103(d) to read as follows:
+
+Sec. 25.1109 Induction system ducts and air duct systems.
+
+* * * * *
+
+(d) For turbine engine air duct systems no hazard may result if a duct rupture or failure occurs at any point between the air duct source and the airplane unit served by the air.
+
+Explanation. There exist turbine engine air duct systems that are used to carry substances other than engine bleed air. The present requirement would be revised to cover those other systems.
+
+Ref. Proposal No. 286; Sec. 25.1103(d); Agenda Item I-48.
+
+Sec. 25.1121 [Amended]
+
+3-36. By inserting the words, "For powerplant and auxiliary power unit installations the following apply:", as the lead-in of Sec. 25.1121; by deleting the word "compartment" at the end of Sec. 25.1121(c) and inserting the words "and auxiliary power unit compartments" in its place; and by amending Sec. 25.1121(b) in a manner substantively identical to that proposed for Sec. 23.1121(b).
+
+Explanation. The proposal would make it clear that the requirements of Sec. 25.1121 apply to auxiliary power unit exhaust systems. Also see the proposal for Sec. 23.1121.
+
+Ref. Proposal No. 761; Sec. 25.1121; Agenda Item A-1 (Committee I).
+
+Sec. 25.1123 [Amended]
+
+3-37. By inserting the sentence, "For powerplant and auxiliary power unit installations, the following apply:", as the lead-in of Sec. 25.1123.
+
+Explanation. The proposal would make it clear that the provisions of Sec. 25.1123 apply to auxiliary power unit exhaust piping.
+
+Ref. Proposal No. 764; Sec. 25.1123; Agenda Item A-1 (Committee I).
+
+3-38. By adding a new Sec. 25.1129 to read as follows:
+
+Sec. 25.1129 Variable-geometry exhaust systems.
+
+(a) Each variable-geometry exhaust actuating and control system must be investigated to establish that no single failure or probable combination of failures will jeopardize the safe operation of the airplane.
+
+(b) The effects of the malfunctions specified in paragraph (a) of this section on engine operation and limitations must be taken into consideration in the investigation specified in that paragraph.
+
+Explanation. Variable-geometry exhaust failures should be investigated with respect to their effect on airplane operation. The proposal would provide for such an investigation. Comments are specifically requested as to whether proposed Sec. 25.901(c) adequately covers this proposal.
+
+Ref. Proposal No. 765; Sec. 25.1129; Agenda Item J-51.
+
+3-39. By deleting Sec. 25.1141(e) and marking it "[Reserved]" and by adding a new Sec. 25.1141(f) to read as follows:
+
+Sec. 25.1141 Powerplant control: general.
+
+* * * * *
+
+(f) Powerplant valve controls located in the cockpit must have-
+
+(1) For manual valves, positive stops in the open and closed position; and
+
+(2) For power-assisted valves, a means to indicate the actual valve position to the flight crew.
+
+Explanation. The proposed revision of Sec. 25.901(c) would make Sec. 25.1141(e) redundant.
+
+It is also proposed that the fuel valve requirements of Sec. 25.995(a) be deleted. Its substance would be generalized under this proposal and extended to cover power-assisted valves as well as manual valves and would recognize the acceptability of intransit light indicators for such valves.
+
+Ref. Proposal Nos. 751, 289; Secs. 25.995(a), 25.1141(f); Agenda Items F-32, K-52.
+
+3-40. By revising Sec. 25.1145(c) to read as follows:
+
+Sec. 25.1145 Ignition switches.
+
+* * * * *
+
+(c) Each master ignition control and group of ignition switches must have a means to prevent its inadvertent operation.
+
+Explanation. The proposal is directed at preventing the inadvertent shutdown of engines. The FAA is aware of no data to indicate that the proposal should not apply to turbine engine powered aircraft.
+
+Ref. Proposal Nos. 664, 768, 859, 400, 940; Secs. 23.1145(d), 25.1145(d), 27.1145(c), 29.1145(c) and 29.1145(d); Agenda Item K-53.
+
+Sec. 25.1195 [Amended]
+
+3-41. By amending Sec. 25.1195(b) by inserting the phrase 'for each other designated fire zone," in place of "For other designated fire zones," in the third sentence and by deleting the fourth sentence.
+
+Explanation. The proposal would make it clear that each discharge provided need not be directable to all engines but that at least two discharges must be available to each engine.
+
+Ref. Proposal No. 291; Sec. 25.1195(b); Agenda Item L-56.
+
+Sec. 25.1197 [Amended]
+
+3-42. By amending Sec. 25.1197 by deleting from paragraph (b) the words "methyl bromide, carbon dioxide, or any other" and inserting "any" in their place and by deleting paragraph (c ).
+
+Explanation. See the proposal for Sec. 29.1197.
+
+3-43. By revising Secs. 25.1199(b) and (c) to read as follows:
+
+Sec. 25.1199 Extinguishing agent containers.
+
+* * * * *
+
+(b) The discharge end of each discharge line from a pressure relief connection must be located so that discharge of the fire extinguishing agent would not damage the airplane. The line must also be located or protected to prevent clogging caused by ice or other foreign matter.
+
+(c) There must be a means for each fire extinguishing agent container to indicate that the container has discharge or that the charging pressure is below the established minimum necessary for proper functioning.
+
+* * * * *
+
+Explanation. The pressure relief of newer, noncorrosive fire extinguishing agents need not discharge outside the airplane; the proposal would revise the present requirement in this regard. In addition, the increasing size of newer transport category airplanes make compliance with the current requirement of Sec. 25.1199(c) impractical. The proposal would make optional the location of the means to indicate a discharge. Additional requirements would be added relating to low pressure indication and the location of discharge lines with respect to clogging.
+
+Ref. Proposal No. 778; Secs. 25.1199(b), (c); Agenda Item L-63.
+
+3-44. By adding a new Sec. 25.1207 to read as follows:
+
+Sec. 25.1207 Compliance.
+
+Compliance with the requirements of Secs. 25.1181 through 25.1203 must be shown by a full scale fire test or by one or more of the following methods:
+
+(a) Tests of similar powerplant configurations.
+
+(b) Bench fire tests of components.
+
+(c) Service experience of aircraft with similar powerplant configurations.
+
+(d) Analysis.
+
+Explanation. The proposal would clarify the fire protection requirements by setting forth the various ways by which compliance with them could be shown.
+
+Ref. Proposal No. 780; Sec. 25.1207; Agenda Item L-64.
+
+3-45. By adding a new Sec. 25.1305(a)(9) to read as follows:
+
+Sec. 25.1305 Powerplant instruments.
+
+* * * * *
+
+(a) * * *
+
+(9) A means for each fuel tank pressure regulator to provide an indication prior to flight of whether the regulator is operating. 
+
+* * * * *
+
+Explanation. See the proposal for Sec. 25.963.
+
+Sec. 25.1337 [Amended]
+
+3-46. By amending Sec. 25.1337(a) in a manner substantively identical to that proposed for Sec. 23.1337(a).
+
+3-47. By revising the heading, lead-in and paragraph (d) of Sec. 25.1549 to read as follows:
+
+Sec. 25.1549 Powerplant and auxiliary power unit instruments.
+
+For each required powerplant and auxiliary power unit instrument-
+
+* * * * *
+
+(d) Each engine, auxiliary power unit, or propeller speed range that is restricted because of excessive vibration stresses must be marked with red arcs.
+
+Explanation. The proposal would update the instrument marking requirements to cover auxiliary power units. A proposal to amend Sec. 25.1549 to cover the marking of vertical tape instruments, was made in Notice 75-10.
+
+Ref. Proposal No. 825; Sec. 25.1549; Agenda Item A-1 (Committee I).
+
+Sec. 25.1557 [Amended]
+
+3-48. By adding a new Sec. 25.1557(e) that would be substantively identical to the proposed new Sec. 23.1557(e).
+
+3-49. By deleting the word "and" from the end of Sec. 25.1585(a)(7); by adding a semicolon and the word "and" to the end of Sec. 25.1585(a)(8); and by adding a new Sec. 25.1585(a)(9) to read as follows:
+
+Sec. 25.1585 Operating operations.
+
+(a) * * *
+
+(9) Restoring a deployed thrust reverser intended for ground operation only to the forward thrust position in flight or continuing flight and landing with the thrust reverser in any position except forward thrust.
+
+* * * * *
+
+Explanation. See the proposal for Sec. 25.933(a).
+
+PART 27 - AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+
+Sec. 27.571 [Amended]
+
+3-50. By amending Sec. 27.571(a) in a manner substantively identical to that proposed for Sec. 29.571(a).
+
+3-51. By adding a new Sec. 27.901(c) to read as follows:
+
+Sec. 27.901 Installation.
+
+* * * * *
+
+(c) The installation must comply with-
+
+(1) The installation instructions provided under Sec. 33.5 of this chapter; and
+
+(2) The applicable provisions of this subpart.
+
+Explanation. See the proposal for Sec. 29.901.
+
+3-52. By revising Secs. 27.923(a), (b), (c), (d), and (e), and by adding a new Sec. 27.923(j) to read as follows:
+
+Sec. 27.923 Rotor drive system and control mechanism tests.
+
+(a) Each part tested as prescribed in this section must be in a serviceable condition at the end of the tests. No intervening disassembly which might affect test results may be conducted.
+
+(b) Each rotor drive system and control mechanism must be tested for not less than 100 hours. The test must be conducted on the rotorcraft, and the torque must be absorbed by the rotors to be installed, except that other ground or flight test facilities with other appropriate methods of torque absorption may be used if the conditions of support and vibration closely simulate the conditions that would exist during a test on the rotorcraft.
+
+(c) A 60-hour part of the test prescribed in paragraph (b) of this section must be run at not less than the torque corresponding to maximum continuous engine power and r.p.m. In this test, the main rotor must be set in the position that will give maximum longitudinal cyclic pitch change to simulate forward flight. The auxiliary rotor controls must be in the position for normal operation under the conditions of the test.
+
+(d) A 30-hour part of the test prescribed in paragraph (b) of this section must be run at not less than the torque corresponding to 75 percent of maximum continuous engine power and the minimum engine speed intended for this power. The main and auxiliary rotor controls must be in the position for normal operation under the conditions of the test.
+
+(e) A 10-hour part of the test prescribed in paragraph (b) of this section must be run at not less than the torque corresponding to takeoff engine power and r.p.m. The main and auxiliary rotor controls must be in the normal position for vertical ascent. For multi-engine helicopters for which the use of 2½-minute power is requested, three runs during the 10-hour test must be conducted as follows:
+
+(1) Each run must consist of at least one period of 2½ minutes at the torque corresponding to takeoff power and speed on all engines.
+
+(2) Each run must consist of at least one period of 2½ minutes, for each engine in sequence, during which an engine shutdown is simulated and the remaining engines are run at the torque corresponding to 2½-minute power and speed.
+
+* * * * * *
+
+(j) For multi-engine helicopters for which the use of 30-minute power is requested, a run must be made at the torque corresponding to 30-minute power and minimum speed intended for this power, in which each engine, in sequence, is shut down and the remaining engines are run for a 30-minute period.
+
+Explanation. The proposal provides tests to demonstrate that the rotor drive system is capable of absorbing the torque output of engines operating at 2½-minute and 30-minute power. The endurance test requirement would also be revised to reference torque inputs to the rotor drive system rather than power inputs because torque is a more meaningful term. In addition, paragraph (d) of the current rule would be revised to include a more realistic torque condition. Finally, it is proposed that Sec. 27.923(a) be revised to prohibit during test any disassembly that might affect test results.
+
+Ref. Proposal Nos. 362, 923; Secs. 27.923, 29.923; Agenda Item M-65.
+
+3-53. By revising the lead-in of Sec. 27.927(b) and Secs. 27.927(b)(2) and (3) and by adding a new Sec. 27.927(c) to read as follows:
+
+Sec. 27.927 Additional tests.
+
+* * * * *
+
+(b) If turbine engine torque output to the transmission can exceed the highest engine or transmission torque rating limit, and that output is not directly controlled by the pilot under normal operating conditions (such as where the primary engine power control is accomplished through the flight control), the following test must be made:
+
+* * * * *
+
+(2) For multi-engine rotorcraft under conditions associated with each engine, in turn, becoming inoperative, apply to the remaining transmission torque outputs the maximum torque attainable under probable operating conditions, assuming that torque limiting devices, if any, function properly. Each transmission input must be tested at this maximum torque for at least 1 hour.
+
+(3) The tests prescribed in this paragraph must be conducted on the rotorcraft and the torque must be absorbed by the rotors to be installed, except that other ground or flight test facilities with other appropriate methods of torque adsorption may be used if the conditions of support and vibration closely simulate the conditions that would exist during a test on the rotorcraft.
+
+(c) It must be shown by tests that the rotor drive system is capable of operating under autorotative conditions for 15 minutes after the loss of rotor drive system oil pressure.
+
+Explanation. See the proposal for Sec. 29.927, with respect to the change from "power" to "torque". A proposal to reduce the period of maximum torque application from one hour to 15 minutes in Secs. 27.927(b)(2) and 29.927(b)(2) is contained in Notice No. 2 (Notice 75-10).
+
+In addition, proposed Sec. 27.927(c) would require that the rotor drive system be shown by test to be capable of operating under a condition that could occur in service.
+
+Ref. Proposal Nos. 850 and 925; Secs. 27.927(c) and 29.927; Agenda Item M-68.
+
+3-54. By revising Sec. 27.965 to read as follows:
+
+Sec. 27.965 Fuel tank tests.
+
+(a) Each fuel tank must be able to withstand the applicable pressure tests in this section without failure or leakage. If practicable, test pressures may be applied in a manner simulating the pressure distribution in service.
+
+(b) Each conventional metal tank, nonmetallic tank with walls that are not supported by the rotorcraft structure, and integral tank must be subjected to a pressure of 3.5 p.s.i. unless the pressure developed during maximum limit acceleration or emergency deceleration with a full tank exceeds this value, in which case a hydrostatic head, or equivalent tests, must be applied to duplicate the acceleration loads as far as possible. However, the pressure need not exceed 3.5 p.s.i. on surfaces not exposed to the acceleration loading.
+
+(c) Each nonmetallic tank with walls supported by the rotorcraft structure must be subjected to the following tests:
+
+(1) A pressure test of at least 2.0 p.s.i. This test may be conducted on the tank alone in conjunction with the test specified in paragraph (c)(2) of this section.
+
+(2) A pressure test, with the tank mounted in the rotorcraft structure, equal to the load developed by the reaction of the contents, with the tank full, during maximum limit acceleration or emergency deceleration. However, the pressure need not exceed 2.0 p.s.i. on surfaces not exposed to the acceleration loading.
+
+(d) Each tank with large unsupported or unstiffened flat areas, or with other features whose failure or deformation could cause leakage, must be subjected to the following test or its equivalent:
+
+(1) Each complete tank assembly and its support must be vibration tested while mounted to simulate the actual installation
+
+(2) The tank assembly must be vibrated for 25 hours while two-thirds full of any suitable fluid. The amplitude of vibration may not be less than one thirty-second of an inch, unless otherwise substantiated.
+
+(3) The test frequency of vibration must be as follows:
+
+(i) If no frequency of vibration resulting from any r.p.m. within the normal operating range of engine or rotor system speeds is critical, the test frequency of vibration, in number of cycles per minute must, unless a frequency based on a more rational calculation is used, be the number obtained by averaging the maximum and minimum power-on engine speeds (r.p.m.) for reciprocating engine powered rotorcraft or 2000 c.p.m. for turbine engine powered rotorcraft.
+
+(ii) If only one frequency of vibration resulting from any r.p.m. within the normal operating range of engine or rotor system speeds is critical, that frequency of vibration must be the test frequency.
+
+(iii) If more than one frequency of vibration resulting from any r.p.m. within the normal operating range of engine or rotor system speeds is critical, the most critical of these frequencies must be the test frequency.
+
+(4) Under paragraphs (d)(3)(ii) and (iii) of this section, the time of test must be adjusted to accomplish the same number of vibration cycles as would be accomplished in 25 hours at the frequency specified in paragraph (d)(3)(i).
+
+(5) During the test, the tank assembly must be rocked at the rate of 16 to 20 complete cycles per minute through an angle of 15 degrees on both sides of the horizontal (30 degrees total), about the most critical axis, for 25 hours. If motion about more than one axis is likely to be critical, the tank must be rocked about each critical axis for 12½ hours.
+
+Explanation. The fuel tank test provisions proposed are consistent with those contained in Sec. 29.965 and the proposal for that section. The FAA believes those requirements to be appropriate for all rotorcraft irrespective of the Part under which they are certificated.
+
+Ref. Proposal No. 363; Sec. 27.965; Agenda Item F-31.
+
+Sec. 27.1093 [Amended]
+
+3-55. By amending Sec. 27.1093(b) in a manner substantively identical to that proposed for Sec. 25.1093(b).
+
+Sec. 27.1121 [Amended]
+
+3-56. By amending Sec. 27.1121(d) in a manner substantively identical to that proposed for Sec. 23.1121(b), and by adding a new Sec. 27.1121(g) that would be substantively identical to the proposed new Sec. 23.1121(h).
+
+3-57. By adding a new Sec. 27.1141(c) that would be substantively identical to the proposed new Sec. 25.1141(f) and by adding a new Sec. 27.1141(d) to read as follows:
+
+Sec. 27.1141 Powerplant controls: general.
+
+* * * * *
+
+(d) For turbine-engine-powered rotorcraft, no single failure or malfunction, or probable combination thereof, in any powerplant control system may cause the failure of any powerplant function necessary for safety.
+
+Explanation. The proposal would incorporate into Part 27 the same requirement that exists in Sec. 23.1141(e). The Part 23 airplane requirement is appropriate for Part 27 rotorcraft turbine powerplant controls.
+
+Ref. Proposal No. 857; Sec. 27.1141; Agenda Item K-54.
+
+Sec. 27.1145 [Amended]
+
+3-58. By amending Sec. 27.1145(b) in a manner substantively identical to that proposal for Sec. 25.1145(c).
+
+Sec. 27.1305 [Amended]
+
+3-59. By amending Sec. 27.1305(e) in a manner substantively identical to that proposed for Sec. 23.1305(h).
+
+Sec. 27.1337 [Amended]
+
+3-60. By amending Sec. 27.1337(a) in a manner substantively identical to that proposed for Sec. 23.1337(a).
+
+PART 29 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+
+Sec. 29.571 [Amended]
+
+3-61. By amending Sec. 29.571(a) by revising the parenthetical statement contained therein to read- "(the flight structure includes rotors, rotor drive systems between the engines and the rotor hubs, controls, fuselage, and their related primary attachments)".
+
+Explanation. The proposal would make it clear that the fatigue evaluation of flight structure required under Sec. 29.571 applies to portions of the rotor drive system.
+
+Ref. Proposal No. 922; Secs. 29.917(c) (d); Agenda Item M-66.
+
+3-62. By revising Sec. 29.901(b)(1) and adding a new Sec. 29.901(c) to read as follows:
+
+Sec. 29.901 Installations.
+
+* * * * *
+
+(b) * * *
+
+(1) The installation must comply with-
+
+(i) The installation instructions provided under Sec. 33.5 of this chapter;
+
+(ii) The applicable provisions of this subpart; and
+
+(iii) For turbine powerplant installations, any other requirements necessary for safety;
+
+* * * * *
+
+(c) For each powerplant and auxiliary power unit installation, it must be established that no single failure of malfunction or probable combination of failures will jeopardize the safe operation of the rotorcraft except that the failure of structural elements need not be considered if the probability of such failure is extremely remote.
+
+Explanation. With the revision of Sec. 33.5 in Amendment 33-6, the FAA believes it appropriate to require the engine installation to meet the instructions for installation required to be provided by the engine manufacturer.
+
+A generalized failure requirement would also be added consistent with the proposal being made for Sec. 25.901.
+
+Ref. Proposal Nos. 917, 938; Secs. 29.901(b)(6), 29.1141; Agenda Items E-14, K-54.
+
+Sec. 29.903 [Amended]
+
+3-63. By deleting Secs. 29.903(d) and (e) and marking them "[Reserved]".
+
+Explanation. See the proposal for Sec. 29.908.
+
+3-64. By adding a new Sec. 29.908 to read as follows:
+
+Sec. 29.908 Cooling fans.
+
+For cooling fans that are a part of a powerplant installation the following apply:
+
+(a) Category A. For cooling fans installed in category A rotorcraft, there must be means to ensure that a fan failure will not affect the operation of the engines or prevent continued safe flight except that the loss of cooling need not be considered.
+
+(b) Category B. For cooling fans installed in category B rotorcraft, there must be means to protect the rotorcraft and allow a safe landing if a fan fails. It must be shown that-
+
+(1) The fan would be contained in the case of a failure;
+
+(2) Each fan is located so that a failure will not jeopardize safety; or
+
+(3) Each fan can withstand an ultimate load of 1.5 times the centrifugal force expected in service, limited by either-
+
+(i) The highest rotational speeds achievable under uncontrolled conditions; or
+
+(ii) An overspeed limiting device.
+
+Explanation. Present Secs. 29.903(d) and (e) apply only to fan blades of engine cooling fans. The FAA believes that the requirement should apply to the entire cooling fan, whether or not a part of the engine, if the fan is a part of the powerplant installation.
+
+Ref. Proposal No. 920; Sec. 29.903(d); Agenda Item E-21.
+
+Sec. 29.927 [Amended]
+
+3-65. By adding a new Sec. 29.927(c) that would be substantively identical to the proposed new Sec. 27.927(c).
+
+3-66. By revising Sec. 29.965(d)(3)(i) to read as follows:
+
+Sec. 29.965 Fuel tank tests.
+
+* * * * *
+
+(d) * * *
+
+(3) * * *
+
+(i) If no frequency of vibration resulting from any r.p.m. within the normal operating range of engine or rotor system speeds is critical, the test frequency of vibration, in number of cycles per minute, must, unless a frequency based on a more rational analysis is used, be the number obtained by averaging the maximum and minimum power-on engine speeds (r.p.m) for reciprocating engine powered rotorcraft or 2000 c.p.m. for turbine engine powered rotorcraft.
+
+* * * * *
+
+Explanation. The 0.9 factor of maximum continuous speed currently specified is inappropriate since for many helicopters it would dictate a test speed below the power-on operating range. The proposed averaging process would assure use of a meaningful test value and the alternative rational calculation would permit discretion in obtaining a satisfactory test. A realistic test frequency for turbine installations is also proposed.
+
+Ref. Proposal No. 929; Sec. 29.965(d); Agenda Item F-23.
+
+Sec. 29.991 [Amended]
+
+3-67. By amending Sec. 29.991(b) by adding a sentence at the end thereof to read - "Each pump used for this purpose must be activated automatically or operated continuously so that enough fuel pressure will be maintained to prevent engine stoppage."
+
+Explanation. The proposal would make Sec. 29.991(b) substantively identical to Sec. 27.991(b).
+
+Ref. Proposal No. 931; Sec. 29.991(b); Agenda Item F-325.
+
+Sec. 29.995 [Amended]
+
+3-68. By deleting Sec. 29.995(a) and marking it "[Reserved]".
+
+Explanation. See the proposals for Secs. 29.1141 and 25.1141.
+
+Sec. 29.1093 [Amended]
+
+3-69. By amending Sec. 29.1093(b) in a manner substantively identical to that proposed for Sec. 25.1093(b).
+
+Sec. 29.1121 [Amended]
+
+3-70. By amending Sec. 29.1121 in a manner substantively identical to that proposed for Sec. 25.1121.
+
+Sec. 29.1141 [Amended]
+
+3-71. By adding a new Sec. 29.1141(f) that would be substantively identical to the proposed new Sec. 25.1141(f).
+
+Sec. 29.1145 [Amended]
+
+3-72. By amending Sec. 29.1145(c) in a manner substantively identical to that proposed for Sec. 25.1145(c).
+
+Sec. 29.1193 [Amended]
+
+3-73. By amending Sec. 29.1193(e) by deleting from the lead-in the words "category A".
+
+Explanation. Under Part 29 certain category B rotorcraft are not required to have fire extinguishing systems or fire detector systems. Moreover, there are presently no fire containment provisions for such rotorcraft. It is therefore possible for a fire to burn in the engine of these category B rotorcraft without being detected and to spread rapidly through the aircraft. Paragraph (e) of Sec. 29.1193 is designed to prevent such an undetected engine fire from spreading. However, that paragraph currently applies only to category A rotorcraft. This proposal would make the provisions of paragraph (e) applicable to all rotorcraft to be certificated under Part 29.
+
+Ref. Proposal No. 943; Sec. 29.1193(e); Agenda Item L-60.
+
+3-74. By revising Sec. 29.1195(b) to read as follows:
+
+Sec. 29.1195 Fire extinguishing systems.
+
+* * * * *
+
+(b) For multi-engine powered rotorcraft, the fire extinguishing system, the quantity of extinguishing agent, and the rate of discharge must-
+
+(1) For each auxiliary power unit and combustion equipment, provide at least one adequate discharge; and
+
+(2) For each other designated fire zone, provide two adequate discharges.
+
+* * * * *
+
+Explanation. See the proposal for Sec. 25.1195.
+
+Ref. Proposal No. 291; Sec. 25.1195(b); Agenda Item L-56. 
+
+Sec. 29.1197 [Amended]
+
+3-75. By amending Sec. 29.1197 by deleting from paragraph (b) the words "methyl bromide, carbon dioxide, or any other" and inserting "any" in their place and by deleting paragraph (c).
+
+Explanation. The proposal would remove specific references to obsolete extinguishing agents. A proposal to revise paragraph (a) is contained in Notice Number 2 (Notice 75-10).
+
+Ref. Proposal No. 402; Sec. 29.1197; Agenda Item L-62.
+
+Sec. 29.1199 [Amended]
+
+3-76. By amending Secs. 29.1199(b) and (c) in a manner substantively identical to that proposed for Secs. 25.1199(b) and (c).
+
+Sec. 29.1305 [Amended]
+
+3-77. By amending Sec. 29.130-5(a)(5) in a manner substantively identical to that proposed for Sec. 23.1305(h).
+
+Sec. 29.1337 [Amended]
+
+3-78. By amending Sec. 29.1337(a) in a manner substantively identical to that proposed for Sec. 23.1337(a).
+
+PART 33 - AIRWORTHINESS STANDARDS; AIRCRAFT ENGINES
+
+Sec. 33.15 [Amended]
+
+3-79. By amending Sec. 33.15 in a manner substantively identical to that proposed for Sec. 35.17.
+
+3-80. By revising Sec. 33.17(a) by inserting the words "reciprocating engines" in place of the words "the engine" and by adding a new Sec. 33.17(f) to read as follows:
+
+Sec. 33.17 Fire prevention.
+
+* * * * *
+
+(f) The design and construction of turbine engines must minimize the probability of the occurrence of an internal fire that could result in structural failure, overheating, or other hazardous condition.
+
+Explanation. Section 33.17(a) was developed for reciprocating engines and therefore does not adequately cover the problems associated with internal fires in turbine engines. The failure of internal turbine engine components can liberate hot air in the presence of a flammable fluid or liberate a flammable fluid in the presence of an ignition source. Such occurrences could lead to an internal fire that could result in structural failure, overheating, or other hazardous conditions. The proposal would therefore make Sec. 33.17(a) applicable to reciprocating engines only and would add an appropriate requirement applicable to turbine engines.
+
+Ref. Proposal No. 992; Sec. 33.17; Agenda Item C-7.
+
+PART 35 - AIRWORTHINESS STANDARDS; PROPELLERS
+
+3-81. By revising Sec. 35.17 to read as follows:
+
+Sec. 35.17 Materials.
+
+The suitability and durability of materials used in the propeller must-
+
+(a) Be established on the basis of experience or tests; and
+
+(b) Conform to approved specifications (such as industry or military specifications, or Technical Standard Orders) that ensure their having the strength and other properties assumed in the design data.
+
+Explanation. The proposal would clarify the current rule.
+
+Ref. proposal No. 429; Sec. 35.17; Agenda Item P-82.
+
+3-82. By revising Sec. 35.35 to read as follows
+
+Sec. 35.35 Blade retention test.
+
+The hub and blade retention arrangement of propellers with detachable blades must be subjected to a centrifugal load of twice the maximum centrifugal force to which the propeller would be subjected during operations within the limitations established for the propeller. This may be done by either a whirl test or a static pull test.
+
+Explanation. The proposal would revise the present rule to make it clear that the centrifugal load application required is twice the maximum load expected during propeller operations within established limits.
+
+Ref. Proposal No. 433; Sec. 35.35; Agenda Item P-84.
+
+APPENDIX I COMMITTEE IV (POWERPLANT) PROPOSALS DEFERRED GROUP 1
+
+Based upon the discussions at the Airworthiness Review Conference, the FAA has determined that the proposals listed below appear to have sufficient merit to warrant further consideration but for various reasons should be deferred for consideration at the next Airworthiness Review or Operations review as appropriate. Included in the reasons for deferral are the following:
+
+1. The proposal is so complex or extensive that more time is required than is available within the 1974-75 Airworthiness Review to give it full consideration.
+
+2. More data is needed, to supplement or support the proposal, before a decision can be reached.
+
+3. The proposal would be more appropriately considered during an operations review.
+
+The deferral of those proposals does not foreclose the FAA from taking separate rulemaking action on the deferred proposals if a need for such action should arise.
+
+14 CFR (FAR Sec.)
+
+ Proposal No.
+
+ Agenda Item
+
+ Proponent
+
+ 
+
+Pt. 23 58
+
+ L-56
+
+ National Transportation Safety Board. 
+
+Pt. 23 56
+
+ N-69
+
+ Do. 
+
+23.33 62
+
+ O-79
+
+ General Aviation Manufacturers Association. 
+
+23.907 98
+
+ O-80
+
+ Do. 
+
+23.1041 108
+
+ H-39
+
+ The Dee Howard Co. 
+
+23.1045 109
+
+ H-40
+
+ Do. 
+
+23.1093 110
+
+ I-43
+
+ General Aviation Manufacturers Association. 
+
+23.1305 113
+
+ N-69
+
+ A.R.P. Industries. 
+
+23.1337 117
+
+ N-76
+
+ Department of Transportation - Australia 
+
+25.934 269
+
+ E-18
+
+ Aerospace Industries Association. 
+
+25.1011 281
+
+ G-36
+
+ Do. 
+
+27.1015 364
+
+ G-38
+
+ Uniroyal Plastic Products. 
+
+29.991 399
+
+ F-35
+
+ Aerospace Industries Association. 
+
+33.97 424
+
+ C-10
+
+ General Aviation Manufacturers Association. 
+
+35.37 435
+
+ P-86
+
+ Department of Transportation - Australia 
+
+35.37 436
+
+ P-86
+
+ General Aviation Manufacturers Association. 
+
+Pt. 1 9
+
+ B-4
+
+ Rolls-Royce, Ltd. 
+
+23.967 103
+
+ F-24
+
+ General Aviation Manufacturers Association. 
+
+23.991 648
+
+ Not in agenda.
+
+ Federal Aviation Administration. 
+
+23.1047 654
+
+ H-41
+
+ Do. 
+
+23.1337 691
+
+ N-74
+
+ Do. 
+
+Pt. 25 149
+
+ B-6
+
+ Rolls-Royce, Ltd. 
+
+25.901 736
+
+ A-1(Committee I)
+
+ Federal Aviation Administration. 
+
+25.913 738
+
+ do
+
+ Do. 
+
+25.939 740
+
+ B-3(Committee I)
+
+ Do. 
+
+25.1103 760
+
+ A-1(Committee I)
+
+ Do. 
+
+25.1195 775
+
+ L-56
+
+ Do. 
+
+25.1305 785
+
+ N-78
+
+ Do. 
+
+29.923 923
+
+ M-65
+
+ Do. 
+
+29.927 924
+
+ M-65
+
+ Do. 
+
+Pt. 33 423
+
+ B-5
+
+ Rolls-Royce, Ltd. 
+
+33.65 995
+
+ B-3(Committee I)
+
+ Federal Aviation Administration. 
+
+35.5 428
+
+ P-81
+
+ General Aviation Manufacturers Association. 
+
+35.36 434
+
+ P-85
+
+ Do. 
+
+35.39 998
+
+ P-87
+
+ Federal Aviation Administration. 
+
+APPENDIX II COMMITTEE IV (POWERPLANT) PROPOSALS WITHDRAWN BY PROPONENT
+
+The proposals listed below were withdrawn by their proponents. The proponents or other interested persons may submit similar proposals in the future. The withdrawal of FAA proposals does not commit the FAA to any future course of action.
+
+14 CFR (FAR Sec.)
+
+ Proposal No.
+
+ Agenda Item
+
+ Proponent
+
+ 
+
+23.993 649
+
+ F-28
+
+ Federal Aviation Administration. 
+
+23.1047 655
+
+ H-41
+
+ Do. 
+
+23.1091 656
+
+ I-42
+
+ Do. 
+
+23.1093 657
+
+ I-43
+
+ Do. 
+
+23.1105 660
+
+ I-44
+
+ Do. 
+
+23.1189 668
+
+ L-59
+
+ Do. 
+
+23.1305 674
+
+ N-70
+
+ Do. 
+
+25.967 277
+
+ F-24
+
+ Joint Airworthiness Requirements Committee. 
+
+25.967 748
+
+ F-24
+
+ Federal Aviation Administration. 
+
+25.975 749
+
+ F-26
+
+ Do. 
+
+25.1091 758
+
+ I-42
+
+ Do. 
+
+25.1183 773
+
+ L-61
+
+ Do. 
+
+25.1203 779
+
+ L-56
+
+ Do. 
+
+25.1305 783
+
+ N-70
+
+ Do. 
+
+27.975 851
+
+ F-26
+
+ Do. 
+
+27.999 852
+
+ F-34
+
+ Do. 
+
+27.1091 853
+
+ I-48
+
+ Do. 
+
+27.1091 854
+
+ I-42
+
+ Do. 
+
+27.1143 858
+
+ K-55
+
+ Do. 
+
+27.1193 861
+
+ L-60
+
+ Do. 
+
+27.1337 869
+
+ Not in agenda.
+
+ Do. 
+
+29.961 928
+
+ F-30
+
+ Do. 
+
+29.975 930
+
+ F-25
+
+ Do. 
+
+29.999 932
+
+ F-34
+
+ Do. 
+
+29.1091 935
+
+ Not in agenda.
+
+ Do. 
+
+29.1091 936
+
+ I-48
+
+ Do. 
+
+29.1143 939
+
+ K-55
+
+ Do. 
+
+29.1165 401
+
+ K-53
+
+ Aerospace Industries Association. 
+
+29.1305 948
+
+ N-70
+
+ Federal Aviation Administration. 
+
+33.23 993
+
+ C-8
+
+ Do. 
+
+33.63 994
+
+ C-9
+
+ Do. 
+
+35.19 431
+
+ P-82
+
+ General Aviation Manufacturers Association. 
+
+35.41 999
+
+ P-88
+
+ Federal Aviation Administration. 
+
+Pt. 127 1097
+
+ L-56
+
+ Do. 
+
+APPENDIX III COMMITTEE IV (POWERPLANT) PROPOSALS REMOVED FROM CONSIDERATION FROM THE FIRST BIENNIAL AIRWORTHINESS REVIEW
+
+Based on the FAA's review of the discussions at the Airworthiness Review Conference and of the information submitted by interested persons, the following proposals considered by Committee IV at the Airworthiness Review Conference are removed from consideration during the First Biennial Airworthiness Review for the reasons listed below:
+
+14 CFR (FAR Sec.)
+
+ Proposal No.
+
+ Agenda Item
+
+ Proponent
+
+ 
+
+Pt. 1 8
+
+ A-1
+
+ Rolls-Royce, Ltd. 
+
+23.965 101
+
+ F-23
+
+ Uniroyal, Inc. 
+
+23.977 105
+
+ F-27
+
+ General Aviation Manufacturers Association. 
+
+23.1182 111
+
+ L-58
+
+ Do. 
+
+23.1305 112
+
+ N-71
+
+ Do. 
+
+Pt. 25 138
+
+ A-3
+
+ Rolls-Royce, Ltd. 
+
+25.901 264
+
+ E-14
+
+ Joint Airworthiness Requirements Committee. 
+
+25.901 265
+
+ E-16
+
+ Do. 
+
+25.961 273
+
+ F-30
+
+ Do. 
+
+25.963 274
+
+ F-24
+
+ Do. 
+
+25.965 276
+
+ F-23
+
+ Uniroyal, Inc. 
+
+25.993 280
+
+ F-29
+
+ Joint Airworthiness Requirements Committee. 
+
+25.1027 282
+
+ G-37
+
+ Do. 
+
+25.1103 285
+
+ I-46
+
+ Do. 
+
+25.1107 287
+
+ I-47
+
+ Do. 
+
+25.1183 290
+
+ L-61
+
+ Do. 
+
+25.1203 292
+
+ L-56
+
+ Aerospace Industries Association. 
+
+25.1305 294
+
+ N-77
+
+ Joint Airworthiness Requirements Committee. 
+
+Pt. 27 344
+
+ F-33
+
+ Swiss Federal Air Office. 
+
+Pt. 29 375
+
+ F-33
+
+ Do. 
+
+29.923 397
+
+ M-67
+
+ Aerospace Industries Association. 
+
+29.965 398
+
+ F-23
+
+ Uniroyal, Inc. 
+
+Pt. 33 422
+
+ A-2
+
+ Rolls-Royce, Ltd. 
+
+35.33 432
+
+ P-83
+
+ General Aviation Manufacturers Association. 
+
+Proposal No. 8 - See Proposal No. 422 with respect to contingency ratings.
+
+Proposal No. 101 - The proponent suggested that Secs. 23.965(b) and (d), 25.965(b) and 29.965 be revised to make it clear that production fuel tanks need not be tested in accordance with these requirements. However, since these provisions clearly only require testing for the type certification of the aircraft, there is no need to amend the rule.
+
+The proponent also suggested that the fuel tank sloshing test requirement of Sec. 23.965(d) be revised to require one test at 110°F with a specified test fluid and with vibration being applied concurrently. With respect to requiring one test at 110°F instead of the currently required two tests, one at room temperature and one at 110°F, the results obtained would not be sufficiently conservative since the test at room temperature could be the more critical. With respect to requiring the use of the specific test fluid suggested by the proponent, that fluid is commonly used; however, to require only its use would be unduly restrictive. Finally, vibration tests are not needed for all nonmetallic tanks. Section 23.965(b) already requires vibration tests for those kinds of tanks that need such tests.
+
+Proposal No. 105 - The substance of this proposal was covered in Notice No. 2 (Notice 75-10).
+
+Proposal No. 111 - The proponent suggested that Sec. 23.1182 be revise to require a test at a flame temperature of 2000±50°F. The FAA believes that the current regulations, requiring a 2000°F minimum flame temperature is adequate, and the proponent did not present substantial justification for the requested revision.
+
+Proposal No. 112 - The proposal would amend Sec. 23.1305(g) to permit the installation of a means equivalent to the required fuel pressure indicator to indicate proper fuel flow to the engines. While other means, such as a flow meter, might provide useful information, engine certification under FAR 33 is predicated on minimum and maximum pressure limits. Since certain fuel system failures can result in a pressure less than the minimum or greater than the maximum permissible, an indication of pressure is necessary to show proper fuel system functioning.
+
+Proposal No. 138 - See Proposal No. 422 with respect to contingency ratings.
+
+Proposal No. 264 - This proposal requests that Sec. 25.671(b) be made applicable to powerplant installation components whose incorrect assembly would jeopardize safe aircraft operations. The FAA does not agree. The proposal is too general in nature. Where service experience indicates that incorrect assembly of a component would jeopardize safe airplane operation, provisions similar to Sec. 25.671(b) have and will be incorporated into the regulations with respect to specific kinds of components.
+
+Proposal No. 265 - It was proposed that testing of the powerplant installation be required under hot climate conditions. The FAA does not agree. Sections 25.939, 25.1041, and 25.1045 and the extrapolation used to establish operating limitations for hot weather conditions, provide for more conservative limitations than would the testing proposed.
+
+Proposal No. 273 - The proposal sets forth advisory material and rulemaking has not been shown to be necessary. However, while not discussed at the Conference, the FAA believes that there is no assurance that the use of higher vapor pressure fuels at a lower fuel temperature, as suggested by the proponent, to simulate the test condition specified in sec. 25.961(a)(5), will provide adequate results since there exists no assurance that the vapor forming tendencies of the differing fuels at the differing temperatures will be the same. Therefore, the proposal is inappropriate for rulemaking.
+
+Proposal No. 274 - The proponent suggested that Sec. 25.963(a) be revised to cover fuel tank corrosion caused by microbial contamination of fuel: however, Sec. 25.609(a)(2) currently provides for such consideration and the revision is therefore unnecessary.
+
+Proposal No. 276 - See Proposal No. 101 with respect to testing of production tanks.
+
+Proposal No. 280 - This proposal to permit the use of means equivalent to flexible hose assemblies under Sec. 25.993(c) is unnecessary since it is already permitted under Sec. 21.21(b)(1).
+
+Proposal No. 282 - The proponent suggested that Sec. 25.1027(b) be revised to require that sufficient oil be available to engine-oil-dependent propeller feathering systems to allow for the feathering and unfeathering of the propeller after certain lubrication system failures. The current rule requires only that there be sufficient oil to feather the propeller. Presented as a rationale for the proposed change was the possible need to restart the shutdown engine and unfeather the propeller in the event of a two engine failure situation. The FAA does not agree because the FAA believes that the proposal would result in the incorporation of unnecessary design features.
+
+Proposal No. 285 - The proponent suggested that Sec. 25.1103(a) be revised by making that paragraph applicable to reciprocating engine induction systems and that Sec. 25.1103(d) be revised to specify a particular failure condition. With respect to Sec. 25.1103(a), since the provision refers to superchargers, by its own terms it only applies to reciprocating engine installations, and with respect to Sec. 25.1103(d) the proposal is advisory in nature. In neither case has regulatory action been shown to be needed.
+
+Proposal No. 287 - The proponent suggested that the title of Sec. 25.1107 be revised to make it clear that the section applies only to reciprocating engine installations: however, since the provision refers to inter-coolers ad after-coolers, by its own terms it applies only to such installations. Regulatory action has not been shown to be needed.
+
+Proposal No. 290 - The objective of this proposal to require that certain components within designated fire zones be fireproof is currently adequately covered in the Powerplant Fire Protection provisions.
+
+Proposal No. 292 - The proposal would add the phrase "except where other means acceptable to the Administrator are shown" at the beginning of Sec. 25.1203(a). The proposal is unnecessary as equivalency is provided for under Sec. 21.21.
+
+Proposal No. 294 - The proposal sets forth acceptable means of compliance which is advisory only and rulemaking has not been shown to be necessary.
+
+Proposal No. 344 - The proponent suggested that standards be provided for fuel jettisoning systems installed in rotorcraft. While the proposal may have merit, the FAA is unaware of any interest in installing such a system in a civilian helicopter planned for type certification, and the proposal, therefore, is unnecessary. However, if application is made to install such a system, standards could be adopted in the form of Special Conditions.
+
+Proposal No. 375 - See Proposal No. 344.
+
+Proposal No. 397 - As explained by the proponent, the proposal would permit rotor brake bench testing instead of compliance with Sec. 29.923(j) if after type certification and compliance with Sec. 29.923(j) the rotor brake is modified. The FAA does not believe a rule change is necessary. The certificating region under the provisions of Part 21 has sufficient authority to permit brake bench tests under the circumstances presented if there exists no need to reconduct the original endurance test for the new installation.
+
+Proposal No. 398 - See Proposal No. 101 with respect to testing of production tanks.
+
+Proposal No. 422 - The proponent suggested that contingency ratings be developed for airplane turbine engines. Based on Conference discussions the FAA believes that the emergency thrust concept of Proposal No. 154, Sec. 25.101(c) (Agenda Item F-32, Committee II - Flight) sets forth a more agreeable concept than that proposed here. Therefore, these proposals are being removed in favor of continued consideration of the concept of Proposal No. 154 with the emergency thrust being limited by the maximum approved takeoff thrust.
+
+Proposal No. 432 - The proponent suggested that Sec. 35.33(b) be revised to make it clear that the applicant for a propeller type certificate need not furnish its own testing facilities for the required tests. However, the current rule clearly permits the use of test facilities not owned by the applicant, and the suggested revision, therefore, is unnecessary.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on May 13, 1975.
+
+J. A. Ferrares
+
+Acting Director, Flight Standards Service.
+
+[FR Doc. 75-13074 Filed 3-16-75; 8:45 am]
+
+
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of Invitation to Submit Proposals: Notice No. 74-5; Issued on 2/14/74.
+
+Notice of Compilation of Proposals; Notice No. 74-5A; Issued on 5/22/74.
+
+Notice of Availability of Agenda; Notice No. 74-5B; Issued on 10/3/74.
+
+Notice of Clarifying Revisions; Notice No. 74-33; Issued on 10/3/74. 
+
+Notice of Conference; Notice No. 74-5C; Issued on 11/25/74.
+
+Notice of Availability of Conference Summary; Notice No. 74-5D; Issued on 2/4/75.
+
+Notice of Airworthiness Review Program No. 2; Notice No. 75-10; Issued on 2/27/75.
+
+Notice of Airworthiness Review Program No. 4; Notice No. 75-20; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 5; Notice No. 75-23; Issued on 5/19/75.
+
+Notice of Airworthiness Review Program No. 6; Notice No. 75-25; Issued on 5/29/75.
+
+Notice of Airworthiness Review Program No. 7; Notice No. 75-26; Issued on 6/9/75.
+
+Notice of Airworthiness Review Program No. 8; Notice No. 75-31; Issued on 6/30/75.

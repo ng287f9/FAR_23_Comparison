@@ -1,0 +1,3151 @@
+CFR NPRM: Part 21|Part 23|Part 25|Part 27|Part 29|Part 31|Part 33|Part 35
+
+ 
+ 
+        
+CITATION: [Federal Register: July 11, 1975]
+
+ 
+        
+PAGE NUMBER: [Page 29410]
+
+ 
+        
+DOCKET NUMBER: 14779
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 25|Part 27|Part 29|Part 31|Part 33|Part 35
+
+ 
+        
+SUBJECT: Airworthiness Review Program, Notice No. 8: Aircraft, Engine, and Propeller 
+Airworthiness, and Procedural Proposals
+
+ 
+        
+ACTION: Proposed Amendments
+
+ 
+        
+SUMMARY: 
+
+ The Federal Aviation Administration is considering amending Parts 1, 21, 23, 25, 27, 29, 31, 33, 35, 43, 45, 91, and 121 of the Federal Aviation Regulations to update and improve the airworthiness standards applicable to the type certification of aircraft, engines, and propellers, related operating rules, and procedural requirements.
+
+ 
+        
+DATES: Comments due on or before October 9, 1975.
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ This is the eighth in a series of notices of proposed rule making issued, or to be issued, as a part of the First Biennial Airworthiness Review Program. Notice No. 74-33 (39 FR 36595; October 11, 1974) was the first. Amendments 21-43 , 23-16, and 25-37, issued on December 31, 1974 (40 FR 2576; January 14, 1975) pursuant to that notice, incorporated certain form number and clarifying revisions into the Federal Aviation Regulations. In addition to Notice 74-33, the following Airworthiness Review notices of proposed rule making have been issued;
+
+Airworthiness review program notice number and title
+
+ Notice No.
+
+ FR citation
+
+ 
+
+2 - Miscellaneous Proposals. 75-10
+
+ (40 FR 10802; Mar. 7, 1975.) 
+
+3 - Powerplant Proposals. 75-19
+
+ (40 FR 21866; May 19, 1975.) 
+
+4 - Equipment Deviation List. 75-20
+
+ (40 FR 22110; May 20, 1975.) 
+
+5 - Equipment and Systems Proposals. 75-23
+
+ (40 FR 23048; May 27, 1975.) 
+
+6 - Flight Proposals 75-25
+
+ (40 FR 24664; June 9, 1975.) 
+
+7 - Airframe Proposals 75-26
+
+ (40 FR 24802; June 10, 1975.) 
+
+ Interested persons, including the general public, manufacturers and users of aircraft and their components, both foreign and domestic, and foreign airworthiness authorities, are invited to participate in this proposed rulemaking by submitting such written data, views, or arguments as they may desire. Comments relating to any significant environmental or economic impact that might result because of the adoption of the proposals contained herein may also be submitted. Comments should identify this regulatory docket or notice number (Docket No. 14779; Notice No. 31) and be submitted in duplicate to: Federal Aviation Administration, Office of Chief Counsel, Attention: Rules Docket, AGC-24, 800 Independence Avenue, SW, Washington, D.C. 20591. All communications received on or before October 9, 1975, will be considered by the Administrator before taking action on the proposed rules. However, interested persons are urged to submit their comments as early as possible to facilitate rapid resolution of any issues raised. The proposals contained in this notice may be changed in the light of comments received. All comments submitted will be available in the Rules Docket for examination by interested persons.
+
+ On February 12, 1974, the FAA issued an invitation to all interested persons to submit proposals for consideration during the First Biennial Airworthiness Regulations Review (see Notice 74-5, 39 FR 5785, February 15, 1974). In that notice, the FAA announced that it would make available for comment by interested persons a compilation of proposals that were to be given further consideration as possible agenda items for the First Biennial Airworthiness Review Conference. On May 23, 1974, the FAA issued an announcement of the availability of the Compilation of Proposals containing over 1000 submissions by the FAA and interested persons, and invited all interested persons to submit comments on the proposals it contained (see Notice 74-5A, 39 FR 18662, May 29, 1974).
+
+ In response to that invitation for comments, the FAA received over 4900 individual comments contained in 74 submissions. Based on those comments and on the Compilation of Proposals, the FAA prepared a number of working documents, for the Airworthiness Review Conference held in Washington, D.C., on December 2-11, 1974. The FAA distributed those documents to all persons who had participated in the Airworthiness Review Program and to all other interested persons who requested them (see Notice 74-5B, 39 FR 36594, October 11, 1974).
+
+ For reasons given in Notice 74-5B, not all of the proposals contained in the Compilation were included in the agenda for the conference. However, the proposals not included in the agenda were listed in a conference workbook titled "Proposals Not in Agenda." In general, Notice 75-10 deals with the proposals identified as "Items for Notice" in that workbook.
+
+ On November 25, 1974, the FAA issued a Notice of Conference that set forth the schedule for the conference and invited all interested persons to attend the conference (see Notice 74-5C, 39 FR 41319, November 26, 1974).
+
+ The Airworthiness Review Conference was attended by over 586 individuals representing 22 foreign airworthiness authorities as well as aircraft manufacturers and users. Except for the opening and closing plenary sessions of the conference, one or more committees discussed agenda items during conference working hours. Summaries were given by the FAA Committee Chairmen at the close of discussions on each agenda item. Persons present were given an opportunity to correct those oral summaries. Those summaries were transcribed with editorial revisions, and combined with an attendee list for the conference as well as with transcripts of certain plenary session speeches, and distributed in accordance with a Notice of Availability issued February 4, 1978 (see Notice 74-5D; 40 FR 6810; February 7, 1975).
+
+ This notice deals with the proposals contained in the Committee workbook, titled "Committee I - Procedures and Special Subjects." This workbook contained the proposals discussed by the Procedures and Special Subjects Committee at the Airworthiness Review Conference as well as written comments that were received for those proposals in response to Notice 74-5A. Another conference working document use was the Agenda for the Airworthiness Review Conference. That document, in addition to providing general information relating to the conference, included detailed information on how the proposals were grouped into agenda items, and the scheduling of those items for discussion. Both the workbooks and the agenda were updated and corrected by a supplemental working document distributed prior to and at the conference to participating individuals as well as to other interested persons. These workbooks along with the committee discussions and written information submitted by conference attendees has provided the basis upon which the FAA has developed this notice.
+
+ A number of proposals contained in this notice were not included in the Committee I workbook. They are directly related to the proposals in the workbook and are included for the sake of clarity, consistency, and comprehensiveness. However, two circumstances exist in which this is not the case. This notice contains a large number of proposals dealt with by committees other than Committee I at the Airworthiness Review Conference. Those proposals were deferred to be dealt with in a later Airworthiness Review notice of proposed rule making and were listed in Appendix I, Group 2 of Airworthiness Review Notice No. 3, 5, 6, and 7. In addition, proposals are included in this notice that were "Items for Notice" in the "Proposals Not in Agenda" workbook but were withheld from consideration pending the completion of the Airworthiness Review Conference (see Appendix I to Notice 75-10 for a list of these proposals).
+
+ A number of proposals contained in the Committee I workbook are not included in this notice. In addition, a number of proposals listed in Appendix I, Group 2 of Airworthiness Review Notice Nos. 3, 5, 6, and 7 are not proposed in this notice. These proposals fall into four general categories - (1) those proposals which are being deferred to a later notice or to the next Airworthiness or Operations Review; (2) those proposals withdrawn by their proponent; (3) those proposals removed by the FAA from consideration as a part of the Airworthiness Review Program; and (4) with respect to Committee I workbook proposals, those that have already been dealt with in Notice Nos. 3, 4, 5, 6, and 7.
+
+ Appendix I of this notice lists the proposals in the first category, and Appendix II of this notice lists those in the second. In general it is felt by the FAA that the proposals in Appendix I that will appear in the next Airworthiness or Operations Review, unless withdrawn by their proponent, have sufficient merit to warrant further consideration, but because of the complexity of the proposal, the need for additional data, or the operational character of the proposal, further consideration within this Airworthiness Review Program is not feasible. The other group of proposals included in Appendix I are being deferred to be dealt with in a later notice to be issued as a part of this Airworthiness Review Program. In general, this group includes proposals to limit the duration of type certificates and other related proposals. Appendix III lists those proposals being removed from consideration as a part of the Airworthiness Review Program. Reasons for these actions are presented for each proposal. Appendix IV lists the Committee I workbook proposals that have been dealt with in earlier notices.
+
+ The FAA believes that the airworthiness standards should to the extent practical, be consistent throughout the aircraft certification parts (Parts 23, 25, 27, 29). Therefore, the FAA has attempted within the time frame of this Airworthiness Review Program, to make consistent and parallel proposals, where appropriate, for each of these certification parts.
+
+ To avoid unnecessary repetition, in a number of instances the proposals developed for purposes of consistency are not set forth in their entirety if those proposals are substantively identical to another proposal in this notice. A short-form proposal referring to a proposal that is expressly set forth in this notice is used. Where a short-form proposal is used, however there may be a need, if the proposal is to be adopted as a final rule, to change paragraph designations, cross references, or aircraft terminology (e.g. "airplane" to "rotorcraft", or vice versa) from that used in the referenced express proposal.
+
+ The FAA recognizes that there may exist additional instances in which a proposed rule change prescribed in this notice as expressly applying only to certain parts of the Federal Aviation Regulations should more appropriately apply to additional parts as well. Therefore, with respect to each proposal in this notice relating to Parts 23, 25, 27, or 29 of the Federal Aviation Regulations for which similar proposals do not exist for all of those parts, comments are solicited from all interested persons with respect to the applicability of that proposal (and its stated explanation) to those parts for which the proposal has not been expressly presented. Such comments received in response to this notice will either be dealt with as a part of the 1974-1975 Airworthiness Review Program or be considered as a part of the next Biennial Airworthiness Review.
+
+ For convenience, each proposal in this notice is numbered separately. The FAA requests that interested persons, when submitting comments, refer to proposals by these numbers, or by the sections to which they relate. Each proposal contains, or references a proposal that contains, a reference to the Airworthiness Review Program proposal number, section, agenda item, and Committee to which that proposal relates. Comments on this notice should not refer to the Airworthiness Review Program proposal numbers or section numbers as set forth in this notice. Each proposal in this notice is provided with an explanation. Several explanations deal with comments received in response to Notice 74-5A; however, all comments submitted in response to Notice 74-5A or submitted for the Airworthiness Review Conference, dealing with proposals contained in this notice, should be resubmitted if it is desired that they be considered as a part of this rulemaking action.
+
+ Finally, it should be noted that the Operations Review Program Compilation of Proposals (see Notice 25-9A; 40 FR 24041; June 4, 1975) contains proposals is that are covered in this or other Airworthiness Review Program notices of proposed rulemaking. Those Operations Review Program proposals will be removed from consideration.
+
+ This amendment is proposed under the authority of sections 307(c), 313(a), 502, 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1348(c), 1354(a), 1402, 1421, 1423, 1424, and 1425) and of section 6(c) of the Department of Transportation Act (49 U.S.C. 1655(c)). 
+
+
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment: 
+
+ In consideration of the foregoing, it is proposed to amend Parts 1, 21, 23, 25, 27, 29, 31, 33, 35, 43, 45, 91 and 121 of the Federal Aviation Regulations as follows:
+
+PART 1 - DEFINITIONS AND ABBREVIATIONS
+
+Sec. 1.1 [Amended]
+
+8-1. By deleting from Sec. 1.1 the definitions of "Rated maximum continuous power," "Rated maximum continuous thrust," "Rated maximum continuous augmented thrust," "Rated takeoff power," "Rated takeoff thrust," "Rated takeoff augmented thrust," "Rated '30-minute power'," and "Rated '2½-minute power'."
+
+Explanation. Since the definitions of rated powers and thrusts now contained in Sec. 1.1 relate only to engine type certification, the proposal would delete the definitions to those terms from Sec. 1.1 and would place them in Part 33.
+
+Ref. Proposal Nos. 9, 423, and 149; Part 1, 25, and 33; Agenda Items B-4, B-5, and B-6 (Committee IV).
+
+PART 21 - CERTIFICATION PROCEDURES FOR PRODUCTS AND PARTS
+
+8-2. By revising Sec. 21. 16(a) to read as follows:
+
+Sec. 21.16 Special conditions.
+
+(a) If the Administrator finds that the airworthiness regulations of this subchapter do not contain adequate or appropriate safety standards for an aircraft, aircraft engine, or propeller, he prescribes special conditions and amendments thereto for the product. The special conditions are issued in accordance with paragraph (b) of this section and contain such safety standards for the product as the Administrator finds necessary to establish a level of safety equivalent to that established in the applicable regulations.
+
+* * * * *
+
+Explanation. Prior to the adoption of Sec. 21.16, special conditions that contained the terms, conditions, and limitations the Administrator found necessary in the interest of safety, were issued under the authority of Sec. 21.21(b)(2) and its predecessor sections in the Civil Air Regulations (CAR's), for any feature or characteristic of an aircraft that made it unsafe for the category in which certification was requested. As proposed in Notice 67-16, (32 FR 6098), Sec. 21.16 would have provided for the issuance of special conditions when the applicable airworthiness regulations did not provide complete or appropriate safety standards. The section as adopted by Amendment 21-19, (32 FR 17850), however, limited the issuance of special conditions to situations where the applicable airworthiness regulations do not contain adequate or appropriate safety standards because of a novel or unusual design feature of the product. Although the amendment did not limit the Administrator's authority under Sec. 21.21(b)(2), to prescribe other terms, conditions, and limitations for an unsafe condition, the use of the phrase "novel and unusual design feature" in Sec. 21.1 has created some confusion with respect to the issuance of conditions under Sec. 21.21(b)(2), and the regulations do not now contain procedures for the issuance of those conditions. Therefore, in order to simplify the administration of the requirements, it is proposed to amend Sec. 21.16 to specifically provide that special conditions may be issued under that section if the Administrator finds that the applicable airworthiness regulations do not contain adequate or appropriate safety standards for the product.
+
+It was suggested at the December 1974, Airworthiness Review Conference that the proposed rule would be unnecessary if the airworthiness standards are continually revised and updated on a biennial basis. A suggestion was also received to the effect that adoption of a rule limiting the time during which products could be certificated to the original certification basis should render the proposed rule unnecessary. Upon review, the FAA does not believe that either periodic updating of standards or time-limited production approvals can assure timely development of standards that would be applicable to all products built to standards contained in the regulations in effect at the time of the application for a type certificate. Standards made applicable through those processes would have prospective effect. Furthermore, as discussed above, discovery of a feature or characteristic that makes the product design unsafe, however it may be discovered, must be dealt with by the Administrator under Sec. 21.21(b)(2). The proposal would merely provides a formal means for the issuance of standards that account for those conditions. To object, as some have done, that this could result in indiscriminate rulemaking is to overlook the extensive consultative process always followed by the FAA in the development of special conditions. That process would not be avoided in the development of special conditions in the future under the proposed rule. The Administrative Procedure Act applies equally to both circumstances.
+
+Ref. Proposal No. 561; Sec. 21.16(a); Agenda Item L-23 (Committee I).
+
+8-3. By revising Sec. 21.31(a), deleting the word "and" from the end of Sec. 21.31(b), redesignating Sec. 21.31(c) as Sec. 21.31(e), and adding new Secs. 21.31(c) and (d) to read as follows:
+
+Sec. 21.31 Type design.
+
+The type design consists of - 
+
+(a) The drawings and specifications necessary to show the configuration of the product concerned, listing of those drawings and specifications, and the design features covered in the requirements of that part of this subchapter applicable to the product;
+
+* * * * *
+
+(c) The "Airworthiness Limitations" section of the Instructions for Continued Airworthiness as required by Parts 23, 25, 27, 29, 31, 33, and 35 of this chapter;
+
+(d) Analysis used to substantiate the type design; and
+
+* * * * *
+
+Explanation. The proposal would add a requirement to include in the type design listings of the drawings and specifications which are included in the type design because without such lists it is difficult to judge the completeness of the package making up the type design or to easily control changes in drawings and specifications. In addition, in recognition of the fact that design is often substantiated by analyses, those analyses should be included in the type design.
+
+The proposal would also make it clear that the "Airworthiness Limitations" section of the Instructions for Continued Airworthiness makes up a part of the type design. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and aircraft operators with respect to those instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. Proposal Nos. 564-1, 708-1, 821-1, 880-1, 965-1, 990-1, 996-1, 1004-1, 1006-1, 1015, 327, 565; Secs. 21.31, 23.1529, 25.1529, 27.1529, 29.1529, 31.62, 35.2, 43.14, 43.16, 91.163(a), 25.1529, 21.31(d); Agenda Item G-11 (Committee I), Agenda Item G-12 (Committee I), Agenda Item L-24 (Committee I).
+
+Sec. 21.35 [Amended]
+
+8-4. By deleting from Sec. 21.35(b)(2) the word "airplane" and the words "are reliable and function properly", and inserting in their places, respectively, the word "aircraft" and the words" will function properly."
+
+Explanation. The use of the word "airplane" inadvertently restricts the application of the rule. The rule has always been administered as applying to "aircraft" and this revision would simply clarify the intent of the rule in this regard.
+
+The FAA believes that flight testing over any reasonable number of hours cannot prove anything conclusive about reliability of airplane components and equipment. As a practical matter this is much better approached by analysis and specific reliability testing. Where the FAR's contain specific reliability requirements, those analyses and tests would become part of the type design (under a proposed change to Sec. 21.21). Similarly, the FAA believes that the proper functioning of equipment and components in reasonably assured when they meet the FAR's. However, it must be recognized that the operational aircraft to be certificated is a combination, often extremely complex, of individual equipment and components which must be shown to function in combination, before the FAA can issue a type certificate for the design. Therefore, the rule would be revised to requires a showing, to the extent determined necessary by the FAA, that the aircraft offered for type certification will function properly.
+
+Ref. Proposed No. 24; Sec. 21.35(b)(2); Agenda Item L-25 (Committee I).
+
+8-5. By revising the heading of Sec. 21.50, redesignating Sec. 21.50 as Sec. 21.50(a), and adding a new Sec. 21.50(b) to read as follows:
+
+Sec. 21.50 Instructions for Continued Airworthiness and Rotorcraft maintenance manuals having "Airworthiness Limitations" sections.
+
+* * * * *
+
+(b) The holder of a type certificate for an aircraft, engine, or propeller for which application was made after (the effective date of this amendment) shall make available complete Instructions for Continued Airworthiness prepared in accordance with Secs. 23.1529, 25.1529, 27.1529, 29.1529, 31.82, 33.4, and 35.4 of this chapter, to the owner of each aircraft, engine or propeller, upon its delivery, and to any other person required by this chapter to comply with any of the terms of those instructions upon request. In addition changes to the Instructions for Continued Airworthiness shall be made available, upon request, to any person required by this chapter to comply with any of the terms of those instructions. The "Airworthiness Limitations" section of the Instructions for Continued Airworthiness shall be furnished with each aircraft, engine, or propeller.
+
+Explanation. This proposal would ensure that those persons needing the Instructions for Continued Airworthiness and the changes thereto will have that information available. This is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and aircraft operators with respect to those instructions. See the proposal for sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+8-6. By revising Sec. 21.97(b) to read as follows.
+
+Sec. 21.97 Approval of major changes in type design.
+
+* * * * *
+
+(b) Approval of a major change in a type design in limited to the specific configuration upon which the change is made unless the applicant identifies in the necessary descriptive data for inclusion in the type design the other configurations of the same type for which approval is requested and shows that the change is compatible with the other configurations.
+
+Explanation. Present Sec. 21.97(b) (as adopted in Amendment 21-40, effective October 31, 1974) applies only to engines. The proposal would make the paragraph applicable to all products.
+
+Ref. Proposal No. 570; Sec. 21.97; Agenda Item L-26 (Committee I).
+
+8-7. By deleting from Sec. 21.123(b) the word "and" following the semicolon, inserting at the end of Sec. 21.123(c) a semicolon and the word "and", and adding a new Sec. 21.123(d) to read as follows:
+
+Sec. 21.123 Production under type certificate.
+
+* * * * *
+
+(d) Upon the establishment of the approved production inspection system (if required by paragraph (c) of this section) submit to the Administrator a manual that describes that system and the means for making the determinations required by Sec. 21.125(b).
+
+Explanation. The FAA believes that it is necessary for the monitoring and control of an approved production inspection system to require a specified document containing a description of the system and the way it is used by the manufacturer.
+
+Ref. Proposal No. 575; Sec. 21.125(b); Agenda Item I-16 (Committee I).
+
+Sec. 21.143 [Amended]
+
+8-8. By deleting from Sec 21.143(a)(2) the word "subsidiary" and inserting in its place "supplier."
+
+Explanation. The proposal would make clear the kind of manufacturer that supplies raw materials, purchased times, parts, and assemblies to the prime manufacturer.
+
+Ref. Proposal No. 577; Sec. 21.143; Agenda Item I-17 (Committee I).
+
+Sec. 21.182 [Amended]
+
+8-9. By deleting "Sec. 45.11(a)" in Secs. 21.182(a) and (b)(3) and inserting "Sec. 45.11" in place thereof.
+
+Explanation. The cross reference to paragraph (a) of Sec. 45.11 would be revised by the proposal to ensure that the proposal new Sec. 45.11(c) is covered in Sec. 21.182. See the proposal for Sec. 45.11.
+
+Sec. 21.197 [Amended]
+
+8-10. By amending Sec. 21.197 as follows:
+
+1. By deleting the words "the purpose of -" from Sec. 21.197(a) and inserting in their place the words "the following purposes:".
+
+2. By replacing the semicolons in Secs. 21.197(a)(1) and (2) with periods.
+
+3. By revising Sec. 21.197(a)(3) to read as follows:
+
+(3) Either - 
+
+(i) Production flight testing new production aircraft; or
+
+(ii) Conducting customer demonstration flights with aircraft manufactured under a production certificate if the applicant has established a maintenance and inspection program for the aircraft and the aircraft has been flown for at least 50 hours.
+
+Explanation. Under the current rules a manufacturer wishing to conduct customer demonstration flights in production aircraft must obtain an experimental certificate in addition to the special flight permit under which the production flight testing is conducted. This administrative step can be eliminated without any adverse effect on safety by revising the rules to permit customer demonstration flight in new production aircraft on the basis of a special flight permit issued for the purpose. The issuance of the permit for the new purpose would be based on a showing that the substantive safety terms required for the issuance of an experimental certificate for customer demonstration flights are met. In addition, Sec. 21.197(a) would be amended editorially.
+
+Ref. Proposal No. 36; Sec. 21.197(a)(5); Agenda Item L-28 (Committee I).
+
+PART 23 - AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES.
+
+Sec. 23.253 [Amended]
+
+8-11. By amending Sec. 23.253(b)(3) in a manner substantively identical to that proposed for Sec. 25.253(a)(2)(iii).
+
+8-12. By amending Sec. 23.361 by - 
+
+1. Deleting the words "The limit torque" in Sec. 23.361(a)(1) and replacing them with the words "A limit engine torque";
+
+2. Deleting the words "The limit torque corresponding to the maximum continuous power and propeller speed," in Sec. 23.361(a)(2) and replacing them with the words "The limit engine torque as specified in Sec. 23.361(c)";
+
+3. Deleting the words "the limit engine torque" in Sec. 23.361(a)(3) and replacing them with the words "a limit engine torque";
+
+4. Deleting Sec. 23.361(c); redesignating Sec. 23.361(b) as Sec. 23.361(c);
+
+5. Redesignating Sec. 23.361(b) as Sec. 23.361(c);
+
+6. Revising the lead in of the redesignated Sec. 23.361(c), and adding a new Sec. 23.361(b), to read as follows:
+
+Sec. 23.361 Engine torque.
+
+* * * * *
+
+(b) For turbine engine installations, the engine mounts and supporting structure must be designed to withstand each of the following:
+
+(1) A limit engine torque load imposed by sudden engine stoppage due to malfunction or structural failure (such as compressor jamming).
+
+(2) A limit engine torque load imposed by the maximum acceleration of the engine.
+
+(c) The limit engine torque to be considered under paragraph (a)(2) of this section must be obtained by multiplying the mean torque for maximum continuous power by a factor of--
+
+* * * * *
+
+Explanation. The new sec. 23.361(b) would be added to redefine the limit engine torque lead conditions to be considered for turbine engine installations. The Sec. 23.361(c) load in would be revised to clarify that it only applies with respect to Sec. 23.361(a)(2). Other clarifying changes are also proposed.
+
+Ref. Proposal No. 616; Sec. 23.361(b)(1); Committee III Part 2 - Agenda Item C-16.
+
+Sec. 23.371 [Amended]
+
+8-13. By deleting the word "turbo-propeller" in the lead in of Sec. 23.371 and replacing it with the word "turbine".
+
+Explanation. Section 23.371 is applicable only to turbopropeller airplanes. However, since turbojet and turbopropeller airplanes have similar loading characteristics, the provisions should be applied to both airplanes. Also see the proposal for Sec. 23.361.
+
+Ref. Proposal No. 617; Sec. 23.371; Committee III Part 2 - Agenda Item C-17.
+
+8-14. By amending Sec. 23.729 by revising the heading and paragraphs (c) and (e) to read as follows:
+
+Sec. 23.729 Landing gear extension and retracting system.
+
+* * * * *
+
+(c) Emergency operation. For a landplane having retractable landing gear that cannot be operated manually there must be means to operate the landing gear in the event of --
+
+(1) Any reasonably probable failure in the normal landing gear operation system; or
+
+(2) Any reasonably probable failure in a power source that would prevent the operation of the normal landing gear operation system.
+
+* * * * *
+
+(e) Position indicator and warning device. If a retractable landing gear is used, there must be landing gear position indicator (as well as necessary switches to actuate the indicator) or other means to inform the pilot that the gear is secured in the extended (or retracted) position. If switches are used, they must be located and coupled to the landing gear mechanical system in a manner that prevents an erroneous indication of "down and locked" if the landing gear is not in a fully extended position, or of "up and locked" if the landing gear is not in the fully retracted position. The switches may be located where they are operated by the actual landing gear locking latch or device.
+
+* * * * *
+
+Explanation. The FAA believes this rule change is necessary to assure the reliability of small landplane landing gear systems because those systems are becoming increasingly complex.
+
+Proposed Sec. 23.729(e) would require an indicator to inform the pilot when the gear is secured by any means in the extended or retracted position.
+
+Ref. Proposal Nos. 90, 627; Sec. 23.729, Sec. 23.729(c); Committee III Part 2 - Agenda Item F-24.
+
+8-15. By adding new Secs. 23.903(f) and (g) to read as follows:
+
+Sec. 23.903 Engines.
+
+* * * * *
+
+(f) Restart capability. An altitude airspeed envelope must be established for the airplane for in-flight engine restarting, and each installed engine required to have an in-flight restart capability must have a restart capability within that envelope.
+
+(g) For turbine-engine powered airplanes, if the minimum windmilling speed of the engines, following the in-flight shutdown of all engines, is insufficient to provide the necessary electrical power for engine ignition, a power source independent of the engine-driven electrical power generating system must be provided to permit in-flight engine ignition for restarting.
+
+Explanation. A similar proposal for Sec. 25.903 was made in Notice No. 3 (Notice 75-19) Powerplant Proposals.
+
+In addition, although Sec. 23.901(e)(3) requires that the Airplane Flight Manual contain recommended procedures for restarting turbine engines in flight, there exists no specific requirement for establishing the conditions of altitude and airspeed for which the restarting capability must exist. The proposal would add such a requirement.
+
+The proposal would ensure that a source of ignition energy for in-flight engine restarting exists in the event of loss of combustion in all engines during flight.
+
+Ref. Proposal Nos. 266 and 769; Sec. 25-903 and 25.1165; Agenda Items E-17 and K-53 (Committee IV).
+
+8-16. By adding a new Sec. 23.905(d) to read as follows:
+
+Sec. 23.905 Propellers.
+
+* * * * *
+
+(d) Each component of the propeller blade pitch control system must meet the requirements of Sc. 35.42 of this chapter.
+
+Explanation. See the proposal for Sec. 35.42.
+
+8-17. By revising Sec. 23.967(e)(2) and adding a flush paragraph at the end of Sec. 23.967(e) to read as follows:
+
+Sec. 23.967 Fuel tank installation.
+
+* * * * *
+
+(e) * * * 
+
+(2) Under conditions likely to occur when the airplane lands on a paved runway at a normal landing speed under each of the following conditions:
+
+(i) The airplane in a normal landing attitude and its landing gear retracted.
+
+(ii) The most critical landing gear collapsed and the other landing gear legs extended.
+
+In showing compliance with paragraph (e)(2) of this section, the tearing away of an engine mount must be considered unless all the engines are installed above the wing or on the tail or fuselage of the airplane.
+
+Explanation. The proposal would clarify the current requirement.
+
+Ref. Proposal No. 103; Sec. 23.967; Agenda Item F-24 (Committee IV).
+
+8-18. By adding a new Sec. 23.991(d) to read as follows:
+
+Sec. 23.991 Fuel pumps
+
+* * * * *
+
+(d) Operation of any fuel pump may not adversely affect engine operation regardless of the engine power or thrust setting or the functional status of any other fuel pump.
+
+Explanation. The proposal would require that no adverse engine operation would result from operating a fuel pump at any stage of engine operation or in any combination with other fuel pumps.
+
+Ref. Proposal No. 648; Sec. 23.991(d); Not in Agenda.
+
+8-19. By revising Sec. 23.1305(n) to read as follows:
+
+Sec. 23.1305 Powerplant instruments.
+
+* * * * *
+
+(n) A blade position indicating means for each turbopropeller engine propeller to provide an indication to the flight crew when the propeller blade angle is below the flight low pitch position. The required indicator must begin indicating before the blade moves more than eight degrees below the flight low pitch stop. The source of indication must directly sense the blade position.
+
+* * * * *
+
+Explanation. The proposal would permit up to an eight-degree movement of the propeller blade below the flight low pitch position before an indication of the movement is required for the flight crew. This would be consistent with the corresponding requirements in Part 25 and with the proposal to revise Sec. 35.23. The FAA does not believe it necessary to require immediate indication when the propeller blade moves past the flight low pitch stop.
+
+Ref. Proposal No. 691; Sec. 23.1337; Agenda Item N-74 (Committee IV).
+
+Sec. 23.1521 [Amended]
+
+8-20. By amending Sec. 23.1521(a) in a manner substantively identical to the proposal for Sec. 25.1521(a).
+
+8-21. By revising Sec. 23.1529, including its heading, to read as follows:
+
+Sec. 23.1529 Instructions for Continued Airworthiness.
+
+The applicant must prepare Instructions for Continued Airworthiness in accordance with Appendix F to this part that are acceptable to the Administrator.
+
+Explanation. This proposal would require the preparation of comprehensive maintenance instructions that would be made available, under proposed Sec. 21.50, upon delivery of each aircraft. Under this proposal, the applicant for a type certificate would be required to submit, prior to the issuance of a type certificate, Instructions for Continued Airworthiness that conform in form and content with the standards specified in proposed Appendix F. The applicant would also be required to submit a program for making changes to those Instructions.
+
+The FAA recognizes that at the time that the airplane is type certificated, the Instructions for Continued Airworthiness may not be complete. The instructions and the program that would be required by Appendix F for making changes, as they exist at type certification, will be the basis on which the type certificate is issued. However, Sec. 21.50 would require that complete instructions be made available with each aircraft. The "Airworthiness Limitations" section of the Instructions would be specifically made part of the type design under proposed Sec. 21.31. Section 21.50 would require that the Airworthiness Limitations" section be furnished with each aircraft.
+
+Compliance with the "Airworthiness Limitations" section of the Instructions will be required under proposed Secs. 43.16 and 91.163. Compliance with the other Instructions will be permitted under proposed Sec. 43.13.
+
+Finally, it should be noted, that Appendix F would require that an inspection program to provide for the continued airworthiness of the aircraft be included in the Instructions. That program would be approved for use under current Sec. 91.217(d)(4).
+
+Ref. See the proposal for Sec. 21.31.
+
+8-22. By adding a new Sec. 23.1557(f) to read as follows:
+
+Sec. 23.1557 Miscellaneous markings and placards.
+
+* * * * *
+
+(f) Unusable fuel. If the unusable fuel supply in any tank exceeds five percent of the tank capacity, or one gallon, whichever is greater, a placard must be installed next to the fuel quantity indicator for that tank, stating that fuel remaining when the quantity indicator reads "zero" cannot be safely used in flight.
+
+Explanation. Section 23.1583(i) presently requires that information concerning the meaning of the "zero" mark on the fuel quantity indicator with respect to unusable fuel in a fuel tank must be stated in the operating limitations portion of the Airplane Flight Manual and also on a placard. The proposals for Secs. 23.1583(i) and 23.1585(e) would transfer this information to the operating procedures portion of the Airplane Flight Manual, and this proposal would make it clear that the information must also be stated on a placard. Also, see the proposal for Sec. 25.1583.
+
+Sec. 23.1583 [Amended]
+
+8-23. By deleting Sec. 23.1583(i) and marking it "[Reserved]".
+
+Explanation. See the proposal for Sec. 25.1583.
+
+8-24. By adding new Sec. 23.1585(e) and (f) to read as follows:
+
+Sec. 23.1585 Operating procedures.
+
+* * * * *
+
+(e) If the unusable fuel supply in any tank exceeds five percent of the tank capacity, or one gallon, whichever is greater, information showing that the fuel remaining in the tank when the fuel quantity indicator reaches "zero" cannot be safely used in flight, must be furnished.
+
+(f) Information on the total quantity of usable fuel for each fuel tank must be furnished.
+
+Explanation. See the proposal for Secs. 25.1583 and 25.1585.
+
+8-25. By adding a new Appendix F to Part 23 to read as follows:
+
+APPENDIX F - INSTRUCTIONS FOR CONTINUED AIRWORTHINESS
+
+F23.1 General.
+
+(a) This appendix specifies requirements for the preparation of "Instructions for Continued Airworthiness" as required by Sec. 23.1529.
+
+(b) The "Instructions for Continued Airworthiness" must include the "Instructions for Continued Airworthiness" for each engine and propeller (hereinafter designated products) and for all appliances that are installed in the aircraft and any required information relating to the interface of those appliances and products with the airplane. If "Instructions for Continued Airworthiness" do not exist for an appliance for product installed in the airplane, the "Instructions for Continued Airworthiness" for the airplane must include the information that would be contained in such "Instructions" if they were to exist.
+
+(c) The applicant must submit to the FAA a program to show how changes to the "Instructions for Continued Airworthiness" made by the applicant or by the manufacturers of products and appliances installed in the airplanes will be distributed.
+
+F23.2 Format.
+
+(a) "The Instructions for Continued Airworthiness" must be in the form of a manual or manuals as appropriate for the quantity of data to be provided.
+
+(b) The format of the manual or manuals must provide for a practical arrangement (such as that used in the Air Transportation Association of America Specification No. 100. "Specification for Manufacturers' Technical Data").
+
+F23.3 Content.
+
+The contents of the manual or manuals must be prepared to be understood by the persons who will be responsible for maintaining the airplane. The "Instructions for Continued Airworthiness" must contain the following manuals or sections, as appropriate, and information:
+
+(a) Airplane maintenance manual or section.
+
+(1) Introduction information that includes an explanation of the airplane's features and data of general interest.
+
+(2) A description of the airplane and its systems and installations including its engines, propellers, instruments, and radio equipment.
+
+(3) Control and operation information describing how the airplane components and system are controlled, and how they operate, including any special procedures and limitations that apply.
+
+(4) Servicing information that covers details regarding servicing points, capabilities of tanks, reservoir, types of fluids to be used, pressures applicable to the various systems, location of access panels for inspection and servicing, and the locations of lubrication points, the lubricants to be used, equipment required for servicing, tow instruction and limitations, and mooring, jacking, and leveling information.
+
+(5) Maintenance Instructions.
+
+(i) Scheduling information for each part of the airplane and its engines, auxiliary power units, propellers, accessories, instruments, and equipment, that provides the recommended periods at which they should be cleaned, inspected, adjusted, tested and lubricated, and the degree of inspection and work recommended at those periods. The recommended overhaul periods and necessary cross-references to the "Airworthiness Limitations" section of the manual must also be included. In addition, the applicant must include an inspection program to provide for the continued airworthiness of the aircraft.
+
+(ii) Troubleshooting information describing typical malfunctions that could occur, how to recognize those malfunctions, and the remedial action for those malfunctions.
+
+(iii) Removal and assembly information describing the order and method of removing and replacing products and parts with any necessary precautions to be taken during such removal and assembly.
+
+(iv) Other general procedural instructions including procedures for system testing during ground running, checks after an overweight landing, symmetry checks, weighing and determining the center of gravity, lifting and shoring, and storage limitations.
+
+(b) Airplane overhaul manual or section.
+
+(1) Airplane structure overhaul information including--
+
+(i) Diagrams showing structures classified as primary and secondary:
+
+(ii) Illustrations which clearly show the construction of the structures with descriptive test to explain the illustrations and indicate those parts needing detailed attention during overhaul;
+
+(iii) Diagrams of structural access plates and information needed to gain access for inspections when access plates are not provided;
+
+(iv) Schedules of recommended overhaul periods of all structural areas with an explanation of the inspections and work to be accomplished at each such period.
+
+(v) Details for the application of special inspection techniques including radiographic and ultrasonic testing where such processes are specified;
+
+(vi) Information needed to apply protective treatments to restore the structure to an original condition after inspection and overhaul;
+
+(vii) All data relative to structural fasteners such as identification, discard recommendations, and torque values;
+
+(viii) Details of the recommended overhaul practices for airplane systems; and
+
+(ix) A list of special tools needed.
+
+(3) Overhaul information for the parts and products installed in the airplane.
+
+(c) Airplane repair manual or section.
+
+(1) Temporary-repair information that includes details of repairs of a temporary nature that are permitted and any restrictions that should apply until a permanent repair is made.
+
+(2) Permanent repair information covering typical repair details for repair of common structure.
+
+(3) Checking and testing information describing details of checks, tests, and adjustment necessary after repairs.
+
+F23.4 Airworthiness limitations section.
+
+The Instructions for Continued Airworthiness must contain a section, titled "Airworthiness Limitations", that is segregated and clearly distinguishable from the rest of the document. That section must set forth each mandatory replacement time, inspection interval, and related procedure established during certification for the airplane or any part thereof. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads -- "The 'Airworthiness Limitations' section is FAA-approved and it specified inspections and other maintenance required under Secs. 43.16 and 91.163 of the Federal Aviation Regulations."
+
+Explanation. This proposal would provide standards for the preparation of comprehensive maintenance instructions that would be made available at the delivery of each airplane. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those Instructions.
+
+Ref. See the proposal for Sec. 21.31.
+
+PART 25 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+8-26. By adding new Secs. 25.101(i) and (j) to read as follows:
+
+Sec. 25.101 General.
+
+* * * * *
+
+(i) If compliance with takeoff path performance requirements is dependent upon an engine control system that automatically sets takeoff power or thrust on the operating engines in the event of failure of any one engine during takeoff, all applicable requirements of this subpart must be met with that system functioning as designed. The thrust or power set on each engine at the beginning of the takeoff roll may not be less than 90 percent of the takeoff thrust or power that would be set by the automatic system after an engine failure.
+
+(j) The following requirements apply to automatic systems that affect the performance of the airplane, including automatic systems that control retardation devices or wing spoilers, but excluding automatic takeoff thrust control systems approved under the provisions of paragraph (i) of this section.
+
+(1) The airplane must comply with the applicable requirements for this subpart with the automatic system functioning as designed.
+
+(2) The Administrator may limit the performance credit allowed for the use of the automatic system based on but not limited to the following factors:
+
+(i) The degree of reliability shown for the automatic system under Sec. 21.705, including whether or not failure of the system is shown to be extremely improbable.
+
+(ii) The effects of all reasonably expected operating conditions, including runway surface conditions, on the functioning of the automatic system.
+
+(iii) The difference between the performance with the automatic system functioning as designed and the performance with manual control after failure of the automatic system, taking into account the time required for the pilot to recognize failure of the automatic system and apply manual control.
+
+(iv) The margins provided in the performance requirements for expected variations in performance.
+
+Explanation. Proposed paragraph (i). With regard to the proposal for sec. 25.101(i), it is one of a series of proposals dealing with automatic takeoff thrust control systems that automatically set takeoff power or thrust on operating engines in the even of failure of any one engine during takeoff under conditions involving an approved reduced takeoff thrust. The other proposals in this series are those for Secs. 25.111(c)(4), 25.1143(f), and 25.1305(c)(9).
+
+ Section 25.101(f) states that, unless otherwise prescribed, the takeoff flight path and other performance must be determined with changes in the airplanes configuration, speed, power and thrust made in accordance with procedures established by the applicant for operation in service. Under Sec. 25.101(h) the procedures must be able to be consistently executed in service by crews of average skill, and must use methods or devices that are safe and reliable.
+
+ Under the present regulations, the FAA has approved procedures for takeoff with thrust set at less than the maximum takeoff thrust available from the engines. However, these reduced thrust takeoff procedures require that all performance requirements be met at the reduced thrust level without increasing the thrust on the operating engines after failure of one engine. The economic benefits claimed for reduced thrust procedures are increased engine life and reduced maintenance expense.
+
+ Proposal No. 154 for Sec. 25.101(c), discussed in Committee II (Flight) under Agenda Item F-32, would expressly permit the use of additional (emergency) thrust on the operating engines in determining the one-engine-inoperative takeoff path and climb performance. Under Proposal No. 154, takeoffs would normally be made with engine thrust set at less than maximum available thrust, but in the event of an engine failure, the pilot would be expected to advance the throttles to increase the thrust on the operating engines, and the applicable performance requirements would be met at the increased thrust. The justification for Proposal No. 154 indicates that automatic means could also be used to advance the throttles. However, if automatic means were not provided, Proposal No. 154 would require the pilot to make an additional decision and action during a critical stage of flight. If the engine failure should occur shortly after V2 is called out during takeoff, the required action of advancing the throttles would be the opposite of that for an engine failure before V1 when a stop is made.
+
+ The FAA therefore believes that any increase in thrust level during takeoff that is necessary to meet performance requirements after failure of an engine should be fully automatic and that the automatic system should be shown to have an extremely high level of reliability. However, if for any reason the automatic system should fail to operate as intended (for example, due to inadvertent disarming of the system), an independent engine failure warning system and a manual means for increasing engine thrust on the operating engines without exceeding engine limits should be provided for the pilots.
+
+ The proposal for Sec. 25.101(i) sets forth the general requirements that would be applicable to an automatic takeoff thrust control system, and makes it clear that all applicable requirements of Subpart B, including performance and flight characteristics requirements, must be met with the system operating in the manner for which it was designed. The proposal would limit the amount of performance credit allowed for the use of the automatic system by requiring that the reduced thrust set on each engine at the beginning of the takeoff roll be not less than 90 percent of the takeoff thrust set by the automatic system on the operating engines after an engine failure. The 10 percent differential is consistent with reduced thrust takeoff procedures approved by the FAA, and is intended to ensure adequate performance in normal all-engines-operating takeoffs.
+
+ The proposal for Sec. 25.111(c)(4) would add a requirement that in determining the takeoff path, no change in power or thrust that requires action by the pilot may be made until the airplane is 400 feet above the takeoff surface. This proposal is based on the previously stated belief that any increase in thrust that is necessary to meet the performance requirements during this critical portion of the takeoff should be fully automatic.
+
+ The proposal for Sec. 25.1143(f) contains specific requirements for the automatic thrust control system, including requirements to provide extremely high reliability, to permit manual selection of takeoff thrust by the pilots, to prevent exceeding the engine limitations in either the automatic or manual mode, and to enable the crew to verify prior to takeoff that the system is in condition to operate in the intended manner. The provisions of Secs. 25.1141(e) and 25.1309 concerning failure and malfunction conditions would also apply to this system.
+
+ The proposal for Sec. 25.1305(c)(9) would require two additional powerplant instruments for airplanes incorporating an automatic takeoff thrust control system. One would be an indicator for the pilots to determine when the system is in the armed or ready condition. The other would be an engine failure warning device that is independent of the automatic system, to provide the pilots with a means for monitoring the automatic system.
+
+ The proposal for paragraph (i) would provide under the certification and operating rules, an increased payload as compared with the payload under present reduced thrust takeoff procedures.
+
+Proposed paragraph (j)
+
+With regard to the proposal for Sec. 25.101(j), several automatic devices have been developed to improve airplane performance, including automatic wing spoilers and brake anti-skid systems. The proposal for Sec. 25.101(i) deals with automatic takeoff thrust control system. This proposal deals with the determination of the airplane performance when other automatic systems that affect performance are installed. A related proposal for Sec. 25.705 would set forth some specific design requirements for these systems to supplement the general requirements now established in the regulations, such as Sec. 25.1309.
+
+ The proposal for Sec. 25.101(j) lists some of the factors that would be considered by the Administrator in establishing the amount of performance credit allowed when an automatic system is installed. Since the operation of some systems is affected by variations in operating conditions, including the friction between the tires and the runway surface, one of the factors considered would be the effect of runway surface conditions. Other factors considered would be the degree of reliability shown for the system under proposed Sec. 25.705, the effect of reverting from automatic to manual control, and the margins provided in the performance requirements for variability of performance.
+
+ Automatic systems may cause unsafe conditions if they are activated at the wrong time or stage of flight. The proposal for Sec. 25.705 would therefore require the system to be designed to prevent unwanted or unsymmetrical activation of the system when this would result in an unsafe condition. The proposal would require means for the pilots to disengage or over-ride the automatic function and manually control the system. Means would also be required for the pilot to determine the operation readiness of the system prior to use, and its operating conditions during use. In addition, reliability analysis and tests of the system would be required for use in establishing performance credit.
+
+ It is requested that comments on this proposal specifically set forth which proposed paragraph the comment relates to.
+
+Ref. Proposal Nos. 154 and 151; Secs. 25.101(c) and 25.21(g); Agenda Items F-32 and E-27 (Committee II).
+
+8-27. By amending Sec. 25.111(c)(4) to read as follows:
+
+Sec. 25.111 Takeoff path.
+
+* * * * *
+
+(c) * * *
+
+(4) Except for gear retraction and propeller feathering, the airplane configuration may not be changed, and no change in power or thrust that requires action by the pilot may be made, until the airplane is 400 feet above the takeoff surface.
+
+* * * * *
+
+Explanation. See the proposal for Sec. 25.101(i).
+
+8-28. By revising Sec. 25.253(a)(2)(iii) to read as follows:
+
+Sec. 25.253 High-speed characteristics.
+
+(a) * * * 
+
+(2) * * * 
+
+(iii) Buffeting that would impair the pilot's ability to read the instruments or control the airplane for recovery.
+
+* * * * *
+
+Explanation. Section 25.253(a)(2)(iii) requires a showing that the airplane can be recovered from a speed increase above VMO/MMO without buffeting that would cause structural damage. The high speed flight characteristics test is not intended to be a demonstration of structural strength. The present requirement would be replaced by a provision to ensure that buffeting would not be of a severity to impair the pilot's ability to recover the airplane to a normal attitude and to reduce the airplane's speed to VMO/MMO.
+
+Ref. Proposal No. 1043; Sec. 25.253(a)(iii); Agenda Item G-55 (Committee II).
+
+8-29. By revising Sec. 25.307(a) to read as follows:
+
+Sec. 25.307 Proof of structure.
+
+(a) Compliance with the strength and deformation requirements of this subpart must be shown for all loading conditions, including normal and fail-safe conditions. Tests to design ultimate loads are required for each critical condition. Retesting of any structure reinforced as a result of test failures is not required if the test results are extrapolated to the design ultimate load, and the extrapolation is shown to be conservative and reliable. Substantiation of noncritical loading conditions may be shown by analysis if the analysis is shown to be conservative and reliable and is validated by supporting tests to the extent found necessary by the Administrator.
+
+* * * * *
+
+Explanation. The analysis of considerable civil airplane static test data indicates that all of the airplanes and approximately 50 percent of the major components (wing, fuselage, fin, and stabilizer) tested experienced major test failures under flight loads less than design ultimate. The FAA believes that static tests to ultimate strength values for each critical normal and fail-safe conditions must be the prime method of proof of original and residual static strength. Extrapolation of test results after a test failure would be acceptable if these test results can be reliably projected.
+
+Ref. Proposal Nos. 188, 1047; Sec. 25.307(a); Committee III Part 1 - Agenda Item A-4.
+
+8-30. By revising Secs. 25.365(e) and (f) to read as follows:
+
+Sec. 25.365 Pressurized cabin loads.
+
+* * * * *
+
+(e) If a pressurized cabin has two or more compartments separated by partitions, bulkheads, or floors, the airplane structure must be designed to prevent floor failure, or any structural failure that would prevent continued safe flight and landing, caused by the sudden release of pressure in any compartment through an opening at any approved operating altitude resulting from any of the following:
+
+(1) The loss of any non-plug type door. The loss of swing noses and tails need not be considered.
+
+(2) The penetration of the cabin by a portion of an engine following an engine disintegration.
+
+(3) The detonation in the airplane of a bomb. All possible bomb detonations and probable bomb locations must be considered. However, for any particular location, a bomb detonation, that would have an explosive force sufficiently great to cause the airplane, other than as a result of decompression, to become incapable of continued safe flight and landing, need not be considered.
+
+(4) Unless shown to be extremely improbable, any other eventuality, including bird strikes, structural fatigue failure, failure or loss of windshields or windows, and loss of doors other than those that are non-plug type. The opening of a swing nose, or swing tail, need not be considered.
+
+(f) The probability of failure or penetration and the probable size and shape of cabin openings must be established using a realistic safety analysis that includes consideration of the production, operation, and maintenance experience of transport category airplanes.
+
+* * * * *
+
+Explanation. Explosive decompression resulting from the sudden opening of the fuselage of pressurized transport category airplanes can result in the airplane becoming incapable of continued safe flight and landing. Explosive decompressions have occurred in the past that have been caused by the sudden opening of non-plug type doors, small explosive devices, piercing of the fuselage by portions of a disintegrating engine, fatigue failure, and mid-air collision. In order to assure an adequate level of safety, the proposal would revise Sec. 25.365(e) to require specifically that the structure be capable of withstanding the effects of openings caused by the loss of any non-plug type door, the detonation of an explosive device, and the penetration of the fuselage by parts of a disintegrating engine since such occurrences could take place with serious results and are subject to design consideration. In addition, Sec. 25.365(f) would be revised to more clearly indicate the method of showing compliance with Sec. 25.365(e). It should be noted that the FAA has proposed in an AD NPRM (40 FR 12809; March 21, 1975; comment period closed on May 22, 1975) that an opening having an area of 20 ft" be considered for certain wide body jets. However, that proposal was based on existing aircraft designs and data available for particular aircraft. Because of the prospective effect of the proposed rule, the variety of airplanes that would be covered by the proposed rule, and the number of variables involved, a specific hole size has not been proposed herein. Proposed Sec. 25.365(f) would, however, require a case by case determination of the opening size and shape to be considered.
+
+Ref. Proposal Nos. 198, 1051, 1051-1; Secs. 25.365, 25.365(e); Committee III Part 1 - Agenda Item C-12.
+
+8-31. By adding a new Sec. 25.633 to read as follows:
+
+Sec. 25.633 Essential systems.
+
+(a) Each airplane system whose functioning is essential for safe flight and landing must be designed to minimize the damage that would be caused by the detonation in the airplane of a bomb.
+
+(b) Except as provided in paragraph (c) of this section, all possible bomb detonations and probably bomb locations must be considered under paragraph (a) of this section.
+
+(c) For any particular location, a bomb detonation that would have an explosive force sufficiently great to cause the airplane, other than as a result of the failure of a system specified in paragraph (a) of this section, to become incapable of continued safe flight and landing need not be considered.
+
+Explanation. The purpose of this proposal is to improve the aircraft's capability for safe flight and landing after the detonation of an explosive device.
+
+Ref. Proposal No. 1065; Sec. 25.633; Committee III Part 1 - Agenda Item H-34.
+
+8-32. By adding a new sec. 25.677(e) to read as follows:
+
+Sec. 25.677 Trim systems.
+
+* * * * *
+
+(e) If the horizontal stabilizer is used for providing longitudinal trim and is power boosted or power operated for trim, an aural warning device must be installed that provides a distinctive continuous warning whenever the horizontal stabilizer is in transit due to trim system operation.
+
+Explanation. The FAA believes that there is a needed for "trim-in-motion" warning when the horizontal stabilizer is used for longitudinal trim. To ensure pilot awareness this warning must be aural, distinctive, and continuous.
+
+Airworthiness Review Notice Number 6 (Notice 75-25; Flight) contains a related proposal for "takeoff out-of-trim" warnings in the proposed new Sec. 25.703. This item was discussed at the Airworthiness Review Conference in Committee II - Flight (Agenda Item E-24) and in Committee III - Airframe (Agenda Item I-38).
+
+Ref. Proposal No. 1067; Sec. 25.677(e); Committee III Part 1 - Agenda Item I-38.
+
+8-33. By adding new Sec. 25.685(e) to read as follows:
+
+Sec. 25.685 Control system details.
+
+* * * * *
+
+(e) Each control system, including its structural components, electrical wires and hydraulic lines must be arranged so that any in-flight localized structural failure of the floor or section of the fuselage shell will not cause a loss of control that would prevent continued safe flight and landing.
+
+Explanation. Proper arrangement of control systems could provide an airplane with the capability of continued safe flight and landing in the event of an in-flight localized structural failure. The proposal would require proper control system arrangement.
+
+Ref. Proposal No. 1068; Sec. 25.685; Agenda Item I-40 (Committee III - Part 1).
+
+8-34. By adding a new Sec. 25.705 to read as follows:
+
+Sec. 25.705 Automatic systems affecting performance, other than automatic takeoff thrust control systems.
+
+The following requirements apply to automatic systems that affect the performance of the airplane, including automatic systems that control retardation devices or wing spoilers, but excluding automatic takeoff thrust control systems approved under the provisions of Sec. 25.101(i):
+
+(a) The automatic system must be designed to prevent unwanted or unsymmetrical activation of the system when this would result in an unsafe condition.
+
+(b) Means must be provided for the pilots to disengage or override the automatic function and manually control the devices that affect the performance of the airplane.
+
+(c) Means must be provided for the pilots to determine the operating readiness of the automatic system prior to use, and the operating condition of the system during use.
+
+(d) Reliability tests and analysis of the system must be made for use in determining performance credit for the automatic system.
+
+Explanation. See the proposal for sec. 25.101(j).
+
+8-35. By redesignating Secs. 25.783(f) and (g) as Secs. 25.783(h) and (i), respectively; by inserting the words "either during or after closure" following the swords "single structural element" within the parenthetical expression in Sec. 25.783(b); and by revising Sec. 25.783(e) and adding new Secs. 25.783(f), (g), and (j) to read as follows:
+
+Sec. 25.783 Doors.
+
+* * * * * 
+
+(e) There must be a provision for direct visual inspection of the locking mechanism by appropriate crewmembers, discernible, under all possible lighting conditions, to determine if external doors, for which the initial opening is not inward (including passenger, crew, service, and cargo doors) are fully closed and locked. In addition, there must be a visual warning means to signal the appropriate flight crewmembers if any external door is not fully closed and locked. The means must be designed to provide a warning if any external door is not fully closed and locked after any single failure in the warning system.
+
+(f) All external doors must have provisions to prevent the initiation of pressurization of the airplane if the door is not fully closed and locked.
+
+(g) If certification for operations above 45,000 feet is requested, the airplane must be designed to provide for a safe descent and landing, without serious occupant injury, after the loss of any non-plug type door at the highest approved operational altitude. The loss of swing noses and tails need not be considered.
+
+* * * * *
+
+(j) All lavatory doors must open into the airplane cabin and if a locking mechanism is installed, it must be capable of being unlocked from the outside without the aid of special tools.
+
+Explanation. The purpose of the proposal is to improve the reliability of non-plug type doors, and to improve the standards for airplanes having such doors. Provisions which will prevent pressurization if the door is not fully closed and locked are also proposed. In addition it is proposed that airplanes to be operated above 45,000 feet be designed for the loss of any non-plug door. This proposal would also require that all lavatory doors be outward opening and unlockable from the outside. This would preclude anyone from becoming trapped inside a lavatory.
+
+Ref. Proposal Nos. 146, 1074; Sec. 25.783, FAR 25; Committee III Part 1 - Agenda Items K-49, K-60.
+
+8-36. By revising Secs. 25.785(g) and (h) and adding a new (j) to read as follows:
+
+Sec. 25.785 Seats, berths, safety belts, and harnesses.
+
+ * * * * *
+
+(g) Each set at a flight deck station must have a combined safety belt and shoulder harness with a single-point release that permits the flight deck occupant when seated with safety belt and shoulder harness fastened, to perform all of that occupant's necessary flight deck functions. There must be combined means to secure each combined safety belt and shoulder harness, when not in use, to prevent interference with the operation of the airplane and with rapid egress in an emergency.
+
+(h) Flight attendant seats in passenger compartments must be near approved floor level emergency exits, and be equipped with a restraint system consisting of a combined safety belt and shoulder harness unit with a single-point release. There must be means to secure each combined safety belt and shoulder harness, when not in use, to prevent interference with rapid egress in an emergency. In addition--
+
+(1) Flight attendant seats must be located to provide a view of the cabin area for which the flight attendant is individually responsible and to provide access to the communication system when seated;
+
+(2) Flight attendant seats must be either--
+
+(i) Forward facing; or
+
+(ii) Rearward facing with an energy absorbing rest that is designed to support the arms, shoulders, head, and spine; and
+
+(3) Flight attendant seats must be positioned to prevent interference with the use of passageways and exits.
+
+* * * * *
+
+(j) Each seat must be located to minimize the probability of its occupants suffering injury during any operating by being struck by item dislodged in a galley, or from a stowage compartment or serving cart. All items expected in these locations in service must be considered.
+
+Explanation. Revised paragraphs (g) and (h) would require a combination safety belt and shoulder harness for each seat at a flight deck station and each flight attendant seat in the passenger compartment. The proper functioning of these crewmembers during an emergency is so essential that the FAA believes this additional protection should be required. Means must be provided to secure each safety belt and shoulder harness. Also, new standards are proposed for flight attendant seats in paragraph (h). A proposal is also made to Sec. 25.1557 which would require that these flight attendant seats be placarded for use by flight attendants only.
+
+A paragraph (j) would require the consideration of seat location for the protection of occupants with relation to dislodged objects.
+
+Ref. Proposal Nos. 235, 236, 237, 238, 246, 1077; Sec. 25.785 , Sec. 25.807(a), Sec. 25.785(c)(2), Sec. 25.785(h), Sec. 25.785(i); Committee III Part 1 - Agenda Items K-50, K-51, K-52.
+
+8-37. By adding a sentence to the end of Sec. 25.787(b) to read as follows:
+
+Sec. 25.787 Stowage compartments.
+
+* * * * *
+
+(b) * * * For internal stowage compartments, if the means used is a latched door, it must be shown that the unwanted opening of the door is extremely improbable, taking into consideration the wear and deterioration expected in service.
+
+Explanation. This proposal would clarify Sec. 25.787(b) to ensure that consideration is given to all latched doors on internal stowage compartments.
+
+Ref. Proposal No. 1078; Sec. 25.787; Committee III Part 1 - Agenda Item K-56.
+
+8-38. By adding a new Sec. 25.792 to read as follows:
+
+Sec. 25.792 Passenger information signs: Lavatory occupancy.
+
+A sign, indicating when the lavatories serving a particular passenger cabin area are occupied, must be provided that is legible to each person seated in that area, under all probable conditions of cabin illumination.
+
+Explanation. The proposal would require that a sign be provided to inform the passengers when the lavatories are occupied so as to minimize aisle congestion and possible injuries during flight in turbulent air.
+
+Ref. Proposal No. 146; FAR 25; Committee III Part 1 - Agenda Item K-60.
+
+8-39. By adding a new Sec. 25.793 to read as follows:
+
+Sec. 25.793 Floor surfaces.
+
+The floor surface of all areas, which are likely to become wet, must have slip resistant properties.
+
+Explanation. Service experience has shown that there is a need to improve the traction qualities of the floor surfaces which may become wet in service.
+
+Ref. Proposal No. 1078; Sec. 25.787; Committee III Part 1 - Agenda Item K-56.
+
+8-40. By adding a new Sec. 25.819 to read as follows:
+
+Sec. 25.819 Lower deck service compartments.
+
+For airplanes with a galley or other service compartment located below the main deck, which may be occupied during taxi and flight but not during takeoff and landing, the following apply:
+
+(a) There must be an emergency evacuation route from each lower deck galley and service compartment which could be used by each occupant of the lower deck galley or service compartment to rapidly evacuate to the main deck under normal and emergency lighting conditions. The route must provide for the evacuation of incapacitated persons with assistance. The use of the evacuation route may not be dependent on any powered device. The route must be designed to minimize the possibility of blockage which might result from fire, or mechanical or structural failure. in the event the airplane's main power system or compartment main lighting system should fail, emergency illumination for each lower deck galley and service compartment must be automatically provided, indicates when seat belts should be
+
+(b) There must be a means for two-way voice communication between the flight deck and each lower deck galley and service compartment.
+
+(c) There must be an emergency alarm system to enable crewmembers on the flight deck and at each main deck flight attendant station to alert occupants of each lower deck galley and service compartment of an emergency situation.
+
+(d) There must be a means, readily detectable by occupants of each lower deck galley and service compartment that indicates when seat belts should be fastened.
+
+(e) If a public address system is installed in the airplane, speakers must be provided in each lower deck galley and service compartment.
+
+(f) For each occupant permitted in a lower deck galley or service compartment there must be forward or aft facing seat which meets the requirements specified in paragraphs (b) and (c) of Sec. 25.785.
+
+(g) For each powered lift system installed between a lower deck galley or service compartment and the main deck for the carriage of persons or equipment, or both, the system must meet the following requirements:
+
+(1) Each lift control switch outside the lift, except emergency stop buttons, must be designed to prevent the activation of the lift if the lift is occupied or the lift door is open.
+
+(2) There must be a means to operate the lift in the event of failure of its normal power supply.
+
+(3) An emergency stop button that when activated, will immediately stop the lift, must be installed within the lift and at each entrance to the lift.
+
+(4) There must be a hatch capable of being used for evacuating persons from the lift that is openable from inside and outside the lift without tools.
+
+Explanation. The purpose of this proposal is to establish the seating, communication, lighting, personnel safety, and emergency evacuation requirements for lower deck galleys and service compartments. Service experience has indicated that the proposed rule is needed to protect the occupants of these galleys and service compartments.
+
+Ref. Proposal No. 728; Sec. 25.819; Committee III Part 1 - Agenda Item L-74.
+
+8-41. By adding new Secs. 25.851(a)(5) and (a)(6) to read as follows:
+
+Sec. 25.851 Fire extinguishers.
+
+(a) * * *
+
+(5) There must be at least the following number of hand fire extinguishers conveniently located in passenger compartments:
+
+Passenger capacity: Minimum number of hand Fire Extinguishers
+
+ 
+
+7 through 30 1
+
+ 
+
+31 through 60 2
+
+ 
+
+61 or more 3
+
+ 
+
+(6) There must be at least one hand fire extinguisher conveniently located in the pilot compartment.
+
+* * * * *
+
+Explanation. the purpose of this proposal is to move current Secs. 25.853(e) and (f) to consolidate the hand fire extinguisher requirements in one section.
+
+Ref. Proposal No. 256; Sec. 25.851; not in agenda.
+
+8-42. By deleting Sec. 25.853(f) and revising Sec. 25.853(d) and (e) to read as follows:
+
+Sec. 25.853 Compartment interiors.
+
+* * * * *
+
+(d) Each towel, paper, or waste receptacle must be fully enclosed and constructed of fireproof materials, and must contain fires likely to occur in the receptacle under normal use. The ability of the receptacle to contain those fires under all conditions of wear, misalignment, and ventilation effects not shown to be extremely improbable in service must be demonstrated by test. A placard containing the legible words "No Cigarette Disposal" must be located on or near each disposal receptacle door.
+
+(e) Lavatories must have "No Smoking In Lavatory" placards located conspicuously on each side of the entry door, and self-contained removable ashtrays located conspicuously on or near the entry side of each lavatory door. The placards must have red letters at least one inch high on a white background of at least two inches high.
+
+Explanations. See the proposal for Sec. 25.851.
+
+The purpose of revising Sec. 25.853(e) is to require that all lavatories be placarded against smoking. The proposed size and color requirements of the placard are specified.
+
+The FAA believes that this proposal is necessary to protect against in-flight fires and also to protect passengers and crewmembers in the event of an in-flight fire in any receptacle for paper or similar waste.
+
+Ref. Proposal Nos. 731, 145, 259; Sec. 25.853, Sec. 25.853(d); Agenda Items N-77, N-76 (Committee III Part 1).
+
+8-43. By adding a new Sec. 25.901(d) to read as follows:
+
+Sec. 25.901 Installation.
+
+* * * * *
+
+(d) Each auxiliary power unit installation must meet the applicable provisions of this subpart.
+
+Explanation. This proposal would add a new Sec. 25.901(d) to make it clear that Subpart E of Part 25 contains provisions applicable to APU installations.
+
+Ref. Proposal No. 736; Sec. 25.901; Agenda Item A-1 (Committee I).
+
+Sec. 25.905 [Amended]
+
+8-44. By adding a new Sec. 25.905(c) that would be substantively identical to the proposed new Sec. 23.905(d).
+
+8-45. By deleting the parenthetical expression from sec. 25.939(a) and adding new Secs. 25.939(d), (e), (f) and (g) to read as follows:
+
+Sec. 25.939 Turbine engine operating characteristics.
+
+* * * * *
+
+(d) Each turbine powerplant installation must be investigated to determine the effects of variations and rates of change of air flow and the acceleration and deceleration fuel flow schedules on--
+
+(1) The susceptibility of the installation to surge and stall;
+
+(2) The severity of the surge and stall if it occurs; and
+
+(3) The acceleration , deceleration, and flameout characteristics of the installation.
+
+The investigation must be based on test, analysis, or both.
+
+(e) In determining the range of transients to be considered, under paragraph (d) of this section, the effects of the following factors must be considered:
+
+(1) The factors specified in Secs. 33.65(b)(1), (2), (3), and (4) of this chapter.
+
+(2) Installation effects including the effects of inlet distortions, and yaw and pitch variations.
+
+(3) The effects of airplane component production and service tolerances and the expect in-service component deterioration, and operating environment with respect to airplane components that have an effect on powerplant operation.
+
+(f) Based on the investigation, required by paragraph (d) of this section numerical values must be established in terms of parameters selected by the applicant for variations and rates of change of air flow and the acceleration and deceleration fuel flow schedules to indicate, under the most critical operating conditions expected in service, the margins that exist with respect to surge and stall, the installation steady state operation line, and the installation flameout fuel flow limit.
+
+(g) It must be shown by test or analysis, of both, that the automatic scheduling of controlled variables, including fuel flow and variable geometry systems, will minimize the probability of the occurrence of engine surge and stall during operations within the operating limitations of the airplane and of the engine.
+
+Explanation. Current engine and airplane certification provisions do not provide an adequate indication of the susceptibility of modern turbine engine installations to in-service operating characteristic problems. This proposal and the proposal for Sec. 33.65 would provide for an investigation to provide such information. This proposal would also require that it be shown that the probability of the occurrence of any surge or stall has been minimized.
+
+Ref. Proposal No. 740; Sec. 25.939(a); Agenda Item B-3 (Committee I).
+
+8-46. By revising Secs. 25.1103(a), (b)(2), and (d), an adding new Secs. 25.1103(e) and (f) to read as follows:
+
+Sec. 25.1103 Induction system ducts.
+
+(a) Each induction system duct upstream of the first stage of the engine supercharger and of the auxiliary power unit compressor must have a drain to prevent the hazardous accumulation of fuel and moisture in the ground attitude. The drains may not discharge in locations that might cause a fire hazard.
+
+(b) * * *
+
+(2) Fire resistant if it is in any fire zone for which a fire-extinguishing system is required except that ducts for auxiliary power units must be fireproof within the auxiliary power unit fire zone.
+
+* * * * *
+
+(d) For turbine engine and auxiliary power unit bleed air systems, no hazard may result if a duct failure occurs at any point between the engine or auxiliary power unit bleed air port and the airplane unit served by the bleed air.
+
+(e) Each auxiliary power unit induction system duct must be fireproof for a sufficient distance upstream of the auxiliary power unit compartment to prevent hot gas reverse flow from burning through auxiliary power unit ducts and entering any other compartment or area of the airplane in which a hazard would be created resulting from the entry of hot gases.
+
+(f) Each auxiliary power unit induction system duct must be constructed of materials that will not absorb flammable fluids that could be ignited in the event of a surge or reverse flow condition. The materials used to form the inlet duct and plenum chamber of the auxiliary power unit must be capable of resisting the maximum heat conditions likely to occur.
+
+Explanation. The proposal would revise Sec. 25.1103 to provide more comprehensive standards for APU induction system ducts. Similar standards have been applied in the past.
+
+Ref. Proposal No. 760; Sec. 25.1103(a), (b), and (d), Agenda Item A-1 (Committee I).
+
+8-47. By adding a new Sec. 25.1142 to read as follows:
+
+Sec. 25.1142 Auxiliary power unit controls.
+
+Means must be provided on the flight deck for starting, stopping, and emergency shutdown of each auxiliary power unit.
+
+Explanation. The proposal would require that necessary auxiliary power unit controls be provided on the flight deck.
+
+Ref. Proposal No. 733; Sec. 25.913; Agenda Item A-1 (Committee I).
+
+8-48. By adding a new Sec. 25.1143(f) to read as follows:
+
+Sec. 25.1143 Engine power and thrust, and antidetonant injection system controls.
+
+* * * * *
+
+(f) If there is an engine control system that automatically applies takeoff power or thrust on the operating engines after failure of an engine on takeoff--
+
+(1) The failure of the automatic system must be shown to be extremely improbable; and
+
+(2) The automatic system must be designed to--
+
+(i) Apply takeoff power or thrust on each operating engine without exceeding any engine limitation;
+
+(ii) Permit manual selection of takeoff power or thrust on each engine without exceeding any engine limitation; and
+
+(iii) Provide verification to the flight crew prior to takeoff that the automatic system is in a condition to operate in the intended manner.
+
+Explanation. See the proposal for Sec. 25.101(I).
+
+Sec. 25.1195 [Amended]
+
+8-49. By inserting between the first and second sentences of Sec. 25.1195(b) a new sentence to read -- "It must be shown by either actual or simulated flight tests that under critical airflow conditions the discharge of the extinguishing agent in each designated fire zone specified in paragraph (a) of this section will provide an agent concentration capable of extinguishing any fire in that zone and preventing reignition."
+
+Explanation. The FAA believes that it is essential to show that an adequate fire extinguishing agent discharge concentration exists under flight conditions to ensure that a fire in any designated fire zone provided with a fire extinguishing system can be extinguished.
+
+Ref. Proposal No. 775; Sec. 25.1195(b); Agenda Item L-56 (Committee IV).
+
+8-50. By adding a new Sec. 25.1305(c)(9) and revising Sec. 25.1305(d)(1) to read as follows:
+
+Sec. 25.1305 Powerplant instruments.
+
+* * * * *
+
+(c) * * *
+
+(9) For airplanes incorporating an automatic system for applying takeoff power or thrust--
+
+(i) An indicator to indicate when the automatic system is in the armed or ready condition; and
+
+(ii) An engine failure warning device which is independent of the automatic takeoff thrust control system.
+
+(d) * * *
+
+(1) An indicator to indicate thrust to the pilot. The indication must be based on the direct measurement of thrust or of a parameter that is directly related to thrust except that a parameter may not be used if the accuracy of the indication based on that parameter will be adversely affected by any engine malfunction, damage, or deterioration.
+
+* * * * *
+
+Explanation. See the proposal for Sec. 25.101(I).
+
+In addition, the proposal for Sec. 25.1305(d)(1) would revise the current requirement to more clearly indicate the kinds of engine deficiencies to be considered, and would require a direct measurement either of thrust or of a parameter that is related to thrust. The use of gas stream pressure as a parameter would no longer be permitted for all engines since for some engines it does not provide an adequate indication of a change in thrust caused by all engine malfunctions, damage, or deterioration.
+
+Ref. Proposal No. 785; Sec. 25.1305(d)(1); Agenda Item N-78 (Committee IV).
+
+8-51. By revising Sec. 25.1307(h) to read as follows:
+
+Sec. 25.1307 Miscellaneous equipment.
+
+* * * * *
+
+(h) Portable fire extinguishers as prescribed in Sec. 25.851(a)(5) and (a)(6).
+
+Explanation. Since the proposal for Sec. 25.851 would move the requirements specified in Secs. 25.853(e) and (f) to consolidate hand fire extinguisher requirements in Sec. 25.851, this section would be revised to make it consistent with the proposal for Sec. 25.851.
+
+Sec. 25.1413 [Amended]
+
+8-52. By adding the words "and shoulder harness" after the words "each belt" in Sec. 25.1413(c).
+
+Explanation. This section would be revised to make it consistent with Airworthiness Review Notice Number 2 (Notice No. 75-10), Proposal No. 2-60.
+
+8-53. By adding a new Sec. 25.1421 to read as follows:
+
+Sec. 25.1421 Cargo compartment fire detection systems.
+
+If certification with cargo compartment fire detection provisions is requested, the following must be met for each cargo compartment with those provisions:
+
+(a) The detection system must provide a visual indication to the flight crew within one minute after the start of a fire.
+
+(b) The system must be capable of detecting a fire at a temperature significantly below that at which the structural integrity of the airplane is substantially decreased.
+
+(c) There must be means to allow the crew to check, in flight, the functioning of each fire detector circuit.
+
+(d) The effectiveness of the detection system must be shown for all approved operating configurations and conditions.
+
+Explanation. This proposal would define the requirements for cargo compartment fire detection systems.
+
+Ref. Proposal No. 807; Sec. 25.1421; Committee III Part 1 - Agenda Item N-81.
+
+8-54. By adding a new Sec. 25.1439(c) to read as follows:
+
+Sec. 25.1439 Protective breathing equipment.
+
+* * * * *
+
+(c) Portable protective breathing equipment that meets the requirements of paragraph (b) of this section must be installed--
+
+(1) At each flight attendant seat in the passenger compartment;
+
+(2) At each flight deck station; and
+
+(3) In each isolated separate compartment in the airplane, including upper and lower lobe galleys, in which crewmember occupancy is permitted during flight for the maximum number of crewmembers expect to be in the area during any operation.
+
+Explanation. Airworthiness Review Notice Number 2 (Notice 75-10) contains a proposal for Secs. 25.1439(a) and (b).
+
+This proposal would relocate and clarify the portable oxygen requirement contained in present Sec. 25.1439(c)(4). Portable protective breathing equipment would be required for all transport category airplanes regardless of altitude certification. The FAA believes portable equipment may be needed during fire or smoke emergencies at any altitude. Portable protective breathing equipment would also be required at each flight deck station.
+
+Ref. Proposed Nos. 145, 512; Sec. 35.853, FAR 121; Committee III Part 1 - Agenda Item N-77.
+
+Sec. 25.1447 [Amended]
+
+8-55. By deleting Sec. 25.1447(c)(4). 
+
+Explanation. See the explanation for Sec. 25.1439.
+
+8-56. By adding a sentence to the end of Sec. 25.1521(a) to read as follows:
+
+Sec. 25.1521 Powerplant limitations.
+
+(a) * * *. Except as further limited under paragraph (b) of this section, the use of the thrust (or the power with respect to turbopropeller engines) approved for takeoff is limited to periods of not over--
+
+(1) Five minutes for takeoff operations with all engines operating; and
+
+(2) Ten minutes for takeoff operations during which an engine becomes inoperative provided that the utilization for more than five minutes is limited to the extent that the utilization is necessary for the airplane to avoid, without necessitating turning maneuvers, obstacles beneath the flight path intended for the airplane prior to the loss of the engine.
+
+* * * * *
+
+Explanation. See the proposal for Sec. 33.6.
+
+8-57. By adding a new Sec. 25.1522 to read as follows:
+
+Sec. 25.1522 Auxiliary power unit limitations.
+
+If an auxiliary power unit that meets the requirements of TSO C77 is installed in the airplane, the limitations established for that auxiliary power unit under the TSO including the categories of operation must be specified as operating limitations for the airplane.
+
+Explanation. The proposal would make it clear that limits established under the TSO for an APU must be made applicable to the installation in the airplane.
+
+Ref. Proposal No. 738; Sec. 25.913; Agenda Item A-1 (Committee I).
+
+Sec. 25.1529 [Amended]
+
+8-58. By amending Sec. 25.1529 in a manner substantively identical to that proposed for Sec. 23.1529.
+
+8-59. By adding a new Sec. 25.1557(e) to read as follows:
+
+Sec. 25.1557 Miscellaneous markings and placards.
+
+* * * * *
+
+(e) Flight attendant seats. Each flight attendant seat must be placarded to indicate that the seat is to be used by a flight attendant only.
+
+Explanation. See the explanation for the proposal for Sec. 25.785.
+
+Sec. 25.1583 [Amended]
+
+8-60. By deleting Sec. 25.1583(g) and marking it "[Reserved]".
+
+Explanation. Section 25.1583(g) requires a statement, that the fuel remaining in fuel tanks when the quantity indicator reaches "zero" is not usable fuel in flight, be furnished in the Airplane Flight Manual as an operating limitation. This statement is useful information for the pilot, but is not appropriate as an operating limitation.
+
+This proposal together with the proposal for Sec. 25.1585(d), would transfer the information concerning the meaning of the zero fuel indication from the operating limitations section of the Flight Manual to the operating procedures section.
+
+Ref. Proposal 338; Sec. 25.1583(g); Agenda Item H-60 (Committee II).
+
+8-61. By adding new Sec. 25.1585(d) and (e) to read as follows:
+
+Sec. 25.1585 Operating procedures.
+
+* * * * *
+
+(d) Information must be furnished which indicates that when the fuel quantity indicator reads "zero", any fuel remaining in the fuel tank cannot be safely used in flight.
+
+(e) Information on the total quantity of usable fuel for each fuel tank must be furnished.
+
+Explanation. For explanation of the proposal for Sec. 25.1585(d), see the proposal for Sec. 25.1583(g).
+
+There is no current rule requiring that information on the total quantity of usable fuel for each fuel tank be furnished. Information on usable fuel quantity for the pilot would contribute to the safe operation of the airplane, and the proposal for Sec. 25.1585(e) would require this information.
+
+APPENDIX G
+
+8-62. By adding a new Appendix G to Part 25 that would be substantively identical to the proposed new Appendix F to Part 23.
+
+PART 27 - AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+
+8-63. By revising Sec. 27.79(b)(2) to read as follows:
+
+Sec. 27.79 Limiting height-speed envelope.
+
+* * * * *
+
+(b) * * *
+
+(2) For multiengine helicopters, one engine inoperative (where engine isolation features ensure continued operation of the remaining engines), and the remaining engines at the greatest power for which certification is requested; and
+
+* * * * *
+
+Explanation. For multiengine helicopter with engine isolation features, the limiting height-speed envelope is demonstrated with one engine inoperative. Approval of a 2 1/2-minute power rating or a 30-minute power rating for the engine would permit alternate power settings for demonstrating the limiting height-speed envelope. The proposed wording is similar to present Sec. 29.79(b)(1). This proposal is related to the proposal for Sec. 27.923 (concerning rotor drive system tests) contained in Airworthiness Review Notice No. 3 (Notice 75-19).
+
+Ref. Proposal No. 348; Sec. 27.79(b)(2); Agenda Item J-67 (Committee II).
+
+Sec. 27.1529 [Amended]
+
+8-64. By amending Sec. 27.1529 in a manner substantively identical to that proposed for Sec. 23.1529.
+
+Sec. 27.1583 [Amended]
+
+8-65. By deleting Sec. 27.1583(f) and marking it "[Reserved]".
+
+Explanation. See the proposal for Sec. 25.1583.
+
+Sec. 27.1585 [Amended]
+
+8-66. By adding new Secs. 27.1585(d) and (e) that would be substantively identical to proposed Secs. 23.1585(e) and (f).
+
+NOTE. Airworthiness Review Notice No. 6 (Notice 75-25) contains a proposal to add a new Sec. 27.1585(c).
+
+APPENDIX A
+
+8-67. By adding a new Appendix A to Part 27 that would be substantively identical to the proposed new Appendix F to Part 23.
+
+PART 29 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+
+8-68. By adding a semicolon and the word "and" at the end of Sec. 29.75(b)(5); adding a new Sec. 29.75(b)(6), and revising Secs. 29.75(c)(2)(i) and (c)(2)(ii) to read as follows:
+
+Sec. 29.75 Landing.
+
+* * * * *
+
+(b) * * *
+
+(6) The horizontal distance required to land and come to a complete stop (or to a speed of approximately three knots for water landings), from a point 50 feet above the landing surface, must be determined from the approach and landing paths established in accordance with paragraph (b)(2) through (b)(4) of this section.
+
+(c) * * *
+
+(2) * * *
+
+(i) Paragraph (c)(1) of this section; or
+
+(ii) Paragraphs (b)(2) through (b)(6) of this section.
+
+Explanation. For category A rotorcraft, present Sec. 29.75(b) requires that the approach, balked landing, and landing paths be established with one engine inoperative. There is no specific requirements, however, for determination of the horizontal distance required from the height of 50 feet above the landing surface. The FAA believes that the horizontal distance for landing would provide useful information for safe operations.
+
+For multiengine category B rotorcraft that meet the powerplant installation requirements for category A, present Sec. 29.75(c)(2) requires determination of a power-off horizontal distance to land from a height of 50 feet or, optionally, establishment of the approach, balked landing, and landing paths in accordance with the requirements applicable to category A rotorcraft. The proposal for Sec. 29.75(c)(2)(ii) would require the determination of the horizontal landing distance proposed under Sec. 29.75(b)(6), with one engine inoperative when the second option is chosen. The language of Sec. 29.75(c)(2)(i) would be editorially changed to be consistent with proposed paragraph (c)(2)(ii).
+
+A proposal for Sec. 29.75 in Airworthiness Review Notice No. 2 [Notice No. 75-10], would delete "balked landing," from Sec. 29.75(b)(2) since this requirement for establishing a balked landing path is set forth in Sec. 29.77 and is applicable to category A rotorcraft only.
+
+For category A and B rotorcraft, the landing distance would be furnished in the Rotorcraft Flight Manual under the present requirements of Sec. 29.1587.
+
+Ref. Proposal Nos. 890, 973; Secs. 29.75, 29.1587; Agenda Items J-66, J-63, (Committee II).
+
+Sec. 29.901 [Amended]
+
+8-69. By adding a new Sec. 29.901(d) that would be substantively identical to the proposed new Sec. 25.901(d).
+
+NOTE. Airworthiness Review Notice No. 3 (Notice 75-19) contains a proposal to add a new Sec. 29.901(c).
+
+8-70. By deleting Sec. 29.923(1) and marking it "[Reserved]", by revising Secs. 29.923(a), (b), (c), (d), (e), (f), (h), (j), and (k), and by adding new Sec. 29.923(o) to read as follows:
+
+Sec. 29.923 Rotor drive system and control mechanism tests.
+
+(a) Endurance tests; general. Each rotor drive system and rotor control mechanism must be tested, as prescribed in paragraphs (b) through (n) of this section, for at least 200 hours plus the time required to meet paragraphs (b)(2) and (k) of this section. These tests must be conducted as follows:
+
+(1) Ten-hour test cycles must be used.
+
+(2) The tests must be conducted on the rotorcraft.
+
+(3) The test torque must be--
+
+(i) Determined by the powerplant limitations; and
+
+(ii) Absorbed by the actual rotors to be installed.
+
+(b) Endurance tests; takeoff torque run. The takeoff torque run endurance test must be conducted as follows:
+
+(1) Except as prescribed in paragraph (b)(2) of this section, the takeoff torque run must consist of 1 hour of alternate runs of 5 minutes at the torque corresponding to takeoff power and speed, and 5 minutes at as low an engine idle speed as practicable. The engine must be declutched from the rotor drive system, and the rotor brake, if furnished and so intended, must be applied during the first minute of the idle run. During the remaining 4 minutes of the idle run, the clutch must be engaged so that the engine drives the rotors at the minimum practical r.p.m. Acceleration of the engine and the rotor drive system must be done at the maximum rate. When declutching the engine, it must be decelerated rapidly enough to allow the operation of the over-running clutch.
+
+(2) For helicopters for which the use of 2½-minute power is requested, the takeoff torque run must be conducted as prescribed in paragraph (b)(1) of this section, except for the third and sixth run for which the torque corresponding to takeoff power and speed is prescribed in that paragraph. For these two takeoff torque runs, the following apply:
+
+(i) Each run must consist of at least one period of 2½ minutes with the torque corresponding to takeoff power and speed on all engines.
+
+(ii) Each run must consist of at least one period, for each engine in sequence, during which that engine simulates a power failure and the remaining engines are run at the torque corresponding to 2½-minute power and speed for 2½ minutes.
+
+(c) Endurance tests; maximum continuous run. Three hours of continuous operation at the torque corresponding to maximum continuous power and speed must be conducted as follows:
+
+(1) The main rotor controls must be operated at a minimum of 15 times each hour through the main rotor pitch positions of maximum vertical thrust, maximum forward thrust component, maximum aft thrust component, maximum left thrust component, and maximum right thrust component, except that the control movements need not produce loads or blade flapping motion exceeding the maximum loads or motions encountered in flight.
+
+(2) The directional controls must be operated at a minimum of 15 times each hour through the control extremes of maximum right turning torque, neutral torque as required by the power applied to the main rotor, and maximum left turning torque.
+
+(3) Each maximum control position must be held for at least 10 seconds, and the rate of change of control position must be at least as rapid as that for normal operation.
+
+(d) Endurance tests; 90 percent of maximum continuous run. One hour of continuous operation at the torque corresponding to 90 percent of maximum continuous power must be conducted at maximum continuous speed.
+
+(e) Endurance tests; 80 percent of maximum continuous run. One hour of continuous operation must be conducted at the torque corresponding to 80 percent of maximum continuous power and minimum speed intended for this power.
+
+(f) Endurance tests; 60 percent of maximum continuous run. Two hours, or, for helicopters for which the use of 30-minute power is requested, 1 hour of continuous operation at the torque corresponding to 60 percent of maximum continuous power must be conducted at the minimum rotational speed intended for this power.
+
+* * * * *
+
+(h) Endurance tests; overspeed run. One hour of continuous operation must be conducted at the torque corresponding to maximum continuous power and at the maximum rotational speed expected in service, assuming that speed and torque limiting devices, if any, function properly.
+
+* * * * *
+
+(j) Endurance tests; clutch and brake engagements. A total of at least 400 clutch and brake engagements, including the engagements of paragraph (b) of this section, must be made during the takeoff torque runs and, if necessary, at each change of torque and speed throughout the test. In each clutch engagement, the shaft on the driven side of the clutch must be accelerated from rest. The clutch engagements must be accomplished at the speed and by the method prescribed by the applicant. During deceleration after each clutch engagement, the engines must be stopped rapidly enough to allow the engines to be automatically disengaged from the rotors and rotor drives. If a rotor brake is installed for stopping the rotor, the clutch, during brake engagements, must be disengaged above 40 percent of maximum continuous rotor speed and the rotors allowed to decelerate to 40 percent of maximum continuous rotor speed, at which time the rotor brake must be applied. If the clutch design does not allow stopping the rotors with the engine running, or if no clutch is provided, the engine must be stopped before each application of the rotor brake, and then immediately be started after the rotors stop.
+
+(k) Endurance tests; 30-minute torque run. For helicopters for which the use of 30-minute power is requested, a run at the torque corresponding to 30-minute power and speed must be conducted as follows:
+
+(1) For each engine, in sequence, that engine must be inoperative and the remaining engines must be run for a 30-minute period.
+
+(2) The number of periods prescribed in paragraph (k)(1) of this section may not be less than the number of engines, nor may it be less than two.
+
+* * * * *
+
+(o) Each part tested as prescribed in this section must be a serviceable condition at the end of the tests. No intervening disassembly which might affect test results may be conducted.
+
+Explanation. The endurance test requirement would be revised to reference torque inputs to the rotor drive system rather than power inputs because torque is a more meaningful term. In addition, paragraphs (e), (f), and (h) would be revised to provide for more realistic torque conditions during the required tests and a provision similar to current Sec. 27.923(a) with the revision proposed for that paragraph in Airworthiness Review Notice No. 3 (Notice 75-19) would be added to clarify the Part 29 rule. Finally, the overspeed test requirement of Sec. 29.923(1) would be revised and placed in Sec. 29.927.
+
+Ref. Proposal No. 923; Sec. 29.923; Agenda Item M-65 (Committee IV).
+
+8-71. By revising Sec. 29.927(b), and adding new Secs. 29.927(d) and (e) to read as follows:
+
+Sec. 29.927 Additional tests.
+
+* * * * *
+
+(b) If turbine engine torque output to the transmission can exceed the highest engine or transmission torque limit, and that output is not directly controlled by the pilot under normal operating conditions (such as where the primary engine power control is accomplished through the flight control), the following test must be made:
+
+(1) Under conditions associated with all engines operating, make 200 applications, for 10 seconds each, of torque that is at least equal to the lesser of--
+
+(i) The maximum torque used in meeting Sec. 29.923 plus 10 percent; or
+
+(ii) The maximum torque attainable under probable operating conditions, assuming that torque limiting devices, if any, function properly.
+
+(2) For multiengine rotorcraft under conditions associated with each engine, in turn, becoming inoperative apply to the remaining transmission torque inputs the maximum torque attainable under probable operating conditions, assuming that torque limiting devices, if any, function properly. Each transmission input must be tested at this maximum torque for at least one hour.
+
+* * * * *
+
+(d) Overspeed test. After completion of the 200-hour tiedown test, and without intervening major disassembly, the rotor drive system must be subjected to 50 overspeed runs, each 30±3 seconds in duration at a speed of at least 120 percent of maximum continuous speed. These runs must be conducted as follows:
+
+(1) Overspeed runs must be alternated with stabilizing runs of from 1 to 5 minutes duration each at 60 to 80 percent of maximum continuous speed.
+
+(2) Acceleration and deceleration must be accomplished in a period not longer than 10 seconds, and the time for changing speeds may not be deducted from the specified time for the overspeed runs.
+
+(3) Overspeed runs must be made with the rotors in the flattest pitch for smooth operation.
+
+(e) The tests prescribed in paragraphs (b) and (d) of this section must be conducted on the rotorcraft and the torque must be absorbed by the rotors to be installed, except that other ground or flight test facilities with other appropriate methods of torque absorption may be used if the conditions of support and vibration closely simulate the conditions that would exist during a test on the rotorcraft.
+
+Explanation. The section would be revised to reference torque inputs to the transmission rather than power inputs since torque is the more meaningful term. The overspeed test prescribed in Sec. 29.923(1) would be revised and transferred to Sec. 29.927, and designated as paragraph (d), and Sec. 29.927(b)(3) would be redesignated as paragraph (e) and revised to apply to paragraphs (b) and (d). Airworthiness Review Notice No. 3 (Notice 75-19) contains a proposal to add a new Sec. 29.927(c).
+
+Ref. Proposal No. 924; Sec. 29.927; Agenda Item M-65 (Committee IV).
+
+8-72. By revising Secs. 29.1091(a), (b), and (f)(1) to read as follows:
+
+Sec. 29.1091 Air induction.
+
+(a) The air induction system for each engine and auxiliary power unit must supply the air required by that engine and auxiliary power unit under the operating conditions for which certification is requested.
+
+(b) Each engine and auxiliary power unit air induction system must provide air for proper fuel metering and mixture distribution with the induction system valves in any position.
+
+* * * * *
+
+(f) For turbine engine powered rotorcraft and rotorcraft incorporating auxiliary power units--
+
+(1) There must be means to prevent hazardous quantities of fuel leakage or overflow from drains, vents, or other components of flammable fluid systems from entering the engine or auxiliary power unit intake system; and
+
+* * * * *
+
+Explanation. The proposal would revise the air induction requirements of Secs. 20.1091(a), (b), and (f) to make those provisions applicable to auxiliary power units. The proposal would ensure an adequate supply of inlet air to the APU and would require for the APU the provision of air for proper fuel metering and mixture distribution. The proposal would also protect the APU from the intake of flammable fluids. This proposal is similar to the proposal for Sec. 25.1091 in Airworthiness Review Notice No. 3 (Notice 75-19).
+
+8-73. By revising Secs. 29.1103(a) and (d), and adding new Secs. 29.1103(e) and (f) to read as follows:
+
+Sec. 29.1103 Induction system ducts.
+
+(a) Each induction system duct upstream of the first stage of the supercharger and of the first stage of the auxiliary power unit compressor must have a drain to prevent he hazardous accumulation of fuel and moisture in the ground attitude. No drain may discharge where it might cause a fire hazard.
+
+* * * * *
+
+(d) Each duct within any fire zone for which a fire-extinguishing system is required must be at least--
+
+(1) Fireproof, if it passes through any firewall; or
+
+(2) Fire resistant, for other ducts, except that ducts for auxiliary power units must be fireproof within the auxiliary power unit fire zone.
+
+(e) Each auxiliary power unit induction system duct must be fireproof for a sufficient distance upstream of the auxiliary power unit compartment to prevent hot gas reverse flow from burning through auxiliary power unit ducts and entering any other compartment or area of the rotorcraft in which a hazard would be created resulting from the entry of hot gases.
+
+(f) Each auxiliary power unit induction system duct must be constructed of materials that will not absorb flammable fluids that could be ignited in the event of a surge or reverse flow condition. The materials used to form the inlet duct and plenum chamber of the auxiliary power unit must be capable of resisting the maximum heat conditions likely to occur.
+
+Explanation. See the proposal for Sec. 25.1103.
+
+Sec. 29.1142 [New]
+
+8-74. By adding a new Sec. 29.1142 that would be substantively identical to the proposed new Sec. 25.1142.
+
+8-75. By adding a new Sec. 29.1195(d) to read as follows:
+
+Sec. 29.1195 Fire extinguishing systems.
+
+* * * * *
+
+(d) It must be shown by either actual or simulated flight tests that under critical airflow conditions the discharge of the extinguishing agent in each designated fire zone will provide an agent concentration capable of extinguishing any fire in that zone and preventing reignition.
+
+Explanation. See the proposal for Sec. 25.1195.
+
+Sec. 29.1522 [New]
+
+8-76. By adding a new Sec. 29.1522 that would be substantively identical to the proposed new Sec. 25.1522.
+
+Sec. 29.1529 [Amended]
+
+8-77. By amending Sec. 29.1529 in a manner substantively identical to that proposed for Sec. 23.1529.
+
+Sec. 29.1583 [Amended]
+
+8-78. By deleting Sec. 29.1583(g) and marking it "[Reserved]".
+
+Explanation. See the proposal for Sec. 25.1583.
+
+Sec. 29.1585 [Amended]
+
+8-79. By adding new Secs. 29.1585(d) and (e) that would be substantively identical to proposed Secs. 23.1585(e) and (f).
+
+Note. Airworthiness Review Notice No. 6 (Notice 75-25) contains a proposal to add a new Sec. 29.1585(c).
+
+APPENDIX A
+
+8-80. By adding a new Appendix A to Part 29 that would be substantively identical to the proposed new Appendix F to Part 23.
+
+PART 31 - AIRWORTHINESS STANDARDS: MANNED FREE BALLOONS
+
+8-81. By adding a new Sec. 31.12 to read as follows:
+
+Sec. 31.12 Proof of compliance.
+
+(a) Each requirement of this subpart must be met at each weight within the range of loading conditions for which certification is requested. This must be shown--
+
+(1) By tests upon a balloon of the type for which certification is requested or by calculations based on, and equal in accuracy to, the results of testing; and
+
+(2) By systematic investigation of each weight, if compliance cannot be reasonably inferred form the weights investigated.
+
+(b) Except as provided in Sec. 31.17(b), allowable weight tolerances during flight testing are +5% and -10%.
+
+Explanation. The proposal would add general requirements similar to those in the other airworthiness parts, thereby providing for standardized application of the airworthiness requirements of balloons.
+
+Ref. Proposal No. 974; Sec. 31.11; Agenda Item M-32 (Committee I).
+
+8-82. By adding a new Sec. 31.16 to read as follows:
+
+Sec. 31.16 Empty weight.
+
+The empty weight must be determined by weighing the balloon with installed equipment but without lifting gas or heater fuel.
+
+Explanation. Airworthiness Review Notice No. 2 (Notice 75-10) contains a proposal to require that the balloon maximum weight be provided to the balloon pilot. By providing empty weight as well, the balloon pilot can check his weight calculations to assure that he maximum weight is not exceeded.
+
+Ref. Proposal No. 979; Sec. 31.16; Agenda Item M-35 (Committee I).
+
+8-83. By adding a new Sec. 31.17 to read as follows:
+
+Sec. 31.17 Performance; climb.
+
+(a) Each balloon must be capable of climbing 300 feet in the first minute after takeoff with a steady rate of climb. Compliance with the requirements of this section must be shown at each altitude and ambient temperature for which approval is sought.
+
+(b) Compliance with the requirements of paragraph (a) of this section must be shown at the maximum weight with a weight tolerance of +5%.
+
+Explanation. The proposal would establish a climb standard for balloons. A related proposal for Sec. 31.81 would require the actual performance information to be furnished to the operator, including the climb data determined under proposed Sec. 31.17. Such information would be useful to the pilot in determining his flight path, especially when there are obstacles to consider.
+
+Ref. Proposal No. 975; Sec. 31.12; Agenda Item M-33 (Committee I).
+
+8-84. By adding a new Sec. 31.19 to read as follows:
+
+Sec. 31.19 Performance: uncontrolled descent.
+
+(a) The following must be determined for the most critical uncontrolled descent that can result from any single failure of the heater assembly, fuel cell system, gas valve system, or maneuvering vent system, or from any single tear in the balloon envelope between tear stoppers;
+
+(1) The maximum vertical velocity attained.
+
+(2) The altitude loss from the point of failure to the point at which maximum vertical velocity is attained.
+
+(3) The altitude required to achieve level flight after corrective action is initiated, with the balloon descending at the maximum vertical velocity determined in paragraph (a)(1) of this section.
+
+(b) Procedures must be established from landing at the maximum vertical velocity determined in paragraph (a)(1) of this section and for arresting that descent rate in accordance with paragraph (a)(3) of this section.
+
+Explanation. The proposal would require determination of certain performance characteristics associated with uncontrolled descent, and establishment of procedures for landing in that circumstance. This information would be presented to the pilot on placards or in the balloon flight manual, under proposed Sec. 31.81.
+
+Ref. Proposal No. 976; Sec. 31.13; Agenda Item M-34 (Committee I).
+
+Sec. 31.27 [Amended]
+
+8-85. By amending Sec. 31.27(c) by deleting the second sentence, by deleting the word "concrete" in the third sentence, and by deleting the last sentence and inserting the following in place thereof: "A drop test height of 36 inches, or a drop test height that produces, upon impact, a velocity equal to the maximum vertical velocity determined in accordance with Sec. 31.19, whichever is higher, must be used."
+
+Explanation. The operating environment of balloons is such that they land infrequently on concrete surfaces. By deleting the word "concrete.," the surface used in showing compliance with (c) would be more representative of service conditions.
+
+Present Sec. 31.27(c) allows a drop test of the balloon basket from a height of 36 inches, in the absence of a rational analysis. Since the vertical velocity attained in a 36-inch drop may be less than that attained in an uncontrolled descent, it is proposed to allow the use of a drop test height of either 36 inches, or the height that will produce on impact a velocity equal to the maximum vertical velocity determined in accordance with Sec. 31.19, whichever is higher. This velocity could be the impact velocity.
+
+Ref. Proposal Nos. 981, 413, Secs. 31.27, 31.27(c); Agenda Item M-36 (Committee I).
+
+8-86. By revising Secs. 31.65(a), (b), and (c) and adding a new Sec. 31.65(e), to read as follows:
+
+Sec. 31.65 Position lights.
+
+(a) If position lights are installed, there must be one steady aviation white position light and one flashing aviation red (or flashing aviation white) position light with an effective flash frequency of at least 40, but not more than 100, cycles per minute.
+
+(b) Each light must provide 360° horizontal coverage at the intensities prescribed in this paragraph. The following light intensities must be determined with the light source operating at a steady state and with all light covers and color filters in place and at the manufacturer's rated minimum voltage. For the flashing aviation red light, the measured values must be adjusted to correspond to a red filter temperature of at least 130°F:
+
+(1) The intensities in the horizontal plane passing through the light unit must equal or exceed the following values:
+
+Position light: Minimum intensity (candles)
+
+ 
+
+Steady white 20
+
+ 
+
+Flashing red or white 40
+
+ 
+
+(2) The intensities in vertical planes must equal or exceed the following values. An intensity of one unit corresponds to the applicable horizontal plane intensity specified in paragraph (b)(1) of this section.
+
+Angles above and below the horizontal in any vertical plane (degrees):
+
+ Minimum intensity (units)
+
+ 
+
+0 1.00 
+
+0 to 5 0.90 
+
+5 to 10 0.80 
+
+10 to 15 0.70 
+
+15 to 20 0.50 
+
+20 to 30 0.30 
+
+30 to 40 0.10 
+
+40 to 60 0.05 
+
+(c) The steady white light must be located not more than 20 feet below the basket, trapeze, or other means for carrying occupants. The flashing red or white light must be located not less than 7, nor more than 10, feet below the steady white light.
+
+* * * * *
+
+(e) Each position light color must have the applicable International Commission on Illumination chromaticity coordinates within the limits specified in Sec. 23.1397 of this chapter.
+
+Explanation. The proposal would update the position light standards in present Sec. 31.65 and express them in language that is consistent with related standards in other airworthiness parts. Specifically--
+
+(1) The color prescribed for the flashing light would be changed from red to (optionally) aviation red or aviation white;
+
+(2) The color prescribed for the steady light would be changed from white to aviation white;
+
+(3) Color specifications for both aviation red and aviation white would be added; and
+
+(4) The phrase "visible for at least two miles" would be replaced by appropriate standards.
+
+Ref. Proposal No. 987; Sec. 31.65; Agenda Item M-39 (Committee I).
+
+8-87. By revising Sec. 31.71 to read as follows:
+
+Sec. 31.71 Function and installation.
+
+(a) Each item of installed equipment must--
+
+(1) Be of a kind and design appropriate to its intended function;
+
+(2) Be permanently and legibly marked or, if the item is too small to mark, tagged as to its identification, function, and operating limitations;
+
+(3) Be installed according to limitations specified for that equipment; and
+
+(4) Function properly when installed.
+
+(b) No item of installed equipment, when performing its function, may affect the function of any other equipment so as to create an unsafe condition.
+
+(c) The equipment, systems, and installations must be designed to prevent hazards to the balloon in the event of a probable malfunction or failure.
+
+Explanation. The proposal would bring the standards in present Sec. 31.71 in line with similar standards in the other aircraft airworthiness parts. It is noted that proposed paragraph (c) would require that only probable malfunctions or failures be considered, in contrast to present paragraph (c). Proposed paragraph (a)(2) would add a requirement that equipment be marked (or tagged, if too small) as to its identification, function, and operating limitations. A similar provision appears in other aircraft airworthiness parts, and is equally applicable to balloons.
+
+Ref. Proposal No. 933; Sec. 31.71; Agenda Item M-40 (Committee I).
+
+8-88. By revising Sec. 31.81 to read as follows:
+
+Sec. 31.81 General.
+
+(a) The following information must be established:
+
+(1) Each operating limitation, including the maximum weight determined under Sec. 31.14.
+
+(2) The normal and emergency procedures.
+
+(3) Other information necessary for safe operation, including--
+
+(i) The empty weight determined under Sec. 31.16;
+
+(ii) The rate of climb determined under Sec. 31.17, and the procedures and conditions used to determine performance;
+
+(iii) The maximum vertical velocity, the altitude drop required to attain that velocity, and the altitude required to recover from a descent at that velocity, determined under Sec. 31.19, and the procedures and conditions used to determine performance; and
+
+(iv) Pertinent information peculiar to the balloon's operating characteristics.
+
+(b) The operating limitations and other information necessary for safe operation must be furnished by means of--
+
+(1) A Balloon Flight Manual; or
+
+(2) A placard on the balloon that is clearly visible to the operator.
+
+Explanation. The proposal would restructure the language in the present regulation and would require certain additional information in paragraph (a)(3) to be furnished, including new performance information. The additional performance information would be determined under proposed amendments to Secs. 31.16, 31.17 and 31.19 in this notice, and Sec. 31.14 in Airworthiness Review Notice No. 2 (Notice 75-10).
+
+Ref. Proposal No. 989; Sec. 31.81; Agenda Item M-34 (Committee I).
+
+8-89. By adding a new Sec. 31.82 to read as follows:
+
+Sec. 31.82 Instructions for Continued Airworthiness.
+
+The applicant must prepare Instructions for Continued Airworthiness in accordance with Appendix A to this part that are acceptable to the Administrator.
+
+Explanation. This proposal would require the preparation of comprehensive maintenance instructions that would be made available upon delivery of each aircraft. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities for maintenance personnel and operators with respect to those Instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+8-90. By revising Sec. 31.85(b)(1) to read as follows:
+
+Sec. 31.85 Required basic equipment.
+
+* * * * *
+
+(b) * * *
+
+(1) A fuel quantity gage. If fuel cells are used, means must be incorporated to indicate to the crew the quantity of fuel in each cell during flight. The means must be calibrated in appropriate units.
+
+* * * * *
+
+Explanation. This proposal would incorporate standards for a fuel quantity indicator for each fuel cell.
+
+Ref. Proposal No. 982; Sec. 31.45; Agenda Item M-37 (Committee I).
+
+8-91. By adding a new Appendix A to Part 31 to read as follows:
+
+APPENDIX A - INSTRUCTIONS FOR CONTINUED AIRWORTHINESS
+
+A31.1 General.
+
+(a) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by Sec. 31.82.
+
+(b) The Instructions for Continued Airworthiness must include the Instructions for Continued Airworthiness for all balloon parts and any required information relating to the interface of those parts with the balloon. If Instructions for Continued Airworthiness do not exist for a balloon part, the Instructions for Continued Airworthiness for the balloon must include the information that would be contained in such instructions if they were to exist.
+
+(c) The applicant must submit to the FAA a program to show how changes go to the Instructions for Continued Airworthiness made by the applicant or by the manufacturers of balloon parts will be distributed.
+
+A31.2 Format.
+
+The Instructions for Continued Airworthiness must be in the form of a manual or manuals, as appropriate for the quantity of data to be provided.
+
+A31.3 Content.
+
+The contents of the manual or manuals must be prepared to be understood by the persons who will be responsible for maintaining the balloon. The Instructions for Continued Airworthiness must contain the following information.
+
+(a) Introduction information that includes an explanation of the manual or manuals contents.
+
+(b) A description of the balloon and its systems and installations.
+
+(c) Control and operation information for the balloon and its components and systems.
+
+(d) Servicing information that covers details regarding servicing of balloon components, including burner nozzles, fuel tanks and valves, during operations.
+
+(e) Maintenance information for each part of the balloon and its envelope, controls, rigging, basket structure, fuel system, instruments, and heater assembly that provides the recommended periods at which they should be cleaned, adjusted, tested, and lubricated, and the degree of work recommended at these periods. In addition, the applicant must include an inspection program to provide for the continued airworthiness of the balloon.
+
+(f) Troubleshooting information describing typical malfunctions that could occur, how to recognize those malfunctions, and the remedial action for those malfunctions.
+
+(g) Details of what, and how, to inspect after a hard landing.
+
+(h) Instructions for storage preparation including any storage limits.
+
+(i) Repair instructions including the following:
+
+(1) Temporary repair information that includes details of repairs of a temporary nature that are permitted and any restrictions that should apply until a permanent repair is made.
+
+(2) Permanent repair information.
+
+(3) Checking and testing information describing details of checks, tests and adjustment necessary after repairs.
+
+A31.4 Airworthiness limitations section.
+
+The Instructions for Continued Airworthiness must contain a section, titled "Airworthiness Limitations," that is segregated and clearly distinguishable from the rest of the document. That section must set forth each mandatory replacement time, inspection interval, and related procedure established during certification for the balloon or any part thereof. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: "The 'Airworthiness Limitations' section is FAA-approved and it specified inspections and other maintenance required under Secs. 43.16 and 91.163 of the Federal Aviation Regulations."
+
+Explanation. This proposal would provide standards for the preparation of comprehensive maintenance instructions that would be made available at the delivery of each balloon. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+PART 33 - AIRWORTHINESS STANDARDS; AIRCRAFT ENGINES
+
+8-92. By adding a new Sec. 33.4 to read as follows:
+
+Sec. 33.4 Instructions for Continued Airworthiness.
+
+The applicant must prepare and complete, prior to the issuance of a type certificate, Instructions for Continued Airworthiness in accordance with Appendix A to this part that are acceptable to the Administrator.
+
+Explanation. This proposal would require the preparation of comprehensive maintenance instructions that would be made available upon delivery of each engine. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those Instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+8-93. By deleting Secs. 33.5(c), (d), and (e) and revising the lead in and heading of Sec. 33.5 to read as follows:
+
+Sec. 33.5 Instruction manual for installing and operating the engine.
+
+ Each applicant must prepare and make available to the Administrator prior to the issuance of the type certificate and to the owner at the time of delivery of the engine, approved instructions for installing and operating the engine. The instructions must include at least the following:
+
+* * * * *
+
+Explanation. This proposal would delete from Sec. 33.5 the requirements for servicing and maintaining the engine. These requirements would be placed in a new Sec. 33.4 as part of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those instructions. In addition, the proposal would make it clear that these instructions are approved.
+
+Ref. See the proposal for Sec. 21.31.
+
+8-94. By adding a new Sec. 33.6 to read as follows:
+
+Sec. 33.6 Engine power and thrust ratings: definitions.
+
+As used with respect to engine type certification, the following definitions apply:
+
+(a) "Rated maximum continuous augmented thrust", with respect to turbojet engines, means the approved jet thrust that is developed statically or in flight, in standard atmosphere at a specified altitude, with fluid injection or with the burning of fuel in a separate combustion chamber, within the engine operating limitations established under this part, and approved for unrestricted periods of use.
+
+(b) "Rated maximum continuous power", with respect to reciprocating, turbopropeller, and turboshaft engine, means the approved brake horsepower that is developed statically or in flight, in standard atmosphere at a specified altitude, within the engine operating limitations established under this part, and approved for unrestricted periods of use.
+
+(c) "Rated maximum continuous thrust", with respect to turbojet engines, means the approved jet thrust that is developed statically or in flight, in standard atmosphere at a specified altitude, without fluid injection and without the burning of fuel in a separate combustion chamber, within the engine operating limitations established under this part, and approved for unrestricted periods of use.
+
+(d) "Rated takeoff augmented thrust", with respect to turbojet engines, means the approved jet thrust that is developed statically under standard sea level conditions, with fluid injection or with the burning of fuel in a separate combustion chamber, within the engine operating limitations established under this part, and limited in use to periods of not over 5 minutes for takeoff operation.
+
+(e) "Rated takeoff power", with respect to reciprocating, turbopropeller, and turboshaft engines, means the approved brake horsepower that is developed statically under standard sea level conditions, within the engine operating limitations established under this part, and limited in use to periods of not over--
+
+(1) For reciprocating and turboshaft engines, 5 minutes; and
+
+(2) For turbopropeller engines--
+
+(i) Five minutes for normal takeoff operations; and
+
+(ii) Ten minutes for one-engine-in-operative takeoff operations, under the operating conditions specified in Secs. 23.1521(a) and 25.1521(a) of this chapter.
+
+(f) "Rated takeoff thrust", with respect to turbojet engines, means the approved jet thrust that is developed statically under standard sea level conditions, within the operating limitations established under this part, and limited in use to periods of not over--
+
+(1) Five minutes for normal takeoff operations; and
+
+(2) Ten minutes for one-engine-inoperative takeoff operations, under the operating conditions specified in Secs. 23.1521(a) and 25.1521(a) of this chapter.
+
+(g) Rated "30-minute power", with respect to helicopter turbine engines, means the maximum brake horsepower, developed under static conditions at specified altitudes and atmospheric temperatures, under the maximum conditions of rotor shaft rotational speed and gas temperature, and limited in use to periods of not over 30 minutes as shown on the engine data sheet.
+
+(h) Rated "2½-minute power", with respect to helicopter turbine engines, means the brake horsepower, developed statically in standard atmosphere at sea level, or at a specified altitude, for one-engine-out operation of multiengine helicopters for 2½ minutes at rotor shaft rotational speed and gas temperature established for this rating.
+
+Explanation. See the proposal for Sec. 1.1. This proposal would also provide for the approval of rated takeoff thrust for turbojet engines and rated takeoff power for turbopropeller engines for use for periods of not over 10 minutes during one-engine-inoperative takeoff as under the conditions specified in the proposals for Secs. 23.1521 and 25.1521. The FAA believes that the endurance test for turbine engines provides adequate assurance that under the circumstances in which the thrust or power approved for takeoff could be utilized for an extended period under proposed Secs. 25.1521 and 23.1521, the engine will function properly and will provide the pilot an added margin of safety. The proposal would permit a weight credit for the approved extended usage for purposes of determining performance information under the airplane certification rules.
+
+Ref. Proposal Nos. 9, 423, and 149; Part 1, 25, and 33; Agenda Items B-4, B-5, and B-6 (Committee IV).
+
+8-95. By redesignating Sec. 33.19 as Sec. 33.19(a) and adding a new Sec. 33.19(b) to read as follows:
+
+Sec. 33.19 Durability.
+
+* * * ** *
+
+(b) Each component of the propeller blade pitch control system which is a part of the engine type design must meet the requirements of Sec. 35.42 of this chapter.
+
+Explanation. See the proposal for Sec. 35.42.
+
+8-96. By revising the heading of Sec. 33.65, redesignating Sec. 33.65 as Sec. 33.65(a), and adding a new Secs. 33.65(b), (c), and (d) to read as follows:
+
+Sec. 33.65 Surge and stall, acceleration, deceleration, and flameout characteristics.
+
+* * * * *
+
+(b) The engine must be investigated to determine the effects of variations and rates of change of air flow and the acceleration and deceleration fuel flow schedules on--
+
+(1) The susceptibility of the engine to surge and stall:
+
+(2) The severity of the surge and stall if it occurs; and
+
+(3) The acceleration, deceleration, and flameout characteristics of the engine.
+
+The investigation must be based on test, analysis, or both.
+
+(c) In determining the range of transients to be considered under paragraph (b) of this section, the effects of the following factors must be considered:
+
+(1) Engine operating parameter variations including turbine inlet temperature and compressor pressure ratio variations.
+
+(2) Engine production and service tolerances.
+
+(3) Engine deterioration including the effects of wear, erosion, nick blending, contamination, and deformation.
+
+(4) Engine operating environments, including the effects of ambient temperature and altitude variations, crosswinds, the icing conditions of Appendix C of Part 25 of this chapter, and rain ingestion.
+
+(d) Based on the investigation required by paragraph (b) of this section, numerical values must be established in terms of parameters selected by the applicant for variation and rates of change of air flow and the acceleration and deceleration fuel flow schedules to indicate, under the most critical operating conditions expected in service, the margins that exist with respect to surge and stall, the engine steady state operation line, and the engine flameout fuel flow limit.
+
+Explanation. See the explanation for Sec. 25.939.
+
+Ref. Proposal No. 995; Sec. 33.65; Agenda Item B-3 (Committee I).
+
+8-97. By adding a new Appendix A to Part 33 to read as follows:
+
+APPENDIX A INSTRUCTIONS FOR CONTINUED AIRWORTHINESS
+
+A33.1 General.
+
+(a) This appendix specifies requirements for the preparation of Instructions for Continued Airworthiness as required by Sec. 33.4.
+
+(b) The Instructions for Continued Airworthiness must include the Instructions for Continued Airworthiness for all engine parts. If Instructions for Continued Airworthiness do not exist for an engine part, the Instructions for Continued Airworthiness for the engine must include the information that would be contained in such instructions if they were to exist.
+
+(c) The applicant must submit to the FAA a program to show how changes to the Instructions for Continued Airworthiness made by the applicant or by the manufacturers of engine parts will be distributed.
+
+A33.2 Format.
+
+(a) The Instructions for Continued Airworthiness must be in the form of a manual or manuals as appropriate for the quantity of data to be provided.
+
+(b) The format of the manual or manuals must provide for a practical arrangement (such as that used in the Air Transportation Association of America Specification No. 100. "Specifications for Manufacturers" Technical Data").
+
+A33.3 Content.
+
+The contents of the manual or manuals must be prepared to be understood by the persons who will be responsible for maintaining the engine. The Instructions for Continued Airworthiness must contain the following manuals or sections, as appropriate, and information:
+
+(a) Engine Maintenance Manual or Section.
+
+(1) Introduction information that includes a brief explanation of the engine's feature and data of general interest.
+
+(2) A detailed description of the engine and its components, systems, and installations.
+
+(3) Installation instructions including proper procedures for uncrating, deinhibiting, acceptance checking, lifting, and attaching accessories with any necessary checks.
+
+(4) Operating information describing how the engine components, systems, and installations operate and information describing the methods of starting, running, testing, and stopping the engine and its parts including any special procedures and limitations that apply.
+
+(5) Servicing information that covers details regarding servicing points capacities of tanks , reservoirs, type of fluids to be used, and pressures applicable to the various systems, and the locations of lubrication points, the lubricants go be used, and equipment required for servicing.
+
+(6) Scheduling information for each part of the engine that provides the recommended periods at which it should be cleaned, inspected, adjusted, tested, and lubricated, and the degree of inspection and work recommended at these periods. The recommended overhaul periods and necessary cross-references to the "Airworthiness Limitations" section of the manual must also be included. In addition, the applicant must include an inspection program to provide for the continued airworthiness of the engine.
+
+(7) Troubleshooting information describing typical malfunctions that could occur, how to recognize those malfunctions, and the remedial action for those malfunctions, and the remedial action for those malfunctions.
+
+(8) Removal and assembly information describing the order and method of removing the engine and its parts and replacing parts with any necessary precautions to be taken during such removal and assembly. Instructions for proper ground handling, crating, and shipping must also be included.
+
+(9) A list of the tools and equipment necessary for maintenance and directions as to their method of use.
+
+(b) Engine Overhaul Manual or Section.
+
+(1) Disassembly information including the order and method of disassembly of overhaul.
+
+(2) Cleaning and inspection instructions that cover the materials and apparatus to be used and methods and precautions to be taken during overhaul. Methods of overhaul inspection must also be included.
+
+(3) Details of all fits and clearances relevant to overhaul.
+
+(4) Details of repair methods for worn or other wise substandard parts and components along with information necessary to determine when replacement is necessary.
+
+(5) The order and method of assembly at overhaul.
+
+(6) Instructions for testing after overhaul.
+
+(7) Instructions for storage preparation including any storage limits.
+
+(8) A list of tools needed for overhaul.
+
+A33.4 Airworthiness limitations section.
+
+(a) The Instructions for Continued Airworthiness must contain a section, titled "Airworthiness Limitations", that is segregated and clearly distinguishable from the rest of the document. That section must set forth each mandatory replacement time, inspection interval, and related procedure established during certification for the engine or any part thereof. If the Instructions for Continued Airworthiness consist of multiple documents, the section required by this paragraph must be included in the principal manual. This section must contain a legible statement in a prominent location that reads: "The 'Airworthiness Limitations' section is FAA-approved and it specifies inspections and other maintenance required under Secs. 43.16 and 91.163 of the Federal Aviation Regulations."
+
+Explanation. This proposal would provide standards for the preparation of comprehensive maintenance instructions for each engine. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those Instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+PART 35 - AIRWORTHINESS STANDARDS; PROPELLERS
+
+8-98. By revising Sec. 35.3, including its heading to read as follows:
+
+Sec. 35.3 Instruction manual for installing and operating the propeller.
+
+Each applicant must prepare and make available an approved manual or manuals containing instructions for installing and operating the propeller.
+
+Explanation. This proposal would delete from Sec. 35.3 the requirements for servicing and maintaining the propeller. These requirements would be placed in a new Sec. 35.4 as part of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those instructions.
+
+Ref. See the proposal for Sec. 21.31.
+
+8-99. By adding a new Sec. 35.4 to read as follows:
+
+Sec. 35.4 Instructions for Continued Airworthiness.
+
+The applicant must prepare and complete, prior to the issuance of a type certificate, Instructions for Continue Airworthiness in accordance with Appendix A to this part that are acceptable to the Administrator.
+
+Explanation. This proposal would require the preparation of comprehensive maintenance instructions that would be made available upon delivery of each propeller. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those Instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+8-100. By revising Sec. 35.5 to read as follows:
+
+Sec. 35.5 Propeller operating limitations.
+
+Propeller operating limitations are established by the Administrator, are included in the propeller type certificate data sheet specified in Sec. 21.41 of this chapter, and include limitations based on the operating conditions demonstrated during the tests required by this part and any of the information found necessary for the safe operation of the propeller.
+
+Explanation. The proposal would revise Sec. 35.5 to make it consistent with Sec. 33.7(a) in Amendment 33-6. The revised section would more clearly indicate the basis for operating limitations and where they are contained.
+
+Ref. Proposal No. 428; Sec. 35.5; Agenda Item P-81 (Committee IV).
+
+8-101. By revising the heading of Sec. 35.23 and adding a new Sec. 35.23(c) to read as follows:
+
+Sec. 35.23 Pitch control and indication.
+
+* * * * *
+
+(c) Each propeller approved for installation on a turbopropeller engine must incorporate a provision for an indicator to indicate that the propeller blade angle is below the flight low pitch position. The provision must directly sense the blade position and be arranged to cause an indicator to indicate that the blade angle is below the flight low pitch position before the blade moves more than eight degrees below the flight low pitch stop.
+
+Explanation. Parts 23 and 25 require a position indicating means for each turbopropeller blade to indicate to the flight crew when the propeller blade angle is below the flight low pitch position. Part 25 requires that indicator to begin indicating before the blade moves more than eight degrees below the flight low pitch stop. Both parts require that the source of indication directly sense the blade position. Propeller modification could be necessary to achieve compliance with the blade position indicating requirement of Parts 23 and 25. The proposal is intended to obviate the need for such a modification in cases in which the propeller as type certificated is intended for installation on a turbopropeller engine.
+
+See the proposal for Sec. 23.1305.
+
+8-102. By revising Sec. 35.37, including its heading, to read as follows:
+
+Sec. 35.37 Fatigue limit tests.
+
+A fatigue evaluation must be made, and the fatigue limits determined for each metallic chub and blade and each primary load carrying metal component of nonmetallic blades. The fatigue evaluation must include consideration of all reasonably foreseeable vibration load patterns. The fatigue limits must incorporate reduction factors that account for the permissible service deterioration (such as nicks, grooves, galling, bearing wear, and variations in material properties) specified in the documentation provided in accordance with Sec. 35.4
+
+Explanation. Certain blade tip failures could be eliminated if a fatigue evaluation of hubs and blades would be made taking into consideration the occurrence of typical service damage and variation in material properties. The proposal would provide for such an evaluation.
+
+Ref. Proposal No. 998; Sec. 35.39; Agenda Item P-87 (Committee IV).
+
+8-103. By adding a new Sec. 35.42 to read as follows:
+
+Sec. 35.42 Blade pitch control system component test.
+
+The following durability requirements apply to propeller blade pitch control system components:
+
+(a) Except as provided in paragraph (b) of this section, each propeller blade pitch control system component, including governors, pitch change assemblies, pitch locks, mechanical stops and feathering system components, must be subjected in bench tests to cyclic loadings that simulate in frequency and amplitude those to which the component would be subjected to during 1000 hours of propeller operation.
+
+(b) Compliance with paragraph (a) may be shown by a rational analysis based on the results of bench tests on similar components.
+
+Explanation. The FAA believes that test requirements for propeller blade pitch control system components are needed to show that these components have an adequate durability.
+
+Ref. Proposal No. 434; Sec. 35.36; Agenda Item P-85 (Committee IV).
+
+8-104. By adding a new Appendix A to Part 35 to read as follows:
+
+APPENDIX A - INSTRUCTIONS FOR CONTINUED AIRWORTHINESS
+
+A35.1 General.
+
+(a) This appendix specified requirements for the preparation of Instructions for Continued Airworthiness as required by Sec. 35.4.
+
+(b) The Instructions for Continued Airworthiness must include the Instructions for Continued Airworthiness for all propeller parts. If instructions for Continued Airworthiness do not exist for a propeller part, the instructions for Continued Airworthiness for the propeller must include the information that would be contained in such instructions if they were to exist.
+
+(c) The applicant must submit to the FAA a program to show how changes to the Instructions for Continued Airworthiness made by the applicant or by the manufacturers of propeller parts will be distributed.
+
+A35.2 Format.
+
+(a) The Instructions for Continued Airworthiness must be in the form of a manual.
+
+(b) The format of the manual must provide for a practical arrangement (such as that used in the Air Transportation Association of America Specification No. 100. "Specification for Manufacturers' Technical Data").
+
+A35.3 Content.
+
+The contents of the manual must be prepared to be understood by the persons who will be responsible for maintaining the propeller. The "Instructions for Continued Airworthiness" must contain the following sections and information:
+
+(a) Propeller Maintenance Section.
+
+(1) Introduction information that includes an explanation of the propeller's features.
+
+(2) A detailed description of the propeller and its systems and installations.
+
+(3) Control and operation information describing how the propeller components and systems are controlled, and how they operate, including any special procedures that apply:
+
+(4) Instructions for uncrating, acceptance checking, lifting, and installing the propeller.
+
+(5) Instructions for propeller operational checks.
+
+(6) Scheduling information for each part of the propeller that provides the recommended periods at which it should be cleaned, adjusted, and tested and the degree of work recommended at these periods. The recommended overhaul period and necessary cross-references to the "Airworthiness Limitations" section of the manual must also be included. In addition, the applicant must include an inspection program to provide for the continued airworthiness of the propeller.
+
+(7) Troubleshooting information describing typical malfunctions that could occur, how to recognize those malfunctions, and the remedial action for those malfunctions.
+
+(8) Removal and assembly information describing the order and method of removing and replacing propeller parts with any necessary precautions to be taken during such removal and assembly.
+
+(9) A list of the special tools needed for maintenance other than for overhauls.
+
+(b) Propeller Overhaul Section.
+
+(1) Disassembly information including the order and method of disassembly for overhaul.
+
+(2) Cleaning and inspection instructions that cover the materials and apparatus to be used and methods and precautions to be taken during overhaul. Methods of overhaul inspection must also be included.
+
+(3) Details of all fits and clearances relevant to overhaul.
+
+(4) Details of repair methods for worn or otherwise substandard parts and components along with information necessary to determine when replacement is necessary.
+
+(5) The order and method of assembly at overhaul.
+
+(6) Instructions for testing after overhaul.
+
+(7) Instructions for storage preparation including any storage limits.
+
+(8) A list of tools needed for overhaul.
+
+A35.4 Airworthiness limitations section.
+
+The Instructions for Continued Airworthiness must contain a section, titled "Airworthiness Limitations," that is segregated and clearly distinguishable from the rest of the document. That section must set forth each mandatory replacement time, inspection interval, and related procedure established during the certification of the propeller. This section must contain a legible statement in a prominent location that reads - "The Airworthiness Limitations section is FAA-approved and it specifies inspections and other maintenance required under Secs. 43.16 and 91.163 of the Federal Aviation Regulations".
+
+Explanation. This proposal would provide standards for the preparation of comprehensive maintenance instructions that would be made available upon the delivery of each propeller. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+PART 43 - MAINTENANCE, PREVENTIVE MAINTENANCE, REBUILDING, AND ALTERATION
+
+8-105. By revising Sec. 43.9(a)(4) to read as follows:
+
+Sec. 43.9 Content, form and disposition of maintenance, rebuilding, and alteration records (except 100 hour, annual, and progressive inspections).
+
+(a) * * *
+
+(4) If the aircraft, airframe, aircraft engine, propeller, or appliance with respect to the work performed, is approved for return to service, the signature (and if a certificated mechanic, the certificate number) of the person who approved it.
+
+* * * * *
+
+Explanation. Section 43.9(a) presently provides that the signing of the entry in the maintenance record approves for return to service either the aircraft, airframe, aircraft engine, propeller or appliance. Such a provision could require an unnecessary complete inspection of the aircraft, airframe, aircraft engine, propeller or appliance, irrespective of the extent of the work which had been performed. Therefore, Sec. 43.9(a)(4) would be revised to require that an approval for return to service required by that section need only cover the work actually performed on the aircraft.
+
+Ref. See the proposal for Sec. 91.165.
+
+Sec. 43.13 [Amended]
+
+8-106. By revising the first sentence of Sec. 43.13(a) to read - 
+
+"Each person performing maintenance, alteration, or preventive maintenance on an aircraft, engine, propeller, or appliance shall use the methods, techniques, and practices prescribed in the current Instructions for Continued Airworthiness prepared by its manufacturer or other methods, techniques, and practices acceptable to the Administrator."
+
+Explanation. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and aircraft operators with respect to those instructions. In light of the improved and more uniform maintenance manuals that will be provided in the future for new products, this proposal would clearly emphasize that the information contained in such manuals should be used by maintenance personnel. However, it should be noted that the option would exist of using other maintenance methods, techniques, and practices that are acceptable to the Administrator. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+8-107. By revising Sec. 43.16, including its heading, to read as follows:
+
+Sec. 43.16 Airworthiness Limitations.
+
+Each person performing an inspection or other maintenance specified in an "Airworthiness Limitations" section of a Rotorcraft Maintenance Manual or Instructions for Continued Airworthiness shall perform the inspection or other maintenance in accordance with that section.
+
+Explanation. The proposal would revise current Sec. 43.16 to require that maintenance personnel performing inspections or other work on a product, do so in accordance with the "Airworthiness Limitations" section of the Instructions for Continued Airworthiness if such instructions have been issued. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and aircraft operators with respect to those instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+PART 45 - IDENTIFICATION AND REGISTRATION MARKING
+
+8-108. By revising Sec. 45.11(a) and adding a new Sec. 45.11(c) to read as follows:
+
+Sec. 45.11 General.
+
+(a) Aircraft and aircraft engines. Aircraft covered by Sec. 21.182 must be identified, and each person who manufactures an aircraft engine under a type or production certificate shall identify his engine, by means of a fireproof plate that has the information specified in Sec. 45.13 marked thereon by etching, stamping, engraving, or other approved method of fireproof marking. The identification plate for aircraft must be secured in such a manner that it will not likely be defaced or removed during normal service, or lost or destroyed in an accident. Except as provided in paragraph (c) of this section, the identification plate must be secured to the aircraft at an accessible location near an entrance, except that if it is legible to a person on the ground it may be located externally on the fuselage near the tail surfaces. For aircraft engines, the identification plate must be affixed to the engine at an accessible location, in such a manner that it will not be likely to be defaced or removed during normal service, or lost or destroyed in an accident.
+
+* * * * *
+
+(c) For manned free balloons, the identification plate prescribed in paragraph (a) of this section must be secured to the balloon envelope and must be located, if practicable, where it is legible to the operator when the balloon is inflated. In addition, the basket and heater assembly must be permanently and legibly marked with the manufacturer's name, part number (or equivalent) and serial number (or equivalent).
+
+Explanation. The proposal would qualify, with respect to manned free balloons, the requirements in Sec. 45.11(a) that deal with the location of the identification plate.
+
+In service, various types of baskets (trapezes, or other means provided for occupants) and heaters are fitted to the same balloon envelope. To enable a determination whether a particular basket or heater is eligible for installation on a particular envelope, it is proposed to: (1) standardize on securing the identification plate to the balloon envelop; and (2) require identification marks on both the basket and the heater. Identifying the basket and heater would also facilitate the keeping of maintenance records on these components. The type certification data sheet for the balloon would contain a list of basket and heater combinations eligible for installation.
+
+Ref. Proposal No. 412; Part 31; Agenda Item M-31 (Committee I).
+
+Sec. 45.13 [Amended]
+
+8-109. By deleting "Sec. 45.11" in Sec. 45.13(a) and inserting in place thereof the term "paragraphs (a) and (b) of Sec. 45.11."
+
+Explanation. See the explanation of the proposal for Sec. 45.11.
+
+8-100. By revising Sec. 45.14 to read as follows:
+
+Sec. 45.14 Identification of critical components.
+
+Each person who produces a part for which a replacement time, inspection interval, or related procedure is specified in the "Airworthiness Limitations" section of a Rotorcraft Maintenance Manual or Instructions for Continued Airworthiness shall mark that component with a part number (or equivalent), and with a serial number (or equivalent).
+
+Explanation. Critical components need to be clearly identified. The proposal would provide a marking requirement for parts referenced in an "Airworthiness Limitations" section of a Rotorcraft Maintenance Manual or Instructions for Continued Airworthiness. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and operators with respect to those instructions. Also see the proposal for Sec. 23.1529.
+
+Ref. See the proposal for Sec. 21.31.
+
+PART 91 - GENERAL OPERATING AND FLIGHT RULES
+
+8-111. By revising Sec. 91.163(c) to read as follows:
+
+Sec. 91.163 General.
+
+* * * * *
+
+(c) No person may operate an aircraft for which a Rotorcraft Maintenance Manual or Instructions for Continued Airworthiness has been issued that contains an "Airworthiness Limitations" section unless the replacement times, inspection intervals, and related procedures specified in that section are complied with.
+
+Explanation. The proposal would prohibit the operation of an aircraft unless the terms of the "Airworthiness Limitations" section of the Instructions for Continued Airworthiness, if issued, are complied with. This proposal is one of a group of proposals dealing with the establishment of Instructions for Continued Airworthiness and the responsibilities of maintenance personnel and aircraft operators with respect to those instructions. Also see the proposal for Sec. 23.1529.
+
+Sec. 91.165 [Amended]
+
+8-112. By revising the last sentence of Sec. 91.165 to read, "In addition, he shall ensure that maintenance personnel make appropriate entries in the maintenance records required by Sec. 91.173 indicating that the aircraft has been approved for return to service."
+
+Explanation. The proposal would make clear the extent of maintenance records requiring entries by maintenance personnel before approving the aircraft for return to service.
+
+Ref. Proposal No. 505; Sec. 91.165; Agenda Item G-13 (Committee I).
+
+8-113. By revising Secs. 91.173(a)(2)(i) and (iii) to read as follows:
+
+Sec. 91.173 Maintenance records.
+
+(a) * * *
+
+(2) * * *
+
+(i) The total time in service of the airframe, engines, and propellers.
+
+* * * * *
+
+(iii) Except as required by paragraphs (a)(2)(iv) and (a)(2)(v) of this section, for each item for which maintenance is required on a recurring basis, the time in service at, and the date of, the last compliance with the requirement.
+
+* * * * *
+
+Explanation. These proposed changes would require that total time in service records be kept on propellers and engines in addition to airframes, because the FAA believes more complete records are required to assure that interested persons, such as future buyers of airplanes, will have access to necessary information about the maintenance status of the airplane.
+
+The FAA has found that the requirement of the present Sec. 91.173 (a)(2)(iii) for records related to periodic overhauls needs to be expanded to relate to all periodic maintenance. Therefore, in order to assure that complete information is available for each item having a recurring maintenance requirement, it is proposed to require that individualized records be kept on all items subject to recurring maintenance.
+
+Ref. Proposal No. 508; Sec. 91.173; Agenda Item G-13 (Committee I).
+
+8-114. By adding a new Sec. 91.193(c)(4) to read as follows:
+
+Sec. 91.193 Emergency equipment.
+
+* * * * *
+
+(c) * * *
+
+(4) Hand fire extinguishers must be installed and secured in such a manner that they will not interfere with the safe operation of the airplane or adversely affect the safety of the crew and passengers. They must be readily accessible, and their stowage provisions must be properly identified.
+
+* * * * *
+
+Explanation. This proposal would establish standards regarding the installation of the already required fire extinguishers.
+
+Ref. Proposal No. 1017; Sec. 91.193(c)(4); Committee III Part 1 - Agenda Item N-82.
+
+8-115. By revising Sec. 91.197(a) to read as follows:
+
+Sec. 91.197 Smoking and safety belt signs.
+
+(a) Except as provided in paragraph (b) of this section - 
+
+(1) Until (a date one year after the effective date of this amendment), no person may operate an airplane carrying passengers unless it is equipped with signs that are visible to passengers and cabin attendants to notify them when smoking is prohibited and when safety belts should be fastened. The signs must be so constructed that the crew can turn them on and off. They must be turned on for each takeoff and each landing and when otherwise considered to be necessary by the pilot in command; and
+
+(2) After (a date one year after the effective date of this amendment), no person may operate an airplane carrying passengers unless it is equipped with passenger information signs that meet the requirements specified in Sec. 25.791 of this chapter. They must be turned on for each takeoff and each landing and when otherwise considered to be necessary by the pilot in command.
+
+* * * * *
+
+Explanation. The purpose of this proposal is to require after a date passenger information signs which meet the requirements of Sec. 25.791. The current provision would apply in the interim.
+
+Ref. Proposal No. 1018; Sec. 91.197(a); Committee III Part 1 - Agenda Item K-58.
+
+8-116. By adding a new Sec. 91.200 to read as follows:
+
+Sec. 91.200 Shoulder harness.
+
+After (a date one year after the effective date of this amendment) no person may operate a transport category airplane unless it is equipped with a combined safety belt and shoulder harness that meets the applicable requirements specified in Sec. 25.785 of this chapter at each flight attendant seat in the passenger compartment and at each flight deck station.
+
+Explanation. Proposed Sec. 91.200 would require after one year the installation of a combined safety belt and shoulder harness at each flight deck station and at each flight attendant seat in the passenger compartment on those airplanes operated under Subpart D of Part 91. See the proposal for Sec. 25.785.
+
+Ref. Proposal No. 482; FAR 91; Committee III Part 1 - Agenda Item K-53.
+
+PART 121 - CERTIFICATION AND OPERATIONS: DOMESTIC, FLAG, AND SUPPLEMENTAL AIR CARRIERS AND COMMERCIAL OPERATORS OF LARGE AIRCRAFT
+
+8-117. By revising the heading of Sec. 121.311(e), and adding a new Secs. 121.311(f), (g), (h), and (I) to read as follows:
+
+Sec. 121.311 Seats, safety belts, and shoulder harnesses.
+
+* * * * *
+
+(e) No person may operate a transport category airplane - 
+
+(1) That was type certificated after January 1, 1958, unless it is equipped with a shoulder harness at the pilot in command station, the second in command station, and the flight engineer station; and
+
+(2) After (a date one year after the effective date of this amendment), unless it is equipped with a combined safety belt and, shoulder harness, that meets the applicable requirements specified in Sec. 25.785 of this chapter at each flight deck station.
+
+(f) Each flight attendant required by Sec. 121.391 must have a seat for takeoff and landing in the passenger compartment that meets the requirements of Sec. 25.785 of this chapter.
+
+(g) Until (a date one year after the effective date of this amendment) each occupant of a seat equipped with a shoulder harness must have the shoulder harness properly secured about him during takeoff and landing except that a flight crewmember need not fasten his shoulder harness if he cannot perform his assigned duties with the shoulder harness fastened.
+
+(h) After (a date one year after the effective date of this amendment) each occupant of a seat equipped with a combined safety belt and shoulder harness must have the combined safety belt and shoulder harness properly secured about him during takeoff and landing.
+
+(i) At each unoccupied seat, the safety belt and shoulder harness, if installed, must be secured so as not to interfere with crewmembers in the performance of their duties or with the rapid egress of occupants in an emergency.
+
+Explanation. Present Sec. 121.311(e) allows a flight crewmember to leave his shoulder harness unfastened if he cannot perform his duties with the shoulder harness fastened. Proposed Sec. 121.311(g) would continue this exception for one year until the provisions of proposed Sec. 121.311(e)(2) are effective. Proposed Sec. 121.311(e)(2) would require that each flight crewmember be able to perform his assigned duties with a combined safety belt and shoulder harness fastened. Proposed Sec. 121.311(h) would end the exception for flight crewmembers after one year. However, for flight attendants, since no shoulder harness is presently required, a new seat and combination safety belt and shoulder harness would be required on the effective date of this amendment. The exception for flight crewmembers would not be applicable to flight attendants. If the proposal for flight attendant seats is adopted, Sec. 121.391 would be amended to avoid any conflict.
+
+Proposed new Sec. 121.311(i) would improve safety by requiring that the restraint system when not in use must be secured so as not to interfere with the duties or with the rapid egress of occupants in an emergency.
+
+Ref. Proposal Nos. 1092, 513, 529; Sec. 121.321, FAR 121; Committee III Part 1 - Agenda Items K-55, K-52, K-54.
+
+8-118. By amending Sec. 121.312 as follows:
+
+1. By deleting the first word "Upon" and inserting in place thereof "Until paragraph (b) and (c) of this section are complied with, upon".
+
+2. By redesignating the lead in as Sec. 121.312(a).
+
+3. By redesignating Secs 121.312(a) and (b) as Secs. 121.312(a)(1) and 121.312(a)(2), respectively.
+
+4. By adding new Sec. Secs. 121.312(b) and (c) to read as follows:
+
+Sec. 121.312 Materials for compartment interiors.
+
+* * * * *
+
+(b) Except as provided in paragraph (c) of this section, after (a date three years after the effective date of this amendment), all materials, finishes, and decorative surfaces used in each compartment occupied by the crew or passengers, must conform to the applicable fire protection requirements of Sec. 25.853 of this chapter in effect on May 1, 1972 unless compliance with later standards are required under the airplane type certificate.
+
+(c) After (a date one year after the effective date of this amendment), each towel, paper, or waster receptacle must conform to the requirements of Sec. 25.853(d) of this chapter in effect on (the effective date of this amendment).
+
+Explanation. The proposal for Sec. 121.312(b) would establish a date for compliance with the applicable requirements specified in current Sec. 25.853 relating to the self-extinguishing characteristics of replacement airplane interior materials. Proposed Sec. 121.312(a) would apply in the interim.
+
+The proposal for a new Sec. 121.312(c) would establish a date for compliance with the fireproof material requirements of proposed Sec. 25.853(d). See the explanation for Sec. 25.853(d).
+
+Ref. Proposal Nos. 522, 1091; Sec. 121.215, Sec. 121.312; Committee III Part 1 - Agenda Item N-76.
+
+Sec. 121.321 [Deleted]
+
+8-119. By deleting Sec. 121.321 and marking it "[Reserved]".
+
+Explanation. The shoulder harness required in present Sec. 121.321 is being moved to Sec. 121.311(e)(1). See proposal for Sec. 121.311.
+
+8-120. By revising the heading of Sec. 121.337 and adding a new Sec. 121.337(d) to read as follows:
+
+Sec. 121.337 Protective breathing equipment for the crew.
+
+* * * * * 
+
+(d) All Airplanes. After (a date one year after the effective date of this amendment), portable protective breathing equipment that meets the requirements of Sec. 25.1439 of this chapter must be installed - 
+
+(1) At each flight attendant seat in the passenger compartment;
+
+(2) At each flight deck station; and
+
+(3) In each isolated separate compartment in the airplane, including upper and lower lobe galleys, in which crewmember occupancy is permitted during flight for the maximum number of crewmembers permitted to be in that area.
+
+* * * * *
+
+Explanation. The proposal would require all airplanes operated under Part 121 to meet new standards proposed for Sec. 25.1439.
+
+See the explanation for proposed Sec. 25.1439.
+
+Ref. Proposal No. 512; FAR 121; Committee III Part I - Agenda Item N-77.
+
+APPENDIX I - MISCELLANEOUS PROPOSALS DEFERRED.
+
+Group 1. Based upon the discussions at the Airworthiness Review Conference, the FAA has determined that the proposals listed below appear to have sufficient merit to warrant further consideration but for various reasons should be deferred for consideration at the next Airworthiness Review or Operations Review as appropriate. Included in the reasons for deferral are the following:
+
+1. The proposal is so complex or extensive that more time is required than is available within the 1974-1975 Airworthiness Review to give it full consideration.
+
+2. More data is needed, to supplement or support the proposal, before a decision can be reached.
+
+3. The proposal would be more appropriately considered during an operations review.
+
+The deferral of these proposals does not foreclose the FAA form taking earlier separate rulemaking action on the deferred proposals if a need for such action should arise.
+
+14 CFR (FAR Sec.) Proposal No.
+
+ Agenda Item
+
+ Proponent
+
+ 
+
+Part 21 16
+
+ L-22(Committe I).
+
+ Execuair Service Corporation. 
+
+21.188 34
+
+ J-19(Committe I).
+
+ French Civil Aviation. 
+
+21.329 46
+
+ D-6(Committe I).
+
+ Aerospace Industries Association. 
+
+21.329 48
+
+ do
+
+ Air Transport Association. 
+
+21.329 49
+
+ do
+
+ Pacific Southwest Airlines. 
+
+21.331 51
+
+ do
+
+ Air Transport Association. 
+
+21.331 52
+
+ do
+
+ Pacific Southwest Airlines. 
+
+21.500 54
+
+ J-19(Committe I).
+
+ French Civil Aviation. 
+
+21.502 55
+
+ do
+
+ Do. 
+
+23.347 81
+
+ C-15(Committe III pt2).
+
+ General Aviation Manufacturers Association. 
+
+23.621 84
+
+ D-20(Committe III pt2).
+
+ Do. 
+
+23.677 88
+
+ E-22(Committe III pt2).
+
+ Do. 
+
+23.773 92
+
+ G-27(Committe III pt2).
+
+ Do. 
+
+25.341 192
+
+ A-2(Committe III pt1).
+
+ Joint Airworthiness Requirements Committee. 
+
+25.427 199
+
+ D-13(Committe III pt1).
+
+ Do. 
+
+25.473 201
+
+ E-15(Committe III pt1).
+
+ Do. 
+
+25.631 218
+
+ H-33(Committe III pt1).
+
+ General Aviation Manufacturers Association. 
+
+25.631 219
+
+ do
+
+ Joint Airworthiness Requirements Committee. 
+
+25.671 559
+
+ I-35(Committe III pt1).
+
+ Do. 
+
+25.729 229
+
+ J-44(Committe III pt1).
+
+ Do. 
+
+25.787 239
+
+ K-58(Committe III pt1).
+
+ Do. 
+
+25.791 241
+
+ K-58(Committe III pt1).
+
+ Do. 
+
+25.799 242
+
+ K-59(Committe III pt1).
+
+ Do. 
+
+25.831 250
+
+ G-42(Committe V).
+
+ Do. 
+
+25.841 253
+
+ G-44(Committe V).
+
+ Aerospace Industries Association. 
+
+25.855 260
+
+ N-78(Committe III pt1).
+
+ Air Line Pilots Association, Stewards and Stewardesses. 
+
+25.857 261
+
+ N-79(Committe III pt1).
+
+ Joint Airworthiness Requirements Committee. 
+
+27.621 358
+
+ B-5(Committe III pt2).
+
+ Aerospace Industries Association. 
+
+29.351 387
+
+ Not in agenda.
+
+ Do. 
+
+29.621 392
+
+ B-5(Committe III pt2).
+
+ Do. 
+
+31.47 414
+
+ M-38(Committe I).
+
+ Raven Industries, Inc. 
+
+91.39 493
+
+ K-20(Committe I).
+
+ Aerial Crane Operators Committee. 
+
+133.19 540
+
+ K-20(Committe I).
+
+ Do. 
+
+Group 2. The following proposals are being deferred to be dealt within a later notice as a part of this Airworthiness Review Program:
+
+14 CFR (FAR Sec.) Proposal No. Agenda Item
+
+ Proponent
+
+ 
+
+21.17 21
+
+ E-7(Committe I).
+
+ General Aviation Manufacturers Association. 
+
+21.19 562
+
+ F-10(Committe I).
+
+ Federal Aviation Administration. 
+
+21.45 567
+
+ F-8(Committe I).
+
+ Do. 
+
+21.51 25
+
+ F-9(Committe I).
+
+ Department of Transport (Australia). 
+
+21.51 569
+
+ F-8(Committe I).
+
+ Federal Aviation Administration. 
+
+21.101 571
+
+ do
+
+ Do. 
+
+21.119 28
+
+ F-9(Committe I).
+
+ Department of Transport (Australia). 
+
+21.119 573
+
+ F-8(Committe I).
+
+ Federal Aviation Administration. 
+
+21.159 30
+
+ F-9(Committe I).
+
+ Department of Transport (Australia). 
+
+21.163 31
+
+ do
+
+ Do. 
+
+21.183 33
+
+ do
+
+ Do. 
+
+21.273 37
+
+ do
+
+ Do. 
+
+37.21 1001
+
+ F-8(Committe I).
+
+ Federal Aviation Administration. 
+
+APPENDIX II MISCELLANEOUS PROPOSALS WITHDRAWN BY PROPONENT
+
+The proposals listed below were withdrawn by their proponents. The proponents or other interested persons may submit similar proposals in the future. The withdrawal of FAA proposals does not commit the FAA to any future course of action.
+
+14 CFR (FAR Sec.) Proposal No.
+
+ Agenda Item
+
+ Proponent
+
+ 
+
+21.17 20
+
+ D-7(Committe I).
+
+ Aerospace Industries Association. 
+
+21.143 578
+
+ I-17(Committe I).
+
+ Federal Aviation Administration. 
+
+21.143 579
+
+ do
+
+ Do. 
+
+21.143 581
+
+ do
+
+ Do. 
+
+21.329 47
+
+ D-6(Committe I).
+
+ Pacific Southwest Airlines. 
+
+23.621 622
+
+ D-20(Committee III pt.2).
+
+ Federal Aviation Administration 
+
+23.679 626
+
+ E-23(Committee III pt.2).
+
+ Do. 
+
+23.735 629
+
+ F-25(Committee III pt.2).
+
+ Do. 
+
+23.735 630
+
+ do
+
+ Do. 
+
+23.773 632
+
+ G-27(Committee III pt.2).
+
+ Do. 
+
+23.783 633
+
+ G-29(Committee III pt.2).
+
+ Do. 
+
+23.841 636
+
+ H-31(Committee III pt.2).
+
+ Do. 
+
+25.492 1055
+
+ E-19(Committee III pt.1).
+
+ Do. 
+
+25.479 1053
+
+ E-16(Committee III pt.1).
+
+ Do. 
+
+25.571 1058
+
+ G-24(Committee III pt.1).
+
+ Do. 
+
+25.621 1062
+
+ H-31(Committee III pt.1).
+
+ Do. 
+
+25.857 733
+
+ N-79(Committee III pt.1).
+
+ Do. 
+
+25.1421 807
+
+ N-81(Committee III pt.1).
+
+ Do. 
+
+27.621 845
+
+ B-5(Committee III pt.2).
+
+ Do. 
+
+29.621 901
+
+ do
+
+ Do. 
+
+29.1529 966
+
+ G-12(Committe I).
+
+ Do. 
+
+31.45 984
+
+ M-37(Committe I).
+
+ Do. 
+
+37.5 1000-1
+
+ G-11(Committe I).
+
+ Do. 
+
+37.175 1002
+
+ O-85(Committee III pt.1).
+
+ Do. 
+
+121.158 1086
+
+ L-30(Committe I).
+
+ Do. 
+
+121.173 1087
+
+ G-13(Committe I).
+
+ Do. 
+
+137.29 1085
+
+ do
+
+ Do. 
+
+APPENDIX III - MISCELLANEOUS PROPOSALS REMOVED FROM CONSIDERATION FROM THE FIRST BIENNIAL AIRWORTHINESS REVIEW
+
+Based on the FAA's review of the discussions at the Airworthiness Review Conference and of the information submitted by interested persons, the following proposals considered at the Airworthiness Review Conference are removed from consideration during the First Biennial Airworthiness Review for the reasons listed below:
+
+14 CFR (FAR Sec.) Proposal No.
+
+ Agenda Item
+
+ Proponent
+
+ 
+
+Pt. 21 18
+
+ L-21(Committee I).
+
+ General Aviation Manufacturers Association. 
+
+21.113 27
+
+ L-27(Committee I).
+
+ Do. 
+
+21.143 29
+
+ I-17(Committee I).
+
+ Do. 
+
+21.182 32
+
+ C-5(Committee I).
+
+ Sun Chemical Corp. 
+
+21.308 40
+
+ C-4(Committee I).
+
+ MPB Corp. 
+
+21.303 41
+
+ do
+
+ Air Transport Association. 
+
+21.303 42
+
+ do
+
+ Do. 
+
+21.303 43
+
+ C-5(Committee I).
+
+ Sun Chemical Corp. 
+
+21.303 44
+
+ C-4(Committee I).
+
+ Bendix. 
+
+21.303 45
+
+ do
+
+ General Dynamics. 
+
+23.625 85
+
+ D-18(Committee III pt2).
+
+ Department of Transportation - Australia. 
+
+23.629 87
+
+ D-21(Committee III pt2).
+
+ General Aviation Manufacturers Association. 
+
+25.305 187
+
+ A-3(Committee III pt1).
+
+ Aerospace Industries Association. 
+
+25.335 190
+
+ B-7(Committee III pt1).
+
+ Joint Airworthiness Requirements Committee. 
+
+25.365 197
+
+ C-12(Committee III pt1).
+
+ Do. 
+
+25.445 200
+
+ D-14(Committee III pt1).
+
+ Do. 
+
+25.493 206
+
+ E-20(Committee III pt1).
+
+ Do. 
+
+25.571 211
+
+ G-24(Committee III pt1).
+
+ Aerospace Industries Association. 
+
+25.619 216
+
+ H-30(Committee III pt1).
+
+ Joint Airworthiness Requirements Committee. 
+
+25.621 217
+
+ H-31(Committee III pt1).
+
+ Do. 
+
+25.672 221
+
+ I-36(Committee III pt1).
+
+ Do. 
+
+25.807 247
+
+ L-66(Committee III pt1).
+
+ Do. 
+
+25.843 255
+
+ M-75(Committee III pt1).
+
+ Do. 
+
+25.853 257
+
+ N-76(Committee III pt1).
+
+ Rijksluchtvaartdienst Netherlands. 
+
+25.863 262
+
+ N-80(Committee III pt1).
+
+ Joint Airworthiness Requirements Committee. 
+
+25.1415 315
+
+ O-86(Committee III pt1).
+
+ Air Transport Association. 
+
+27.1 345
+
+ L-29(Committee I).
+
+ Aerospace Industries Association. 
+
+27.521 355
+
+ A-3(Committee III pt2).
+
+ Do. 
+
+29.521 389
+
+ do
+
+ Do. 
+
+43.13 465
+
+ C-5(Committee I).
+
+ Sun Chemical Corp. 
+
+45.1 471
+
+ do
+
+ Do. 
+
+45.15 473
+
+ do
+
+ Do. 
+
+47.3 475
+
+ do
+
+ Do. 
+
+91.31 487
+
+ do
+
+ Do. 
+
+91.163 503
+
+ G-13(Committee I).
+
+ Air Transport Association. 
+
+91.163 504
+
+ G-13(Committee I).
+
+ General Aviation Manufacturers Association. 
+
+91.169 506
+
+ G-13(Committee I).
+
+ Santa Barbara Aviation, Inc. 
+
+91.217 509
+
+ G-13(Committee I).
+
+ Air Transport Association. 
+
+121.198 520
+
+ O-91(Committee III pt1).
+
+ Consulting Aerospace Engineers, Inc. 
+
+121.339 533
+
+ O-86(Committee III pt1).
+
+ Air Transport Association. 
+
+Proposal No. 18 - The proponent suggested that an environmental impact statement be required as a prerequisite to the issuance of a type certificate. It is the FAA's responsibility to assess the environmental impact of the issuance of a type certificate and to prepare a negative environmental declaration or an impact statement, as appropriate. That responsibility cannot be delegated to the applicant for a type certificate. To the contrary, the applicants for type certificates have, in the past, assisted the FAA in obtaining the data needed by the FAA in making its own independent environmental assessments, and if found necessary in the future, the FAA will issue regulations to require that this assistance be provided.
+
+Proposal No. 27 - The proposal to add provisions relating to internal FAA administrative procedures is inappropriate for rulemaking action.
+
+Proposal No. 29 - This proposal has been removed for consideration in the study announced in the preamble of Amendment 21-41 (39 FR 41964; December 4, 1974).
+
+Proposal No. 32 - See Proposal No. 29.
+
+Proposal No. 40 - See Proposal No. 29.
+
+Proposal No. 41 - See Proposal No. 29.
+
+Proposal No. 42 - See Proposal No. 29.
+
+Proposal No. 43 - See Proposal No. 29.
+
+Proposal No. 44 - See Proposal No. 29.
+
+Proposal No. 45 - See Proposal No. 29.
+
+Proposal No. 85 - The proposal to revise the fitting factors specified in Sec. 23.625(d) from 1.33 to 2.0 is inappropriate for rulemaking action. the FAA is currently studying the need to increase the inertia forces required under Sec. 23.561 to be considered during design. An increase in those inertia forces, if found necessary, would provide for a more comprehensive approach than would increasing the Sec. 23.625(d) fitting factors.
+
+Proposal No. 87 - The FAA has insufficient data to justify deleting the propeller whirl mode requirement of Sec. 28.629(e)(1) as requested. However, it should be noted that based somewhat on Proposal No. 87 proposed Sec. 23.629(e)(1) in Notice No. 7 (Notice 75-26) is limited to multiengine turbopropeller power airplanes in its application, instead of also applying to single engine installations as proposed originally in Proposal No. 623.
+
+Proposed No. 187 - The proponent suggested a revision to Sec. 25.305(b) that would require the structure to withstand limit loads, instead of the presently required ultimate loads, for three seconds, and would provide for limiting deflections to those values existing at limit load if design ultimate internal loading are developed at critical points. In addition, the proposal would revise the methods and assumptions specified for analytical substantiation in Secs. 25.305(b)(1), 2), and (3) to cover the effects of limit load deformation only. The FAA does not have sufficient data to justify, the propose rule changes. However, it should be noted that the justification presented by the proponent relates in large measure to its proposal for Sec. 25.303 (Proposal No. 185). That proposal was deferred for consideration in the next Airworthiness Review program (See Appendix I, Part 1 to Notice No. 7). That deferral was based in part on the justification presented for Proposal No. 187.
+
+Proposal No. 190 - The proponent suggested a nomenclature change to Sec. 25.335(a)(2) and the addition of a reference to Sec. 25.335(d) for clarity. Based on the comments received and the discussions at the conference, the FAA does not believe the proposed changes would clarify the rules.
+
+With respect to the addition of new Sec. 25.335(g) which was also suggested, see Proposal Number 7-20 in Airworthiness Review Notice Number 7.
+
+Proposal No. 197 - The proponent suggested that the maximum nominal operational differential pressure value be used for the structural substantiation required by Secs. 25.365(a) and (d) in place of the maximum relief valve setting value currently specified. The FAA does not have sufficient data to justify the suggested reduction in pressure values to be considered.
+
+Proposal No. 200 - The proponent suggested a revision to Sec. 25.445(a) that would require consideration of endplate loads that are the sum of the side loads induced by the vertical load in combination with side loads produced by yawing maneuvers and lateral gusts. The FAA does not have sufficient information to indicate that there is a need to require consideration of combinations of loads induced by the vertical load on the tail plane together with other vertical surface loads.
+
+Proposal No. 206 - The proponent suggested a revision to Sec. 25.493(c) that would make the provision more restrictive with respect to defining the circumstances in which a drag reaction may be used that is lower than that specified in Secs. 25.493(a) and (b). The FAA does not agree. The current provision is adequate, and the proposed revision would add an unnecessary restriction.
+
+Proposal No. 211 - The proponent suggested that Sec. 25.571(e)(2) be deleted. This paragraph requires that the normal operating pressures combined with the external aerodynamic pressures be multiplied by a factor of 1.33 as an ultimate loading condition for pressurized cabins. The proponent stated that the need for this provision has not been demonstrated. The FAA believes that a factor of 1.33 is necessary to account for variations in cabin pressure and strength and to provide a margin over the normal operating loads in the partially failed condition specified in Sec. 25.571(c).
+
+Proposal No. 216 - The proponent suggested a revision to Sec. 25.619 intended to give the Administrator greater latitude in using methods other than the special factors approach if found necessary to ensure material integrity. However, Secs. 21.16 and 21.21 offer adequate flexibility to the Administrator in this regard.
+
+Proposal No. 217 - The proponent suggested that national standards of other nations be accepted as an authorized alternative to the casting factor provisions of Sec. 25.621. The FAA does not have sufficient information to justify the rule change, but the present regulations do provide for the use of equivalent standards if equivalency is demonstrated.
+
+Proposal No. 221 - The proponent suggested Sec. 25.672(c)(1) be revised to relate the severity of the flight quality requirements specified therein to the probability of any particular failure or malfunction occurring. The FAA does not agree since the requirement is not subject to a varying qualitative approach.
+
+Proposal No. 247 - The proponent suggested that Sec. 25.807(c) be revised to specify additional factors to be considered in locating emergency exits. The FAA does not agree. The current regulations are adequate with respect to the location of emergency exits, and specific mandatory consideration of the factors suggested is not needed.
+
+Proposal No. 255 - The proponent suggested that a revision be made to Sec. 25.843(a) that would require the pressurization test to be repeated on each production airplane. The FAA does not believe that service experience indicates a need to repeat the test required during type certification for all airplanes produced.
+
+Proposal No. 257 - The proponent suggested that the cabin material fire resistance test requirements provided for in Sec. 25.853 be revised to permit testing with the material positioned in the manner it would be positioned in the cabin. The FAA has insufficient data to justify the proposed change. In addition, approval of replacement material would be made more burdensome since the approval would necessarily cover the positioning of the material in the cabin.
+
+Proposal No. 262 - The proponent suggested a revision to Sec. 25.863 that would specify certain areas that need ventilation to prevent the ignition of flammable fluids or vapors. However, the FAA believes that the means used for protection should not be limited to ventilation and that consideration should be given to any area where flammable fluids or vapors might be liberated. The current rule is adequate in this regard.
+
+Proposal No. 315 - The proponent suggested that the consideration of slide/raft combinations be added to Secs. 25.1415 and 121.339. The proposed change is not necessary since the terms "raft" and "liferaft" as used in those sections cover slide/raft combinations. However, the approval of a slide/raft combination as a "liferaft" does not act as an approval of the device as a slide.
+
+Proposal No. 345 - The proponent suggested that the Part 27 maximum weight limit in Sec. 27.1 be changed from 6,000 pounds to 12,500 pounds. The FAA does not have sufficient information that would justify a change.
+
+Proposal No. 355 - The proponent suggested that Sec. 27.521(b) be amended for the clarification of the side-load condition specified therein. The proposal also would reduce, by 50%, the sideload structural requirements for rotorcraft with floats. The FAA does not have sufficient justification for the proposed reduction, and based on conference discussions the FAA believes that the present regulation is sufficiently clear.
+
+Proposal No. 389 - See Proposal No. 355.
+
+Proposal No. 465 - See Proposal No. 29.
+
+Proposal No. 471 - See Proposal No. 29.
+
+Proposal No. 473 - See Proposal No. 29.
+
+Proposal No. 475 - See Proposal No. 29.
+
+Proposal No. 487 - See Proposal No. 29.
+
+Proposal No. 503 - This proposal to revise Sec. 91.163 to permit a Part 121 operator to perform and sign for the required maintenance and inspections on an aircraft that they do not own or operate is being removed from consideration in the Airworthiness Review Program. However, the proposal will be considered as a comment on FAA Proposal No. 485 (Sec. 121.379) of the Operations Review Program which deals with this issue.
+
+Proposal No. 504 - The proponent suggested a revision to Sec. 91.163 that it claimed would make it clear that the responsibility for maintaining the aircraft in an airworthy condition includes the responsibility of maintaining all the aircraft's essential components in such a condition. The FAA, based on conference discussions, believes that the current rule clearly applies to all parts of the aircraft.
+
+Proposal No. 506 - This proposal to revise the 100-hour inspection requirements of Sec. 91.1699) is being removed from consideration in the Airworthiness Review Program. However, the proposal will be considered as a comment on FAA Proposal No. 280 (Sec. 91.169(b)) of the Operations Review Program which deals with similar issues.
+
+Proposal No. 509 - See Proposal No. 503.
+
+Proposal No. 520 - Present Sec. 121.198(a) allows the operation (for cargo service only) of certain specifically identified transport category airplanes (each certificated under Part 4b of the Civil Air Regulations) as increased zero fuel and landing weights. The proposal would extend this provision to all transport category airplanes certificated under either Parts 4a or 4b of the Civil Air Regulations. The FAA believes that, in the interests of safety, each airplane type allowed to operate under this section must be individually assessed with respect to strength, fatigue, flutter, deformation, vibration, and other characteristics, before operation of the type is allowed at the increased fuel and landing weights specified in Sec. 121.198. The proposed blanket extension of the rule would therefore not be in the public interest. Furthermore, the proponent suggested that the modifier or manufacturer be authorized to establish special inspection procedures as required under Sec. 121.198(d). The present rule authorizes only the manufacturer of the airplane type to establish those procedures. The FAA does not agree with the suggestion since only the manufacturer who has access to the complete type certification data file could adequately provide the special inspection procedures required.
+
+Proposal No. 533 - See comments for Proposal No. 315.
+
+APPENDIX IV COMMITTEE I PROPOSALS DEALT WITH IN EARLIER NOTICES
+
+14 CFR (FAR Sec.) Proposal No.
+
+ Agenda Item
+
+ Previous notice 
+
+23.1583 713
+
+ H-14
+
+ 4 - Equipment deviation list. 
+
+25.901 737
+
+ A-1
+
+ 3 - Powerplant proposals. 
+
+25.1091 757
+
+ A-1
+
+ Do. 
+
+25.1121 761
+
+ A-1
+
+ Do. 
+
+25.1123 764
+
+ A-1
+
+ Do. 
+
+25.1549 825
+
+ A-1
+
+ Do. 
+
+25.1583 831
+
+ H-14
+
+ 4 - Equipment deviation list. 
+
+27.1583 884
+
+ H-14
+
+ Do. 
+
+29.1307 949
+
+ B-11(Committee III pt2).
+
+ 2 - Miscellaneous proposals. 
+
+29.1583 971
+
+ H-14
+
+ 4 - Equipment deviation list. 
+
+43.13 1004
+
+ H-14
+
+ Do. 
+
+Pt. 91 477
+
+ H-15
+
+ Do. 
+
+91.29 1009
+
+ H-14
+
+ Do. 
+
+91.31 1010
+
+ H-14
+
+ Do. 
+
+91.33 490
+
+ H-15
+
+ Do. 
+
+91.33 1011
+
+ H-14
+
+ Do. 
+
+91.33 489
+
+ H-15
+
+ Do. 
+
+91.165 1016
+
+ H-14
+
+ Do. 
+
+135.143 550
+
+ H-15
+
+ Do. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on June 30, 1975.
+
+R. P. Skully,
+
+Director, Flight Standards Service.
+
+[FR Doc. 75-18028 Filed 7-10-75; 8:45 am]
+
+
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of Invitation to Submit Proposals; Notice No. 74-5; Issued on 2/14/74.
+
+Notice of Compilation of Proposals; Notice No. 74-5A; Issued on 5/22/74.
+
+Notice of Availability of Agenda; Notice No. 74-5B; Issued on 10/3/74.
+
+Notice of Clarifying Revisions; Notice No. 74-33; Issued on 10/3/74. 
+
+Notice of Conference; Notice No. 74-5C; Issued on 11/25/74.
+
+Notice of Availability of Conference Summary; Notice No. 74-5D; Issued on 2/4/75.
+
+Notice of Airworthiness Review Program No. 2; Notice No. 75-10; Issued on 2/27/75.
+
+Notice of Airworthiness Review Program No. 3; Notice No. 75-19; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 4; Notice No. 75-20; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 5; Notice No. 75-23; Issued on 5/19/75.
+
+Notice of Airworthiness Review Program No. 6; Notice No. 75-25; Issued on 5/29/75.
+
+Notice of Airworthiness Review Program No. 7; Notice No. 75-26; Issued on 6/9/75.

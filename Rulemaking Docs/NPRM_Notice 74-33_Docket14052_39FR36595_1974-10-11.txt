@@ -1,0 +1,148 @@
+CFR NPRM: Part 21|Part 23|Part 25
+
+ 
+ 
+        
+CITATION: [Federal Register: October 11, 1974 (Volume 39, Number 199)]
+
+ 
+        
+PAGE NUMBER: [Page 36595]
+
+ 
+        
+DOCKET NUMBER: 14052
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 25
+
+ 
+        
+SUBJECT: Form Number and Other Clarifying Revisions; Proposed Rulemaking
+
+ 
+        
+ACTION: Notice of Proposed Rulemaking
+
+ 
+        
+SUMMARY: The Federal Aviation Administration is consideration amending Parts 21, 23, and 25 of the Federal Aviation Regulations to incorporate several form number and other clarifying revisions.
+
+ 
+        
+DATES: Comments on this notice must be received on or before December 10, 1974.
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: Interested persons are invited to participate in this proposed rulemaking by submitting such written data, views, or arguments as they may desire. Communications should identify the regulatory docket or notice number and be submitted in duplicate to: Federal Aviation Administration, Office of the Chief Counsel, Attention: Rules Docket, AGC-24, 800 Independence Avenue, SW, Washington, D.C. 20591. All communications received on or before December 10, 1974, will be considered by the Administrator before taking action on the proposed rule. The proposals contained in this notice may be changed in the light of comments received. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons.
+
+ On February 15, 1974, the Federal Aviation Administration, by Notice 74-5 (39 FR 5785), invited all interested persons to submit proposals for consideration during the 1974-75 Airworthiness Review. In that notice, the FAA announced that it would make available a compilation of those proposals which are to be given further consideration as possible agenda items for the Airworthiness Review Conference (December 2-11, 1974), for comment by all interested persons.
+
+ On May 29, 1974, the FAA, by Notice 74-5A (39 FR 18662) announced the availability of a Compilation of Proposals described in Notice 74-5. As stated in Notice 74-5, not all proposals contained in the compilation will necessarily be included in the Final Agenda. The disposition of proposals in this regard will depend, in large measure, on the comments received. In this connection it should be noted that there are over 1000 proposals in the compilation.
+
+ A number of proposals received, which were not included in the Compilation, pertain solely to form number and other minor clarifying revisions. Those proposals are contained in this Notice.
+
+ Part 21 currently contains references to a number of FAA Forms. Several of the referenced forms are now obsolete. The FAA proposes to replace obsolete form references with the current and correct form references.
+
+ On August 13, 1969, Amendment 23-7, Small Airplane Type Certification Requirements, was published in the FEDERAL REGISTER (34 FR 13078). Amendment 23-7, as adopted, changed all references to "miles" and "miles per hour" to "nautical miles" and "knots", respectively wherever used in Part 23. The amendments herein proposed to Sec. 23.335 and Appendix A to Part 23 would incorporate clarifying revisions that were inadvertently omitted when Amendment 23-7 was adopted.
+
+ In Part 25, Sec. 25.1459(a)(1) references Sec. 25.1327, which pertains to directional data, but there is no reference to "directional data" in Sec. 25.1459(a)(1). The amendment to Sec. 25.1459(a0(1) herein proposed would incorporate that reference to "directional data" for consistency and clarity.
+
+ 
+        
+REGULATORY TEXT: This amendment is proposed under the authority of sections 313(a), 601, 603, and 608 of the Federal Aviation Act of 1958 (49 U.S.C 1354(a), 1421, 1423, and 1429), and of section 6(c) of the Department of Transportation Act (49 U.S.C. 1655 (c)).
+
+ In consideration of the foregoing, it is proposed to amend Parts 21, 23, and 25 of the Federal Aviation Regulations as follows:
+
+Part 21 - Certification Procedures for Products and Parts
+
+Sec. 21.251 [Amended]
+
+ 1. By amending Sec. 21.251(b)(4)(iii) and (iv) by striking the parenthetical expression "(FAA Form 186)" and inserting the expression "(FAA Form 8130-3)" in its place in both subdivisions.
+
+Sec. 21.271 [Amended]
+
+ 2. By amending Sec. 21.271(a) by striking the parenthetical expression "(FAA Form 186)" and inserting the expression "(FAA Form 8130-3)" in its place.
+
+Sec. 21.325 [Amended]
+
+ 3. By amending Sec. 21.325(a)(1) by striking the phrase "FAA Form 8130-4" in its place, and by amending Sec. 21.325(a)(2) by striking the phrase "FAA Form 186" and inserting the phrase "FAA Form 8130-3" in its place.
+
+Sec. 21.339 [Amended]
+
+ 4. By amending Sec. 21.339(a) by striking the parenthetical expression "(FAA Form 1362)" and inserting the expression "(FAA Form 8100-2)" in its place, and by amending Sec. 21.339(b) by striking the parenthetical expression "(FAA Form 306)" and inserting the expression "(FAA Form 8130-1)" in its place.
+
+-----
+
+Part 23 - Airworthiness Standards: Normal, Utility, and Acrobatic Category Airplanes
+
+Sec. 23.335 [Amended]
+
+ 5. By amending Sec. 23.335(c)(1) by striking the parenthetical expression "(in miles per hour)".
+
+Appendix A [Amended]
+
+ 6. By amending Part 23, Appendix A, A23.3, by adding, after each of the four speed equations, the abbreviation: "kts."
+
+ 7. By amending Part 23, Appendix A Figure A-3 by inserting, under the title, the sentence: "Speeds are in knots."
+
+-----
+
+Part 25 - Airworthiness Standards: Transport Category Airplanes
+
+ 8. By amending Sec. 25.1459(a)(1) to read as follows:
+
+Sec. 25.1459 Flight recorders.
+
+(a) * * *
+
+(1) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of Secs. 25.1323, 25.1325, and 25.1327, as appropriate;
+
+* * * * *
+
+ 
+        
+FOOTER: Issued in Washington, DC, on October 3, 1974.
+
+R. P. Skully,
+
+Acting Director, Flight Standards Service.
+
+[FR Doc. 74-23746 Filed 10-10-74; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of Invitation to Submit Proposals; Notice No. 74-5; Issued on 2/14/74.
+
+Notice of Compilation of Proposals; Notice No. 74-5A; Issued on 5/22/74.
+
+Notice of Availability of Agenda; Notice No. 74-5B; Issued on 10/3/74.
+
+Notice of Conference; Notice No. 74-5C; Issued on 11/25/74.
+
+Notice of Availability of Conference Summary; Notice No. 74-5D; Issued on 2/4/75.
+
+Notice of Airworthiness Review Program No. 2; Notice No. 75-10; Issued on 2/27/75.
+
+Notice of Airworthiness Review Program No. 3; Notice No. 75-19; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 4; Notice No. 75-20; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 5; Notice No. 75-23; Issued on 5/19/75.
+
+Notice of Airworthiness Review Program No. 6; Notice No. 75-25; Issued on 5/29/75.
+
+Notice of Airworthiness Review Program No. 7; Notice No. 75-26; Issued on 6/9/75.
+
+Notice of Airworthiness Review Program No. 8; Notice No. 75-31; Issued on 6/30/75.

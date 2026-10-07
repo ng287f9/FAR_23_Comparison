@@ -1,0 +1,154 @@
+CFR NPRM: Part 23
+
+ 
+ 
+        
+CITATION: [Federal Register: September 22, 1986 (Volume 51, Number 183)]
+
+ 
+        
+PAGE NUMBER: [Page 33700]
+
+ 
+        
+DOCKET NUMBER: 25086
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT: Airworthiness Standards; Small Airplane Fatigue Requirements
+
+ 
+        
+ACTION: Notice of Proposed Rulemaking
+
+ 
+        
+SUMMARY: This notice proposes to amend Part 23 of the Federal Aviation Regulations (FAR) to include empennage, canard, and tandem wing configuration fatigue requirements for small airplanes. Service history has shown that such requirements need to be considered in small airplane designs and that fatigue characteristics should be evaluated during type certification. Fatigue requirements for airplane designs incorporating canard-type configurations are also included. The amended rule is intended to prevent catastrophic or near catastrophic accidents due to fatigue failure of critical elements of such structures .
+
+ 
+        
+DATES: Comments must be received on or before January 21, 1987.
+
+ 
+        
+ADDRESSES: 
+
+ Comments on this notice may be mailed in duplicate to: Federal Aviation Administration, Office of the Chief Counsel, Attention: Rules Docket (AGC-204), Docket No. 25086, 800 Independence Avenue, SW., Washington, DC 20591. Comments delivered must be marked: Docket No. 25086. Comments may be examined in Room 915-G on weekdays between 8:30 a.m. and 5:00 p.m., except on Federal holidays.
+
+ In addition, the FAA is maintaining an information docket of comments in the Office of Regional Counsel, ACE-7, FAA Central Region, 601 East 12th Street, Kansas City, Missouri 64106, Comments in the information docket may be examined in the Office of Regional Counsel, ACE-7, weekdays, except Federal holidays, between the hours of 7:30 a.m. and 4:00 p.m.
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Mr. David Warner, Aerospace Engineer, Regulations and Policy Office (ACE-110), Aircraft Certification Division, Central Region, Federal Aviation Administration, 601 East 12th Street, Kansas city, Missouri 64106. Commercial telephone (816) 374-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+ Interested persons are invited to participate in the proposed rulemaking by submitting such written data, views, or arguments as they may desire. Comments relating to the environmental, energy, or economic impact that might result from adopting the proposals contained in this notice are also invited. Substantive comments should be accompanied by cost estimates. Commenters should identify the regulatory docket or notice number and submit comments, in duplicate, to the Rules Docket address above. All comments received on or before the closing date for comments will be considered by the Administrator before taking action on this proposed rulemaking. The proposals contained in this notice may be changed in light of comments received. All comments received will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report summarizing each substantive public contact with FAA personnel concerned with this rulemaking action will be filed in the docket. Commenters wishing the FAA to acknowledge receipt of comments submitted in response to this notice must include a pre-addressed stamped postcard on which the following statement is made: "Comments to Docket No. 25086." The postcard will be date stamped and returned to the commenter.
+
+Availability of NPRM
+
+ Any person may obtain a copy of this NPRM by submitting a request to the Federal Aviation Administration, Office of Public Affairs, Attn: Public Information Office (APA-430), 800 Independence Avenue, SW., Washington, DC 20591, or by calling (202) 426-8058. Communications must identify the notice number of this NPRM. Persons interested in being placed on the mailing list for future NPRMs should also request a copy of Advisory Circular No. 11-2A, Notice of Proposed Rulemaking Distribution System, which describes the procedures.
+
+Background
+
+ Service history, airworthiness directives, and documented field reports (e.g., malfunction or defect reports and maintenance difficulty records) related to unsafe or potentially unsafe fatigue/vibration conditions of empennage components on small airplanes have shown the need for empennage fatigue type certification requirements. Small airplanes typically operate in relatively severe fatigue environments; i.e., short time/distance flights, low altitude flights, and during recent years, at increasingly higher utilization (e.g., commuter and air taxi operations).
+
+ Although wing fatigue regulations for small airplanes have been in effect since Amendment 23-7 (34 FR 13078) published on August 13, 1969, similar regulations for critical empennage structure of small airplanes do not exist in Part 23 of the Federal Aviation Regulations-Airworthiness Standards; Normal, Utility, and Acrobatic Category Airplanes.
+
+ Empennage fatigue requirements have been in effect since 1979 for those propeller-driven, multiengine small airplanes that have been type certificated in accordance with Special Federal Aviation Regulations (SFAR) 41. This NPRM proposes similar requirements for all small airplanes.
+
+Discussion
+
+ The scope of this NPRM is limited to proposals that affect the fatigue characteristics of empennage, canard, and tandem wing structures of small airplanes.
+
+ During recent years, the size, weight, power, and airspeed ranges of small airplanes have increased significantly. Each of these factors generally has a negative effect on the fatigue characteristics of the airplane structure. As previously mentioned, these negative effects on wing structure fatigue life were accounted for by the amended type certification standards contained in Amendment 23-7 (34 FR 13078; August 13, 1969).
+
+ Failure of empennage components has caused fatal airplane accidents, near-fatal accidents, severe operational problems for pilots and disturbing experience for passengers. Similar failure of canard and forward wing structures would likely occur if such structures were not properly evaluated.
+
+ As a result of in-service empennage fatigue/vibration structural failures which have occurred in the past few years, over three dozen airworthiness directives have been issued. Additionally, several hundred service reports from field personnel (pilots, mechanics, inspectors) have been received which relate to empennage fatigue problems.
+
+ The FAA proposes to amend Part 23-Airworthiness Standards: Normal, Utility, and Acrobatic Category Airplanes to extend the current airworthiness fatigue requirements that are applicable to the wing to the empennage, canard, and tandem wing structures
+
+ The terms "canard," "canard configuration," "tandem wing configuration," and "winglet," as used in this notice mean:
+
+ Canard-the forward wing of a canard configuration which may be a fixed or variable geometry surface, with or without control surfaces.
+
+ Canard configuration-an airplane configuration in which the span of the forward wing is substantially less than that of the aft wing.
+
+ Tandem wing configuration-an airplane configuration having two wings of similar span, mounted in tandem.
+
+ Winglet-an out-of-plane surface extending from a lifting surface. This surface may or may not have control surfaces.
+
+Economic Impact
+
+ A regulatory evaluation and regulatory flexibility determination has been conducted, and copies are available in the docket. A copy may be obtained by contacting the person identified above under "For Further Information Contact." The proposal involves benefits and costs. The benefits are not readily quantifiable, since they are increased safety, and materialize only in the form of fewer injuries and deaths. Neither are the costs readily quantifiable. The cost of compliance with the proposal would result primarily from designing and certifying new Part 23 airplane empennages, including any testing that may be required. Some manufacturing parts costs as well as operating costs may also be involved.
+
+ A probability analysis has been used to estimate the potential benefits of the proposed regulations. This approach combines informed judgments about both the nature of fatigue hazards and the expected effectiveness of the proposed counter measures with statistical techniques that systematically treat the uncertainties inherent in such judgments. The analysis generates a range of benefit values and probability distribution of achieving these benefits, which can then be compared with the estimated costs of the proposal. The benefit estimates were calculated for a hypothetical period, 1984.
+
+ Accident reports for a ten year period, 1972-82, were examined in order to determine the number of fatalities, injuries, and property damage attributable to empennage failures due to fatigue.
+
+ Fourteen empennage fatigue-related accidents resulted in 21 fatalities, 2 serious and 4 minor injuries. In addition, 10 of the airplanes involved in these accidents were completely destroyed and the remaining 4 were severely damaged.
+
+ The basic conclusion of this evaluation is that benefits expected to result from the proposed rule will exceed the estimated costs of implementing the rule. For the hypothetical 1984 fleet analysis, the annual costs are estimated to be $201,297. Expected annual benefits are estimated conservatively to be $537,000, resulting in an average benefit-to-cost ratio of 2.7.
+
+ Cost and benefits broken down by airplane types also compare favorably. For single-engined airplanes, estimated average annual benefits per airplane of $152.70 compared with estimated average annual costs per airplane ranging from $8.37 (with load specifications provided) to $9.36 (without load specifications provided) resulting in benefit-to-cost ratios of 18.2 and 16.3, respectively. For twin-engined airplanes, average annual benefits per airplane are estimated at $231.20 compared with estimated average costs per airplane ranging from $180.02 (with load specifications provided) to $182.57 (without load specifications provided) resulting in benefit-to-cost ratios of 1.3 in both cases.
+
+ The FAA invites comments on the economic impact of the proposals. Commenters are requested to address any benefits or costs that may be associated with the proposals.
+
+Conclusion
+
+ The FAA has determined that this document involves a proposed regulation that is not major under the provisions of Executive Order 12291, and is not significant under DOT Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress in order to ensure, among other things, that small entities are not disproportionately affected by government regulations. The RFA requires agencies to review rules which may have a "significant economic impact on a substantial number of small entities." The FAA defines a small aircraft manufacturer as one with less than 75 employees. It defines a substantial number as one that is not less than 11 and that is more than one-third of the small entities subject to the proposed rules. A significant economic impact is defined as $14,258 per year in added costs to each of these small manufacturers. A review of the aircraft manufacturers indicates that less than 11 "small" manufacturers would be subject to the proposed regulations. Therefore, the FAA certifies that this proposal will not have a significant economic impact on a substantial number of small entities under the criteria of the Regulatory Flexibility Act.
+
+ This proposal, if adopted, would have little or no impact on trade opportunities for both U.S. firms doing business overseas and foreign firms doing business in the U.S. All new type certificated U.S. manufactured aircraft would have to meet the standards. The cost of compliance is minimal, ranging from perhaps a maximum of four percent of the cost of a new airplane to less than one percent of the cost. This added cost also creates a discernible benefit, making the aircraft which meets the standards a more attractive product, in both U.S. and foreign markets.
+
+List of Subjects in 14 CFR Part 23
+
+ Aircraft, Aviation safety, Safety, Air transportation, Tires.
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment
+
+Part 23-(AMENDED)
+
+Accordingly, the FAA proposes to amend Part 23 of the Federal Aviation Regulations (14 CFR Part 23) as follows:
+
+1. The authority citation for Part 23 continues to read as follows:
+
+Authority: 49 U.S.C. 1344, 1354(a) , 1355, 1421, 1423, 1425, 1428, 1429, 1430; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983).
+
+2. Section 23.572 is amended by revising the title; by revising paragraph (a) introductory text; and by adding a new paragraph (b) to read as follows:
+
+Sec. 23.572 Wing, empennage, and associated structures.
+
+(a) The strength, detail design, and fabrication of those parts of the wings (including canards, tandem wings, and winglets), empennage, their carry-through, and attaching structure whose failure would be catastrophic must be evaluated under either of the following unless it is shown that the structure, operating stress level, materials, and expected use are comparable, from a fatigue standpoint, to a similar design that has had extensive satisfactory service experience.
+
+(1) * * *
+
+(2) * * * 
+
+(b) Each evaluation required by this section must include typical loading spectra (e.g., taxi, ground-air-ground cycles, maneuver, gust), effects of propeller slipstream impingement and the effects of lifting surface wakes.
+
+ 
+        
+FOOTER: Issued in Kansas City, Missouri, on September 11, 1986.
+
+Jerold M. Chavkin,
+
+Acting Director, Central Region.
+
+[FR Doc. 86-21326 Filed 9-19-86; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

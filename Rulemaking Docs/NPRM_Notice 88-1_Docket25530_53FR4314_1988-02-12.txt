@@ -1,0 +1,1542 @@
+CFR NPRM: Part 25|Part 29
+
+ 
+ 
+        
+CITATION: [Federal Register: February 12, 1988 (Volume 53, Number 29)]
+
+ 
+        
+PAGE NUMBER: [Page 4314]
+
+ 
+        
+DOCKET NUMBER: 25530
+
+ 
+        
+14 CFR PARTS: Part 25|Part 29
+
+ 
+        
+SUBJECT: Cockpit Voice Recorders (CVR) and Flight Recorders
+
+ 
+        
+ACTION: Notice of Proposed Rulemaking
+
+ 
+        
+SUMMARY: 14 CFR Parts 25, 29, 91, 121, 125, and 135
+
+ This notice proposes to require digital flight recorders, with specific parameters, and/or cockpit voice recorders (CVRs) to be installed in a broad category of airplanes and rotorcraft, operated by air carriers or commuters, as well as in selected smaller aircraft operated in general aviation. This proposal is prompted by recent legislation which mandates that the Federal Aviation Administration (FAA) amend the current requirements for installation and operation of flight recorders and CVRs aboard air carrier and commuter air carrier aircraft. Legislation also requires the FAA to consider National Transportation Safety Board recommendations on installing flight recorders and CVRs on general aviation aircraft. The FAA has determined that the investigatory information currently available from accidents involving aircraft not required to be equipped with CVRs and/or flight recorders is insufficient to determine the causes of many of those accidents. This rulemaking action would, therefore, ensure that data eventually used to prevent accidents from recurring are preserved.
+
+ 
+        
+DATES: Comments must be received on or before March 28, 1988.
+
+ 
+        
+ADDRESSES: Comments on this notice may be mailed in triplicate to: Federal Aviation Administration, Office of the Chief Counsel, Attn: Rules Docket (AGC-204), Docket No. 25530, 800 Independence Avenue SW., Washington, DC 20591. All comments must be marked Docket No. 25530. Comments may be examined in Room 915 between 8:30 a.m. and 5:00 p.m. on weekdays, except on Federal Holidays.
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Frank Rock, Technical Analysis Branch (AWS-120), Aircraft Engineering Division, Office of Airworthiness, Federal Aviation Administration, 800 Independence Avenue SW., Washington, DC 20591: Telephone (202) 267-9567.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited. Interested persons are invited to participate in the making of the proposed rule by submitting such written data, views, or arguments as they may desire. Comments relating to the environmental, energy, or economic impact that might result from adopting the proposals in this notice are also invited. Comments addressing economic issues should be accompanied by detailed supporting information that explains the derivation of estimates. Commenters should identify the regulatory docket or notice number and comments should be submitted in triplicate to the address specified above. All comments received on or before the closing date for comments specified will be considered by the Administrator before taking action on this proposed rulemaking. The proposals contained in this notice may be changed in light of comments received. All comments received will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report summarizing each substantive public contract with Federal Aviation Administration (FAA) personnel concerned with this rulemaking will be filed in the docket. Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this notice must include a preaddressed stamped postcard on which the following statement is made: "Comments to Docket No. 25530". The postcard will be date stamped and mailed to the commenter.
+
+Availability of NPRM. Any person may obtain a copy of this NPRM by submitting a request to the Federal Aviation Administration, Office of Public Affairs, Attn.: Public Inquiry Center (APA-230), 800 Independence Avenue SW., Washington, DC 20591, or by calling (202) 267-3484. Communications must identify the notice number of this NPRM. Persons interested in being placed on the mailing list for future NPRM's should request a copy of Advisory Circular No. 11-2A, NPRM. Distribution System, which described the application procedure.
+
+Background
+
+On December 22, 1987, legislation was enacted compelling the Federal Aviation Administration (FAA) to initiate rulemaking proceedings which would expand the cockpit voice recorder (CVR) and flight recorder requirements currently contained in the Federal Aviation Regulations (FAR). Congress stated: * * *[Five] per centum of each sum [for necessary expenses] provided under this head for the Immediate Office of the Secretary, and the Office of the General Counsel shall not be available for the obligation until on or after the date that [a] final rule [ ] [is] issued by the Department of Transportation that * * * expand[s] existing requirements for installation and carriage of cockpit voice recorders and flight data recorders to smaller sizes of commuter air carrier aircraft and to require cockpit voice recorder and flight data recorder retrofits on certain types of existing commuter air carrier aircraft to be determined by the Federal Aviation Administration. Continuing Resolution (referring to the department of Transportation and Related Agencies Appropriations Act, 1988), Pub. L. No. 100-202 (December 22, 1987).
+
+On December 30, 1987, President Reagan signed the Airport and Airway Safety and Capacity Expansion Act of 1987. Title III, Section 303(c) of that act states:
+
+COCKPIT VOICE RECORDERS AND FLIGHT DATA RECORDERS-Not later than 120 days after the date of the enactment of this Act, the Secretary (of Transportation) shall initiate a rulemaking proceeding to consider the use of cockpit voice recorders and flight data recorders on commuter aircraft and other aircraft, commensurate with the recommendations of the National Transportation Safety Board. Airport and Airway Safety and Capacity Expansion Act of 1987, Pub. L. 100-223, Sec. 303 (December 30, 1987).
+
+In light of the recent legislation, and in light of the National Transportation Safety Board's (NTSB) Safety Recommendation letter of June 19, 1987, the FAA reviewed the CVR and flight recorder requirements. The FAA considers the Safety Recommendation letter of June 19 an appropriate starting point.
+
+Since the NTSB issued its last flight recorder recommendations in August 1982, a number of significant events have occurred, including the March 25, 1987 (52 FR 9622), amendments to 14 CFR 91.35, 121.343, 125.202 and 135.151. Other events have necessitated that the FAA reconsider its requirements as well as the NTSB's recommendations: the technological development of solid-state flight data recorders (SFDRs), the continued growth of the commuter air carrier industry, the recent amendment of 14 CFR Part 23 to provide for the definition and certification of a commuter category airplane, and the adoption of revised CVR standards and recommendations developed by the International Civil Aviation Organization (ICAO). The NTSB also believes its views, which are based on years of experience as the primary user of flight recorder information for accident investigation purposes, satisfy the safety objectives of both government and industry.
+
+The June 19, 1987, NTSB recommendations proposed two distinct recorder groups: one for airplanes and rotorcraft used in air carrier operations, and one for commuter category and selected smaller aircraft operated under 14 CFR Parts 135 and 91, respectively. The proposed requirements pertaining to large airplanes would expand the current requirements (as detailed in Appendix B of 14 CFR Part 121) to include the NTSB's recommendation for newly manufactured airplanes and existing airplanes equipped with an Aeronautical Radio, Inc. (ARINC) 429 digital data bus or its equivalent. In addition, the recorder requirements of Appendix B would be extended to include Part 135 operations with airplanes and rotorcraft capable of carrying 20 passengers or more. Another flight recorder requirement would apply to newly manufactured, multiengine, turbine-powered aircraft capable of carrying 10 or more passengers. It would be required that airplanes be equipped with flight recorders that at least record the parameters detailed in Appendix B of Part 121. Flight recorders capable of recording the parameters detailed in Appendix C of Part 135 would be required on rotorcraft with a 10 to 19 passenger seating capacity. On all existing and newly manufactured rotorcraft with a 20 or more passenger seating capacity, flight recorders that at least record the parameters detailed in Appendix E of Part 135 would be required.
+
+Specifically, the NTSB has stated that the amendments to 14 CFR Parts 91, 121, 125, and 135, issued in the Federal Register [52 FR 9622, March 25, 1987], were a step in the right direction, but that additional requirements are needed. The NTSB considers that the following requirements are essential to assist them in establishing the probable causes of accidents and to develop recommendations that might preclude those types of accidents from recurring: 
+
+(1) Require that each large airplane (Ref. Federal Aviation Regulation (FAR) Sec. 121.343) that is equipped with a ARINC 429 digital data bus or equivalent be retrofitted with a flight recorder capable of recording the parameters listed in Appendix B of Part 121. 
+
+(2) Require that each newly manufactured large airplane (Ref. FAR Sec. 121.343) be equipped with a flight recorder capable of recording the parameters listed in Appendix B of Part 121. 
+
+(3) Require that each rotorcraft used in scheduled air carrier operations (Ref. FAR Part 135, Subpart A) and each newly manufactured rotorcraft be equipped with a flight recorder capable of recording the parameters listed in Appendix E of Part 135. 
+
+(4) Require that each newly manufactured, multiengine turbine-powered airplane or rotorcraft capable of carrying 10 to 19 passengers, brought onto the U.S. register, be equipped with a flight recorder capable of recording the parameters listed in Appendix B (airplanes) or Appendix C (rotorcraft) of Part 135. 
+
+(5) Require that each multiengine, turbine-powered airplane or rotorcraft capable of carrying 6 or more passengers and for which two pilots are required for any type of operation (14 CFR Parts 91, 121, or 135), be equipped with a CVR. 
+
+(6) Require that each airplane or rotorcraft capable of carrying 20 or more passengers (Ref. 14 CFR 135.2) be equipped with a flight recorder capable of recording the parameters listed in Appendix B of Part 121, and a CVR (Ref. FAR Sec. 135.151). 
+
+(7) Require that each multiengine, turbine-powered airplane or rotorcraft capable of carrying 10 or more passengers and operating under part 91 be equipped with a flight recorder capable of recording the parameters listed in Appendix B (airplanes) and Appendix C (rotorcraft) of Part 135. (8) Require that the design of any new aircraft (see 14 CFR Parts 23, 25, 27 and 29) be evaluated to determine if any additional parameters must be recorded on the flight recorder due to any unique features or operational characteristics. 
+
+(9) Require that each newly manufactured airplane (Parts 23 and 25) and each new CVR installation provide for uninterrupted recording from the boom or mask microphones and headphones of each flight crew position and from an area microphone and that the recordings be made on dedicated channels of the CVR. 
+
+(10) Require the use of boom microphones by all flight crewmembers operating under Parts 121 or 135 and below 18,000 ft. on aircraft equipped to record the uninterrupted audio signals. 
+
+(11) Issue a technical standard order (TSO) for solid state flight recorders specifying all required criteria not covered by TSO-C-51A.
+
+Discussion
+
+Flight Recorder Requirements, 14 CFR Part 121
+
+The NTSB considered the 14 CFR Part 121 rule changes [52 FR 9622; March 25, 1987] eliminating the foil-type flight recorders a step forward, but it is still concerned with the adequacy of the minimum standards set forth in 14 CFR Part 121, Appendix B, which were not affected by those rule changes. The accident investigation experience acquired by the NTSB during the last 17 years has permitted it to identify the usefulness of the required parameters and the potential significance of parameters that are not currently required. The NTSB has concluded that there is an urgent need to update the mandatory parameter list and to define new parameters, improved accuracies, ranges, and sampling intervals. (See June 19, 1987, safety recommendation letter).
+
+The international aviation community has also become aware of the need for improved flight recorder standards as exemplified by ICAO's adoption of new flight recorder standards that recommend a 32 parameter flight recorder system. These 32 parameters and associated accuracies and recording intervals are consistent with those recommended by the NTSB. In addition, the European Organization for Civil Aviation Electronics (EUROCAE) was recently tasked to develop a minimum operational performance requirement (MOPR) which defines the minimum operational performance standards, guidance material for installation, parameters recorded, data compression, data retrieval, and crash survivability testing for the next generation of recorders.
+
+The above concerns indicate that technological changes have had a significant effect on the information needed to properly analyze an accident or incident. The current lists of flight recorder parameters, whether required by the FAA or recommended by the NTSB or ICAO, have always presented a compromise between desired parameters and economically feasible parameters. However, new electronic display systems (i.e., "glass cockpits"), that include an ARINC 429 data bus provide some relief from economic constraints and, at the same time, introduce additional investigative requirements. The ARINC 429 digital data bus, which is on the Boeing 757, 767, and 747-400, as well as the Airbus A300-600, A310, and 320, can provide a wealth of additional data. In fact, the amount of data is so extensive that the only constraint to the flight recorder system appears to be the recording capacity of the flight recorder. On the other hand, such new electronic displays pose new investigative challenges due to their operational and physical characteristics. For example, the video display units will supply little useful information in the post-accident environment. With the expanding role of technology in the operation of modern aircraft, a thorough knowledge of the interaction of man and machine in accident investigations has become even more critical. The introduction of the Airbus A320 with its fly-by-wire technology will present new challenges in accident investigation that will require the recording of information of a quantity and quality that goes far beyond the current minimum standards. The FAA agrees with the NTSB that there is a definite need for additional flight recorder parameters; that the core requirements be increased to include those recommended by the NTSB and ICAO; and that the minimum parameter list for a particular make and model aircraft be based on any unique design or operational capability defined at the time of type certification.
+
+Commuter Category/General Aviation Flight Recorder Requirements. 14 CFR Parts 91 and 135. According to the 1986 Annual Report of the Regional Airline Association, the number of passengers enplaned by commuter air carrier operations between 1981 and 1986 grew by 84 percent and is expected to grow at an annual rate of 8.3 percent during the next decade. This growth has resulted in the acquisition of newly manufactured aircraft designed specifically for the commuter market. The maximum takeoff weight of most of these new airplanes is in excess of 12,500 pounds, but since a significant number of them carry less than 30 passengers and have payloads of 7,500 pounds or less, they presently may be operated without flight recorders under Part 135. The NTSB is concerned by the substantial growth trends of the commuter air carrier fleet and the lack of flight recorder and, until recently, CVR requirements.
+
+These technological and operational changes in the commuter air carrier industry are comparable to those faced by the certificated air carrier industry some years ago when wide-bodied jets were introduced. At that time, the existing flight recorder requirements were considered inadequate, and a new set of standards was developed.
+
+A closer examination of the "commuter category" concept is necessary to understand more fully the impact of industry growth and development on the need for CVRs in this category. The NTSB has stated that the January 15, 1987, change to 14 CFR Part 23, that defines the "commuter category" for type and airworthiness certification, is consistent with a logical division point for the complexity and type of recorder required. As defined in Part 23, "commuter category" airplanes are those having a seating configuration, excluding the pilot seats, of 19 or less, and having a maximum certificated takeoff weight of 19,000 pounds or less. An examination (addressed in the 1986 Annual report of the Regional Airline Association) of the commuter air carrier fleet indicates that only three airplane models have a seating capacity of from 20 to 30 passengers, and a maximum payload of 7,500 pounds or less. Two of the three airplanes, the Embraer EMB-120 and Shorts 330, have a seating capacity of 30 passengers. The other airplane, the CASA 212, has a seating capacity of 26 passengers. The FAA agrees with the NTSB that these airplanes are of sufficient size and complexity to warrant the installation of flight recorders that meet the requirements of 14 CFR Part 121. At least two models, the EMB-120 and Shorts 330, are being operated in Europe with complete flight recorder and CVR systems.
+
+Therefore, the airplanes that fall into the designation of commuter category, 19 or less passengers and 19,000 pounds or less, are distinctly different from their larger Part 135 counterparts. The NTSB believes that a more logical division for those airplanes requiring compliance with 14 CFR Part 121 flight recorder rules would be 20 passengers or more. This would be more consistent with the current division that exists within the commuter fleet. It would also align those few airplane models of larger capacity with the intent of the 14 CFR Part 121 recorder rules.
+
+As previously discussed, the technological economical feasibility of a flight recorder for the commuter category aircraft (19 passengers or less) is no longer in question. In fact, one recorder manufacturer has developed a recorder for the general aviation market that meets the technical standards set forth in the Society of Automotive Engineers, Inc., document, "Minimum Performance Standards, General Aviation Flight Recorder" (SAE 8039). In addition, the U.S. Army has just embarked on a prototype program to install 200 flight recorders in its UH-64 Blackhawk helicopters. These recorders are a standard off-the-shelf version of a digital data recorder currently in use by a number of U.S. and foreign air carriers. This prototype program is a prelude to a much larger program which specifies that solid-state flight data recorders (SFDRs) be installed on the U.S. Army's entire fleet of aircraft. Also, the U.S. Air Force is currently flying F-16 and B1 airplanes equipped with solid state flight recorders. In addition, a solid-state version of the 25-hour air carrier flight recorder has been proposed by one recorder manufacturer and is under development by others. Consequently, it is considered that small lightweight recorders can be retrofitted into general aviation/commuter category aircraft with systems similar to those generally found in the commuter air carrier fleet.
+
+Recent investigations of commuter airplane accidents continue to emphasize the need for CVRs and flight recorders. On December 6, 1984, a Provincetown Boston Air (PBA) Embraer EMB-110 crashed shortly after taking off from Jacksonville, Florida. Although the evidence of an in-flight structural failure was obvious, the reason for the failure was not. In fact, the investigators had so few clues with which to work that Emergency Airworthiness Directive 85-01-51 was issued on January 10, 1985, which essentially grounded the U.S. EMB-110 fleet until a inspection of remaining airplanes could be completed. The investigation continued for 18 months. In addition, the degree of certainty as to why the accident occurred would have been significantly more positive had CVR and flight recorder information been available.
+
+During a 7-month period from August 25, 1985, to March 13, 1986, the commuter air carrier industry suffered a number of fatal accidents in which the subsequent investigations "revealed" a lack of information pertinent to the causes. (For more detailed information, read Aircraft Accident Report - "Bar Harbor Airlines, Flight 1808, Beech B-99, N300WP, Auburn Lewistion Airport, Maine, August 25, 1985" [NTSB/AAR-86-07], Aircraft Accident Report - "Henson Airlines Flight 1517, Beech B-99, N339HA, Shenandoah Valley Airport, Grottoes, Virginia, September 23, 1985" [NTSB/AAR-86-07], and Aircraft Accident Report - "Simmons Airlines, Flight 1746, Embraer Bandeirante EMB-1101P1, N1356P, Near Alpena, Michigan, March 13, 1986" [NTSB/MAR-87-02]).
+
+In all three accidents, the flightcrews were involved in precision instrument approaches in instrument meteorological conditions. The recorded air traffic control (ATC) communications in all three instances gave no indication that the flightcrews were experiencing any mechanical or ILS navigational problems. The ensuing examinations of the airplane wreckage and navigational aids did not disclose any problems that would have caused or would have contributed to the flightcrew's wings level controlled crashes. Therefore, with the lack of any evidence to suggest mechanical malfunctions, the investigations focused on flightcrew performance.
+
+Unfortunately, the lack of flight recorder information severely limited the scope of the flightcrew performance investigations. As a result, the investigators were confined to areas such as interviews with fellow crewmembers, training records, FAA surveillance, cockpit standardization, and a number of additional operational factors. Although the investigative efforts produced a number of significant safety recommendations based on sound evidence of potentially hazardous conditions and practices, the specific flightcrew actions, inactions, environmental conditions, previously undetermined equipment failures or combinations thereof that caused the accidents could not be positively identified. Furthermore, the lack of a definitive accident cause diminished the effectiveness of the NTSB's ability to recommend safety recommendations. However, the NTSB indicates confidence that, had flight recorder information been available, the specific deficiencies in flightcrew performance or some heretofore unknown failure or malfunction would have been determined for these accidents.
+
+Two more recent incidents further exemplify the need and benefits of flight recorders and CVRs. The first incident involved a 42-passenger turboprop airplane. (For more detailed information read, Aircraft Accident/Incident Summary Investigation No. DCA-87-IA015). On the same day, a second airplane of the same type operated by the same operator had a similar but far less severe encounter. The FAA acted promptly to prohibit operations into forecasted icing conditions until the airworthiness of the airplane could be further evaluated. The flight recorder from both airplanes and the CVR from the first airplane were removed and analyzed. The recorded data clearly identified the cause of the loss of control as operational rather than anything related to airworthiness and thus allowed for a prompt implementation of corrective action and the removal of the icing prohibition. This all took place within a matter of days.
+
+In stark contrast is the March 4, 1987, fatal accident in Detroit, Michigan, involving a 26-passenger CASA 212 that crashed inverted while on final approach to the airport. This type of airplane is not currently required to have a CVR or flight recorder installed. Without the CVR and flight recorder information, the investigation was limited to witness statements, ground impact marks, badly damaged and burned wreckage, limited air traffic control radar data, and flight test data. An FAA flight test team was dispatched to Madrid, Spain, to conduct a flight test in the area of stall characteristics, stall warning, directional stability, and engine-out controllability. The team determined that the natural stall warning was inadequate. An NPRM was issued on April 10 that would require the installation of an artificial stall warning system in the CASA-212. However, even with the information obtained from this flight test program, a positive determination of factors that caused the accident may never be made. In the interim, however, there are 29 CASA 212s in the United States and over 300 worldwide operating without restriction and without a determination as to what caused the accident or even what happened.
+
+On May 8, 1987, another CASA-212 in scheduled commuter operation crashed on the final approach to the airport in Mayaguez, Puerto Rico. The airplane way destroyed. There was no CVR or flight recorder aboard the airplane, and investigations were limited to information similar to that available in the Detroit accident.
+
+Cockpit Voice Recorder "Hot Mic", 14 CFR Parts 23, 25, 121, and 135
+
+The NTSB indicates that the performance of CVR installations where the audio signal from the boom microphone of each flight crewmember is continuously recorded on a dedicated channel, often referred to as a "hot mic", to be far superior to the standard cockpit area microphone (CAM). This conclusion was reached after the NTSB investigated a number of accidents/incidents involving both U.S. and foreign registered airplanes equipped with CVR "hot mics". In fact, the "hot mic" has proven to be a most significant technological improvement in CVRs. This level of improvement far surpasses any technological improvement that could be achieved by state-of-the art recording or signal processing equipment.
+
+In contrast, the quality of the audio signal recorded by the standard CAM can generally be described as poor because it requires considerable time and effort to produce a transcript. Frequently, the tape contains unintelligible dialogue that is important to the determination of causal factors. The high quality audio signal available from the "hot mic" should eliminate this problem for the most part, and at the same time, provide additional benefits, as follows: 
+
+(1) Positive crewmember identification, 
+
+(2) Redundant multichannel recordings, 
+
+(3) A potential for the evaluation of crewmember incapacitation by monitoring respiration rates, and 
+
+(4) Improved accuracy in determining which pilot was controlling the aircraft. 
+
+The Civil Aviation Authority (CAA) of the United Kingdom (UK) has required CVR "hot mic" since 1974. The UK Accident Investigation Branch's nearly 13 years of experience in analyzing CVR "hot mic" recording has prompted it to promote the adoption of standards by the international aviation community. As a result, both ICAO and EUROCAE have adopted CVR "hot mic" standards. In addition, the Board of Directors of the Air Line Pilots Association voted in May 1987 to adopt a resolution to promote the use of CVR "hot mics".
+
+Although the benefits of CVR "hot mic" are numerous, the economic penalties are slight. In fact, most if not all major airplane manufacturers are now offering CVR "hot mics" as standard equipment, and wiring an existing microphone jack to a CVR is a relatively easy task. Therefore, a CVR "hot mic" requirement would not pose an economic penalty either for operators purchasing new equipment or retrofitting a CVR on an existing aircraft.
+
+General Aviation, 14 CFR Part 91
+
+The general aviation (multiengine, turbine-powered aircraft) fleet is undergoing a technological evolution similar to, and in some respects greater than, that occurring in the air carrier and commuter fleets. The technological advances in the general aviation fleet have been numerous and varied. An indication of how pervasive the introduction of state-of-the-art technology has become was the November 1986 release by the General Aviation Manufacturers Association (GAMA) of three digital data bus standards for general aviation aircraft. As discussed earlier, these digital systems offer both an opportunity and a challenge to future accident/incident investigations. The opportunity stems from the relative ease by which vast amounts of significant information can be accessed and recorded. The challenge will come if this opportunity is not taken, because without "crash-protected" information (i.e., pre-impact in that usually is preserved after impact) future investigations will have even less evidence than is currently available on conventional aircraft from cockpit instruments, light bulbs, switch settings, etc.
+
+Accident experience continues to present evidence of the formidable cost, both in lives and property, of inadequate flight recorder information. The accident/incident histories of the Mitsubishi MU-2 and the Gates Learjet Models 24 and 25 airplanes have been well documented in previous Safety Board recommendations (see the June 19, 1987, NTSB safety recommendation letter) and need not be reiterated in detail. Briefly stated, however, both airplanes have a history of experiencing a sudden loss or reduction of control, which in many instances have resulted in uncontrolled, high-speed collisions with the ground.
+
+In a recent MU-2 accident, shortly before the fatal uncontrolled ground collision, the pilot radioed that the autopilot was pitching the airplane nose-down and that he could not control it. Because of this information, the NTSB has been able to focus its investigative efforts in this accident, and other MU-2 accidents, on specific components of the autopilot system. This was accomplished by the correlation of the service difficult reports and accident/incident histories of the MU-2 and Learjet airplanes. Although these investigative efforts appear to be providing some answers, the investigative process is still too long and costly in terms of lives and property. The time taken to reach this point stems directly from the lack of information of the type provided by modern recorders. If data similar to that proposed had been available, a more timely resolution of the safety problems could have been made which might have prevented subsequent occurrences.
+
+A number of flight recorders have been installed voluntarily and have begun to yield valuable information. An indication of this was the recent National Business Aircraft Association (NBAA) policy that now encourages its members to consider voluntary installation of CVRs. In stating this policy, the NBAA cited the value of CVR information in the recent investigation of a collision between a corporate jet and a small plane.
+
+Expanded Flight Recorder Requirements for New Airplanes, 14 CFR Part 25
+
+Recent technological advancements as well as those envisioned for the future raise serious questions about the adequacy of any fixed listing of required parameters for new airplanes. New airplanes may have unique design or operational characteristics that affect their performance, such as unique handling qualities and performance limitations; critical autopilot configurations; and, particularly, artificial intelligence dedicated to a monitoring function deemed critical to airplane operation. Such design features and operational characteristics must be evaluated at the time of airplane certification. This would ensure that sufficient information will be recorded to help determine airplane and crew performance.
+
+One can conclude that the aviation community, particularly the commuter airlines, cannot afford to identify its safety problems by an accumulation of accidents in which the cause cannot be determined in a timely and definitive manner. The public expects and deserves a prompt and accurate determination of cause, and it should never be subjected to a repeat of unresolved accidents. The NTSB believes that the CVR and flight recorder installations they recommend would provide data of sufficient quality and quantity to determine specific safety problems in a much more timely manner and with a much higher degree of certainty.
+
+The FAA also recognized the benefits of recorders, as evidenced by NPRM Notice No. 85-1 "Flight Recorders and Cockpit Voice Recorders", which encouraged the voluntary installation of approved flight recorders and the soon-to-be adopted Technical Standard Order (TSO) C-111, "General Aviation Flight Recorders". Technology has progressed, and there are a number of solid state fight recorders in operation on military aircraft which might be adapted for use in the commuter and general aviation fleets.
+
+A regulatory schedule that would require a prewire phase for newly manufactured aircraft to precede the mandatory compliance date would ensure the most comprehensive coverage with the least retrofit cost.
+
+Rotorcraft Air Taxi Operations and Commercial Operators, 14 CFR Part 135
+
+NTSB recommendation A-87-79 proposes an amendment to Part 127, Subpart H, to require that all existing and newly manufactured rotorcraft, regardless of the date of original type certificate, be equipped with one or more approved flight recorders.
+
+However, the FAA issued a final rule, SFAR 38-2 (50 FR 23944, June 7, 1985), as amended, which requires rotorcraft operations that were conducted under Part 121 or Part 127 to be conducted under Part 135. The amendment, in effect, suspends Part 127 and 121.13 and 121.157(e), and requires all rotorcraft operations to be conducted under Part 135. Therefore, those recommended amendments to Part 127 will be included in the pertinent sections of Part 135 and will address rotorcraft with a seating configuration of 20 or more seats.
+
+Flight Recorder Requirements for Transport Category Aircraft, 14 CFR Part 29
+
+Consistent with the NTSB safety recommendations, flight recorder requirements would be added to mandate digital flight recorders on rotorcraft with 20 or more passenger seats. The flight recorders would be capable of recording the parameters listed in proposed Appendix E of Part 135.
+
+Regulatory Evaluation
+
+This notice of proposed rulemaking would expand the cockpit voice recorder (CVR) and flight recorder requirements for various categories of aircraft, including airplanes and rotorcraft operated under Parts 91, 121, and 135. This rulemaking responds to a congressional mandate that the Department of Transportation initiate a rulemaking proceeding to consider the use of CVRs and flight recorders on commuter aircraft and other aircraft, commensurate with the recommendations of the National Transportation Safety Board (NTSB). The NTSB recommendations were listed in a recent letter to the Administrator which consolidated earlier NTSB recommendations that were not adopted as regulations in the final rule on cockpit voice and flight recorders issued in March 1987 by the FAA. The NTSB letter also reflected developments in recorder technology that had occurred since its earlier recommendations.
+
+Costs
+
+Compliance costs have been estimated for the various proposals contained in this notice. It is anticipated that the proposals, if adopted, would become effective in late 1988 or early 1989. Therefore, the 10-year period of this analysis is from 1989 to 1998. All costs are expressed in 1987 dollars. Discounted present values have been calculated using the 10 percent discount rate prescribed by the Office of Management and Budget for regulatory actions.
+
+The major compliance cost categories that have been estimated for the various proposals include equipment and installation costs (for both newly manufactured and existing aircraft); maintenance costs; fuel consumption costs because of the additional aircraft weight; and miscellaneous costs resulting from engineering, certification, support equipment, and administrative start-up requirements. Cost information was obtained from various recorder manufacturers, and fleet forecast information was obtained from the FAA Forecasting Branch and several industry publications. Total compliance cost for these proposals is estimated to be $222 million (discounted present value). Cost estimates are summarized below in Table 1.
+
+TABLE 1. COCKPIT VOICE RECORDER AND FLIGHT RECORDER:
+
+TOTAL COSTS BY AIRCRAFT TYPE AND OPERATING RULE (1989 through 1998)
+
+ 
+
+ Undiscounted
+
+ Discounted present value
+
+ 
+
+Part 91-Airplanes:
+
+Equipment/Installation
+
+Maintenance
+
+Fuel consumption
+
+Certification, start up, and support equipment
+
+ (10 percent of equipment/installation)
+
+Total $130,805,000
+
+4,906,000
+
+12,124,000
+
+13,080,000
+
+160,915,000
+
+ $99,184,000
+
+2,914,000
+
+7,212,000
+
+9,918,000
+
+119,228,000
+
+ 
+
+Part 91-Rotorcraft:
+
+Equipment/Installation
+
+Maintenance
+
+Fuel consumption
+
+Certification, start up, and support equipment
+
+ (10 percent of equipment/installation)
+
+Total 18,802,000
+
+291,000
+
+785,000
+
+1,880,000
+
+21,758,000
+
+ 10,955,000
+
+151,000
+
+410,000
+
+1,096,000
+
+12,612,000
+
+ 
+
+Part 135-Airplanes
+
+Equipment/Installation
+
+Maintenance
+
+Fuel consumption
+
+Certification, start up, and support equipment
+
+ (10 percent of equipment/installation)
+
+Total 53,633,000
+
+2,645,000
+
+7,593,000
+
+5,363,000
+
+69,234,000
+
+ 38,622,000
+
+1,539,000
+
+4,480,000
+
+3,862,000
+
+48,503,000
+
+ 
+
+Part 135-Rotorcraft:
+
+Equipment/Installation
+
+Maintenance
+
+Fuel consumption
+
+Certification, start up, and support equipment
+
+ (10 percent of equipment/installation)
+
+Total 32,609,000
+
+1,114,000
+
+3,767,000
+
+3,261,000
+
+40,751,000
+
+ 20,522,000
+
+626,000
+
+2,099,000
+
+2,052,000
+
+25,299,000
+
+ 
+
+Part 121-Airplanes:
+
+Equipment/Installation 
+
+ (other cost categories are minimal)
+
+Total 8,090,000
+
+8,090,000
+
+ 4,708,000
+
+4,708,000
+
+ 
+
+Part 125-Airlines:
+
+Equipment/Installation
+
+Maintenance
+
+Fuel consumption
+
+Certification, start up, and support equipment
+
+ (10 percent of equipment/installation)
+
+Total 10,600,000
+
+1,080,000
+
+1,170,000
+
+1,060,000
+
+13,910,000
+
+ 9,651,000
+
+659,000
+
+714,000
+
+965,000
+
+11,989,000
+
+ 
+
+Total cost for all operating rules 314,658,000
+
+ 222,339,000
+
+ 
+
+These costs are based on existing electro-mechanical digital recording systems. Solid state digital recording systems are in use in many military applications, and corresponding commercial crash recorder applications are under development. Early projections from manufacturers indicate that these solid state recorders will cost approximately the same as their electro-mechanical counterparts. However, they do offer important advantages over older systems, such as reduced weight and space requirements.
+
+Installation of the relatively heavy electro-mechanical recorders on many of the small aircraft that would be affected by these proposals could result in diminished payload carrying capability and/or reduced range. Although these costs have not been quantified in this analysis, they may be significant, especially for commuter aircraft. Further, there may be limited space available to install these units on small aircraft. These limitations could result in lost transportation capacity, and require tradeoffs with other equipment that operators might need or wish to install as a result of regulatory or voluntary actions, such as traffic alert and collision avoidance systems (TCAS), ground proximity warning systems, weather radar, etc. Some manufacturers believe that potential reductions in volume and weight that may be achieved using solid state technology could eliminate or substantially reduce these problems. Commenters are invited to submit their views on these issues.
+
+Benefits
+
+The benefits of flight recorders and CVRs cannot be measured in specific terms of numbers of lives saved or accidents prevented. Nevertheless, these tools have provided invaluable information in determining the primary and contributing causes of accidents in the past, and they have become an indispensable part of aircraft accident investigation.
+
+It is universally recognized that accident investigation has played a primary role in increasing the safety of air transportation. Even so, accident investigation itself is not credited with specific increases in safety. Instead, the credit is given to those changes to aircraft, flight procedures, airmen certification, etc., that are implemented to resolve safety deficiencies that come to light as a result of accident investigations. Since the benefits of improvements to CVRs and flight recorders are intangible, this benefits analysis will discuss qualitatively how flight recorders can contribute to improvements in aviation safety, but will not attempt to estimate safety benefits quantitatively.
+
+Expanded parameter flight recorders have proven effective in the determinations of aircraft structural, mechanical, and systems failures which have led directly to corrective actions, such as aircraft modifications or changes in operating procedures that will prevent future accidents. Expanded parameter recorders are extremely useful in identifying the response of flight crews to hazardous situations. Determinations can then be made whether or not the crew's response was appropriate for the situation and consistent with the training they had received, and whether additional or modified training and procedures would help prevent similar accidents in the future. Human factors analysis is one of the primary areas of study where flight recorders can be extremely beneficial.
+
+The determination that an accident was not caused by an aircraft mechanical, structural, or systems problem can also be quite beneficial because costly but unnecessary design analyses or modifications to an aircraft prompted by hypotheses rather than conclusive evidence can be prevented. Similarly, use of expanded parameter flight recorders could prevent temporary grounding of aircraft and avert economic losses to passengers and operators alike.
+
+Another benefit resulting from the determination of accident cause through expanded parameter flight recorders is the ability to define more precisely those operational problems that need to be addressed through research and development programs, such as windshear encounters. Analysis of windshear accidents aided by expanded parameter flight recorders has resulted in combined government and industry efforts to develop ground-based and airborne windshear detection systems, improved flight guidance systems, better crew training, and other corrective actions that are now being implemented to prevent future catastrophic accidents.
+
+New aircraft are now being developed with innovative design features such as fly-by-wire technology, canards, extensive structural use of composite materials, and tilt rotors. The result is that some aircraft are now entering service with these design features. Additional recorded information would aid significantly in the analysis of those accidents that will inevitably be experienced by aircraft embodying these emerging technologies. The introduction of new technology raises a greater possibility that a particular aircraft type will experience a series of accidents that are especially difficult to resolve as to cause. A fuller understanding of the factors contributing to these types of accidents will reduce the probability of their recurrence, as well as the possibility of aircraft being unnecessarily grounded.
+
+Experience has shown that existing recorders do not monitor some factors that may cause accidents, and that accident investigation of smaller air carrier aircraft not currently equipped with recorders is greatly handicapped. The amendments proposed in this notice, if adopted, would increase the amount of information provided by recorders and significantly increase accident investigators' ability to identify modifications that will reduce the number of accidents involving commuter aircraft, high performance general aviation airplanes and rotorcraft.
+
+International Trade Impact Assessment
+
+These proposals would have little or no impact on trade for either U.S. firms doing business in foreign countries or foreign firms doing business in the United States. The proposed amendments would affect only U.S. air carriers and operators. Foreign air carriers are prohibited from operating between points within the United States; therefore, they would not gain any competitive advantage over the domestic operations of U.S. carriers. In international operations, foreign air carriers are not expected to realize any cost advantages over U.S. air carriers because many foreign countries have recorder requirements that are as stringent as those proposed in this notice. Further, general aviation operations conducted in the United States are not in any direct competition with foreign enterprises. For these reasons, the FAA does not expect that these proposals will result in any trade impact.
+
+Regulatory Flexibility Determination
+
+The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress to ensure that small entities are not unnecessarily and disproportionately burdened by government regulations. The RFA requires agencies to review rules that may have "a significant economic impact on a substantial number of small entities".
+
+Any small entity that operates any aircraft in the categories that are included in the proposed amendments to Parts 91, 121, 125, and 135 would be affected by this notice, if adopted. Some of these proposals could result in "a significant economic impact on a substantial number" of small entity operators and air carriers. Most manufacturers that certificate aircraft under Parts 25 and 29 are not small entities and, therefore, are not subject to the RFA.
+
+The following analysis explains the reasons for this determination concerning operators and air carriers. In developing estimates of annualized net compliance costs, uniform annualized costs for capital investments have been determined by multiplying the amount of the investment by a capital recovery factor appropriate for the discount rate and period of the analysis. A capital recovery factor of .155, based upon a 10 percent discount rate over a 10-year period, has been used in this analysis. Threshold cost values and small entity size standards are those stated in FAA Order 2100.14A, Regulatory Flexibility Criteria and Guidance. Values have been adjusted to 1987 dollars.
+
+The threshold values defining a significant economic impact for scheduled carriers are $96,200 if the entire fleet has a seating capacity of over 60 seats, and $53,800 for other scheduled carriers. The threshold value for an unscheduled operator is only $3,800. Furthermore, a small entity operator of aircraft for hire is defined as one which owns nine or fewer aircraft.
+
+The annualized cost for the least expensive requirement proposed in this notice, a CVR retrofit, is approximately $3,500 per aircraft. Therefore, an operator owning only one aircraft is very close to the $3,800 threshold for unscheduled operators, and any operator owning more than one aircraft (but less than ten) is well over the threshold. This would apply to virtually all small Part 135 operators affected by the proposal. A similar argument can be made for Part 125 operators owning only one aircraft because they would be required to retrofit the far more expensive flight recorders as well as CVRs. It is possible that a substantial number of other small entities (defined as one-third of the small entities affected by the particular proposal) could incur significant economic impacts, particularly scheduled Part 135 operators (commuters) if they obtain between six and nine new aircraft with 19 or fewer seats, or retrofit between four and nine aircraft with 20 to 30 seats. Further, any small unscheduled Part 121 operator purchasing one or more new aircraft not equipped with an ARINC 429 data bus will exceed the threshold for nonscheduled operators.
+
+Part 91 operators of aircraft affected by these proposals generally are not small entities, however, and, therefore, would not be subject to the RFA.
+
+For these reasons, the FAA has determined that these proposals may have a significant economic impact on a substantial number of those small entities operating under Parts 121, 125, and 135, and a regulatory flexibility analysis is required under the terms of the RFA. The regulatory flexibility analysis for these operators follows.
+
+Initial Regulatory Flexibility Analysis
+
+As required by section 603 of the RFA, the following analysis deals with the proposed flight recorder requirements as they relate to small operators.
+
+A. Why Agency Action is Taken
+
+This rulemaking is in response to congressional action and to several recommendations made by the NTSB. The reasons for agency action are detailed in the notice and the regulatory evaluation.
+
+Briefly, the advantages of additional recorded information have been demonstrated by those aircraft so equipped, and it is desirable that more specific information be obtained following an accident involving additional categories of aircraft than is possible under current regulations.
+
+B. Objectives of and Legal Basis for the Rule
+
+The objective of these proposals is simply to make air transportation safer. The Federal Aviation Act explicitly states that:
+
+The Administrator (of the FAA) shall exercise and perform his powers and duties under this Act in such manner as will best tend to reduce or eliminate the possibility of, or recurrence of, accidents in air transportation, but shall not deem himself required to give preference to either air transportation or other air commerce in the administration and enforcement of this title.
+
+(Ref. Federal Aviation Act of 1958, Title VI-Safety Regulation of Civil Aeronautics, section 601(b)).
+
+This objective has been discussed in the notice and the regulatory evaluation.
+
+The legal [?] of these proposals are sections 313(a), 314(a), 601 through 610, and 1102 of the Federal Aviation Act of 1958, as amended [49 U.S.C. 1354(a), 1421 (as amended by the Airport and Airway Safety and Capacity Expansion Act of 1987, Pub. L. 100-223, December 30, 1987) 1422 through 1430, and 1502); 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983); and the Continuing Resolution of December 22, 1987, Pub. L. 100-202.
+
+C. Description of Small Entities Affected by the Proposals
+
+The small entities are operators subject to Parts 121, 125, and 135 with nine or fewer aircraft in those categories stipulated in the NTSB letter and the proposals. This is covered in detail in the Regulatory Flexibility Determinations above.
+
+D. Compliance Requirements of the Rule
+
+The proposals would require the installation of various types of cockpit voice recorders and flight recorders in several categories of new and existing aircraft.
+
+E. Overlap of the Proposals with Other Federal Rules
+
+There are no other Federal rules that duplicate, overlap, or conflict with the proposed rules.
+
+F. Alternatives to the Proposals
+
+No alternatives to these proposals have been considered. The Secretary of Transportation has been directed by Congress to initiate a rulemaking that considers the recommendations of the NTSB to the FAA concerning the use of cockpit voice recorders and flight data recorders on commuter and other aircraft.
+
+The FAA intends to issue a final rule in this proceeding with respect to large and commuter air carrier aircraft no later than June 30, 1988. The FAA has greater flexibility with respect to requirements for flight recorders in Part 91 aircraft than with respect to Part 135. If the record indicates that additional time is necessary for the commenters and the FAA to examine the Part 91 issues, the agency may deal separately with Part 91 at the final rule stage. In the absence of any such indication, however, the FAA expects to issue a final rule on Part 91 at the same time as it concludes the proceeding on Parts 135 and 121.
+
+The FAA believes it is especially important that interested parties address, in their comments, the costs and benefits of flight recorders and cockpit voice recorders in Part 91 operations. The FAA is particularly interested in receiving comments from the NTSB and others who would participate in the accident investigation about the benefits to be gained from recorders in aircraft operated under Part 91, and about whether there are any alternatives that would provide essential information but still be less burdensome to the owners and operators of these aircraft. What other regulatory options to NTSB's recommendations for Part 91 aircraft should be considered, based on such factors as: newly manufactured versus existing aircraft, various aircraft types and uses, and the extent to which new technology is incorporated into aircraft designs.
+
+Because the costs of this rule as it applies to Part 91 operations are significant, and may approach those of a major rule, the FAA invites commenters to provide estimates, and the bases for those estimates, on the following, with respect to aircraft types that would be affected by the proposals: 
+
+1. The frequency of operation of existing aircraft in the following groups: 6-9 passengers, 10-19 passengers, and 20-30 passengers; and
+
+2. The percentage of aircraft in each group with "glass cockpits" (i.e., new electronic display system). Such data, if available, would be relevant to the cost per seat mile of CVR and FDR for different sizes of aircraft. In addition, the FAA has available a substantial amount of data with respect to:
+
+1. Acquisition costs of various flight recorder and cockpit voice recorder installations;
+
+2. Maintenance and operational costs of recorder installations;
+
+3. Projections of new aircraft entering service;
+
+4. Accident information, including fatalities, injuries, and severity of property damage.
+
+This data will be placed in the docket for public inspection, along with all relevant assumptions and analyses performed by the FAA in formulating its proposal.
+
+The benefits of this rule will mainly take the form of an increased understanding of the causes and contributing factors of crashes. Therefore, the FAA is also interested in the following: To what extent has the availability of CVR and/or FDR facilitated the success of accident investigations, as indicated by the ability of the NTSB to determine the cause of, and factors contributing to, accidents? To what extent has NTSB's confidence in such a finding been enhanced be the availability of CVR/FDR or reduced by the lack of it? Also, to the extent that data resulting from coverage under other parts may be applicable to Part 91 aircraft, what are the additional benefits of the Part 91 proposals to operations conducted under Part 91 and other parts?
+
+List of Subjects
+
+14 CFR Part 25
+
+Aircraft, Aviation safety, Safety.
+
+14 CFR Part 29
+
+Aircraft, Aviation safety, Safety.
+
+14 CFR Part 91
+
+Air carriers, Aviation safety, Safety, Aircraft, Aircraft pilots, Pilots.
+
+14 CFR Part 121
+
+Aviation safety, Safety, Air carriers, Aircraft, Aircraft pilots, Airplanes, Transportation, Common carriers.
+
+14 CFR Part 125
+
+Aircraft, Airplanes, Airworthiness.
+
+14 CFR Part 135
+
+Air carriers, Aviation safety, Safety, Air taxi, Aircraft, Airplanes, Rotorcraft.
+
+ 
+        
+REGULATORY TEXT: The proposed Amendment
+
+In consideration of the foregoing, the Federal Aviation Administration proposes to amend Parts 25, 29, 91, 121, 125, and 135 of the Federal Aviation Regulations as follows:
+
+PART 25 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+1. The authority citation for Part 25 is revised to read as follows:
+
+Authority: 49 U.S.C. 1344, 1354(a), 1355, 1421, 1423, 1424, 1425, 1428, 1429, 1430; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983); 49 CFR 1.47(a); Pub L. 100-202, December 22, 1987.
+
+2. By revising Sec. 25.1457(c)(1), (2), (3), and (4)(i) to read as follows:
+
+Sec. 25.1457 Cockpit voice recorders.
+
+* * * * *
+
+(c)* * *
+
+(1) For the first channel, from each boom, mask, or hand-held microphone, headset, or speaker used at the first pilot station.
+
+(2) For the second channel from each boom, mask, or hand-held microphone, headset, or speaker used at the second pilot station.
+
+(3) For the third channel-from the cockpit-mounted area microphone.
+
+(4) For the fourth channel from-
+
+(i) Each boom, mask, or hand-held microphone, headset, or speaker used at the station for the third and fourth crew members.
+
+* * * * *
+
+3. By revising Sec. 25.1459(a)(6) and adding new (e) to read as follows:
+
+Sec. 25.1459 Flight recorders.
+
+* * * * *
+
+(a)* * * 
+
+(6) There is a means to record data from which the time of each radio transmission to ATC can be determined.
+
+* * * * *
+
+(e) Any novel or unique design or operational characteristics of the aircraft shall be evaluated to determine if any dedicated parameters must be recorded on flight recorders in addition to or in place of existing requirements.
+
+PART 29 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+
+1. The authority citation for Part 29 is revised to read as follows:
+
+Authority: 49 U.S.C. 1344, 1354(a), 1355, 1421 (as amended by Pub. L. 100-223, December 30, 1987), 1423, 1424, 1425, 1428, 1429, 1430; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983); Pub. L. 100-202, December 22, 1987.
+
+2. By adding new Sec. 29.1459 to read as follows:
+
+Sec. 29.1459 Flight recorders.
+
+(a) Each flight recorder required by the operating rules of chapter G of this chapter must be installed so that-
+
+(1) It is supplied with airspeed, altitude, and directional data obtained from sources that meet the accuracy requirements of Secs. 29.1323, 29.1325, and 29.1327, as applicable;
+
+(2) The vertical acceleration sensor is rigidly attached, and located longitudinally within the approved center of gravity limits of the rotorcraft;
+
+(3) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight recorder without jeopardizing service to essential or emergency loads;
+
+(4) There is an aural or visual means for preflight checking of the recorder for proper recording of data in the storage medium:
+
+(5) Except for recorders powered solely by the engine-driven electrical generator system, there is an automatic means to simultaneously stop a recorder that has a data erasure feature and prevent each erasure feature from functioning, within 10 minutes after any crash impact; and
+
+(6) There is a means to record data from which the time of each radio transmission to ACT can be determined.
+
+(b) Each nonejectable recorder container must be located and mounted so as to minimize the probability of container rupture resulting from crash impact and subsequent damage to the record from fire.
+
+(c) A correlation must be established between the flight recorder readings of airspeed, altitude, and heading and the corresponding reading (taking into account correction factors) of the first pilot's instruments. This correlation must cover the airspeed range over which the airplane is limited, and must cover 360 degrees of heading. Correlation may be established on the ground as appropriate.
+
+(d) Each recorder container must-
+
+(1) Be either bright orange or bright yellow;
+
+(2) Have a reflective tape affixed to its external surface to facilitate its location under water; and
+
+(3) Have an under water locating device, when required by the operating rules of this chapter, on or adjacent to the container which is secured in such a manner that they are not likely to be separated during crash impact.
+
+PART 91 - GENERAL OPERATING AND FLIGHT RULES
+
+1. The authority citation for Part 91 is revised to read as follows:
+
+Authority: 49 U.S.C. 1301 (7), 1303, 1344, 1348, 1352-1355, 1401, 1421, (as amended by Pub. L. 100-223, December 30, 1987), 1422-1431, 1471, 1472, 1502, 1510, 1522, and 2121-2125; Articles 12, 29, 31, and 32(a) of the Convention on International Civil Aviation (61 Stat. 1180); 42 U.S.C. 4321 et seq; E.O. 11514; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983); Pub L. 100-202, December 22, 1987.
+
+2. By amending Sec. 91.35 by redesignating the introductory text as (a) and redesignating (a), (b), (c), and (d), as (1), (2), (3), and (4), and adding new paragraphs (b), (c), (d), and (e) to read as follows:
+
+Sec. 91.35 Flight recorders and cockpit voice recorders.
+
+(a)* * *
+
+(1)* * *
+
+(2)* * *
+
+(3)* * *
+
+(4)* * *
+
+(b) No person may operate a U.S. civil registered, multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration, excluding any pilot seats, of 10 or more that has been manufactured:
+
+(1) After (1 year after the effective date of this rule) unless it has been prewired to accept a flight recorder capable of recording the data specified in Appendix D, for an airplane, or Appendix E for a rotorcraft, of this part.
+
+(2) After (2 years after the effective date of the rule) unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from the storage medium, that are capable of recording the data specified in Appendix D, for an airplane, or Appendix E, for a rotorcraft, of this part within the range, accuracy, and recording interval specified, and that are capable of retaining no less than 8 hours of aircraft operation.
+
+(c) Whenever a flight recorder, required by this section, is installed, it must be operated continuously from the instant that airplane begins the takeoff roll or the rotorcraft begins lift-off until the airplane has completed the landing roll or the rotorcraft has landed at its destination.
+
+(d) After (2 years after the effective date of this rule) no person may operate a U.S. civil registered, multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of six passengers or more and for which two pilots are required by type certification or operating rule unless it is equipped with an approved cockpit voice recorder that-
+
+(1) Is installed in compliance with Sec. 25.1457(a)(1) and (2), (b), (c), (d), (e), (f), and (g) of this chapter; and
+
+(2) Is operated continuously from the use of the check list before the flight to completion of the final check list at the end of the flight; and
+
+(e) In complying with this section, an approved cockpit voice recorder having an erasure feature may be used, so that at any time during the operation of the recorder, information recorded more than 15 minutes earlier may be erased or otherwise obliterated.
+
+3. By adding Appendixes D and E to Part 91, to read as follows:
+
+Appendix D - Airplane Flight Recorder Specifications
+
+Parameters
+
+ Range
+
+ Installed System1 minimum accuracy (to recovered data)
+
+ Sampling interval (per second)
+
+ Resolution readout
+
+ 
+
+Relative time 
+
+(from recorded on prior to takeoff) 8 hr minimum ±0.125% per hour 1 1 sec. 
+
+Indicated airspeed VSO to VD (KIAS) ±5% or ±10 kts. whichever is greater. Resolution 2 kts. below 175 KIAS. 1 1%. 
+
+Altitude -1,000 ft. to max. cert. alt. of A/C ±100 to ±700 ft. 
+
+(see Table 1 TSO -C51-a 1 25 to 150. 
+
+Magnetic heading 360° ±5° 1 1°. 
+
+Vertical acceleration -3g to +6g ±0.2g in addition to ±0.3g maximum datum. 4 (or 1 per second where peaks, ref. to 1g are recorded). 0.03g. 
+
+Longitudinal acceleration ±1.0g ±0.5g in addition to max. datum error of ±0.1g. 2 0.01g. 
+
+Pitch altitude 100% of usable ±2° 1 0.8°. 
+
+Roll altitude ±60° or 100% of usable range, whichever is greater +2° 1 0.8°. 
+
+Stabilizer trim position
+
+OR
+
+Pitch control position Full range
+
+Full range ±3% unless higher uniquely required
+
+±3% unless higher uniquely required 1
+
+1 1%.
+
+1%. 
+
+ENGINE POWER, EACH ENGINE 
+
+Fan or N1 Speed or EPR or cockpit indications used for aircraft certification.
+
+OR
+
+Prop speed and torque (sample once/sec as close together as practicable). Maximum range
+
+........................... +5%
+
+......................................... 1
+
+1 (prop speed)
+
+1 (torque) 1%. 
+
+Altitude rate 2 (need depends on altitude resolution). +8,000 fpm +10%. Resolution 250 fpm below 12,000 ft. indicated. 1 250 fpm. below 12,000. 
+
+Angle of attack2 (need depends on altitude resolution). -20 to 40 or of usable range +2 1 0.8°. 
+
+Radio transmitter keying (discrete). On/off ......................................... 1 
+
+TE flaps 
+
+(discrete or analog) Each discrete position (U, D, T/O, AAP) 
+
+OR
+
+Analog 0-100% range .........................................
+
++3 1
+
+1 1%. 
+
+LE flaps 
+
+(discrete or analog) Each discrete position (U, D, T/O, AAP).
+
+OR
+
+Analog 0-100% range .........................................
+
++3 1
+
+1 1%. 
+
+Thrust reverse, each engine (discrete) Stowed or full reverse ......................................... 1 
+
+Spoiler/speedbrake (discrete) Stowed or out ......................................... 1 
+
+Autopilot engaged (discrete) Engaged or disengaged ......................................... 1 
+
+1When data sources are aircraft instruments (except altimeters) of acceptable quality to fly the aircraft the recording systems excluding these sensors (but including all other characteristics of the recording system) shall contribute no more than half of the values in this column.
+
+2If data from the altitude encoding altimeter (100 ft. resolution) is used, then either ine if these parameters should also be recorded, if however, altitude is recorded at a minimum resolution of 25 feet, then these two parameters can be omitted.
+
+Appendix E - Helicopter Flight Recorder Specification
+
+Parameters
+
+ Range
+
+ Installed System1 minimum accuracy (to recovered data)
+
+ Sampling interval (per second)
+
+ Resolution readout
+
+ 
+
+Relative time 
+
+(from recorded on prior to takeoff) 4 hr minimum ±125% per hour 1 1 sec. 
+
+Indicated airspeed VM in to VD (KIAS) (minimum airspeed signal attainable with installed pilot static system). ±5% pt ±10 kts., whichever is greater 1 1 kt. 
+
+Altitude -1,000 ft. to 20,000 ft. pressure altitude. ±700 ft. (see Table 1, TSO C51-a) 1 25 to 150 ft. 
+
+Magnetic heading 360° ±5° 1 1°. 
+
+Vertical acceleration -3g to +6g ±0.2g in addition to ±0.3g maximum datum 4 (or 1 per second where peaks, ref. to 1g are recorded). 0.5g. 
+
+Longitudinal acceleration ±1.0g ±0.5g in addition to max. datum error of ±0.1g. 2 0.03g. 
+
+Pitch attitude 100% of usable range ±2° 1 0.8°. 
+
+Roll altitude ±60° or 100% of usable range, whichever is greater. ±2° 1 0.8°. 
+
+Altitude rate ±8,000 fpm ±10% Resolution 250 fpm below 12,000 ft. indicated. 1 250 fpm below 12,000. 
+
+ENGINE POWER, EACH ENGINE 
+
+Main roto speed Maximum range ±5% 1 1% 
+
+Free or power turbine Maximum range ±5% 1 1% 
+
+Engine torque Maximum range ±5% 1 1% 
+
+FLIGHT CONTROL HYDRAULIC PRESSURE 
+
+Primary (discrete) High/low ......................................... 1 
+
+Secondary-if applicable (discrete). High/low ......................................... 1 
+
+Radio transmitter keying (discrete). On/off ......................................... 1 
+
+Autopilot engaged (discrete) Engaged or disengaged ......................................... 1 
+
+SAS status-engaged (discrete) Engaged/
+
+disengaged ......................................... 1 
+
+SAS fault status (discrete) Fault/OK ......................................... 1 
+
+FLIGHT CONTROLS 
+
+Collective Full range ±3% 2 1% 
+
+Pedal position Full range ±3% 2 1% 
+
+Latitude cyclic Full range ±3% 2 1% 
+
+Longitude cyclic Full range ±3% 2 1% 
+
+Controllable stabilator position Full range ±3% 2 1% 
+
+1When data sources re aircraft instruments (except altimeters) of acceptable quality to fly the aircraft the recording system excluding these sensors (but including all other characteristics of the recording system) shall contribute no more than half of the values in this column.
+
+PART 121 - CERTIFICATION AND OPERATIONS: DOMESTIC, FLAG, AND SUPPLEMENTAL AIR CARRIERS AND COMMERCIAL OPERATORS OF LARGE AIRCRAFT
+
+1. The authority citation for Part 121 is revised to read as follows:
+
+Authority: 49 U.S.C. 1354(a), 1355, 1356, 1357, 1401, 1421 (as amended by Pub. L. 100-223, December 30, 1987), 1422-1430, 1485, and 1502; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983); Pub. L. 100-202, December 22, 1987.
+
+2. By amending Sec. 121.343 by redesignating existing paragraphs (e), (f), (g), (h), and (i) as (g), (h), (i), (j), and (k), and adding two new paragraphs (e) and (f), to read as follows:
+
+Sec. 121.343 Flight recorders.
+
+* * * * *
+
+(e) After (2 years from the effective date of this amendment) no person may operate a large airplane equipped with an ARINC 429 digital data bus or equivalent unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from a storage medium. The parameters specified in Appendix B of this part must be recorded within the ranges, accuracies, resolutions, and sampling intervals specified.
+
+(f) After (2 year after the effective date of this amendment) no person may operate an airplane specified in paragraph (b) of this section that is manufactured after (2 years after the effective date of the amendment) nor an airplane specified in paragraph (a) of this section that has been type certificated after September 30, 1969, and manufactured after (2 years after the effective date of this amendment), unless it is equipped with one or more flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from the storage medium. The parameters specified in Appendix B of this part must be recorded within the range, accuracy, resolution, and recording intervals specified.
+
+3. By redesignating existing paragraph (e) as paragraph (f) and adding new Sec. 121.359(e) to read as follows:
+
+Sec. 121.359 Cockpit voice recorders.
+
+* * * * *
+
+(e) For those aircraft equipped to record the uninterrupted audio signals received by a boom or mask microphone the flight crewmembers are required to use the boom microphone below 18,000 feet mean sea level.
+
+4. By revising Appendix B of Part 121 to read as follows:
+
+Appendix B - Airplane Flight Recorder Specification
+
+Parameters
+
+ Range
+
+ Accuracy sensor input to DFDR readout
+
+ Sampling interval (per second)
+
+ Resolution readout
+
+ 
+
+Time (GMT) 24 hrs. ±0.125% per hour 0.25 (1 per 4 seconds) 1 sec. 
+
+Altitude -1,000 ft to max. certificated altitude of aircraft ±100 to ±700 ft 
+
+(see table 1, TSO-C51a). 1 5 to 35'. 
+
+Airspeed [?] ±5%, ±3% 1 1 kt. 
+
+Heading 360° ±2° 1 0.5°. 
+
+Normal acceleration (vertical) -3g to +6g ±1% of max. range excluding datum error of ±5% 8 0.01 g. 
+
+Pitch attitude ±75° ±2 1 0.5°. 
+
+Roll attitude ±180° ±2 1 0.5°. 
+
+Radio transmitter keying On-off (discrete) ......................................... 1 ......................................... 
+
+Thrust/power on each engine Full range forward ±2% 1 (per engine) 0.2%. 
+
+Trailing edge flap or cockpit control selection. Full range or each discrete position ±3° or as pilot's indicator 0.5 0.5%. 
+
+Leading edge flap or cockpit control selection. Full range or each discrete position. ±3° or as pilot's indicator 0.5 0.5%. 
+
+Thrust reverser position Stowed, in transit, and reverse (discrete) ......................................... 1 (per engine) ......................................... 
+
+Ground spoiler/speed brake selection. Full range or each discrete position ±2% unless higher accuracy uniquely required 1 0.2%. 
+
+Marker beacon passage Discrete ......................................... 1 ......................................... 
+
+Autopilot engagement Discrete ......................................... 1 ......................................... 
+
+Longitudinal acceleration ±g ±1.5% max. range excluding datum error of ±5% 4 0.01g. 
+
+Pilot input and surface position-primary controls (pitch, roll, yaw). Full range ±2 unless higher accuracy uniquely required 1 0.2%. 
+
+Lateral acceleration ±1g ±1.5% max. range excluding datum of ±5% 4 0.01g. 
+
+Pitch trim position full range ±3% unless higher accuracy uniquely required 1 0.3%. 
+
+Glideslope deviation ±400 microamps ±.3% 1 0.3%. 
+
+Localizer deviation ±400 microamps ±3% 1 0.3%. 
+
+AFCS mode and engagement status. Discrete (5 bits necessary) ......................................... 1 ......................................... 
+
+Radio altitude -20 ft to 2,500 ft ±2 ft of ±3% whichever is greater below 500 ft and ±5% above 500 ft 1 1 ft + 5% above 500'. 
+
+Master warning Discrete ......................................... 1 ......................................... 
+
+Nav 1 and 2 frequency selection. Full range As installed 0.25 ......................................... 
+
+DME 1 and 2 distance. 0-200 NM; As installed 0.25 1 mi. 
+
+Main gear squat switch status Discrete ......................................... 1 ......................................... 
+
+Angle of attack (if recorded directly). As installed As installed 2 0.3%. 
+
+Outside air temperature -90 C to + 50 C ±2c 0.5 0.3 c. 
+
+Hydraulics, each system low pressure. Discrete ......................................... 0.5 Or 0.5%. 
+
+Groundspeed As installed Most accurate systems installed (IMS equipped aircraft only) 1 0.2%. 
+
+Landing gear or gear selector position. Discrete ......................................... 4 ......................................... 
+
+GPWS (ground proximity warning system). Discrete ......................................... 1 ......................................... 
+
+PART 125 - CERTIFICATION AND OPERATION: AIRPLANES HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MINIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE
+
+1. The authority citation for Part 125 is revised to read as follows:
+
+Authority: 49 U.S.C. 1354, 1421 (as amended by Pub. L. 100-223, December 30, 1987), 1422-1430, and 1502; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983); Pub. L. 100-202, December 22, 1987.
+
+Sec. 125.202 [Removed]
+
+2. By removing existing Sec. 125.202.
+
+3. By adding a new Sec. 121.225, to read as follows:
+
+Sec. 125.225 Flight recorders.
+
+(a) Except as provided in paragraph (d) of this section, after (2 years after the effective date of this rule), no person may operate a large airplane type certificated before October 1, 1969, for operations above 25,000 feet altitude, nor a multiengine, turbine powered airplane type certificated before October 1, 1969, unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from the storage medium. The following information must be able to be determined within the ranges, accuracies, resolution, and recording intervals specified in Appendix D of Part 125 of this chapter:
+
+(1) Time;
+
+(2) Altitude;
+
+(3) Airspeed;
+
+(4) Vertical acceleration;
+
+(5) Heading;
+
+(6) Time of each radio transmission to or from air traffic control;
+
+(7) Pitch altitude;
+
+(8) Roll altitude;
+
+(9) Longitudinal acceleration;
+
+(10) Control column or pitch control surface position; and:
+
+(11) Thrust of each engine.
+
+(b) Except as provided in paragraph (d) of this section, after (2 years after the effective date of this rule), no person may operate a large airplane type certificated after September 30, 1969, for operations above 25,000 feet altitude, nor a multiengine, turbine powered airplane type certificated after September 30, 1969, unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from the storage medium. The following information must be able to be determined within the ranges, accuracies, resolutions, and recording intervals specified in Appendix D of Part 125 of this chapter:
+
+(1) Time;
+
+(2) Altitude;
+
+(3) Airspeed;
+
+(4) Vertical acceleration;
+
+(5) Heading;
+
+(6) Time of each radio transmission either to or from air traffic control;
+
+(7) Pitch altitude;
+
+(8) Roll altitude;
+
+(9) Longitudinal acceleration;
+
+(10) Pitch trim position;
+
+(11) Control column or pitch control surface position;
+
+(12) Control wheel or lateral control surface position;
+
+(13) Rudder pedal or yaw control surface position;
+
+(14) Thrust of each engine;
+
+(15) Position of each thrust reverser;
+
+(16) Trailing edge flap or cockpit flap control position; and
+
+(17) Leading edge flap or cockpit flap control position;
+
+(c) After (2 years from the effective date of this amendment) no person may operate a large airplane equipped with an ARINC 429 digital data bus or equivalent unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data and a method of readily retrieving that data from the storage medium. The information must be able to be determined within the ranges, accuracies, resolutions, and sampling intervals specified in Appendix D of Part 125 of this chapter.
+
+(d) No person may operate under this part an airplane that is manufactured after (2 years after the effective date of this rule) unless it is equipped with one or more approved flight recorders for recording and storing data and a method of readily retrieving that data from the storage medium. The parameters specified in Appendix D of Part 125 of this chapter must be recorded within the range, accuracy, resolution and recording intervals specified. For the purpose of this section, "manufactured" means the point in time at which the airplane inspection acceptance records reflect that the airplane is complete and meets the FAA-approved type design data.
+
+(e) Whenever a flight recorder required by this section is installed, it must be operated continuously from the instant the airplane begins the takeoff roll until it has completed the landing roll at an airport.
+
+(f) Except as provided in paragraph (g) of this section, and except for recorded data erased as authorized in this paragraph, each certificate holder shall keep the recorded data prescribed in paragraph (a), (b), (c), or (d) of this section, as applicable, until the airplane has been operated for at least 25 hours of the operating time specified in Sec. 121.359(a) of this chapter. A total of 1 hour of recorded data may be erased for the purpose of testing the flight recorder or the flight recorder system. Any erasure made in accordance with this paragraph must be of the oldest recorded data accumulated at the time of testing. Except as provided in paragraph (g) of this section, no record need be kept more than 60 days.
+
+(g) In the event of an accident or occurrence that requires immediate notification of the National Transportation Safety Board under 49 CFR Part 830 and that results in termination of the flight, the certificate holder shall remove the recording media from the airplane and keep the recorded data required by paragraphs (a), (b), (c), or (d) of this section, as applicable, for at least 60 days or for a longer period upon the request of the Board or the Administrator.
+
+(h) Each flight recorder required by this section must be installed in accordance with the requirements of Sec. 25.1459 of this chapter in effect on August 31, 1977. The correlation required by Sec. 24.1459(c) of this chapter need be established only on one airplane of any group of airplanes-
+
+(1) That are of the same type;
+
+(2) On which the flight recorder models and their installations are the same; and
+
+(3) On which there are no differences in the type design with respect to the installation of the first pilot's instruments associated with the flight recorder. The most recent instrument calibration, including the recording medium from which this calibration is derived, and the recorder correlation must be retained by the certificate holder.
+
+(i) Each flight recorder required by this section that records the data specified in paragraphs (a), (b), (c), or (d) of this section must have an approved device to assist in locating that recorder under water.
+
+4. By adding a new Sec. 125.227, to read as follows:
+
+Sec. 125.227 Cockpit voice recorders.
+
+(a) No certificate holder may operate a large turbine engine powered airplane or a large pressurized airplane with four reciprocating engines unless an approved cockpit voice recorder is installed in that airplane and is operated continuously from the start of the use of the checklist (before starting engines for the purpose of flight) to completion of the final checklist at the termination of the flight.
+
+(b) Each certificate holder shall establish a schedule for completion, before the prescribed dates, of the cockpit voice recorder installations required by paragraph (a) of this section. In addition, the certificate holder shall identify any airplane specified in paragraph (a) of this section he intends to discontinue using before the prescribed dates.
+
+(c) The cockpit voice recorder required by this section must also meet the following standards:
+
+(1) The requirements of Part 25 of this chapter in effect after (2 years from the effective date of this amendment).
+
+(2) After September 1, 1980, each recorder container must-
+
+(i) Be either bright orange or bright yellow;
+
+(ii) Have reflective tape affixed to the external surface to facilitate its location under water; and
+
+(iii) Have an approve underwater locating device on or adjacent to the container which is secured in such a manner that they are not likely to be separated during crash impact, unless the cockpit voice recorder, and the flight recorder, required by Sec. 121.343 of this chapter, are installed adjacent to each other in such a manner that they are not likely to be separated during crash impact.
+
+(d) In complying with this section, an approved cockpit voice recorder having an erasure feature may be used, so that at any time during the operation of the recorder, information recorded more than 30 minutes earlier may be erased or otherwise obliterated.
+
+(e) When operating aircraft equipped to record the uninterrupted audio signals received by a boom or mask microphone, flight crewmembers are required to use the boom microphone below 18,000 feet mean sea level.
+
+(f) In the event of an accident or occurrence requiring immediate notification of the National Transportation Safety Board under 49 CFR Part 830 of its regulations, which results in the termination of the flight, the certificate holder shall keep the recorded information for at least 60 days or, if requested by the Administrator or the Board, for a longer period. Information obtained from the record is used to assist in determining the cause of accidents or occurrences in connection with investigations under 49 CFR Part 830. The Administrator does not use the record in any civil penalty or certificate action.
+
+5. By adding a new Appendix D to Part 125, to read as follows:
+
+Appendix D - Airplane Flight Recorder Specification
+
+Parameters
+
+ Range
+
+ Accuracy sensor input to DFDR readout
+
+ Sampling interval (per second)
+
+ Resolution readout
+
+ 
+
+Time (GMT) 24 hrs ±0.125% per hour 0.25 (1 per 4 seconds) 1 sec. 
+
+Altitude -1,000 ft to max. certificated altitude of aircraft ±100 to ±700 ft 
+
+(see table 1, TSO-C51a). 1 5 to 35'. 
+
+Airspeed [?] ±5%, ±3% 1 1 kt. 
+
+Heading 360° ±2° 1 0.5°. 
+
+Normal acceleration (vertical) -3g to +6g ±1% of max. range excluding datum error of ±5% 8 0.01 g. 
+
+Pitch attitude ±75° ±2 1 0.5°. 
+
+Roll attitude ±180° ±2 1 0.5°. 
+
+Radio transmitter keying On-off (discrete) ......................................... 1 ......................................... 
+
+Thrust/power on each engine Full range forward ±2% 1 (per engine) 0.2%. 
+
+Trailing edge flap or cockpit control selection. Full range or each discrete position ±3° or as pilot's indicator 0.5 0.5%. 
+
+Leading edge flap or cockpit control selection. Full range or each discrete position. ±3° or as pilot's indicator 0.5 0.5%. 
+
+Thrust reverser position Stowed, in transit, and reverse (discrete) ......................................... 1 (per engine) ......................................... 
+
+Ground spoiler/speed brake selection. Full range or each discrete position ±2% unless higher accuracy uniquely required 1 0.2%. 
+
+Marker beacon passage Discrete ......................................... 1 ......................................... 
+
+Autopilot engagement Discrete ......................................... 1 ......................................... 
+
+Longitudinal acceleration ±g ±1.5% max. range excluding datum error of ±5% 4 0.01g. 
+
+Pilot input and surface position-primary controls (pitch, roll, yaw). Full range ±2 unless higher accuracy uniquely required 1 0.2%. 
+
+Lateral acceleration ±1g ±1.5% max. range excluding datum of ±5% 4 0.01g. 
+
+Pitch trim position full range ±3% unless higher accuracy uniquely required 1 0.3%. 
+
+Glideslope deviation ±400 microamps ±.3% 1 0.3%. 
+
+Localizer deviation ±400 microamps ±3% 1 0.3%. 
+
+AFCS mode and engagement status. Discrete (5 bits necessary) ......................................... 1 ......................................... 
+
+Radio altitude -20 ft to 2,500 ft ±2 ft of ±3% whichever is greater below 500 ft and ±5% above 500 ft 1 1 ft + 5% above 500'. 
+
+Master warning Discrete ......................................... 1 ......................................... 
+
+Nav 1 and 2 frequency selection. Full range As installed 0.25 ......................................... 
+
+DME 1 and 2 distance. 0-200 NM; As installed 0.25 1 mi. 
+
+Main gear squat switch status Discrete ......................................... 1 ......................................... 
+
+Angle of attack (if recorded directly). As installed As installed 2 0.3%. 
+
+Outside air temperature -90 C to + 50 C ±2c 0.5 0.3 c. 
+
+Hydraulics, each system low pressure. Discrete ......................................... 0.5 Or 0.5%. 
+
+Groundspeed As installed Most accurate systems installed (IMS equipped aircraft only) 1 0.2%. 
+
+Landing gear or gear selector position. Discrete ......................................... 4 ......................................... 
+
+PART 135 - AIR TAXI OPERATIONS AND COMMERCIAL OPERATORS
+
+1. The authority citation for Part 135 is revised to read as follows:
+
+Authority: 49 U.S.C. 1354(a), 1355(a), 1421 (as amended by Pub. L. 100-223, December 30, 1967), 1422-1431, and 1502; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983); Pub. L. 100-202, December 22, 1987.
+
+2. By amending Sec. 135.151 by revising paragraph (a), by redesignating existing paragraph (b) as (e), and by adding new paragraphs (b), (c), and (d) to read as follows:
+
+Sec. 135.151 Cockpit voice recorders.
+
+(a) After (2 years after the effective date of this amendment) no person may operate a multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of six or more and for which two pilots are required by certification or operating rules unless it is equipped with an approved cockpit voice recorder that:
+
+(1) Is installed in compliance with Sec. 25.1457(a)(1) and (2), (b), (c), (d), (e), (f), and (g) of this chapter; and
+
+(2) Is operated continuously from the use of the check list before the flight to completion of the final check list at the end of the flight.
+
+(b) After (2 years after the effective date of this amendment) no person may operate a multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration of 20 or more seats unless it is equipped with an approved cockpit voice recorder that-
+
+(1) Is installed in compliance with Sec. 25.1457 of this chapter; and
+
+(2) Is operated continuously from the use of the check list before the flight to completion of the final check list at the end of the flight.
+
+(c) For those aircraft equipped to record the uninterrupted audio signals received by a boom or mask microphone, the flight crewmembers are required to use the boom microphone below 18,000 feet mean sea level.
+
+(d) In complying with this section, an approved cockpit voice recorder having an erasure feature may be used, so that during the operation of the recorder, information:
+
+(1) Recorded in accordance with paragraph (a) of this section and recorded more than 15 minutes earlier; or
+
+(2) Recorded in accordance with paragraph (b) of this section and recorded more than 30 minutes earlier; may be erased or otherwise obliterated.
+
+* * * * *
+
+3. By adding a new Sec. 135.152 to read as follows:
+
+Sec. 135.152 Flight recorders.
+
+(a) No person may operate a multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration, excluding any pilot seat, of 10 to 19 seats, that is brought onto the U.S. register after (1 year after the effective date of this rule) unless it is prewired to accept an approved flight recorder that utilizes a digital method of recording and storing data, and a method of readily retrieving that data from the storage medium. The parameters specified in Appendix B or C, as applicable, of this part must be recorded within the range, accuracy, and recording intervals as specified.
+
+(b) No person may operate a multiengine, turbine-powered airplane or rotorcraft having a passenger seating configuration, excluding any pilot seat, of 10 to 19 seats, that is brought onto the U.S. register after (2 years after the effective date of this rule) unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data, and a method of readily retrieving that data from the storage medium. The parameters specified in Appendix B or C, as applicable, of this part must be recorded within the range, accuracy, resolution, and recording intervals as specified. The recorder shall retain no less than 8 hours of aircraft operation.
+
+(c) After (2 years after the effective date of this amendment) no person may operate a multiengine, turbine-powered airplane having a passenger seating configuration, of 20 to 30 seats or a multiengine, turbine-powered rotorcraft having a passenger seating configuration of 20 or more seats unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data, and a method of readily retrieving that data from the storage medium. The parameters in Appendix D or E of this part, as applicable, must be recorded within the range, accuracy, resolution, and recording intervals as specified.
+
+(d) Whenever a flight recorder required by this section is installed, it must be operated continuously from the instant the airplane begins the takeoff roll or the rotorcraft begins the lift-off until the airplane has completed the landing roll or the rotorcraft has landed at its destination.
+
+(e) Except as provided in paragraph (d) of this section, and except for recorded data erased as authorized in this paragraph, each certificate holder shall keep the recorded data prescribed in paragraph (b) of this section until the aircraft has been operating for at least 8 hours of the operating time specified in paragraph (d) of this section, and each certificate holder shall keep the recorded data prescribed in paragraph (c) of this section until the aircraft has been operating for at least 25 hours of the operating time specified in paragraph (d) of this section. A total of 1 hour of recorded data may be erased for the purpose of testing the flight recorder or the flight recorder system. Any erasure made in accordance with this paragraph must be of the oldest recorded data accumulated at the time of testing. Except as provided in paragraph (d) of this section, no record need be kept more than 60 days.
+
+(f) In the event of an accident or occurrence that requires the immediate notification of the National Transportation Safety Board under 49 CFR Part 830 of its regulations and that results in termination of the flight, the certificate holder shall remove the recording media from the helicopter and keep the recorded data required by paragraph (a) of this section for at least 60 days or for a longer period upon request of the Board or the Administrator.
+
+(g) Each flight recorder required by this section must be installed in accordance with the requirements of Sec. 25.1459 or 29.1459, as appropriate, of this chapter. The correlation required by Sec. 25.1459 or 29.1459(c) as appropriate, of this chapter need be established only on one rotorcraft of a group of rotorcraft.
+
+(1) That are of the same type;
+
+(2) On which the flight recorder models and their installations are the same; and
+
+(3) On which there are no differences in the type design with respect to the installation of the first pilot's instruments associated with the flight recorder. The most recent instrument calibration, including the recording medium from which this calibration is derived, and the recorder correlation must be retained by the certificate holder.
+
+(h) Each flight recorder required by this section that records the data specified in paragraph (a) of this section must have an approved device to assist in locating that recorder under water.
+
+4. By adding new Appendixes B, C, D and E to Part 135, to read as follows:
+
+Appendix B - Airplane Flight Recorder Specifications
+
+Parameters
+
+ Range
+
+ Installed System1 minimum accuracy (to recovered data)
+
+ Sampling interval (per second)
+
+ Resolution readout
+
+ 
+
+Relative Time (From Recorded on Prior to Takeoff). 8 hr minimum ±0.125% per hour 1 1 sec. 
+
+Indicated Airspeed VSO to VD (KIAS) ±5% or ±10 kts., whichever is greater. Resolution 2 kts. below 175 KIAS. 1 1%. 
+
+Altitude -1,000 ft. to max. cert. alt. of A/C ±100 to ±700 ft. (see Table 1, TSO-C51a). 1 25 to 150. 
+
+Magnetic Heading 360° ±5° 1 1°. 
+
+Vertical Acceleration -3g to +6g ±0.2g in addition to max. datum error of -0.1g. 4 (or 1 per second where peaks, ref. to 1g are recorded). 0.03g. 
+
+Longitudinal Acceleration ±1.0g -0.5g in addition to max. datum error of -0.1g 2 0.01g. 
+
+Pitch Altitude 100% of usable ±2° 1 0.8°. 
+
+Roll Altitude ±60° or 100% of usable range, whichever is greater. ±2° 1 0.8°. 
+
+Stabilizer Trim Position
+
+OR
+
+Pitch Control Position Full Range
+
+Full Range ±3% unless higher uniquely required
+
+±3% unless higher uniquely required 1
+
+1 1%.
+
+1%. 
+
+ENGINE POWER, EACH ENGINE 
+
+Fan or N1 Speed or EPR or Cockpit indications Used for Aircraft Certification.
+
+OR
+
+Prop. speed and Torque (Sample Once/Sec as Close together as Practicable). Maximum Range
+
+........................... +5%
+
+......................................... 1
+
+1 (prop Speed)
+
+1 (torque) 1% 
+
+Altitude Rate2 
+
+(need depends on altitude resolution). +8,000 fpm +10%. Resolution 250 fpm below 12,000 ft. indicated. 1 250 fpm below 12,000 
+
+Angle of Attack2 
+
+(need depends on altitude resolution). -20° to 40° or of usable range +2 1 0.8° 
+
+Radio Transmitter Keying (Discrete). On/Off ......................................... 1 .......................................... 
+
+TE Flaps 
+
+(Discrete or Analog) Each discrete position (U, D, T/O, AAP).
+
+OR
+
+Analog 0-100% .........................................
+
++3 1
+
+1 ..........................................
+
+1% 
+
+LE Flaps 
+
+(Discrete or Analog) Each discrete position (U, D, T/O, AAP).
+
+OR
+
+Analog 0 - 100% .........................................
+
++3 1
+
+1 ..........................................
+
+1% 
+
+Thrust Reverser, Each Engine (Discrete). Stowed or full reverse ......................................... 1 .......................................... 
+
+Spoiler/Speedbrake (Discrete) Stowed or out ......................................... 1 .......................................... 
+
+Autopilot Engaged (Discrete) Engaged or Disengaged ......................................... 1 .......................................... 
+
+1 When data sources are aircraft instruments (except altimeters) of acceptable quality to fly the aircraft the recording system excluding these sensors (but including all other characteristics of the recording system) shall contribute no more than half of the values in this column.
+
+2 If data from the altitude encoding altimeter (100 ft. resolution) is used, then either ine if these parameters should also be recorded. If however, altitude is recorded at a minimum resolution of 25 feet, then these two parameters can be omitted.
+
+Appendix C - Helicopter Flight Recorder Specifications
+
+Parameters
+
+ Range
+
+ Installed System1 minimum accuracy (to recovered data)
+
+ Sampling interval (per second)
+
+ Resolution readout
+
+ 
+
+Relative Time (From Recorded on Prior to Takeoff). 8 hr. minimum ±0.125% per hour 1 1 sec 
+
+Indicated Airspeed VM in to VD (KIAS) (minimum airspeed signal attainable with installed pilot-static system). ±5% or ±10 kts., whichever is greater 1 1 kt 
+
+Altitude -1,000 ft. to 20,000 ft. pressure altitude ±100 to ±700 ft. 
+
+(see Table 1, TSO C51-a) 1 25 to 150 ft 
+
+Magnetic Heading 360° ±5° 1 1° 
+
+Vertical Acceleration -3g to +6g ±0.2g in addition to ±0.3g maximum datum 4 
+
+(or 1 per second where peaks ref. to 1g are recorded). 0.05g 
+
+Longitudinal Acceleration ±1.0g ±0.5g in addition to max. datum error of ±0.1g 2 0.03g° 
+
+Pitch Altitude 100% of usable range ±2° 1 0.8° 
+
+Roll Altitude ±60° or 100% of usable range, whichever is greater. ±2° 1 0.8° 
+
+Altitude Rate ±8,000 fpm ±10% Resolution 250 fpm below 12,000 ft. indicated. 1 250 fpm below 12,000 
+
+ENGINE POWER, EACH ENGINE 
+
+Main Rotor Speed Maximum Range +5% 1 1% 
+
+Free or Power Turbine Maximum Range +5% 1 1% 
+
+Engine Torque Maximum Range +5% 1 1% 
+
+FLIGHT CONTROL HYDRAULIC PRESSURE 
+
+Primary (Discrete) High/Low ......................................... 1 .......................................... 
+
+Secondary-if applicable (Discrete). High/Low ......................................... 1 .......................................... 
+
+Radio Transmitter Keying (Discrete) On/Off ......................................... 1 .......................................... 
+
+Autopilot Engaged (Discrete) Engaged or Disengaged ......................................... 1 .......................................... 
+
+SAS Status-Engaged (Discrete) Engaged/
+
+Disengaged ......................................... 1 .......................................... 
+
+SAS Fault Status (Discrete) Fault/OK ......................................... 1 .......................................... 
+
+FLIGHT CONTROLS 
+
+Collective Full range +3% 2 1% 
+
+Pedal Position Full range +3% 2 1% 
+
+Lat. Cyclic Full range +3% 2 1% 
+
+Long. Cyclic Full range +3% 2 1% 
+
+Controllable Stabilator Position Full range +3% 2 1% 
+
+1When data sources re aircraft instruments (except altimeters) of acceptable quality to fly the aircraft the recording system excluding these sensors (but including all other characteristics of the recording system) shall contribute no more than half of the values in this column.
+
+Appendix D - Airplane Flight Recorder Specifications
+
+Parameters
+
+ Range
+
+ Accuracy sensor input to DFDR readout
+
+ Sampling internal (per second)
+
+ Resolution readout
+
+ 
+
+Time (GMT) 24 Hrs. ±0.125% Per Hour 0.25 
+
+(1 per 4 seconds) 1 sec. 
+
+Altitude -1,000 ft. to max. certificated altitude of aircraft. ±100 to ±700 ft 
+
+(See Table 1, TSO-C51a) 1 5' to 35'. 
+
+Airspeed 50 KIAS to VSO, and 
+
+VSO to 1.2VD ±5%, 
+
+±3% interstate 1 1 kt. 
+
+Heading 360° ±2° 1 0.5° 
+
+Normal Acceleration (vertical) -3g to +6g ±1% of max. range excluding datum error of ±5% 8 0.01g. 
+
+Pitch Attitude ±75° ±2° 1 0.5°. 
+
+Roll Attitude ±180° ±2° 1 0.5° 
+
+Radio Transmitter Keying On-Off (Discrete) ......................................... 1 .......................................... 
+
+Thrust/Power On Each Engine Full Range Forward ±2% 1 (per engine) 0.2% 
+
+Trailing Edge Flap Or Cockpit Control Selection Full Range Or Each Discrete Position. ±3° Or As Pilot's Indicator 0.5 0.5% 
+
+Leading Edge Flap Or Cockpit Control Selection Full Range Or Each Discrete Position ±3° Or As Pilot's Indicator 0.5 0.5% 
+
+Thrust Reverser Position Stowed, In Transit, And Reverse (Discrete) ......................................... 1 (per engine) .......................................... 
+
+Ground Spoiler/Speed Brake Selection Full Range Or Each Discrete Position ±2% Unless Higher Accuracy Uniquely Required 1 0.2% 
+
+Marker Beacon Passage Discrete ......................................... ........................... 1 
+
+Autopilot Engagement Discrete ......................................... 1 .......................................... 
+
+Longitudinal Acceleration ±1g ±1.5% max. range excluding datum error of ±5% 4 0.01g 
+
+Pilot input And Surface Position-Primary Controls (Pitch, Roll, Yaw) Full Range ±2 Unless Higher Accuracy Uniquely Required 1 0.01g 
+
+Lateral Acceleration ±1g ±1.5% max. range excluding datum of +5% 4 0.01g 
+
+Pitch Trim Position Full Range ±3% Unless Higher Accuracy Uniquely Required 1 0.3% 
+
+Glideslope Deviation ±400 Microamps ±3% 1 0.3% 
+
+Localizer Deviation ±400 Microamps ±3% 1 0.3% 
+
+AFCS Mode and Engagement Status Discrete (5 bits Necessary) ......................................... 1 .......................................... 
+
+Radio Altitude -20 ft to 2,500 ft ±2 Ft or +3% Whichever is Greater Below 500 Ft and ±5% Above 500 Ft 1 1 ft + 5% above 500' 
+
+Master Warnings Discrete ......................................... 1 .......................................... 
+
+Nav 1 and 2 Frequency Selection Full range As installed 0.25 .......................................... 
+
+DME 1 and 2 Distance 0-200 NM; As installed 0.25 1 Mi 
+
+Main Gear Squat Switch Status Discrete ......................................... 1 .......................................... 
+
+Angle of Attach (If Recorded Directly) As Installed As installed 2 0.3% 
+
+Outside Air Temperature -90 C to +50 C ±2 C 0.5 0.3 C 
+
+Hydraulic, Each System Low Pressure Discrete ......................................... 0.5 or 0.5% 
+
+Groundspeed As Installed Most Accurate Systems Installed (IMS Equipped Aircraft Only) 1 0.2% 
+
+Landing gear or gear selector position. Discrete ......................................... 4 .......................................... 
+
+Appendix E - Helicopter Flight Recorder Specifications
+
+Parameters
+
+ Range
+
+ Accuracy sensor input to DFDR readout1
+
+ Sampling interval (per second)
+
+ Resolution readout
+
+ 
+
+Time (GMT) 24 Hrs ±0.125% Per Hour 0.25 
+
+(1 per 4 seconds) 1 sec. 
+
+Altitude -1,000 ft. to max. certificated altitude of aircraft ±100 to ±700 ft 
+
+(See Table 1, TSO-C51a) 1 5' to 30'. 
+
+Airspeed As the installed measuring system ±3% 1 1 kt. 
+
+Heading 360° ±2° 1 0.5° 
+
+Normal Acceleration (Vertical) -3g to +6g ±1% of max. range excluding datum error of ±5% 8 0.01g 
+
+Pitch Attitude ±75° ±2° 2 0.5° 
+
+Roll Attitude ±180° ±2° 2 0.5° 
+
+Radio Transmitter Keying On-Off (Discrete) ......................................... 1 0.25 sec. 
+
+Power in Each 0-130% (power Turbine Speed) Full range (Torque) ±2% 1 speed 1 torque (per engine) 0.2% to 0.4% 
+
+Main Rotor Speed 0-130% ±2 2 0.3% 
+
+Altitude Rate 6,000 ft./min. As installed 2 0.2% 
+
+Pilot input-Primary Controls (Collective, Longitudinal Cyclic, Lateral Cyclic, Pedal) Full Range ±3% 2 0.5% 
+
+Flight control Hydraulic Pressure Low Discrete, each circuit ......................................... 1 .......................................... 
+
+ENGINE POWER, EACH ENGINE 
+
+Main Rotor Speed Maximum Range +5% 1 1% 
+
+Free or Power Turbine Maximum Range +5% 1 1% 
+
+Engine Torque Maximum Range +5% 1 1% 
+
+FLIGHT CONTROL, HYDRAULIC PRESSURE 
+
+Primary (Discrete) High/Low ......................................... 1 .......................................... 
+
+Secondary-if applicable (Discrete). High/Low ......................................... 1 .......................................... 
+
+Radio Transmitter Keying (Discrete) On/Off ......................................... 1 .......................................... 
+
+Autopilot Engaged (Discrete) Engaged or Disengaged ......................................... 1 .......................................... 
+
+SAS Status-Engaged (Discrete) Engaged/
+
+Disengaged ......................................... 1 .......................................... 
+
+SAS Fault Status (Discrete) Fault/OK ......................................... 1 .......................................... 
+
+FLIGHT CONTROLS 
+
+Collective Full Range +3% 2 1% 
+
+Pedal Position Full Range +3% 2 1% 
+
+Lat. Cyclic Full Range +3% 2 1% 
+
+Long. Cyclic Full Range +3% 2 1% 
+
+Controllable Stabilator Position Full Range +3% 2 1% 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on February 9, 1988.
+
+M.C. Beard,
+
+Director, Office of Airworthiness.
+
+[FR Doc. 88-3009 Filed 2-9-88; 2:23 pm]
+
+BILLING CODE 4910-13-M
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

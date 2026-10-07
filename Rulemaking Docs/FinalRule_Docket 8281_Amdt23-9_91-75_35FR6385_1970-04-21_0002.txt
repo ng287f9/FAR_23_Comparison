@@ -1,0 +1,170 @@
+FINAL RULES: 23-9|91-75
+
+ 
+ 
+        
+CITATION: [Federal Register: April 21, 1970 (Volume 35, Number 77)]
+
+ 
+        
+PAGE NUMBER: [Page 6385]
+
+ 
+        
+DOCKET NUMBER: 8281
+
+ 
+        
+14 CFR PARTS: Part 23|Part 91
+
+ 
+        
+SUBJECT HEADING: Installation and Operating Requirements for Oxygen Equipment and Supply
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of these amendments to Part 23 and 91 of the Federal Aviation Regulations is to provide standards for the installation of oxygen equipment on airplanes certificated under Part 23 and to provide operating requirements for the use of oxygen in aircraft governed by the general operating and flight rules of Part 91.
+
+ 
+        
+DATES: EFFECTIVE DATE: This rule becomes effective June 17, 1970.
+
+ 
+        
+EFFECTIVE DATE: 1970-06-17
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: These amendments are based on, and reflect comments received in response to the notice of proposed rule making published in the Federal Register (32 F.R. 10602) on July 18, 1967, and circulated as Notice 67-30.
+
+ Numerous comments were received in response to Notice 67-30. A number of changes have been made to the proposed rules on the basis of the comments received and further review within the FAA. These changes and the FAA's disposition of the public comments are discussed hereinafter. Editorial revisions have also been made to a number of the proposals for the purpose of clarification. Insofar as these changes are concerned, no substantive change to the proposals is intended. Interested persons have been afforded an opportunity to participate in the making of these amendments, and due consideration has been given to all matters presented. Except as modified by the following discussions, the reasons for these amendments are those contained in the notice.
+
+ Several commentators objected to the proposal on the basis that it would require the owners of small airplanes that are not designed to operate at altitudes where oxygen is required to purchase expensive oxygen equipment for their airplanes. This, however is not the case. The proposal would not require the installation of oxygen equipment on all small airplanes. Oxygen equipment would have to be installed only on small airplanes that are to be used in operations conducted at the altitudes for which supplemental oxygen must be provided and used in accordance with the requirements of Part 91. The need for oxygen in such operations far outweighs any economic burden that may be involved in the installation and maintenance of the oxygen equipment.
+
+ One commentator recommended that the dissemination of educational material describing conditions leading to hypoxia and its affects would be more appropriate or more effective than imposition of the proposed rules. The FAA has already taken steps, through the following publications and programs, to indoctrinate pilots on the subject: (1) Advisory Circular 91-8, "Use of Oxygen by General Aviation Pilots/Passengers," (2) Office of Aviation Medicine Report AM 66-28, "Oxygen in General Aviation," (3) Aviation Medical Education Series No. 4.1, "Oxygen and the Potent Pint," and (4), an oxygen indoctrination program at the Civil Aeromedical Institute, available to all civil aviation pilots and widely publicized in civil aviation magazines and other publications. While the FAA agrees that such educational material is a factor in improving safety, it is not a substitute for the proposed regulations.
+
+ Several commentators suggested revising proposed Sec. 23.1441(a) which states that there must be a means to allow the crew to readily determine during flight the quantity of oxygen available in each source of supply. It was recommended that the proposal be changed to specify a means for determining the remaining number of hours of available oxygen. These commentators are primarily concerned with the pressure gauges being furnished with oxygen systems. They believe that a pressure gauge is not an adequate instrument for determining the quantity of oxygen available. The FAA does not agree. In most instances, a pressure gauge in the oxygen system will indicate the quantity of oxygen available in the source of supply. If, in any particular installation, it is determined that a pressure gauge would not satisfy the requirement, then some other means to allow the crew to determine, during flight, the quantity of oxygen available in each source of supply would have to be provided. In any event, the remaining number of hours of available oxygen can be readily obtained once the quantity of oxygen available in each source of supply is known.
+
+ In response to numerous comments, Sec. 23.1441 has been revised to make it clear that portable oxygen equipment may be used to meet the supplemental oxygen requirements.
+
+ One commentator suggested incorporating a provision in Sec. 23.1443 which would require compliance with the proposed graph (depicting oxygen mass flow rates) only up to the cruising altitude for which type certification of the airplane is desired. The recommendation is premised on the contention that it is unnecessary and economically unreasonable to install oxygen equipment capable of a specified mass flow rate at 40,000 feet if the airplane will be operated at a much lower altitude. The purpose of Sec. 23.1443 is to show the minimum oxygen mass flow rates which would be required for each occupant of an airplane at the corresponding cabin pressure altitudes. The applicant for a type certificate would not be required to install oxygen equipment capable of supplying the minimum oxygen mass flow rates for the entire range of cabin pressure altitudes shown in the graph unless his airplane is capable of operating through the entire range. Accordingly, Sec. 23.1443 is revised to state that the oxygen equipment installed in the airplane must be capable of supplying to each occupant the appropriate flow of oxygen for all altitudes up to and including the maximum operating altitude of the airplane.
+
+ One commentator recommended that the altitude limit of 12,000 feet specified in proposed Sec. 91.32(a)(1) be increased to 12,500 feet to provide an additional westbound VFR cruising altitude. This recommendation has merit. The Federal Aviation Regulations require that an operator must maintain a level cruise flight at any even thousand feet MSL altitude plus 500 feet when operating below 18,000 feet MSL and on a magnetic course 180° through 359°. Accordingly, an increase in the proposed minimum altitude of 12,000 feet to 12,500 feet would provide an additional westbound VFR cruising altitude level without the need for oxygen equipment. The addition of 500 feet to the proposed minimum altitude limit would not have any significant effect on safety. Consistent with that change, it is appropriate to increase the minimum cabin pressure altitude limit for which oxygen mass flow rate is prescribed in Sec. 23.1443 to show 0.8 LPM at 12,500 feet.
+
+ It was recommended that paragraphs (b) and (c) of proposed Sec. 23.1447 be revised to specify that they are applicable only to pressurized airplanes. The commentator asserts that these proposals should not apply to nonpressurized airplanes which are not subject to sudden-decompression occurrences. The FAA agrees and this has been made clear in the final rule. In addition, further FAA studies have shown that for those pressurized aircraft designed to operate at 25,000 feet (MSL) or below, the pilot will have sufficient time to descend to safer altitudes prior to the onset of any symptoms of hypoxia in the event of a sudden decompression. For this reason, the proposal in paragraph (b) of Sec. 23.1447, requiring an oxygen supply terminal and unit of oxygen dispensing equipment within reach of each member of the required minimum flight crew for those airplanes designed to operate at flight altitudes up to and including 25,000 feet, is unnecessary and has not been adopted. 
+
+ Several commentators recommended that the proposed altitude limits of Sec. 91.32(a), at which supplemental oxygen must be provided and used by the flight crew, be lowered to conform with the requirements of FAR Part 121. In support of the recommendation, it is stated that the change is in the interest of uniformity. Under this recommendation, the proposed cabin pressure altitude values in Sec. 91.32(a) at which oxygen must be used by the flight crew of 12,000 feet and 14,000 feet would be reduced to 10,000 feet and 12,000 feet, respectively. However, the FAA is not persuaded that uniformity in the oxygen requirements of Parts 91 and 121 is either necessary or appropriate. Moreover, a change based on this recommendation would constitute a substantive change in the proposal outside the scope of Notice 67-30. At the present time, there are no oxygen requirements whatever in Part 91 for general aviation operations and the proposed requirements constitute an important step forward in this key regulatory area. The FAA does not, therefore, consider that it would be appropriate to delay the issuance of these proposed rules. Nevertheless, the FAA will continue to monitor general aviation operations insofar as these oxygen requirements are concerned and if it is determined that the altitudes in Sec. 91.32(a) should be lowered, additional rule making will be undertaken.
+
+ In contrast to the previous comments, a number of commentators recommended that the proposed altitudes in Sec. 91.32(a) be raised by several thousand feet and that pilots be permitted optional use of oxygen equipment at lower altitudes. The FAA disagrees. Studies have indicated that hypoxia symptoms can develop within 30 minutes at altitudes between 15,000 feet and 18,000 feet. These symptoms include impairment of judgment and vision, excessive self-confidence, disregard for sensory perceptions, poor coordination, sleepiness, dizziness, personality changes, and cyanosis (blueing). The FAA does not believe that a pilot can predict, with any certainty, that he or his passengers would not develop such symptoms during any flight at those altitudes, notwithstanding previous operations which may have been conducted without adverse physical effects.
+
+ There were a large number of comments recommending that the proposal be revised to permit the use of quick donning masks. The recommendations generally followed the requirements currently set forth in Part 121 of the FARs. On the basis of the comments received, the FAA is persuaded that on any aircraft having more than one pilot at the controls, it is not necessary that one pilot breathe oxygen at all times at flight levels below flight level 410 if each flight crewmember at the controls has a quick donning type oxygen mask.
+
+ However, since safety in flight, in the event of a sudden decompression, is dependent upon the rapidity with which the pilot can place the quick donning mask on his face from its ready position, the quick donning mask should be permitted only on the condition that it can be positioned, with one hand, properly secured, sealed, and supplying oxygen, and within 5 seconds. Safety considerations require, however, that one pilot wear and use his oxygen mask when the other flight crewmember leaves his duty station at an altitude above flight level 350.
+
+ Several commentators were concerned about the quantity of supplemental oxygen that would be required for their operations in order to comply with the proposal of Part 91. It was indicated that compliance with the regulations as proposed might mean that the amount of oxygen employable in the event of an emergency would be insufficient and requested a rule change to permit the conservation of the quantity of available oxygen. In support of their request, it was also noted that relatively few airports are equipped for servicing oxygen equipment. In this connection, it was recommended that the proposal be changed to allow the use of oxygen equipment that would be automatically turned on in the event of decompression when the cabin altitude reached 14,000 feet. The FAA considers that this proposal has merit and proposed Sec. 91.32 has been revised accordingly. Such a requirement would permit conservation of oxygen supply until actually needed and would have no adverse effect on safety.
+
+ One commentator suggested that it would be more practicable to use the term "flight level" instead of "mean sea level" in the proposals. The recommendation of the commentator is valid with respect to the relatively high altitudes. FAR Sec. 91.81 prescribes altimeter settings for cruising altitude or flight level of the aircraft, as the case may be. The demarcation limit is 18,000 feet, at and above which the lowest usable flight level is determined by atmospheric pressure in the area of operation. In view of the foregoing, the assigned values for the flight altitudes at and above 18,000 feet are provided in terms of "flight levels" in the final rule. All other references to altitudes in the regulation are provided in terms of MSL (mean sea level).
+
+ Finally; proposed Sec. 91.32 has been revised to make it clear that it applies only to aircraft registered in the United States. It was not the intent of the notice and the FAA does not consider it necessary or appropriate to apply this rule to foreign aircraft.
+
+ 
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendments: In consideration of the foregoing, Parts 23 and 91 of the Federal Aviation Regulations are amended, effective June 17, 1970, as follows:
+
+1. Subpart F of Part 23 is amended by adding new Secs. 23.1441, 23.1443, 23.1447, and 23.1449 to read as follows:
+
+Sec. 23.1441 Oxygen equipment and supply.
+
+(a) If certification with supplemental oxygen equipment is requested, the equipment must meet the requirements of this section and Secs. 23.1443 trough 23.1449. Portable oxygen equipment may be used to meet the requirements.
+
+(b) The oxygen system must be free from hazards in itself, in its method of operation, and its effect upon other components.
+
+(c) There must be a means to allow the crew to readily determine, during the flight, the quantity of oxygen available in each source of supply
+
+(d) Demand flow oxygen equipment, and oxygen equipment for use above 40,000 feet (MSL), must be approved.
+
+Sec. 23.1443 Minimum mass flow of supplemental oxygen.
+
+If continuous flow oxygen equipment is installed for use by occupants of the airplane, the mass flow of supplemental oxygen supplied for each user must be at a rate not less than that shown in the following figure for each altitude up to and including the maximum operating altitude of the airplane:
+
+]
+
+Sec. 23.1447 Equipment standards for oxygen dispensing units.
+
+If oxygen dispensing units are installed, the following apply:
+
+(a) There must be an individual dispensing unit for each occupant for whom supplemental oxygen is to be supplied. Each dispensing unit must:
+
+(1) Provide for effective utilization of the oxygen being delivered to the unit.
+
+(2) Cover the nose and mouth of the user.
+
+(3) Be capable of being readily placed into position on the face of the user.
+
+(4) Be equipped with a suitable means to retain the unit in position on the face.
+
+(b) For a pressurized airplane designed to operate at flight altitudes above 25,000 feet (MSL), an oxygen dispensing unit connected to an oxygen supply terminal must be immediately available to each occupant, wherever seated.
+
+Sec. 23.1449 Means for determining use of oxygen.
+
+There must be a means to allow the crew to determine whether oxygen is being delivered to the dispensing equipment.
+
+2. Part 91 is amended by adding a new Sec. 91.32 to read as follows:
+
+Sec. 91.32 Supplemental oxygen.
+
+(a) General. No person may operate a civil aircraft of U.S. registry-
+
+(1) At cabin pressure altitudes above 12,500 feet (MSL) up to and including 14,000 feet (MSL), unless the required minimum flight crew is provided with and uses supplemental oxygen for that part of the flight at those altitudes that is of more than 30 minutes duration;
+
+(2) At cabin pressure altitudes above 14,000 feet (MSL), unless the required minimum flight crew is provided with and uses supplemental oxygen during the entire flight time at those altitudes; and
+
+(3) At cabin pressure altitudes above 15,000 feet (MSL), unless each occupant of the aircraft is provided with supplemental oxygen.
+
+(b) Pressurized cabin aircraft. (1) No person may operate a civil aircraft of U.S. registry with a pressurized cabin-
+
+(i) At flight altitudes above flight level 250, unless at least a 10-minute supply of supplemental oxygen in addition to any oxygen required to satisfy paragraph (a) of this section, is available for each occupant of the aircraft for use in the event that a descent is necessitated by loss of cabin pressurization; and
+
+(ii) At flight altitudes above flight level 350, unless one pilot at the controls of the airplane is wearing and using an oxygen mask that is secured and sealed, and that either supplies oxygen at all times or automatically supplies oxygen whenever the cabin pressure altitude of the airplane exceeds 14,000 feet (MSL), except that the one pilot need not wear and use an oxygen mask while at or below flight level 410 if there are two pilots at the controls and each pilot has a quick-donning type of oxygen mask that can be placed on the face with one hand from the ready position within five seconds, supplying oxygen and properly secured and sealed.
+
+(2) Notwithstanding subparagraph (1) (ii) of this paragraph, if for any reason at any time it is necessary for one pilot to leave his station at the controls of the aircraft when operating at flight altitudes above flight level 350, the remaining pilot at the controls shall put on and use his oxygen mask until the other pilot has returned to his station.
+
+(Secs. 318(a), 601, and 603, Federal Aviation Act of 1958, 49 U.S.C. 1354(a), 1421, and 1428; sec. 6(c), Department of Transportation Act, 49 U.S.C. 1655 (c))
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on April 13, 1970.
+
+J.H. Shaffer,
+
+Administrator.
+
+[FR Doc. 70-4758 Filed 4-20-70; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 67-30; Issued on 07/11/67.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

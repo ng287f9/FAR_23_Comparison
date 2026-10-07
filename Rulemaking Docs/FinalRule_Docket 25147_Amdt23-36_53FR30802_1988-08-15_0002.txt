@@ -1,0 +1,888 @@
+FINAL RULES: 23-36
+
+ 
+ 
+        
+CITATION: [Federal Register: August 15, 1988 (Volume 53, Number 157)]
+
+ 
+        
+PAGE NUMBER: [Page 30802]
+
+ 
+        
+DOCKET NUMBER: 25147
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Small Airplane Airworthiness Review Program, Amendment No. 1
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: This amendment to Part 23 of the Federal Aviation Regulations upgrades the standards for cabin safety and occupant protection during emergency landing conditions for airplanes type certificated to the airworthiness standards of Part 23. This action is based on the results of research testing, service experience, and a number of issues discussed at the Small Airplane Airworthiness Review Conference, held October 22-26, 1984. This amendment is intended to increase small airplane occupant protection during emergency landing conditions.
+
+ 
+        
+DATES: EFFECTIVE DATE: September 14, 1988.
+
+ 
+        
+EFFECTIVE DATE: 1988-09-14
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Ronald K. Rathgeber, Aerospace Engineer, Standards Office (ACE-110), Aircraft Certification Division, Central Region, Federal Aviation Administration, Room 1656, 601 East 12th Street, Kansas City, Missouri 64106; telephone (816) 374-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Regulatory History
+
+ This amendment is based on Notice of Proposed Rulemaking, Notice No. 86-19, published in the FEDERAL REGISTER on December 12, 1986 (51 FR 44878). All comments received in response to Notice No. 86-19 were considered in adopting this amendment.
+
+Background
+
+ The FAA announced its Small Airplane Airworthiness Review Program in Notice No. CE-83-1 in the FEDERAL REGISTER on January 31, 1983 (48 FR 4290), and invited all interested persons to submit proposals for consideration. The review program goal is to provide an opportunity for the public to participate in improving, updating, and developing the airworthiness standards applicable to small airplanes, as set forth in Part 23. When applicable, the review program is extended to the new commuter category requirements because the commuter category incorporated existing small airplane requirements as set forth in Amendment No. 23-34 (52 FR 1806; January 15, 1987) of Part 23.
+
+ In Notice No. CE-83-1A, published in the FEDERAL REGISTER on June 9, 1983 (48 FR 26623), the FAA extended the period for submission of proposals, invited by Notice No. CE-83-1, to May 3, 1984.
+
+ Prior to the FAA's announcement of the Part 23 Review Program, the General Aviation Safety Panel (GASP), representing a broad constituency from the general aviation community, was formed at the request of the FAA for the purpose of recommending regulatory and nonregulatory means by which the FAA could improve general aviation safety. As a result of numerous GASP technical working sessions, the panel submitted proposals for enhanced cabin safety and occupant protection in small airplanes. These proposals were supported by data from FAA and National Aeronautics and Space Administration (NASA) Research programs. The GASP proposals were included in the approximately 560 proposals received in response to Notice Nos. CE-83-1 and CE-83-1A.
+
+ Following receipt of the proposals, the FAA published Notice No. CE-84-1 on July 25, 1984 (49 FR 30053), containing the availability of agenda, compilation of proposals, and announcement of the Small Airplane Airworthiness Review Program Conference. The conference was held on October 22-26, 1984, in St. Louis, Missouri. A copy of the transcript of all discussions held during the conference is filed in FAA Regulatory Docket No. 23494.
+
+ After reviewing the proposals and public comments received at the conference, the FAA's first related rulemaking action concentrated on updating safety standards related to cabin safety and improved crashworthiness. On December 12, 1986, the FAA published Notice No. 86-19, titled "Small Airplane Airworthiness Review Program Notice No. 1" in the FEDERAL REGISTER (51 FR 44878). Notice No. 86-19 proposed changes to Sections 23.561, 23.783, 23.785, 23.787, and 23.807, and included a new Section 23.562, which proposed dynamic testing and evaluation requirements for the seat/restraint systems of small airplanes.
+
+ At the time Notice No. 86-19 was developed, the FAA was also considering the adoption of an additional category of airplane within Part 23. On November 15, 1983, the FAA published Notice No. 83-17 in the FEDERAL REGISTER (48 FR 52010), which proposed certification procedures, airworthiness and noise standards, and operating rules for a commuter category airplane. Notice No. 83-17 proposed to include additional airworthiness standards for airplanes with a maximum seating capacity, excluding pilot seats, of 19 or less and a maximum certificated takeoff weight of 19,000 pounds or less. Final action for the adoption of standards for the commuter category airplane was not complete when Notice No. 86-19 was published and, as a result, the commuter category airplane was not specifically addressed in the proposals made in Notice No. 86-19. With the exception of dynamic testing of seats and shoulder harness requirements, the proposals in Notice No. 86-19 were formulated to be compatible with the requirements in the proposed commuter category. The background information of Notice No. 86-19 noted the pending rulemaking activity of Notice No. 83-17 and the FAA plans for considering additional requirements for the commuter category airplane. The FAA has initiated a rulemaking project to address dynamic testing of seats and occupant protection for commuter category airplanes.
+
+ Part of the outcome of Notice No. 83-17 was adoption of Amendment No. 23-34, published in the FEDERAL REGISTER on January 15, 1987 (52 FR 1806). That rulemaking action, in part, added the airworthiness standards for commuter category airplanes to Part 23, and added new requirements to certain sections of Part 23 which were proposed to be changed by Notice No. 86-19. Therefore, the final rulemaking action resulting from Notice No. 86-19 has been prepared with consideration for both public comments to Notice No. 86-19 and the changes to Part 23 resulting from Amendment No. 23-34.
+
+Discussion of Comments
+
+General
+
+ Interested persons were invited to participate in the development of this final rule by submitting written data, views, or arguments to the regulatory docket on or before June 12, 1987. In response to Notice No. 86-19, the FAA received nine sets of comments. Substantive changes and changes of an editorial nature have been made to the proposed rules based on both relevant comments received and further review by the FAA. One commenter supports these rules and refers to this set of regulatory changes as a significant safety consideration. Another commenter is concerned that, if these proposed rules are not incorporated, extended periods of research will follow before any improved seat standards are incorporated. The FAA recognizes the significance of this project and has prepared this final action as a result of the issues in the notice. A number of editorial changes have been made to this final rule for compatibility with the text of recently adopted Amendment No. 23-34. The proposals, comments, and substantive changes are discussed below.
+
+Discussion of Comments to Specific Sections of Part 23
+
+ The following comments and discussions are keyed to like-numbered proposals in Notice No. 86-19:
+
+ Proposal 1-1. This proposal contains the authority citation for Part 23.
+
+ Proposal 1-2. This proposal would reorganize Section 23.561, make reference to a new Section 23.562, add strength requirements for the retention of items of mass in normal, utility, and acrobatic category airplanes, and state turnover requirements in objective terms which include the variables to be considered in determining the likelihood of a turnover during emergency landing conditions. This proposal was made as a result of proposals 218, 219, 220, 221, 222, and 518 presented at the Small Airplane Airworthiness Review Conference.
+
+ One commenter states the need to provide emergency landing static load factors for commuter category airplanes. Amendment No. 23-34 adopted certification requirements for the commuter category airplane in Part 23, which include emergency landing static load factors for commuter category airplanes.
+
+ One commenter proposes replacing the term "minor crash landing" in proposed Section 23.561(b) with the term "emergency landing conditions" to add consistency. The same commenter suggests replacing the words "escape serious injury" with the words "designed to protect each occupant." The FAA agrees, and the wording proposed by the commenter is used in Section 23.561(b). Also, as a result of the previous comment, emergency landing static load factors for all categories of Part 23 airplanes are set forth in Section 23.561(b) of this final rule.
+
+ One commenter proposes that the ultimate static load factors of proposed Section 23.561(d) be changed so that the upward load factor is 4.5g, the sideward load factor is 4.5g, and a rearward load factor of 1.5g is added, and suggests these load factors apply to all Part 23 airplanes. The commenter offers no technical basis for support of these load factors. Since the commenter's proposals go beyond the scope of the notice and are unsupported, they are not incorporated in this final rule.
+
+ Several comments address proposed Section 23.561(b)(3), which stated restraint requirements for items of mass in the cabin. Some of these comments also address the specific load factors for items of mass shown in proposed Section 23.561(d). One commenter recommends that the load factors referenced by proposed Section 23.561(b)(3) be changed to match those proposed for transport airplanes in Notice No. 86-11, which was published in the FEDERAL REGISTER on July 17, 1986 (51 FR 25982). The development of the proposed static load requirements for items of mass, as proposed in Section 23.561(b)(3), was a part of the development of the seat/restraint system dynamic tests proposal of the GASP. Although the GASP originally recommended that items of mass be dynamically tested, the FAA and the GASP subsequently
+
+concluded that, for evaluating the retention of items of mass in the cabin, a static test, to the proposed ultimate static load
+
+factors, achieves the intent of the original dynamic test conditions at a significant decrease in certification cost to the applicant and achieves the increase in cabin safety intended by the GASP recommendations.
+
+ Another commenter agrees with the 4.5g sideward load factor for items of mass, but disagrees with the proposed 18g forward load factor. The commenter states that experience indicates that the existing 9g forward load requirement has resulted in adequate static strength. The FAA does not consider the 9g load factor sufficient for the level of cabin safety proposed in Notice No. 86-19. Actual crash demonstration tests conducted in a joint FAA/NASA project provided data which showed that impact loads during simulated survivable crashes could exceed 9g in the longitudinal axis. NASA Technical Paper 2083, dated November 1982, titled, "Correlation and Assessment of Structural Airplane Crash Data With Flight Parameters at Impact" is one of several reports which evaluate the results of the FAA/NASA small airplane crash test project. As proposed by the GASP, the purpose of the proposed static load factors is to ensure that the attachments of items of mass in the cabin are adequately restrained considering the enhanced cabin safety provided by other sections of this final rule, including the new requirements in Section 23.562 for dynamic tests of seat/restraint systems. This commenter proposes changing Section 23.561(b)(3) to require that equipment and other large mass items be positioned so that, if they break loose, they are unlikely to cause injury to the occupants, penetrate fuel lines, or block exits after an emergency landing. The FAA disagrees. For many small airplane designs, the concept of locating all items of significant mass, particularly cargo, at a location in the cabin which will ensure no occupant injury or fuel system penetration during impact is impractical. The higher load factors for items of mass are necessary in this final rule to ensure that the attachment strength for mass items in the cabin is adequate with the seat/restraint system dynamic load conditions of Section 23.562(b). The higher static load factors are expected to prevent injuries which could result from mass items coming loose during an emergency landing ground impact.
+
+ One commenter suggests that a rearward load factor of 1.5g be added to the proposed ultimate static load factors to ensure that items, such as rear-facing compartments, do not fail due to rebound loads resulting in the contents falling on occupants below the compartment. The FAA understands the commenter's concern and will evaluate the need for such requirements for future rulemaking action. Since the suggestion goes beyond the scope of the notice, it has not been adopted in this final rule. 
+
+ One commenter concludes that the addition of the table of static load factors for items of mass will lead to
+
+ inconsistencies when another section of Part 23 refers to the emergency landing conditions of Section 23.561. In consideration of this comment and the rule changes made with Amendment No. 23-34, several editorial changes have been made to Section 23.561. The emergency landing ultimate static load factors, which apply in general to all categories of Part 23 airplanes, have been put in Section 23.561(b)(2). The reference to Section 23.562 in proposed Section 23.561(b) is removed.
+
+ Several comments were received regarding the proposed Section 23.561(c) which stated requirements for occupant protection from turnover. One commenter asks for clarification of this proposal and concludes that the intent of this
+
+requirement is to evaluate the turnover case as a static rather than a dynamic condition. The FAA agrees with this interpretation, and it is not the intent of the FAA for turnover protection to be evaluated as a dynamic condition such as the seat/restraint system dynamic tests requirements of Section 23.562. This commenter also concludes that, using the proposed criteria for establishing the likelihood of a turnover in proposed Section 23.561(c), almost all tricycle landing gear
+
+airplanes will show a likelihood to turn over. The commenter neither provides any technical data to support this concern, nor
+
+proposes any alternate criteria. As noted in the explanation to this proposed rule in the notice, although airplanes configured
+
+with tricycle landing gear are inherently resistant to turnover during normal operations, FAA accident/incident data showed that tricycle gear small airplanes have turned over during emergency landing conditions (including incidents of undershoot, overshoot, loss of directional control, etc.). These data revealed that the frequency of turnover of high-wing, tricycle gear airplanes is higher than for low-wing, tricycle gear airplanes; however, the data showed that low wing tricycle gear small airplanes also turn over during emergency landing conditions with sufficient frequency that the likelihood of turnover should be investigated for these airplanes also. Some recent designs of low-wing tricycle gear small airplanes feature a sliding transparent canopy which provides very little occupant protection in turnover. The proposed conditions for evaluating turnover are compatible with the level of safety provided by the other requirements of Section 23.561, and the FAA considers the requirements of proposed Section 23.561(c) to be rational criteria for evaluating the likelihood of turnover during emergency landing conditions.
+
+ One commenter suggests that the wording of proposed Section 23.561(c)(1) and (2) be changed to require turnover evaluation in the most adverse combination of all-up-weight and center-of-gravity position. The FAA disagrees since all-up-weight is not a defined term used in Part 23. The forward center-of-gravity position is usually the most critical for turnover evaluation. Another commenter suggests that proposed Section 23.561(c)(6) be designated as Section 23.561(d) and that proposed Section 23.561(d) be designated Section 23.561(e). The FAA agrees that, while paragraphs (1) through (5) of proposed Section 23.561(c) provide criteria for determining the likelihood of a turnover, paragraph (6) defines requirements for the loads to be applied to the inverted airplane after a turnover, for evaluating the occupant protection provided by the airframe. In response to this comment and other editorial changes made to Section 23.561, proposed Section 23.561(c) is designated Section 23.561(d) and reformatted for clarity in this final rule and present Section 23.561(c) is retained.
+
+ Proposal 1-3. Proposed Section 23.562, Emergency landing dynamic conditions, would add dynamic test requirements to be applied to seat/restraint systems used in normal, utility, and acrobatic category airplanes, and contain specific test parameter values and pass/fail criteria. For the purpose of these requirements, the seat/restraint system includes the seat and its immediate attachments to seat rails or the airframe, the safety belt and shoulder harness, and any fittings or assemblies used to attach them to the seat or airframe. The proposal was the result of a GASP submittal to the Small Airplane Airworthiness Review Conference (proposal 518), was based on state-of-the-art technology, and was supported by the consensus of the general aviation community represented at the conference.
+
+ The specific dynamic test conditions in Section 23.562 are supported by several research studies including: (1) A series of full-scale crash impact "drop tests" conducted by the National Aeronautics and Space Administration (NASA), (2) accident evaluation information from the National Transportation Safety Board (NTSB), (3) dynamic tests conducted by the FAA Civil Aeromedical Institute (CAMI), and (4) generally accepted human impact injury criteria developed by the military and other sources.
+
+ Several technical issues discussed at the conference with regard to this proposal were addressed in Notice No. 86-19. With regard to the variations in impact deceleration amplitude and duration between the first row of seats and the seats behind the first row, it was noted in the notice that crash test data indicate that these parameters vary with the seat location in small airplanes due to load attenuation by the airframe structure. Since the initial impact velocity is a constant at
+
+any point in the airframe, the test velocities proposed in the notice do not vary depending on seat location. This ensures that
+
+all seats will be evaluated for the same level of kinetic energy. Full scale impact tests at NASA have provided data to validate these concepts. Tests of full-scale hardware, using anthropomorphic test dummies (ATD's) create the most accurate simulation of actual emergency landing conditions. The ATD weight of 170 pounds is considered a nominal weight for the occupants of small airplanes. Higher weights were not proposed because a nominal weight results in the most acceptable evaluation of the energy absorbing and load limiting capabilities of the seat/restraint system. The 50th percentile male ATD, defined in National Highway Traffic Safety Administration Regulation, 49 CFR Part 572, Subpart B, was cited because the specifications for this ATD were readily available to the public. Military and automotive testing, which used the Part 572 ATD, provided a data base for evaluating the results of dynamic testing using this dummy.
+
+ The test conditions of proposed Section 23.562(b)(1) required a 60-degree pitched orientation of the seat relative to
+
+the velocity vector and were intended to create a predominantly vertical deceleration input to assess the occupant spinal
+
+ protection provided by the seat/restraint system. This test condition has a longitudinal component of deceleration to simulate a more realistic impact environment where the restraint system is loaded by the initial impact.
+
+ The test conditions of proposed Section 23.562(b)(2) required a 10-degree yaw of the seat relative to the velocity
+
+vector, and were intended to create a predominantly longitudinal deceleration input to assess the occupant restraining capability of the seat/restraint system. The 10-degree yaw was intended to provide a test condition which would ensure that the seat/restraint system would provide the capability to restrain the occupant during impact conditions with a side load component. Floor warpage requirements were included in the proposal to assess the ability of the seat/restraint system to function and maintain structural integrity after floor deformation has occurred.
+
+ A number of comments were received concerning the overall concept of dynamic testing of seat/restraint systems. Three commenters state their support of the basic concepts of this program, and one of these commenters states concern that if the requirements proposed in the notice are not incorporated, an extended period of additional research will follow before any improved seat standards are incorporated. The dynamic seat test requirements proposed in Notice No. 86-19 and incorporated in this final rule are supported by extensive research and testing done in support of the FAA Crash Dynamics Program and the GASP proposal.
+
+ One commenter suggests changing the term "upper torso restraint system" used in proposed Section 23.562(b)(2) and proposed Section 23.562(c)(6) to the words "shoulder harness". As a result of this comment, the FAA reviewed the terms used throughout the proposed rules of Notice No. 86-19. In this amendment, terms related to occupant seats or belt restraints, are used to improve clarity and standardization. These terms include the Shoulder Harness, also known as the upper torso restraint, which refers to that portion of the torso restraint system which includes one or more straps that pass over the shoulders and restrains the upper torso of the occupant and the Torso Restraint System, which refers to that system used for providing torso restraint which includes the safety belt, the shoulder harness if provided, and the associated hardware used to attach the system to the seat or airframe structure. Therefore, the change proposed by this commenter is not adopted.
+
+ One commenter considers the design criteria of proposed Section 23.562 to be arbitrary since each crash situation is different. The FAA disagrees. The occupant protection criteria in this section are based on extensive research data. These criteria were intended to provide conservative, but reasonable, standards for the occupant protection provided by seat/restraint systems developed for use in small airplanes. This commenter proposes the use of a simplified dynamic test which would not require the use of an ATD and other associated test equipment. The test procedure proposed by the commenter would require instrumenting the seat to ensure that the test pulse meets the requirements and would require performance criteria based on seat deformation without failure. The FAA does not agree with the simplified approach because it does not provide for the evaluation of all the occupant injury protection features required in proposed Section 23.562(c). The FAA knows of no simple dynamic test procedure which will provide human-like load distributions on the seat/restraint system without using an ATD. Since the comment does not provide for occupant injury protection evaluation and does not provide technical data to show that the simplified procedure would provide an equivalent level of safety to that proposed in Notice No. 86-19, the simplified procedure is not adopted.
+
+ One commenter suggests that a static test be required, in lieu of the proposed dynamic tests, which would require that first a minimum static load be reached before allowing any deformation of the seat, followed by an ultimate load test for
+
+which a determined amount of yielding must be evident. This commenter suggests that minimum load factors in the longitudinal axis be 8g prior to any permanent deformation and 12g for failure or excessive deformation which would impede rapid evacuation. The FAA does not agree because this procedure would not provide data for evaluating the occupant motion or loading criteria which would be required by the proposed rule. Experience has shown that static deformation requirements may conflict with the seat/restraint system performance under dynamic conditions. The FAA agrees with the concept of developing seat assemblies which will limit occupant loads by yielding at one predefined load while maintaining structural integrity up to another higher load; however, available static test methods alone cannot provide the data necessary to evaluate the occupant protection provisions of these seat/restraint systems.
+
+ One commenter suggests that improved safety would be achieved by requiring upper torso restraints in all airplanes produced after a certain date. Requirements to this effect were added to Part 23 with Amendment No. 23-32. Part 23 now requires that each normal, utility, or acrobatic category airplane manufactured after December 12, 1986, must protect each occupant from serious head injury by a safety belt and shoulder harness for forward- and aft-facing seats, and a restraint means for other seat orientations that provides an equivalent level of occupant protection.
+
+ One commenter suggests that measurements be made during dynamic testing to ensure that the attachment loads are no greater than those for a 9g acceleration, since a 9g forward load factor is the current structural requirement. The FAA agrees that evaluating the reaction loads at the floor attachments during the dynamic seat test can provide useful data for
+
+structural design; however, the airframe support structure was not included in the dynamic tests of the seat/restraint system.
+
+This comment goes beyond the scope of the notice. It is unrealistic to apply loads, measured on a rigid test fixture during dynamic tests, as static loads to less rigid airframe structure. During an emergency landing impact, the airplane floor structure will typically yield under severe local loads, and this will tend to alter the attachment loads at the seat/restraint system interface to the airframe structure. Incorporating procedures to include airframe structure in the dynamic tests of proposed Section 23.562 would greatly increase the complexity and costs of these tests. Airframe structure supporting the seat/restraint system must meet the static strength requirements of Section 23.561 and other sections of Part 23. Therefore, this final rule does not require measurement of attachment loads, although such measurements may provide useful design information.
+
+ One commenter is concerned that the proposed rule would restrict, if not eliminate, refurbishing older airplanes with new seats or shoulder harnesses. The FAA disagrees. These requirements are intended to apply to airplanes which will
+
+ include this amendment to Part 23 as part of their type certification basis. For modifications of previously certificated airplanes, the applicant is required to comply with the original type certification basis for the airplane; however, the FAA considers it in the best interest of the modifier to demonstrate the highest level of occupant protection possible. The dynamic test procedures in Section 23.562 provide a method for demonstrating that new seat/restraint system designs offer a significant increase in occupant protection.
+
+ One commenter suggests that the proposed dynamic test requirements should not apply to seats installed in single-
+
+engine airplanes weighing less than 3,000 pounds. The commenter argues that, for this size airplane, the impact energy is low, in some designs the seats are integrated to the airframe, and dynamic seat tests are too expensive. The FAA has no unique category or certification rules for airplanes of less than 3,000 pounds. Although these smaller airplanes typically have emergency landings at lower velocities than heavier airplanes with higher stall speeds, the airframe structure of these smaller airplanes provides less energy attenuation capabilities. Since the FAA cannot quantify the trade-offs of airplane velocity to airframe size with regard to impact severity, one set of tests was proposed for all normal, utility, and acrobatic category airplanes. Therefore, only one set of criteria is adopted in this final rule.
+
+ Several comments address specific technical aspects of the proposed Section 23.562. One commenter supports the test parameters of both the vertical and longitudinal tests as proposed and agrees that these proposed requirements will result in a substantial improvement in the dynamic strength capabilities of small airplane seats. This commenter also supports the performance criteria which limit the impact loads for the occupant's head and lumbar spine.
+
+ One commenter suggests that floor misalignment in the roll axis be added to the floor warpage requirements of proposed Section 23.562(b)(2) and that these floor warpage provisions be added to the requirements of Section 23.562(b)(1). The FAA agrees with adding floor deformation preload in the roll axis to the longitudinal test conditions prescribed in proposed Section 23.562(b)(2). This paragraph provides for a test of the occupant retention strength of the seat/restraint system. Floor deformation preloading is an important aspect of this test, and floor warp in both the pitch and roll axes is possible during an emergency landing. The FAA disagrees with adding floor deformation preload requirements to the test conditions of proposed Section 23.562(b)(1). This paragraph provides for test parameters intended to evaluate the energy absorbing capability of the seat under repeatable conditions to demonstrate a minimum level of occupant protection. Floor warp preloads will add complexities to this test which may adversely affect the evaluation of the energy absorbing capability of the seat/restraint system. To add clarity and ensure that floor warpage is understood to be a preload condition, to be set prior to conducting the dynamic test, the floor deformation requirements in proposed Section 23.562(b)(2) are removed, and the expanded requirements are set forth in Section 23.562(b)(3) of this final rule.
+
+ One commenter questions the rationale for lesser test loads for the rear seats, and suggests that all occupants should be equally protected to 26g. This issue was discussed at the Small Airplane Airworthiness Review Conference and was addressed in Notice No. 86-19. Full-scale impact tests of small airplanes, conducted as part of a joint FAA/NASA project, resulted in data which indicate that impact deceleration levels reduce the farther aft an occupant is sitting in a small airplane. This is a result of local structural yielding of the airframe. Consequently, the closer the occupant is to the initial impact point, the higher the deceleration rate, even though the velocity change is the same for all occupants. This is the result of additional airframe yielding between the front and aft seats. These full scale impact test data also showed that the period of the impact pulse was, in general, greater for aft seat occupants than for front-seat occupants as a result of the effects of structural yielding during the impact. For seats aft of the front row, the proposed dynamic test criteria would require test parameters which have lower peak deceleration rates and longer impact times than the front seats. These test conditions are justified by the FAA/NASA full scale drop test data. Since the commenter offers no technical data to support the position that the same impact parameters should be applied to all seats, the criteria for the test parameters are adopted as proposed in the notice.
+
+ One commenter suggests that these new regulations should consider the loads imposed on a seat by the occupant seated behind the system being evaluated, or these rules should provide appropriate limitations for seat pitch (spacing). The FAA disagrees with this concept for small airplane seat evaluations for several reasons. Part 23 currently requires that normal, utility, and acrobatic category airplanes, manufactured after December 12, 1986, must be equipped with a safety belt and shoulder harness. These restraint systems are intended to limit occupant motion during impact. The limited occupant motion will reduce the severity of any contact the occupant will have with the adjacent seat or structure. The addition of multiple row dynamic testing would significantly increase the cost and complexity of these tests. Multiple row testing goes beyond the scope of Notice No. 86-19.
+
+ Two commenters suggest that the requirements in Section 23.562(b) should allow the use of a properly validated analysis. Proposed Section 23.562(d) would allow the applicant to use an alternate means of compliance to this rule, provided that the alternate method results in a level of safety as great as, or greater than, that established by the rule. Proposed Section 23.562(d) has been retained in this final rule except the words "paragraph (c) of" have been removed for clarity. Therefore, the FAA considers the intent of the comments to be achieved by Section 23.562(d).
+
+ One commenter is concerned that the specific ATD defined by 49 CFR Part 572, Subpart B, will not always be available. The specified ATD has been the standard used by the automotive industry for many years. Because the results of dynamic tests can be significantly affected by the specific ATD used, the FAA considers it necessary to specify a standard ATD for showing compliance to the requirements of Section 23.562. However, several other ATD designs have been manufactured, and the FAA is monitoring the development of new ATD designs. If an applicant desires to use a different ATD configuration for showing compliance with Section 23.562, the applicant must show that use of the substitute ATD will not significantly affect the test results and obtain FAA approval to use an alternate ATD design prior to conducting certification tests.
+
+ One commenter is not sure if the term "level landing attitude" used in proposed paragraphs (1) and (2) of Section
+
+23.562(b) is intended to have the same meaning as used in Section 23.479(a). The intent is substantially the same as the meaning of "level landing attitude" in Section 23.479(a); however, this does imply the need to do dynamic tests of the airframe structure. The intent is to apply these tests to the seat, restraint system, and immediate attachments. Therefore, in this final rule, the seat orientation is described relative to the test impact vector, and the term "level landing attitude" is
+
+removed.
+
+ Several editorial comments were received. One commenter suggests the rule require the test dummy to be seated in the normal upright position. This commenter also suggests that units of time and acceleration be added to the equation in proposed Section 23.562(c)(5). These comments are incorporated in this final rule for clarity. One commenter suggests that the words "seats or" be added between the words "the" and "seating devices" in the last sentence of proposed Section 23.562(b)(2). In consideration of this comment and for more consistency with other rules regarding the occupant seating systems, the words "seat, or other seating device" in proposed paragraphs (1) and (2) of Section 23.562 are replaced with the words "seat/restraint system" in this final rule. In addition, the term "seat/restraint system" is used throughout this final rule to refer to any system used to provide the primary means to support a seated occupant and restrain the occupant during emergency landing conditions. One commenter suggests replacing the phrase "if the shape of the input pulse deviates significantly from a symmetric triangle" in proposed Section 23.562(b)(3), with the phrase "in order to approximate a symmetric triangle." The commenter considers the words "deviates significantly" to be too nebulous to define the outer limits of compliance. The specific criteria of the impact pulse condition is based on the concept that in the ideal case, the shape of this pulse would approach that of a symmetric triangle, which was supported by NASA analysis of the full-scale small airplane crash test data; however, most impact test facilities will have difficulty producing asymmetric triangular pulse. Although the FAA considers the symmetric triangular pulse to be the optimum, the objective of the required dynamic tests can be met by impact pulses producible in many available test facilities, provided the impact pulse has the necessary test velocity, and reaches the necessary minimum deceleration level within a specified time limit. Therefore, this final rule does not specify a triangular pulse. The proposed paragraph (3) of Section 23.562(b) is omitted and, as previously noted, is replaced by a new paragraph (3) which contains clarified floor warpage requirements.
+
+ Several commenters express concern about the costs of conducting dynamic tests on seat/restraint systems. One
+
+commenter bases cost estimates on the assumption that airframes would have to be provided and that test rigs would have to be developed and built. The FAA disagrees. In most cases, only the attachment devices for the seat and restraint system need be provided and test facilities are available to conduct the tests at a reasonable fee. Dynamic testing of seats presently costs from $2,000 to $5,000 and these costs are expected to decrease as a result of increased testing of seat/restraint systems to be used in Part 23 and Part 25 airplanes. This commenter further suggests that the FAA conduct the dynamic testing of seat/restraint systems. The FAA disagrees. Conducting the tests and showing compliance by the FAA would be contrary to U.S. certification processes whereby any FAA tests are only to validate previous tests conducted by the applicant. The FAA concludes that this testing should be left to private industry and that there are adequate test facilities available in the United States.
+
+ Three commenters from outside of the United States are concerned about the lack of dynamic test facilities in their
+
+countries and the costs involved in building such facilities. The FAA concludes that more facilities will become available as a result of foreign nations requiring dynamic testing for transport category airplane seats and the concern about crashworthiness in automobiles. In addition, foreign manufacturers can make use of U.S. facilities.
+
+ Proposal 1-4. This proposal would add several new requirements for external doors to Section 23.783 and was the
+
+result of proposals 281 and 282 of the Small Airplane Airworthiness Review Conference. Proposed Section 23.783(c) would add requirements for a locking means for external passenger doors. This paragraph would require that: (1) Each external
+
+passenger door provide a means to lock and safeguard against inadvertent opening in flight; (2) these doors be openable from the inside and outside when the internal locking mechanism is in the locked position; (3) the opening means be simple, easily located, and operated in darkness; and (4) each of these doors meet particular marking requirements. Proposed Section 23.783(d) would require that each external passenger door be free of jamming as a result of fuselage deformation during a minor crash or emergency landing. Proposed Section 23.783(e) would add several requirements applicable to external doors forward of any engine or propeller and to all doors of the pressure vessel of a pressurized airplane. Proposed Section 23.783(e)(1) would require that these doors be provided with a means to be locked and safeguarded against inadvertent opening or mechanical failure. Proposed Section 23.783(e)(2), would require provisions for direct visual inspections of the locking mechanisms of each external door for which the initial opening movement is not inward. The proposed paragraph would also require that these provisions be discernible in operating lighting conditions by a crewmember using a flashlight or equivalent. Proposed Section 23.783(e)(3) would provide requirements for a visual warning to signal if any external door is not fully closed and locked. 
+
+ A concern was expressed at the Small Airplane Airworthiness Review Conference that conference proposal 281, relative to jamming of doors, addressed each external door in contrast to the current requirements which address passenger doors only. As noted in Notice No. 86-19, the FAA concluded that only external passenger doors need be addressed since there is no need to require that cargo or similar doors of normal, utility, or acrobatic category airplanes be free of jamming as a result of fuselage deformation in an emergency landing. The FAA has further examined this concern and has concluded that the word "passenger" must be expanded to "passenger or crew" for clarification.
+
+ The requirement of proposed Section 23.783(c) that each external passenger door must be openable from either the inside or the outside when the internal locks are in the locked position was proposed as a result of recorded accidents in which fatalities have occurred because persons attempting to rescue the airplane occupants were unable to open the door.
+
+ The requirements of proposed Section 23.783(e), addressing minimum standards for ensuring the integrity of external doors in pressurized airplanes, are similar to requirements which have already been adopted as special conditions for the type certification of Part 23 airplanes. Proposed Section 23.783(e) also applies to doors forward of any engine or propeller to ensure that external doors forward of any engine do not inadvertently open in flight and thereby allow the compartment contents to be ingested into an engine or propeller.
+
+ One commenter suggests that proposed Section 23.783(c) should not be required on airplanes with a maximum certificated weight of less than 3,000 pounds. This commenter contends that the wording used in proposed paragraph (c) "clearly shows that it is applicable for commuters or light twins." This commenter also contends that, for single-engine airplanes with a maximum certificated weight of less than 3,000 pounds, the doors can be adequately protected from inadvertent opening by providing: (1) A convenient location for the handle that allows monitoring and direct action by the pilot, (2) a convenient motion of the handle such as an opening motion in which the handle moves down in front of the arm rest, or (3) design precautions against mechanical failure. The FAA does not consider unique rules for airplanes with maximum certificated weights of less than 3,000 pounds to be justified by the technical issues. The methods proposed by the commenter to protect against inadvertent door opening may be applied to the door design as part of the compliance to the rules in proposed Section 23.783(c). At present, Part 23 does not make a distinction on cabin safety issues based on maximum certificated weight.
+
+ One commenter suggests that the requirements of proposed Section 23.783(d) are undefinable as to degree of compliance and the method of compliance. The FAA disagrees. Similar requirements already exist for transport and commuter category airplanes. Advisory Circular No. 25.783-1 contains guidance material for complying with a substantively equivalent requirement for transport airplanes. According to the information in this advisory circular, this Part 25 rule may be
+
+complied with by designs which provide sufficient clearance between the door and the surrounding fuselage support structure to accommodate likely distortions. Also, the possibility of distortion in the door cutout can be minimized by designing the door cutout frame with more strength than that of the surrounding structure. Equivalent means of compliance may be used for complying with these Part 23 requirements.
+
+ Several comments are editorial in nature. One of the commenters suggests changing the term "minor crash" to "emergency landing" in proposed Section 23.783(d). This final rule does refer to the emergency landing condition for consistency with other sections of Part 23. One commenter suggests adding the words "inside and outside" between the words "marked" and "so" in Section 23.783(c). Similar words are used in the rules for commuter category airplanes. These words have been added to this final rule for consistency with the new commuter category requirements. Several commenters suggest changes to the proposal in Notice No. 86-19 to provide compatibility with the rules applicable to commuter airplanes which were added to Part 23 with Amendment No. 23-34. The FAA has compared the proposed Section 23.783 with the same section in Part 23 after Amendment No. 23.34 and has reformatted Section 23.783 in this final rule action to include the commuter category rule requirements and the applicable sections from this proposal. Section 23.783(c) in this final rule includes those requirements which are common to normal, utility, acrobatic, and commuter category airplanes. Since the external marking requirements of proposed Section 23.807(c) are moved to a new Section 23.811 in this final rule, Section 23.783(c)(4) references Section 23.811 in this final rule.
+
+ Since Section 23.807(d) of Amendment No. 23-34, which was issued after Notice No. 86-19, included requirements for doors as well as emergency exits, the requirements added by Amendment No. 23-34 are integrated with the proposed requirements adopted in this final rule. The requirements that auxiliary locking devices used to secure the airplane must be designed to be overridden by the normal internal opening means were included in proposed Section 23.807(b) for emergency exits. Since the passenger and crew doors generally serve as the primary means of emergency exit in Part 23 airplanes, the requirements for overriding the external locking devices are also stated for external doors in Section 23.783(b) of this final rule. 
+
+ To provide background information about this final rule format of Section 23.783, the following table lists a cross reference of the requirements in this final rule, the proposed rule (Notice No. 86-19), and the final rule published at 52 FR 1806, January 15, 1987 (Amendment No. 23-34):
+
+Cross Reference for Section 23.783
+
+Final Rule
+
+ Notice
+
+ Amend. 23-34
+
+ 
+
+Sec. 23.783(c)(1)
+
+ Sec. 23.783(c)
+
+ Sec. 23.783(c)(1)
+
+ 
+
+Section 23.783(c)(2)
+
+ Section 23.783(c)
+
+ Section 23.783(c)(1)
+
+ 
+
+Sec. 23.783(c)(3)
+
+ Section 23.783(c)
+
+ Section 23.783(c)(1)
+
+ 
+
+Section 23.783(c)(4)
+
+ Section 23.783(c)
+
+ Section 23.807(d)(3)
+
+ 
+
+Section 23.783(c)(5)
+
+ Section 23.783(d)
+
+ Section 23.783(c)(2)
+
+ 
+
+Section 23.783(c)(6)
+
+ Section 23.807(b)
+
+ Section 23.807(d)(1)
+
+ 
+
+Section 23.783(d)(1)
+
+ N/A
+
+ Section 23.783(c)(1)
+
+ 
+
+Section 23.783(d)(2)
+
+ N/A
+
+ Section 23.783(c)(1)
+
+ 
+
+Section 23.783(d)(3)
+
+ N/A
+
+ Section 23.783(c)(1)
+
+ 
+
+Section 23.783(e)(1)
+
+ Section 23.783(e)(1)
+
+ Section 23.783(c)(1)
+
+ 
+
+Section 23.783(e)(2)
+
+ Section 23.783(e)(2)
+
+ Section 23.783(c)(3)
+
+ 
+
+Section 23.783(e)(3)
+
+ Section 23.783(e)(3)
+
+ Section 23.783(c)(3)
+
+ 
+
+ Proposal 1-5. The FAA proposed a substantial revision of the requirements for seats, berths, litters, safety belts, and
+
+shoulder harnesses in Section 23.785. The new requirements proposed in the notice were based on proposals 283, 284, 285, 285a, 286, 287, and 518 submitted at the Small Airplane Airworthiness Review Conference. These proposals were based, in large measure, on FAA, NASA, and NTSB research studies and impact analyses.
+
+ Proposed Section 23.785(a) cited requirements for protecting seated occupants from injurious objects when the occupant is subjected to the emergency landing dynamic conditions of proposed Section 23.562. Proposed section 23.785(b) would add reference to the head injury protection specified in proposed Section 23.562(c)(5). Proposed Section 23.785(c) would require a combined shoulder harness and safety belt restraint system with a single point release. Proposed Section 23.785(d) was a redesignation of the rules stated in Section 23.785(c) in effect at the time of the notice. Proposed Section 23.785(e) was a redesignation of the rules stated in Section 23.785(d) in effect at the time of the notice. Proposed Section 23.785(f) would require that the seat/restraint system withstand the loads imposed by a 215-pound occupant when subjected to the design load conditions in the approved flight/ground operating envelope of the airplane. The 215-pound occupant size relates to a 95 percentile male. The heavier occupant is recommended so that the strength of the seat/restraint system will be adequate for the loads expected in normal operations. This requirement was considered necessary because of concern that evaluating a seat/restraint system for only the emergency landing conditions would not require that it function properly during normal operations. Proposed Section 23.785(g) would provide a specific definition of what comprises a "seating device system," and this section was included so that all necessary components are included in a system being evaluated to the emergency landing dynamic test requirements of Section 23.562. Proposed Section
+
+23.785(h) would state that crushing or separation of certain parts of the seat would be allowed to show compliance with Section 23.562. Proposed Section 23.785(i) would add requirements for seat stops to prevent the seat from sliding off the track. Proposed Section 23.785(j) would contain the requirements for protecting occupants in a berth or litter that is installed parallel to the airplane longitudinal axis.
+
+ One commenter suggests replacing the term "shoulder harness" in proposed Section 23.785(b) by the term "seat belt and shoulder harness," and two other commenters suggest removing the reference to Section 23.561 for this section. After reviewing proposed Section 23.785(b) the FAA concludes that these requirements are redundant with other requirements of Sections 23.785 and 23.562 of this final rule; therefore, proposed Section 23.785(b) is not adopted.
+
+ One commenter suggests changes to proposed Section 23.785(c) so that seat orientations other than forward-facing or aft-facing seats are addressed. Proposed Section 23.785(c), for clarity in this final rule, is separated into four paragraphs - paragraphs (b), (d), (e), and (g). The new paragraph (b) references requirements of Section 23.562 for normal, utility, and acrobatic category airplane seat/restraint systems and includes the existing requirements for Section 23.785(g)(1) relative to seat orientations other than side-facing and aft-facing seats. As no other comments were received relative to proposed Section 23.785(c), the requirements proposed for a single-point release, the need for a crewmember to perform all functions necessary to flight operations with the restraint system fastened, and the means to secure the safety belt and shoulder harness when not in use, are in paragraphs (d), (e), and (g) of this final rule, respectively.
+
+ One commenter questions why Section 23.785(g) of Amendment No. 23-34 was removed, and if the intent was to replace that section with proposed Section 23.785(c). Notice No. 86-19 was issued prior to the incorporation of the provisions of Amendment No. 23-34 into Part 23. Because Section 23.785 was changed by Amendment No. 23-34 after Notice No. 86-19 was released for public comment, this final rule action combines the requirements of both. For clarity and conciseness, Section 23.785 is reformatted in this final rule. This final rule does not specify emergency landing dynamic conditions for commuter category airplanes since this issue is beyond the scope of Notice No. 86-19, and this issue will be addressed in future rulemaking actions.
+
+ No comments were received in response to proposed Section 23.785(f). It is designated as Section 23.785(a) and adopted as proposed.
+
+ The requirements relative to emergency landing conditions in Section 23.785(a) and the requirements in Section 23.785(g)(2) remain applicable to the commuter category airplanes. In this final rule, these requirements have been combined into Section 23.785(c).
+
+ No comments were received relative to Section 23.785(j). The FAA now considers the last sentence of proposed Section 23.785(j) to be a policy statement, and it is not included in this final rule. For the purpose of the requirements in Section 23.785, the FAA considers a litter to be a device for carrying a person, primarily in a prone position, into an airplane. As the FAA is not aware of any differences between the various categories of Part 23 airplanes, the proposed rule is therefore adopted as Section 23.785(m), to be applicable to all categories of Part 23 airplanes.
+
+ To provide background information about this final rule format of Section 23.785, the following table lists a cross reference of the requirements in this final rule, the proposed rule (Notice No. 86-19), and the final rule published at 52 FR
+
+ 1806, January 15, 1987, Amendment No. 23-34:
+
+Final Rule
+
+ Notice No. 86-19
+
+ Amendment 23-34
+
+ 
+
+Section 23.785(a)
+
+ Section 23.785(f)
+
+ Section 23.785(a)
+
+ 
+
+Section 23.785(b)
+
+ Section 23.785(c)
+
+ Section 23.785(g)(1)
+
+ 
+
+Section 23.785(c)
+
+ N/A
+
+ Section 23.785(a) and (g)(2)
+
+ 
+
+Section 23.785(d)
+
+ Section 23.785(c)
+
+ N/A
+
+ 
+
+Section 23.785(e)
+
+ Section 23.785(c)
+
+ Section 23.785(h)
+
+ 
+
+Section 23.785(f)
+
+ Section 23.785(d)
+
+ Section 23.785(c)
+
+ 
+
+Section 23.785(g)
+
+ Section 23.785(c)
+
+ Section 23.785(i)
+
+ 
+
+Section 23.785(h)
+
+ Section 23.785(e)
+
+ Section 23.785(d)
+
+ 
+
+Section 23.785(i)
+
+ Section 23.785(a)
+
+ Section 23.785(j)
+
+ 
+
+Section 23.785(j)
+
+ Section 23.785(i)
+
+ Section 23.785(1)
+
+ 
+
+Section 23.785(k)
+
+ Section 23.785(h)
+
+ N/A
+
+ 
+
+Section 23.785(1)
+
+ N/A
+
+ Section 23.785(k)
+
+ 
+
+Section 23.785(m)
+
+ Section 23.785(j)
+
+ Section 23.785(e)
+
+ 
+
+Section 23.785(n)
+
+ N/A
+
+ Section 23.785(f)
+
+ 
+
+ Proposal 1-6. Notice No. 86-19 proposed to amend Section 23.787 to increase the static strength requirements for cargo compartments and resulted from conference proposals 288, 289, 518, and 524 of the Small Airplane Airworthiness Review Conference. It was a consensus at the conference that cargo restraints should be designed to the ultimate static load factors of Section 23.561 to protect occupants forward of the cargo during emergency landing conditions. For designs that carry cargo in the same compartment with occupants, the GASP proposed that these compartments have adequate strength to retain cargo in conditions which could result in occupant exposure to the dynamic conditions of proposed Section 23.562(b)(2). Since dynamic testing of seats evaluates specific occupant injury criteria, the FAA considers dynamic testing of items of mass to be unnecessary because only retention of these items is a safety concern. Therefore, the ultimate static load factors of Section 23.561(b)(3) are referenced in Section 23.787(e).
+
+ One commenter suggests that proposed Section 23.787 require that the strength of the structure forming the partition between the occupants and cargo be substantiated for a cargo load of maximum weight when considering the ultimate static load factors of Section 23.561. The FAA agrees that adding a reference to the maximum cargo weight adds clarity to the intent of the rule, and paragraphs (c) and (e) of the final rule include requirements for evaluation at the maximum allowed cargo weight for the compartment.
+
+ Several editorial comments were received with regard to references to the paragraphs of Section 23.561 in proposed changes to Section 23.787. They have been considered in this final rule.
+
+ Section 23.787(g), added with Amendment No. 23-34, contains specific requirements for commuter category airplanes. Paragraph (1) of Section 23.787(g) requires that the cargo or baggage compartments of commuter category airplanes be evaluated for a 9g ultimate forward static load factor. Since proposed Section 23.787(c) of the notice states substantively equivalent requirements for normal, utility, and acrobatic category airplanes Section 23.787(c) of this final rule is applicable to all Part 23 airplanes; and Section 23.787(g)(1), added by Amendment No. 23-34, is removed.
+
+ Paragraph (2) of Section 23.787(g) states the specific requirements for baggage compartments of commuter category airplanes. These requirements are retained in Section 23.787(g) of this final rule. A reference to Section 23.787(c) and (e) is added to Section 23.787(g) so that the baggage compartments in commuter category airplanes will be designed to protect occupants from injury during an emergency landing. The title of Section 23.787 is amended in this final rule to include a reference to baggage compartments since certain requirements of this section are applicable to baggage compartments.
+
+ Proposal 1-7. In Notice No. 86-19, the FAA proposed changes to Section 23.807 based on a number of issues raised by proposals 290, 297, and 517 at the Small Airplane Airworthiness Review Conference. One issue discussed at the conference concerned the number and locations of emergency exits required for normal, utility, or acrobatic category airplanes. One conference proposal suggested that all airplanes with a seating capacity of two or more, excluding airplanes with canopies, have at least one emergency exit on the opposite side of the cabin from the main external passenger door specified in Section 23.783(a). A second conference proposal recommended one emergency exit adjacent to the pilot on the pilot's side of the airplane. The consensus at the conference was that Section 23.807(a)(1) should be revised substantively as stated in the first proposal, and that the current rules adequately address the issue of the second proposal. Notice No. 86-19 proposed changes to Section 23.807(a)(1) which were substantially the same as the first
+
+conference proposal.
+
+ A second issue, concerning type and operation of emergency exits, was addressed by three conference proposals. The first proposal recommended that Section 23.807(b) require an exit area of 388 square inches in place of the current requirement that a 19-by-26-inch ellipse pass through the emergency exit opening. The proposal stated that the most critical dimension, width or height, must be no less than 19 inches. As a result of discussion at the conference, the word "critical" was changed to "minimum" in the notice. The second proposal recommended that emergency exits be openable from outside the airplane. The problem of providing security for airplanes with emergency exits, openable from the outside, was discussed at the conference, and conference attendees discussed ways to provide both security and emergency egress provisions.
+
+ The third proposal addressed the use of canopies as an acceptable emergency exit. This proposal would clarify that a canopy may be used as an emergency exit and is subject to the rules applicable to an emergency exit. As a result of these suggestions, changes to paragraphs (a) and (b) of Section 23.807 were proposed in Notice No. 86-19. The third emergency exit issue addressed at the conference concerned marking and identification of these exits. Notice No. 86-19 proposed a new Section 23.807(c) which stated external marking requirements for emergency exits. The proposed requirements were stated in objective terms as discussed at the conference.
+
+ One commenter to Notice No. 86-19 agrees with the requirements in proposed Section 23.807(b) that emergency exits be openable from both the inside and outside and supports the use of auxiliary locking devices that must be designed to be overridden by the operation of the internal opening means. However, the commenter is concerned that the proposed exit area requirement of 388 square inches allows an emergency exit size which does not comply with the current 19-by-26-inch ellipse requirement. The commenter requests that the FAA provide test evidence that such an exit provides an equivalent evacuation rate. As a result of this comment, the FAA reviewed the regulatory history and human factors data concerning emergency exit size and the associated effects on evacuation from small airplanes. In the past, emergency exits with total open area equal to or greater than the area of a 19-by-26-inch ellipse, but not providing unobstructed passage of the ellipse, have been approved by equivalent level of safety findings. In regard to this issue, published test data indicate that reducing the maximum (26-inch) dimension of the emergency exit while maintaining the same minimum (19-inch) dimension may significantly reduce the emergency flow rate through the exit. Since these data indicate that the proposed rule change may reduce the level of safety with regard to egress from emergency exits, the FAA is retaining the emergency exit size requirements of Section 23.807.
+
+ One commenter agrees with the proposal but wants the FAA to explain what is meant by a "conspicuous visual identification scheme" in proposed section 23.807(c). In Notice No. 86-19, the FAA proposed requirements to allow the maximum compatibility between the desire for an aesthetic appearance and the need for maximizing the efforts of rescue personnel to locate emergency exits quickly. Advisory Circular 23.807(c), dated January 20, 1984, has provided guidance for marking emergency exits on a voluntary basis. Since this guidance material already exists, the FAA concludes that the proposed requirements are adequately detailed.
+
+ Several commenters suggest editorial changes to proposed Section 23.807, and the FAA has considered these comments in this final rule. In addition, the FAA recognizes that the Part 25 counterparts of several of the rules, which Notice No. 86-19 proposed to locate in Section 23.807, are in other sections of Part 25. In accordance with FAA policy of placing similar requirements in like numbered sections of Parts 23 and 25 of the Federal Aviation Regulations (FAR), the requirements in proposed Section 23.807(c) are moved to a new Section 23.811, titled "Emergency exit marking." Also, the emergency exit marking requirements of Section 23.807(c)(3) which are unique to commuter category airplanes are moved to Section 23.811(b) in this final rule. In addition, the requirements of Section 23.807(d)(4) are moved to a new Section 23.813, titled "Emergency exit access", in this final rule.
+
+ One commenter suggests that the regulatory references in the notice should be crosschecked with the latest revisions of Part 23. As a result of reviewing the FAR, the FAA identified several sections of Part 23 which need to be changed for compatibility with the new requirements for dynamic testing of seat/restraint systems. The regulatory changes identified by this review are not substantive but provide consistency with the other changes made by this amendment. This review resulted in several additions to this final rule. Section 23.2 is revised to delete the reference to Section 23.785(g) and (h) and, instead, states these previously incorporated-by-reference occupant protection requirements for restraint systems. Section 23.967 is revised so that paragraph (e)(1) refers to Section 23.561(b)(2). Section 23.1411 is revised so that paragraph (b)(2) refers to section 23.561(b)(3). Section 23.1413 is revised to include only the requirement that each safety belt and shoulder harness be equipped with a metal-to-metal latching device since the requirements of paragraph (a) of existing Section 23.1413 are redundant to the requirements in paragraphs (a) and (b) of Section 23.785 of this final rule, and the requirements of paragraph (b) of existing Section 23.1413 are not compatible with the requirements of Section 23.785(m)(2).
+
+Economic Impact
+
+ This amendment upgrades airworthiness standards to enhance the crashworthiness of airplanes certificated to Part 23. These upgraded standards, which are based on proposals submitted to the Small Airplane Airworthiness Review Conference apply only to airplanes for which an application for a type certificate under Part 23 is made after the effective date of this amendment. 
+
+ Two of the revisions contained in this amendment impose dynamic testing standards to determine the adequacy of energy absorbing seats and torso restraint systems on occupant movement resulting from sudden deceleration forces on normal, utility, and acrobatic category airplanes which are likely to be experienced in accidents. Two other revisions pertain to doors and emergency exits will facilitate emergency egress from airplanes sustaining heavy ground impact damage. Another three revisions are of an organizational rather than substantive nature and will not have any economic impacts. The economic impact of this amendment was estimated by the FAA with the assistance of a research firm, which relied heavily on General Aviation Manufacturers Association (GAMA) information pertaining to expected costs and National Transportation Safety Board (NTSB) data pertaining to expected benefits. The estimation procedure quantified the costs and benefits expected to result from this amendment based upon the official FAA forecast of airplane production and a more
+
+conservative forecast that projects a continuation of the depressed condition of this industry. The effect of using the more conservative forecast is to reduce substantially the magnitude of both the expected total costs and benefits of this amendment for which quantification of these impacts was possible, reflecting the considerably smaller number of affected airplanes. The use of the more conservative forecast does not alter the general results of the analysis with regard to the overall combined economic impact of this amendment, although the effects on the cost-effectiveness of the individual proposals differed.
+
+ Using the FAA production forecast, the total expected quantified benefits for the two revisions aimed at occupant energy-absorbing seats and torso restraint systems (benefits cannot be quantified for the others) are estimated to be approximately $30.5 million on a discounted basis over a 20-year period, considerably higher than the expected associated costs, which are estimated at about $17.1 million. The use of the more conservative production forecast results in an estimate of about $4.3 million for the discounted benefits of this amendment and expected costs of about $4.0 million. Benefits cannot be quantified for the other substantive revisions because of insufficient accident data.
+
+ One of the two revisions directed at occupant restraint, which will require a shoulder harness capable of satisfying a
+
+dynamic test at all seats in new type certificated normal, utility, and acrobatic category airplanes, is similar to an airworthiness standard recently adopted by the FAA in Amendment 23-32. That recently adopted rule imposes a shoulder harness requirement at all seats of normal, utility, and acrobatic category airplanes manufactured after December 12, 1986, and requires the shoulder harness to satisfy static strength requirements. Because the requirements in Amendment 23-32 apply to all normal, utility, and acrobatic category airplanes with a seating configuration of nine or less excluding pilot seats,
+
+regardless of the date of type certification and type certification basis, its implementation has the effect of minimizing any costs pertaining to shoulder harnesses that can be attributed to this amendment. The dynamic test is a more stringent one because the basic seat structure and its attachment to the cabin floor must be designed so as to afford greater occupant protection through energy absorption, a requirement whose incremental costs have been attributed to a separate revision contained in this amendment that pertains only to seat strength.
+
+ The benefits of the shoulder harness requirements in this amendment are not totally eliminated, however, because it
+
+requires that these harnesses pass a dynamic test with seat systems as a whole to protect occupants, as noted above. In
+
+contrast, the recently adopted rule only required static strength evaluation of the shoulder harness which less accurately represents the loads on occupants resulting from survivable airplane accidents. The full extent of those incremental benefits cannot be quantified, however, because the benefits for the two revisions pertaining to seat systems are interdependent. The benefits estimated for the seat revisions were found to be directly proportional to the rate of shoulder harness usage. These benefits are estimated over a 20-year period, compared with the 10-year period used for estimating costs, in order to capture all of the benefits that can be attributed to seats installed near the end of the initial 10-year period.
+
+ For the purpose of this analysis, the quantified benefits for the seat system improvements are attributed solely to the
+
+revision requiring energy-absorbing seats, recognizing that the shoulder harness amendment is likely to produce additional
+
+benefits that appear difficult if not impossible to quantify. The cost-effectiveness of the seat amendment (based on the FAA
+
+production forecast) is contingent upon the assumption that over 56 percent of the occupants would use shoulder harnesses. The required rate of shoulder harness usage increases to 93 percent based on the more conservative forecast.
+
+ The benefits of this amendment pertaining to door and emergency exit requirements, as well as cargo restraint, cannot be precisely quantified because of a lack of detail in the historical accident data although an expected range of benefits in terms of fatalities prevented was estimated. Accidents involving post-crash fires ware regarded as being the most relevant for assessing the benefits because fatalities caused by this type of accident are more likely to have resulted from evacuation problems than impact forces. A "breakeven" analysis of the number of fatalities that would have to be prevented to offset the costs of these proposals ($1.6 million for cargo restraint requirements, $10.2 million for the door requirements and $17.1 million for the emergency exit requirements based on the FAA forecast) was performed to provide an indication of the expected relationship between the costs and benefits that were estimated in this amendment. This comparison revealed a strong probability that this amendment would prevent a substantially greater number of fatalities than would be required to offset their costs based on the most realistic assumptions regarding the effectiveness of the revised requirements. More specifically, the benefits estimated for this amendment ranged from about 17 to 50 fatalities prevented on an annual basis based on an intermediate assumption pertaining to effectiveness (see Table 1), far in excess of the "breakeven point" of 5.5 fatalities prevented (see Regulatory Evaluation). The "breakeven point" declines to only one fatality prevented when the more conservative production forecast is used.
+
+ Percent of Fatalities in Accidents Involving Post-Crash Fires Attributable Solely to Egress Problems
+
+ 
+
+ 25 percent
+
+ 50 percent
+
+ 75 percent
+
+ 
+
+Effectiveness of Door and Emergency Exit Requirements in Preventing Fatalities:
+
+ 
+
+25 percent
+
+ 8
+
+ 17
+
+ 25
+
+ 
+
+50 percent
+
+ 17
+
+ 33
+
+ 50
+
+ 
+
+75 percent
+
+ 25
+
+ 50
+
+ 75
+
+ 
+
+ 1The numbers in this table are based on an expected annual average of 133 fatalities (derived from the FAA's Accident/Incident Data System). Source: Office of Aviation Policy and Plans, FAA.
+
+Trade Impact
+
+ This amendment will have little or no impact on trade for both U.S. firms doing business in foreign countries and foreign firms doing business in the United States. In the United States, foreign manufacturers would have to meet U.S. requirements, and thus they would gain no competitive advantage. In foreign countries, U.S. manufacturers would not be bound by Part 23 requirements and would not be compelled to implement these requirements.
+
+Final Regulation Determination
+
+ The FAA has also determined that this amendment will not have a significant economic impact on a substantial number of small entities. The FAA's criteria for a Part 23 airplane manufacturer is one employing less than 75 employees, a
+
+substantial number is a number which is not less than 11 and which is more than one-third of the small entities subject to this amendment, and a significant impact is one having an annual cost of more than $14,258 per manufacturer.
+
+ A review of domestic Part 23 airplane manufacturing companies indicates that only six companies meet the size threshold of 75 employees or less. This amendment to 14 CFR Part 23 will, therefore, not affect a substantial number of small
+
+entities.
+
+Conclusion
+
+ For reasons discussed earlier in the preamble, the FAA has determined that this document (1) involves a regulation that is not major under the provisions of Executive Order 12291, and (2) is not significant under DOT Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). I certify that under the criteria of the Regulatory Flexibility Act, this rule will not
+
+have a significant economic impact on a substantial number of small entities. In addition, this rule will have little or no impact on trade opportunities for U.S. firms doing business overseas or for foreign firms doing business in the United States.
+
+
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendment
+
+Accordingly, 14 CFR Part 23 is amended as follows:
+
+Part 23 - Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter Category Airplanes
+
+1. The authority citation for Part 23 continues to read as follows:
+
+Authority: 49 U.S.C. 1344, 1354(a), 1355, 1421, 1423, 1425, 1428, 1429, 1430; 49 U.S.C. 106(g) (Revised Pub. L. 97-499, January 12, 1983).
+
+2. Section 23.2 is revised to read as follows:
+
+Sec. 23.2 Special retroactive requirements.
+
+(a) Notwithstanding Secs. 21.17 and 21.101 of this chapter and irrespective of the type certification basis, each normal, utility, and acrobatic category airplane having a passenger seating configuration, excluding pilot seats, of nine or less, manufactured after December 12, 1986, or any such foreign airplane for entry into the United States must provide a safety belt and shoulder harness for each forward- or aft-facing seat which will protect the occupant from serious head injury when subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2) of this part, or which will provide the occupant protection specified in Sec. 23.562 of this part when that section is applicable to the airplane. For other seat orientations, the seat/restraint system must be designed to provide a level of occupant protection equivalent to that provided for forward- or aft-facing seats with a safety belt and shoulder harness installed.
+
+(b) Each shoulder harness installed at a flight crewmember station, as required by this section, must allow the crewmember, when seated with the safety belt and shoulder harness fastened, to perform all functions necessary for flight operations.
+
+(c) For the purpose of this section, the date of manufacture is:
+
+(1) The date the inspection acceptance records, or equivalent, reflect that the airplane is complete and meets the FAA approved type design data; or 
+
+(2) In the case of a foreign manufactured airplane, the date the foreign civil airworthiness authority certifies the airplane is complete and issues an original standard airworthiness certificate, or the equivalent in that country.
+
+3. Section 23.561 is amended by revising paragraphs (b) and (d) to read as follows:
+
+Sec. 23.561 General.
+
+* * * * *
+
+(b) The structure must be designed to protect each occupant during emergency landing conditions when:
+
+(1) Proper use is made of seats, safety belts, and shoulder harnesses provided for in the design;
+
+(2) The occupant experiences the static inertia loads corresponding to the following ultimate load factors--
+
+(i) Upward, 3.0g for normal, utility, and commuter category airplanes, or 4.5g for acrobatic category airplanes;
+
+(ii) Forward, 9.0g;
+
+(iii) Sideward, 1.5g; and
+
+(3) The items of mass within the cabin, that could injure an occupant, experience the static inertia loads corresponding to the following ultimate load factors--
+
+(i) Upward, 3.0g;
+
+(ii) Forward, 18.0g; and
+
+(iii) Sideward, 4.5g
+
+* * * * *
+
+(d) If it is not established that a turnover is unlikely during an emergency landing, the structure must be designed to protect the occupants in a complete turnover as follows:
+
+(1) The likelihood of a turnover may be shown by an analysis assuming the following conditions--
+
+(i) Maximum weight;
+
+(ii) Most forward center of gravity position;
+
+(iii) Longitudinal load factor of 9.0g;
+
+(iv) Vertical load factor of 1.0g; and
+
+(v) For airplanes with tricycle landing gear, the nose wheel strut failed with the nose contacting the ground.
+
+(2) For determining the loads to be applied to the inverted airplane after a turnover, an upward ultimate inertia load factor of 3.0g and a coefficient of friction with the ground of 0.5 must be used.
+
+* * * * *
+
+4. New Sec. 23.562 is added to read as follows:
+
+Sec. 23.562 Emergency landing dynamic conditions.
+
+(a) Each seat/restraint system for use in a normal, utility, or acrobatic category airplane must be designed to protect each occupant during an emergency landing when--
+
+(1) Proper use is made of seats, safety belts, and shoulder harnesses provided for the design; and
+
+(2) The occupant is exposed to the loads resulting from the conditions prescribed in this section.
+
+(b) Each seat/restraint system, for crew or passenger occupancy in a normal, utility, or acrobatic category airplane, must successfully complete dynamic tests or be demonstrated by rational analysis supported by dynamic tests, in accordance with each of the following conditions. These tests must be conducted with an occupant simulated by an anthropomorphic test dummy (ATD) defined by 49 CFR Part 572, Subpart B, or an FAA-approved equivalent, with a nominal weight of 170 pounds and seated in the normal upright position.
+
+(1) For the first test, the change in velocity may not be less than 31 feet per second. The seat/restraint system must be oriented in its nominal position with respect to the airplane and with the horizontal plane of the airplane pitched up 60 degrees, with no yaw, relative to the impact vector. For seat/restraint systems to be installed in the first row of the airplane, peak deceleration must occur in not more than 0.05 seconds after impact and must reach a minimum of 19g. For all other seat/restraint systems, peak deceleration must occur in not more than 0.06 seconds after impact and must reach a minimum of 15g.
+
+(2) For the second test, the change in velocity may not be less than 42 feet per second. The seat/restraint system must be oriented in its nominal position with respect to the airplane and with the vertical plane of the airplane yawed 10 degrees, with no pitch, relative to the impact vector in a direction that results in the greatest load on the shoulder harness. For seat/restraint systems to be installed in the first row of the airplane, peak deceleration must occur in not more than 0.05 seconds after impact and must reach a minimum of 26g. For all other seat/restraint systems, peak deceleration must occur in not more than 0.06 seconds after impact and must reach a minimum of 21g.
+
+(3) To account for floor warpage, the floor rails of attachment devices used to attach the seat/restraint system to the airframe structure must be preloaded to misalign with respect to each other by at least 10 degrees vertically (i.e., pitch out of parallel) and one of the rails or attachment devices must be preloaded to misalign by 10 degrees in roll prior to conducting the test defined by paragraph (b)(2) of this section.
+
+(c) Compliance with the following requirements must be shown during the dynamic tests conducted in accordance with paragraph (b) of this section:
+
+(1) The seat/restraint system must restrain the ATD although seat/restraint system components may experience deformation, elongation, displacement, or crushing intended as part of the design.
+
+(2) The attachment between the seat/restraint system and the test fixture must remain intact, although the seat structure may have deformed.
+
+(3) Each shoulder harness strap must remain on the ATD's shoulder during the impact.
+
+(4) The safety belt must remain on the ATD's pelvis during the impact.
+
+(5) The results of the dynamic tests must show that the occupant is protected from serious head injury.
+
+(i) When contact with adjacent seats, structure, or other items in the cabin can occur, protection must be provided so that the head impact does not exceed a head injury criteria (HIC) of 1,000.
+
+(ii) The value of HIC is defined as--
+
+Where:
+
+t1 is the initial integration time, expressed in seconds, t2 is the final integration time, expressed in seconds, (t2-t1) is the time duration of the major head impact, expressed in seconds, and a (t is the resultant deceleration at the center of gravity of the head form expressed as a multiple of g (units of gravity).
+
+(iii) Compliance with the HIC limit must be demonstrated by measuring the head impact during dynamic testing as prescribed in paragraphs (b)(1) and (b)(2) of this section or by a separate showing of compliance with the head injury criteria using test or analysis procedures.
+
+(6) Loads in individual shoulder harness straps may not exceed 1,750 pounds. If dual straps are used for retaining the upper torso, the total strap loads may not exceed 2,000 pounds.
+
+(7) The compression load measured between the pelvis and the lumbar spine of the ATD may not exceed 1,500 pounds.
+
+(d) An alternate approach that achieves an equivalent, or greater, level of occupant protection to that required by this section may be used if substantiated on a rational basis.
+
+5. Section 23.783 is amended by revising paragraph (c) and adding new paragraphs (d) and (e) to read as follows:
+
+Sec. 23.783 Doors.
+
+* * * * *
+
+(c) Each external passenger or crew door must comply with the following requirements:
+
+(1) There must be means to lock and safeguard the door against inadvertent opening during flight by persons, by cargo, or as a result of mechanical failure.
+
+(2) The door must be openable from the inside and the outside when the internal locking mechanism is in the locked position.
+
+(3) There must be a means of opening which is simple and obvious and is arranged and marked inside and outside so that the door can be readily located, unlocked, and opened, even in darkness.
+
+(4) The door must meet the marking requirements of Sec. 23.811 of this part.
+
+(5) The door must be reasonably free from jamming as a result of fuselage deformation in an emergency landing.
+
+(6) Auxiliary locking devices that are actuated externally to the airplane may be used but such devices must be overridden by the normal internal opening means.
+
+(d) In addition, each external passenger or crew door, for a commuter category airplane, must comply with the following requirements:
+
+(1) Each door must be openable from both the inside and outside, even though persons may be crowded against the door on the inside of the airplane.
+
+(2) If inward opening doors are used, there must be a means to prevent occupants from crowding against the door to the extent that would interfere with opening the door.
+
+(3) Auxiliary locking devices may be used.
+
+(e) Each external door on a commuter category airplane, each external door forward of any engine or propeller on a normal, utility, or acrobatic category airplane, and each door of the pressure vessel on a pressurized airplane must comply with the following requirements:
+
+(1) There must be a means to lock and safeguard each external door, including cargo and service type doors, against inadvertent opening in flight, by persons, by cargo, or as a result of mechanical failure or failure of a single structural element, either during or after closure.
+
+(2) There must be a provision for direct visual inspection of the locking mechanism to determine if the external door, for which the initial opening movement is not inward, is fully closed and locked. The provisions must be discernible, under operating lighting conditions, by a crewmember using a flashlight or an equivalent lighting source.
+
+(3) There must be a visual warning means to signal a flight crewmember if the external door is not fully closed and locked. The means must be designed so that any failure, or combination of failures, that would result in an erroneous closed and locked indication is improbable for doors for which the initial opening movement is not inward.
+
+6. Section 23.785 is revised to read as follows:
+
+Sec. 23.785 Seats, berths, litters, safety belts, and shoulder harnesses.
+
+(a) Each seat/restraint system and the supporting structure must be designed to support occupants weighing at least 215 pounds when subjected to the maximum load factors corresponding to the specified flight and ground load conditions, as defined in the approved operating envelope of the airplane. In addition, these loads must be multiplied by a factor of 1.33 in determining the strength of all fittings and the attachment of--
+
+(1) Each seat to the structure; and
+
+(2) Each safety belt and shoulder harness to the seat or structure.
+
+(b) Each forward-facing or aft-facing seat/restraint system in normal, utility, or acrobatic category airplanes must consist of a seat, safety belt, and shoulder harness that are designed to provide the occupant protection provisions required in Sec. 23.562 of this part. Other seat orientations must provide the same level of occupant protection as a forward-facing or aft-facing seat with a safety belt and shoulder harness, and provide the protection provisions of Sec. 23.562 of this part.
+
+(c) For commuter category airplanes, each seat and the supporting structure must be designed for occupants weighing at least 170 pounds when subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2) of this part, and each occupant must be protected from serious head injury when subjected to the inertia loads resulting from these load factors by a safety belt and shoulder harness for the front seats; and a safety belt, or a safety belt and shoulder harness, for each seat other than the front seats.
+
+(d) Each restraint system must have a single-point release for occupant evacuation.
+
+(e) The restraint system for each crewmember must allow the crewmember, when seated with the safety belt and shoulder harness fastened, to perform all functions necessary for flight operations.
+
+(f) Each pilot seat must be designed for the reactions resulting from the application of pilot forces to the primary flight controls as prescribed in Sec. 23.395 of this part.
+
+(g) There must be a means to secure each safety belt and shoulder harness, when not in use, to prevent interference with the operation of the airplane and with rapid occupant egress in an emergency.
+
+(h) Unless otherwise placarded, each seat in a utility and acrobatic category airplane must be designed to accommodate an occupant wearing a parachute.
+
+(i) The cabin area surrounding each seat, including the structure, interior walls, instrument panel, control wheel, pedals, and seat, within striking distance of the occupant's head or torso (with the restraint system fastened) must be free of potentially injurious objects, sharp edges, protuberances, and hard surfaces. If energy absorbing designs or devices are used to meet this requirement, they must protect the occupant from serious injury when the occupant is subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2) of this part, or they must comply with the occupant protection provisions of Sec. 23.562 of this part, as required in paragraphs (b) and (c) of this section.
+
+(j) Each seat track must be fitted with stops to prevent the seat from sliding off the track.
+
+(k) Each seat/restraint system may use design features, such as crushing or separation of certain components, to reduce occupant loads when showing compliance with the requirements of Sec. 23.562 of this part; otherwise, the system must remain intact.
+
+(l) For the purposes of this section, a front seat is a seat located at a flight crewmember station or any seat located alongside such a seat.
+
+(m) Each berth, or provisions for a litter, installed parallel to the longitudinal axis of the airplane, must be designed so that the forward part has a padded end-board, canvas diaphragm, or equivalent means that can withstand the load reactions from a 215 pound occupant when subjected to the inertia loads resulting from the ultimate static load factors of Sec. 23.561(b)(2) of this part. In addition--
+
+(1) Each berth or litter must have an occupant restraint system and may not have corners or other parts likely to cause serious injury to a person occupying it during emergency landing conditions; and 
+
+(2) Occupant restraint system attachments for the berths or litter must withstand the inertia loads resulting from the ultimate static load factors of Sec. 23.561(b)(2) of this part.
+
+(n) Proof of compliance with the static strength requirements of this section for seats and berths approved as part of the type design and for seat and berth installations may be shown by--
+
+(1) Structural analysis, if the structure conforms to conventional airplane types for which existing methods of analysis are known to be reliable;
+
+(2) A combination of structural analysis and static load tests to limit load; or
+
+(3) Static load tests to ultimate loads.
+
+Sec. 23.787 Baggage and cargo compartments.
+
+* * * * *
+
+(c) There must be a means to protect occupants from injury by the contents of any baggage or cargo compartment, located aft of the occupants and separated by structure, when the ultimate forward inertia load factor is 9g and assuming the maximum allowed baggage or cargo weight for the compartment.
+
+* * * * *
+
+(e) Designs which provide for baggage or cargo to be carried in the same compartment as passengers must have a means to protect the occupants from injury when the cargo is subjected to the inertia loads resulting from the ultimate static load factors of Sec. 23.561(b)(3) of this part, assuming the maximum allowed baggage or cargo weight for the compartment.
+
+* * * * *
+
+(g) Baggage compartments used in computer category airplanes must also meet the requirements of paragraphs (a), (b), (d), and (f) of this section.
+
+8. Section 23.807 is amended by removing paragraphs (d)(3) and m (d)(4) and revising paragraphs (a)(1) and (b) introductory text, to read as follows:
+
+Sec. 23.807 Emergency exits.
+
+(a) * * *
+
+(1) For all airplanes with a seating capacity of two or more, excluding airplanes with canopies, at least one emergency exit on the opposite side of the cabin from the main door specified in Sec. 23.783 of this part.
+
+(b) Type and operation. Emergency exits must be movable windows, panels, canopies, or external doors, openable from both inside and outside the airplane, that provide a clear and unobstructed opening large enough to admit a 19-by-26-inch ellipse. Auxiliary locking devices used to secure the airplane must be designed to be overridden by the normal internal opening means. In addition, each emergency exit must -
+
+* * * * *
+
+9. New Sec. 23.811 is added to read as follows:
+
+Sec. 23.811 Emergency exit marking.
+
+(a) Each emergency exit and external door in the passenger compartment must be externally marked and readily identifiable from outside the airplane by -
+
+(1) A conspicuous visual identification scheme; and
+
+(2) A permanent decal or placard on or adjacent to the emergency exit which shows the means of opening the emergency exit, including any special instructions, if applicable.
+
+(b) In addition, for commuter category airplanes, these exits and doors must be internally marked with the word "exit" by a sign which has white letters 1 inch high on a red background 2 inches high, be self-illuminated or independently, internally-electrically illuminated, and have a minimum brightness of at least 160 microlamberts. The color may be reversed if the passenger compartment illumination is essentially the same.
+
+10. New Sec. 23.813 is added to read as follows:
+
+Sec. 23.813 Emergency exit access.
+
+For commuter category airplanes, access to window-type emergency exits may not be obstructed by seats or seat backs.
+
+11. Section 23.967 is amended by revising paragraph (e)(1) to read as follows:
+
+Sec. 23.967 Fuel tank installation.
+
+* * * * *
+
+(e) * * *
+
+(1) When subjected to the inertia loads resulting from the ultimate static load factors prescribed in Sec. 23.561(b)(2) of this part; and
+
+* * * * *
+
+12. Section 23.1411 is amended by revising paragraph (b)(2) to read as follows:
+
+Sec. 23.1411 General
+
+* * * * *
+
+(b) * * *
+
+(2) Protect the safety equipment from damage caused by being subjected to the inertia loads resulting from the ultimate static load factors specified in Sec. 23.561(b)(3) of this part.
+
+13. Section 23.1413 is revised to read as follows:
+
+Sec. 23.1413 Safety belts and harnesses.
+
+Each safety belt and shoulder harness must be equipped with a metal-to-metal latching device.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on August 8, 1988.
+
+T. Allen McArtor,
+
+Administrator.
+
+[FR Doc. 88-18287 Filed 8-12-88; 8:45 am]
+
+BILLING CODE 4010-13-M
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 86-19; Issued on 11/28/86.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

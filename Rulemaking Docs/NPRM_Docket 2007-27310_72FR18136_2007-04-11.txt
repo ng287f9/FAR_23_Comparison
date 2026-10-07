@@ -1,0 +1,1082 @@
+CFR NPRM: Part 23|Part 25|Part 33|Part 35
+
+ 
+ 
+        
+CITATION: [Federal Register: April 11, 2007 (Volume 72, Number 69)]
+
+ 
+        
+PAGE NUMBER: [Page 18136-18148]
+
+ 
+        
+DOCKET NUMBER: 2007-27310
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 33|Part 35
+
+ 
+        
+SUBJECT: Airworthiness Standards; Propellers
+
+ 
+        
+ACTION: Notice of proposed rulemaking (NPRM).
+
+ 
+        
+SUMMARY: The Federal Aviation Administration (FAA) is proposing to revise the airworthiness standards for the issuance of original and amended type certificates for airplane propellers. The existing propeller requirements do not adequately address the technological advances of the past twenty years. The proposed standards would address the current advances in technology and would harmonize FAA and European Aviation Safety Agency (EASA) propeller certification requirements, thereby simplifying airworthiness approvals for imports and exports. 
+
+
+
+ 
+        
+DATES: Comments must be received on or before June 11, 2007.
+
+ 
+        
+ADDRESSES: You may send comments, identified by Docket No. FAA-2007- 27310, using any of the following methods: 
+
+ DOT Docket Web site: Got to http://dms.dot.gov and follow the instructions for sending your comments electronically. 
+
+ Government-wide rulemaking Web site: Go to http://www.regulations.gov and follow the instructions for sending your comments electronically.
+
+ Mail: Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590-001 
+
+ Fax: 1-202-493-2251 
+
+ Hand Delivery: Room Pl-401 on the plaza level of the Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. 
+
+ For more information on the rulemaking process, see the SUPPLEMENTARY INFORMATION section of this document. 
+
+ Privacy: We will post all comments we receive, without change, to http://dms.dot.gov, including any personal information that you provide. For more information, see the Privacy Act discussion in the SUPPLEMENTARY INFORMATION section of this document. 
+
+ Docket: To read background documents or comments received, go to http://dms.dot.gov at any time or to Room PL-401 on the plaza level of the Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. 
+
+
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Jay Turnberg, Engine and Propeller Directorate Standards Staff, ANE-110, Federal Aviation Administration, 12 New England Executive Park, Burlington, Massachusetts 01803-5299; telephone (781) 238-7116; facsimile (781) 238-7199, e-mail: jay.turnberg@faa.gov. 
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited 
+
+ The FAA invites interested persons to participate in rulemaking by submitting written data, views, or arguments on this proposed rule. We also invite comments relating to the environmental, energy, federalism, or economic impact that might result from adopting the proposals in this notice. The most helpful comments reference a specific portion of the proposal, explain the reason for any recommended change, and include supporting data. We ask that you send us two copies of written comments. 
+
+ We will file in the docket all comments we receive, as well as a report summarizing each substantive public contact with FAA personnel concerning this proposed rulemaking. The docket is available for public inspection before and after the comment closing date. If you wish to review the docket in person, go to the address in the ADDRESSES section of this preamble between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. You may also review the docket using the Internet at the web address in the ADDRESSES section. 
+
+ Privacy Act: Using the search function of our docket Web site, anyone can find and read the comments received into any of our dockets, including the name of the individual sending the comment (or signing the comment on behalf of an association, business, labor union, etc.). You may review DOT's complete Privacy Act Statement in the Federal Register published on April 11, 2000 (65 FR 19477-78) or you may visit http://dms.dot.gov. 
+
+ Before acting on this proposal, we will consider all comments we receive on or before the closing date for comments. We will consider comments filed late if it is possible to do so without incurring expense or delay. We may change this proposal in light of the comments we receive. 
+
+ If you want the FAA to acknowledge receipt of your comments on this proposal, include with your comments a pre-addressed, stamped postcard on which the docket number appears. We will stamp the date on the postcard and mail it to you. 
+
+Availability of NPRMs 
+
+ You can get an electronic copy using the Internet by: 
+
+ 1. Searching the Department of Transportation's electronic Docket Management System (DMS) Web page (http://dms.dot.gov/search); 
+
+ 2. Visiting the FAA's Regulations and Policies Web page at http://www.faa.gov/regulations_policies/; or 
+
+ 3. Accessing the Government Printing Office's Web page at http://www.gpoaccess.gov/fr/index.html . 
+
+ You can also get a copy by sending a request to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue, SW., Washington, DC 20591, or by calling (202) 267-9680. Make sure to identify the docket number, notice number, or amendment number of this rulemaking. 
+
+Background 
+
+ Advances in technology have meant that many propeller certification programs over the past decade have required repeated application of special conditions or special tests. In addition, the need to demonstrate compliance with both FAA and EASA requirements has placed additional burdens on propeller manufacturers who require foreign certification. Therefore, we concluded that part 35 should be substantially revised. 
+
+ In 1994, the FAA began an initiative to harmonize FAA propeller certification requirements with Europe's Joint Aviation Authorities (JAA) regulations (now the EASA certification specifications). As part of this effort, the FAA tasked the Aviation Rulemaking Advisory Committee through its Engine Harmonization Working Group (EHWG) to compare part 35 with JAA requirements, and identify differences. The EHWG was also to update existing requirements to reflect advancements in propeller design, including design and construction of composite material propellers, propeller control systems (such as dual acting control systems), and electronic controls for propellers. 
+
+ To complete this task, the EHWG established the Propeller Harmonization Working Group, with members from industry and government from Canada, France, Germany, United Kingdom, and the United States. The Propeller Harmonization Working Group focused on requirement differences between part 35 and Joint Aviation Requirements--Propellers (JAR-P) in six areas: 
+
+ 1. Those in part 35, but not in JAR-P; 
+
+ 2. Those in both part 35 and JAR-P, but not accepted as equivalent for both; 
+
+ 3. Those accepted as equivalent for both part 35 and JAR-P; 
+
+ 4. Those in which intent is not clear; 
+
+ 5. Those that may be simplified or deleted; and 
+
+ 6. Those that are new requirements not in either part 35 or JAR-P. 
+
+ This NPRM proposes to harmonize FAA part 35 propeller certification requirements with most of the requirements of EASA's Certification Specifications for Propellers (CS-P). 
+
+Reference Material 
+
+ We relied on the following material as a basis for this proposed rule: 
+
+ 1. Special Conditions No. 35-ANE-01, Hamilton Standard Model 247F Propeller, Docket No. 94-ANE-50. 
+
+ 2. Special Conditions No. 35-ANE-02, Hamilton Standard Model 568F Propeller, Docket No. 94-ANE-60. 
+
+ 3. Special Conditions No. 35-ANE-03, Hamilton Standard Model 568F Propeller, Docket No. 94-ANE-61. 
+
+ 4. Special Conditions SC-92-03-NE, Hartzell Propeller, Inc. Model HD-E6C-3( )/E13482K Dual Acting Propeller, Docket No. 92-ANE-47. 
+
+ 5. Joint Airworthiness Requirements--Propellers, JAR-P, Change 7, October 22, 1987. 
+
+ 6. Certification Specifications for Propellers (CS-P), Decision No. 2003/7/RM, October 24, 2003. 
+
+ 7. 14 CFR Part 21, Certification Procedures for Products and Parts. 
+
+ 8. 14 CFR Part 23, Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter Category Airplanes. 
+
+ 9. 14 CFR Part 25, Airworthiness Standards: Transport Category Airplanes. 
+
+ 10. 14 CFR Part 33, Airworthiness Standards: Engines. 
+
+ 11. 14 CFR Part 35, Airworthiness Standards: Propellers. 
+
+Section-by-Section Discussion of the Proposals 
+
+Sections 23.905 and 25.905 Propellers and Section 33.19 Durability 
+
+ We propose requiring that propeller controls that are certified as part of the airplane or engine type design meet the same requirements as propeller controls that are certified as part of the propeller type design. 
+
+Sections 23.907 and 25.907 Propeller Vibration and Fatigue 
+
+ We propose revising Sec. Sec. 23.907 and 25.907 to make them identical, and changing the titles of both sections from ``Propeller vibration'' to ``Propeller vibration and fatigue,'' to reflect the revised requirements. 
+
+ These sections require that a propeller demonstrate safe vibration compatibility with the airplane; they harmonize with CS-P 530, Vibration and Aeroelastic Effects and CS-P 550, Fatigue Evaluation. The vibration evaluation of a propeller on an airplane involves both vibration and fatigue requirements. The vibration evaluation of the propeller depends on the airplane and engine installation; the proposed requirements would show this dependency. 
+
+ The current requirements differ for part 23 and 25 airplanes and fail to address important areas. They do not address fatigue evaluation or require comparison to the fatigue limits and other structural data established in part 35. They do not require a revision of the propeller operating and airworthiness limitations, and they fail to address the flutter requirements of EASA's Certification Specifications for Propellers (CS-P). In the case of Sec. 23.907, they permit the use of service experience to show compliance, which is an unsatisfactory method to show the safety of the installation. 
+
+ Our proposed new paragraph (a) for Sec. Sec. 23.907 and 25.907 would require that applicants determine the stresses throughout the declared operational envelope of the airplane. It would permit applicants to determine stresses by analysis based on direct testing or by interpolation and measured data extrapolation if testing the entire airplane operational envelope is not feasible. The paragraph would also permit the determination of stress by comparison with a similar airplane for which these measurements were made. Our proposed paragraph, however, would not permit the use of service experience to determine stresses. 
+
+ Proposed paragraph (a) harmonizes with CS-P 530(b) by requiring that applicants investigate stress peaks or resonant conditions. 
+
+ Proposed paragraph (b) harmonizes with CS-P 530(a) by requiring that applicants address flutter. 
+
+ Proposed paragraph (c) would harmonize with CS-P 550 by requiring that applicants conduct a fatigue evaluation on the propeller. It would also harmonize with CS-P 550 by requiring that applicants revise the airplane and propeller operating and airworthiness limitations sections as needed to show compliance with the fatigue requirements. 
+
+ Prior to the propeller vibration and fatigue evaluation for the airplane installation, the propeller undergoes a substantial amount of structural evaluation during its certification to show compliance with part 35. Proposed paragraph (c) would require that the data obtained from the part 35 evaluation be used in the propeller fatigue evaluation. 
+
+Section 25.901 Installation 
+
+ We propose to add a reference in this section to the propeller installation instructions in Sec. 35.3 to ensure that part 25 airplane comply with the installation instructions for the propeller. 
+
+Part 35--Airworthiness Standards: Propellers 
+
+ We propose to renumber certain part 35 regulations to harmonize part 35 with EASA's CS-P. Part 35 designation will differ from the CS-P designation by a zero added to the CS-P designation. For example, our proposed Sec. 35.35 Centrifugal load tests will be equivalent to the CS-P 350 Centrifugal Load Tests. 
+
+Subpart A--General 
+
+ This subpart addresses the requirements for issuing propeller type certificates and changes to those type certificates. Our proposed revisions clarify the propeller configuration to be certificated; list the requirements for installing and operating the propeller; and specify ratings and operating limitations. 
+
+Section 35.1 Applicability 
+
+ We propose adding a new paragraph (c) to establish the relationship between propeller and airplane certification. 
+
+ We propose adding a paragraph (d) to refine the propeller definition for this part. Paragraph (d) would define a propeller and propeller system consistent with how those terms are used in part 35. 
+
+Section 35.2 Propeller Configuration and Identification 
+
+ We propose a new Sec. 35.2(a) that would require the applicant to provide a list of all the components and parts, including references to the relevant drawings and software design data, that defines the type design of the propeller the applicant wants approved. This requirement would improve the documentation regarding the propeller components that is included within the propeller type design. 
+
+ We propose a new Sec. 35.2(b) that would reinforce the link between parts 35 and 45 and harmonize with the CS-P. 
+
+Section 35.3 Instructions for Propeller Installation and Operation 
+
+ We propose to revise Sec. 35.3 to require specific content in propeller installation and operation instructions. The revision would require applicants to prepare installation instructions containing the data required by the airplane manufacturer to install and operate the propeller within the limitations of the propeller type design. 
+
+ The proposed revision would rename Sec. 35.3 to ``Instructions for propeller installation and operation'' to reflect the revised requirements. 
+
+Section 35.5 Propeller Ratings and Operating Limitations 
+
+ We propose revising Sec. 35.5 by modifying the requirements about establishing ratings and operating limitations. In our proposed paragraph (a), the applicant would establish the ratings and operating limitations, which would be subject to approval by the Administrator. This change reflects the process used now to establish the propeller limitations and ratings. 
+
+ We propose adding paragraph (b), which lists specific ratings and limits applicants must address. The list would include ratings for takeoff power and rotational speed, maximum continuous power and rotational speed. The proposed paragraph would also document transient overspeed and overtorque limits that would not require maintenance. The overspeed and overtorque limits are intended for inadvertent or maintenance use. 
+
+ Our proposed list in paragraph (b) does not represent all the ratings and operating limits that may be required for safe propeller operation. Paragraph (a) would state that the ratings and operating limitations must include limitations based on the operating conditions demonstrated during the tests required by this part and any other information necessary for safe propeller operation. 
+
+ We propose changing the title of Sec. 35.5 to ``Propeller ratings and operating limitations'' to reflect the revised requirements and to harmonize with CS-P 50, Propeller Ratings and Operating Limitations. 
+
+Section 35.7 Features and Characteristics 
+
+ We propose a new Sec. 35.7 that will incorporate requirements formerly in Sec. 35.15, Design features. 
+
+ The proposed Sec. 35.7(a) requires that a propeller not have any features or characteristics that make it unsafe for the purposes for which it is being certified. 
+
+ The proposed Sec. 35.7(b) indicates the applicant's responsibilities if a failure occurs during a certification test. 
+
+Subpart B--Design and Construction 
+
+ Part 35 subpart B addresses design and construction requirements for propellers. This proposed revision would maintain the intent of the current subpart. We propose, however, to remove sections that are redundant or no longer applicable and to revise or add sections that address existing and future design and construction technology not adequately covered by the current requirements. 
+
+Section 35.11 Applicability 
+
+ Section 35.11 is a descriptive statement about subpart B compliance that is fully addressed within Sec. 35.1. Therefore, we propose to remove Sec. 35.11 and mark the section ``reserved.'' 
+
+Section 35.13 General 
+
+ Section 35.13 is a descriptive statement about subpart B compliance that is fully addressed within Sec. 35.1. Therefore, we propose to remove Sec. 35.13 and mark the section ``reserved.'' 
+
+Section 35.15 Safety Analysis 
+
+ We propose to revise Sec. 35.15, Design features, and rename it ``Safety analysis'' to reflect its revised requirements. 
+
+ Our proposed revision would require that applicants conduct a safety analysis of the propeller. Safety analysis has been used to show compliance with the current requirement for the majority of new propeller certification programs during the past decade. The ultimate objective of the safety analysis is to ensure that the collective risk from all propeller failure conditions is acceptably low. The basis of safety analysis is the concept that an acceptable total propeller design risk is achievable by managing individual risks to acceptable levels. This concept emphasizes reducing the risk of an event proportionally with the severity of the hazard it represents. 
+
+ Our proposed revision would add definitions for hazardous and major propeller effects, based on CS-P, historical JAR-P requirements, and the propeller special conditions listed under ``Reference Material.'' These definitions would be used throughout part 35 and would only apply to this part. 
+
+ Showing compliance with the requirements of this section would not mean that a propeller is suitable for use on all or any airplane. For example, a part 25 airplane may require different failure effects and probabilities of failure than a part 23 airplane would. 
+
+Section 35.17 Materials and Manufacturing Methods 
+
+ We propose to revise and rename this section from ``Materials'' to ``Materials and manufacturing methods'' to reflect the revised requirements. Our proposed revision would require that the materials specifications and manufacturing methods used by applicants be acceptable to the FAA. The revision would remove the list of examples of approved specifications and change the word ``approved'' to ``acceptable.'' This change would reflect the level of review of the specifications by the FAA. 
+
+ Our proposed revision would also require that applicants consider the effects of environmental conditions expected in service when assessing material suitability and durability. We are including consideration for environmental effects in this proposed section because many materials used in the propeller design depend on the environment in which the propeller operates. This is especially relevant for composite materials that have age-dependent properties, as well as properties affected by humidity and temperature. 
+
+ Our proposed revision would also harmonize with CS-P requirements by requiring that applicants use the most adverse properties stated in the accepted specifications of their design values. This clarification would prevent misinterpretations regarding the application of material properties to the propeller design. 
+
+Section 35.21 Variable and Reversible Pitch Propellers 
+
+ We propose to revise and rename this section to from ``Reversible propellers'' to ``Variable and reversible pitch propellers'' to reflect the revised requirements. The revision would incorporate the current pitch control and indication requirements of Sec. 35.23(c). It would also expand the current Sec. 35.23(c) requirement to include all airplane installations with reversible propellers, including reciprocating engine aircraft, because the flight safety aspect of this rule applies regardless of engine type. Proposed Sec. 35.21 harmonizes with CS-P 210, Variable and Reversible Pitch Propellers. 
+
+Section 35.22 Feathering Propellers 
+
+ We propose a new Sec. 35.22 that will incorporate requirements for feathering propellers currently located in Sec. 35.23(b) and in CS-P 220, ``Feathering Propellers.'' We would incorporate the requirements of CS-P 220(a) into paragraph (a), which would require feathering propellers be designed to feather from all conditions in flight, taking into account expected wear and leakage. It would also require that applicants document the feathering characteristics and limitations in the appropriate manuals. 
+
+ We would move the feathering requirements of the current Sec. 35.23(b) to the new Sec. 35.22(b). 
+
+ We propose that the requirements of CS-P 220(c) be incorporated into paragraph (c). This paragraph would require the applicant to design the propeller to be capable of unfeathering at the minimum declared outside air temperature after stabilization to a steady-state temperature. 
+
+Section 35.23 Propeller Control System 
+
+ We propose to revise and rename Sec. 35.23 from ``Pitch control and indication'' to ``Propeller control system'' to reflect the revised requirements and to harmonize with CS-P 230. We would retain and revise current paragraph (a), redesignate and revise current paragraph (c) as Sec. 35.21(b), redesignate and revise current paragraph (b) as Sec. 35.22(b), and add several new paragraphs. 
+
+ Our proposed Sec. 35.23 would address propeller control design requirements concerning loss of normal control that may cause hazardous overspeeding and an alternative means to override or bypass the engine oil system for propellers that use engine oil to feather. It would also add requirements that address control system description, design, construction, validation, and software design, for all types of propeller mechanical, hydraulic, and electronic control systems. 
+
+ Our proposed Sec. 35.23(a)(1) would ensure that the control system, operating in normal and alternative modes and transitions between operating modes, performs the intended functions throughout the declared operating conditions and flight envelope. This requirement does not mandate flight test on an airplane. Substantiation by propeller tests, rig tests, airplane tests, analysis or a combination of these would be acceptable. 
+
+ Our proposed Sec. 35.23(a)(2) would ensure that the control system functionality is not adversely affected by declared environmental conditions. 
+
+ Our proposed Sec. 35.23(a)(3) would ensure that applicants provide methods to indicate to the flight crew, if crew action is required, that a mode change has occurred. 
+
+ Our proposed Sec. 35.23(b) would add system safety requirements in addition to those in Sec. 35.15. Paragraph (b)(1) would require that no single failure or malfunction of electronic or electrical components result in a hazardous propeller effect. Paragraph (b)(2) would address the relationship between failures of the linkages from the airplane to the propeller control, and the effects that airplane fires and overheating have on the propeller control. Paragraph (b)(3) would adopt the requirements of the current Sec. 35.23(a). Paragraph (b)(4) would address the effect of isolation between propellers on an airplane. 
+
+ Our proposed Sec. 35.23(c) would add a requirement that all software be designed and implemented by a method approved by the FAA. It would require that the software design be consistent with the criticality of the performed functions to minimize the existence of software errors. 
+
+ Our proposed Sec. 35.23(d) would add requirements for airplane- supplied data so that no single failure or malfunction of airplane- supplied data would result in a hazardous propeller effect. 
+
+ Our proposed Sec. 35.23(e) would add requirements for airplane- supplied electrical power so that abnormalities of the power supply would not result in hazardous effects and would not require a declaration of the validated power supply characteristics. 
+
+Section 35.24 Strength 
+
+ We propose adding a new Sec. 35.24 to establish strength requirements for propellers consistent with those required by CS-P 240. 
+
+Subpart C--Type Substantiation 
+
+ We propose to remove those regulations in this subpart that are redundant or no longer apply and to modify and add sections to reflect existing industry practices. We also propose to change the subpart heading from ``Tests and Inspections'' to ``Type Substantiation,'' since subpart C applies to both testing and analysis. 
+
+Section 35.31 Applicability 
+
+ We propose to remove the content of Sec. 35.31 and to mark the section ``reserved'' since Sec. 35.31 is a descriptive statement about subpart C and not a requirement. 
+
+Section 35.33 General 
+
+ Section 35.33(a) does not adequately address part 21 certification requirements. We propose, therefore, to revise Sec. 35.33(a) to identify that the testing conducted in this subpart is also governed by the test requirements established in part 21. 
+
+ We propose a new Sec. 35.33(b) and (c) to harmonize with CS-P 330(b), which requires that automatic controls operate during tests. Our proposed Sec. 35.33(b) would adopt this requirement and add that it also applies to propeller safety systems. Also, our proposed Sec. 35.33(b) clarifies the conditions under which some tests may be conducted without the automatic controls or safety systems. For example, the applicant may have to disable a primary system to test a backup system. 
+
+ CS-P 440 requires that applicants address potential safety issues that may occur if required testing does not adequately test a component during propeller certification. Our proposed Sec. 35.33(c) would adopt this requirement. 
+
+Section 35.34 Inspections, Adjustments, and Repairs 
+
+ We propose a new Sec. 35.34 which would revise and incorporate inspection requirements from Sec. 35.45 and the adjustment and repairs requirements from Sec. 35.47. 
+
+ We propose a new Sec. 35.34(a) to harmonize with CS-P340 requirements for pre-test inspections. Our proposal moves the post-test inspection requirements of the existing Sec. 35.45, Teardown inspection, and consolidates them here. Pre-test inspection establishes the condition of the test article prior to testing. This is particularly important for composite structures in which damage may be internal and not visible. If internal damage is present prior to the start of the test, then the post-test inspection may not be valid without knowledge of the pre-test condition of the test article. 
+
+ Our proposal also would relocate the existing requirements of Sec. 35.47 to a new Sec. 35.34(b), since the requirements in Sec. 35.47 are related to testing. 
+
+Section 35.35 Centrifugal Load Tests 
+
+ We propose revising Sec. 35.35 and renaming it as ``Centrifugal load tests'' to reflect the revised requirements. 
+
+ Our proposal would define requirements for the entire propeller and include consideration of material degradation expected in service. Material degradation considerations apply to all types of construction, but would be specifically added to address composite materials, which may absorb moisture or show some evidence of delamination prior to retirement from service. 
+
+ We propose a Sec. 35.35(a) that would require the hub, blade retention, and counterweights be tested to twice the centrifugal load for one hour. This test is designed to assure a suitable static strength margin above the maximum rated rotational speed. 
+
+ Our proposed Sec. 35.35(b) would require the transition in a composite blade from the composite material to the metallic retention be tested to twice the centrifugal load for one hour. This requirement would also apply to other types of construction in which a blade to retention transition occurs. 
+
+ Our proposed Sec. 35.35(c) would harmonize with CS-P 350 by requiring that lower energy debris for the entire propeller be evaluated at 159 percent of the maximum centrifugal load. The low energy debris would include spinners, de-icing equipment, blade erosion shields, and other assemblies used with or attached to the propeller. 
+
+Section 35.36 Bird Impact 
+
+ We propose adding a new Sec. 35.36 to part 35 to address bird impact with the propeller. Our proposed Sec. 35.36 incorporates the use of special conditions for propellers with composite blades and would extend the bird impact certification requirement to all propeller designs, except fixed-pitch wood propellers of conventional design. Section 35.36 would exclude conventional fixed-pitch wood propellers because of their satisfactory experience. The new requirement would apply to metallic blades but would allow compliance by experience from similar designs. 
+
+ Industry recognized the need for bird impact requirements when composite blades were introduced in the 1970s. The safety issues have been addressed by special tests and special conditions for composite blade certifications. These special conditions were unique for each propeller and effectively stated that the propeller must withstand a 4- pound bird impact without contributing to a major or hazardous propeller effect. The special tests and special conditions have been effective for over 50 million flight hours, and no accidents have been attributed to bird impact against composite propellers. The selection of a 4-pound bird is based on the extensive service history of blades that have been designed using the 4-pound bird criteria. 
+
+Section 35.37 Fatigue Limits and Evaluation 
+
+ We propose to rename Sec. 35.37 from ``Fatigue limit tests'' to ``Fatigue limits and evaluation'' and revise it to harmonize with CS-P 370, Fatigue Characteristics. The current requirement does not adequately address composite materials and is limited to hubs, blades, and primary load-carrying metal components of nonmetallic blades. Our proposed Sec. 35.37 would expand the requirement to all materials and components (including controls system components, if applicable) whose failure would cause a hazardous propeller effect and also include environmental effects. It would retain the fatigue evaluation requirement in paragraph (b), but would require that the fatigue evaluation be conducted on the intended airplane in accordance with Sec. Sec. 23.907 or 25.907 or on a typical airplane. Applicants may configure a typical airplane to develop design criteria for the propeller in those instances when the intended airplane installation is either unavailable or unknown at propeller type certification. 
+
+Section 35.38 Lightning Strike 
+
+ We propose a new Sec. 35.38, Lightning strike, to harmonize with CS-P 380, Lightning Strike. Part 35 currently has no lightning strike requirements. Our proposed Sec. 35.38 requires that composite propellers withstand a lightning strike without contributing to a major or hazardous propeller effect. It also reflects current practices in the industry and the special tests and special conditions we issued for lightning strikes when composite blades were first introduced. 
+
+ Our new Sec. 35.38 would exclude conventional fixed-pitch wood propellers because of their satisfactory experience. This new requirement would apply to metallic blades but allow compliance by experience from similar designs. 
+
+Section 35.39 Endurance Test 
+
+ We propose to revise Sec. 35.39 to harmonize with CS-P 390. We would remove the existing 10-hour endurance block test from this section because testing one propeller at the greatest pitch and diameter for 10 hours is not adequate for a family of propellers. All current fixed-pitch propellers are being tested in accordance with the current 50-hour test requirement, which provides an adequate test. 
+
+ The proposed revision would delete the requirement to test a propeller of the greatest diameter for which certification is requested. We are introducing this change because testing of the greatest diameter is restrictive and does not necessarily result in an increase in airworthiness. 
+
+Section 35.40 Functional Test 
+
+ We propose to redesignate the current Sec. 35.41 as Sec. 35.40 to harmonize with CS-P 400, Functional Test. 
+
+Section 35.41 Overspeed and Overtorque 
+
+ We propose a new overspeed and overtorque requirement to harmonize with CS-P 410(a). We will rename Sec. 35.41 ``Overspeed and overtorque'' to reflect the revised requirements. Our proposal would require that applicants verify the declared transient overspeed and overtorque limits of the propeller. 
+
+Section 35.42 Components of the Propeller Control System 
+
+ We propose to combine the current Sec. 35.42(a) and (b) into a single paragraph and rename Sec. 35.42 as ``Components of the propeller control system'' to reflect the revised requirements. We would expand the 1000-hour operation requirement to the initially declared inspection interval or to a minimum of 1000 hours. 
+
+Section 35.43 Propeller Hydraulic Components 
+
+ We propose to revise the current Sec. 35.43, Special tests, and rename it as ``Propeller hydraulic components'' to reflect the revised requirements. Our revision would delete the duplication common between Sec. 35.43 and Sec. 21.16 and would harmonize with CS-P 430. 
+
+ The Propeller Harmonization Working Group determined that it is in the best interest of the public to require special conditions be issued and made available to the public when testing is required for unconventional features of design, material, or construction. We are, therefore, proposing to remove the special tests requirement of Sec. 35.43. 
+
+ Our proposed Sec. 35.43 would add requirements for testing propeller components that contain hydraulic pressure. These tests have been previously required by special condition or special tests under the current Sec. 35.43. This proposal adopts the test procedures that are being conducted on applicable components. 
+
+Section 35.45 Reserved 
+
+ We propose to revise Sec. 35.45 by moving the teardown inspection requirements to Sec. 35.34, as noted above, and to mark Sec. 35.45 ``reserved.'' 
+
+Section 35.47 Propeller Adjustments and Parts Replacements 
+
+ We propose to revise Sec. 35.47 by moving the propeller adjustment and repair requirements to Sec. 35.34, as noted above, and to mark Sec. 35.47 ``Reserved.'' 
+
+Rulemaking Analyses and Notices 
+
+Authority for This Rulemaking 
+
+ Title 49 of the U.S. Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106, describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the Agency's authority. 
+
+ We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ``General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce, including minimum safety standards for aircraft engines. This proposed rule is within the scope of that authority because it updates the existing regulations for airplane propellers. 
+
+Paperwork Reduction Act 
+
+ The Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)) requires that the FAA consider the impact of paperwork and other information collection burdens imposed on the public. We have determined that there are no current new information collection requirements associated with this proposed rule. 
+
+International Compatibility 
+
+ In keeping with U.S. obligations under the Convention on International Civil Aviation, it is FAA policy to comply with International Civil Aviation Organization (ICAO) Standards and Recommended Practices to the maximum extent practicable. The FAA has reviewed the corresponding ICAO Standards and Recommended Practices and has identified no differences with these proposed regulations. 
+
+Economic Assessment, Regulatory Flexibility Determination, Trade Impact Assessment, and Unfunded Mandates Assessment 
+
+ Changes to Federal regulations must undergo several economic analyses. First, Executive Order 12866 directs that each Federal agency shall propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs. Second, the Regulatory Flexibility Act of 1980 (Pub. L. 96-354) requires agencies to analyze the economic impact of regulatory changes on small entities. Third, the Trade Agreements Act (Pub. L. 96-39) prohibits agencies from setting standards that create unnecessary obstacles to the foreign commerce of the United States. In developing U.S. standards, this Trade Act also requires agencies to consider international standards and, where appropriate, to be the basis of U.S. standards. Fourth, the Unfunded Mandate Reform Act of 1995 (Pub. L. 104-4) requires agencies to prepare a written assessment of the costs, benefits, and other effects of proposed or final rules that include a Federal mandate likely to result in the expenditure by State, local, or tribal governments, in the aggregate, or by the private sector, of $100 million or more annually (adjusted for inflation with base year of 1995). This portion of the preamble summarizes the FAA's analysis of the economic impacts of this proposed rule. 
+
+ The Department of Transportation Order DOT 2100.5 prescribes policies and procedures for simplification, analysis, and review of regulations. If the expected cost impact is so minimal that a proposal does not warrant a full evaluation, this order permits a statement to that effect. The basis for the minimal impact must be included in the preamble, if a full regulatory evaluation of the cost and benefits is not prepared. Such a determination has been made for this rule. The reasoning for that determination follows. 
+
+ To a great extent this proposed rule would require propeller manufacturers to certificate future production propellers for sale in the United States to the same European standards that these firms already meet. The European Aviation Safety Agency, the European equivalent to the FAA, became responsible for certification of aircraft, engines, parts and appliances on September 28, 2003 by Commission Regulation (EC) 1702/2003. Because the U.S. and European effort to have common certification propeller regulations was almost completed when EASA became operational, the proposed part 35 and the European propeller requirements CS-P are almost identical. CS-P is now an official rule of a foreign regulatory agency while this is a proposed rule. To export propellers to Europe, U.S. manufacturers now must meet the European requirements. Before Europe made these requirements, industry provided us with a cost estimate of $31 million over a 25-year analysis period for them to be in compliance with the FAA proposed propeller requirements which would have codified existing special tests and conditions. But as manufacturers are already in compliance with these now harmonized proposed requirements, there are no additional compliance costs. 
+
+ This proposed rule has only one regulation stricter than EASA's CS- P. The FAA proposes to extend the current special condition 4-pound bird strike test for composite propeller blades. CS-P requires newly certificated propellers to withstand a 4-pound bird strike for equivalent part 25 airplanes. However, CS-P requires newly certificated propellers to withstand a 2.8-pound bird strike for equivalent part 23 commuter airplanes and does not require a bird strike test for other equivalent part 23 airplanes. U. S. propeller manufacturers provided us with their estimated costs to meet the proposed 4-pound requirement. Over a 25-year analysis period (based on the operational life of a propeller) we estimate the total cost for 635 future propellers to be $458,000 or $213,000 in present value (7 percent discount rate). The FAA considers this cost to be minimal. 
+
+ The benefits from this higher bird-strike requirement are an expected continuity of over fifty million flight hours with no accidents attributed to bird impacts against composite propellers despite many bird strikes. Between 1990 and 2004, there have been over 150 bird strikes to part 23 propellers (see the FAA National Wildlife Strike Database, Version 6.0, February 26, 2005; available online at http://wildlife.pr.erau.edu/public/index1.html). 
+
+ We, therefore, have determined that this rulemaking action is not a ``significant regulatory action'' as defined in section 3(f) of Executive Order 12866, and is not ``significant'' as defined in DOT's Regulatory Policies and Procedures. In addition, the FAA has determined that this rulemaking action: (1) Would not have a significant economic impact on a substantial number of small entities; (2) would be in compliance with the Trade Agreements Act; and (3) would not impose an unfunded mandate on state, local, or tribal governments, or on the private sector. 
+
+Regulatory Flexibility Determination 
+
+A. Introduction 
+
+ The Regulatory Flexibility Act of 1980 (RFA) establishes ``* * * as a principle of regulatory issuance that agencies shall endeavor, consistent with the objective of the rule and of applicable statutes, to fit regulatory and informational requirements to the scale of the business, organizations, and governmental jurisdictions subject to regulation.'' To achieve that principle, the RFA requires agencies to solicit and consider flexible regulatory proposals and to explain the rationale for their actions. The RFA covers a wide-range of small entities, including small businesses, not-for-profit organizations and small governmental jurisdictions. 
+
+ Agencies must perform a review to determine whether a proposed or final rule would have a ``significant economic impact on a substantial number of small entities.'' If the determination is that it will, the agency must prepare a regulatory flexibility analysis as described in the RFA. 
+
+ However, if an agency determines that a proposed or final rule is not expected to have a significant economic impact on a substantial number of small entities, section 605(b) of the 1980 RFA provides that the head of the agency may so certify and a regulatory flexibility analysis is not required. The certification must include a statement providing the factual basis for this determination, and the reasoning should be clear. 
+
+ The purpose of this Initial Regulatory Flexibility Analysis (IRFA) is to ensure that the agency has considered all reasonable regulatory alternatives that would minimize the proposal's economic burdens for affected small entities, while achieving its safety objectives. 
+
+ Under Section 603 of the RFA, the analysis must address: 
+
+ Description of reasons the agency is considering the action. 
+
+ Statement of the legal basis and objectives for the proposal. 
+
+ Description of the recordkeeping and other compliance requirements of the proposal. 
+
+ All federal rules that may duplicate, overlap, or conflict with the proposal. 
+
+ Description and an estimated number of small entities to which the proposal would apply. 
+
+ Analysis of small firms' ability to afford the proposal. 
+
+ Conduct a competitive analysis. 
+
+ Estimation of the potential for business closures. 
+
+ Describe the alternatives considered. 
+
+ Conduct a disproportionality analysis. 
+
+B. Reasons for This Proposal 
+
+ The FAA proposes to revise the airworthiness standards for the issuance of original and amended type certificates for airplane propellers. The existing propeller requirements do not adequately address the technological advances of the past 20 years. The proposed standards would address the current advances in technology and would harmonize the FAA requirements with the existing requirements of Certification Specifications for Propellers of the EASA. This proposal would establish nearly uniform standards for aircraft propellers certified by the United States under FAA standards and by European countries under EASA standards, thereby simplifying airworthiness approvals for import and export products. 
+
+C. Statement of the Legal Basis and Objectives 
+
+ Under Title 49 of the U. S. Code, the FAA Administrator is required to consider the following matters, among others, as being in the public interest: Assigning, maintaining, and enhancing safety and security as the highest priorities in air commerce. (See 49 U.S.C. 40101(d)(1).). Additionally, it is the FAA Administrator's statutory duty to carry out his or her responsibilities ``in a way that best tends to reduce or eliminate the possibility or recurrence of accidents in air transportation.'' (See 49 U.S.C. 44701(c).) 
+
+ Accordingly, this proposal would amend Title 14 of the Code of Federal Regulations to update the propeller certification requirements to reflect technological changes in the last 10 to 20 years, reduce the need for and use of special tests and conditions for propeller certification, and to harmonize U.S. propeller certification requirements with European propeller certification requirements. 
+
+D. Projected Reporting, Recordkeeping and Other Requirements 
+
+ The Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)) requires that the FAA consider the impact of paperwork and other information collection burdens imposed on the public. We have determined that there are no current new information collection requirements associated with this proposed rule. 
+
+E. Overlapping, Duplicative, or Conflicting Federal Rules 
+
+ The FAA is unaware that the proposal would overlap, duplicate, or conflict with existing Federal Rules. 
+
+F. Estimated Number of Small Firms Potentially Impacted 
+
+ Under the RFA, the FAA must determine whether or not a proposal significantly affects a substantial number of small entities. This determination is typically based on small entity size and cost thresholds that vary depending on the affected industry. The Small Business Administration (SBA) uses the NAICS (North American Industry Classification System) 2002 to determine size standards for small businesses. There is no entry in the NAICS 2002 for propeller manufacturers. However, the NAICS 2002 does list under Sectors 31-33, Manufacturing, Subsector 336, Transportation Equipment Manufacturing, which in turn lists the following numbers and number of employees as shown in the following table: 
+
+NAICS 2002 No. 
+
+ Description 
+
+ Number of employees 
+
+ 
+
+336411 Aircraft Manufacturing. 1,500 
+
+336412 Aircraft Engine and Engine Parts Manufacturing. 1,000 
+
+336413 Other Aircraft Part and Auxiliary Equipment Manufacturing. 1,000 
+
+ Propeller manufacturing could be included in 336412, Aircraft Engine and Aircraft Parts Manufacturing; or 336413, Other Aircraft Parts and Auxiliary Equipment Manufacturing. Both these categories use 1,000 employees to define a small business. Therefore, the FAA defines a small business in the variable pitch propeller manufacturing industry as a business with 1,000 or less employees. In accordance with SBA usage, this number applies to the ultimate ownership of the company. 
+
+ In 2004, the American airplane variable pitch propeller industry consisted of three firms. These firms were Hamilton Sundstrand, Hartzell, and McCauley. Hamilton Sundstrand is a subsidiary of United Technologies that employed approximately 210,000 people and had annual revenues of approximately $37 billion in 2004.1 McCauley Propeller Systems is owned by Cessna, which, in turn, is owned by Textron, Inc. Textron employed some 44,000 people and had annual revenues of some $10 billion in 2004.2Hartzell Propeller, Inc. employed 295 employees in 2003 and had annual revenues between $20 and $50 million in 2002.3 --------------------------------------------------------------------------- 
+
+ 1 --, United Technologies Corporation--Our Profile, http://www.utc.com/profile/profile/index.htm , 08/26/2005. 
+
+ 2 http://www.textron.com/about/company/index.jsp (Accessed 08/26/2005). 
+
+ 3 --, Reference USA, Version 2003.1, http://www.referenceusa.com/bd/detail.asp?si=97350308854484&abinumber=402250104&t... , 11/25/02. 
+
+--------------------------------------------------------------------------- 
+
+ Using the above criteria, Hartzell is a small business and Hamilton Sundstrand and McCauley are not small businesses. Because only one company is a small business, this proposal would not affect a substantial number of small entities. 
+
+G. Cost and Affordability for Small Entities 
+
+ The 25 year present value estimate of the costs of the proposal is $213,000 or $18,000 annually. Assuming that this cost is distributed evenly across the three firms in the American propeller industry, this results in a cost of $6,000 per company per year. 
+
+ Hartzell Propeller does not release its annual financial statements. The reference source ``Reference, USA, 2003,'' uses a model to estimate the annual revenues of privately held firms that do not release their financial statements. Therefore, this source provides a range estimate of firms such as Hartzell. The annual revenue of Hartzell Propellers was estimated to be between $20 and $50 million annually, or an average of $37.5 million, by ``Reference USA, 2003.'' 
+
+ A comparison of the annual costs of the proposal per firm to the annual revenues of a firm provides a rough estimate of the burden the rule causes for a firm. Applying the above technique to the small propeller entity yields the following results: 
+
+Company 
+
+ Annual cost of rule 
+
+ Annual revenue 
+
+ Percent of annual revenue 
+
+ 
+
+Hartzell $6,000 $37,500,000 0.016 
+
+ Given the estimated cost and revenue, the FAA believes that the cost would have only a minor impact on the small firm. 
+
+H. Competitive Analysis 
+
+ As the cost information is at the company level and the propeller firms do not all produce the same kind of propeller, the FAA does not have sufficient information to analyze the competitive impact of this proposal. 
+
+I. Disproportionality Analysis 
+
+ Relative to larger propeller manufacturers, smaller propeller manufacturers are more likely to be disproportionately impacted by this rulemaking because the larger manufacturers have relatively higher fixed costs than the smaller manufacturers. These fixed costs are not impacted by the costs that would be imposed by this proposal. The larger propeller manufacturers are expected to incur costs which are a relatively smaller percentage of their annual revenues than those of smaller propeller manufacturers. 
+
+J. Business Closure Analysis 
+
+ The one small business entity has a relatively low compliance cost per annual revenue ratio. We believe that this minor compliance cost would not cause firms to face a business closure. The FAA does not have sufficient information to provide a more refined estimate of a potential business closure. 
+
+K. Analysis of Alternatives 
+
+ The agency considered three alternatives to the proposal. These were: 
+
+ 1. Exclude small entities. 
+
+ 2. Extend compliance deadline for small entities. 
+
+ 3. Establish lesser technical requirements for small entities. 
+
+ The FAA concludes that the option to exclude small entities from all the requirements of the proposal is not justified. If small entities were excluded the intended safety improvements would be forfeited. 
+
+ The FAA also considered options that would lengthen the compliance period for small operators. The FAA believes that the requirement, as proposed, would place a modest burden on small entities with respect to time constraints. Small entities would have sufficient time from the effective date of the rule to complete implementation work. Further time extensions would only provide modest cost savings and leave the system safety at risk. 
+
+ The FAA considered establishing lesser technical requirements for small entities. However, the FAA believes that this would result in a lower level of safety than would the implementation of the proposal. The FAA believes that the greatest safety benefits would come from a common certification rule for all manufacturers. 
+
+ The FAA concludes that the current proposal is the preferred alternative because the current proposal provides for a common certification system for all propeller manufacturers. 
+
+ In conclusion, as only one small entity would be affected there are not a substantial number of small entities. Therefore, the FAA certifies that this rule will not have a significant economic impact on a substantial number of small entities. The FAA solicits comments regarding this determination. 
+
+Trade Impact Assessment 
+
+ The Trade Agreements Act of 1979 (Pub. L. 96-39) prohibits Federal agencies from establishing any standards or engaging in related activities that create unnecessary obstacles to the foreign commerce of the United States. Legitimate domestic objectives, such as safety, are not considered unnecessary obstacles. The statute also requires consideration of international standards and, where appropriate, that they be the basis for U.S. standards. The FAA has assessed the potential effect of this proposed rule and determined that it will accept European standards as the basis for U.S. regulations. 
+
+Unfunded Mandates Reform Act 
+
+ Title II of the Unfunded Mandate Reform Act of 1995 (Pub. L. 104-4) requires each Federal agency to prepare a written statement assessing the effects of any Federal mandate in a proposed or final agency rule that may result in an expenditure of $100 million or more (adjusted annually for inflation with the base year 1995) in any one year by State, local, and tribal governments, in the aggregate, or by the private sector. The FAA currently uses an inflation-adjusted value of $128.1 million in lieu of $100 million. 
+
+ This proposed rule does not contain such a mandate. The requirements of Title II do not apply. 
+
+Executive Order 13132, Federalism 
+
+ The FAA has analyzed this proposed rule under the principles and criteria of Executive Order 13132, Federalism. We determined that this action would not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, we determined that this proposed rulemaking would not have federalism implications. 
+
+Environmental Analysis 
+
+ FAA Order 1050.1E identifies FAA actions that are categorically excluded from preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act in the absence of extraordinary circumstances. The FAA has determined that this proposed rule qualifies for the categorical exclusion identified in Chapter 3, paragraph 312d and involves no extraordinary circumstances. 
+
+Regulations that Significantly Affect Energy Supply, Distribution, or Use 
+
+ The FAA has analyzed this NPRM under Executive Order 13211, Actions Concerning Regulations that Significantly Affect Energy Supply, Distribution, or Use (May 18, 2001). We have determined that it is not a ``significant energy action'' under the executive order because it is not a ``significant regulatory action'' under Executive Order 12866, and it is not likely to have a significant adverse effect on the supply, distribution, or use of energy. 
+
+List of Subjects in 14 CFR Parts 23, 25, 33 and 35 
+
+ Air transportation, Aircraft, Aviation safety, Safety. 
+
+
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment 
+
+ In consideration of the foregoing, the Federal Aviation Administration proposes to amend parts 23, 25, 33, and 35 of Title 14 Code of Federal Regulations as follows: 
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES 
+
+ 1. The authority citation for part 23 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704. 
+
+ 2. Revise Sec. 23.905(d) to read as follows: 
+
+Sec. 23.905 Propellers. 
+
+* * * * *
+
+ (d) The propeller blade pitch control system must meet the requirements of Sec. Sec. 35.21, 35.23, 35.42 and 35.43 of this chapter.
+
+* * * * *
+
+ 3. Revise Sec. 23.907 to read as follows: 
+
+Sec. 23.907 Propeller vibration and fatigue. 
+
+ Sections 23.907(a), (b), and (c) do not apply to fixed-pitch wood propellers of conventional design. 
+
+ (a) The applicant must determine the magnitude of the propeller vibration stresses or loads, including any stress peaks and resonant conditions, throughout the operational envelope of the airplane by either: 
+
+ (1) Measurement of stresses or loads through direct testing or analysis based on direct testing of the propeller on the airplane and engine installation for which approval is sought; or 
+
+ (2) Comparison of the propeller to similar propellers installed on similar airplane installations for which these measurements have been made. 
+
+ (b) The applicant must demonstrate by tests, analysis based on tests, or previous experience on similar designs that the propeller does not experience harmful effects of flutter throughout the operational envelope of the airplane. 
+
+ (c) The applicant must perform an evaluation of the propeller to show that failure due to fatigue will be avoided throughout the operational life of the propeller using the fatigue and structural data obtained in accordance with part 35 and the vibration data obtained from compliance with paragraph (a) of this section. For the purpose of this paragraph, the propeller includes the hub, blades, blade retention component and any other propeller component whose failure due to fatigue could be catastrophic to the airplane. This evaluation must include: 
+
+ (1) The intended loading spectra including all reasonably foreseeable propeller vibration and cyclic load patterns, identified emergency conditions, allowable overspeeds and overtorques, and the effects of temperatures and humidity expected in service. 
+
+ (2) The effects of airplane and propeller operating and airworthiness limitations. 
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES 
+
+ 4. The authority citation for part 25 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704. 
+
+ 5. Revise Sec. 25.901(b)(1)(i) to read as follows: 
+
+Sec. 25.901 Installation. 
+
+* * * * *
+
+ (b) * * * 
+
+ (1) * * * 
+
+ (i) The installation instructions provided under Sec. Sec. 33.5 and 35.3 of this chapter; and 
+
+* * * * *
+
+ 6. Revise Sec. 25.905(c) to read as follows: 
+
+Sec. 25.905 Propellers. 
+
+* * * * *
+
+ (c) The propeller blade pitch control system must meet the requirements of Sec. Sec. 35.21, 35.23, 35.42 and 35.43 of this chapter. 
+
+* * * * *
+
+ 7. Revise Sec. 25.907 to read as follows: 
+
+Sec. 25.907 Propeller vibration. 
+
+ Section 25.907 does not apply to fixed-pitch wood propellers of conventional design. 
+
+ (a) The applicant must determine the magnitude of the propeller vibration stresses or loads, including any stress peaks and resonant conditions, throughout the operational envelope of the airplane by either: 
+
+ (1) Measurement of stresses or loads through direct testing or analysis based on direct testing of the propeller on the airplane and engine installation for which approval is sought; or 
+
+ (2) Comparison of the propeller to similar propellers installed on similar airplane installations for which these measurements have been made. 
+
+ (b) The applicant must demonstrate by tests, analysis based on tests, or previous experience on similar designs that the propeller does not experience harmful effects of flutter throughout the operational envelope of the airplane. 
+
+ (c) The applicant must perform an evaluation of the propeller to show that failure due to fatigue will be avoided throughout the operational life of the propeller using the fatigue and structural data obtained in accordance with part 35 and the vibration data obtained from compliance with paragraph (a) of this section. For the purpose of this paragraph, the propeller includes the hub, blades, blade retention component and any other propeller component whose failure due to fatigue could be catastrophic to the airplane. This evaluation must include: 
+
+ (1) The intended loading spectra including all reasonably foreseeable propeller vibration and cyclic load patterns, identified emergency conditions, allowable overspeeds and overtorques, and the effects of temperatures and humidity expected in service. 
+
+ (2) The effects of airplane and propeller operating and airworthiness limitations. 
+
+PART 33--AIRWORTHINESS STANDARDS: AIRCRAFT ENGINES 
+
+ 8. The authority citation for part 33 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704. 
+
+ 9. Revise Sec. 33.19(b) to read as follows: 
+
+Sec. 33.19 Durability. 
+
+* * * * *
+
+ (b) Each component of the propeller blade pitch control system which is a part of the engine type design must meet the requirements of Sec. Sec. 35.21, 35.23, 35.42 and 35.43 of this chapter. 
+
+* * * * *
+
+PART 35--AIRWORTHINESS STANDARDS: PROPELLERS 
+
+ 10. The authority citation for part 35 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704. 
+
+Subpart A--General 
+
+ 11. In Sec. 35.1, add paragraphs (c) and (d) to read as follows: 
+
+Sec. 35.1 Applicability. 
+
+* * * * *
+
+ (c) An applicant is eligible for a propeller type certificate and changes to those certificates after demonstrating compliance with subparts A, B and C of this part. However, the propeller may not be installed on an airplane unless the applicant has shown compliance with either Sec. 23.907 or Sec. 25.907, as applicable, or compliance is not required for installation on that airplane. 
+
+ (d) For the purposes of this part, the propeller consists of those components listed in the type design, and the propeller system consists of the propeller plus all the components necessary for its functioning, but not necessarily included in the propeller type design. 
+
+ 12. Add Sec. 35.2 to read as follows: 
+
+Sec. 35.2 Propeller configuration and identification. 
+
+ (a) The applicant must provide a list of all the components, including references to the relevant drawings and software design data, that define the type design of the propeller to be approved under Sec. 21.31. 
+
+ (b) The propeller identification must comply with Sec. Sec. 45.11 and 45.14. 
+
+ 13. Revise Sec. 35.3 to read as follows: 
+
+Sec. 35.3 Instructions for propeller installation and operation. 
+
+ The applicant must provide instructions that are approved by the Administrator. Those approved instructions must contain: 
+
+ (a) Instructions for installing the propeller, which: 
+
+ (1) Include a description of the operational modes of the propeller control system and functional interface of the control system with the airplane and engine systems; 
+
+ (2) Specify the physical and functional interfaces with the airplane, airplane equipment and engine; 
+
+ (3) Define the limiting conditions on the interfaces from paragraph (a)(2) of this section; 
+
+ (4) List the limitations established under Sec. 35.5; 
+
+ (5) Define the hydraulic fluids approved for use with the propeller, including grade and specification, related operating pressure, and filtration levels; and 
+
+ (6) State the assumptions made to comply with the requirements of this part. 
+
+ (b) Instructions for operating the propeller which must specify all procedures necessary for operating the propeller within the limitations of the propeller type design. 
+
+ 14. Revise Sec. 35.5 to read as follows: 
+
+Sec. 35.5 Propeller ratings and operating limitations. 
+
+ (a) Propeller ratings and operating limitations must: 
+
+ (1) Be established by the applicant and approved by the Administrator. 
+
+ (2) Be included directly or by reference in the propeller type certificate data sheet, as specified in Sec. 21.41 of this chapter. 
+
+ (3) Be based on the operating conditions demonstrated during the tests required by this part as well as any other information the Administrator requires as necessary for the safe operation of the propeller. 
+
+ (b) Propeller ratings and operating limitations must be established for the following, as applicable: 
+
+ (1) Power and rotational speed for: 
+
+ (i) Takeoff. 
+
+ (ii) Maximum continuous. 
+
+ (iii) If requested by the applicant, other ratings may also be established. 
+
+ (2) Overspeed and overtorque limits.
+
+ 15. Add Sec. 35.7 to read as follows: 
+
+Sec. 35.7 Features and characteristics. 
+
+ (a) The propeller must not have features or characteristics, revealed by any test or analysis or known to the applicant, that make it unsafe for the uses for which certification is requested. 
+
+ (b) If a failure occurs during a certification test, the applicant must determine the cause and assess the effect on the airworthiness of the propeller. The applicant must make changes to the design and conduct additional tests that the Administrator finds necessary to establish the airworthiness of the propeller. 
+
+Subpart B--Design and Construction 
+
+Sec. 35.11 [Removed] 
+
+ 16. Remove and reserve Sec. 35.11. 
+
+Sec. 35.13 [Removed] 
+
+ 17. Remove and reserve Sec. 35.13. 
+
+ 18. Revise Sec. 35.15 to read as follows: 
+
+Sec. 35.15 Safety analysis. 
+
+ (a)(1) The applicant must analyze the propeller system to assess the likely consequences of all failures that can reasonably be expected to occur. This analysis will take into account, if applicable: 
+
+ (i) The propeller system in a typical installation. When the analysis depends on representative components, assumed interfaces, or assumed installed conditions, the assumptions must be stated in the analysis. 
+
+ (ii) Consequential secondary failures and dormant failures. 
+
+ (iii) Multiple failures referred to in paragraph (d) of this section, or that result in the hazardous propeller effects defined in paragraph (g)(1) of this section. 
+
+ (2) The applicant must summarize those failures that could result in major propeller effects or hazardous propeller effects defined in paragraph (g) of this section, and estimate the probability of occurrence of those effects. 
+
+ (3) The applicant must show that hazardous propeller effects are not predicted to occur at a rate in excess of that defined as extremely remote (probability of 10-7 or less per propeller flight hour). Since the estimated probability for individual failures may be insufficiently precise to enable the applicant to assess the total rate for hazardous propeller effects, compliance may be shown by demonstrating that the probability of a hazardous propeller effect arising from an individual failure can be predicted to be not greater than 10-8 per propeller flight hour. In dealing with probabilities of this low order of magnitude, absolute proof is not possible and reliance must be placed on engineering judgment and previous experience combined with sound design and test philosophies. 
+
+ (4) It must be shown that major propeller effects are not predicted to occur at a rate in excess of that defined as remote (probability of 10-5 or less per propeller flight hour). 
+
+ (b) If significant doubt exists as to the effects of failures or likely combination of failures, the Administrator may require assumptions used in the analysis to be verified by test. 
+
+ (c) The primary failures of certain single elements (for example, blades) cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous propeller effects, then compliance may be shown by reliance on the prescribed integrity requirements of this part. These instances must be stated in the safety analysis. 
+
+ (d) If reliance is placed on a safety system to prevent a failure progressing to hazardous propeller effects, the possibility of a safety system failure in combination with a basic propeller failure must be included in the analysis. Such a safety system may include safety devices, instrumentation, early warning devices, maintenance checks, and other similar equipment or procedures. If items of the safety system are outside the control of the propeller manufacturer, the assumptions of the safety analysis with respect to the reliability of these parts must be clearly stated in the analysis and identified in the propeller installation and operation instructions required under Sec. 35.3. 
+
+ (e) If the safety analysis depends on one or more of the following items, those items must be identified in the analysis and appropriately substantiated. 
+
+ (1) Maintenance actions being carried out at stated intervals. This includes the verification of the serviceability of items that could fail in a latent manner. When necessary to prevent hazardous propeller effects, these maintenance actions and intervals must be published in the instructions for continued airworthiness required under Sec. 35.4 of this part. Additionally, if errors in maintenance of the propeller system could lead to hazardous propeller effects, the appropriate procedures must be included in the relevant propeller manuals. 
+
+ (2) Verification of the satisfactory functioning of safety or other devices at pre-flight or other stated periods. The details of this satisfactory functioning must be published in the appropriate manual. 
+
+ (3) The provisions of specific instrumentation not otherwise required. Such instrumentation must be published in the appropriate documentation. 
+
+ (4) A fatigue assessment. 
+
+ (f) If applicable, the safety analysis must include, but not be limited to, assessment of indicating equipment, manual and automatic controls, governors and propeller control systems, synchrophasers, synchronizers, and propeller thrust reversal systems. 
+
+ (g) Unless otherwise approved by the Administrator and stated in the safety analysis, the following failure definitions apply to compliance with part 35. 
+
+ (1) The following are regarded as hazardous propeller effects:
+
+ 
+
+ (i) A significant overspeed of the propeller. 
+
+ (ii) The development of excessive drag. 
+
+ (iii) A significant thrust in the opposite direction to that commanded by the pilot. 
+
+ (iv) The release of the propeller or any major portion of the propeller. 
+
+ (v) A failure that results in excessive unbalance. 
+
+ (vi) The unintended movement of the propeller blades below the established minimum in-flight low-pitch position. 
+
+ (2) The following are regarded as major propeller effects for variable pitch propellers: 
+
+ (i) An inability to feather the propeller for feathering propellers. 
+
+ (ii) An inability to change propeller pitch when commanded. 
+
+ (iii) A significant uncommanded change in pitch. 
+
+ (iv) A significant uncontrollable torque or speed fluctuation. 
+
+ 19. Revise Sec. 35.17 to read as follows: 
+
+Sec. 35.17 Materials and manufacturing methods. 
+
+ (a) The suitability and durability of materials used in the propeller must: 
+
+ (1) Be established on the basis of experience, tests, or both. 
+
+ (2) Account for environmental conditions expected in service. 
+
+ (b) All materials and manufacturing methods must conform to specifications acceptable to the Administrator. 
+
+ (c) The design values of properties of materials must be suitably related to the most adverse properties stated in the material specification. 
+
+ 20. Revise Sec. 35.21 to read as follows: 
+
+Sec. 35.21 Variable and reversible pitch propellers. 
+
+ (a) No single failure or malfunction in the propeller system will result in unintended travel of the propeller blades to a position below the in-flight low-pitch position. The extent of any intended travel below the in-flight low-pitch position must be documented by the applicant in the appropriate manuals. Failure of structural elements need not be considered if the occurrence of such a failure is shown to be extremely remote under Sec. 35.15(c). 
+
+ (b) For propellers incorporating a method to select blade pitch below the in-flight low pitch position, provisions must be made to sense and indicate to the flight crew that the propeller blades are below that position by an amount defined in the installation manual. The method for sensing and indicating the propeller blade must be such that its failure does not affect the control of the propeller. 
+
+ 21. Add Sec. 35.22 to read as follows: 
+
+Sec. 35.22 Feathering propellers. 
+
+ (a) Feathering propellers must be designed to feather from all conditions in flight, taking into account expected wear and leakage. Feathering and unfeathering limitations must be documented in the appropriate manuals. 
+
+ (b) Propeller pitch control systems that use engine oil to feather must incorporate a method to allow the propeller to feather if the engine oil system fails. 
+
+ (c) Feathering propellers must be designed to be capable of unfeathering at the minimum declared outside air temperature after stabilization to a steady-state temperature. 
+
+ 22. Revise Sec. 35.23 to read as follows: 
+
+Sec. 35.23 Propeller control system. 
+
+ The requirements of this section apply to any system or component that controls, limits or monitors propeller functions. 
+
+ (a) The propeller control system must be designed, constructed and validated to show that: 
+
+ (1) The propeller control system, operating in normal and alternative operating modes and in transition between operating modes, performs the functions defined by the applicant throughout the declared operating conditions and flight envelope. 
+
+ (2) The propeller control system functionality is not adversely affected by the declared environmental conditions, including temperature, electromagnetic interference (EMI), high intensity radiated fields (HIRF) and lightning. The environmental limits to which the system has been satisfactorily validated must be documented in the appropriate propeller manuals. 
+
+ (3) A method is provided to indicate that an operating mode change has occurred if flight crew action is required. In such an event, operating instructions must be provided in the appropriate manuals. 
+
+ (b) The propeller control system must be designed and constructed so that, in addition to compliance with Sec. 35.15: 
+
+ (1) No single failure or malfunction of electrical or electronic components in the control system results in a hazardous propeller effect. 
+
+ (2) Failures or malfunctions directly affecting the propeller control system in a typical airplane, such as structural failures of attachments to the control, fire, or overheat, do not lead to a hazardous propeller effect. 
+
+ (3) The loss of normal propeller pitch control does not cause a hazardous propeller effect under the intended operating conditions. 
+
+ (4) The failure or corruption of data or signals shared across propellers does not cause a hazardous propeller effect. 
+
+ (c) Electronic propeller control system imbedded software must be designed and implemented by a method approved by the Administrator that is consistent with the criticality of the performed functions and that minimizes the existence of software errors. 
+
+ (d) The propeller control system must be designed and constructed so that the failure or corruption of airplane-supplied data does not result in hazardous propeller effects. 
+
+ (e) The propeller control system must be designed and constructed so that the loss, interruption or abnormal characteristic of airplane- supplied electrical power does not result in hazardous propeller effects. The power quality requirements must be described in the appropriate manuals. 
+
+ 23. Add Sec. 35.24 to read as follows: 
+
+Sec. 35.24 Strength. 
+
+ The maximum stresses developed in the propeller must not exceed values acceptable to the Administrator considering the particular form of construction and the most severe operating conditions. Due consideration must be given to the effects of any residual stresses. 
+
+Subpart C--Type Substantiation 
+
+Sec. 35.31 [Removed] 
+
+ 24. Remove and reserve Sec. 35.31. 
+
+ 25. Revise Sec. 35.33 to read as follows: 
+
+Sec. 35.33 General. 
+
+ (a) Each applicant must furnish test article(s) and suitable testing facilities, including equipment and competent personnel, and conduct the required tests in accordance with part 21. 
+
+ (b) All automatic controls and safety systems must be in operation unless it is accepted by the Administrator as impossible or not required because of the nature of the test. If needed for substantiation, the applicant may test a different propeller configuration if this does not constitute a less severe test. 
+
+ (c) Any systems or components that cannot be adequately substantiated by the applicant to the requirements of this part are required to undergo additional tests or analysis to demonstrate that the systems or components are able to perform their intended functions in all declared environmental and operating conditions. 
+
+ 26. Revise Sec. 35.34 to read as follows: 
+
+Sec. 35.34 Inspections, adjustments and repairs. 
+
+ (a) Before and after conducting the tests prescribed in this part, the test article must be subjected to an inspection, and a record must be made of all the relevant parameters, calibrations and settings. 
+
+ (b) During all tests, only servicing and minor repairs are permitted. If major repairs or part replacement is required, the Administrator must approve the repair or part replacement prior to implementation and may require additional testing. Any unscheduled repair or action on the test article must be recorded and reported. 
+
+ 27. Revise Sec. 35.35 to read as follows: 
+
+Sec. 35.35 Centrifugal load tests. 
+
+ The applicant must demonstrate that a propeller complies with paragraphs (a), (b) and (c) of this section without evidence of failure, malfunction, or permanent deformation that would result in a major or hazardous propeller effect. When the propeller could be sensitive to environmental degradation in service, this must be considered. This section does not apply to fixed-pitch wood or fixed- pitch metal propellers of conventional design. 
+
+ (a) The hub, blade retention system, and counterweights must be tested for a period of one hour to a load equivalent to twice the maximum centrifugal load to which the propeller would be subjected during operation at the maximum rated rotational speed. 
+
+ (b) Blade features associated with transitions to the retention system (for example, a composite blade bonded to a metallic retention) must be tested either during the test of Sec. 35.35(a) or in a separate component test. 
+
+ (c) Components used with or attached to the propeller (for example, spinners, de-icing equipment, and blade erosion shields) must be subjected to a load equivalent to 159 percent of the maximum centrifugal load to which the component would be subjected during operation at the maximum rated rotational speed. This must be performed by either: 
+
+ (1) Testing at the required load for a period of 30 minutes; or 
+
+ (2) Analysis based on test. 
+
+ 28. Add Sec. 35.36 to read as follows: 
+
+Sec. 35.36 Bird impact. 
+
+ The applicant must demonstrate, by tests or analysis based on tests or experience on similar designs, that the propeller can withstand the impact of a 4-pound bird at the critical location(s) and critical flight condition(s) of a typical installation without causing a major or hazardous propeller effect. This section does not apply to fixed- pitch wood propellers of conventional design. 
+
+ 29. Revise Sec. 35.37 to read as follows: 
+
+Sec. 35.37 Fatigue limits and evaluation. 
+
+ This section does not apply to fixed-pitch wood propellers of conventional design. 
+
+ (a) Fatigue limits must be established by tests, or analysis based on tests, for propeller: 
+
+ (1) Hubs; 
+
+ (2) Blades; 
+
+ (3) Blade retention components; 
+
+ (4) Components which are affected by fatigue loads and which are shown under Sec. 35.15 to have a fatigue failure mode leading to hazardous propeller effects. 
+
+ (b) The fatigue limits must take into account: 
+
+ (1) All known and reasonably foreseeable vibration and cyclic load patterns that are expected in service; and 
+
+ (2) Expected service deterioration, variations in material properties, manufacturing variations, and environmental effects. 
+
+ (c) A fatigue evaluation of the propeller must be conducted to show that hazardous propeller effects due to fatigue will be avoided throughout the intended operational life of the propeller on either: 
+
+ (1) The intended airplane by complying with Sec. 23.907 or Sec. 25.907, as applicable; or 
+
+ (2) A typical airplane. 
+
+ 30. Add Sec. 35.38 to read as follows: 
+
+Sec. 35.38 Lightning strike. 
+
+ The applicant must demonstrate, by tests, analysis based on tests, or experience on similar designs, that the propeller can withstand a lightning strike without causing a major or hazardous propeller effect. The limit to which the propeller has been qualified must be documented in the appropriate manuals. This section does not apply to fixed-pitch wood propellers of conventional design. 
+
+ 31. Revise Sec. 35.39 to read as follows: 
+
+Sec. 35.39 Endurance test. 
+
+ Endurance tests on the propeller system must be made on a representative engine in accordance with paragraph (a) or (b) of this section, as applicable, without evidence of failure or malfunction. 
+
+ (a) Fixed-pitch and ground adjustable-pitch propellers must be subjected to one of the following tests: 
+
+ (1) A 50-hour flight test in level flight or in climb. The propeller must be operated at takeoff power and rated rotational speed during at least five hours of this flight test, and at not less than 90 percent of the rated rotational speed for the remainder of the 50 hours. 
+
+ (2) A 50-hour ground test at takeoff power and rated rotational speed. 
+
+ (b) Variable-pitch propellers must be subjected to one of the following tests: 
+
+ (1) A 110-hour endurance test that must include the following conditions: 
+
+ (i) Five hours at takeoff power and rotational speed and thirty 10- minute cycles composed of: 
+
+ (A) Acceleration from idle, 
+
+ (B) Five minutes at takeoff power and rotational speed, 
+
+ (C) Deceleration, and 
+
+ (D) Five minutes at idle. 
+
+ (ii) Fifty hours at maximum continuous power and rotational speed, 
+
+ (iii) Fifty hours, consisting of ten 5-hour cycles composed of: 
+
+ (A) Five accelerations and decelerations between idle, takeoff power and rotational speed; 
+
+ (B) Four and one-half hours at approximately even incremental conditions from idle up to, but not including, maximum continuous power and rotational speed; and 
+
+ (C) Thirty minutes at idle. 
+
+ (2) The operation of the propeller throughout the engine endurance tests prescribed in part 33 of this chapter. 
+
+ (c) An analysis based on tests of propellers of similar design may be used in place of the tests of Sec. 35.39(a) and (b). 
+
+ 32. Add Sec. 35.40 to read as follows: 
+
+Sec. 35.40 Functional test. 
+
+ The variable-pitch propeller system must be subjected to the applicable functional tests of this section. The same propeller system used in the endurance test (Sec. 35.39) must be used in the functional tests and must be driven by a representative engine on a test stand or on an airplane. The propeller must complete these tests without evidence of failure or malfunction. This test may be combined with the endurance test for accumulation of cycles. 
+
+ (a) Manually-controllable propellers. Five hundred representative flight cycles must be made across the range of pitch and rotational speed. 
+
+ (b) Governing propellers. Fifteen hundred complete cycles must be made across the range of pitch and rotational speed. 
+
+ (c) Feathering propellers. Fifty cycles of feather and unfeather operation must be made. 
+
+ (d) Reversible-pitch propellers. Two hundred complete cycles of control must be made from lowest normal pitch to maximum reverse pitch. During each cycle, the propeller must be run for 30 seconds at the maximum power and rotational speed selected by the applicant for maximum reverse pitch. 
+
+ (e) An analysis based on tests of propellers of similar design may be used in place of the tests of Sec. 35.40. 
+
+ 33. Revise Sec. Sec. 35.41, 35.42, and 35.43 to read as follows: 
+
+Sec. 35.41 Overspeed and overtorque. 
+
+ (a) When the applicant seeks approval of a transient maximum propeller overspeed, the applicant must demonstrate that the propeller is capable of further operation without maintenance action at the maximum propeller overspeed condition. This may be accomplished by: 
+
+ (1) Performance of 20 runs, each of 30 seconds duration, at the maximum propeller overspeed condition; or 
+
+ (2) Analysis based on test or service experience. 
+
+ (b) When the applicant seeks approval of a transient maximum propeller overtorque, the applicant must demonstrate that the propeller is capable of further operation without maintenance action at the maximum propeller overtorque condition. This may be accomplished by: 
+
+ (1) Performance of 20 runs, each of 30 seconds duration, at the maximum propeller overtorque condition; or 
+
+ (2) Analysis based on test or service experience. 
+
+Sec. 35.42 Components of the propeller control system. 
+
+ The applicant must demonstrate by tests, analysis based on tests, or service experience on similar components, that each propeller blade pitch control system component, including governors, pitch change assemblies, pitch locks, mechanical stops, and feathering system components, can withstand cyclic operation that simulates the normal load and pitch change travel to which the component would be subjected during the initially declared overhaul period or during a minimum of 1000 hours of typical operation in service. 
+
+Sec. 35.43 Propeller hydraulic components. 
+
+ Applicants must show that propeller components that contain hydraulic pressure and whose structural failure or leakage from a structural failure could cause a hazardous propeller effect demonstrate structural integrity by: 
+
+ (a) A proof pressure test to 1.5 times the maximum operating pressure for one minute without permanent deformation or leakage that would prevent performance of the intended function. 
+
+ (b) A burst pressure test to 2.0 times the maximum operating pressure for one minute without failure. Leakage is permitted and seals may be excluded from the test. 
+
+Sec. 35.45 [Removed] 
+
+ 34. Remove and reserve Sec. 35.45. 
+
+Sec. 35.47 [Removed] 
+
+ 35. Remove and reserve Sec. 35.47. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on March 26, 2007.
+
+John J. Hickey,
+
+Director, Aircraft Certification Service.
+
+[FR Doc. E7-6193 Filed 4-10-07; 8:45 am]
+
+BILLING CODE 4910-13-P
+
+
+
+ 
+        
+NPRM ACTIONS: Not Applicable.

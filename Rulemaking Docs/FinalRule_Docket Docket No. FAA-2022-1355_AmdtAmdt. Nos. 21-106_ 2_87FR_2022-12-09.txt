@@ -1,0 +1,4070 @@
+Start Preamble
+ Start Printed Page 75704
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AGENCY:
+
+ Federal Aviation Administration (FAA), Department of Transportation (DOT).
+
+ 
+ 
+ ACTION:
+
+ Final rule; technical amendments.
+
+ 
+ 
+ SUMMARY:
+
+ This technical amendment contains non-substantive corrections to address typographical errors, editorial errors, and outdated or incorrect references in various parts of FAA regulations.
+
+ 
+ 
+ DATES:
+
+ Effective December 9, 2022.
+
+ 
+ Start Further Info
+ FOR FURTHER INFORMATION CONTACT:
+
+ 
+ For questions concerning this action, contact Jesse Holston, Office of Rulemaking, ARM-200, Federal Aviation Administration, 800 Independence Ave. SW, Washington, DC 20591; telephone (202) 267-0810; email 
+ jesse.c.holston@faa.gov.
+
+ End Further Info
+ End Preamble
+ Start Supplemental Information
+ SUPPLEMENTARY INFORMATION:
+
+ 
+
+ I. Good Cause for Immediate Adoption Without Prior Notice
+
+ 
+ Section 553(b)(3)(B) of the Administrative Procedure Act (APA) (5 U.S.C. 551 
+ et seq.) authorizes agencies to dispense with notice and comment procedures for rules when the agency for “good cause” finds that those procedures are “impracticable, unnecessary, or contrary to the public interest.” Under this section, an agency, upon finding good cause, may issue a final rule without seeking comment prior to the rulemaking.
+ 
+
+ 
+ Additionally, the APA requires agencies to delay the effective date of regulations for 30 days after publication, unless the agency finds good cause to make the regulations effective sooner. 
+ See, 5 U.S.C. 553(d). This action makes technical amendments that affect the clarity of existing regulations. These amendments will not impose any additional substantive restrictions or requirements on the persons affected by these regulations. Because this action merely makes technical amendments, the FAA finds that notice and public comment under 5 U.S.C. 553(b) is unnecessary. For the same reason, the FAA finds that good cause exists under 5 U.S.C. 553(d) for making this rule effective in less than 30 days.
+ 
+
+ II. Authority for This Rulemaking
+
+ The FAA's authority to issue rules is found in title 49 of the United States Code. Subtitle I, section 106 describes the authority of the FAA Administrator. This rulemaking is promulgated under the authority described in 49 U.S.C. 106(f) and (g), which establish the authority of the Administrator to promulgate and revise regulations and rules related to aviation safety. This regulation is within the scope of that authority because the rule makes non-substantive edits to regulations related to aviation safety promulgated under authorities listed in 49 U.S.C. 106(g).
+
+ Portions of this rulemaking are also authorized under 51 U.S.C. 50903(c), which authorizes the promulgation of regulations related to commercial space launches and reentries.
+
+ III. Technical Amendments
+
+ The FAA is making technical amendments to parts 21, 23, 25, 29, 33, 36, 47, 49, 60, 61, 67, 73, 91, 97, 101, 107, 121, 125, 129, 135, 141, 183, and 440 of those regulations found in Title 14 of the Code of Federal Regulations. All amendments are non-substantive and correct typographical errors, editorial errors, and outdated or incorrect references. The following is a summary of the various amendments to each of the above-listed parts.
+
+ Part 21
+
+ In § 21.619(a), permits the manufacturer of an article under a Technical Standard Order (TSO) authorization to make a minor design change without FAA approval, so long as the manufacturer forwards to the FAA any revised data necessary for compliance with the application requirements in § 21.603. However, the reference to § 21.603(b) is incorrect, as that section addresses the use of open brackets to identify minor changes. The correct reference is to § 21.603(a), which contains the requirements to include a statement of conformity and required technical data in an application for TSO authorization.
+
+ Part 23
+
+ In the following sections, the FAA corrects minor typographical and grammatical errors: §§ 23.2115(c), 23.2165(a)(1)(i), 23.2200(d), 23.2315(a), 23.2440(c)(2), 23.2520(a), and 23.2620(b).
+
+ In § 23.2120(a), the word “configuration” is removed and replaced with the word “configuration(s)” to clarify that there could be multiple initial climb configurations.
+
+ In § 23.2255(c), the word “aircraft” is removed and replaced with the word “airplane” for consistency with this section and part 23, which sets forth airworthiness standards for normal category airplanes.
+
+ In § 23.2400(b), the word “FAA” is removed and replaced with the word “Administrator” to align with 49 U.S.C. 44704, which identifies that the Administrator issues type certificates. In § 23.2500(b), the change clarifies that the reference to paragraph (a) refers to paragraph (a) of § 23.2500. Additional updates are made to punctuation for clarity.
+
+ 
+ In § 23.2600(b), the term “qualified flightcrew” is removed and replaced with “flightcrew members” to clarify that the term “qualified flightcrew” was not intended to have a different meaning than the term “flightcrew member” as defined in 14 CFR part 1.[1] 
+ 
+ 
+
+ 
+ Part 25
+
+ 
+ In § 25.471(b)(2), the reference to paragraph (c)(1) of § 25.1583 is no longer accurate because § 25.1583 was subsequently revised, and the paragraph numbering changed.[2] 
+ 
+ Thus, § 25.471(b)(2) is corrected to refer to § 25.1583(c)(2).
+ 
+
+ 
+ In § 25.525(b), the reference to “§ 25.533(b)” is incorrect and is replaced with a reference to “25.533(c)”. Section 25.533(b) provides local pressures rather than distributed pressures, which are the proper pressures to calculate distributed loads as described in § 25.525(b). The distributed pressures are provided in § 25.533(c).
+
+ 
+ In § 25.535(d), the number “3.25” is incorrect and is replaced with the number “0.25” as originally stated in the final rule.[3] 
+ 
+ 
+
+ 
+ In § 25.571, the FAA corrects a minor typographical error.
+
+ In § 25.903(a)(3)(ii), the effective date of § 33.68 is corrected to read “March 26, 1984” because that is the effective date of Amendment 33-10.
+
+ In § 25.903(a)(3)(iii), the effective date of § 33.68 is corrected to read “October 31, 1974” because that is the effective date of Amendment 33-6.
+
+ 
+ In § 25.1517(b), the term “VMO—35 KTAS” is removed and replaced with “VMO minus 35 KTAS” to clarify that 
+ Start Printed Page 75705
+ the “-” symbol was logically intended to be a minus sign and not a dash.
+ 
+
+ Part 29
+
+ In § 29.1557(d), the cross reference to § 29.811(h)(2), which does not exist, is replaced with the correct cross reference, § 29.811(f)(2).
+
+ Part 33
+
+ In § 33.97(a), a comma is added between the words “endurance” and “calibration” to clarify that both endurance tests and calibration tests are required to evaluate thrust reversers and are separate tests.
+
+ Part 36
+
+ In § 36.1(a)(4), a spelling error is corrected.
+
+ Part 47
+
+ Section 47.9(b) differentiates aircraft registered prior to January 1, 1980 and aircraft registered after 1980. As the aircraft registration dates for all aircraft currently on the registry are after January 1, 1980, this differentiation is no longer necessary. The FAA has revised § 47.9(b), (b)(1) and (b)(2) to remove the reference to January 1, 1980 and make conforming changes resulting from the removal of such reference.
+
+ In § 47.19, the phrase “must be mailed to the Registry, Department of Transportation, Post Office Box 25504, Oklahoma City, Oklahoma 73125-0504, or delivered to the Registry at 6425 S. Denning Ave., Oklahoma City, Oklahoma 73169,” is removed and replaced with, “must be delivered to the Registry by a means acceptable to the Administrator,” to conform to the Registry's current practice of accepting digitally signed documents and communications by email as an alternative to delivery of hard copies, as well as submission of documents and communications by other means acceptable to the Administrator.
+
+ Part 49
+
+ 
+ In § 49.1(a)(2), the horsepower threshold for aircraft engines incorrectly references 750 and is corrected to 550 consistent with § 49.41.[4] 
+ 
+ 
+
+ 
+ Section 49.11 is revised to conform to the Registry's current practice of accepting digitally signed documents by email in addition to accepting delivery of hard copies or acceptance of delivery by other means.
+
+ 
+ In § 49.13(a), the phrase “must be in ink” is removed and replaced with “must be signed in a manner acceptable to the Administrator,” to conform to the Registry's continued acceptance of digital signatures.[5] 
+ 
+ 
+
+ 
+ Part 60
+
+ Part 60 has multiple references to the “National Simulator Program Manager”, “NSPM”, and “NSP”. This office and manager position no longer exist by those names due to the reorganization of the Air Transportation Division. Thus, this technical amendment updates all of these references by deleting or replacing them with “responsible Flight Standards office”, “Flight Standards Service”, or “FAA”, as appropriate. Further, references to outdated websites, references to outdated contact information, and incorrect numbering are corrected.
+
+ The following table identifies the nomenclature changes in 14 CFR part 60 to account for the reorganization of the Air Transportation Division:
+
+ Table 1—Revised Nomenclature and Affected Sections of 14 CFR Part 60
+
+Old nomenclature/current CFR New nomenclature/revision Affected sections of 14 CFR part 60 
+
+National Simulator Program Manager (NSPM) responsible Flight Standards office § 60.5, Attachment 6 to Appendix A to Part 60. 
+
+NSPM responsible Flight Standards office § 60.5, § 60.7, § 60.9, § 60.11, § 60.13, § 60.14, § 60.15, § 60.16, § 60.17, § 60.19, § 60.21, § 60.23, § 60.25, § 60.27, § 60.29, § 60.31, § 60.37, Appendix A to Part 60, Attachment 1 to Appendix A to Part 60, Attachment 2 to Appendix A to Part 60, Attachment 3 to Appendix A to Part 60, Attachment 5 to Appendix A to Part 60, Attachment 6 to Appendix A to Part 60, Appendix B to Part 60, Attachment 1 to Appendix B to Part 60, Attachment 2 to Appendix B to Part 60, Appendix C to Part 60, Attachment 1 to Appendix C to Part 60, Attachment 2 to Appendix C to Part 60, Attachment 3 to Appendix C to Part 60, Appendix D to Part 60, Attachment 1 to Appendix D to Part 60, Attachment 2 to Appendix D to Part 60, Attachment 3 to Appendix D to Part 60, Appendix E to Part 60, Appendix F to Part 60. 
+
+NSPM the responsible Flight Standards office § 60.19, Attachment 2 to Appendix A to Part 60, Attachment 2 to Appendix C to Part 60. 
+
+an NSPM a responsible Flight Standards office § 60.19. 
+
+NSPM Flight Standards Service Appendix A to Part 60, Attachment 2 to Appendix A to Part 60, Appendix C to Part 60, Appendix D to Part 60. 
+
+NSPM, or a person assigned by the NSPM responsible Flight Standards office Appendix A to Part 60, Appendix C to Part 60. 
+
+an NSP pilot a pilot from the responsible Flight Standards office Appendix A to Part 60, Appendix B to Part 60, Appendix C to Part 60, Appendix D to Part 60. 
+
+Start Printed Page 75706 
+
+NSPM or visit the NSPM Web site responsible Flight Standards office Appendix A to Part 60, Appendix B to Part 60, Appendix C to Part 60, Appendix D to Part 60. 
+
+FAA FSDO responsible Flight Standards office Appendix A to Part 60, Appendix B to Part 60, Appendix C to Part 60, Appendix D to Part 60. 
+
+NSPM, or a person or persons assigned by the NSPM responsible Flight Standards office Appendix B to Part 60, Appendix D to Part 60. 
+
+NSP FAA Attachment 2 to Appendix B to Part 60. 
+
+ In addition to the above nomenclature changes, this technical amendment makes several other minor technical changes to 14 CFR part 60.
+
+ In appendices A, B, C, and D to part 60, paragraph 1. Introduction, the following changes are made to reflect the reorganization of the Air Transportation Division:
+
+ 
+ 
+ Removed paragraph b.;
+
+ Removed the last sentence of paragraph c.;
+
+ Added “Flightcrew Member” after “as amended,” in appendix A, paragraph d.(12); appendix B, paragraph d.(12); appendix C, paragraph d.(10); and appendix D, paragraph d.(12); and
+
+ Removed the phrase “FAA Airman Testing Standards for the Airline Transport Pilot Certificate, Type Ratings, Commercial Pilot Certificate, and Instrument Ratings.” and replaced with “FAA Airman Certification Standards and Practical Test Standards for Airline Transport Pilot, Type Ratings, Commercial Pilot, and Instrument Ratings.” in appendix A, paragraph d.(27); appendix B, paragraph d.(26); appendix C, paragraph d.(25); and appendix D, paragraph d.(28).
+
+ 
+ 
+ “NSP” is removed from the following places to reflect the reorganization of the Air Transportation Division:
+
+ 
+ 
+ Appendix A;
+
+ Attachment 3 to appendix A;
+
+ Appendix B;
+
+ Attachment 3 to appendix B;
+
+ Appendix C;
+
+ Attachment 3 to appendix C;
+
+ Appendix D; and
+
+ Attachment 3 to appendix D.
+
+ 
+ 
+ In attachment 3 to appendix A, 2. Discussion, the last sentence of paragraph g. is removed to reflect the reorganization of the Air Transportation Division.
+
+ In the following Figures, the letter heading addressed to “Edward D. Cook” is removed because it is outdated contact information that is no longer accurate:
+
+ 
+ 
+ Attachment 4 to appendix A, Figure A4A; and
+
+ Attachment 4 to appendix B, Figure B4A.
+
+ 
+ 
+ In the following Figures, “FAA National Simulator Program” is removed to reflect the reorganization of the Air Transportation Division:
+
+ 
+ 
+ Attachment 4 to appendix A, Figure A4C;
+
+ Attachment 4 to appendix B, Figure B4C;
+
+ Attachment 4 to appendix C, Figure C4C; and
+
+ Attachment 4 to appendix D, Figure D4C.
+
+ 
+ 
+ In the following Figures, “Manager, National Simulator Program” is removed to reflect the reorganization of the Air Transportation Division:
+
+ 
+ 
+ Attachment 4 to appendix A, Figure A4D;
+
+ Attachment 4 to appendix B, Figure B4D;
+
+ Attachment 4 to appendix C, Figure C4D; and
+
+ Attachment 4 to appendix D, Figure D4D.
+
+ 
+ 
+ In the following Figures, “National Simulator Program” and “NSPM” are removed and replaced with “FAA” to reflect the reorganization of the Air Transportation Division:
+
+ 
+ 
+ Attachment 4 to appendix A, Figure A4E;
+
+ Attachment 4 to appendix B, Figure B4E;
+
+ Attachment 4 to appendix C, Figure C4E; and
+
+ Attachment 4 to appendix D, Figure D4E.
+
+ 
+ 
+ “NSP's” is removed from attachment 6 to appendix A to reflect the reorganization of the Air Transportation Division.
+
+ “NSPM” is removed from the second sentence of appendix B to reflect the reorganization of the Air Transportation Division.
+
+ In attachment 3 to appendix C, the last sentence of the first paragraph h. is removed to reflect the reorganization of the Air Transportation Division. Also, the second paragraph h. is redesignated as paragraph i. and paragraph i. is redesignated as paragraph j.
+
+ In the following Figures, the letter heading addressed to “Charles A. Spillner” is removed because it is outdated contact information that is no longer accurate:
+
+ 
+ 
+ Attachment 4 to appendix C, figure C4A; and
+
+ Attachment 4 to appendix D, figure D4A.
+
+ 
+ 
+ In appendix D, 17. Modifications to FTDs, an incorrect reference is updated.
+
+ In appendix E, paragraph i.(4) is removed and “NSPM” is removed from paragraphs h.(1) and h.(2) to reflect the reorganization of the Air Transportation Division.
+
+ In appendix F, the definition for “National Simulator Program Manager (NSPM)” is removed and the abbreviation “NSPM” is removed to reflect the reorganization of the Air Transportation Division.
+
+ In the Flight Simulation Training Device Qualification Standards for Extended Envelope and Adverse Weather Event Training Tasks Final Rule, the FAA removed Figure A4H Sample Continuing Qualification Evaluation Requirements Page from attachment 4 to appendix A because the final rule amendment to § 60.19 made the figure obsolete and unnecessary. This same figure should have also been removed from Appendices B-D for the same reason. Thus, the following changes are made:
+
+ 
+ 
+ In attachment 4 to appendix B, figure B4H is removed and the table of contents is updated accordingly;
+
+ In attachment 4 to appendix C, figure C4H is removed and the table of contents is updated accordingly; and
+
+ In attachment 4 to appendix D, figure D4H is removed and the table of contents is updated accordingly.
+
+ 
+ 
+ 
+ In the Flight Simulation Training Device Qualification Standards for Extended Envelope and Adverse Weather Event Training Tasks Final Rule, the FAA added Level 7 FTDs to appendix B. However, the first sentence in this appendix does not include Level 7. Thus, in the first sentence of appendix B, the phrase “or Level 6” is replaced with “Level 6, or Level 7”.
+ Start Printed Page 75707
+ 
+
+ Part 61
+
+ In § 61.58, paragraphs (j) and (k) are removed because the October 12, 2012, time limitation has passed and accordingly, those paragraphs are now obsolete.
+
+ The FAA also corrects a spelling error in § 61.313(h).
+
+ Part 67
+
+ A mailing address is updated in §§ 67.4 and 67.409(a). Additionally, in § 67.409(a) a requirement that a duplicate document be submitted is removed because these documents are no longer reviewed in hardcopy.
+
+ Part 73
+
+ This technical amendment updates office titles in § 73.19(a) and (c) to reflect reorganization within the FAA. It also updates the FAA headquarters address in § 73.19(a) and replaces the word “shall” with “must” in § 73.19(a), (b) and (c).
+
+ Part 91
+
+ In § 91.9(c), “or part 48” is added to indicate that an aircraft operating under part 91 may also be marked under part 48. This change aligns this provision with § 91.203(a)(2).
+
+ In § 91.157(b)(4), aimed to specifically qualify daytime in Alaska because the time between sunrise and sunset is often a longer duration of time than in most of the United States. However, in a 1991 final rule, the FAA stated that daytime in Alaska is “when the sun is 6° or more above the horizon”. 56 FR 65660 (Dec. 17, 1991). According to the Air Almanac, issued annually by the United States Naval Observatory, civil twilight (daytime) begins and ends when the sun is 6 degrees below the horizon. As such, civil twilight (daytime) is any time when the sun is 6 degrees or less below the horizon. In 1995, the FAA issued a technical amendment to correct the regulatory text to accurately capture daytime in Alaska amending it to state “when the sun is 6 degrees or more below the horizon”. 60 FR 66874 (Dec. 27, 1995). However, this correction was inaccurate as more than 6 degrees below the horizon is nighttime. This technical amendment is meant to achieve the original intent to refer to daytime in Alaska by amending the language to read “when the sun is 6 degrees or less below the horizon”.
+
+ In § 91.203(a)(1), “or part 48” is added to indicate that an aircraft operating under part 91 may also be marked under part 48. This change aligns this provision with § 91.203(a)(2).
+
+ In § 91.511(a), the phrase “operating under this subpart” is added to clarify who is subject to the prohibition.
+
+ In § 91.609(g), “49 CFR” is added prior to “part 830” everywhere that it appears to clarify which title of the CFR is being referenced.
+
+ In § 91.1001(b)(9), the reference to “paragraph (b)(1)(v)” is incorrect because no such paragraph exists. The reference to “paragraph (b)(1)(v)” is replaced with the correct reference to “paragraph (b)(5)(vi)”, which addresses multi-year program agreements.
+
+ Part 97
+
+ In § 97.20(b), the FAA updates a mailing address and email address.
+
+ Part 101
+
+ 
+ In § 101.21(a), the reference to paragraph “§ 101.25(b)(7)(ii)” is removed and replaced with the correct reference, “§ 101.25(g)(2)”, due to a technical amendment to § 101.25.[6] 
+ 
+ 
+
+ 
+ Part 107
+
+ In § 107.9, the word “accident” in the title is removed and replaced with the words “safety event” to eliminate confusion and to distinguish it from the statutory authority afforded exclusively to the National Transportation Safety Board published in 49 U.S.C. 1101.
+
+ Part 121
+
+ In §§ 121.310(b)(2)(iii), 121.311(b)(2)(ii)(C), 121.391(d), § 121.523(c), the FAA corrects typographical, grammatical, and spelling errors.
+
+ In §§ 121.359(h) and 121.703(f), “49 CFR” is added prior to “part 830” everywhere that it appears to clarify which title of the CFR is being referenced.
+
+ In § 121.909(a) and § 121.923(a)(2), the phrase “through the FAA office responsible for approval of the certificate holder's operations specifications, to the Manager of the Air Transportation Division” is removed and replaced with “to the responsible Flight Standards office” to reflect the reorganization in the Air Transportation Division.
+
+ In § 121.1115(f), Table 2, Bombardier: BD-700, the acronym “FH”, which stood for flight hours, is removed because it is incorrect and it is replaced with the correct acronym, “FC”, which stands for flight cycles. Bombardier submitted information to the FAA to establish that the default limit of validity is 15,000 flight cycles rather than flight hours for the Bombardier Model BD-700; however, the FAA inadvertently used the acronym “FH” when listing the default LOV for the Bombardier Model BD-700 in Table 2.
+
+ Part 125
+
+ In § 125.285(d), the reference to “(c)(3)” is removed because it is incorrect and it is replaced with the correct reference, “(c)(2)”, which prescribes the observation of landings.
+
+ Part 129
+
+ The FAA corrects a spelling error in § 129.18(b). In § 129.115(f), Table 2, Bombardier: BD-700, the FAA removes the acronym “FH”, which stood for flight hours because it is incorrect and it is replaced with the correct acronym, “FC”, which stands for flight cycles. Bombardier submitted information to the FAA to establish that the default limit of validity is 15,000 flight cycles rather than flight hours for the Bombardier Model BD-700; however, the FAA inadvertently used the acronym “FH” when listing the default LOV for the Bombardier Model BD-700 in Table 2.
+
+ Part 135
+
+ In § 135.415(f), “49 CFR” is added prior to “part 830” to clarify which title of the CFR is being referenced.
+
+ Part 141
+
+ 
+ In a final rule published in the 
+ Federal Register
+ on August 21, 2009 (74 FR 42499), Pilot, Flight Instructor, and Pilot School Certification, the FAA revised paragraph 4 of appendix I to 14 CFR part 141, to change the presentation of information in response to confusion about what is the amount of ground and flight training required for an add-on category and/or class rating course. In the process of changing the presentation of this information, the FAA inadvertently omitted the existing training requirements for an additional glider category rating for holders of a commercial pilot certificate. By correcting this typographical error, this technical amendment provides these existing requirements by specifying the required contents of such training programs.
+ 
+
+ 
+ In a final rule published in the 
+ Federal Register
+ on June 27, 2018 (83 FR 30232), Regulatory Relief: Aviation Training Devices; Pilot Certification, Training, and Pilot Schools; and Other Provisions, the FAA inadvertently failed to revise part 141 appendix I, to allow the use of a technically advanced airplane (TAA) to satisfy the experience requirements, for those pilot applicants who would add category and class (specifically, Airplane Single Engine) to an existing Commercial Pilot Certificate. The original proposal was to provide relief to all regulated entities providing flight training for the Commercial Pilot Certificate with single engine land 
+ Start Printed Page 75708
+ rating under any applicable rule part, including part 141, appendix I. This was an inadvertent omission and has caused some confusion and concern within the flight training community. With that understanding, the FAA is providing a technical amendment to paragraph 4.(a)(3)(ii) of appendix I to part 141 to otherwise permit the use of a complex airplane, turbine-powered airplane, or a technically advanced airplane to meet the experience requirement.
+ 
+
+ Part 183
+
+ The FAA is making updates to part 183 which are necessary to reflect organizational changes within the FAA. The Administrator established the Air Traffic Safety Oversight Service (AOV) within the Aviation Safety Organization (AVS) to provide independent oversight of the Air Traffic Organization in 2004. In 2006, the Administrator gave AOV the authority to manage the Control Tower Operator Certification Program but did not update part 183 to reflect this organizational change. Due to these changes, the FAA is revising §§ 183.11(d) and 183.25(c)(2) to replace “the Associate Administrator for Air Traffic” with “the Associate Administrator for Aviation Safety”. Additionally, §§ 183.11(d) and 183.25(c) will specify that the air traffic control tower operator examiner is “designated” to be consistent with the terminology used for other positions involving delegated authority under 49 U.S.C. 44702(d).
+
+ Part 440
+
+ 
+ In § 440.19, this technical amendment restores paragraphs (a)(1) and (a)(2) which were inadvertently deleted from this section in a 2012 technical amendment.[7] 
+ 
+ 
+
+ 
+ IV. Regulatory Notices and Analyses
+
+ Federal agencies consider impacts of regulatory actions under a variety of executive orders and other requirements. First, Executive Order 12866 and Executive Order 13563 direct that each Federal agency shall propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify the costs. Second, the Regulatory Flexibility Act of 1980 (Pub. L. 96-354) requires agencies to analyze the economic impact of regulatory changes on small entities. Third, the Trade Agreements Act (Pub. L. 96-39) prohibits agencies from setting standards that create unnecessary obstacles to the foreign commerce of the United States. Fourth, the Unfunded Mandates Reform Act of 1995 (Pub. L. 104-4) requires agencies to prepare a written assessment of the costs, benefits, and other effects of proposed or final rules that include a Federal mandate that may result in the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector, of $100,000,000 or more (adjusted annually for inflation) in any one year. The current threshold after adjustment for inflation is $165,000,000, using the most current (2021) Implicit Price Deflator for the Gross Domestic Product. This portion of the preamble summarizes the FAA's analysis of the economic impacts of this rule.
+
+ In conducting these analyses, the FAA has determined that this rule: will result in benefits that justify costs; is not a “significant regulatory action” as defined in section 3(f) of Executive Order 12866; will not create unnecessary obstacles to the foreign commerce of the United States; and will not impose an unfunded mandate on State, local, or tribal governments, or on the private sector.
+
+ A. Regulatory Impact Analysis
+
+ This final rule corrects several technical errors that affect the clarity of the regulatory text. As all the amendments in this final rule are non-substantive and intended to correct typographical errors, editorial errors, and outdated or incorrect references, the FAA does not expect that these technical corrections will result in any substantive incremental costs or benefits. These changes include corrections of grammatical and typographical errors, corrections of incorrect cross references, updates to mailing addresses and contact information, and updates to terms and titles following the reorganization or the Air Transportation Division. Since this rule involves non-substantive and clarifying editorial changes only, the impacts of the rule will be minimal.
+
+ B. Regulatory Flexibility Act
+
+ The Regulatory Flexibility Act (RFA), in 5 U.S.C. 603, requires an agency to prepare an initial regulatory flexibility analysis describing impacts on small entities whenever 5 U.S.C. 553 or any other law requires an agency to publish a general notice of proposed rulemaking for any proposed rule. Similarly, 5 U.S.C. 604 requires an agency to prepare a final regulatory flexibility analysis when an agency issues a final rule under 5 U.S.C. 553, after that section or any other law requires publication of a general notice of proposed rulemaking. The FAA concludes good cause exists to forgo notice and comment and to not delay the effective date for this rule. As 5 U.S.C. 553 does not require notice and comment in this situation, 5 U.S.C. 603 and 604 similarly do not require regulatory flexibility analyses.
+
+ C. International Trade Impact Assessment
+
+ The Trade Agreements Act of 1979 (Pub. L. 96-39), as amended, prohibits Federal agencies from establishing standards or engaging in related activities that create unnecessary obstacles to the foreign commerce of the United States. Pursuant to this Act, the establishment of standards is not considered an unnecessary obstacle to the foreign commerce of the United States, so long as the standard has a legitimate domestic objective, such as the protection of safety, and does not operate in a manner that excludes imports that meet this objective. The statute also requires consideration of international standards and, where appropriate, that they be the basis for U.S. standards.
+
+ The FAA has assessed the potential effect of this rule and has determined that the rule is in accord with the Trade Agreements Act as the rule applies equally to domestic and foreign persons engaged in aviation activities under 14 CFR. As previously discussion, this action corrects several technical errors that affect the clarity of the regulatory text. These corrections will not impose any additional substantive restrictions or requirements on the persons affected by these regulations.
+
+ D. Unfunded Mandates Assessment
+
+ The Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531-1538) governs the issuance of Federal regulations that require unfunded mandates. An unfunded mandate is a regulation that requires a state, local, or tribal government or the private sector to incur direct costs without the Federal government having first provided the funds to pay those costs. The FAA determined that the rule will not result in the expenditure of $165,000,000 or more by State, local, or tribal governments, in the aggregate, or the private sector, in any one year.
+
+ E. Paperwork Reduction Act
+
+ 
+ The Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)) requires that the FAA consider the impact of paperwork and other information collection burdens imposed on the public. The FAA has determined that there is no new requirement for information collection associated with this immediately adopted final rule.
+ Start Printed Page 75709
+ 
+
+ F. International Compatibility
+
+ In keeping with U.S. obligations under the Convention on International Civil Aviation, it is FAA policy to conform to International Civil Aviation Organization (ICAO) Standards and Recommended Practices to the maximum extent practicable. The FAA has reviewed the corresponding ICAO Standards and Recommended Practices and has identified no differences with these proposed regulations.
+
+ G. Environmental Analysis
+
+ FAA Order 1050.1F identifies FAA actions that are categorically excluded from preparation of an environmental assessment or environmental impact statement under the National Environmental Policy Act in the absence of extraordinary circumstances. The FAA has determined this rulemaking action qualifies for the categorical exclusion identified in paragraph 5-6.6(f) for regulations and involves no extraordinary circumstances.
+
+ V. Executive Order Determinations
+
+ A. Executive Order 13132, Federalism
+
+ The FAA has analyzed this immediately adopted final rule under the principles and criteria of Executive Order 13132, “Federalism.” The agency determined that this action will not have a substantial direct effect on the States, or the relationship between the Federal Government and the States, or on the distribution of power and responsibilities among the various levels of government, and, therefore, does not have Federalism implications.
+
+ B. Executive Order 13211, Regulations That Significantly Affect Energy Supply, Distribution, or Use
+
+ The FAA analyzed this immediately adopted final rule under Executive Order 13211, “Actions Concerning Regulations that Significantly Affect Energy Supply, Distribution, or Use” (May 18, 2001). The agency has determined that it is not a “significant energy action” under the executive order and it is not likely to have a significant adverse effect on the supply, distribution, or use of energy.
+
+ C. Executive Order 13609, International Cooperation
+
+ Executive Order 13609, “Promoting International Regulatory Cooperation,” promotes international regulatory cooperation to meet shared challenges involving health, safety, labor, security, environmental, and other issues and to reduce, eliminate, or prevent unnecessary differences in regulatory requirements. The FAA has analyzed this action under the policies and agency responsibilities of Executive Order 13609, and has determined that this action would have no effect on international regulatory cooperation.
+
+ VI. How To Obtain Additional Information
+
+ A. Rulemaking Documents
+
+ An electronic copy of a rulemaking document may be obtained from the internet by—
+
+ 
+ 1. Searching the Federal eRulemaking Portal (
+ www.regulations.gov);
+ 
+
+ 
+ 2. Visiting the FAA's Regulations and Policies web page at 
+ www.faa.gov/​regulations_​policies/​;
+ or
+ 
+
+ 
+ 3. Accessing the Government Printing Office's web page at 
+ www.GovInfo.gov.
+
+ Copies may also be obtained by sending a request (identified by notice, amendment, or docket number of this rulemaking) to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue SW, Washington, DC 20591, or by calling (202) 267-9680.
+
+ B. Small Business Regulatory Enforcement Fairness Act
+
+ 
+ The Small Business Regulatory Enforcement Fairness Act (SBREFA) of 1996 requires FAA to comply with small entity requests for information or advice about compliance with statutes and regulations within its jurisdiction. A small entity with questions regarding this document, may contact its local FAA official, or the person listed under the 
+ FOR FURTHER INFORMATION CONTACT
+ heading at the beginning of the preamble. To find out more about SBREFA on the internet, visit 
+ www.faa.gov/​regulations_​policies/​rulemaking/​sbre_​act/​.
+
+ Start List of Subjects
+ List of Subjects
+
+ 14 CFR Part 21
+
+ 
+Aircraft
+
+Aviation safety
+
+Exports
+
+Imports
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 23
+
+ 
+Aircraft
+
+Aviation safety
+
+Signs and symbols
+
+ 14 CFR Part 25
+
+ 
+Aircraft
+
+Aviation safety
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 29
+
+ 
+Aircraft
+
+Aviation safety
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 33
+
+ 
+Aircraft
+
+Aviation safety
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 36
+
+ 
+Agriculture
+
+Aircraft
+
+Noise control
+
+ 14 CFR Part 47
+
+ 
+Aircraft
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 49
+
+ 
+Aircraft
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 60
+
+ 
+Airmen
+
+Aviation safety
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 61
+
+ 
+Aircraft
+
+Airmen
+
+Alcohol abuse
+
+Aviation safety
+
+Drug abuse
+
+Recreation and recreation areas
+
+Reporting and recordkeeping requirements
+
+Security measures
+
+Teachers
+
+ 14 CFR Part 67
+
+ 
+Airmen
+
+Authority delegations (Government agencies)
+
+Health
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 73
+
+ 
+Airspace
+
+Navigation (air)
+
+Restricted areas
+
+Security measures
+
+ 14 CFR Part 91
+
+ 
+Afghanistan
+
+Agriculture
+
+Air carriers
+
+Air taxis
+
+Air traffic control
+
+Aircraft
+
+Airmen
+
+Airports
+
+Alaska
+
+Aviation safety
+
+Canada
+
+Charter flights
+
+Drug traffic control
+
+Ethiopia
+
+Freight
+
+Incorporation by reference
+
+Iraq
+
+Libya
+
+Mexico
+
+Noise control
+
+North Korea
+
+Political candidates
+
+Reporting and recordkeeping requirements
+
+Security measures
+
+Somalia
+
+Syria
+
+Transportation
+
+Yugoslavia
+
+ 14 CFR Part 97
+
+ 
+Air traffic control
+
+Airports
+
+Incorporation by reference
+
+Navigation (air)
+
+Weather
+
+ 14 CFR Part 101
+
+ 
+Aircraft
+
+Aviation safety
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 107
+
+ 
+Aircraft
+
+Airmen
+
+Aviation safety
+
+Recreation and recreation areas
+
+Reporting and recordkeeping requirements
+
+Security measures
+
+Signs and symbols
+
+ 14 CFR Part 121
+
+ 
+Air carriers
+
+Aircraft
+
+Airmen
+
+Alcohol abuse
+
+Aviation safety
+
+Charter flights
+
+Drug abuse
+
+Drug testing
+
+Reporting and recordkeeping requirements
+
+Safety
+
+Transportation
+
+ 14 CFR Part 125
+
+ 
+Aircraft
+
+Airmen
+
+Aviation safety
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 129
+
+ 
+Air carriers
+
+Administration
+
+Aircraft
+
+Aviation safety
+
+Reporting and recordkeeping requirements
+
+Security measures
+
+Smoking
+
+ 14 CFR Part 135
+
+ 
+Air taxis
+
+Aircraft
+
+Airmen
+
+Alcohol abuse
+
+Aviation safety
+
+Drug abuse
+
+Drug testing
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 141
+
+ 
+Airmen
+
+Educational facilities
+
+Reporting and recordkeeping requirements
+
+Schools
+
+ 14 CFR Part 183
+
+ 
+Aircraft
+
+Airmen
+
+Authority delegations (Government agencies)
+
+Health professions
+
+Reporting and recordkeeping requirements
+
+ 14 CFR Part 440
+
+ 
+Indemnity payments
+
+Insurance
+
+Reporting and recordkeeping requirements
+
+Space transportation and exploration
+
+ End List of Subjects
+ The Amendments
+
+ In consideration of the foregoing, the Federal Aviation Administration amends chapter I of title 14, Code of Federal Regulations (CFR) parts 21, 23, 25, 29, 33, 36, 47, 49, 60, 61, 67, 73, 91, 97, 101, 107, 121, 125, 129, 135, 141, 183, and 440 as follows:
+
+ Start Part
+ PART 21—CERTIFICATION PROCEDURES FOR PRODUCTS AND ARTICLES
+
+ End Part
+ 
+ Start Amendment Part1. The authority citation for part 21 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 42 U.S.C. 7572; 49 U.S.C. 106(f), 106(g), 40105, 40113, 44701-44702, 44704, 44707, 44709, 44711, 44713, 44715, 45303.
+ 
+
+End Authority
+ 
+ 
+ § 21.619 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part2. Amend § 21.619 in paragraph (a) by removing the citation “§ 21.603(b)” and adding in its place the citation “21.603(a)”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 23—AIRWORTHINESS STANDARDS: NORMAL CATEGORY AIRPLANES
+
+ End Part
+ 
+ Start Amendment Part3. The authority citation for part 23 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, 44701-44702, 44704, Pub. L. 113-53, 127 Stat. 584 (49 U.S.C. 44704) note.
+ 
+
+End Authority
+ 
+ 
+ § 23.2115 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part4. Amend § 23.2115 in paragraph (c) introductory text by adding the word “of” after the word “determination”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2120 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part5. Amend § 23.2120 in paragraph (a) introductory text by removing the word “configuration” and adding in its place the word “configuration(s)”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2165 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part6. Amend § 23.2165 in paragraph (a)(1)(i) by removing the words “knots CAS” and adding in their place the word “KCAS”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2200 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part7. Amend § 23.2200 in paragraph (d) by removing the words “high lift” and adding in their place the words “high-lift”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2255 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part8. Amend § 23.2255 in paragraph (c) by removing the word “aircraft” and adding in its place the word “airplane”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2315 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part9. Amend § 23.2315 as follows: 
+
+End Amendment Part
+ Start Amendment Parta. In paragraph (a)(1), add a comma after the words “level 2”; 
+
+End Amendment Part
+ Start Amendment Partb. In paragraph (a)(1), remove the words “single engine” and add in its place “single-engine”; and 
+
+End Amendment Part
+ Start Amendment Partc. In paragraph (a)(2), add a comma after the first mention of the word “exits”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2400 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part10. Amend § 23.2400 in paragraph (b) by removing both instances of “FAA” and adding in their places the word “Administrator”. 
+
+End Amendment Part
+ 
+ 
+ Start Amendment Part11. Amend § 23.2440 by revising paragraph (c)(2) to read as follows: 
+
+End Amendment Part
+ 
+ § 23.2440 
+
+ Powerplant fire protection.
+
+ 
+* * * * *
+
+ (c) * * *
+
+ (2) Be fire-resistant if carrying flammable fluid, gas or air, or is required to operate in the event of a fire; and
+
+ 
+* * * * *
+
+ 
+
+ 
+ 
+ § 23.2500 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part12. Amend § 23.2500 in paragraph (b) by removing the phrase “(a), considered separately and in relation to other systems, must” and adding in its place the phrase “(a) of this section—considered separately and in relation to other systems—must”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2520 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part13. Amend § 23.2520 in paragraph (a) introductory text by removing the phrase “systems that perform” and adding in its place the phrase “system that performs”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2600 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part14. Amend § 23.2600 in paragraph (b) by removing the words “qualified flightcrew” and adding in their place the words “flightcrew members”. 
+
+End Amendment Part
+ 
+ 
+ § 23.2620 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part15. Amend § 23.2620 in paragraph (b) introductory text by removing the word “administrator” and adding in its place the word “Administrator”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 25—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+ End Part
+ 
+ Start Amendment Part16. The authority citation for part 25 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, 44701, 44702 and 44704.
+ 
+
+End Authority
+ 
+ 
+ § 25.471 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part17. Amend § 25.471 in paragraph (b)(2) by removing the citation “§ 25.1583(c)(1)” and adding in its place the citation “§ 25.1583(c)(2)”. 
+
+End Amendment Part
+ 
+ 
+ § 25.525 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part18. Amend § 25.525 in paragraph (b) by removing the citation “§ 25.533(b)” and adding in its place the citation “§ 25.533(c)”. 
+
+End Amendment Part
+ 
+ 
+ § 25.535 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part19. Amend § 25.535 in paragraph (d) by removing the numbers “3.25” and adding in their place the numbers “0.25”. 
+
+End Amendment Part
+ 
+ 
+ Start Amendment Part20. Amend § 25.571 by revising the section heading to read as follows: 
+
+End Amendment Part
+ 
+ § 25.571 
+
+ Damage-tolerance and fatigue evaluation of structure.
+
+ 
+* * * * *
+
+ 
+
+ 
+ 
+ § 25.903 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part21. Amend § 25.903 as follows: 
+
+End Amendment Part
+ Start Amendment Parta. In paragraph (a)(3)(ii), remove the date “February 23, 1984” and add in its place the date “March 26, 1984”; and 
+
+End Amendment Part
+ Start Amendment Partb. In paragraph (a)(3)(iii), remove the date “October 1, 1974”and add in its place the date “October 31, 1974”. 
+
+End Amendment Part
+ 
+ 
+ § 25.1517 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part22. Amend § 25.1517 in paragraph (b) by removing “V MO
+ - 35 KTAS” and adding in its place “VMO
+ minus 35 KTAS”.
+ 
+
+End Amendment Part
+ 
+ Start Part
+ PART 29—AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTOCRAFT
+
+ End Part
+ 
+ Start Amendment Part23. The authority citation for part 29 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Start Printed Page 75711
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, 44701-44702, 44704.
+ 
+
+End Authority
+ 
+ 
+ § 29.1557 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part24. Amend § 29.1557 in paragraph (d) by removing the citation “§ 29.811(h)(2)” and adding in its place the citation “§ 29.811(f)(2)”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 33—AIRWORTHINESS STANDARDS: AIRCRAFT ENGINES
+
+ End Part
+ 
+ Start Amendment Part25. The authority citation for part 33 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(g), 40113, 44701, 44702, 44704.
+ 
+
+End Authority
+ 
+ 
+ § 33.97 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part26. Amend § 33.97 in paragraph (a) by adding a comma after the word “endurance” in the first sentence. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 36—NOISE STANDARDS: AIRCRAFT TYPE AND AIRWORTHINESS CERTIFICATION
+
+ End Part
+ 
+ Start Amendment Part27. The authority citation for part 36 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 
+ 42 U.S.C. 4321 
+ et seq.;49 U.S.C. 106(g), 40113, 44701-44702, 44704, 44715; sec. 305, Pub. L. 96-193, 94 Stat. 50, 57; E.O. 11514, 35 FR 4247, 3 CFR, 1966-1970 Comp., p. 902.
+ 
+ 
+
+End Authority
+ 
+ 
+ § 36.1 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part28. Amend § 36.1 in paragraph (a)(4) by removing the word “argicultural” and adding in its place the word “agricultural”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 47—AIRCRAFT REGISTRATION
+
+ End Part
+ 
+ Start Amendment Part29. The authority citation for part 47 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 4 U.S.T. 1830; Public Law 108-297, 118 Stat. 1095 (49 U.S.C. 40101 note, 49 U.S.C. 44101 note); 49 U.S.C. 106(f), 106(g), 40113-40114, 44101-44108, 44110-44113, 44703-44704, 44713, 45302, 45305, 46104, 46301. 
+ 
+
+End Authority
+ 
+ 
+ Start Amendment Part30. Amend § 47.9 by revising paragraph (b) to read as follows: 
+
+End Amendment Part
+ 
+ § 47.9 
+
+ Corporations not US citizens.
+
+ 
+* * * * *
+
+ (b) For the purposes of registration, an aircraft is based and primarily used in the United States if the flight hours accumulated within the United States amount to at least 60 percent of the total flight hours of the aircraft during the period consisting in the remainder of the registration month and the succeeding 6 calendar months and each 6 calendar month period thereafter.
+
+ 
+* * * * *
+
+ 
+
+ 
+ 
+ § 47.19 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part31. Amend § 47.19 by removing the phrase “must be mailed to the Registry, Department of Transportation, Post Office Box 25504, Oklahoma City, Oklahoma 73125-0504, or delivered to the Registry at 6425 S. Denning Ave., Oklahoma City, Oklahoma 73169” and adding in its place the phrase “must be delivered to the Registry by a means acceptable to the Administrator”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 49—RECORDING OF AIRCRAFT TITLES AND SECURITY DOCUMENTS
+
+ End Part
+ 
+ Start Amendment Part32. The authority citation for part 49 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 4 U.S.T. 1830; Pub. L. 108-297, 118 Stat. 1095 (49 U.S.C. 40101 note, 49 U.S.C. 44101 note); 49 U.S.C. 106(g), 40113-40114, 44101-44108, 44110-44113, 44704, 44713, 45302, 46104, 46301.
+ 
+
+End Authority
+ 
+ 
+ § 49.1 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part33. Amend § 49.1 in paragraph (a)(2) by removing the number “750” and adding in their place the number “550”. 
+
+End Amendment Part
+ 
+ 
+ § 49.11 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part34. Amend § 49.11 by removing the phrase “must be mailed to the FAA Aircraft Registry, Department of Transportation, Post Office Box 25504, Oklahoma City, Oklahoma 73125-0504, or delivered to the Registry at 6425 S. Denning Ave., Oklahoma City, Oklahoma 73169” and adding in its place the phrase “must be delivered to the Registry by a means acceptable to the Administrator”. 
+
+End Amendment Part
+ 
+ 
+ § 49.13 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part35. Amend § 49.13 in paragraph (a) by removing the phrase “must be in ink” and adding in its place the phrase “must be signed in a manner acceptable to the Administrator”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 60—FLIGHT SIMULATION TRAINING DEVICE INITIAL AND CONTINUING QUALIFICATION AND USE
+
+ End Part
+ 
+ Start Amendment Part36. The authority citation for part 60 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, and 44701; Public Law 111-216, 124 Stat. 2348 (49 U.S.C. 44701 note). 
+ 
+
+End Authority
+ 
+ 
+ § 60.5, § 60.7, § 60.9, § 60.11, § 60.13, § 60.14, § 60.15, § 60.16, § 60.17, § 60.19, § 60.21, § 60.23, § 60.25, § 60.27, § 60.29, § 60.31, § 60.37 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part37. Remove the word “NSPM” and add in its place the words “responsible Flight Standards office” wherever it appears in the following places: 
+
+End Amendment Part
+ Start Amendment Parta. § 60.5(c) and (d); 
+
+End Amendment Part
+ Start Amendment Partb. § 60.7(a)(2), (b)(3), (4), and (6), and (d)(2); 
+
+End Amendment Part
+ Start Amendment Partc. § 60.9(a), (b)(2), (c) introductory text, and (c)(3); 
+
+End Amendment Part
+ Start Amendment Partd. § 60.11(d); 
+
+End Amendment Part
+ Start Amendment Parte. § 60.13(a) and (c) through (f); 
+
+End Amendment Part
+ Start Amendment Partf. § 60.14; 
+
+End Amendment Part
+ Start Amendment Partg. § 60.15(a), (b)(1) through (3), (c)(1) introductory text, (c)(1)(i) and (ii), (f), (g) introductory text, (g)(6), (h), and (i); 
+
+End Amendment Part
+ Start Amendment Parth. § 60.16(a)(1)(i) through (iii), (a)(2)(i) and (ii), (b), and (c); 
+
+End Amendment Part
+ Start Amendment Parti. § 60.17(e) and (f); 
+
+End Amendment Part
+ Start Amendment Partj. § 60.19(b)(2) and (3); 
+
+End Amendment Part
+ Start Amendment Partk. § 60.21(a) introductory text, (b), and (c); 
+
+End Amendment Part
+ Start Amendment Partl. § 60.23(c)(1) introductory text and (c)(1)(i) through (iv); 
+
+End Amendment Part
+ Start Amendment Partm. § 60.25(b); 
+
+End Amendment Part
+ Start Amendment Partn. § 60.27(b)(1)(i) and (ii), (b)(2), and (c); 
+
+End Amendment Part
+ Start Amendment Parto. § 60.29(a) introductory text, (a)(1) through (3), (a)(4) introductory text, (a)(4)(i) and (ii), (b) introductory text, (b)(3), (c) introductory text, (c)(1) and (2), (d)(1) and (2), and (e); 
+
+End Amendment Part
+ Start Amendment Partp. § 60.31(b); and 
+
+End Amendment Part
+ Start Amendment Partq. § 60.37(a) introductory text. 
+
+End Amendment Part
+ 
+ 
+ § 60.5 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part38. Amend § 60.5 in paragraph (a) by removing the words “National Simulator Program Manager (NSPM)” and adding in their place the words “responsible Flight Standards office”. 
+
+End Amendment Part
+ 
+ 
+ § 60.19 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part39. Amend § 60.19 as follows: 
+
+End Amendment Part
+ Start Amendment Parta. Amend paragraph (b)(4) by removing the first instance of the word “NSPM” and adding in its place the words “the responsible Flight Standards office”; 
+
+End Amendment Part
+ Start Amendment Partb. Amend paragraph (b)(4) by removing the second instance of the word “NSPM” and adding in its place the words “responsible Flight Standards office”; and 
+
+End Amendment Part
+ Start Amendment Partc. Amend paragraph (b)(6) by removing the words “an NSPM” and adding in its place the words “a responsible Flight Standards office”. 
+
+End Amendment Part
+ 
+ 
+ Start Amendment Part40. In appendix A to part 60: 
+
+End Amendment Part
+ Start Amendment Parta. In the introductory “Begin Information” text, remove the phrase “NSPM, or a person assigned by the NSPM,” and add in its place the words “responsible Flight Standards office”. 
+
+End Amendment Part
+ Start Amendment Partb. In section 1: 
+
+End Amendment Part
+ Start Amendment Parti. Remove and reserve paragraph b; 
+
+End Amendment Part
+ Start Amendment Partii. Remove the last sentence of paragraph c;
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph d.(12), add the words “Flightcrew Member” after “as amended,”; and
+
+End Amendment Part
+ Start Amendment Partiv. Revise paragraph d.(27).
+
+End Amendment Part
+ Start Amendment Partc. In section 11: 
+
+End Amendment Part
+ Start Amendment Parti. In paragraph o. introductory text, remove the words “an NSP pilot” and add in its place the words, “a pilot from the responsible Flight Standards office” and remove the second instance of the word “NSP”; Start Printed Page 75712
+ 
+
+End Amendment Part
+ Start Amendment Partii. In paragraph r.(1), remove the word “NSP”; and
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph v., remove the phrase “NSPM or visit the NSPM website” and add in its place the words, “responsible Flight Standards office”.
+
+End Amendment Part
+ Start Amendment Partd. In attachment 1, revise table A1A; 
+
+End Amendment Part
+ Start Amendment Parte. In attachment 2: 
+
+End Amendment Part
+ Start Amendment Parti. Revise table A2A; 
+
+End Amendment Part
+ Start Amendment Partii. In section 8, in the first instance of paragraph d., remove the word “NSPM” and add in its place the words “the responsible Flight Standards office”; and
+
+End Amendment Part
+ Start Amendment Partiii. In table A2E, revise the entries for 1.a.2, 2.a.1.a., 2.a.2.a., and 2.a.3.a.
+
+End Amendment Part
+ Start Amendment Partf. In attachment 3: 
+
+End Amendment Part
+ Start Amendment Parti. In section 2, remove the last sentence of paragraph g; and 
+
+End Amendment Part
+ Start Amendment Partii. Revise the table A3C introductory text.
+
+End Amendment Part
+ Start Amendment Partg. In attachment 4, revise figures A4A, A4C, A4D, and A4E; 
+
+End Amendment Part
+ Start Amendment Parth. In attachment 6, FTSD Directive 2: 
+
+End Amendment Part
+ Start Amendment Parti. In the undesignated paragraph following summary paragraph (e), remove the words “National Simulator Program Manager (NSPM)” and add in their place the words “responsible Flight Standards office”. 
+
+End Amendment Part
+ Start Amendment Partii. Remove the phrase “For Further Information Contact” paragraph before the heading “Specific Requirements”;
+
+End Amendment Part
+ Start Amendment Partiii. In section I, paragraph 5 introductory text, remove the word “NSP's”;
+
+End Amendment Part
+ Start Amendment Partiv. In section II, paragraph 5 introductory text, remove the word “NSP's”;
+
+End Amendment Part
+ Start Amendment Partv. In section III, paragraph 5 introductory text, remove the word “NSP's”; 
+
+End Amendment Part
+ Start Amendment Partvi. In section IV, paragraph 4 introductory text, remove the word “NSP's”; and
+
+End Amendment Part
+ Start Amendment Partvii. In section V, paragraph 4 introductory text, remove the word “NSP's”.
+
+End Amendment Part
+ Start Amendment Parti. Remove the word “NSPM” and adding in its place the words “responsible Flight Standards office” in the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 1, paragraph c, the first two instances; 
+
+End Amendment Part
+ Start Amendment Partii. Section 9, paragraphs d., d.(1), d.(2), g., h., and i.;
+
+End Amendment Part
+ Start Amendment Partiii. Section 10, paragraph a.;
+
+End Amendment Part
+ Start Amendment Partiv. Section 11, paragraphs b.(2), b.(3), d., f., g.(1), h., j. k., l., m., n., n.(2), o., p. q., r.(2), s., t., and w.;
+
+End Amendment Part
+ Start Amendment Partv. Section 13, paragraphs a.(1), a.(3), a.(4), a.(5), d., and i.; 
+
+End Amendment Part
+ Start Amendment Partvi. Section 14, paragraphs a., d., e., and e.(1);
+
+End Amendment Part
+ Start Amendment Partvii. Section 17, paragraphs b.(1) and b.(2);
+
+End Amendment Part
+ Start Amendment Partviii. Sections 19 and 20;
+
+End Amendment Part
+ Start Amendment Partix. Attachment 2, section 2, paragraphs a., h., j., k., and l.;
+
+End Amendment Part
+ Start Amendment Partx. Attachment 2, section 4, the second instance in paragraph b.(1); 
+
+End Amendment Part
+ Start Amendment Partxi. Attachment 2, section 5, paragraph b.;
+
+End Amendment Part
+ Start Amendment Partxii. Attachment 2, section 8, paragraphs b., c., the second instance of d., f., and g.;
+
+End Amendment Part
+ Start Amendment Partxiii. Attachment 2, section 9, paragraphs a., b. introductory text, b.(2), and c.(2)(i);
+
+End Amendment Part
+ Start Amendment Partxiv. Attachment 2, section 12, paragraph a.;
+
+End Amendment Part
+ Start Amendment Partxv. Attachment 2, section 13, paragraph b.(6);
+
+End Amendment Part
+ Start Amendment Partxvi. Attachment 2, section 14, paragraph b.(4)(d);
+
+End Amendment Part
+ Start Amendment Partxvii. Attachment 2, section 16, paragraphs a.(2) and b.(2);
+
+End Amendment Part
+ Start Amendment Partxviii. Attachment 2, section 17, paragraphs c., d.(2), e., and f.;
+
+End Amendment Part
+ Start Amendment Partxix. Attachment 3, section 1, paragraphs f., and g.;
+
+End Amendment Part
+ Start Amendment Partxx. Attachment 3, section 2, paragraphs, b., and f.;
+
+End Amendment Part
+ Start Amendment Partxxi. Attachment 5, section 7, paragraph a;
+
+End Amendment Part
+ Start Amendment Partxxii. Attachment 5, section 8, introductory text and paragraph c.;
+
+End Amendment Part
+ Start Amendment Partxxiii. Attachment 6, FSTD Directive 2, section I, paragraphs 5 and 6;
+
+End Amendment Part
+ Start Amendment Partxxiv. Attachment 6, FSTD Directive 2, section II, paragraphs 3, 5, and 6;
+
+End Amendment Part
+ Start Amendment Partxxv. Attachment 6, FSTD Directive 2, section III, paragraphs 3, 5, and 6;
+
+End Amendment Part
+ Start Amendment Partxxvi. Attachment 6, FSTD Directive 2, section IV, paragraphs 4 and 5; and
+
+End Amendment Part
+ Start Amendment Partxxii. Attachment 6, FSTD Directive 2, section V, paragraphs 4 and 5;
+
+End Amendment Part
+ Start Amendment Parti. Remove the word “NSPM”, and add in its place the words “Flight Standards Service” in the following places: 
+
+End Amendment Part
+ Start Amendment Parti. The introductory “Begin Information” text; and 
+
+End Amendment Part
+ Start Amendment Partii. The first instance in attachment 2, section 4, paragraph b.(1).
+
+End Amendment Part
+ Start Amendment Partj. Remove the word “NSP” from the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 14, paragraph g.; and 
+
+End Amendment Part
+ Start Amendment Partii. Attachment 3, paragraph 2.d.
+
+End Amendment Part
+ The revisions read as follows:
+
+ Appendix A to Part 60—Qualification Performance Standards for Airplane Full Flight Simulators
+
+ 
+ 
+* * * * *
+
+ 1. Introduction
+
+ (d) * * *
+
+ (27) FAA Airman Certification Standards and Practical Test Standards for Airline Transport Pilot, Type Ratings, Commercial Pilot, and Instrument Ratings
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75713
+ 
+ Attachment 1 * * *
+
+ 
+ 
+
+ 
+ 
+ Start Printed Page 75714
+ 
+
+ 
+ 
+ Start Printed Page 75715
+ 
+
+ 
+ 
+ Start Printed Page 75716
+ 
+
+ 
+ 
+ Start Printed Page 75717
+ 
+
+ 
+ 
+ Start Printed Page 75718
+ 
+
+ 
+ 
+ Start Printed Page 75719
+ 
+
+ 
+ 
+ Start Printed Page 75720
+ 
+
+ 
+ 
+ Start Printed Page 75721
+ 
+
+ 
+ 
+ Start Printed Page 75722
+ 
+
+ 
+ 
+ Start Printed Page 75723
+ 
+
+ 
+ 
+ Start Printed Page 75724
+ 
+
+ 
+ 
+ Start Printed Page 75725
+ 
+
+ 
+ 
+ Start Printed Page 75726
+ 
+
+ 
+ 
+ Start Printed Page 75727
+ 
+
+ 
+ 
+ Start Printed Page 75728
+ 
+
+ 
+ 
+ Start Printed Page 75729
+ 
+
+ 
+ 
+* * * * *
+
+ Start Printed Page 75730
+ Attachment 2 * * *
+
+ 
+ 
+
+ 
+ 
+ Start Printed Page 75731
+ 
+
+ 
+ 
+ Start Printed Page 75732
+ 
+
+ 
+ 
+ Start Printed Page 75733
+ 
+
+ 
+ 
+ Start Printed Page 75734
+ 
+
+ 
+ 
+ Start Printed Page 75735
+ 
+
+ 
+ 
+ Start Printed Page 75736
+ 
+
+ 
+ 
+ Start Printed Page 75737
+ 
+
+ 
+ 
+ Start Printed Page 75738
+ 
+
+ 
+ 
+ Start Printed Page 75739
+ 
+
+ 
+ 
+ Start Printed Page 75740
+ 
+
+ 
+ 
+ Start Printed Page 75741
+ 
+
+ 
+ 
+ Start Printed Page 75742
+ 
+
+ 
+ 
+ Start Printed Page 75743
+ 
+
+ 
+ 
+ Start Printed Page 75744
+ 
+
+ 
+ 
+ Start Printed Page 75745
+ 
+
+ 
+ 
+ Start Printed Page 75746
+ 
+
+ 
+ 
+ Start Printed Page 75747
+ 
+
+ 
+ 
+ Start Printed Page 75748
+ 
+
+ 
+ 
+ Start Printed Page 75749
+ 
+
+ 
+ 
+ Start Printed Page 75750
+ 
+
+ 
+ 
+ Start Printed Page 75751
+ 
+
+ 
+ 
+ Start Printed Page 75752
+ 
+
+ 
+ 
+ Start Printed Page 75753
+ 
+
+ 
+ 
+ Start Printed Page 75754
+ 
+
+ 
+ 
+ Start Printed Page 75755
+ 
+
+ 
+ 
+ Start Printed Page 75756
+ 
+
+ 
+ 
+ Start Printed Page 75757
+ 
+
+ 
+ 
+ Start Printed Page 75758
+ 
+
+ 
+ 
+ Start Printed Page 75759
+ 
+
+ 
+ 
+ Start Printed Page 75760
+ 
+
+ 
+ 
+ Start Printed Page 75761
+ 
+
+ 
+ 
+ Start Printed Page 75762
+ 
+
+ 
+ 
+ Start Printed Page 75763
+ 
+
+ 
+ 
+* * * * *
+
+ 
+ Start Printed Page 75764
+ 
+
+ 
+ 
+ Start Printed Page 75765
+ 
+
+ 
+ 
+* * * * *
+
+ Start Printed Page 75766
+ Attachments 3 * * *
+
+ 
+ 
+
+ 
+ 
+* * * * *
+
+ Attachment 4 * * *
+
+ Attachment 4 to Appendix A to Part 60—Figure A4A—Sample Letter, Request for Initial, Upgrade, or Reinstatement Evaluation
+
+ Information
+
+ Attachment 4 to Appendix A to Part 60—FigureA4C—Sample Letter of Compliance
+
+ 
+ Start Printed Page 75767
+ 
+
+ 
+ Start Printed Page 75768
+ Information
+
+ 
+ 
+
+ 
+ Start Printed Page 75769
+ Attachment 4 to Appendix A to Part 60—Figure A4D—Sample Qualification Test Guide Cover Page 
+
+ INFORMATION
+
+ 
+ 
+
+ 
+ Start Printed Page 75770
+ Attachment 4 to Appendix A to Part 60—Figure A4E—Sample Statement of Qualification—Certificate 
+
+ INFORMATION
+
+ 
+ 
+
+ 
+ 
+ Start Printed Page 75771
+ 
+* * * * *
+
+ 
+ 
+ Start Amendment Part41. In appendix B to part 60: 
+
+End Amendment Part
+ Start Amendment Parta. In the introductory “Begin Information” text: 
+
+End Amendment Part
+ Start Amendment Parti. In the first sentence, remove “or Level 6” and in its place add “Level 6, or Level 7”; 
+
+End Amendment Part
+ Start Amendment Partii. In the second sentence, remove “, NSPM,”;
+
+End Amendment Part
+ Start Amendment Partiii. In the last sentence, remove the phrase “NSPM, or a person or persons assigned by the NSPM” and add in its place the words “responsible Flight Standards office”.
+
+End Amendment Part
+ Start Amendment Partb. In section 1: 
+
+End Amendment Part
+ Start Amendment Parti. Remove and reserve paragraph b.; 
+
+End Amendment Part
+ Start Amendment Partii. Remove the last sentence of paragraph c.;
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph d.(12), add the words “Flightcrew Member” after “as amended,”; and
+
+End Amendment Part
+ Start Amendment Partiv. Revise paragraph d.(26).
+
+End Amendment Part
+ Start Amendment Partc. In section 11: 
+
+End Amendment Part
+ Start Amendment Parti. In paragraph o. introductory text, remove the words “an NSP pilot” and add in their place the phrase “a pilot from the responsible Flight Standards office” and remove second instance of the word “NSP”; 
+
+End Amendment Part
+ Start Amendment Partii. In paragraph r.(1), remove the word “NSP”; and
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph v., remove the phrase “NSPM or visit the NSPM website” and add in its place the words “responsible Flight Standards office”.
+
+End Amendment Part
+ Start Amendment Partd. In attachment 1, revise table B1A; 
+
+End Amendment Part
+ Start Amendment Parte. In attachment 2: 
+
+End Amendment Part
+ Start Amendment Parti. Revise table B2A; 
+
+End Amendment Part
+ Start Amendment Partii. In section 4.b., remove the word “NSP” and add in its place the word “FAA”; and
+
+End Amendment Part
+ Start Amendment Partiii. In table B2F, revise entries 2.a.1.a., 2.a.2.a., and 2.a.3.a.;
+
+End Amendment Part
+ Start Amendment Partf. In attachment 3, revise table B3C; 
+
+End Amendment Part
+ Start Amendment Partg. In attachment 4: 
+
+End Amendment Part
+ Start Amendment Parti. In the table of contents, revise the entry for Figure B4H to read “[Reserved]”; 
+
+End Amendment Part
+ Start Amendment Partii. Revise figures B4A, B4C, B4D, and B4E;
+
+End Amendment Part
+ Start Amendment Partiii. Remove and reserve figure B4H;
+
+End Amendment Part
+ Start Amendment Parth. Remove the word “NSPM” and in its place add the words “responsible Flight Standards office” in the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 1. Introduction, paragraph c., first two instances; 
+
+End Amendment Part
+ Start Amendment Partii. Section 9. FTD Objective Data Requirements, paragraphs d., d.(1), d.(2), g., h. and i.;
+
+End Amendment Part
+ Start Amendment Partiii. Section 10. Special Equipment and Personnel Requirements for Qualification of the FTD, paragraph a;
+
+End Amendment Part
+ Start Amendment Partiv. Section 11. Initial (and Upgrade) Qualification Requirements, paragraphs b.(2), b.(3), d., f., g.(1), h., j., k., l., m., n., n.(2), o., p., q., r.(2), s., t., and w.;
+
+End Amendment Part
+ Start Amendment Partv. Section 13. Previously Qualified FTDs, paragraphs a.(1), a.(3), a.(4), a.(5), d., and i.; 
+
+End Amendment Part
+ Start Amendment Partvi. Section 14. Inspection, Continuing Qualification Evaluation, and Maintenance Requirements, paragraphs a., d., and h.;
+
+End Amendment Part
+ Start Amendment Partvii. Section 17. Modifications to FTDs, paragraphs b.(1) and b.(2);
+
+End Amendment Part
+ Start Amendment Partviii. Section 19. Automatic Loss of Qualification and Procedures for Restoration of Qualification;
+
+End Amendment Part
+ Start Amendment Partix. Section 20. Other Losses of Qualification and Procedures for Restoration of Qualification; Section
+
+End Amendment Part
+ Start Amendment Partx. Attachment 2, section 2. Test Requirements, paragraphs a., h., j., k., and l.; and 
+
+End Amendment Part
+ Start Amendment Partxi. Attachment 2, section 5. Alternative Data Sources, Procedures, and Instrumentation: Level 6 FTD Only, paragraphs c., d.(2), and e.
+
+End Amendment Part
+ Start Amendment Partn. Remove the word “NSP” in the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 14, paragraph f; and 
+
+End Amendment Part
+ Start Amendment Partii. Attachment 3, paragraphs 1.b, and 1.c.
+
+End Amendment Part
+ The revisions read as follows:
+
+ Appendix B to Part 60 Qualification Performance Standards for Airplane Flight Training Devices
+
+ 
+* * * * *
+
+ 
+ 1. Introduction
+
+ 
+* * * * *
+
+ d. * * *
+
+ 26. FAA Airman Certification Standards and Practical Test Standards for Airline Transport Pilot, Type Ratings, Commercial Pilot, and Instrument Ratings.
+
+ 
+* * * * *
+
+ Attachment 1 to Appendix B to Part 60—General FTD REQUIREMENTS
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75772
+ 
+
+ 
+ 
+ Start Printed Page 75773
+ 
+
+ 
+ 
+ Start Printed Page 75774
+ 
+
+ 
+ 
+ Start Printed Page 75775
+ 
+
+ 
+ 
+ Start Printed Page 75776
+ 
+
+ 
+ 
+ Start Printed Page 75777
+ 
+
+ 
+ 
+ Start Printed Page 75778
+ 
+
+ 
+ 
+ Start Printed Page 75779
+ 
+
+ 
+ 
+ Start Printed Page 75780
+ 
+
+ 
+ 
+ Start Printed Page 75781
+ 
+
+ 
+ 
+ Start Printed Page 75782
+ 
+
+ 
+ 
+ Start Printed Page 75783
+ 
+
+ 
+ 
+ Start Printed Page 75784
+ 
+
+ 
+ 
+ Start Printed Page 75785
+ 
+
+ 
+ 
+ Start Printed Page 75786
+ 
+
+ 
+ Start Printed Page 75787
+ 
+* * * * *
+
+ Attachment 2 to Appendix B to Part 60—Flight Training Device (FTD) Objective Tests
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75788
+ 
+
+ 
+ 
+ Start Printed Page 75789
+ 
+
+ 
+ 
+ Start Printed Page 75790
+ 
+
+ 
+ 
+ Start Printed Page 75791
+ 
+
+ 
+ 
+ Start Printed Page 75792
+ 
+
+ 
+ 
+ Start Printed Page 75793
+ 
+
+ 
+ 
+ Start Printed Page 75794
+ 
+
+ 
+ 
+ Start Printed Page 75795
+ 
+
+ 
+ 
+ Start Printed Page 75796
+ 
+
+ 
+ 
+ Start Printed Page 75797
+ 
+
+ 
+ 
+ Start Printed Page 75798
+ 
+
+ 
+ 
+ Start Printed Page 75799
+ 
+
+ 
+ 
+ Start Printed Page 75800
+ 
+
+ 
+ 
+ Start Printed Page 75801
+ 
+
+ 
+ 
+ Start Printed Page 75802
+ 
+
+ 
+ 
+ Start Printed Page 75803
+ 
+
+ 
+ 
+ Start Printed Page 75804
+ 
+
+ 
+ 
+ Start Printed Page 75805
+ 
+
+ 
+ 
+ Start Printed Page 75806
+ 
+
+ 
+ 
+ Start Printed Page 75807
+ 
+
+ 
+ 
+ Start Printed Page 75808
+ 
+
+ 
+ 
+ Start Printed Page 75809
+ 
+
+ 
+ 
+ Start Printed Page 75810
+ 
+
+ 
+ 
+ Start Printed Page 75811
+ 
+
+ 
+ 
+ Start Printed Page 75812
+ 
+
+ 
+ 
+ Start Printed Page 75813
+ 
+
+ 
+ 
+ Start Printed Page 75814
+ 
+
+ 
+ 
+ Start Printed Page 75815
+ 
+
+ 
+ 
+ Start Printed Page 75816
+ 
+
+ 
+ 
+* * * * *
+
+ 
+ Start Printed Page 75817
+ 
+
+ 
+ 
+* * * * *
+
+ Attachment 3 to Appendix B to Part 60—Flight Training Device (FTD) Subjective Evaluation
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75818
+ 
+
+ 
+ 
+* * * * *
+
+ Attachment 4 to Appendix B to Part 60—Sample Documents
+
+ 
+* * * * *
+
+ Attachment 4 to Appendix B to Part 60—Figure B4A—Sample Letter, Request for Initial, Upgrade, or Reinstatement Evaluation
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Start Printed Page 75819
+ 
+* * * * *
+
+ Attachment 4 to Appendix B to Part 60—Figure B4C—Sample Letter of Compliance
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ Start Printed Page 75820
+ 
+ Attachment 4 to Appendix B to Part 60—Figure B4D—Sample Qualification Test Guide Cover Page
+
+ Information
+
+ 
+ 
+
+ 
+ 
+* * * * *
+
+ Start Printed Page 75821
+ Attachment 4 to Appendix B to Part 60— Figure B4E—Sample Statement of Qualification—Certificate
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ Start Printed Page 75822
+ 
+* * * * *
+
+ 
+ 
+ Start Amendment Part42. In appendix C to part 60: 
+
+End Amendment Part
+ Start Amendment Parta. In the introductory “Begin Information” text: 
+
+End Amendment Part
+ Start Amendment Parti. Remove the word “NSPM” and add in its place the words “Flight Standards Service” in the first sentence; and 
+
+End Amendment Part
+ Start Amendment Partii. In the last sentence, remove the phrase “NSPM, or a person assigned by the NSPM,” and add in its place the words “responsible Flight Standards office”.
+
+End Amendment Part
+ Start Amendment Partb. In section 1: 
+
+End Amendment Part
+ Start Amendment Parti. Remove and reserve paragraph b.; 
+
+End Amendment Part
+ Start Amendment Partii. Remove the last sentence of paragraph c.;
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph d.(10), add the words “Flightcrew Member” after “as amended,”; and
+
+End Amendment Part
+ Start Amendment Partiv. Revise paragraph d.(25).
+
+End Amendment Part
+ Start Amendment Partc. In section 11: 
+
+End Amendment Part
+ Start Amendment Parti. In paragraph o. introductory text, remove the words “an NSP pilot” and add in their place the words “a pilot from the responsible Flight Standards office” and remove the word “NSP”; 
+
+End Amendment Part
+ Start Amendment Partii. In paragraph r.(1), remove the word “NSP”; and
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph v., remove the phrase “NSPM or visit the NSPM website” and add in its place the words “responsible Flight Standards office”.
+
+End Amendment Part
+ Start Amendment Partd. In attachment 1, in table C1A, revise the entries for 4.a., 6.c., 6.d., and 6.u.; 
+
+End Amendment Part
+ Start Amendment Parte. In attachment 2: 
+
+End Amendment Part
+ Start Amendment Parti. In section 8, paragraph d., remove the first instance of the word “NSPM” and add in its place the words “the responsible Flight Standards office”; 
+
+End Amendment Part
+ Start Amendment Partii. In table C2A, revise the entries for 1.j.4., 2.a., and 4.a.2;
+
+End Amendment Part
+ Start Amendment Partiii. In table C2E, revise the entry for 1.b.2.;
+
+End Amendment Part
+ Start Amendment Partf. In attachment 3: 
+
+End Amendment Part
+ Start Amendment Parti. In section 2, in the first paragraph (h), remove the last sentence and redesignate the second paragraph h. and paragraph i. as paragraphs i. and j, respectively; and 
+
+End Amendment Part
+ Start Amendment Partii. In table C3C, revise the introductory text.
+
+End Amendment Part
+ Start Amendment Partg. In attachment 4: 
+
+End Amendment Part
+ Start Amendment Parti. Revise the table of contents entry for Figure C4H to read “Figure C4H [Reserved]”; 
+
+End Amendment Part
+ Start Amendment Partii. Revise figures C4A C4C, C4D, and C4E; and
+
+End Amendment Part
+ Start Amendment Partiii. Remove and reserve figure C4H.
+
+End Amendment Part
+ Start Amendment Parth. Remove the word “NSPM” and in its place add the words “responsible Flight Standards office” in the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 1, paragraph c., the first two instances; 
+
+End Amendment Part
+ Start Amendment Partii. Section 9, paragraphs d., d.(1), d.(2), g., h., and i.;
+
+End Amendment Part
+ Start Amendment Partiii. Section 10, paragraph a;
+
+End Amendment Part
+ Start Amendment Partiv. Section 11, paragraphs b.(2), b.(3), d., e.(2), f., g.(1), h., j. k., l., m., n., n.(2), o., p., q., r.(2), s., t., and w.;
+
+End Amendment Part
+ Start Amendment Partv. Section 13, paragraphs a.(1), a.(3), a.(4), a.(5), d., and i.; 
+
+End Amendment Part
+ Start Amendment Partvi. Section 14, paragraphs a., d., e., and e.(1);
+
+End Amendment Part
+ Start Amendment Partvii. Section 17, paragraphs b.(1) and b.(2);
+
+End Amendment Part
+ Start Amendment Partviii. Section 19;
+
+End Amendment Part
+ Start Amendment Partix. Section 20;
+
+End Amendment Part
+ Start Amendment Partx. Attachment 2, section 1, paragraph b.; 
+
+End Amendment Part
+ Start Amendment Partxi. Attachment 2, section 2, paragraphs a., h., j., k., and l.;
+
+End Amendment Part
+ Start Amendment Partxii. Attachment 2, section 4, paragraph b.(1);
+
+End Amendment Part
+ Start Amendment Partxiii. Attachment 2, section 6, paragraph d.(2);
+
+End Amendment Part
+ Start Amendment Partxiv. Attachment 2, section 8, paragraphs b., c., the second instance of d., f., and g.;
+
+End Amendment Part
+ Start Amendment Partxv. Attachment 2, section 9, paragraphs a., b., b.(2) and c.(2)(i);
+
+End Amendment Part
+ Start Amendment Partxvi. Attachment 2, section 12, paragraph a.;
+
+End Amendment Part
+ Start Amendment Partxvii. Attachment 2, section 14, paragraph b.(4)(d);
+
+End Amendment Part
+ Start Amendment Partxviii. Attachment 2, section 16, paragraphs a.(2) and b.(2);
+
+End Amendment Part
+ Start Amendment Partxix. Attachment 2, section 17, paragraphs c., d.(2), e., and g.;
+
+End Amendment Part
+ Start Amendment Partxx. Attachment 3, section 1, paragraphs f. and g.; and
+
+End Amendment Part
+ Start Amendment Partxxi. Attachment 3, section 2, paragraph b.
+
+End Amendment Part
+ Start Amendment Parti. In appendix C to part 60, remove the word “NSP” from the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 14, paragraph g.; and 
+
+End Amendment Part
+ Start Amendment Partii. Attachment 3, paragraphs 2.d. and 2.f.
+
+End Amendment Part
+ The revisions read as follows:
+
+ Appendix C to Part 60 Qualification Performance Standards for Helicopter Full Flight Simulators
+
+ 
+ 
+* * * * *
+
+ 1. Introduction
+
+ 
+* * * * *
+
+ d. * * *
+
+ (25) FAA Airman Certification Standards and Practical Test Standards for Airline Transport Pilot, Type Ratings, Commercial Pilot, and Instrument Ratings.
+
+ 
+* * * * *
+
+ Attachment 1 to Appendix C to Part 60—General Simulator Requirements
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75823
+ 
+
+ 
+ 
+ Start Printed Page 75824
+ 
+
+ 
+ Start Printed Page 75825
+ 
+* * * * *
+
+ Attachment 2 to Appendix C to Part 60—FFS Objective Tests
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75826
+ 
+
+ 
+ 
+ Start Printed Page 75827
+ 
+
+ 
+ 
+ Start Printed Page 75828
+ 
+
+ 
+ 
+* * * * *
+
+ Attachment 3 to Appendix C to Part 60—Simulator Subjective Evaluation
+
+ 
+* * * * *
+
+ 
+ 
+
+ 
+ 
+* * * * *
+
+ 
+ Start Printed Page 75829
+ 
+ Attachment 4 to Appendix C to Part 60—Figure C4A—Sample Letter, Request for Initial, Upgrade, or Reinstatement Evaluation
+
+ Information
+
+ 
+ 
+
+ 
+ 
+* * * * *
+
+ Start Printed Page 75830
+ Attachment 4 to Appendix C to Part 60—Figure C4C—Sample Letter of Compliance
+
+ Information
+
+ 
+ 
+
+ 
+ Start Printed Page 75831
+ Attachment 4 to Appendix C to Part 60—Figure C4D—Sample Qualification Test Guide Cover Page
+
+ Information
+
+ 
+ 
+
+ 
+ Start Printed Page 75832
+ Attachment 4 to Appendix C to Part 60—Figure C4E—Sample Statement of Qualification—Certificate
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+* * * * *
+
+ 
+ 
+ Start Amendment Part43. In appendix D to part 60: 
+
+End Amendment Part
+ Start Amendment Parta. In the introductory “Begin Information” text: 
+
+End Amendment Part
+ Start Amendment Parti. Remove “NSPM” and add in its place the words “Flight Standards Service” in the first sentence; and 
+
+End Amendment Part
+ Start Amendment Partii. Remove the phrase “NSPM, or a person or persons assigned by the NSPM” and add in its place the words “responsible Flight Standards office” in the last sentence.
+
+End Amendment Part
+ Start Amendment Partb. In section 1: 
+
+End Amendment Part
+ Start Amendment Parti. Remove and reserve paragraph b.; 
+
+End Amendment Part
+ Start Amendment Part
+ ii. Remove the last sentence of paragraph c.;
+ Start Printed Page 75833
+ 
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph d.(12), add the words “Flightcrew Member” after “as amended,”; and
+
+End Amendment Part
+ Start Amendment Partiv. Revise paragraph d.(28;
+
+End Amendment Part
+ Start Amendment Partc. In section 11: 
+
+End Amendment Part
+ Start Amendment Parti. In paragraph o. introductory text, remove the words “an NSP pilot” and add in their place the words “a pilot from the responsible Flight Standards office” and remove the second instance of the word “NSP”; 
+
+End Amendment Part
+ Start Amendment Partii. In paragraph r.(1), remove the word “NSP”; and
+
+End Amendment Part
+ Start Amendment Partiii. In paragraph v., remove the phrase “NSPM or visit the NSPM website” and add in its place the words “responsible Flight Standards office”.
+
+End Amendment Part
+ Start Amendment Partd. In section 17, paragraph c., remove the word “D4H” and add in its place the word “D4I”; 
+
+End Amendment Part
+ Start Amendment Parte. In attachment 1, in table D1A, revise the entry for 6.c.; 
+
+End Amendment Part
+ Start Amendment Partf. In attachment 2, in table D2A, revise the entries for 1.j.4. and 2.a.; 
+
+End Amendment Part
+ Start Amendment Partg. In attachment 3: 
+
+End Amendment Part
+ Start Amendment Parti. In section 1, paragraph g., remove the first instance of the word “NPSM” and add in its place the words “responsible Flight Standards office” and remove the last sentence; and 
+
+End Amendment Part
+ Start Amendment Partii. Revise the introductory text to table D3C.
+
+End Amendment Part
+ Start Amendment Parth. In attachment 4: 
+
+End Amendment Part
+ Start Amendment Parti. Remove the table of contents entry “Figure A4C Sample Letter of Compliance” and add in its place “Figure D4C Sample Letter of Compliance”; 
+
+End Amendment Part
+ Start Amendment Partii. Revise the table of contents entry “Figure D4H Sample Continuing Qualification Evaluation Requirements Page” to read “Figure D4H [Reserved]”;
+
+End Amendment Part
+ Start Amendment Partiii. Revise figures D4A, D4C, D4D, and D4E;
+
+End Amendment Part
+ Start Amendment Partiv. Redesignate Figure A4H as Figure D4H; and
+
+End Amendment Part
+ Start Amendment Partv. Remove and reserve newly redesignated Figure D4H. 
+
+End Amendment Part
+ Start Amendment Parti. Remove the word “NSPM” and in its place add the words “responsible Flight Standards office” in the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 1, paragraph c., the first two instances; 
+
+End Amendment Part
+ Start Amendment Partii. Section 9, paragraphs d., d.(1), d.(1)(a), g., h., and i.;
+
+End Amendment Part
+ Start Amendment Partiii. Section 10, paragraph a.;
+
+End Amendment Part
+ Start Amendment Partiv. Section 11, paragraphs b.(2), b.(3), d., e.(2), f., g.(1), h., j., k., l., m., n., n.(2), o., p., q., r.(2), s., t., and w.;
+
+End Amendment Part
+ Start Amendment Partv. Section 13, paragraphs a.(1), a.(3), a.(4), a.(5), d., i., and j.; 
+
+End Amendment Part
+ Start Amendment Partvi. Section 14, paragraphs a., d., h.;
+
+End Amendment Part
+ Start Amendment Partvii. Section 17, paragraphs b.(1) and (2);
+
+End Amendment Part
+ Start Amendment Partviii. Section 19 and 20;
+
+End Amendment Part
+ Start Amendment Partix. Attachment 2, section 2, paragraphs a., h., i., j., and k.; and
+
+End Amendment Part
+ Start Amendment Partx. Attachment 3, section 1, paragraph f. 
+
+End Amendment Part
+ Start Amendment Partj. In appendix D to part 60, remove the word “NSP” from the following places: 
+
+End Amendment Part
+ Start Amendment Parti. Section 14, paragraph f.; and 
+
+End Amendment Part
+ Start Amendment Partii. Attachment 3, paragraphs 2.c. and 2.d.
+
+End Amendment Part
+ Appendix D to Part 60 Qualification Performance Standards for Helicopter Flight Training Devices
+
+ 
+ 
+* * * * *
+
+ 1. Introduction
+
+ 
+* * * * *
+
+ d. * * *
+
+ (28) FAA Airman Certification Standards and Practical Test Standards for Airline Transport Pilot, Type Ratings, Commercial Pilot, and Instrument Ratings.
+
+ 
+* * * * *
+
+ Attachment 1 to Appendix D to Part 60—General FTD Requirements
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75834
+ 
+
+ 
+ Start Printed Page 75835
+ 
+* * * * *
+
+ Attachment 2 to Appendix D to Part 60—Flight Training Device (FTD) Objective Tests
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75836
+ 
+
+ 
+ 
+ Start Printed Page 75837
+ 
+
+ 
+ Start Printed Page 75838
+ 
+* * * * *
+
+ Attachment 3 to Appendix D to Part 60—Flight Training Device (FTD) Subjective Evaluation
+
+ 
+* * * * *
+
+ 
+ 
+
+ 
+ 
+* * * * *
+
+ Attachment 4 to Appendix D to Part 60—Sample Documents
+
+ Table of Contents
+
+ 
+* * * * *
+
+ Figure D4C Sample Letter of Compliance
+
+ 
+* * * * *
+
+ Figure D4H [Reserved]
+
+ 
+* * * * *
+
+ Attachment 4 to Appendix D to Part 60—Figure D4A—Sample Letter, Request for Initial, Upgrade, or Reinstatement Evaluation
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ Start Printed Page 75839
+ 
+
+ 
+ 
+* * * * *
+
+ 
+ Start Printed Page 75840
+ 
+ Attachment 4 to Appendix D to Part 60—Figure D4C—Sample Letter of Compliance
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Start Printed Page 75841
+ Attachment 4 to Appendix D to Part 60—Figure D4D—Sample Qualification Test Guide Cover Page
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Start Printed Page 75842
+ Attachment 4 to Appendix D to Part 60—Figure D4E—Sample Statement of Qualification—Certificate
+
+ Information
+
+ 
+ 
+
+ 
+ 
+ 
+* * * * *
+
+ 
+ 
+ Start Amendment Part44. In appendix E to part 60: 
+
+End Amendment Part
+ Start Amendment Parta. Remove the word “NSPM” and in its place add the words “responsible Flight Standards office” in paragraphs a., b., d.(2), d.(3), e., f., g., h., h.(4), i.(1), j.(2)(b), and j.(4)(d). 
+
+End Amendment Part
+ Start Amendment Partb. Remove the word “NSPM” in paragraphs h.(1) and (2). 
+
+End Amendment Part
+ Start Amendment Partc. Remove paragraph i.(4). 
+
+End Amendment Part
+ Start Amendment Partd. Revise table E1. 
+
+End Amendment Part
+ The revision reads as follows:
+
+ Appendix E to Part 60 Qualification Performance Standards for Quality Management Systems for Flight Simulation Training Devices
+
+ 
+* * * * *
+
+ 
+ Start Printed Page 75843
+ Table E1—FSTD Quality Management System
+
+Entry No. QPS Requirement Information
+ (Reference) 
+
+E1.1. A QMS manual that prescribes the policies, processes, or procedures outlined in this table § 60.5(a). 
+
+E1.2. A policy, process, or procedure specifying how the sponsor will identify deficiencies in the QMS § 60.5(b). 
+
+E1.3. A policy, process, or procedure specifying how the sponsor will document how the QMS program will be changed to address deficiencies § 60.5(b). 
+
+E1.4. A policy, process, or procedure specifying how the sponsor will address proposed program changes (for programs that do not meet the minimum requirements as notified by the responsible Flight Standards office) to the responsible Flight Standards office and receive approval prior to their implementation § 60.5(c). 
+
+E1.5. A policy, process, or procedure specifying how the sponsor will document that at least one FSTD is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the initial or upgrade evaluation conducted by the responsible Flight Standards office and at least once within each subsequent 12-month period thereafter § 60. 7(b)(5). 
+
+E1.6. A policy, process, or procedure specifying how the sponsor will document that at least one FSTD is used within the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the 12-month period following the first continuing qualification evaluation conducted by the responsible Flight Standards office and at least once within each subsequent 12-month period thereafter § 60.7(b)(6). 
+
+E1.7. A policy, process, or procedure specifying how the sponsor will obtain an annual written statement from a qualified pilot (who has flown the subject aircraft or set of aircraft during the preceding 12-month period) that the performance and handling qualities of the subject FSTD represents the subject aircraft or set of aircraft (within the normal operating envelope). Required only if the subject FSTD is not used in the sponsor's FAA-approved flight training program for the aircraft or set of aircraft at least once within the preceding 12-month period § 60.5(b)(7) and § 60.7(d)(2). 
+
+E1.8. A policy, process, or procedure specifying how independent feedback (from persons recently completing training, evaluation, or obtaining flight experience; instructors and check airmen using the FSTD for training, evaluation or flight experience sessions; and FSTD technicians and maintenance personnel) will be received and addressed by the sponsor regarding the FSTD and its operation § 60.9(b)(1). 
+
+E1.9. A policy, process, or procedure specifying how and where the FSTD SOQ will be posted, or accessed by an appropriate terminal or display, in or adjacent to the FSTD § 60.9(b)(2). 
+
+E1.10. A policy, process, or procedure specifying how the sponsor's management representative (MR) is selected and identified by name to the responsible Flight Standards office § 60.9(c) and Appendix E, paragraph(d). 
+
+E1.11. A policy, process, or procedure specifying the MR authority and responsibility for the following: § 60.9(c)(2), (3), and (4). 
+
+E1.11.a. Monitoring the on-going qualification of assigned FSTDs to ensure all matters regarding FSTD qualification are completed as required by this part 
+
+E1.11.b. Ensuring that the QMS is properly maintained by overseeing the QMS policies, practices, or procedures and modifying as necessary 
+
+E1.11.c. Regularly briefing sponsor's management on the status of the on-going FSTD qualification program and the effectiveness and efficiency of the QMS 
+
+E1.11.d. Serving as the primary contact point for all matters between the sponsor and the responsible Flight Standards office regarding the qualification of assigned FSTDs 
+
+E1.11.e. Delegating the MR assigned duties to an individual at each of the sponsor's locations, as appropriate 
+
+E1.12. A policy, process, or procedure specifying how the sponsor will: § 60.13; QPS Appendices A, B, C, and D. 
+
+E1.12.a. Ensure that the data made available to the responsible Flight Standards office (the validation data package) includes the aircraft manufacturer's flight test data (or other data approved by the responsible Flight Standards office) and all relevant data developed after the type certificate was issued (
+ e.g.,
+ data developed in response to an airworthiness directive) if the data results from a change in performance, handling qualities, functions, or other characteristics of the aircraft that must be considered for flight crewmember training, evaluation, or experience requirements 
+
+E1.12.b. Notify the responsible Flight Standards office within 10 working days of becoming aware that an addition to or a revision of the flight related data or airplane systems related data is available if this data is used to program or operate a qualified FSTD 
+
+E1.12.c. Maintain a liaison with the manufacturer of the aircraft being simulated (or with the holder of the aircraft type certificate for the aircraft being simulated if the manufacturer is no longer in business), and if appropriate, with the person who supplied the aircraft data package for the FFS for the purposes of receiving notification of data package changes 
+
+E1.13. A policy, process, or procedure specifying how the sponsor will make available all special equipment and qualified personnel needed to conduct tests during initial, continuing qualification, or special evaluations § 60.14. 
+
+Start Printed Page 75844 
+
+E1.14. A policy, process, or procedure specifying how the sponsor will submit to the responsible Flight Standards office a request to evaluate the FSTD for initial qualification at a specific level and simultaneously request the TPAA forward a concurring letter to the responsible Flight Standards office; including how the MR will use qualified personnel to confirm the following: § 60.15(a)-(d); § 60.15(b); § 60.15(b)(i); § 60.15(b)(ii); § 60.15(b)(iii). 
+
+E1.14.a. That the performance and handling qualities of the FSTD represent those of the aircraft or set of aircraft within the normal operating envelope 
+
+E1.14.b. The FSTD systems and sub-systems (including the simulated aircraft systems) functionally represent those in the aircraft or set of aircraft 
+
+E1.14.c. The flight deck represents the configuration of the specific type or aircraft make, model, and series aircraft being simulated, as appropriate 
+
+E1.15. A policy, process, or procedure specifying how the subjective and objective tests are completed at the sponsor's training facility for an initial evaluation § 60.15(e). 
+
+E1.16. A policy, process, or procedure specifying how the sponsor will update the QTG with the results of the FAA-witnessed tests and demonstrations together with the results of the objective tests and demonstrations after the responsible Flight Standards office completes the evaluation for initial qualification § 60.15(h). 
+
+E1.17. A policy, process, or procedure specifying how the sponsor will make the MQTG available to the responsible Flight Standards office upon request § 60.15(i). 
+
+E1.18. A policy, process, or procedure specifying how the sponsor will apply to the responsible Flight Standards office for additional qualification(s) to the SOQ § 60.16(a); 
+ § 60.16(a)(1)(i); and 
+ § 60.16(a)(1)(ii). 
+
+E1.19. A policy, process, or procedure specifying how the sponsor completes all required Attachment 2 objective tests each year in a minimum of four evenly spaced inspections as specified in the appropriate QPS § 60.19(a)(1)
+ QPS Appendices A, B, C, or D. 
+
+E1.20. A policy, process, or procedure specifying how the sponsor completes and records a functional preflight check of the FSTD within the preceding 24 hours of FSTD use, including a description of the functional preflight § 60.19(a)(2) QPS Appendices A, B, C, or D. 
+
+E1.21. A policy, process, or procedure specifying how the sponsor schedules continuing qualification evaluations with the responsible Flight Standards office § 60.19(b)(2). 
+
+E1.22. A policy, process, or procedure specifying how the sponsor ensures that the FSTD has received a continuing qualification evaluation at the interval described in the MQTG § 60.19(b)(5)-(6). 
+
+E1.23. A policy, process, or procedure describing how discrepancies are recorded in the FSTD discrepancy log, including § 60.19(c);
+ § 60.19(c)(2)(i); 
+ § 60.19(c)(2)(ii). 
+
+E1.23.a. A description of how the discrepancies are entered and maintained in the log until corrected 
+
+E1.23.b. A description of the corrective action taken for each discrepancy, the identity of the individual taking the action, and the date that action is taken 
+
+E1.24. A policy, process, or procedure specifying how the discrepancy log is kept in a form and manner acceptable to the Administrator and kept in or adjacent to the FSTD. (An electronic log that may be accessed by an appropriate terminal or display in or adjacent to the FSTD is satisfactory.) § 60.19(c)(2)(iii). 
+
+E1.25. A policy, process, or procedure that requires each instructor, check airman, or representative of the Administrator conducting training, evaluation, or flight experience, and each person conducting the preflight inspection, who discovers a discrepancy, including any missing, malfunctioning, or inoperative components in the FSTD, to write or cause to be written a description of that discrepancy into the discrepancy log at the end of the FSTD preflight or FSTD use session § 60.20. 
+
+E1.26. A policy, process, or procedure specifying how the sponsor will apply for initial qualification based on the final aircraft data package approved by the aircraft manufacturer if operating an FSTD based on an interim qualification § 60.21(c). 
+
+E1.27. A policy, process, or procedure specifying how the sponsor determines whether an FSTD change qualifies as a modification as defined in § 60.23 § 60.23(a)(1)-(2). 
+
+E1.28. A policy, process, or procedure specifying how the sponsor will ensure the FSTD is modified in accordance with any FSTD Directive regardless of the original qualification basis § 60.23(b). 
+
+E1.29. A policy, process, or procedure specifying how the sponsor will notify the responsible Flight Standards office and TPAA of their intent to use a modified FSTD and to ensure that the modified FSTD will not be used prior to: § 60.23(c)(1)(i),(ii), and (iv). 
+
+E1.29.a. Twenty-one days since the sponsor notified the responsible Flight Standards office and the TPAA of the proposed modification and the sponsor has not received any response from either the responsible Flight Standards office or the TPAA; or 
+
+E1.29.b. Twenty-one days since the sponsor notified the responsible Flight Standards office and the TPAA of the proposed modification and one has approved the proposed modification and the other has not responded; or 
+
+E1.29.c. The FSTD successfully completing any evaluation the responsible Flight Standards office may require in accordance with the standards for an evaluation for initial qualification or any part thereof before the modified FSTD is placed in service 
+
+E1.30 A policy, process, or procedure specifying how, after an FSTD modification is approved by the responsible Flight Standards office, the sponsor will: § 60.23(d)-(e). 
+
+Start Printed Page 75845 
+
+E1.30.a. Post an addendum to the SOQ until as the responsible Flight Standards office issues a permanent, updated SOQ 
+
+E1.30.b. Update the MQTG with current objective test results and appropriate objective data for each affected objective test or other MQTG section affected by the modification 
+
+E1.30.c. File in the MQTG the requirement from the responsible Flight Standards office to make the modification and the record of the modification completion 
+
+E1.31. A policy, process, or procedure specifying how the sponsor will track the length of time a component has been missing, malfunctioning, or inoperative (MMI), including: § 60.25(b)-(c), and
+ QPS Appendices 
+ A, B, C, or D. 
+
+E1.31.a. How the sponsor will post a list of MMI components in or adjacent to the FSTD 
+
+E1.31.b. How the sponsor will notify the responsible Flight Standards office if the MMI has not been repaired or replaced within 30 days.* 
+
+E1.32. A policy, process, or procedure specifying how the sponsor will notify the responsible Flight Standards office and how the sponsor will seek requalification of the FSTD if the FSTD is moved and reinstalled in a different location § 60.27(a)(3). 
+
+E1.33. A policy, process, or procedure specifying how the sponsor will maintain control of the following: (The sponsor must specify how these records are maintained in plain language form or in coded form; but if the coded form is used, the sponsor must specify how the preservation and retrieval of information will be conducted.) § 60.31. 
+
+E1.33.a. The MQTG and each amendment 
+
+E1.33.b. A record of all FSTD modifications required by this part since the issuance of the original SOQ 
+
+E1.33.c. Results of the qualification evaluations (initial and each upgrade) since the issuance of the original SOQ 
+
+E1.33.d. Results of the objective tests conducted in accordance with this part for a period of 2 years 
+
+E1.33.e. Results of the previous three continuing qualification evaluations, or the continuing qualification evaluations from the previous 2 years, whichever covers a longer period. 
+
+E1.33.f. Comments obtained in accordance with § 60.9(b); 
+
+E1.33.g. A record of all discrepancies entered in the discrepancy log over the previous 2 years, including the following: 
+
+E1.33.g.1. A list of the components or equipment that were or are missing, malfunctioning, or inoperative 
+
+E1.33.g.2. The action taken to correct the discrepancy 
+
+E1.33.g.3. The date the corrective action was taken 
+
+E1.33.g.4. The identity of the person determining that the discrepancy has been corrected. 
+
+* 
+ Note:
+ If the sponsor has an approved discrepancy prioritization system, this item is satisfied by describing how discrepancies are prioritized, what actions are taken, and how the sponsor will notify the responsible Flight Standards office if the MMI has not been repaired or replaced within the specified timeframe. 
+
+ 
+ 
+ Appendix F to Part 60—[Amended]
+
+ 
+ Start Amendment Part45. In appendix F to part 60: 
+
+End Amendment Part
+ Start Amendment Parta. In section 2, remove the word “NSPM” and in its place add the words “responsible Flight Standards office” and remove the phrase “National Simulator Program Manager (NSPM)—the FAA manager responsible for the overall administration and direction of the National Simulator Program (NSP), or a person approved by that FAA manager.”; and 
+
+End Amendment Part
+ Start Amendment Partb. In section 3, remove the phrase “NSPM National Simulator Program Manager”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 61—CERTIFICATION: PILOTS, FLIGHT INSTRUCTORS, AND GROUND INSTRUCTORS
+
+ End Part
+ 
+ Start Amendment Part46. The authority citation for part 61 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, 44701-44703, 44707, 44709-44711, 44729, 44903, 45102-45103, 45301-45302; Sec. 2307 Pub. L. 114-190, 130 Stat. 615 (49 U.S.C. 44703 note).
+ 
+
+End Authority
+ 
+ 
+ § 61.58 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part47. Amend § 61.58 by removing paragraphs (j) and (k). 
+
+End Amendment Part
+ 
+ 
+ § 61.313 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part48. Amend § 61.313 in paragraph (h)(1) by removing the word “light” and adding in its place the word “flight”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 67—MEDICAL STANDARDS AND CERTIFICATION
+
+ End Part
+ 
+ Start Amendment Part49. The authority citation for part 67 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(g), 40113, 44701-44703, 44707, 44709-44711, 45102-45103, 45301-45303.
+ 
+
+End Authority
+ 
+ 
+ § 67.4 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part50. Amend § 67.4 in paragraph (b) by removing the numbers “26200” and adding in their place the numbers “25082”. 
+
+End Amendment Part
+ 
+ 
+ § 67.409 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part51. Amend § 67.409 in paragraph (a) by removing the phrase “and in duplicate” and by removing the numbers “26080” and adding in their place the numbers “25082”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 73—SPECIAL USE AIRSPACE
+
+ End Part
+ 
+ Start Amendment Part52. The authority citation for part 73 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40103, 40113, 40120; E.O. 10854, 24 FR 9565, 3 CFR, 1959-1963 Comp., p. 389.
+ 
+
+End Authority
+ 
+ 
+ Start Amendment Part53. Amend § 73.19 by revising paragraphs (a), (b) introductory text, and (c) to read as follows: 
+
+End Amendment Part
+ 
+ § 73.19 
+
+ Reports by using agency.
+
+ 
+ (a) Each using agency must prepare a report on the use of each restricted area assigned thereto during any part of the preceding 12-month period ended September 30, and transmit it by the following January 31 of each year to the Manager, Operations Support Group in 
+ Start Printed Page 75846
+ the ATO Service Center office of the Federal Aviation Administration having jurisdiction over the area in which the restricted area is located, with a copy to the Manager, Airspace Policy Group, Federal Aviation Administration, 800 Independence Avenue SW, Washington, DC 20591.
+ 
+
+ (b) In the report under this section the using agency must:
+
+ 
+* * * * *
+
+ (c) If it is determined that the information submitted under paragraph (b) of this section is not sufficient to evaluate the nature and extent of the use of a restricted area, the FAA may request the using agency to submit supplementary reports. Within 60 days after receiving a request for additional information, the using agency must submit such information as the FAA Service Center Operations Support Group Manager considers appropriate. Supplementary reports must be sent to the FAA officials designated in paragraph (a) of this section.
+
+ 
+
+ 
+ Start Part
+ PART 91—GENERAL OPERATING AND FLIGHT RULES
+
+ End Part
+ 
+ Start Amendment Part54. The authority citation for part 91 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40101, 40103, 40105, 40113, 40120, 44101, 44111, 44701, 44704, 44709, 44711, 44712, 44715, 44716, 44717, 44722, 46306, 46315, 46316, 46504, 46506-46507, 47122, 47508, 47528-47531, 47534, Pub. L. 114-190, 130 Stat. 615 (49 U.S.C. 44703 note); articles 12 and 29 of the Convention on International Civil Aviation (61 Stat. 1180), (126 Stat. 11).
+ 
+
+End Authority
+ 
+ 
+ § 91.9 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part55. Amend § 91.9 in paragraph (c) by removing the phrase “part 45” and adding in its place the phrase “part 45 or 48”. 
+
+End Amendment Part
+ 
+ 
+ § 91.157 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part56. Amend § 91.157 in paragraph (b)(4) introductory text by adding the word “less” after the phrase “6 degrees or” and by removing the word “more” before the phrase “below the horizon”. 
+
+End Amendment Part
+ 
+ 
+ § 91.203 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part57. Amend § 91.203 in paragraph (a)(1) by removing the phrase “part 47” and adding in its place the phrase “part 47 or 48”. 
+
+End Amendment Part
+ 
+ 
+ § 91.511 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part58. Amend § 91.511 in paragraph (a) introductory text by adding the words “operating under this subpart” after the word “person” in the first sentence. 
+
+End Amendment Part
+ 
+ 
+ § 91.609 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part59. Amend § 91.609 in paragraph (g) by adding the words “49 CFR” before both instances of the words “part 830”. 
+
+End Amendment Part
+ 
+ 
+ § 91.1001 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part60. Amend § 91.1001 in paragraph (b)(9) by removing “(b)(1)(v)” and adding in its place “(b)(5)(vi)”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 97—STANDARD INSTRUMENT PROCEDURES
+
+ End Part
+ 
+ Start Amendment Part61. The authority citation for part 97 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40103, 40106, 40113, 40114, 40120, 44502, 44514, 44701, 44719, and 44721-44722.
+ 
+
+End Authority
+ 
+ 
+ § 97.20 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part62. Amend § 97.20 in paragraph (b) by: 
+
+End Amendment Part
+ Start Amendment Parta. Removing the phrase “FAA's Rules Docket (AGC-200) and at the National Flight Data Center, 800 Independence Avenue SW., Washington, DC 20590” and adding in its place the phrase “U.S. Department of Transportation, Docket Operations, 1200 New Jersey Avenue SE, West Building Ground Floor, Room W12-140, Washington, DC 20590, and at Aeronautical Information Services, 1305 East-West Highway, Silver Spring, MD 20910”; and 
+
+End Amendment Part
+ Start Amendment Partb. Removing the phrase “call 202-741-6030” and adding in its place the words phrase “email: fedreg.legal@nara.gov
+ ”. 
+ 
+
+End Amendment Part
+ 
+ Start Part
+ PART 101—MOORED BALLOONS, KITES, AMATEUR ROCKETS, UNMANNED FREE BALLOONS
+
+ End Part
+ 
+ Start Amendment Part63. The authority citation for part 101 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40101 note, 40103, 40113-40114, 45302, 44502, 44514, 44701-44702, 44721, 46308.
+ 
+
+End Authority
+ 
+ 
+ § 101.21 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part64. Amend § 101.21 in paragraph (a) by removing citation “§ 101.25(b)(7)(ii)” and adding in its place citation “§ 101.25(g)(2)”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 107—SMALL UNMANNED AIRCRAFT SYSTEMS
+
+ End Part
+ 
+ Start Amendment Part65. The authority citation for part 107 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 40101 note, 40103(b), 44701(a)(5), 44807.
+ 
+
+End Authority
+ 
+ 
+ Start Amendment Part66. Revise the heading for § 107.9 to read as follows: 
+
+End Amendment Part
+ 
+ § 107.9 
+
+ Safety event reporting.
+
+ 
+* * * * *
+
+ 
+
+ 
+ Start Part
+ PART 121—OPERATING REQUIREMENTS: DOMESTIC, FLAG, AND SUPPLEMENTAL OPERATIONS
+
+ End Part
+ 
+ Start Amendment Part67. The authority citation for part 121 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40103, 40113, 40119, 41706, 42301 preceding note added by Pub. L. 112-95, sec. 412, 126 Stat. 89, 44101, 44701-44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 44729, 44732; 46105; Pub. L. 111-216, 124 Stat. 2348 (49 U.S.C. 44701 note); Pub. L. 112-95 126 Stat 62 (49 U.S.C. 44732 note).
+ 
+
+End Authority
+ 
+ 
+ § 121.310 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part68. Amend § 121.310 in paragraph (b)(2)(iii) by removing the words “turbopropeller powered” and adding in their place the words “turbopropeller-powered”. 
+
+End Amendment Part
+ 
+ 
+ § 121.311 
+
+ Seats, safety belts, and shoulder harnesses. [Amended]
+
+ 
+
+ 
+ Start Amendment Part69. Amend § 121.311 in paragraph (b)(2)(ii)(C) introductory text by removing the citation “(B)(2)(ii)(A)” and adding in its place the citation “(b)(2)(ii)(A)”. 
+
+End Amendment Part
+ 
+ 
+ § 121.359 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part70. Amend § 121.359 in paragraph (h) by adding the phrase “49 CFR” before both instances of the phrase “part 830”. 
+
+End Amendment Part
+ 
+ 
+ § 121.391 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part71. Amend § 121.391 in paragraph (d) by removing the word “exists” and adding in its place the word “exits”. 
+
+End Amendment Part
+ 
+ 
+ § 121.523 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part72. Amend § 121.523 in paragraph (c) by removing the second instance of the word “duty” in the third sentence and adding in its place the word “during”. 
+
+End Amendment Part
+ 
+ 
+ § 121.703 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part73. Amend § 121.703 in paragraph (f) by removing the citation “ 14 CFR part 830” and adding in its place the citation “49 CFR part 830”. 
+
+End Amendment Part
+ 
+ 
+ § 121.909 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part74. Amend § 121.909 in paragraph (a) by removing the phrase “made, through the FAA office responsible for approval of the certificate holder's operations specifications, to the Manager of the Air Transportation Division” and adding in its place the phrase “made to the responsible Flight Standards office”. 
+
+End Amendment Part
+ 
+ 
+ § 121.923 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part75. Amend § 121.923 in paragraph (a)(2) by removing the phrase “made, through the FAA office directly responsible for oversight of the training provider, to the Manager of the Air Transportation Division” and adding in Start Printed Page 75847
+ its place the phrase “made to the responsible Flight Standards office”. 
+ 
+
+End Amendment Part
+ 
+ 
+ Start Amendment Part76. Amend § 121.1115 by revising table 2 to read as follows: 
+
+End Amendment Part
+ 
+ § 121.1115 
+
+ Limit of validity.
+
+ 
+* * * * *
+
+ Table 2—Airplanes Excluded From § 26.21
+
+Airplane model Default LOV 
+ [flight cycles (FC) or flight hours (FH)] 
+
+Airbus: 
+
+Caravelle 15,000 FC/24,000 FH 
+
+Avions Marcel Dassault: 
+
+Breguet Aviation Mercure 100C 20,000 FC/16,000 FH 
+
+Boeing: 
+
+Boeing 707 (-100 Series and -200 Series) 20,000 FC 
+
+Boeing 707 (-300 Series and -400 Series) 20,000 FC 
+
+Boeing 720 30,000 FC 
+
+Bombardier: 
+
+CL-44D4 and CL-44J 20,000 FC 
+
+BD-700 15,000 FC 
+
+Bristol Aeroplane Company: 
+
+Britannia 305 10,000 FC 
+
+British Aerospace Airbus, Ltd.: 
+
+BAC 1-11 (all models) 85,000 FC 
+
+British Aerospace (Commercial Aircraft) Ltd.: 
+
+Armstrong Whitworth Argosy A.W. 650 Series 101 20,000 FC 
+
+BAE Systems (Operations) Ltd.: 
+
+BAe 146-100A (all models) 50,000 FC 
+
+BAe 146-200-07 50,000 FC 
+
+BAe 146-200-07 Dev 50,000 FC 
+
+BAe 146-200-11 50,000 FC 
+
+BAe 146-200-07A 47,000 FC 
+
+BAe 146-200-11 Dev 43,000 FC 
+
+BAe 146-300 (all models) 40,000 FC 
+
+Avro 146-RJ70A (all models) 40,000 FC 
+
+Avro 146-RJ85A and 146-RJ100A (all models) 50,000 FC 
+
+D & R Nevada, LLC: 
+
+Convair Model 22 1,000 FC/1,000 FH 
+
+Convair Model 23M 1,000 FC/1,000 FH 
+
+deHavilland Aircraft Company, Ltd.: 
+
+D.H. 106 Comet 4C 8,000 FH 
+
+Gulfstream: 
+
+GV 40,000 FH 
+
+GV-SP 40,000 FH 
+
+Ilyushin Aviation Complex: 
+
+IL-96T 10,000 FC/30,000 FH 
+
+Lockhead: 
+
+300-50A01(USAF C 141A) 20,000 FC 
+
+ 
+* * * * *
+
+ 
+
+ 
+ Start Part
+ PART 125— CERTIFICATION AND OPERATIONS: AIRPLANES HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+
+ End Part
+ 
+ Start Amendment Part77. The authority citation for part 125 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, 44701-44702, 44705, 44710-44711, 44713, 44716-44717, 44722.
+ 
+
+End Authority
+ 
+ 
+ § 125.285 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part78. Amend § 125.285 in paragraph (d) by removing the citation “(c)(3)” and adding in its place the citation “(c)(2)”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 129—OPERATIONS: FOREIGN AIR CARRIERS AND FOREIGN OPERATORS OF U.S.-REGISTERED AIRCRAFT ENGAGED IN COMMON CARRIAGE
+
+ End Part
+ 
+ Start Amendment Part79. The authority citation for part 129 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 1372, 40113, 40119, 44101, 44701-44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 44901-44904, 44906, 44912, 46105, Pub. L. 107-71 sec. 104.
+ 
+
+End Authority
+ 
+ 
+ § 129.18 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part80. Amend § 129.18 in paragraph (b) introductory text by removing the word “or” and adding in its place the word “of”. 
+
+End Amendment Part
+ 
+ 
+ Start Amendment Part81. Amend § 129.115 by revising table 2 to read as follows: 
+
+End Amendment Part
+ 
+ § 129.115 
+
+ Limit of validity.
+
+ 
+* * * * *
+
+ Start Printed Page 75848
+ Table 2—Airplanes Excluded From § 26.21
+
+Airplane model Default LOV [flight cycles (FC) or flight hours (FH)] 
+
+Airbus: 
+
+Caravelle 15,000 FC/24,000 FH 
+
+Avions Marcel Dassault: 
+
+Breguet Aviation Mercure 100C 20,000 FC/16,000 FH 
+
+Boeing: 
+
+Boeing 707 (-100 Series and -200 Series) 20,000 FC 
+
+Boeing 707 (-300 Series and -400 Series) 20,000 FC 
+
+Boeing 720 30,000 FC 
+
+Bombardier: 
+
+CL-44D4 and CL-44J 20,000 FC 
+
+BD-700 15,000 FC 
+
+Bristol Aeroplane Company: 
+
+Britannia 305 10,000 FC 
+
+British Aerospace Airbus, Ltd.: 
+
+BAC 1-11 (all models) 85,000 FC 
+
+British Aerospace (Commercial Aircraft) Ltd.: 
+
+Armstrong Whitworth Argosy A.W. 650 Series 101 20,000 FC 
+
+BAE Systems (Operations) Ltd.: 
+
+BAe 146-100A (all models) 50,000 FC 
+
+BAe 146-200-07 50,000 FC 
+
+BAe 146-200-07 Dev 50,000 FC 
+
+BAe 146-200-11 50,000 FC 
+
+BAe 146-200-07A 47,000 FC 
+
+BAe 146-200-11 Dev 43,000 FC 
+
+BAe 146-300 (all models) 40,000 FC 
+
+Avro 146-RJ70A (all models) 40,000 FC 
+
+Avro 146-RJ85A and 146-RJ100A (all models) 50,000 FC 
+
+D & R Nevada, LLC: 
+
+Convair Model 22 1,000 FC/1,000 FH 
+
+Convair Model 23M 1,000 FC/1,000 FH 
+
+deHavilland Aircraft Company, Ltd.: 
+
+D.H. 106 Comet 4C 8,000 FH 
+
+Gulfstream: 
+
+GV 40,000 FH 
+
+GV-SP 40,000 FH 
+
+Ilyushin Aviation Complex: 
+
+IL-96T 10,000 FC/30,000 FH 
+
+Lockheed: 
+
+300-50A01 (USAF C 141A) 20,000 FC 
+
+ 
+* * * * *
+
+ 
+
+ 
+ Start Part
+ PART 135—OPERATING REQUIREMENTS: COMMUTER AND ON DEMAND OPERATIONS AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+
+ End Part
+ 
+ Start Amendment Part82. The authority citation for part 135 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, 41706, 44701-44702, 44705, 44709, 44711-44713, 44715-44717, 44722, 44730, 45101-45105; Public Law 112-95, 126 Stat. 58 (49 U.S.C. 44730).
+ 
+
+End Authority
+ 
+ 
+ § 135.415 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part83. Amend § 135.415 in paragraph (f) by adding the words “49 CFR” before the words “part 830”. 
+
+End Amendment Part
+ 
+ Start Part
+ PART 141—PILOT SCHOOLS
+
+ End Part
+ 
+ Start Amendment Part84. The authority citation for part 141 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 49 U.S.C. 106(f), 106(g), 40113, 44701-44703, 44707, 44709, 44711, 45102-45103, 45301-45302.
+ 
+
+End Authority
+ 
+ 
+ Start Amendment Part85. Amend appendix I to part 141 by revising paragraph 4.(a)(3)(ii) and adding paragraphs 4.(i)(2)(i) and (ii) to read as follows: 
+
+End Amendment Part
+ Appendix I to Part 141—Additional Aircraft Category and/or Class Rating Course
+
+ 
+* * * * *
+
+ 
+ 4. Flight Training
+
+ (a) * * *
+
+ (3) * * *
+
+ (ii) Ten hours of training in a complex airplane, a turbine-powered airplane, or a technically advanced airplane that meets the requirements of § 61.129(j), or any combination thereof. The airplane must be appropriate to land or sea for the rating sought;
+
+ 
+* * * * *
+
+ (i) * * *
+
+ (2) * * *
+
+ (i) Five training flights in a glider with a certificated flight instructor on the launch/tow procedures approved for the course and on the appropriate approved areas of operation listed in appendix D of part 141, paragraph 4.(d)(6); and
+
+ (ii) Three training flights in a glider with a certificated flight instructor in preparation for the practical test within 2 calendar months preceding the date of the test.
+
+ 
+* * * * *
+
+ 
+ 
+ Start Part
+ PART 183—REPRESENTATIVES OF THE ADMINISTRATOR
+
+ End Part
+ 
+ Start Amendment Part86. The authority citation for part 183 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 31 U.S.C. 9701; 49 U.S.C. 106(f), 106(g), 40113, 44702, 45303.
+ 
+
+End Authority
+ 
+ 
+ § 183.11 
+
+ [Amended]
+
+ 
+
+ 
+ Start Amendment Part87. Amend § 183.11 in paragraph (d) by: 
+
+End Amendment Part
+ Start Amendment Parta. Removing the words “Associate Administrator for Air Traffic” and adding in their place the words “Associate Administrator for Aviation Safety”; and Start Printed Page 75849
+ 
+
+End Amendment Part
+ Start Amendment Partb. Adding the word “Designated” before the phrase “Air Traffic Control Tower Operator Examiners”. 
+
+End Amendment Part
+ 
+ 
+ Start Amendment Part88. Amend § 183.25 by revising paragraph (c) to read as follows: 
+
+End Amendment Part
+ 
+ § 183.25 
+
+ Technical personnel examiners.
+
+ 
+* * * * *
+
+ (c) A designated air traffic control tower operator examiner may—
+
+ (1) Accept applications for, and conduct, written and practical tests necessary for issuing control tower operator certificates under part 65 of this chapter; and
+
+ (2) In the discretion of the Associate Administrator for Aviation Safety issue temporary control tower operator certificates to qualified applicants.
+
+ 
+* * * * *
+
+ 
+
+ 
+ Start Part
+ PART 440—FINANCIAL RESPONSIBILITY
+
+ End Part
+ 
+ Start Amendment Part89. The authority citation for part 440 continues to read as follows: 
+
+End Amendment Part
+ Start Authority
+ Authority: 
+ 51 U.S.C. 50901-50923.
+ 
+
+End Authority
+ 
+ 
+ Start Amendment Part90. Amend § 440.19 by adding paragraphs (a)(1) and (2) to read as follows: 
+
+End Amendment Part
+ 
+ § 440.19 
+
+ United States payment of excess third-party liability claims.
+
+ (a) * * *
+
+ (1) Exceeds the amount of insurance required under § 440.9(b); and
+
+ (2) Is not more than $1,500,000,000 (as adjusted for inflation occurring after January 1, 1989) above that amount.
+
+ 
+* * * * *
+
+ 
+
+ 
+ Start Signature
+ Issued under authority provided by 49 U.S.C. 106(f), 44701(a), and 44703 in Washington, DC, on October 21, 2022.
+
+ Brandon Roberts,
+
+ Executive Director, Office of Rulemaking.
+
+ 
+
+End Signature
+ End Supplemental Information
+ 
+ 
+ Footnotes
+
+ 1.
+ 
+  
+ See81 FR 96572 (Dec. 30, 2016).
+ 
+
+ 
+ Back to Citation
+ 
+
+ 2.
+ 
+  
+ See43 FR 4302 (Jan. 16, 1978).
+ 
+
+ 
+ Back to Citation
+ 
+
+ 3.
+ 
+  
+ See29 FR 18289 (Dec. 24, 1964).
+ 
+
+ 
+ Back to Citation
+ 
+
+ 4.
+ 
+  
+ See70 FR 239 (Jan. 3, 2005).
+ 
+
+ 
+ Back to Citation
+ 
+
+ 5.
+ 
+  Notice of Policy Clarification for Acceptance of Documents With Digital Signatures by the Federal Aviation Administration Aircraft Registry, 81 FR 23348, (April 20, 2016).
+ 
+
+ 
+ Back to Citation
+ 
+
+ 6.
+ 
+  
+ See74 FR 38092 (July 31, 2009).
+ 
+
+ 
+ Back to Citation
+ 
+
+ 7.
+ 
+  Correction of Authority Citations for Commercial Space Transportation, 77 FR 20531, April 5, 2012.
+ 
+
+ 
+ Back to Citation
+ 
+
+[FR Doc. 2022-23327 Filed 12-8-22; 8:45 am]
+
+BILLING CODE 4910-13-P

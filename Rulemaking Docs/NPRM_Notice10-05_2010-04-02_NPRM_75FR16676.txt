@@ -1,0 +1,1563 @@
+[[Page 1]]
+16676
+Proposed Rules
+This section of the FEDERAL REGISTER
+contains notices to the public of the proposed
+issuance of rules and regulations. The
+purpose of these notices is to give interested
+persons an opportunity to participate in the
+rule making prior to the adoption of the final
+rules.
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Parts 23, 25, 27, and 29
+[Docket No. FAA–2010–0224; Notice No. 10–
+05]
+RIN 2120–AJ57
+Airworthiness Standards; Electrical
+and Electronic System Lightning
+Protection
+AGENCY: Federal Aviation
+Administration (FAA), DOT.
+ACTION: Notice of proposed rulemaking
+(NPRM).
+SUMMARY: The Federal Aviation
+Administration (FAA) proposes to
+amend the lightning protection
+airworthiness standards by establishing
+new lightning protection regulations for
+electrical and electronic systems
+installed on aircraft certificated under
+parts 23, 27, and 29, and revising
+lightning protection regulations for
+electrical and electronic systems
+installed on airplanes certificated under
+part 25. The proposed rulemaking
+would establish two levels of lightning
+protection for aircraft systems based on
+consequences of system function failure:
+Catastrophic consequences which
+would prevent continued safe flight and
+landing and hazardous or major
+consequences which would reduce the
+capability of the aircraft or the ability of
+the flightcrew to respond to an adverse
+operating condition. The proposed
+rulemaking would also establish
+lightning protection for aircraft systems
+1 according to the aircraft’s potential for
+PROPOSALS_PART lightning on protection systems. demonstration The exposure. for proposed electrical of Compliance effective airworthiness and electronic lightning with
+the new requirements would be based
+with standards would establish consistent
+DSK1DXX6B1PROD lightning before DATES: July Send protection 1, your 2010. comments requirements on or for
+electrical and electronic systems.
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO
+ADDRESSES: You may send comments
+identified by Docket Number [Insert
+docket number, for example, FAA–
+200X–XXXXX] using any of the
+following methods:
+• Federal eRulemaking Portal: Go to
+http://www.regulations.gov and follow
+the online instructions for sending your
+comments electronically.
+• Mail: Send comments to Docket
+Operations, M–30; U.S. Department of
+Transportation, 1200 New Jersey
+Avenue, SE., Room W12–140, West
+Building Ground Floor, Washington, DC
+20590–0001.
+• Hand Delivery or Courier: Take
+comments to Docket Operations in
+Room W12–140 of the West Building
+Ground Floor at 1200 New Jersey
+Avenue, SE., Washington, DC, between
+9 a.m. and 5 p.m., Monday through
+Friday, except Federal holidays.
+• Fax: Fax comments to Docket
+Operations at 202–493–2251.
+For more information on the rulemaking
+process, see the SUPPLEMENTARY
+INFORMATION section of this document.
+Privacy: We will post all comments
+we receive, without change, to http://
+www.regulations.gov, including any
+personal information you provide.
+Using the search function of our docket
+Web site, anyone can find and read the
+electronic form of all comments
+received into any of our dockets,
+including the name of the individual
+sending the comment (or signing the
+comment for an association, business,
+labor union, etc.). You may review
+DOT’s complete Privacy Act Statement
+in the Federal Register published on
+April 11, 2000 (65 FR 19477–78) or you
+may visit http://DocketsInfo.dot.gov.
+Docket: To read background
+documents or comments received, go to
+http://www.regulations.gov at any time
+and follow the online instructions for
+accessing the docket or Docket
+Operations in Room W12–140 of the
+West Building Ground Floor at 1200
+New Jersey Avenue, SE., Washington,
+DC, between 9 a.m. and 5 p.m., Monday
+through Friday, except Federal holidays.
+FOR FURTHER INFORMATION CONTACT: For
+technical questions concerning this
+proposed rule contact Lee Nguyen, AIR–
+130, Federal Aviation Administration,
+Suite 4102, 470 L’Enfant Plaza,
+Washington, DC 20591; telephone (202)
+385–4676; facsimile (202) 385–4651,
+e-mail lee.nguyen@faa.gov. For legal
+questions concerning this proposed rule
+00000 Frm 00001 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+Federal Register
+Vol. 75, No. 63
+Friday, April 2, 2010
+contact Viola Pando, AGC–220, Federal
+Aviation Administration, 800
+Independence Ave., SW., Washington,
+DC 20591; telephone (202) 493–5293;
+facsimile (202) 267–7971, e-mail
+viola.pando@faa.gov.
+SUPPLEMENTARY INFORMATION:
+Later in this preamble under the
+Additional Information section, we
+discuss how you can comment on this
+proposal and how we will handle your
+comments. Included in this discussion
+is related information about the docket,
+privacy, and the handling of proprietary
+or confidential business information.
+We also discuss how you can get a copy
+of related rulemaking documents.
+Authority for This Rulemaking
+The FAA’s authority to issue rules on
+aviation safety is found in Title 49 of the
+United States Code. Subtitle I, Section
+106 describes the authority of the FAA
+Administrator. Subtitle VII, Aviation
+Programs, describes in more detail the
+scope of the agency’s authority.
+This rulemaking is promulgated
+under the authority described in
+Subtitle VII, Part A, Subpart III, Section
+44701(a)(1). Under that section, the FAA
+is charged with prescribing regulations
+to promote safe flight of civil aircraft in
+air commerce by prescribing minimum
+standards in the interest of safety for
+appliances and for the design, material,
+construction, quality of work, and
+performance of aircraft, aircraft engines,
+and propellers. By prescribing standards
+to protect aircraft electrical and
+electronic systems from the effects of
+lightning, this regulation is within the
+scope of the Administrator’s authority.
+Background and History
+Existing regulations for lightning
+protection of electrical and electronic
+systems installed on aircraft certificated
+under 14 CFR parts 23, 27 and 29
+require the type certification applicant
+only to ‘‘consider’’ the effects of
+lightning. Unlike system lightning
+protection regulations for part 25
+airplanes, these regulations have not
+been significantly amended since they
+were first adopted, and do not reflect
+current advances in technology.
+A. History of Lightning Regulations
+In the 1960s, regulations applicable to
+lightning protection for aircraft design,
+construction, and fuel systems were
+adopted for aircraft certificated under
+02APP1
+
+[[Page 2]]
+Federal Register /
+parts 23, 25, 27 and 29. The regulations
+required that the aircraft be protected
+against catastrophic effects of lightning,
+but did not have specific requirements
+for electrical and electronic system
+lightning protection. At the time, most
+aircraft were designed with mechanical
+systems, or simple electrical and
+electronic systems. Airframe
+components were made from aluminum
+materials, with high electrical
+conductivity, and offered good
+protection against lightning.
+The early 1980s ushered in part 25
+transport airplane designs that routinely
+included more complex electrical and
+electronic systems. Flight-critical
+electronic primary flight controls,
+electronic primary flight displays, and
+full-authority electronic engine controls
+became common on transport airplanes
+certificated under part 25. At this time,
+the FAA began to impose lightning
+protection requirements for critical and
+essential electrical and electronic
+systems through special conditions,
+when appropriate, for part 25 airplane
+certification projects.
+As electrical and electronic systems
+became more common on part 25
+airplanes, the FAA issued § 25.1316,
+specifically requiring protection for
+electrical and electronic systems on part
+25 transport category airplanes. The
+final rule was published on April 28,
+1994 (59 FR 22112). This regulation, in
+effect today, requires lightning
+protection for electrical and electronic
+systems based on the consequences of
+failure for functions these systems
+perform. The present regulation
+provides specific considerations that the
+applicant must design for to validate
+that the electrical and electronic
+systems and functions are protected
+from the effects of lightning strikes.
+B. Related Rulemaking Activity
+The FAA tasked the Aviation
+Rulemaking Advisory Committee
+(ARAC) on Transport Airplane and
+Engine Issues (57 FR 58843; December
+11, 1992) to develop recommendations
+for specific electrical and electronic
+systems lightning protection
+requirements for aircraft certificated
+under parts 23, 27, and 29 standards.
+The ARAC submitted
+1 recommendations to the FAA in
+PROPOSALS_PART November requirements, consequences functions, similar 1998. based of the The to failure on the recommendations the requirements of system in
+included lightning protection
+with § 25.1316. The ARAC also
+DSK1DXX6B1PROD recommended classification for parts 23, 27, of changes and the failure 29. to ARAC § conditions 25.1316
+consistent with its recommendations for
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO 00000
+/ Vol. 75, No. 63 / Friday, April 2, 2010
+recommended the same requirements
+for all four parts.
+The FAA considered the ARAC
+recommendations in developing this
+notice of proposed rulemaking (NPRM)
+and agrees with these recommendations,
+with one exception. After careful
+consideration, the FAA is unable to
+endorse the ARAC recommendation to
+provide an exception to the requirement
+for automatic and timely recovery of a
+system that performs a function for
+which failure is catastrophic. ARAC
+recommended an exception to recovery
+of such a system in instances where the
+recovery of the system would conflict
+with other operational or functional
+requirements of the system. We are
+unable to identify a situation where
+such an exception would be
+appropriate, nor could we justify the
+need for such an exception and propose
+requirements that could ensure an
+equivalent level of safety.
+The recommendations of the ARAC
+are available at the following Web
+address: http://www.faa.gov/
+regulations_policies/rulemaking/
+committees/arac/issue_areas/tae/eeh/.
+C. Advisory Material
+In the absence of performance
+standards for protection of electrical and
+electronic systems from lightning
+effects, the FAA has issued Advisory
+Circular (AC) 20–136A, ‘‘Protection of
+Aircraft Electrical/Electronic System
+against the Indirect Effects of
+Lightning.’’ Since advisory circulars are
+not mandatory, a type certificate
+applicant may elect to ignore or deviate
+from the guidance therein, while still
+satisfying the requirement to ‘‘consider’’
+lightning. The lack of specific
+performance standards has resulted in a
+variety of different interpretations and
+means of compliance for system
+lightning protection.
+General Discussion of the Proposal
+The proposed rulemaking would
+establish type certification standards for
+lightning protection of electrical and
+electronic systems for aircraft
+certificated under parts 23, 27 and 29.
+This action also proposes to revise
+§ 25.1316 for transport category
+airplanes to be consistent in format with
+the proposed regulations applicable to
+other aircraft.
+This rulemaking reflects a change in
+our approach to achieving lightning
+protection for aircraft by protecting
+functions of electrical and electronic
+systems. The current part 25 regulation
+for lightning protection focuses on
+protection of electrical and electronic
+systems that perform critical and
+essential functions and are no longer
+00000 Frm 00002 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+/ Proposed Rules 16677
+compatible or consistent with the latest
+classification concepts, terminology,
+and practices. Parts 23, 27 and 29
+regulations for lightning protection are
+less precise, and require the applicant
+only to ‘‘consider’’ lightning. While the
+focus on protection of electrical and
+electronic systems that perform critical
+or essential functions was fundamental
+to the wording of earlier airworthiness
+standards regarding systems, and
+associated advisory circulars, this
+proposal focuses on the effects that
+failure conditions would have on
+aircraft safety. The FAA proposes that
+lightning protection design required for
+each aircraft would be determined by
+the type of electrical and electronic
+systems installed on the aircraft, and
+how critical the system or function is to
+either continued flight and landing, or
+the aircraft capability and flightcrew’s
+ability to respond to adverse operating
+conditions.
+In aircraft, the term ‘‘electrical and
+electronic system’’ refers to the electrical
+and electronic equipment, associated
+software, and interconnecting wires
+installed on aircraft to perform one or
+more functions. The term ‘‘function’’
+refers to the action that the system
+performs. An aircraft system may
+perform multiple functions with
+different failure conditions. For
+example, an engine control system may
+perform the function of the engine
+thrust control—for which failure could
+have catastrophic effects on the
+continued safe flight and landing of the
+aircraft. The engine control system may
+also perform the function of engine
+condition monitoring—for which failure
+could have hazardous or major effects
+on continued safe operation of the
+aircraft. A function may also be
+performed by multiple systems or
+subsystems. For example, the function
+of controlling engine thrust may be
+provided by an electronic engine control
+subsystem, with a separate backup
+mechanical control subsystem.
+A. Proposed Performance Standards
+The proposed regulations would
+establish consistent performance
+standards to design lightning protection
+for those aircraft electrical and
+electronic systems that provide:
+1. Functions for which failure would
+prevent the continued safe flight and
+landing of the aircraft: Failure of these
+functions could result in catastrophic
+consequences such as loss of life and
+loss of the aircraft;
+2. Functions for which failure would
+reduce the capability of the aircraft or
+the ability of the flightcrew to cope with
+adverse operating conditions: Failure of
+02APP1
+
+[[Page 3]]
+16678 Federal Register /
+these functions could have hazardous or
+major consequences.
+This NPRM identifies system
+lightning performance standards for
+item 1 as ‘‘protection against
+catastrophic failure.’’ These standards
+are addressed by paragraph (a) of the
+proposed regulations. System lightning
+performance standards for item 2 will be
+referenced as ‘‘protection against
+hazardous or major failure.’’ These
+standards are addressed by paragraph
+(b) of the proposed regulations.
+The proposed standards for protection
+against catastrophic failure would
+require an applicant to show that the
+function would not be adversely
+affected during or after the time the
+aircraft is exposed to lightning.
+Compliance with the standard would
+depend on the specific aircraft function,
+the system that performs that function,
+and the effects of failure on the system
+and function. Further guidance on
+defining the adverse effects for specific
+aircraft system functions can be found
+in various FAA advisory materials.
+The system could be affected during
+lightning exposure because a backup
+system continues to provide the
+function, even though the function may
+not be adversely affected. Accordingly,
+the applicant would be required to show
+that the system would automatically
+recover normal operation after the
+lightning exposure in a timely manner.
+‘‘Normal operation’’ means the ability of
+the system to perform functions to the
+extent necessary to continue safe flight
+and landing. For systems that provide
+one or more functions, the proposal
+would require the system to
+automatically recover normal operations
+of those functions for which failure
+could be catastrophic. Other functions
+would not be required to return to
+normal operation. The FAA would
+determine what constitutes ‘‘timely’’
+automatic recovery on a case-by-case
+evaluation, based on engineering
+judgment of the specific function and its
+failure effects.
+The aircraft engine thrust/power
+control is an example of a function for
+which failure would have catastrophic
+effects on the aircraft’s ability to
+continue safe flight and landing. A full-
+authority electronic engine control
+1 system may provide this function, and
+PROPOSALS_PART perform flow loss could or and stop malfunction aircraft airflow the engines engine to the of this or engine(s). thrust/power result function in The
+control by automatically regulating fuel
+with engine overspeed, which could result in
+DSK1DXX6B1PROD a required thrust/power catastrophic to ensure control failure the function condition. aircraft engine is In not this
+situation, the applicant would be
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO 00000
+/ Vol. 75, No. 63 / Friday, April 2, 2010
+adversely affected during or after
+lightning exposure.
+The aircraft display is another
+function for which failure would have
+catastrophic effects on continued safe
+flight and landing. This function
+provides aircraft attitude, altitude, and
+airspeed information to the pilot, which
+are required for continued safe flight
+and landing of the aircraft. The aircraft
+display may be provided by two
+systems: An electronic primary display
+and an electromechanical standby
+display. In this situation, the primary
+display may momentarily blank while
+the aircraft is exposed to lightning,
+provided the information is available
+from a standby display. The applicant
+would be required to demonstrate that
+the primary display system
+automatically recovers normal operation
+in a timely manner with no adverse
+effect on providing the attitude, altitude,
+and airspeed information.
+The proposed requirements for
+protection against hazardous or major
+failure would require the applicant to
+show that the system would not be
+damaged, and the function would
+recover normal operation in a timely
+manner after the aircraft is exposed to
+lightning. This proposed requirement
+would primarily focus on the recovery
+of the function to normal operation. For
+these systems, ‘‘damaged’’ refers to the
+inability to recover. As with the
+proposed standard for protection against
+catastrophic failure, the FAA would
+determine what constitutes a ‘‘timely’’
+recovery of normal function based on
+engineering judgment of the specific
+function and its failure effects upon the
+design submitted for certification.
+An example of a function for which
+failure could result in or have a
+hazardous or major effect on aircraft
+operation is voice communication
+provided by radio. Failure of this
+function would increase the flightcrew’s
+normal workload and affect their ability
+to maintain situational awareness, as the
+flightcrew would no longer be able to
+transmit or receive voice
+communication information with other
+pilots or air traffic control. As proposed,
+the applicant would be required to
+ensure the radio system is not damaged
+after lightning exposure and the voice
+communication function would recover
+in a timely manner. Recovery may
+require flightcrew interaction.
+B. Applicability of the Proposed
+Lightning Protection Requirements
+Application of the proposed standards
+for aircraft electrical and electronic
+system lightning protection would be
+based on the aircraft’s potential for
+lightning exposure and the
+00000 Frm 00003 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+/ Proposed Rules
+consequences of system failure. The
+proposed requirements for parts 25 and
+29 would apply to all aircraft
+certificated under part 25 and part 29.
+The proposed requirements would also
+apply to part 23 and part 27 aircraft
+approved for operations under
+instrument flight rules (IFR). In
+addition, the proposed requirements
+would apply to part 23 airplanes and
+part 27 rotorcraft approved solely for
+operations under visual flight rules
+(VFR); for those electrical and electronic
+systems that perform functions for
+which failures would be catastrophic.
+Parts 25 and 29 Aircraft
+Parts 25 and 29 transport category
+aircraft are now routinely equipped
+with complex electrical and electronic
+systems. These systems are highly
+integrated, and provide a range of flight-
+critical functions. The FAA has
+tentatively determined that these
+transport category aircraft should be
+required to provide full protection for
+those systems that perform functions for
+which failure could result in both
+catastrophic and hazardous or major
+failure effects.
+Part 23 Airplanes
+Application of the proposed
+requirements for airplanes certificated
+to part 23 standards depends on
+whether the airplane is approved for IFR
+or VFR-only operations. This difference
+exists because, compared to part 23
+VFR-only airplanes, part 23 IFR-
+approved airplanes are more likely
+equipped with complex electrical and
+electronic systems that allow them to
+operate into instrument meteorological
+conditions (IMC), where lightning
+strikes are prevalent. As a result, part 23
+IFR-approved airplanes are designed for,
+and expected to operate into, weather
+conditions that present greater potential
+for exposure to lightning.
+In contrast, part 23 VFR-only
+airplanes are prohibited by regulation
+from operating into IMC. Nevertheless,
+there is still some likelihood of the
+airplanes being exposed to lightning.
+Therefore, the FAA has determined that
+the resulting risk to part 23 VFR-only
+airplanes for which failure would be
+catastrophic may be sufficiently great to
+require lightning protection to prevent
+catastrophic failures. However, the FAA
+has tentatively determined that the
+resulting risk to part 23 VFR-only
+airplanes with electrical or electronic
+systems installed for which failure
+would be hazardous or major remains
+sufficiently low as to not require
+lightning protection.
+02APP1
+
+[[Page 4]]
+Federal Register /
+Part 27 Rotorcraft
+Similar to the applicability of
+proposed changes to part 23, application
+of the proposed requirements for part 27
+would depend on whether the rotorcraft
+is approved for IFR or VFR-only
+operations. The proposed lightning
+protection requirements would apply to
+IFR-approved rotorcraft in the same
+way, and for the same reasons.
+Likewise, part 27 VFR-only rotorcraft
+would be required to protect those
+systems that perform functions where
+failure could have catastrophic effects.
+This requirement is intended to address
+the unique performance capabilities that
+make rotorcraft VFR operations
+vulnerable to lightning. Rotorcraft are
+inherently more maneuverable, and
+have more versatile landing capability
+than fixed wing aircraft. Accordingly,
+they are permitted to operate with low
+minimum altitude, low flight visibility,
+and nearer to clouds. Although
+prohibited from operating directly into
+IMC, part 27 VFR-only rotorcraft are
+able to operate close to meteorological
+conditions that have a high potential for
+lightning strikes. This means rotorcraft
+certificated to part 27 standards in VFR-
+only operations are likely to encounter
+lightning exposure. The FAA has
+determined that the resulting risk to part
+27 VFR-only rotorcraft systems for
+which failure would be catastrophic is
+sufficiently great to propose requiring
+lightning protection to prevent
+catastrophic failures. As with part 23
+VFR-only airplanes, the FAA has
+determined that the resulting risk to
+rotorcraft certificated to part 27
+standards that operate in VFR-only
+operations with electrical or electronic
+systems installed for which failure
+would be hazardous or major likely
+remains sufficiently low as to not
+require lightning protection.
+C. Specific Changes to Part 25
+The proposed changes to § 25.1316
+are intended to rephrase the existing
+regulation to clarify intent, to reformat
+it so that it is in keeping with the other
+three parts, and to delete § 25.1316(c)
+which sets forth specific requirements
+for compliance. If adopted, the proposal
+1 would not change the current part 25
+PROPOSALS_PART practices emphasis of focus electrical on the for placed and effects lightning electronic on that protecting protection. systems systems, functions and and
+Rather, the proposal would shift the
+with equipment failure conditions have on
+DSK1DXX6B1PROD aircraft lightning standards safety. protection for the The function most performance significant and the
+change would be to clearly set forth
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO 00000
+/ Vol. 75, No. 63 / Friday, April 2, 2010
+system, based on the failure effects of
+the function.
+Section 25.1316(a) currently requires
+those electrical and electronic systems
+that provide functions where failure
+would be catastrophic to be designed
+and installed so their operation and
+operational capabilities are not
+adversely affected when the airplane is
+exposed to lightning. Section 25.1316(b)
+requires that lightning protection for
+electrical and electronic systems that
+perform functions for which failure
+would be hazardous or major must be
+designed and installed to ensure that
+these functions can be timely recovered
+after exposure to lightning.
+The proposed regulation is
+distinguishable from existing § 25.1316
+in that it places the emphasis on the
+function and also sets forth specific
+standards for the function and the
+system respectively. By focusing on
+functions performed by systems, rather
+than the systems themselves, the
+proposed revision would allow the
+applicant to choose appropriate system
+configurations and designs to comply
+with this regulation, but would also
+require that the applicant demonstrate
+that the proposed configuration
+provides effective protection.
+Finally, the proposal would remove
+§ 25.1316(c), which contains specific
+step-by-step actions required to show
+compliance. The ARAC recommended
+removing § 25.1316(c) because this
+information is more appropriately
+addressed in guidance for means of
+compliance. Since § 25.1316 was
+adopted in 1994, significant guidance
+has been developed by the FAA and
+lightning technical committees.
+Advisory circulars 20–136A and 20–155
+provide much more comprehensive
+guidance on means of compliance with
+the lightning regulations. Removing
+§ 25.1316(c) allows for the use of means
+of compliance that achieve the intent of
+§ 25.1316(a) and (b) without the
+prescriptive list that is currently in
+§ 25.1316(c). The technology for
+showing compliance with § 25.1316(a)
+and (b) has progressed substantially
+since § 25.1316 was adopted in 1994,
+which makes the prescriptive list in
+§ 25.1316(c) obsolete.
+D. Miscellaneous Changes
+This rulemaking would remove
+§§ 27.1309(d) and 29.1309(h), and delete
+‘‘lightning and’’ from §§ 27.610(d)(4) and
+29.610(d)(4). Section 27.1309(d)
+currently governs lightning protection
+for part 27 electrical and electronic
+systems, and requires only that the
+applicant ‘‘consider’’ the effects of
+lightning according to § 27.610. Section
+29.1309(h) requires only that the
+00000 Frm 00004 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+/ Proposed Rules 16679
+applicant ‘‘consider’’ the effects of
+lightning. Sections 27.610(d)(4) and
+29.610(d)(4) both address general design
+requirements for electrical bonding and
+protection against lightning and static
+electricity. They require electrical
+bonding against lightning to reduce to
+an acceptable level the effects of
+lightning on the functioning of essential
+electrical and electronic equipment.
+Adoption of the proposed §§ 27.1316
+and 29.1316 would replace these
+references to lightning with specific
+performance standards for lightning
+protection of parts 27 and 29 electrical
+and electronic systems.
+Also, we propose to add a cross
+reference to § 27.1316 in Appendix B of
+Part 27 on electrical and electronic
+system lightning protection for
+rotorcraft approved for IFR operation.
+Paperwork Reduction Act
+The Paperwork Reduction Act of 1995
+(44 U.S.C. 3507(d)) requires that the
+FAA consider the impact of paperwork
+and other information collection
+burdens imposed on the public. We
+have determined that there is no new
+information collection requirement
+associated with this proposed rule.
+International Compatibility
+In keeping with U.S. obligations
+under the Convention on International
+Civil Aviation, it is FAA policy to
+conform to International Civil Aviation
+Organization (ICAO) Standards and
+Recommended Practices to the
+maximum extent practicable. The FAA
+has determined that there are no ICAO
+Standards and Recommended Practices
+that correspond to these proposed
+regulations.
+Regulatory Evaluation, Regulatory
+Flexibility Determination, International
+Trade Impact Assessment, and
+Unfunded Mandates Assessment
+Changes to Federal regulations must
+undergo several economic analyses.
+First, Executive Order 12866 directs that
+each Federal agency shall propose or
+adopt a regulation only upon a reasoned
+determination that the benefits of the
+intended regulation justify its costs.
+Second, the Regulatory Flexibility Act
+of 1980 (Pub. L. 96–354) requires
+agencies to analyze the economic
+impact of regulatory changes on small
+entities. Third, the Trade Agreements
+Act (Pub. L. 96–39) prohibits agencies
+from setting standards that create
+unnecessary obstacles to the foreign
+commerce of the United States. In
+developing U.S. standards, this Trade
+Act requires agencies to consider
+international standards and, where
+appropriate, that they be the basis of
+02APP1
+
+[[Page 5]]
+16680 Federal Register /
+U.S. standards. Fourth, the Unfunded
+Mandates Reform Act of 1995 (Pub. L.
+104–4) requires agencies to prepare a
+written assessment of the costs, benefits,
+and other effects of proposed or final
+rules that include a Federal mandate
+likely to result in the expenditure by
+State, local, or Tribal governments, in
+the aggregate, or by the private sector, of
+$100 million or more annually (adjusted
+for inflation with base year of 1995).
+This portion of the preamble
+summarizes the FAA’s analysis of the
+economic impact of the proposed rule.
+Department of Transportation Order
+DOT 2100.5 prescribes policies and
+procedures for simplification, analysis,
+and review of regulations. If the
+expected cost impact is so minimal that
+a proposed or final rule does not
+warrant a full evaluation, this order
+permits that a statement to that effect
+and the basis for it be included in the
+preamble. Such a determination has
+been made for this proposed rule. The
+reasoning for this determination
+follows:
+In a cost survey of industry conducted
+by the FAA, six of the seven replying
+firms reported no incremental cost from
+this proposed rule. One firm reported
+‘‘little or no cost.’’ The reason for little
+or no incremental cost is that these
+firms (six out of seven) reported usage
+of Advisory Circular (AC) 20–136A,
+‘‘Protection of Aircraft Electrical/
+Electronic Systems Against the Indirect
+Effects of Lightning,’’ as guidance for
+demonstrating compliance with
+lightning requirements. Consequently,
+Firm Type Products
+A .................. Airplane manufacturer .. Part
+B .................. Airplane manufacturer .. Parts
+C .................. Airplane manufacturer .. Parts
+D .................. Airplane manufacturer .. Part
+E .................. Electrical/electronic sys- Parts
+tems manufacturer.
+F .................. Electrical/electronic sys- Parts
+tems manufacturer.
+1 G .................. Electrical/electronic sys- Parts
+PROPOSALS_PART tems manufacturer.
+with Benefits of This Rulemaking
+DSK1DXX6B1PROD benefits the As proposed supported question, rule by and shown the the responses in the table, to the
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO 00000
+/ Vol. 75, No. 63 / Friday, April 2, 2010
+these firms are already in compliance
+with the proposed rule as it represents
+a codification of AC 20–136A. For
+manufacturers of Part 25 airplanes, cost
+changes should be minimal in any case,
+as the proposed changes in the rule are
+clarifying only. Moreover, four of the
+seven respondents reported at least
+some expected benefits from the
+proposed rule (See ‘‘Benefits’’ section
+below). The FAA therefore has
+determined that this proposed rule
+would have minimal costs with positive
+net benefits and does not warrant a full
+regulatory evaluation. The FAA requests
+comments with supporting justification
+on the FAA determination of minimal
+impact. Our analysis follows below.
+The FAA has also determined that
+this proposed rule is not a ‘‘significant
+regulatory action’’ as defined in section
+3(f) of Executive Order 12866, and is not
+‘‘significant’’ as defined in DOT’s
+Regulatory Policies and Procedures.
+Total Costs and Benefits of This
+Rulemaking
+As noted above, there are little or no
+expected costs for this proposed rule
+and some benefits. The benefits
+therefore justify the costs. See details in
+the separate costs and benefits sections
+below.
+Who Is Potentially Affected by This
+Rulemaking?
+Manufacturers of Parts 23, 25, 27, and
+29 aircraft and manufacturers of
+electrical and electronic systems for
+those aircraft.
+certified to: Costs
+23 .......................... No cost ..........................
+23 & 25 ................ No cost ..........................
+23 & 25 ................ No cost ..........................
+25 .......................... Little or no cost .............
+23 & 25 ................ No cost ..........................
+23, 25, 27, & 29 .. No cost ..........................
+23, 25, 27, & 29 .. No cost ..........................
+standardization of rule language would
+reduce firm costs by clarifying and
+simplifying the certification process.
+00000 Frm 00005 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+/ Proposed Rules
+Assumptions and Sources of
+Information
+• We use a ten-year period of
+analysis, 2009–2018.
+• Data on costs of compliance and
+benefits of this rule were obtained from
+an FAA survey of industry.
+• Firms are defined as ‘‘small’’ or
+‘‘large’’ using Small Business
+Administration (SBA) size standards
+(U.S. SBA. Table of Small Business Size
+Standards Matched to North American
+Industry Classification System Codes,
+July 21, 2006).
+Costs of This Rulemaking
+On February 9, 2009, we sent a
+detailed cost survey to six
+manufacturers of Parts 23, 25, 27, and
+29 aircraft and three manufacturers of
+electrical and electronic systems for
+those aircraft. In addition to several
+detailed cost questions, the survey also
+asked one question about potential
+benefits from the proposed rule. We
+received four responses to this initial
+survey. On March 17, 2009, we
+resurveyed the five non-respondents
+and received three additional replies,
+although the last response came only on
+August 8, 2009. The seven responses we
+received were from manufacturers
+ranging from a small aircraft
+manufacturer (less than 1,500
+employees) to the largest U.S. aircraft
+manufacturer. As shown in the table
+below, the respondents indicated little
+or no cost from the proposed rule.
+Summary of Cost Survey Results
+Benefits
+‘‘The certification process will be less ambig-
+uous and slightly streamlined by writing some
+of the AC 20–136A requirements directly into
+the regulations.’’
+‘‘The commonality between parts and the ability
+to use the same substantiation across product
+lines is a very large benefit.’’
+‘‘Harmonization of Part 23 and Part 25 rules will
+simplify our certification process as our inter-
+nal procedures benefit from any similarity of
+the two Parts.’’
+No response to benefits question.
+‘‘NA.’’
+‘‘None.’’
+‘‘Standardization of the rule across all aircraft
+types may simplify requirements capture re-
+sulting in some limit[ed] non-recurring cost re-
+duction.’’
+Regulatory Flexibility Determination
+The Regulatory Flexibility Act of 1980
+(Pub. L. 96–354) (RFA) establishes ‘‘as a
+principle of regulatory issuance that
+02APP1
+
+[[Page 6]]
+Federal Register
+agencies shall endeavor, consistent with
+the objectives of the rule and of
+applicable statutes, to fit regulatory and
+informational requirements to the scale
+of the businesses, organizations, and
+governmental jurisdictions subject to
+regulation. To achieve this principle,
+agencies are required to solicit and
+consider flexible regulatory proposals
+and to explain the rationale for their
+actions to assure that such proposals are
+given serious consideration.’’ The RFA
+covers a wide-range of small entities,
+including small businesses, not-for-
+profit organizations, and small
+governmental jurisdictions.
+Agencies must perform a review to
+determine whether a rule will have a
+significant economic impact on a
+substantial number of small entities. If
+the agency determines that it will, the
+agency must prepare a regulatory
+flexibility analysis as described in the
+RFA. However, if an agency determines
+that a rule is not expected to have a
+significant economic impact on a
+substantial number of small entities,
+section 605(b) of the RFA provides that
+the head of the agency may so certify
+and a regulatory flexibility analysis is
+not required. The certification must
+include a statement providing the
+factual basis for this determination, and
+the reasoning should be clear.
+As noted above, in a cost survey of
+industry, the FAA found little or no
+expected costs from this proposed rule.
+The reason for this finding is that all but
+one respondent reported usage of AC
+20–136A, ‘‘Protection of Aircraft
+Electrical/Electronic Systems Against
+the Indirect Effects of Lightning,’’ as
+guidance for complying with system
+lightning requirements. Accordingly,
+this proposed rule represents current
+practice and imposes no more
+requirements than those previously
+recommended by AC 20–136A.
+Consequently, these firms are already in
+compliance with the proposed rule as it
+represents a codification of AC 20–
+136A. For manufacturers of Part 25
+airplanes, cost changes should, in any
+case, be minimal as the proposed
+changes in the rule are clarifying only.
+Therefore, the FAA certifies that this
+proposed rule would not have a
+significant economic impact on a
+1 substantial number of small entities.
+PROPOSALS_PART The International The FAA Trade solicits Agreements Trade comments Impact Act regarding Assessment of 1979
+this determination.
+with (Pub. L. 96–39), as amended by the
+DSK1DXX6B1PROD Uruguay from engaging establishing Round in related Agreement any activities standards Act that (Pub. or create L.
+103–465), prohibits Federal agencies
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO
+/ Vol. 75, No. 63 / Friday, April 2, 2010
+unnecessary obstacles to the foreign
+commerce of the United States.
+Pursuant to these Acts, the
+establishment of standards is not
+considered not considered an
+unnecessary obstacle to the foreign
+commerce of the United States, so long
+as the standard have a legitimate
+domestic objective, such as the
+protection of safety, and do not operate
+in a manner that excludes imports that
+meet this objective. The statute also
+requires consideration of international
+standards and, where appropriate, that
+they be the basis for U.S. standards. The
+FAA notes the purpose is to ensure the
+safety of the American public, and has
+assessed the effect of this proposed rule
+to ensure that it does not exclude
+imports that meet this objective. As a
+result, this proposed rule is not
+considered as creating an unnecessary
+obstacle to foreign commerce because
+the FAA found little or no expected
+costs from this proposed rule.
+Unfunded Mandates Assessment
+Title II of the Unfunded Mandates
+Reform Act of 1995 (Pub. L. 104–4)
+requires each Federal agency to prepare
+a written statement assessing the effects
+of any Federal mandate in a proposed or
+final agency rule that may result in an
+expenditure of $100 million or more (in
+1995 dollars) in any one year by State,
+local, and Tribal governments, in the
+aggregate, or by the private sector; such
+a mandate is deemed to be a ‘‘significant
+regulatory action.’’ The FAA currently
+uses an inflation-adjusted value of
+$136.1 million in lieu of $100 million.
+This proposed rule does not contain
+such a mandate. The requirements of
+Title II do not apply.
+Executive Order 13132, Federalism
+The FAA has analyzed this proposed
+rule under the principles and criteria of
+Executive Order 13132, Federalism. We
+determined that this action would not
+have a substantial direct effect on the
+States, on the relationship between the
+national Government and the States, or
+on the distribution of power and
+responsibilities among the various
+levels of government, and, therefore,
+would not have federalism implications.
+Environmental Analysis
+FAA Order 1050.1E identifies FAA
+actions that are categorically excluded
+from preparation of an environmental
+assessment or environmental impact
+statement under the National
+Environmental Policy Act in the
+absence of extraordinary circumstances.
+The FAA has determined this proposed
+rulemaking action qualifies for the
+categorical exclusion identified in
+00000 Frm 00006 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+/ Proposed Rules 16681
+paragraph 308(c)(1) and involves no
+extraordinary circumstances.
+Regulations That Significantly Affect
+Energy Supply, Distribution, or Use
+The FAA has analyzed this NPRM
+under Executive Order 13211, Actions
+Concerning Regulations that
+Significantly Affect Energy Supply,
+Distribution, or Use (May 18, 2001). We
+have determined that it is not a
+‘‘significant energy action’’ under the
+executive order, it is not a ‘‘significant
+regulatory action’’ under Executive
+Order 12866 and DOT’s Regulatory
+Policies and Procedures.
+Additional Information
+Comments Invited
+The FAA invites interested persons to
+participate in this rulemaking by
+submitting written comments, data, or
+views. We also invite comments relating
+to the economic, environmental, energy,
+or federalism impacts that might result
+from adopting the proposals in this
+document. The most helpful comments
+reference a specific portion of the
+proposal, explain the reason for any
+recommended change, and include
+supporting data. To ensure the docket
+does not contain duplicate comments,
+please send only one copy of written
+comments, or if you are filing comments
+electronically, please submit your
+comments only one time.
+We will file in the docket all
+comments we receive, as well as a
+report summarizing each substantive
+public contact with FAA personnel
+concerning this proposed rulemaking.
+Before acting on this proposal, we will
+consider all comments we receive on or
+before the closing date for comments.
+We will consider comments filed after
+the comment period has closed if it is
+possible to do so without incurring
+expense or delay. We may change this
+proposal in light of the comments we
+receive.
+Proprietary or Confidential Business
+Information
+Do not file in the docket information
+that you consider to be proprietary or
+confidential business information. Send
+or deliver this information directly to
+the person identified in the FOR FURTHER
+INFORMATION CONTACT section of this
+document. You must mark the
+information that you consider
+proprietary or confidential. If you send
+the information on a disk or CD–ROM,
+mark the outside of the disk or CD–ROM
+and also identify electronically within
+the disk or CD–ROM the specific
+information that is proprietary or
+confidential.
+02APP1
+
+[[Page 7]]
+16682 Federal Register
+Under 14 CFR 11.35(b), when we are
+aware of proprietary information filed
+with a comment, we do not place it in
+the docket. We hold it in a separate file
+to which the public does not have
+access, and we place a note in the
+docket that we have received it. If we
+receive a request to examine or copy
+this information, we treat it as any other
+request under the Freedom of
+Information Act (5 U.S.C. 552). We
+process such a request under the DOT
+procedures found in 49 CFR part 7.
+Availability of Rulemaking Documents
+You can get an electronic copy of
+rulemaking documents using the
+Internet by—
+1. Searching the Federal eRulemaking
+Portal (http://www.regulations.gov);
+2. Visiting the FAA’s Regulations and
+Policies Web page at http://
+www.faa.gov/regulations_policies or
+3. Accessing the Government Printing
+Office’s Web page at http://
+www.gpoaccess.gov/fr/index.html.
+You can also get a copy by sending a
+request to the Federal Aviation
+Administration, Office of Rulemaking,
+ARM–1, 800 Independence Avenue,
+SW., Washington, DC 20591, or by
+calling (202) 267–9680. Make sure to
+identify the docket or notice number of
+this rulemaking.
+You may access all documents the
+FAA considered in developing this
+proposed rule, including economic
+analyses and technical reports, from the
+Internet through the Federal
+eRulemaking Portal referenced in
+paragraph (1).
+List of Subjects
+14 CFR Part 23
+Aircraft, Aviation safety, Signs and
+symbols.
+14 CFR Part 25
+Aircraft, Aviation safety, Reporting
+and recordkeeping requirements.
+14 CFR Part 27
+Aircraft, Aviation safety.
+1
+PROPOSALS_PART 14 The CFR Proposed Part 29 Amendment
+Aircraft, Aviation safety.
+with In consideration of the foregoing, the
+DSK1DXX6B1PROD Federal 29 Regulations, of Title Aviation 14, as Code follows: Administration of Federal
+proposes to amend parts 23, 25, 27, and
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO
+/ Vol. 75, No. 63 / Friday, April 2, 2010
+PART 23—AIRWORTHINESS
+STANDARDS: NORMAL, UTILITY,
+ACROBATIC, AND COMMUTER
+CATEGORY AIRPLANES
+1. The authority citation for part 23
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701,
+44702, 44704.
+2. Add new § 23.1306 to read as
+follows:
+§ 23.1306 Electrical and electronic system
+lightning protection.
+(a) Each electrical and electronic
+system that performs a function, for
+which failure would prevent the
+continued safe flight and landing of the
+airplane, must be designed and installed
+so that—
+(1) The function is not adversely
+affected during and after the time the
+airplane is exposed to lightning; and
+(2) The system automatically recovers
+normal operation of that function in a
+timely manner after the airplane is
+exposed to lightning.
+(b) For airplanes approved for
+instrument flight rules operation, each
+electrical and electronic system that
+performs a function, for which failure
+would reduce the capability of the
+airplane or the ability of the flightcrew
+to respond to an adverse operating
+condition, must be designed and
+installed so that—
+(1) The system is not damaged after
+the airplane is exposed to lightning; and
+(2) The function recovers normal
+operation in a timely manner after the
+airplane is exposed to lightning.
+PART 25—AIRWORTHINESS
+STANDARDS: TRANSPORT
+CATEGORY AIRPLANES
+3. The authority citation for part 25
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701,
+44702, 44704.
+4. Revise § 25.1316 to read as follows:
+§ 25.1316 Electrical and electronic system
+lightning protection.
+(a) Each electrical and electronic
+system that performs a function, for
+which failure would prevent the
+continued safe flight and landing of the
+airplane, must be designed and installed
+so that—
+(1) The function is not adversely
+affected during and after the time the
+airplane is exposed to lightning; and
+(2) The system automatically recovers
+normal operation of that function in a
+timely manner after the airplane is
+exposed to lightning.
+(b) Each electrical and electronic
+system that performs a function, for
+00000 Frm 00007 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+/ Proposed Rules
+which failure would reduce the
+capability of the airplane or the ability
+of the flightcrew to respond to an
+adverse operating condition, must be
+designed and installed so that—
+(1) The system is not damaged after
+the airplane is exposed to lightning; and
+(2) The function recovers normal
+operation in a timely manner after the
+airplane is exposed to lightning.
+PART 27—AIRWORTHINESS
+STANDARDS: NORMAL CATEGORY
+ROTORCRAFT
+5. The authority citation for part 27
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701,
+44702, 44704.
+6. Amend § 27.610 by revising
+paragraph (d)(4) to read as follows:
+§ 27.610 Lightning and static electricity
+protection.
+* * * * *
+(d) * * *
+(4) Reduce to an acceptable level the
+effects of static electricity on the
+functioning of essential electrical and
+electronic equipment.
+§ 27.1309 [Amended]
+7. Amend § 27.1309 by removing
+paragraph (d).
+8. Add a new § 27.1316 to read as
+follows:
+§ 27.1316 Electrical and electronic system
+lightning protection.
+(a) Each electrical and electronic
+system that performs a function, for
+which failure would prevent the
+continued safe flight and landing of the
+rotorcraft, must be designed and
+installed so that—
+(1) The function is not adversely
+affected during and after the time the
+rotorcraft is exposed to lightning; and
+(2) The system automatically recovers
+normal operation of that function in a
+timely manner after the rotorcraft is
+exposed to lightning.
+(b) For rotorcraft approved for
+instrument flight rules operation, each
+electrical and electronic system that
+performs a function, for which failure
+would reduce the capability of the
+rotorcraft or the ability of the flightcrew
+to respond to an adverse operating
+condition, must be designed and
+installed so that—
+(1) The system is not damaged after
+the rotorcraft is exposed to lightning;
+and
+(2) The function recovers normal
+operation in a timely manner after the
+rotorcraft is exposed to lightning.
+9. Add paragraph X. to Appendix B of
+part 27 to read as follows:
+02APP1
+
+[[Page 8]]
+Federal Register
+Appendix B to Part 29—Airworthiness
+Criteria for Helicopter Instrument
+Flight
+* * * * *
+X. Electrical and electronic system
+lightning protection. For regulations
+concerning lightning protection for electrical
+and electronic systems, see § 27.1316.
+PART 29—AIRWORTHINESS
+STANDARDS: TRANSPORT
+CATEGORY ROTORCRAFT
+10. The authority citation for part 29
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40113, 44701,
+44702, 44704.
+11. Amend § 29.610 by revising
+paragraph (d)(4) to read as follows:
+§ 29.610 Lightning and static electricity
+protection.
+* * * * *
+(d) * * *
+(4) Reduce to an acceptable level the
+effects of static electricity on the
+functioning of essential electrical and
+electronic equipment.
+§ 29.1309 [Amended]
+12. Amend § 29.1309 by removing
+paragraph (h).
+13. Add new § 29.1316 to read as
+follows:
+§ 29.1316 Electrical and electronic system
+lightning protection.
+(a) Each electrical and electronic
+system that performs a function, for
+which failure would prevent the
+continued safe flight and landing of the
+rotorcraft, must be designed and
+installed so that—
+(1) The function is not adversely
+affected during and after the time the
+rotorcraft is exposed to lightning; and
+(2) The system automatically recovers
+normal operation of that function in a
+timely manner after the rotorcraft is
+exposed to lightning.
+(b) Each electrical and electronic
+system that performs a function, for
+which failure would reduce the
+capability of the airplane or the ability
+of the flightcrew to respond to an
+adverse operating condition, must be
+designed and installed so that—
+(1) The system is not damaged after
+the rotorcraft is exposed to lightning;
+1 PROPOSALS_PART and rotorcraft Issued in is Washington, exposed to DC, lightning. on March 29,
+(2) The function recovers normal
+operation in a timely manner after the
+with 2010.
+DSK1DXX6B1PROD Kalene [FR BILLING Doc. CODE C. 2010–7525 Yanamura, 4910–13–P Filed 4–1–10; 8:45 am]
+Acting Director, Aircraft Certification Service.
+on
+wwoods2 VerDate Nov<24>2008 14:33 Apr 01, 2010 Jkt 220001 PO
+/ Vol. 75, No. 63 / Friday, April 2, 2010
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Part 39
+[Docket No. FAA–2010–0280; Directorate
+Identifier 2009–NM–259–AD]
+RIN 2120–AA64
+Airworthiness Directives; The Boeing
+Company Model 777–200LR and
+–300ER Series Airplanes
+AGENCY: Federal Aviation
+Administration (FAA), DOT.
+ACTION: Notice of proposed rulemaking
+(NPRM).
+SUMMARY: We propose to adopt a new
+airworthiness directive (AD) for certain
+Model 777–200LR and –300ER series
+airplanes. This proposed AD would
+require doing a high frequency eddy
+current inspection for cracking of the
+keyway of the fuel tank access door
+cutout on the left and right wings
+between wing rib numbers 8 (wing
+station 387) and 9 (wing station 414.5),
+and related investigative and corrective
+actions if necessary. This proposed AD
+results from reports of cracks emanating
+from the keyway of the fuel tank access
+door cutout of the lower wing skin
+between wing rib numbers 8 and 9. We
+are proposing this AD to prevent loss of
+the lower wing skin load path, which
+could cause catastrophic structural
+failure of the wing.
+DATES: We must receive comments on
+this proposed AD by May 17, 2010.
+ADDRESSES: You may send comments by
+any of the following methods:
+• Federal eRulemaking Portal: Go to
+http://www.regulations.gov. Follow the
+instructions for submitting comments.
+• Fax: 202–493–2251.
+• Mail: U.S. Department of
+Transportation, Docket Operations, M–
+30, West Building Ground Floor, Room
+W12–140, 1200 New Jersey Avenue, SE.,
+Washington, DC 20590.
+• Hand Delivery: U.S. Department of
+Transportation, Docket Operations, M–
+30, West Building Ground Floor, Room
+W12–140, 1200 New Jersey Avenue, SE.,
+Washington, DC 20590, between 9 a.m.
+and 5 p.m., Monday through Friday,
+except Federal holidays.
+For service information identified in
+this proposed AD, contact Boeing
+Commercial Airplanes, Attention: Data
+& Services Management, P.O. Box 3707,
+MC 2H–65, Seattle, Washington 98124–
+2207; telephone 206–544–5000,
+extension 1; fax 206–766–5680; e-mail
+me.boecom@boeing.com; Internet
+https://www.myboeingfleet.com. You
+may review copies of the referenced
+00000 Frm 00008 Fmt 4702 Sfmt 4702 E:\FR\FM\02APP1.SGM
+/ Proposed Rules 16683
+service information at the FAA,
+Transport Airplane Directorate, 1601
+Lind Avenue, SW., Renton, Washington.
+For information on the availability of
+this material at the FAA, call 425–227–
+1221.
+Examining the AD Docket
+You may examine the AD docket on
+the Internet at http://
+www.regulations.gov; or in person at the
+Docket Management Facility between 9
+a.m. and 5 p.m., Monday through
+Friday, except Federal holidays. The AD
+docket contains this proposed AD, the
+regulatory evaluation, any comments
+received, and other information. The
+street address for the Docket Office
+(telephone 800–647–5527) is in the
+ADDRESSES section. Comments will be
+available in the AD docket shortly after
+receipt.
+FOR FURTHER INFORMATION CONTACT:
+Duong Tran, Aerospace Engineer,
+Airframe Branch, ANM–120S, FAA,
+Seattle Aircraft Certification Office,
+1601 Lind Avenue, SW., Renton,
+Washington 98057–3356; telephone
+(425) 917–6452; fax (425) 917–6590.
+SUPPLEMENTARY INFORMATION:
+Comments Invited
+We invite you to send any written
+relevant data, views, or arguments about
+this proposed AD. Send your comments
+to an address listed under the
+ADDRESSES section. Include ‘‘Docket No.
+FAA–2010–0280; Directorate Identifier
+2009–NM–259–AD’’ at the beginning of
+your comments. We specifically invite
+comments on the overall regulatory,
+economic, environmental, and energy
+aspects of this proposed AD. We will
+consider all comments received by the
+closing date and may amend this
+proposed AD because of those
+comments.
+We will post all comments we
+receive, without change, to http://
+www.regulations.gov, including any
+personal information you provide. We
+will also post a report summarizing each
+substantive verbal contact we receive
+about this proposed AD.
+Discussion
+We have received reports of cracks
+emanating from the keyway of the fuel
+tank access door cutout of the lower
+wing skin between wing rib numbers 8
+and 9. The keyway is found on Model
+777–200LR and 777–300ER airplanes at
+this location as the access door has a
+fuel measuring stick installed. The
+keyway is used to ensure that the fuel
+measuring stick is oriented properly in
+the access door cutout. The crack is the
+result of fatigue due to the position of
+the keyway. After the crack initiates, if
+02APP1

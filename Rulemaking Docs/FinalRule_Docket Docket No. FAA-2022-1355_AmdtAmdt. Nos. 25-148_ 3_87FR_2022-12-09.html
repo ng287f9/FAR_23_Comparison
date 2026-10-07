@@ -1,0 +1,431 @@
+<html>
+<head>
+<style>
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent;
+}
+
+body {
+	line-height:1.3;
+	padding-left: 15px
+}
+
+a {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	vertical-align:baseline;
+	background:transparent
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0
+}
+
+hr {
+	display:block;
+	height:1px;
+	border:0;
+	border-top:1px solid #cccccc;
+	margin:1em 0;
+	padding:0
+}
+
+body {
+	font-family:"Georgia", serif;
+	font-size:16px;
+	line-height:1.3	
+}
+
+body h1, body h2, body h3, body h4, body h5, body h6, body h7 {
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	line-height:1.3;
+	margin:1em 0 0.5em
+}
+
+body h7 {
+	display:block
+}
+
+body {
+	color:#333333
+}
+body a {
+	color:#3071a9
+}
+body a:hover{
+	color:#B88659
+}
+body a:visited {
+	color:#3071a9
+}
+body h1,body h2,body h3,body h4,body h5,body h6,body h7 {
+	color:#333333
+}
+
+p {
+	font-family: "Georgia", serif;
+	padding-bottom: 15px
+}
+
+ul.bullets,ul.subject-list {
+	list-style-type:none;
+	margin-bottom:10px
+}
+
+ul.bullets li,ul.subject-list li {
+	padding-left:15px;
+	text-indent:-15px
+}
+
+ul.bullets li:before,ul.subject-list li:before {
+	content:"\25AA";
+	color:#7F7F7F;
+	padding-right:7px;
+	top:-2px;
+	position:relative
+}
+
+ul.bullets a,ul.subject-list a {
+	color:#428BCA
+}
+
+ul.bullets a:hover,ul.subject-list a:hover {
+	color:#B88659;
+	text-decoration:none
+}
+
+.unprinted-element-wrapper {
+	display:none
+}
+
+p.flush-paragraph {
+	padding-bottom:15px;
+}
+
+p.flush-paragraph.flush-paragraph-1 {
+	margin-left:1em !important;
+	padding-left:1em;
+	text-indent:-1.15em
+}
+p.flush-paragraph.flush-paragraph-2 {
+	margin-left:2em !important;
+	padding-left:2.5em;
+	text-indent:-2.5em
+}
+p.flush-paragraph.flush-paragraph-1-2 {
+	margin-left:4em !important;
+	padding-left:1.15em;
+	text-indent:-1.15em
+}
+p.flush-paragraph.flush-left {
+	text-indent:0
+}
+p.flush-paragraph.flush-paragraph-dash:after {
+	content:"_____________________________________________________________"
+}
+p.flush-paragraph.flush-paragraph-dash.flush-paragraph-no-wrap {
+	white-space:nowrap
+}
+
+table.wide {
+	max-width:initial
+}
+
+table {
+	display:block;
+	margin-bottom:20px;
+	padding:10px;
+	border-collapse:separate
+}
+table caption {
+	color:#777777;
+	font-weight: bold;
+	margin-bottom:10px;
+	text-align:center
+}
+table caption p {
+	margin:0 !important
+}
+table tfoot {
+	font-style:italic
+}
+table tfoot tr:first-child td {
+	padding-top:20px
+}
+table th {
+	vertical-align:middle;
+	position:-webkit-sticky;
+	position:-moz-sticky;
+	position:-ms-sticky;
+	position:-o-sticky;
+	position:sticky;
+	z-index:1
+}
+table th, table td {
+	padding:6px;
+	border-bottom:2px dotted #cccccc
+}
+table tr.page_break {
+	display:none
+}
+table .right {
+	text-align:right
+}
+table .left {
+	text-align:left
+}
+table .center {
+	text-align:center
+}
+table .border-top-single {
+	border-top:1px solid #333333
+}
+table .border-top-bold {
+	border-top:2px solid #333333
+}
+table .border-top-double {
+	border-top:4px double #333333
+}
+table .border-bottom-single {
+	border-bottom:1px solid #333333
+}
+table .border-bottom-bold {
+	border-bottom:2px solid #333333
+}
+table .border-bottom-double {
+	border-bottom:4px double #333333
+}
+table .border-left-single {
+	border-left:1px solid #333333
+}
+table .border-left-bold {
+	border-left:2px solid #333333
+}
+table .border-left-double {
+	border-left:4px double #333333
+}
+table .border-right-single {
+	border-right:1px solid #333333
+}
+table .border-right-bold {
+	border-right:2px solid #333333
+}
+table .border-right-double {
+	border-right:4px double #333333
+}
+table .primary-indent-0 {
+	padding-left:0em
+}
+table .primary-indent-hanging-0 {
+	padding-left:1em;
+	text-indent:-1em
+}
+table .primary-indent-1 {
+	padding-left:2em
+}
+table .primary-indent-hanging-1 {
+	padding-left:3em;
+	text-indent:-1em
+}
+table .primary-indent-2 {
+	padding-left:4em
+}
+table .primary-indent-hanging-2 {
+	padding-left:5em;
+	text-indent:-1em
+}
+table .primary-indent-3 {
+	padding-left:6em
+}
+table .primary-indent-hanging-3 {
+	padding-left:7em;
+	text-indent:-1em
+}
+table .primary-indent-4 {
+	padding-left:8em
+}
+table .primary-indent-hanging-4 {
+	padding-left:9em;
+	text-indent:-1em
+}
+table .primary-indent-5 {
+	padding-left:10em
+}
+table .primary-indent-hanging-5 {
+	padding-left:11em;
+	text-indent:-1em
+}
+table .primary-indent-6 {
+	padding-left:12em
+}
+table .primary-indent-hanging-6 {
+	padding-left:13em;
+	text-indent:-1em
+}
+table .primary-indent-7 {
+	padding-left:14em
+}
+table .primary-indent-hanging-7 {
+	padding-left:15em;
+	text-indent:-1em
+}
+table .primary-indent-8 {
+	padding-left:16em
+}
+table .primary-indent-hanging-8 {
+	padding-left:17em;
+	text-indent:-1em
+}
+table .primary-indent-9 {
+	padding-left:18em
+}
+table .primary-indent-hanging-9 {
+	padding-left:19em;
+	text-indent:-1em
+}
+
+.footnote {
+	font-style:italic;
+	margin-bottom:20px
+}
+
+.footnote p {
+	margin-bottom:0 !important;
+	line-height:1.5em !important
+}
+
+.footnote a.back {
+	font-style:normal;
+	font-size:14.2222222222px
+}
+
+.amendment-part-number, .amendment-part-subnumber {
+    margin-left: 0;
+    padding-right: 5px;
+    display: inline-block;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: -2px;
+}
+
+.amendment-part-subnumber {
+    margin-left: 20px;
+    padding-right: 5px;
+}
+
+.sectno-reference, .section-subject {
+    font-weight: bold;
+    font-size: 14px;
+    float: left;
+}
+
+.sectno-reference {
+    width: 15%;
+}
+
+.section-subject {
+    width: 85%;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    float: left;
+}
+
+p.authority {
+    margin-left: 20px;
+}
+
+.auth-header {
+    font-size: 14.2222222222px;
+    font-weight: bold;
+}
+
+caption {
+    caption-side: top;
+}
+</style>
+</head>
+<body>
+
+            <span class="preamble-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="preamble unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#preamble-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Preamble"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Preamble</span></span></span>
+                
+                
+                
+                
+                
+                
+                
+                    <h1 id="h-1">AGENCY:</h1>
+                    <p id="p-1" data-page="2813">Federal Aviation Administration (FAA), U.S. Department of Transportation (DOT).</p>
+                
+                
+                    <h1 id="h-2">ACTION:</h1>
+                    <p id="p-2" data-page="2813">Final rule; correction.</p>
+                
+                
+                    <h1 id="h-3">SUMMARY:</h1>
+                    <p id="p-3" data-page="2813">On December 9, 2022, the FAA published a final rule titled &ldquo;Miscellaneous Amendments&rdquo;. That document made technical amendments to various parts of the FAA's regulations, and inadvertently identified the Amendment Nos. for certain parts of the CFR as 25-146, 33-1, 47-32, 73-1, and 101-9. The correct Amendment Nos. are 25-148, 33-35, 47-34, 73-9, and 101-11. This document makes those corrections.</p>
+                
+                
+                    <h1 id="h-4">DATES:</h1>
+                    <p id="p-4" data-page="2813">Effective January 18, 2023.</p>
+                
+                <span class="further-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="further-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#furinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Further Info"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Further Info</span></span></span>
+                    <h1 id="further-info">FOR FURTHER INFORMATION CONTACT:</h1>
+                    <p id="p-5" data-page="2813">
+                        Jesse Holston, Office of Rulemaking, ARM-200, Federal Aviation Administration, 800 Independence Ave. SW, Washington, DC 20591; telephone (202) 267-0810; email 
+                        <em><a href="mailto:jesse.c.holston@faa.gov" class="email">jesse.c.holston@faa.gov</a>.</em></p>
+                <span class="further-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="further-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#furinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Further Info"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Further Info</span></span></span>
+            <span class="preamble-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="preamble unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#preamble-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Preamble"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Preamble</span></span></span>
+            <span class="supplemental-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="supplemental-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#suplinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Supplemental Information"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Supplemental Information</span></span></span>
+                <h1 id="h-6">SUPPLEMENTARY INFORMATION:</h1>
+                <h2 id="h-7">Electronic Access and Filing</h2>
+                <p id="p-6" data-page="2813">
+                    A copy of the Miscellaneous Amendments final rule may be viewed online at 
+                    <em><a href="https://www.regulations.gov" class="external" rel="noopener noreferrer" target="_blank">https://www.regulations.gov</a></em>
+                     using the docket number listed above. A copy of this correction will be placed in the same docket. Electronic retrieval help and guidelines are available on the website. It is available 24 hours each day, 365 days each year. An electronic copy of this document may also be downloaded from the Office of the Federal Register's website at 
+                    <em><a href="https://www.federalregister.gov" class="external" rel="noopener noreferrer" target="_blank">https://www.federalregister.gov</a></em>
+                     and the Government Publishing Office's website at 
+                    <em><a href="https://www.govinfo.gov" class="external" rel="noopener noreferrer" target="_blank">https://www.govinfo.gov</a>.</em>
+                     A copy may also be found at the FAA's Regulations and Policies website at 
+                    <em><a href="https://www.faa.gov/regulations_policies" class="external" rel="noopener noreferrer" target="_blank">https://www.faa.gov/&#8203;regulations_&#8203;policies</a>.</em></p>
+                <p id="p-7" data-page="2813">Copies may also be obtained by sending a request to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue SW, Washington, DC 20591, or by calling (202) 267-9677. Commenters must identify the docket or notice number of this rulemaking.</p>
+                <p id="p-8" data-page="2813">All documents the FAA considered in developing this correction, including economic analyses and technical reports, may be accessed in the electronic docket for this rulemaking.</p>
+                <h2 id="h-8">Background</h2>
+                <p id="p-9" data-page="2813">
+                    On December 9, 2022, the Miscellaneous Amendments final rule (RIN 2120-AL53) published in the 
+                    <strong>Federal Register</strong>
+                     at <a href="https://www.federalregister.gov/citation/87-FR-75704" class="fr-reference" data-reference="87 FR 75704" target="_blank">87 FR 75704</a>. After publication, the FAA discovered that it inadvertently identified the Amendment Nos. for parts 25, 33, 47, 73, and 101 as 25-146, 33-1, 47-32, 73-1, and 101-9. The correct Amendment Nos. are 25-148, 33-35, 47-34, 73-9, and 101-11. This document makes those corrections.
+                </p>
+                <h2 id="h-9">Correction</h2>
+                <p id="p-10" data-page="2813">
+                    In <a href="https://www.federalregister.gov/d/2022-23327" target="_blank">FR Doc. 2022-23327</a>, beginning on page 75704, in the 
+                    <strong>Federal Register</strong>
+                     of December 9, 2022, make the following correction in the header of the document. On page 75704, in the first column, in the header of the document, the listing of docket number and amendment nos. is corrected to read as follows:
+                </p>
+                <p id="p-11" data-page="2813">[Docket No. FAA-2022-1355; Amdt. Nos. 21-106, 23-65, 25-148, 29-58, 33-35, 36-32, 47-34, 49-11, 60-7, 61-151, 67-22, 73-9, 91-366, 97-1339, 101-11, 107-10, 121-387, 125-72, 129-54, 135-143, 141-24, 183-18, 440-6]</p>
+                <span class="signature-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="signature unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#signature-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="Start Signature"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">Start Signature</span></span><span class="unprinted-element-border"></span></span><div class="signature">
+                    <p class="signature-date">Issued under authority provided by <a href="https://www.govinfo.gov/link/uscode/49/106" class="usc external" rel="noopener noreferrer" target="_blank">49 U.S.C. 106(f)</a>, <a href="https://www.govinfo.gov/link/uscode/49/44701" class="usc external" rel="noopener noreferrer" target="_blank">44701(a)</a>, and <a href="https://www.govinfo.gov/link/uscode/49/44703" class="usc external" rel="noopener noreferrer" target="_blank">44703</a> in Washington, DC, on 3 January, 2023.</p>
+                    <p class="signature-name">Brandon Roberts,</p>
+                    <p class="signature-title">Executive Director, Office of Rulemaking.</p>
+                </div><span class="signature-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="signature unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#signature-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Signature"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Signature</span></span><span class="unprinted-element-border"></span></span>
+            <span class="supplemental-info-wrapper unprinted-element-wrapper"><span class="unprinted-element-border"></span><span class="supplemental-info unprinted-element cj-fancy-tooltip document-markup" data-tooltip-template="#suplinf-tooltip-template" data-tooltip-doc-override="tooltip-enhanced" data-text="End Supplemental Information"><span class="icon-fr2 icon-fr2-source_code"></span><span class="text">End Supplemental Information</span></span></span>
+            
+            
+        <div class="end-matter">
+<p class="frdoc">[<a href="https://www.federalregister.gov/d/2023-00139" target="_blank">FR Doc. 2023-00139</a> Filed 1-17-23; 8:45 am]</p>
+<p class="billing-code">BILLING CODE 4910-13-P</p>
+</div>
+</body></html>

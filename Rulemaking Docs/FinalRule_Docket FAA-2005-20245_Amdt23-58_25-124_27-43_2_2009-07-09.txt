@@ -1,0 +1,450 @@
+FINAL RULES: 23-58|25-124|27-43|29-50|121-338|125-54|129-45|91-300|135-113
+
+ 
+ 
+        
+CITATION: Federal Register: July 9, 2009
+
+ 
+        
+PAGE NUMBER: [Page 32799-32802]
+
+ 
+        
+DOCKET NUMBER: FAA-2005-20245
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29|Part 91|Part 121|Part 125|Part 135
+
+ 
+        
+SUBJECT HEADING: Revisions to Cockpit Voice Recorder and Digital Flight Data Recorder Regulations 
+
+ 
+        
+ACTION: Final rule; correction.
+
+ 
+        
+SUMMARY: The Federal Aviation Administration (FAA) is amending a final rule published in the Federal Register on March 7, 2008. That final rule amended cockpit voice recorder and digital flight data recorder regulations affecting certain air carriers, operators, and aircraft. In that final rule, the FAA failed to include conforming amendments to certain operating rules to ensure that certain new requirements apply to only newly manufactured aircraft. 
+
+
+
+ 
+        
+DATES: Effective Date: These amendments become effective July 9, 2009.
+
+ 
+        
+EFFECTIVE DATE: 2009-07-09
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: For technical questions contact: Timothy W. Shaver, Avionics Systems Branch, Aircraft Certification Service, AIR-130, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591; telephone (202) 385-4686; facsimile (202) 385-4651; e-mail tim.shaver@faa.gov. For legal questions contact: Karen L. Petronis, Regulations Division, Office of the Chief Counsel, Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591; telephone (202) 267-3073; facsimile (202) 267- 3073; e-mail karen.petronis@faa.gov. 
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: The Federal Aviation Administration (FAA) published a final rule entitled "Revisions to Cockpit Voice Recorder and Digital Flight Data Recorder Regulations'' in the Federal Register on March 7, 2008 (73 FR 12542). That final rule amended cockpit voice recorder (CVR) and digital flight data recorder (DFDR) regulations affecting certain air carriers, operators, and aircraft manufacturers by:
+
+ Increasing the duration of certain CVR recordings,
+
+ Increasing the data recording rate for certain DFDR parameters,
+
+ Requiring physical separation of the DFDR and CVR, improving the reliability of the power supplies to both the CVR and DFDR, and
+
+ Requiring that certain datalink communications received on an aircraft be recorded if datalink communication equipment is installed.
+
+ Following publication of the final rule, an individual contacted us noting that Sec. Sec. 91.609(e)(1) and 135.151(a)(1) require a CVR to be installed in accordance with Sec. 23.1457(d) or Sec. 25.1457(d). 
+
+He noted that when we added new requirements to Sec. Sec. 23.1457(d) and 25.1457(d) in the final rule without changing Sec. Sec. 91.609(e)(1) and 135.151(a)(1), we mandated an immediate retrofit of existing aircraft to comply with the new certification requirements. He 
+
+stated that this result appeared to conflict with our stated intent in the preamble to the final rule indicating that these new provisions would apply only to newly manufactured aircraft.
+
+ We agree that our failure to amend certain operating rules not otherwise addressed in the final rule had this unintended effect. We took the opportunity to review all of the operating rules in Title 14 Code of Federal Regulations (14 CFR) to determine whether other 
+
+sections were similarly affected. Our review found similar issues in Sec. Sec. 121.344, 121.344a, 121.359, 125.226 and 135.152.
+
+ We received another comment suggesting that we forgot to include the recorder location and mounting requirement for CVRs in airplanes operated under part 125. This is a requirement for newly manufactured airplanes. We agree that this was an oversight, and are amending Sec. 125.227(h)(1) to correct this error.
+
+ This document makes the appropriate amendatory changes to clearly reflect the impact that the final rule's new requirements have on Sec. Sec. 91.609, 121.344, 121.344a, 121.359, 125.226, 125.227, 135.151 and 135.152. This amendment will not impose any additional 
+
+restrictions on operators affected by these regulations.
+
+ This document also corrects the change made to Sec. 129.1(b), which included certain sections that had been redesignated.
+
+Correcting Amendment
+
+ This correcting amendment will clarify the references to Sec. Sec. 23.1457, 23.1459, 25.1457, 25.1459, 27.1457, 27.1459, 29.1457 and 29.1459 in Sec. Sec. 91.609, 121.344, 121.344a, 121.359, 125.226, 129.1, 135.151 and 135.152.
+
+ This amendment also modifies references to Sec. Sec. 23.1457, 25.1457, 27.1457, and 29.1457, by separating the two requirements in paragraph (d)(1) of each section into two subparagraphs. The first requirement will be designated (d)(1)(i); the second will be designated (d)(1)(ii). The second requirement, which was added in the final rule, applies only to airplanes manufactured after April 7, 2010. References to these sections contained in the operating rules are also being amended to conform to this modification.
+
+ Similarly, this amendment modifies references to Sec. Sec. 23.1459, 25.1459, 27.1459, and 29.1459 by separating the two requirements in paragraph (a)(3) of these sections into two subparagraphs. The first requirement will be designated paragraph 
+
+(a)(3)(i); the second will be designated (a)(3)(ii). The second requirement, which was added in the final rule, applies only to airplanes manufactured after April 7, 2010. References to these sections contained in the operating rules are also being amended to 
+
+conform to this modification.
+
+ This amendment will revise Sec. 125.227(h)(1) to reference Sec. 25.1457(e).
+
+ Finally, this amendment corrects the list of sections included in Sec. 129.1(b).
+
+List of Subjects
+
+14 CFR Parts 23, 25, 27, 29, 91 and 125
+
+ Aircraft, Aviation safety.
+
+14 CFR Part 121
+
+ Air carriers, Aircraft, Aviation safety, Charter flights, Safety, Transportation.
+
+14 CFR Part 129
+
+ Air carriers, Aircraft, Aviation safety.
+
+14 CFR Part 135
+
+ Air taxis, Aircraft, Aviation safety.
+
+
+
+ 
+        
+REGULATORY TEXT: Correction
+
+In consideration of the foregoing, the Federal Aviation Administration amends parts 23, 25, 27, 29, 91, 121, 125, 129, and 135 of Title 14, Code of Regulations, as follows:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES
+
+1. The authority citation for part 23 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704.
+
+2. Amend Sec. 23.1457 by revising paragraph (d)(1) to read as follows:
+
+Sec. 23.1457 Cockpit voice recorders.
+
+* * * * *
+
+ (d) * * *
+
+ (1)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+3. Amend Sec. 23.1459 by revising paragraph (a)(3) to read as follows:
+
+Sec. 23.1459 Flight data recorders.
+
+ (a) * * *
+
+ (3)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+4. The authority citation for part 25 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, and 44704.
+
+5. Amend Sec. 25.1457 by revising paragraph (d)(1) to read as follows:
+
+Sec. 25.1457 Cockpit voice recorders.
+
+* * * * *
+
+ (d) * * *
+
+ (1)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+6. Amend Sec. 25.1459 by revising paragraph (a)(3) to read as follows:
+
+Sec. 25.1459 Flight data recorders.
+
+ (a) * * *
+
+ (3)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+PART 27--AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+
+7. The authority citation for part 27 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704.
+
+8. Amend Sec. 27.1457 by revising paragraph (d)(1) to read as follows:
+
+Sec. 27.1457 Cockpit voice recorders.
+
+* * * * *
+
+ (d) * * *
+
+ (1)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+9. Amend Sec. 27.1459 by revising paragraph (a)(3) to read as follows:
+
+Sec. 27.1459 Flight data recorders.
+
+ (a) * * *
+
+ (3)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+PART 29--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+
+10. The authority citation for part 29 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44704.
+
+11. Amend Sec. 29.1457 by revising paragraph (d)(1) to read as follows:
+
+Sec. 29.1457 Cockpit voice recorders.
+
+* * * * *
+
+ (d) * * *
+
+ (1)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the cockpit voice recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+12. Amend Sec. 29.1459 by revising paragraph (a)(3) to read as follows:
+
+Sec. 29.1459 Flight data recorders.
+
+ (a) * * *
+
+ (3)(i) It receives its electrical power from the bus that provides the maximum reliability for operation of the flight data recorder without jeopardizing service to essential or emergency loads.
+
+ (ii) It remains powered for as long as possible without jeopardizing emergency operation of the airplane.
+
+* * * * *
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES
+
+13. The authority citation for part 91 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 1155, 40103, 40113, 40120, 44101, 44111, 44701, 44709, 44711, 44712, 44715, 44716, 44717, 44722, 46306, 46315, 46316, 46504, 46506-46507, 47122, 47508, 47528-47531, articles 12 and 29 of the Convention on International Civil Aviation 
+
+(61 stat. 1180).
+
+14. Amend Sec. 91.609 by revising paragraph (e)(1) to read as follows:
+
+Sec. 91.609 Flight data recorders and cockpit voice recorders.
+
+* * * * *
+
+ (e) * * *
+
+ (1) Is installed in compliance with Sec. 23.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); Sec. 25.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); Sec. 27.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or Sec. 29.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and
+
+* * * * *
+
+PART 121--OPERATING REQUIREMENTS: DOMESTIC, FLAG, AND SUPPLEMENTAL OPERATIONS
+
+15. The authority citation for part 121 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 40113, 40119, 41706, 44101, 44701-44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 46105.
+
+16. Amend Sec. 121.344 by revising paragraph (j) introductory text to read as follows:
+
+Sec. 121.344 Digital flight data recorders for transport category airplanes.
+
+* * * * *
+
+ (j) Each flight data recorder system required by this section must be installed in accordance with the requirements of Sec. 25.1459(a) (except paragraphs (a)(3)(ii) and (a)(7)), (b), (d) and (e) of this chapter. A correlation must be established between the values recorded 
+
+by the flight data recorder and the corresponding values being measured. The correlation must contain a sufficient number of correlation points to accurately establish the conversion from the recorded values to engineering units or discrete state over 
+
+the full operating range of the parameter. Except for airplanes having separate altitude and airspeed sensors that are an integral part of the flight data recorder system, a single correlation may be established for any group of airplanes--
+
+* * * * *
+
+17. Amend Sec. 121.344a by revising paragraph (d) introductory text to read as follows:
+
+Sec. 121.344a Digital flight data recorders for 10-19 seat airplanes.
+
+* * * * *
+
+ (d) Each flight data recorder system required by this section must be installed in accordance with the requirements of Sec. 23.1459(a) (except paragraphs (a)(3)(ii) and (6)), (b), (d) and (e) of this chapter. A correlation must be established between the values recorded 
+
+by the flight data recorder and the corresponding values being measured. The correlation must contain a sufficient number of correlation points to accurately establish the conversion from the recorded values to engineering units or discrete state over the full 
+
+operating range of the parameter. A single correlation may be established for any group of airplanes--
+
+* * * * *
+
+18. Amend Sec. 121.359 by revising paragraphs (d)(1) and (e)(1) to read as follows:
+
+Sec. 121.359 Cockpit voice recorders.
+
+* * * * *
+
+ (d) * * *
+
+ (1) Is installed in compliance with Sec. 23.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or Sec. 25.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and* * * * *
+
+ (e) * * *
+
+ (1) Is installed in compliance with Sec. 23.1457 (except paragraphs (d)(1)(ii), (4) and (5)) or Sec. 25.1457 (except paragraphs (d)(1)(ii), (4) and (5)) of this chapter, as applicable; and
+
+* * * * *
+
+PART 125--CERTIFICATION AND OPERATIONS: AIRPLANES HAVING A SEATING CAPACITY OF 20 OR MORE PASSENGERS OR A MAXIMUM PAYLOAD CAPACITY OF 6,000 POUNDS OR MORE; AND RULES GOVERNING PERSONS ON BOARD SUCH 
+
+AIRCRAFT
+
+19. The authority citation for part 125 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701-44702, 44705, 44710-44711, 44713, 44716-44717, 44722.
+
+20. Amend Sec. 125.226 by revising paragraph (j) introductory text to read as follows:
+
+Sec. 125.226 Digital flight data recorders.
+
+* * * * *
+
+ (j) Each flight data recorder system required by this section must be installed in accordance with the requirements of Sec. 25.1459(a) (except paragraphs (a)(3)(ii) and (7)), (b), (d) and (e) of this chapter. A correlation must be established between the values recorded 
+
+by the flight data recorder and the corresponding values being measured. The correlation must contain a sufficient number of correlation points to accurately establish the conversion from the recorded values to engineering units or discrete state over the full 
+
+operating range of the parameter. Except for airplanes having separate altitude and airspeed sensors that are an integral part of the flight data recorder system, a single correlation may be established for any group of airplanes--
+
+* * * * *
+
+21. Amend 125.227 by revising paragraph (h)(1) to read as follows:
+
+Sec. 125.227 Cockpit voice recorders.
+
+* * * * *
+
+ (h) * * *
+
+ (1) Meets the requirements of Sec. 25.1457(a)(3) through (a)(6), (d)(1), (d)(4), (d)(5), (d)(6), and (e) of this chapter;
+
+* * * * *
+
+PART 129--OPERATIONS: FOREIGN AIR CARRIERS AND FOREIGN OPERATORS OF U.S.-REGISTERED AIRCRAFT ENGAGED IN COMMON CARRIAGE
+
+22. The authority citation for part 129 continues to read as follows:
+
+ Authority: 49 U.S.C. 1372, 40113, 40119, 44101, 44701-44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 44901-44904, 44906, 44912, 46105, Pub. L. 107-71, sec. 104.
+
+23. Amend Sec. 129.1 by revising paragraph (b) to read as follows:
+
+Sec. 129.1 Applicability.
+
+* * * * *
+
+ (b) Operations of U.S.-registered aircraft solely outside the United States. In addition to the operations specified under paragraph (a) of this section, Sec. Sec. 129.14, 129.20 and 129.24 and subpart B also apply to U.S.-registered aircraft operated solely outside the 
+
+United States in common carriage by a foreign person or foreign air carrier.
+
+* * * * *
+
+PART 135--OPERATING REQUIREMENTS: COMMUTER AND ON DEMAND OPERATIONS AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT
+
+24. The authority citation for part 135 continues to read as follows:
+
+ Authority: 49 U.S.C. 106(g), 41706, 44113, 44701-44702, 44705, 44709, 44711-44713, 44715-44717, 44722.
+
+25. Amend Sec. 135.151 by revising paragraphs (a)(1) and (b)(1) to read as follows:
+
+Sec. 135.151 Cockpit voice recorders.
+
+* * * * *
+
+ (a) * * *
+
+ (1) Is installed in compliance with Sec. 23.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); Sec. 25.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g), Sec. 27.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g); or Sec. 29.1457(a)(1) and (2), (b), (c), (d)(1)(i), (2) and (3), (e), (f), and (g) of this chapter, as applicable; and
+
+* * * * *
+
+ (b) * * *
+
+ (1) Is installed in compliance with Sec. 23.1457 (except paragraphs (d)(1)(ii), (4) and (5)), Sec. 25.1457 (except paragraphs (d)(1)(ii), (4) and (5)), Sec. 27.1457 (except paragraphs (d)(1)(ii), (4) and (5)) or Sec. 29.1457 (except paragraphs (d)(1)(ii), (4) and 
+
+(5)) of this chapter, as applicable; and
+
+* * * * *
+
+26. Amend Sec. 135.152 by revising paragraphs (f)(1) introductory text and (f)(2) introductory text to read as follows:
+
+Sec. 135.152 Flight data recorders.
+
+* * * * *
+
+ (f)(1) For airplanes manufactured on or before August 18, 2000, and all other aircraft, each flight recorder required by this section must be installed in accordance with the requirements of Sec. 23.1459 (except paragraphs (a)(3)(ii) and (6)), Sec. 25.1459 (except 
+
+paragraphs (a)(3)(ii) and (7)), Sec. 27.1459 (except paragraphs (a)(3)(ii) and (6)), or Sec. 29.1459 (except paragraphs (a)(3)(ii) and (6)), as appropriate, of this chapter. The correlation required by paragraph (c) of Sec. Sec. 23.1459, 25.1459, 27.1459, or 29.1459 of 
+
+this chapter, as appropriate, need be established only on one aircraft of a group of aircraft:
+
+* * * * *
+
+ (2) For airplanes manufactured after August 18, 2000, each flight data recorder system required by this section must be installed in accordance with the requirements of Sec. 23.1459(a) (except paragraphs (a)(3)(ii) and (6)), (b), (d) and (e), or Sec. 25.1459(a) (except 
+
+paragraphs (a)(3)(ii) and (7)), (b), (d) and (e) of this chapter. A correlation must be established between the values recorded by the flight data recorder and the corresponding values being measured. The correlation must contain a sufficient number of correlation points to 
+
+accurately establish the conversion from the recorded values to engineering units or discrete state over the full operating range of the parameter. Except for airplanes having separate altitude and airspeed sensors that are an integral part of the flight data recorder 
+
+system, a single correlation may be established for any group of airplanes--
+
+* * * * *
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on July 2, 2009.
+
+Pamela Hamilton-Powell,
+
+Director, Office of Rulemaking.
+
+[FR Doc. E9-16056 Filed 7-8-09; 8:45 am]
+
+BILLING CODE 4910-13-P
+
+
+
+ 
+        
+NPRM ACTIONS: Not Applicable.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

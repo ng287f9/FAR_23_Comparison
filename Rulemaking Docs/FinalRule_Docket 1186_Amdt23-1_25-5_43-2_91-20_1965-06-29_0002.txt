@@ -1,0 +1,492 @@
+FINAL RULES: 23-1|25-5|43-2|91-20
+
+ 
+ 
+        
+CITATION: [Federal Register: June 29, 1965]
+
+ 
+        
+PAGE NUMBER: [Page 8259]
+
+ 
+        
+DOCKET NUMBER: 1186
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 43|Part 91
+
+ 
+        
+SUBJECT HEADING: Altimeter System Requirements
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of this amendment to Parts 23, 25, 43, and 91 of the Federal Aviation Regulations is to increase safety and improve airspace utilization by revising design requirements dealing with airplane altimeter systems and by prescribing periodic inspections of systems installed in airplanes operating under IFR conditions. This action was published as a notice of proposed rule making (29 F.R. 3310) and circulated as notice 64-14 dated March 12, 1964.
+
+ 
+        
+DATES: EFFECTIVE DATE: July 29, 1965.
+
+ 
+        
+EFFECTIVE DATE: 1965-07-29
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ 
+
+The need for the amendment results from recognition that altimeter system accuracy depends on good system design and is adversely affected by operations at higher altitudes and at higher airspeeds. Further degradation of system accuracy occurs in service caused primarily by static pressure system leaks and by instruments that have deviated from their original calibrations.
+
+Agency action to upgrade altimeter system accuracy began with notice of proposed rule making (27 F.R. 4340) circulated as Draft Release No. 62-22 dated April 27, 1962. Among other provisions, Draft Release 62-22 proposed that the accuracy of the altimeter system of each new type aircraft be determined by an in-flight calibration of a number of production aircraft, with further provisions for inservice checks of altimeter system performance. Because standard methods of calibration remained to be developed, and because the project scope indicated that the end result might best be achieved by increments in several separate rule making actions, Draft Release No. 62-22 was withdrawn as a notice of proposed rule making although it did state the Agency's long-range program to upgrade altimeter system performance. Notice No. 64-14, on which this amendment is predicated, accordingly was limited in scope to design and check of airplane static pressure systems and test of altimeters.
+
+Subsequent to Notice No. 64-14, the Federal Aviation Agency recodification program was completed. As explained in the Notice, recodification has not altered the substance of the rules. CAR Section 3.665 is now FAR Section 23.1325; CAR Section 4b.612(b) is now FAR Section 25.1325; proposed CAR Section 18.31 and a portion of proposed FAR Section 91.170 have become FAR Part 43, Appendix E. The appropriate FAR identification will be used hereinafter.
+
+In response to the notice of proposed rule making, the Agency received several comments objecting to the overall proposed changes. The main thrust of these unfavorable comments was that the new rules would impose costs disproportionate to resulting increases in reliability, utility, or safety and that the accident record of airplanes operated under the general operating rules did not justify the proposed changes.
+
+The Agency must reject any contention that revised rules upgrading the accuracy of altimeter systems are unwarranted. Surveys have revealed that a high percentage of airplanes have leaky static pressure systems. Accident reports in certain instances have pointed to altimeter errors; in other unexplained accidents, errors in instruments dependent on static pressure source may not be ruled out as contributing causes. If increased safety and more effective air-space utilization are to be achieved, all airplanes operated in IFR conditions must meet the same altimeter system equipment installation standards to operate in controlled airspace.
+
+The changes and comments relating to the various specific parts of the Federal Aviation Regulations are discussed in the following paragraphs.
+
+FAR Section 23.1325. The notice of proposed rule making provided that the influence of airplane characteristics not seriously affect the accuracy of instruments having static pressure connections, further specified certain static system design and installation details, required a system proof test, and made provision for countering icing conditions.
+
+Section 23.1325(a) has been amended to specify that static pressure connections be vented so that external forces least affect instrument accuracy. This change relaxes the requirement of the notice and parallels the wording in the comparable section of Part 25.
+
+One commentator would delete the system proof test on the grounds that it does not reveal errors caused by a poorly designed or located static source, and that, in any event, such small static leaks as it might divulge do not result in static system errors. The Agency, however, considers the proof test a necessary part of certification because, after the design is completed, system leakage becomes the major criterion which cannot be ignored until its effect is proven inconsequential.
+
+Two commentators objected to proof testing the static pressure system in each production airplane. The rule, however, does not require test of each production airplane although that would be one way to demonstrate conformity to the approved type design. As suggested by another commentator, sample testing and production flight check could be another acceptable means of showing conformity if there were a showing of an adequate quality control system and compliance with the equipment function and installation requirements of Section 23.1301.
+
+The Agency does not concur with various comments recommending that it adopt the Air Force static system leakage rate at an arbitrary specified altitude with associated instruments disconnected. Since many static system leaks occur at instrument disconnect points, it is considered that a realistic test for Part 23 airplanes should be made with the instruments connected. Section 23.1325(b)(2) has been amended, however, to allow a reasonable leakage loss tolerance with associated instruments connected at the airplane maximum operating altitude.
+
+With regard to negating the effect of icing conditions, one commentator recommended deleting the requirement altogether in low-performance airplanes operating under VFR conditions. Two other commentators recommended that a protected alternate source of static pressure be allowed, while a fourth recommended use of an optional ice-free static pressure source of less accuracy where calibration is given the pilot.
+
+Since static vent icing may occur during both VFR and IFR conditions with hazardous consequences, the Agency believes there is ample justification for anti-icing as a certification requirement on all airplanes employing a static pressure system for required instruments. In response to the comments, the proposed rule has been expanded to permit the use of an alternate static source having a prescribed accuracy tolerance, and, where needed, a correction card.
+
+FAR Section 25.1325. The notice of proposed rule making altered the existing rule in part by adding an anti-icing provision, by specifying certain installation and design details plus a system proof test, and by allowing an altimeter correction device bypass instead of an alternate altimeter system.
+
+Several commentators contended that the proof test would be unrealistic because no tolerance was provided and it was unclear whether the specified test pressure referred to differential or absolute pressure. Further comments variously recommended adoption of military requirements for leakage rate with associated instruments disconnected, adoption of a 400-foot per minute rate at 40,000 feet, and adoption of different system tolerances for pressurized and unpressurized airplanes. The Agency agrees with the comments concerning tolerance and pressure ambiguity, and, accordingly, has amended the requirement for type certification to include proof test at a pressure differential corresponding to the certificated maximum operating altitude. The rule has been further amended to specify a reasonable maximum leak rate of 100 feet per minute with associated instruments connected. The Agency does not agree with the recommendation for different system tolerances for pressurized and unpressurized airplanes since an altimeter system must perform satisfactorily in the most critical range when the airplane pressurization system fails.
+
+The Agency does not concur with the contention of one commentator that the notice is arbitrary in specifying that pressure remain unaltered when exposed to continuous and intermittent maximum icing conditions. An airplane is certificated for a certain severity of icing condition which applies to all required installations including the altimeter.
+
+Further comments to the effect that automatic correction devices be required for high altitude - high speed airplanes and that correction cards be used where automatic correction devices are not available, were either beyond the scope of the notice or already covered by current functional and installational requirements.
+
+It was suggested that the intent of the requirement for a correction device bypass or alternate systems be clarified. The Agency feels, however, that the objective of the requirement is adequately stated and that it would be impractical to be more specific in an attempt to cover all possible design features.
+
+FAR Part 43, Appendix E. The notice of proposed rule making described new altimeter instrument tests for scale error, hysteresis, after effect, friction, case leak, position error, and barometric scale error.
+
+In the interest of organizational unity, this appendix has been expanded to encompass the details of the static pressure system test and inspection as proposed in Section 91.170 in addition to the altimeter instrument tests.
+
+In response to several comments, the static pressure system leakage test has been amended to allow a leakage tolerance instead of the requirement that the system be leak free.
+
+A number of commentators objected to the cost of upgrading altimeter standards and recommended that tests for scale error, hysteresis, and friction be limited to the maximum operating altitude of the airplane in which installed. The Agency concurs and the rule is amended accordingly.
+
+One commentator suggested that all standard atmosphere data be taken from the same source. The Agency concurs and has used "U.S. Standard Atmosphere, 1962" as the sole source for altitude-pressure-tolerance values.
+
+A comment contending that five test altitudes for low-performance airplanes is sufficient was not supported by any justification. Also a comment suggesting that test points be selected that fall precisely on the instrument 20-foot scale marks was considered unjustified since in normal test procedures, one quarter of a scale division is not difficult to estimate.
+
+The Agency agrees that the 12-hour rest period at 29.92 inches Hg is an unnecessary hardship and has deleted it as a preliminary requirement in the scale error test.
+
+One commentator recommended deletion of tests for hysteresis, after effect, friction, position error, and barometric scale error since scale error and case leak tests are sufficient to determine if the altimeter should be returned to service. Another comment stated that the barometric scale error test was too extensive. The Agency concurs that the position error test is unnecessary and it has been deleted. Other relief has been afforded by changing specified test points in the hysteresis test and reducing the barometric scale error test to only eight test pressures. The tests for hysteresis, after effect, friction, and barometric scale error are considered essential for checking the quality of the instrument and its indicating accuracy consistency and, therefore, have not been deleted.
+
+The Agency did not adopt a recommendation that the 20,000 feet per minute rate of pressure change for the scale error test be reduced since no justification was presented.
+
+Several commentators suggested creating new classes or categories of altimeters for different altitude ranges, with less stringent test criteria for those operating at the lower altitudes. The Agency does not concur in these recommendations since, for IFR operation, altimeter system test standards must be the same for all airplanes regardless of altitude of operation or whether the airplane is pressurized.
+
+The Agency agrees with a recommendation that the altimeter be vibrated to remove friction effect before taking test readings and has amended the test procedure accordingly. However, a further recommendation that the vibration frequency be specified, if adopted, would impose an unnecessary burden since the purpose of vibration is to eliminate errors due to friction within the instrument.
+
+In reply to a comment pointing to the impracticality of conducting each altimeter test at 29.92 inches Hg and 25 degrees C, the final rule has been changed so as to delete the 29.92 inches Hg pressure requirement and to prescribe appropriate allowances to be made when test temperatures are substantially different from an ambient of 25 degrees C.
+
+FAR Section 91.170. The notice of proposed rule making proposed this new requirement to provide for repetitive checks of the static pressure system in all general aviation airplanes and of altimeter instruments installed in airplanes operating under IFR conditions other than those coming under Part 121.
+
+The amended Section 91.170 properly charges the operator with responsibility for insuring that the airplane has been tested and inspected prior to flight in IFR conditions. The specific static pressure system test requirements have been removed from this section and incorporated into Part 43, Appendix E in order that the complete altimeter system test and inspection procedure be contained under one appropriate heading.
+
+Three commentators indicated some confusion between the proposed 2-year inspection and the periodic airworthiness inspection of Section 91.169 for aircraft having dual altimeters. New Section 91.170 has been reworded to delete reference to periodic inspections and emphasize that the biennial special altimeter system inspection is a requirement independent of the annual or 100-hour inspection required by Section 91.169. The final rule also emphasizes that each static system of a dual system, as well as each altimeter instrument, is to be inspected.
+
+Two commentators pointed to hardships due to a shortage of Class I instrument repair stations. It is the Agency's position, however, that the new inspection requirements impose no undue hardship on operators since the inspection interval is long, and operations may be scheduled to place airplanes at repair stations. In any event, only IFR operations would be curtailed should the required inspection not take place. Some relief is afforded in the final rule by permitting the altimeter tests to be made by an appropriately rated repair facility rather than a certificated Class I instrument rated repair station.
+
+Several commentators recommended in effect that the rule be extended to prescribe accuracy tolerances and periodic accuracy checks of instruments used in VFR conditions. While the recommendations have merit, they go beyond the scope of present rule making. Under the current regulations, when VFR flight conditions prevail, collision avoidance is primarily dependent on visual means rather than vertical separation by altimeter information.
+
+The final rule has been changed to provide for a Section 91.170 compliance date 1 year from the effective date of the amendment.
+
+Interested persons have been afforded an opportunity to participate in the making of this amendment. All relevant matter submitted has been fully considered.
+
+
+
+ 
+        
+REGULATORY TEXT: 
+
+In consideration of the foregoing, Parts 23, 25, 43, and 91 of the Federal Aviation Regulations are amended effective July 29, 1965, as set forth below.
+
+(Secs. 313(a), 601, and 603 of the Federal Aviation Act of 1958; 49 U.S.C. 1354(a), 1421, 1422)
+
+1. Section 23.1325 is amended to read as follows:
+
+Sec. 23.1325 Static pressure systems.
+
+(a) Each instrument provided with static pressure case connections must be so vented that the influence of airplane speed, the opening and closing of windows, airflow variations, moisture, or other foreign matter will least affect the accuracy of the instruments except as noted in paragraph (b)(3) of this section.
+
+(b) If a static pressure system is necessary for the functioning of instruments, systems, or devices, it must comply with the provisions of subparagraphs (1) through (3) of this paragraph.
+
+(1) The design and installation of a static pressure system must be such that --
+
+(i) Positive drainage of moisture is provided;
+
+(ii) Chafing of the tubing, and excessive distortion or restriction at bends in the tubing, is avoided; and
+
+(iii) The materials used are durable, suitable for the purpose intended, and protected against corrosion.
+
+(2) A proof test must be conducted to demonstrate the integrity of the static pressure system by evacuating the static pressure system until the pressure differential corresponds to that which would exist at the maximum altitude for which the airplane is type certificated, and by demonstrating that this pressure differential is maintained, without additional pumping for a period of 1 minute, with a loss not to exceed the equivalent of 100 feet of altitude.
+
+(3) If a static pressure system is provided for any instrument, device, or system required by the operating rules of this chapter, each static pressure port must be designed or located in such manner that the correlation between air pressure in the static pressure system and true ambient atmospheric static pressure is not altered when the aircraft encounters icing conditions. An anti-icing means or an alternate source of static pressure may be used in showing compliance with this requirement. If the reading of the altimeter on the alternate static pressure system exceeds a 2 percent tolerance, a correction card may be used to show compliance with this requirement.
+
+2. Sec. 25.1325 is amended by amending the catchline to read as follows, by amending paragraphs (b) and (c) to read as follows, and by adding a new paragraph (f) to read as follows:
+
+Sec. 25.1325 Static pressure system.
+
+* * * * * 
+
+(b) Each static port must be designed and located in such manner that the static pressure system performance is least affected by airflow variation, or by moisture or other foreign matter, and that the correlation between air pressure in the static pressure system and true ambient atmospheric static pressure is not changed when the airplane is exposed to the continuous and intermittent maximum icing conditions defined in Appendix C of the part.
+
+(c) The design and installation of the static pressure system must be such that --
+
+(1) Positive drainage of moisture is provided; chafing of the tubing and excessive distortion or restriction at bends in the tubing is avoided; and the materials used are durable, suitable for the purpose intended, and protected against corrosion; and
+
+(2) It is airtight except for the port into the atmosphere.
+
+A proof test must be conducted to demonstrate the integrity of the static pressure system. The proof test must be performed by evacuating the static pressure system until the pressure differential corresponds to the pressure differential that would exist at the maximum altitude for which the airplane is type certificated and by demonstrating that this pressure differential is maintained, without additional pumping, for a period of 1 minute with a loss not to exceed 100 feet.
+
+* * * * * 
+
+(f) If an altimeter system is fitted with a device that provides corrections to the altimeter indication, the device must be designed and installed in such manner that it can be bypassed when it malfunctions, unless an alternate altimeter system is provided. Each correction device must be fitted with a means for indicating the occurrence of reasonably probable malfunctions, including power failure, to the flight crew. The indicating means must be effective for any cockpit lighting condition likely to occur.
+
+3. Part 43 is amended by adding the following new appendix:
+
+APPENDIX E
+
+ALTIMETER SYSTEM TEST AND INSPECTION
+
+Each person performing the altimeter system tests and inspections required by Sec. 91.170 shall comply with the following:
+
+(a) Static pressure system:
+
+(1) Ensure freedom from entrapped moisture and restrictions.
+
+(2) Determine that leakage is within the tolerances established in Sec. 23.1325 or Sec. 25.1325, whichever is applicable.
+
+(3) Determine that the static port heater, if installed, is operative.
+
+(4) Ensure that no alterations or deformations of the airframe surface have been made that would affect the relationship between air pressure in the static pressure system and true ambient static air pressure for any flight condition.
+
+(b) Altimeter:
+
+(1) Test by an appropriately rated repair facility in accordance with the following subparagraphs. Unless other wise specified, each test for performance may be conducted with the instrument subjected to vibration. When tests are conducted with the temperature substantially different from ambient temperature of approximately 25 degrees C., allowance shall be made for the variation from the specified condition.
+
+(i) Scale error. With the barometric pressure scale at 29.92 inches of mercury, the altimeter shall be subjected successively to pressures corresponding to the altitude specified in Table I up to the maximum normally expected operating altitude of the airplane in which the altimeter is to be installed. The reduction in pressure shall be made at a rate not in excess of 20,000 feet per minute to within approximately 2,000 feet of the test point. The test point shall be approached at a rate comparable with the test equipment. The altimeter shall be kept at the pressure corresponding to each test point for at least 1 minute, but not more than 10 minutes, before a reading is taken. The error at all test points must not exceed the tolerances specified in Table I.
+
+(ii) Hysteresis. The hysteresis test shall begin not more than 15 minutes after the altimeter's initial exposure to the pressure corresponding to the upper limit of the scale error test prescribed in subparagraph (i); and while the altimeter is at this pressure, the hysteresis test shall commence. Pressure shall be increased at a rate simulating a descent in altitude at approximately (but not exceeding) 20,000 feet per minute until within 3,000 feet of the first test point (50 percent of maximum altitude). The test point shall then be approached at a rate of approximately 3,000 feet per minute. The altimeter shall be kept at this pressure for at least 5 minutes, but not more than 15 minutes, before the test reading is taken. After the reading has been taken, the pressure shall be increased further, in the same manner as before, until the pressure corresponding to the second test point (40 percent of maximum altitude) is reached. The altimeter shall be kept at this pressure for at least 1 minute, but not more than 10 minutes, before the test reading is taken. After the reading has been taken, the pressure shall be increased further, in the same manner as before, until atmospheric pressure is reached. The reading of the altimeter at either of the two test points shall not differ by more than the tolerance specified in Table II from the reading of the altimeter for the corresponding altitude recorded during the scale error test prescribed in subparagraph (i).
+
+(iii) After effect. Not more than 5 minutes after the completion of the hysteresis test prescribed in subparagraph (ii), the reading of the altimeter (corrected for any change in atmospheric pressure) shall not differ from the original atmospheric pressure reading by more than the tolerance specified in Table II.
+
+(iv) Friction. The altimeter shall be subjected to a steady rate of decrease of pressure approximating 750 feet per minute. At each altitude listed in Table III, the change in reading of the pointers after vibration shall not exceed the corresponding tolerance listed in Table III.
+
+(v) Case leak. The leakage of the altimeter case, when the pressure within it corresponds to an altitude of 18,000 feet, shall not change the altimeter reading by more than the tolerance shown in Table II during an interval of 1 minute.
+
+(vi) Barometric scale error. At constant atmospheric pressure, the barometric pressure scale shall be set at each of the pressures (falling within its range of adjustment) that are listed in Table IV, and shall cause the pointer to indicate the equivalent altitude difference shown in Table IV with a tolerance of 25 feet.
+
+(2) Altimeters which are of the air data computer type with associated computing systems may be tested in parts, by major components, to specifications developed by the manufacturer and acceptable to the Administrator.
+
+(c) Records: Comply with the provisions of Sec. 43.9 of this chapter as to content, form, and designation of the records.
+
+TABLE I 
+
+(Ref: U.S. Standard Atmosphere, 1962)
+
+ ALTITUDE V. PRESSURE
+
+Altitude (feet)
+
+ Equivalent pressure
+
+(inches of mercury)
+
+ Tolerance
+
+(feet)
+
+ 
+
+-1,000 31.02 ±20 
+
+0 29.92 20 
+
+500 29.38 20 
+
+1,000 28.86 20 
+
+1,500 28.83 25 
+
+2,000 27.82 30 
+
+3,000 26.82 30 
+
+4,000 25.84 35 
+
+6,000 23.98 40 
+
+8,000 22.22 60 
+
+10,000 20.88 80 
+
+12,000 19.03 90 
+
+14,000 17.56 100 
+
+16,000 16.22 110 
+
+18,000 14.94 120 
+
+20,000 13.75 130 
+
+22,000 12.64 140 
+
+25,000 11.10 155 
+
+30,000 8.89 180 
+
+35,000 7.04 205 
+
+40,000 5.84 230 
+
+45,000 4.36 255 
+
+50,000 3.43 280 
+
+TABLE II 
+
+TEST TOLERANCES 
+
+ 
+
+ Test 
+
+ Tolerance
+
+ (feet)
+
+ 
+
+Case Leak Test ±100
+
+ 
+
+Hysteresis Test: 
+
+First Test Point (80 percent of maximum altitude) 75
+
+ 
+
+Second Test Point (40 percent of maximum altitude) 75
+
+ 
+
+After Effect Test 30
+
+ 
+
+TABLE III
+
+FRICTION
+
+ 
+
+ Altitude (feet) 
+
+ Tolerance (feet)
+
+ 
+
+1,000
+
+ ±70
+
+ 
+
+2,000
+
+ 70
+
+ 
+
+3,000
+
+ 70
+
+ 
+
+5,000
+
+ 70
+
+ 
+
+10,000
+
+ 80
+
+ 
+
+15,000
+
+ 90
+
+ 
+
+20,000
+
+ 100
+
+ 
+
+25,000
+
+ 120
+
+ 
+
+30,000
+
+ 140
+
+ 
+
+35,000
+
+ 160
+
+ 
+
+40,000
+
+ 180
+
+ 
+
+50,000
+
+ 250
+
+ 
+
+TABLE IV
+
+ PRESSURE - ALTITUDE DIFFERENCE
+
+ 
+
+ Pressure (inches of Hg)
+
+ Altitude difference (feet)
+
+ 
+
+28.10
+
+ -1727
+
+ 
+
+28.50
+
+ -1340
+
+ 
+
+29.00
+
+ -863
+
+ 
+
+29.50
+
+ -392
+
+ 
+
+29.93
+
+ 0
+
+ 
+
+30.50
+
+ +531
+
+ 
+
+30.90
+
+ +893
+
+ 
+
+30.99
+
+ +974
+
+ 
+
+4. Part 91 is amended as follows:
+
+(a) Section 91,161(b) is amended by adding the reference "91.170" between the references "91.169" and "91.171."
+
+(b) By adding the following new section after Sec. 91.169:
+
+Sec. 91.170 Altimeter system tests and inspections.
+
+(a) No person may operate an airplane in controlled airspace under IFR unless, within the proceeding 24 calendar months, each static pressure system and each altimeter instrument has been tested and inspected and found to comply with Appendix E of Part 43. The altimeter must be tested by an appropriately rated repair station.
+
+(b) Compliance with this section is not required until August 1, 1966.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on June 21, 1965.
+
+N. E. Halaby,
+
+Administrator.
+
+[FR Doc. 65-6757 Filed 6-28-65; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of Proposed Rulemaking. Notice No. 64-14; Issued on 03/03/64.
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+-

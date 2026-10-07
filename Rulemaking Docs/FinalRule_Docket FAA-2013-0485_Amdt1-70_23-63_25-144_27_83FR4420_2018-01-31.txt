@@ -1,0 +1,86 @@
+FINAL RULES: 1-70|23-63|25-144|27-48|29-56|61-139|91-345|121-376|125-66|135-135
+
+ 
+ 
+        
+CITATION: [Federal Register Volume 83, Number 21 (Wednesday, January 31, 2018)]
+
+ 
+        
+PAGE NUMBER: [Pages 4420-4422]
+
+ 
+        
+DOCKET NUMBER: FAA-2013-0485
+
+ 
+        
+14 CFR PARTS: Part 1|Part 23|Part 25|Part 27|Part 29|Part 61|Part 91|Part 121|Part 125|Part 135
+
+ 
+        
+SUBJECT HEADING: Revisions to Operational Requirements for the Use of Enhanced Flight Vision Systems (EFVS) and to Pilot Compartment View Requirements for Vision Systems 
+
+ 
+        
+ACTION: Final rule.
+
+ 
+        
+SUMMARY: Prior to this final rule, persons could only use an Enhanced Flight Vision System (EFVS) in lieu of natural vision to descend below the decision altitude, decision height, or minimum descent altitude (DA/DH or MDA) down to 100 feet above the touchdown zone elevation (TDZE) using certain straight-in landing instrument approach procedures (IAPs). This final rule permits operators to use an EFVS in lieu of natural vision to continue descending from 100 feet above the TDZE to the runway and to land on certain straight-in IAPs under instrument flight rules (IFR). This final rule also revises and relocates the regulations that permit operators to use an EFVS in lieu of natural vision to descend to 100 feet above the TDZE using certain straight-in IAPs. Additionally, this final rule addresses provisions that permit operators who conduct EFVS operations under parts 121, 125, or 135 to use EFVS-equipped aircraft to dispatch, release, or takeoff under IFR, and revises the regulations for those operators to initiate and continue an approach, when the destination airport weather is below authorized visibility minimums for the runway of intended landing. This final rule establishes pilot training and recent flight experience requirements for operators who use EFVS in lieu of natural vision to descend below the DA/DH or MDA. EFVS-equipped aircraft conducting operations to touchdown and rollout are required to meet additional airworthiness requirements. This final rule also revises pilot compartment view certification requirements for vision systems using a transparent display surface located in the pilot's outside field of view. The final rule takes advantage of advanced vision capabilities, thereby achieving the Next Generation Air Transportation System (NextGen) goals of increasing access, efficiency, and throughput at many airports when low visibility is the limiting factor. Additionally, it enables EFVS operations in reduced visibilities on a greater number of approach procedure types while maintaining an equivalent level of safety. 
+
+
+
+ 
+        
+DATES: The final rule is effective March 21, 2017, except for the amendments to Sec. Sec. 61.66 (amendatory instruction no. 15), 91.175 (amendatory instruction no. 18), 91.1039 (amendatory instruction no. 23), 121.651 (amendatory instruction no. 27), 125.325 (amendatory instruction no. 33), 125.381 (amendatory instruction no. 35), and 135.225 (amendatory instruction no. 38), which are effective March 13, 2018.
+
+ 
+        
+EFFECTIVE DATE: 2018-03-13
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ 
+        
+REGULATORY TEXT: https://www.federalregister.gov/d/2016-28714
+
+Correction: https://www.federalregister.gov/d/C1-2016-28714
+
+Delay of Effective Date: https://www.federalregister.gov/d/2017-02582
+
+Correction: https://www.federalregister.gov/d/2018-00225
+
+Correction: https://www.federalregister.gov/d/C1-2018-00225
+
+ 
+        
+FOOTER: Issued under authority provided by 49 U.S.C. 106(f), 44701(a), and 44703 in Washington, DC, on November 7, 2016.
+
+Michael P. Huerta,
+
+Administrator.
+
+[FR Doc. 2016-28714 Filed 12-12-16; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: Not Applicable.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

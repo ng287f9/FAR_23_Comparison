@@ -1,0 +1,188 @@
+FINAL RULES: 23-19|91-139
+
+ 
+ 
+        
+CITATION: [Federal Register: June 16, 1977 (Volume 42, Number 116)]
+
+ 
+        
+PAGE NUMBER: [Page 30601]
+
+ 
+        
+DOCKET NUMBER: 10162
+
+ 
+        
+14 CFR PARTS: Part 23|Part 91
+
+ 
+        
+SUBJECT HEADING: Crashworthiness; Installation of Shoulder Harnesses in Small Airplanes
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: 14 CFR Parts 23 and 91
+
+Amendment Nos. 23-19 and 91-139
+
+This amendment adds requirements concerning shoulder harnesses and compartment interior design for the type certification of small airplanes and adds an operating rule requiring a shoulder harness for each front seat in certain newly manufactured small airplanes. This amendment is intended to improve the crashworthiness of small airplanes and was prompted by a recommendation of the National Transportation Safety Board (NTSB) and a petition for rule making submitted by Mr. Ralph Nader.
+
+ 
+        
+DATES: EFFECTIVE DATE: July 18, 1977. Operating rule compliance dates - July 18, 1978.
+
+ 
+        
+EFFECTIVE DATE: 1977-07-18
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Raymond E. Ramakis, Regulatory Projects Branch, AFS-940, Federal Aviation Administration, Washington, D.C. 20591, Telephone (202) 755-8716.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: These amendments are based on the Notice of Proposed Rule Making (Notice No. 73-1) published in the Federal Register on January 31, 1973, (38 FR 2985). Numerous comments relating to these proposals were received in response to the Notice and except for those indicating agreement or merely repeating issues discussed and disposed of in the Notice, the FAA's disposition of the significant comments is discussed below. In general, comments received that were beyond the scope of the Notice are not discussed. Based on the relevant comments and upon further review by the FAA, a number of the proposals have been dropped or changed. In addition, various nonsubstantive changes of a clarifying and editorial nature have been made. Since these changes impose no additional burden on any person, they may be adopted without further notice and public procedure.
+
+ Interested persons have been afforded an opportunity to participate in the making of these amendments, and due consideration has been given to all matter presented.
+
+ A substantial number of commentators objected to the proposed rules that would require fastening of the harness, and a large number suggested that harness installation be optional. In addition, several commentators stated that the Notice seemed to assume that there is merit in wearing harnesses without citing any studies to support that view. One recommended that the Notice be withdrawn pending the results of NASA and FAA crash testing of complete general aviation airplanes. Contrary to the commentators' allegations, the FAA believes that sufficient data and information exists on which to base shoulder harness requirements for small airplanes. The changes being made are based primarily on the results and conclusions of small airplane accident investigations. Information regarding specific accidents is available in documents published by the National Transportation Safety Board such as the "Annual Review of General Aviation Accidents." In addition, a summary of test information on seats, belts, harnesses, as well as entire airplanes, is included in FAA Technical Report No. FS-70-592-120A, "A Summary of Crashworthiness Information for Small Airplanes," dated February 1973. Furthermore, data which substantiate the premise that use of a harness will increase safety sufficiently to warrant a change in FAR Part 23 are contained in FAA Report No. FAA-AM-71-3, "General Aviation Structures Directly Responsible for Trauma in Crash Decelerations," dated January 1971. With respect to deferring rule making pending the results of crash testing, the FAA does not believe delay is advisable since crashworthiness investigation, testing, and analysis is a continuous process, and updating of rules can be accomplished as new information becomes available should later revisions be warranted.
+
+ In connection with the foregoing, after further FAA review in light of the comments received, a number of the proposals have been withdrawn or substantially revised.
+
+ Proposed Section 23.785(g) would require the installation of a shoulder harness at each forward facing seat and at each sideward facing seat for type certification. However, the FAA's analysis of the cost benefit considerations show that small airplanes are operated mostly with only the front seats occupied and the cabin structure surrounding the occupants of seats other than front seats can be designed to be very effective in protecting occupants during minor crash landings. Based on this and the many adverse comments to proposed Section 23.785(g), the FAA has determined that, at this time, shoulder harness installations on seats other than the front seats should not be required under FAR Part 23. Accordingly, the proposal has been revised to require shoulder harness installations only on front seats. Front seats in this context are seats located at flight crewmember stations or seats located alongside such a seat. For clarity a definition of "front seat" has been added to the rules being adopted herein.
+
+ Proposed Section 23.785(g) would also require that rearward and certain sideward facing seats have energy absorbing rests. A similar provision currently exists as an optional requirement in Section 23.785(g)(3) for all seats. Based on a further assessment of the proposed requirements, the FAA has determined that the energy absorbing rest requirement is not necessary since compliance with the requirements of Sections 23.785(g) and (j), as adopted herein, assures adequate cabin occupant safety. The proposed energy absorbing rest requirement has, therefore, been withdrawn.
+
+ The proposed type certification requirement in Section 23.785(j) concerns delethalization of the cabin area surrounding each seat within striking distance of the occupant's head, torso, arms, and legs. However, information now available to the FAA indicates that fatalities during minor crash landings are primarily due to head and torso injuries. Also, most serious injuries during minor crash landings are limited to the head and torso. Furthermore, confining the provision to the head and torso would reduce the burden of compliance and simplify compliance determinations. The FAA has therefore determined that the requirement should not be applicable to arms and legs, and the proposed rule has been changed accordingly.
+
+ A number of comments were adverse to the proposed operating requirements in Sections 91.7 and 91.14 that would require fastening of shoulder harnesses. Based on these comments, the FAA has reevaluated the need for the proposed requirements, and the proposed passenger shoulder harness fastening requirement of Section 91.14 has been withdrawn. In addition, proposed Section 91.7 has been revised to require the fastening of shoulder harnesses by flight crewmembers only during takeoff and landing; however, it would not be required if it would interfere in the performance of required duties.
+
+ A further operating requirement proposed in Section 91.14 would have required the pilot to ensure that each person aboard the aircraft be given certain instructions and notifications regarding restraint equipment and to ensure proper securing of equipment at unoccupied seats. However, the requirements for shoulder harnesses on other than front seats and on other than newly manufactured airplanes have been withdrawn, as discussed in connection with Sections 91.33 and 91.39. In this light and since the fastening of shoulder harnesses will not be mandatory except with respect to flight crewmembers, the benefits expected from the operating requirements proposed in Section 91.14 no longer are sufficient to warrant the adoption of the proposals. The proposals have therefore been withdrawn.
+
+ The proposed operating rules in Sections 91.33(b)(13) and 91.39(f) would have required, in effect, that small airplanes either be placarded to indicate lack of structural provisions for the attachment of shoulder harnesses or be equipped with shoulder harnesses. Subsequently, a number of comments received in response to Notice 73-1 indicated strong opposition to a rule requiring the installation of shoulder harnesses in small airplanes currently in service. In light of these comments, a cost analysis was conducted by the FAA which indicated that a substantial financial burden would be imposed upon many consumers over a short period of time if the proposals were to be adopted. Based on this cost analysis and a review of the benefits expected from the proposal, the FAA has determined that the decision of whether to install shoulder harnesses in small airplanes now in service or to install shoulder harnesses at seats other than front seats should be left to the owner. Therefore, the proposal has been revised to require the installation of shoulder harnesses only on the front seats of airplanes that are manufactured after one year after the effective date of the amendment.
+
+ A number of commentators contended that it would be unreasonable to expect any occupant protection system to prevent minor scratches or bruises in a crash landing, and recommended revising proposed Sections 23.785 and 91.33 to require protection against serious injury or serious head injury rather than protection against any degree of injury. In this connection, current Sections 23.561, 25.561, and 25.785 use the criteria of serious injury. The FAA agrees and proposed Sections 23.785, 91.33, and 91.39 have been revised accordingly.
+
+ One commentator contended that Section 23.785(j) should be eliminated as it is too general to be a workable, enforceable or effective standard. The FAA does not agree. Section 23.785(j) as adopted will require elimination of obvious injurious objects and require that instrument panels be designed to prevent injuries. In applying the rule, since the movement of a restrained occupant under design inertia loads and the impact velocity on an interfering structure can be predicted, and since the body tolerances and energy to be absorbed are known, the major items subject to contact can be designed to prevent serious injury.
+
+ One commentator recommended changing the parenthetical portion of proposed Section 23.785(j) to read "(with the safety belt and shoulder harness fastened)", because it would be inconsistent to require shoulder harnesses and at the same time provide protection in the space a passenger might occupy without the harness. The FAA does not agree. A shoulder harness does not protect against side loads, nor does it constrain the head. Also, the proposed rule concerning shoulder harnesses has been revised to require a shoulder harness only for each front seat.
+
+ One commentator indicated that use of restraints and padding would reduce safety by reducing the visibility of, and accessibility to, controls and instruments on the part of pilots, and by interfering with evacuation of airplanes by passengers. The FAA does not agree since it is feasible to provide in new designs the protection specified without a significant decrease in visibility and accessibility. While in a specific case some compromise during design may have to be made, the FAA has determined that the benefits to be derived with regard to improved safety through proper restraints and cabin delethalization would in general far outweigh any detrimental effects resulting from reduction in visibility and accessibility.
+
+ Several commentators expressed concern that the shoulder harness and cabin design resulting from the proposed requirements would be restrictive, inadequate, or ineffective for certain sizes of occupants or crew. The FAA agrees that harness installations designed primarily for adults may not be effective for children or other small persons, but the seat belt portion of the restraint would nevertheless constrain a small person on whom the shoulder harness cannot be properly fitted within the space envelope of protection provided for adults with the harness fastened. No change has been made as a result of these comments.
+
+ The FAA has determined, based on an evaluation of the expected benefits and other impacts on the public and private sectors, that the adoption of this amendment will result in a significant improvement in the chances of occupants of small airplanes covered by the amendment to survive minor crash landings and provide those occupants additional protection in more severe crashes at a nominal cost. Over the next 25 years, it is estimated that approximately 1,875 lives may be saved by this amendment at an average cost of less than $5.5 million per year.
+
+ The principal authors of this document are Heinz J. Hellebrand, Flight Standards Service, and Samuel Podberesky, Office of the Chief Counsel. 
+
+ 
+        
+REGULATORY TEXT: Accordingly, Parts 23 and 91 of the Federal Aviation Regulations (14 CFR Parts 23 and 91) are amended effective, July 18, 1977, as follows:
+
+1. Section 23.785 is amended by revising the title and paragraphs (b) and (g) and by adding a new paragraphs (h), (i), (j), and (k) to read as follows:
+
+Sec. 23.785 Seats, berths, safety belts, and harnesses.
+
+* * * * *
+
+(b) Each set, berth, safety belt, and harness must be approved.
+
+* * * * *
+
+(g) Each occupant must be protected from serious head injury when he experiences the inertia forces prescribed in Sec. 23.561(b)(2) by -
+
+(1) A safety belt and shoulder harness that is designed to prevent the head from contacting any injurious object, for each front seat; and
+
+(2) A safety belt, or a safety belt and shoulder harness, for each seat other than a front seat.
+
+(h) Each shoulder harness installed at a flight crewmember station must allow the crewmember, when seated and with his safety belt and shoulder harness fastened, to perform all functions necessary for flight operations.
+
+(i) There must be a means to secure each safety belt and shoulder harness, when not in use, so as to prevent interference with the operation of the airplane and with rapid egress in an emergency.
+
+(j) The cabin area surrounding each seat, including the structure, interior walls, instrument panel, control wheel, pedals, and seats, within striking distance of the occupant's head or torso (with the safety belt fastened), must be free of potentially injurious objects, sharp edges, protuberances, and hard surfaces. If energy absorbing designs or devices are used to meet this requirement they must protect the occupant from serious injury when the occupant experiences the ultimate inertia forces prescribed in Sec. 23.561(b)(2).
+
+(k) For purposes of paragraph (g) of this section, a front seat is a seat located at a flight crewmember station or any seat located along-side such a seat.
+
+Sec. 23.1307 [Amended]
+
+2. Section 23.1307 is amended by deleting paragraph (a) and marking it "Reserved".
+
+3. Section 91.7 is amended by redesignating the introductory phrase as paragraph (a), by redesignating old paragraphs (a) and (b) as (a)(1) and (a)(2), respectively, and by adding a new paragraph (b) to read as follows:
+
+Sec. 91.7 Flight crewmembers at stations.
+
+* * * * *
+
+(b) After July 18, 1978, each required flight crewmember of a U.S. registered civil airplane shall, during takeoff and landing, keep the shoulder harness fastened while at his station. This paragraph does not apply if -
+
+(1) The seat at the crewmember's station is not equipped with a shoulder harness; or
+
+(2) The crewmember would be unable to perform his required duties with the shoulder harness fastened.
+
+4. Section 91.33 is amended by adding a new paragraph (b)(13) to read as follows:
+
+Sec. 91.33 Powered civil aircraft with standard category U.S. airworthiness certificates; instrument and equipment requirements.
+
+* * * * *
+
+(b) * * *
+
+(13) For small civil airplanes manufactured after July 18, 1978, an approved shoulder harness for each front seat. The shoulder harness must be designed to protect the occupant from serious head injury when the occupant experiences the ultimate inertia forces specified in Sec. 23.561(b)(2) of this chapter. Each shoulder harness installed at a flight crewmember station must permit the crewmember, when seated and with his safety belt and shoulder harness fastened, to perform all functions necessary for flight operations. For purposes of this paragraph -
+
+(i) The date of manufacture of an airplane is the date the inspection acceptance records reflect that the airplane is complete and meets the FAA Approved Type Design Data; and
+
+(ii) A front seat is a seat located at a flight crewmember station or any seat located alongside such a seat.
+
+* * * * *
+
+5. Section 91.39 is amended by adding a new paragraph (g) to read as follows:
+
+Sec. 91.39 Restricted category civil aircraft; operating limitations.
+
+* * * * *
+
+(g) No person may operate a small restricted category civil airplane, manufactured after July 18, 1978, unless an approved shoulder harness is installed for each front seat. The shoulder harness must be designed to protect each occupant from serious head injury when the occupant experiences the ultimate inertia forces specified in Sec. 23.561(b)(2) of this chapter. The shoulder harness installation at each flight crewmember station must permit the crewmember, when seated and with his safety belt and shoulder harness fastened, to perform all functions necessary for flight operations. For purposes of this paragraph -
+
+(1) The date of manufacture of an airplane is the date the inspection acceptance records reflect that the airplane is complete and meets the FAA Approved Type Design Data; and
+
+(2) A front seat is a seat located at a flight crewmember station or any seat located alongside such a seat.
+
+(Secs. 313(a), 601, and 603, Federal Aviation Act of 1958, as amended (49 U.S.C. 1354(a), 1421, and 1423); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655(c)).)
+
+ NOTE: - The FAA has determined that this document does not contain a major proposal requiring preparation of an Economic Impact Statement under Executive Order 11821, as amended by Executive Order 11949, and OMB Circular A-107.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on June 9, 1977.
+
+Quentin S. Taylor,
+
+Acting Administrator.
+
+[FR Doc. 77-17074 Filed 6-15-77; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of Proposed Rulemaking. Notice No. 73-1; Issued on 01/18/73.
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+-

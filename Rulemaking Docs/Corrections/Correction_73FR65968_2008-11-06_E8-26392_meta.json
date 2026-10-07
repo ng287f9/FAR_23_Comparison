@@ -1,0 +1,39 @@
+{
+  "document_number": "E8-26392",
+  "title": "Airworthiness Standards; Propellers; Correction",
+  "type": "Rule",
+  "action": "Final rule; corrections.",
+  "start_page": 65968,
+  "end_page": 65968,
+  "publication_date": "2008-11-06",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "docket_ids": [
+    "Docket No.: FAA-2007-27310",
+    "Amendment Nos. 23-59, 25-126, 33-28, and 35-5"
+  ],
+  "citation": "73 FR 65968",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2008/11/06/E8-26392.txt",
+  "html_url": "https://www.federalregister.gov/documents/2008/11/06/E8-26392/airworthiness-standards-propellers-correction",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2008-11-06/pdf/E8-26392.pdf",
+  "_match": "cfr-filter-only",
+  "_kind": "correction"
+}

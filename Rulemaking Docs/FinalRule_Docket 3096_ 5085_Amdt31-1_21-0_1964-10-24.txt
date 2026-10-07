@@ -1,0 +1,2392 @@
+FINAL RULES: 31-1|21-0
+
+ 
+ 
+        
+CITATION: [Federal Register: October 24, 1964]
+
+ 
+        
+PAGE NUMBER: [Page - 14562]
+
+ 
+        
+DOCKET NUMBER: 3096, 5085
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 25|Part 27|Part 31|Part 33|Part 35
+
+ 
+        
+SUBJECT HEADING: Certification Procedures for Products and Parts 
+
+ 
+        
+ACTION: Amendments
+
+ 
+        
+SUMMARY: Special Civil Air Regulations 422B, 425C. This amendment adds Part 21 [New] to the Federal Aviation Regulations to replace the procedural rules governing the certification of products and parts as presently set forth in Parts 1, 3, 4b, 5, 6, 7, 8, 9, 9a, 10, 13, 14, and 410 and in Special Civil Air Regulations 422B and 425C. This amendment is part of the recodification program announced in Draft Release 61- 25 published in the Federal Register on November 15, 1961 (26 F.R. 10698). 
+
+
+
+ 
+        
+DATES: EFFECTIVE DATE: February 1, 1965
+
+ 
+        
+EFFECTIVE DATE: 1965-02-01
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ Part 21 [New] was published as a notice of proposed rule making in the Federal Register on May 27, 1964 (29 F.R. 6999), and given further distribution as Notice No. 64-31. 
+
+ Many of the comments received recommended specific substantive changes to the regulations. Although many of the recommendations appear to be meritorious, they cannot be adopted as a part of the recodification program. The purpose of the program is simply to streamline and clarify present regulatory language and delete obsolete or redundant provisions. To attempt substantive changes, other than relaxatory ones that are completely noncontroversial, would delay the project and be contrary to the ground rules specified for it in Draft Release 61-25. However, all substantive comments received will be retained and will be given careful consideration in future regulatory projects. 
+
+ As was stated in the preamble of the notice of proposed rule making of Part 21 [New], those definitions in present Part 1 [and not now in Part 1 [New) or executed in this part) that are necessary, will be recodified with the definitions of other airworthiness Parts and added to Part 1 [New). 
+
+ One of the comments received questioned the omission as surplusage of the .12 and .18 sections of CAR Parts 3, 4b, 5, 6, 7, 13, and 14 in the notice of proposed rule making. The .12 sections contained a direction to the Administrator to record in the type certificate the applicable regulations with which an applicant has shown compliance. This direction to the Administrator was a vestige of rules promulgated by the Civil Aeronautics Board and directed to the Administrator of the Civil Aeronautics Administration. Because of the consolidation of rule making authority in the Federal Aviation Agency, they are no longer necessary in the Federal Aviation Regulations. Sec. 21.41 indicates clearly that the type certificate is considered to include "the applicable regulations of this subchapter with which the Administrator records compliance". 
+
+ The .18 sections generally related to the approval of materials, parts, processes, and appliances "upon a basis and in a manner found necessary by the Administrator to implement the pertinent provision of the regulations in this subchapter". Paragraph (a) of this section also is no longer necessary for the reason set forth in the preceding paragraph. Paragraph (b) is covered by Sec. 37.1 of Part 37 "Technical Standard Order Authorizations" [New]. However, the note to the .18 sections is being retained as Sec. 21.305 so that it is clear that there are three possible ways in which a material, part, process, or appliance may satisfy "approval" requirements. 
+
+ A new Sec. 21.307 has been added to reflect CAR Secs. 10.21 and 10.31. Those sections provided for the approval of materials, parts, and appliances manufactured in a foreign country upon certification by that country that the material, part, or appliance conforms to the applicable specifications adopted by the Administrator. 
+
+ The distribution table for the notice indicated that CAR Sec. 1.74(b) would be transferred to Part 91 [New). This paragraph was another direction to the Administrator of the Civil Aeronautics Administration by the Civil Aeronautics Board and is no longer necessary for the reasons stated previously. The prohibition against carrying passengers for compensation or hire in experimentally certificated aircraft is an operating limitation issued by the Agency and the omission of this provision does not result in any substantive change since, under Sec. 91.31, no person may operate an aircraft contrary to its operating limitations. 
+
+ The provisions of CAM Sec. 1.77-4 have been transferred to Part 91 [New) rather than to the air carrier operating rules, as indicated in the notice, since operations under these provisions are not in air transportation. 
+
+ The definition of "product" in Sec. 21.1(e) has been broadened to include "propellers" as did the definition of that term in CAR Part 1. In addition, the term "appliances" has been deleted from this definition since the CAR Part 1 definition included only "appliances *** eligible for a type certificate". No appliances are presently eligible for a type certificate. 
+
+ The provisions relating to "production under a type certificate only" that were contained in Secs. 21.53(a) and 21.55 through 21.65 of the notice have been transferred from Subpart B to a separate Subpart F. These sections do not relate to the issue of a type certificate and it is more appropriate that they be in a separate subpart immediately preceding the subpart on "production certificates". 
+
+ Proposed Sec. 21.63 (Sec. 21.128) has been rewritten to reflect the accepted interpretation of present CAM Sec. 1.15-4(e) throughout the Agency and the industry. This change conforms to the existing practice of defining the production acceptance test in terms of the maximum continuous rating and the takeoff rating. 
+
+ Sec. 21.181 has been rewritten to make it clear that an airworthiness certificate for a particular aircraft is effective only as long as the aircraft is registered in the United States. This change is not substantive, but merely clarifying in nature, since it is a statement of existing law under the Federal Aviation Act. 
+
+ Sec. 21.189 has been rewritten to include the statement presently contained in CAR Sec. 1.71 and 9.3 indicating that after June 30, 1965, no limited category airworthiness certificates will be issued unless the aircraft was previously issued an airworthiness certificate in the category. In addition, the prohibition against operating a limited category aircraft carrying persons for compensation or hire has been transferred from Sec. 21.189 to Sec. 91.40 since it is more appropriate in Part 91. 
+
+ Sec. 21.197(a)(1) has been rewritten to include the performance of maintenance" as one of the purposes for which a special flight permit may be issued. Since special flight permits have traditionally been issued for the purpose of performing maintenance and since any change that is being made is relaxatory this may be done as part of the recodification project. 
+
+ Secs. 21.15 and 21.47 have been changed to reflect the amendment proposed in Notice 64-7 issued February 5, 1964 (29 F.R. 2349). As amended, Sec. 21.15 states that an application for a type certificate should be submitted to the appropriate FAA regional office. Sec. 21.47 incorporates the proposed amendment to CAR Sec. 1.14 requiring the grantor of a type certificate to notify the appropriate FAA regional office within 30 days after the transaction, specifying the date of transfer, and requiring a similar notice after the termination of a licensing agreement. The Agency did not receive any adverse comments to Notice No. 64-7 and therefore these amendments are incorporated in Part 21 [New). 
+
+ Sec. 21.77 has been amended to change the duration of a Class II provisional type certificate from "six months after the date of issue, or 60 days after the corresponding type certificate is issued whichever is first" to "twelve months after the date of issue". Sec. 21.77 is based on Sec. 4 of Special Civil Air Regulation 425C. The Agency has found that in many case the 60-day period after the issue of the type certificate is inadequate for an aircraft manufacturer to effect modifications of the provisionally certificated aircraft for conformance with the type design. By extending the duration period to twelve months the Agency believes that adequate time will be provided for any modifications necessary to conform to the type design. Since this amendment is noncontroversial and imposes no additional burden on any person it may be made without compliance with the notice and public procedure provisions of the Administrative Procedure Act. 
+
+ As the preamble to Part 31 [New] stated, (29 F.R. 8256) Subpart G--Certification Procedures of that part is deleted since the provisions of Part 21 [New] are applicable to manned free balloons. 
+
+ Other minor changes of a technical nature have been made. They are not substantive and do not impose any burden on regulated persons. 
+
+ This amendment deletes CAR Parts 1, 5, 8, 9, 9a, 10, 13, 14, and 410 and certain sections of SR 425C. The procedural requirements of Parts 3, 4b, 6, and 7 will be deleted by the separate amendments recodifying the airworthiness requirements of those parts. Those amendments will be made effective on the same date as this amendment. 
+
+ Interested persons have been afforded an opportunity to participate in the making of this regulation, and due consideration has been given to all relevant matter presented. The Agency wishes to thank those persons who submitted comments for the cooperative spirit in which those comments were submitted. 
+
+
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendments: 
+
+ In consideration of the foregoing Chapters I and III of Title 14 of the Code of Federal Regulations are amended as hereinafter set forth effective February 1, 1965. 
+
+1. Part 91 [New] is amended as follows: 
+
+a. By amending Sec. 91.27 to read as follows: 
+
+Sec. 91.27 Civil aircraft certificates required. 
+
+(a) Except as provided in Sec. 91.45, no person may operate a civil aircraft unless it has within it--
+
+(1) An appropriate and current airworthiness certificate or special flight permit; and 
+
+(2) A registration certificate issued to its owner. 
+
+(b) No person may operate a civil aircraft unless the airworthiness certificate required by paragraph (a) of this section is displayed at the cabin or cockpit entrance so that it is legible to passengers or crew. 
+
+b. By adding a new Sec. 91.40 reading as follows: 
+
+Sec. 91.40 Limited category civil aircraft: operating limitations. 
+
+No person may operate a limited category civil aircraft carrying persons or property for compensation or hire. 
+
+(c) By adding a new Sec. 91.45 reading as follows: 
+
+Sec. 91.45 Authorization for air carrier ferry flight of a four-engine airplane with one engine inoperative. 
+
+(a) General. An air carrier may conduct a ferry flight of a four-engine airplane with one engine inoperative, to a base for the purpose of repairing that engine if the following requirements are met: 
+
+(1) The airplane model has been test flown and found satisfactory for safe flight in accordance with paragraph (b) of this section. 
+
+(2) The approved Airplane Flight Manual contains the following performance data and the flight is conducted in accordance with that data: 
+
+(i) Maximum weight. 
+
+(ii) Center of gravity limits. 
+
+(iii) Configuration of the inoperative propeller. 
+
+(iv) Runway length for takeoff. 
+
+(v) Altitude range. 
+
+(3) The air carrier's manual contains operating procedures for the safe operation of the airplane, including specific requirements for-- 
+
+(i) Operations from airports where the runways may require a takeoff or approach over populated areas; and 
+
+(ii) Inspection procedures for determining the operating condition of the operative engines. 
+
+(4) No person may take off an airplane under this section if-- 
+
+(i) The initial climb is over thickly populated areas; or 
+
+(ii) Weather conditions at the takeoff or destination airport are less than those required for VFR flight. 
+
+(5) No air carrier may carry any person, other than required flight crewmembers on board the airplane during the flight. 
+
+(6) No air carrier may use a flight crewmember unless he is thoroughly familiar with the operating procedures for one-engine inoperative ferry flights listed in the air carrier's manual and the limitations and performance information listed in the Airplane Flight Manual. 
+
+(b) Flight tests. The airplane performance with one-engine inoperative must be determined by flight test as follows: 
+
+(1) A speed not less than 1.3 VS1 must be chosen at which the airplane may be controlled satisfactorily in a climb with the critical engine inoperative (with its propeller removed or in a configuration desired by the air carrier) and with all other engines operating at the maximum power determined in subparagraph (3) of this paragraph. 
+
+(2) The distance required to accelerate to the speed listed in subparagraph (1) of this paragraph and to climb to 50 feet must be determined-- 
+
+(i) With the landing gear extended; 
+
+(ii) The critical engine inoperative and its propeller removed or in a configuration desired by the air carrier; and 
+
+(iii) The other engines operating at not more than the maximum power established under subparagraph (3) of this paragraph. 
+
+(3) The takeoff, flight, and landing procedures such as the approximate trim settings, method of power application, maximum power, and speed, must be established. 
+
+(4) The performance must be determined at a maximum weight not greater than the weight that allows a rate of climb of at least 400 feet a minute in the en route configuration set forth in Sec. 25.___ (4b.120(c)) at an altitude of 5,000 feet. 
+
+2. Part 31 [New] is amended by deleting Subpart G thereof. 
+
+3. Parts 1, 5, 8, 9, 9a, 10, 13, 14, and 410, and sections 1 through 12 of Special Civil Air Regulations 425C are deleted. 
+
+4. A part 21 [New] reading as follows is added. 
+
+(Secs. 311, 313(a), 314, 601, 603, 607, 608, 609, 1102, Federal Aviation Act of 1958, 49 U.S.C. 1352, 1354(a), 1355, 1421, 1423, 1427, 1428, 1429, and 1502) 
+
+PART 21--CERTIFICATION PROCEDURES FOR PRODUCTS AND PARTS [NEW] 
+
+Subpart A--General 
+
+Sec. 
+
+21.1 Applicability. 
+
+Subpart B--Type Certificates 
+
+21.11 Applicability. 
+
+21.13 Eligibility.
+
+21.15 Application for type certificate.
+
+21.17 Designation of applicable regulations.
+
+21.19 Changes requiring a new type certificate.
+
+21.21 Issue of type certificate: normal, utility, acrobatic, and transport category aircraft: aircraft engines: propellers.
+
+21.23 Issue of type certificates: gliders.
+
+21.25 Issue of type certificate: restricted category aircraft.
+
+21.27 Issue of type certificate: surplus aircraft of the Armed Forces.
+
+21.29 Issue of type certificate: import products.
+
+21.31 Type design.
+
+21.33 Inspection and tests. 
+
+21.35 Flight tests. 
+
+21.37 Flight test pilot. 
+
+21.39 Flight test instrument calibration and correction report. 
+
+21.41 Type certificate. 
+
+21.43 Location of manufacturing facilities. 
+
+21.45 Privileges. 
+
+21.47 Transferability. 
+
+21.49 Availability. 
+
+21.51 Duration.
+
+21.53 Statement of conformity 
+
+Subpart C--Provisional Type Certificates 
+
+21.71 Applicability. 
+
+21.73 Eligibility. 
+
+21.75 Application 
+
+21.77 Duration. 
+
+21.79 Transferability. 
+
+21.81 Requirements for issue and amendment of Class I provisional type certificates. 
+
+21.83 Requirements for issue and amendment of Class II provisional type certificates. 
+
+21.85 Provisional amendments to type certificates. 
+
+Subpart D--Changes to Type Certificates 
+
+21.91 Applicability.
+
+21.93 Classification of changes in type design. 
+
+21.95 Approval of minor changes in type design. 
+
+21.97 Approval of major changes in type design. 
+
+21.99 Service experience changes. 
+
+21.101 Designation of applicable regulations. 
+
+Subpart E--Supplemental Type Certificates 
+
+21.111 Applicability. 
+
+21.113 Requirement of supplemental type certificate. 
+
+21.115 Applicable airworthiness requirements. 
+
+21.117 Issue of supplemental type certificates. 
+
+21.119 Privileges. 
+
+Subpart F--Production Under Type Certificate Only 
+
+21.121 Applicability. 
+
+21.123 Production under type certificate. 
+
+21.125 Production inspection system: Materials Review Board. 
+
+21.127 Tests: aircraft. 
+
+21.128 Tests: aircraft engines. 
+
+21.129 Tests: propellers. 
+
+21.130 Statement of conformity. 
+
+Subpart G--Production Certificates
+
+21.131 Applicability. 
+
+21.133 Eligibility. 
+
+21.135 Requirements for issuance. 
+
+21.137 Location of manufacturing facilities. 
+
+21.139 Quality control. 
+
+21.143 Quality control data requirements; prime manufacturer. 
+
+21.147 Changes in quality control system. 
+
+21.149 Multiple products. 
+
+21.151 Production limitation record. 
+
+21.153 Amendment of the production certificates. 
+
+21.155 Transferability. 
+
+21.157 Inspections and tests. 
+
+21.159 Duration. 
+
+21.161 Display. 
+
+21.163 Privileges. 
+
+21.165 Responsibility of holder. 
+
+Subpart H--Airworthiness Certificates 
+
+21.171 Applicability. 
+
+21.173 Eligibility. 
+
+21.175 Airworthiness certificates: classification. 
+
+21.177 Amendment or modification. 
+
+21.179 Transferability. 
+
+21.181 Duration. 
+
+21.183 Issue of airworthiness certificates for normal, utility, acrobatic, and transport category aircraft. 
+
+21.185 Issue of airworthiness certificates for restricted category aircraft. 
+
+21.187 Issue of multiple airworthiness certification. 
+
+21.189 Issue of airworthiness certificate for limited category aircraft. 
+
+21.191 Experimental certificates. 
+
+21.193 Experimental certificates: general. 
+
+21.195 Experimental certificates: duration. 
+
+21.197 Special flight permits. 
+
+21.199 Issue of special flight permits. 
+
+Subpart I--Provisional Airworthiness Certificates 
+
+21.211 Applicability. 
+
+21.213 Eligibility. 
+
+21.215 Application. 
+
+21.217 Duration. 
+
+21.219 Transferability. 
+
+21.221 Class I provisional airworthiness certificates. 
+
+21.223 Class II provisional airworthiness certificates. 
+
+21.225 Provisional airworthiness certificates corresponding with provisional amendments to type certificates. 
+
+Subpart J--Delegation Option Procedures for Certification of Small Airplanes and Gliders, Engines and Propellers 
+
+21.231 Applicability. 
+
+21.235 Application. 
+
+21.239 Eligibility. 
+
+21.241 Designated manufacturer's certification representative (DMCR). 
+
+21.243 Duration. 
+
+21.245 Maintenance of eligibility. 
+
+21.247 Transferability. 
+
+21.249 Inspections. 
+
+21.251 Limits of applicability.
+
+21.253 Type certificates; application. 
+
+21.256 Type certificates; FAA verification of compliance with applicable requirements. 
+
+21.257 Type certificate; issue. 
+
+21.259 Type certificate: type inspection. 
+
+21.261 Type certificates; FAA assistance. 
+
+21.263 Type certificate; change in type design. 
+
+21.265 Type certificate; technical data file. 
+
+21.267 Production certificates; application. 
+
+21.269 Production certificates; inspection. 
+
+21.271 Production certification file and reports. 
+
+21.273 Airworthiness certificates. 
+
+21.277 Service difficulties. 
+
+21.283 Revocation of delegation option authorization. 
+
+21.285 Suspension and revocation of certificates. 
+
+21.289 Approval of major repairs and alterations. 
+
+21.293 Data and records. 
+
+Subpart K--Approval of Materials, Parts, Processes, and Appliances 
+
+21.301 Applicability. 
+
+21.303 Replacement or modification parts. 
+
+21.305 Approval of materials, parts, processes, and appliances. 
+
+21.307 Approval of materials, parts, and appliances: import. 
+
+Authority: The provisions of this Part 21 issued under secs. 311, 313(a), 314, 601, 603, 607, 608, 609, 1102 Federal Aviation Act of 1958; 49 U.S.C. 1352, 1354(a), 1355, 1421, 1422, 1427, 1428, 1429, 1501. 
+
+Subpart A--General 
+
+Sec. 21.1 Applicability. 
+
+(a) This part prescribes-- 
+
+(1) Procedural requirements for the issue of type certificates and changes to those certificates; the issue of production certificates; and the issue of airworthiness certificates; 
+
+(2) Rules governing the holders of any certificate specified in subparagraph (1) of this paragraph; 
+
+(3) Procedural requirements for the approval of certain materials, parts, processes, and appliances; and 
+
+(4) Delegation option procedures for the certification of small airplanes, small gliders, engines, and propellers. 
+
+(b) For the purposes of this part, the word "product" means an aircraft, aircraft engine, or propeller. 
+
+Subpart B--Type Certificates 
+
+Sec. 21.11 Applicability. 
+
+This subpart prescribes-- 
+
+(a) Procedural requirements for the issue of type certificates for aircraft, aircraft engines, and propellers; and 
+
+(b) Rules governing the holders of those certificates. 
+
+Sec. 21.13 Eligibility. 
+
+Any person may apply for a type certificate. 
+
+Sec. 21.15 Application for type certificate. 
+
+(a) An application for a type certificate is made on a form and in a manner prescribed by the Administrator and is submitted to the appropriate FAA regional office. 
+
+(b) An application for an aircraft type certificate must be accompanied by a three-view drawing of that aircraft and available preliminary basic data. 
+
+Sec. 21.17 Designation of applicable regulations. 
+
+(a) An applicant for a type certificate (other than for restricted category, import, or surplus military, aircraft) must show that the aircraft, aircraft engine, or propeller concerned meets the applicable requirements of this subchapter that are effective on the date of application for that certificate, unless-- 
+
+(1) Otherwise specified by the Administrator; or 
+
+(2) Compliance with later effective amendments is elected or required under this section. 
+
+(b) If the interval between the date of application for a type certificate for a product and the issue of that type certificate exceeds the applicable number of years set forth below, a new application for a type certificate must be filed. An applicant may elect to file a new application before the expiration of the specified period. In either case, paragraph (a) of this section applies to the new application as if it were an original application. The applicable time limits are as follows: 
+
+(1) Application for type certification of a transport category aircraft--five years. 
+
+(2) Application for any other type certificate--three years. 
+
+(c) If an applicant elects to comply with an amendment to this subchapter that is effective after the filing of the application for a type certificate, he must also comply with any other amendment that the Administrator finds is directly related. 
+
+Sec. 21.19 Changes requiring a new type certificate. 
+
+Any person who proposes to change a product must make a new application for a type certificate if-- 
+
+(a) The Administrator finds that the proposed change in design, configuration, power, power limitations (engines), speed limitations (engines), or weight is so extensive that a substantially complete investigation of compliance with the applicable regulations is required; 
+
+(b) In the case of a normal, utility, acrobatic, or transport category aircraft, the proposed change is-- 
+
+(1) In the number of engines or rotors; or 
+
+(2) To engines or rotors using different principles of propulsion or to rotors using different principles of operation;
+
+(c) In the case of an aircraft engine, the proposed change is in the principle of operation; or 
+
+(d) In the case of propellers, the proposed change is in the number of blades or principle of pitch change operation. 
+
+Sec. 21.21 Issue of type certificate; normal, utility, acrobatic, and transport category aircraft; aircraft engines; propellers. 
+
+An applicant is entitled to a type certificate for an aircraft in the normal, utility, acrobatic, or transport category, or for a manned free balloon or an aircraft engine or propeller, if-- 
+
+(a) The product qualifies under Sec. 21.27; or 
+
+(b) The applicant submits the type design, test reports and computations necessary to show that the product to be certificated meets with the applicable airworthiness requirements of the Federal Aviation Regulations and the Administrator finds-- 
+
+(1) Upon examination of the type design and after completing all tests and inspections, that the type design and the product meet the applicable airworthiness requirements of the Federal Aviation Regulations or that any provisions not complied with are compensated for by factors that provide an equivalent level of safety; and 
+
+(2) For an aircraft, that no feature or characteristic makes it unsafe for the category in which certification is requested, or for aircraft engines and propellers that no feature or characteristic makes it unsafe for us on aircraft. 
+
+Sec. 21.23 Issue of type certificates: gliders. 
+
+An applicant is entitled to a type certificate for a glider if he submits the type design, test reports, and computations necessary to show that the glider meets with the applicable airworthiness requirements and the Administrator finds-- 
+
+(a) That the glider complies with those airworthiness requirements of Part 23 [New] or Part 27 [New] of this chapter found by him to be appropriate for gliders and applicable to the specific type design; and 
+
+(b) That there is no unsafe feature or characteristic of the glider. 
+
+Sec. 21.25 Issue of type certificate: restricted category aircraft. 
+
+(a) An applicant is entitled to a type certificate for an aircraft in the restricted category for special purpose operations if he shows that no feature or characteristic of the aircraft makes it unsafe when it is operated under the limitations prescribed for its intended use, and that the aircraft-- 
+
+(1) Meets the airworthiness requirements of an aircraft category except those requirements that the Administrator finds inappropriate for the special purpose for which the aircraft is to be used; or 
+
+(2) Is of a type that has been manufactured in accordance with the requirements of and accepted for use by, an Armed Force of the United States and has been later modified for a special purpose. 
+
+(b) for the purposes of this section, "special purpose operations" includes-- 
+
+(1) Agricultural (spraying, dusting, and seeding, and livestock and predatory animal control); 
+
+(2) Forest and wildlife conservation; 
+
+(3) Aerial surveying (photography, mapping, and oil and mineral exploration); 
+
+(4) Patrolling (pipelines, power lines, and canals); 
+
+(5) Weather control (cloud seeding); 
+
+(6) Aerial advertising (skywriting, banner towing, airborne signs and public address systems); and 
+
+(7) Any other operation specified by the Administrator. 
+
+Sec. 21.27 Issue of type certificate: surplus aircraft of the Armed Forces. 
+
+(a) Except as provided in paragraph (b) of this section, an applicant is entitled to a type certificate for an aircraft in the normal, utility, acrobatic, or transport category that was designed and constructed in the United States, accepted for operational use, and declared surplus by, an Armed Force of the United States, and that is shown to comply with the applicable certification requirements in paragraph (f) of this section. 
+
+(b) An applicant is entitled to a type certificate for a surplus aircraft of the Armed Forces of the United States that is a counterpart of a previously type certificated civil aircraft, if he shows compliance with the regulations governing the original civil aircraft type certificate. 
+
+(c) Aircraft engines, propellers, and their related accessories installed in surplus Armed Forces aircraft, for which a type certificate is sought under this section, will be approved for use on those aircraft if the applicant shows that on the basis of the previous military qualifications acceptance, and service record, the product provides substantially the same level of airworthiness as would be provided if the engines or propellers were type certificated under Parts 33 [New] or 35 [New] of the Federal Aviation Regulations. 
+
+(d) The Administrator may relieve an applicant from strict compliance with a specific provision of the applicable requirements in paragraph (f) of this section, if the Administrator finds that the method of compliance proposed by the applicant provides substantially the same level of airworthiness and that strict compliance with those regulations would impose a severe burden on the applicant. The Administrator may use experience that was satisfactory to an Armed Force of the United States in making such a determination. 
+
+(e) The Administrator may require an applicant to comply with special conditions and later requirements than those in paragraphs (c) and (f) of this section, if the Administrator finds that compliance with the listed regulations would not ensure an adequate level of airworthiness for the aircraft. 
+
+(f) Except as provided in paragraphs (b) through (e) of this section, an applicant for a type certificate under this section must comply with the appropriate regulations listed in the following table: 
+
+Type of aircraft
+
+ Date accepted for operational use by the Armed Force of the United States.
+
+ Regulations that apply.
+
+ 
+
+Small reciprocating-engine powered airplanes. Before May 16, 1956...................................
+
+After May 15, 1956....................................... CAR Part 3, as effective May 15, 1956.
+
+CAR Part 3 or FAR Part 23. 
+
+ 
+
+Small turbine engine-powered airplanes. Before Oct. 2, 1959......................................
+
+After Oct. 1, 1959........................................... CAR Part 3, as effective Oct. 1, 1959.
+
+CAR Part 3 or FAR Part 23. 
+
+ 
+
+Large reciprocating-engine powered airplanes.
+
+Large turbine engine-powered airplanes. Before Aug. 26, 1955...................................
+
+After Aug. 25, 1955........................................
+
+Before Oct. 2, 1959.......................................
+
+After Oct. 1, 1959............................................ CAR Part 4b, as effective Aug. 25, 1955.
+
+CAR Part 4b or FAR Part 25.
+
+CAR Part 4b, as effective Oct. 1, 1959.
+
+CAR Part 4b or FAR Part 25. 
+
+ 
+
+Rotorcraft with maximum certificated takeoff weight of: Before Oct. 2, 1959...................................... CAR Part 6, as effective Oct. 1, 1959. 
+
+6,000 pounds or less................................... After Oct. 1, 1959.......................................... CAR Part 6 or FAR Part 27. 
+
+Over 6,000 pounds....................................... Before Oct. 2, 1959......................................
+
+After Oct. 1, 1959........................................ CAR Part 7, as effective Oct. 1, 1959.
+
+CAR Part 7 or FAR Part 29. 
+
+ 
+
+ 
+
+1 Where no specific date is listed, the applicable regulations are those in effect on the date that the first aircraft of the particular model was accepted for operational use by the Armed Force.
+
+Sec. 21.29 Issue of type certificate: import products. 
+
+(a) An applicant is entitled to a type certificate for a product manufactured in a foreign country with which the United States has an agreement for the acceptance of those products for export and import-- 
+
+(1) If the country in which the product was manufactured certifies that the product has been examined, tested, and found to meet the applicable airworthiness requirements of-- 
+
+(i) This subchapter; or 
+
+(ii) The country in which the product was manufactured and any other requirements the Administrator may prescribe to provide a level of safety equivalent to that provided by the applicable airworthiness requirements of this subchapter; and 
+
+(iii) The applicant has submitted the technical data respecting the product required by the Administrator. 
+
+(b) A product type certificated under this section is considered to be type certificate under the airworthiness standards of that part of the Federal Aviation Regulations with which compliance is certified under paragraph (a)(1)(i) of this section or to which an equivalent level of safety is certified under paragraph (a)(1)(ii) of this section. 
+
+Sec. 21.31 Type design. 
+
+The type design consists of-- 
+
+(a) The drawings and specifications necessary to show the configuration of the product concerned and the design features covered in the requirements of that part of this subchapter applicable to the product; 
+
+(b) Information on dimensions, materials, and processes necessary to define the structural strength of the product; and 
+
+(c) Any other data necessary to allow, by comparison, the determination of the airworthiness of later products of the same type. 
+
+Sec. 21.33 Inspection and tests. 
+
+(a) Each applicant must allow the Administrator to make any inspections and, in the case of aircraft, any flight tests necessary to determine compliance with the applicable requirements of the Federal Aviation Regulations. 
+
+(b) Each applicant must make all inspections and tests necessary to determine-- 
+
+(1) Compliance with the applicable airworthiness requirements; 
+
+(2) That materials and products conform to the specifications in the type design; 
+
+(3) That parts of the products conform to the drawings in the type design; and 
+
+(4) That the manufacturing processes, construction and assembly conform to those specified in the type design. 
+
+Sec. 21.35 Flight tests. 
+
+(a) Each applicant for an aircraft type certificate (other than under Secs. 21.25 through 21.29) must make the tests listed in paragraph (b) of this section. Before making the tests the applicant must show-- 
+
+(1) Compliance with the applicable structural requirements of this subchapter; 
+
+(2) Completion of necessary ground inspections and tests; 
+
+(3) That the aircraft conforms with the type design; and 
+
+(4) That the Administrator received a flight test report from the applicant (signed, in the case of aircraft to be certificated under Part 25 [New] of this chapter, by the applicant's test pilot) containing the results of his tests. 
+
+(b) Upon showing compliance with paragraph (a) of this section, the applicant must make all flight tests that the Administrator finds necessary-- 
+
+(1) To determine compliance with the applicable requirements of this subchapter; and 
+
+(2) For aircraft to be certificated under this subchapter, except gliders and except airplanes of 6,000 lbs. or less maximum certificated weight that are to be certificated under Part 23 [New] of this chapter, to determine whether there is reasonable assurance that the airplane, its components, and its equipment are reliable and function properly. 
+
+(c) Each applicant must, if practicable, make the tests prescribed in paragraph (b)(2) of this section upon the aircraft that was used to show compliance with-- 
+
+(1) Paragraph (b)(1) of this section; and 
+
+(2) For rotorcraft, the rotor drive endurance tests prescribed in Sec. 27.923 or Sec. 29.923 of this chapter, as applicable. 
+
+(d) Each applicant must show for each flight test (except in a glider or a manned free balloon) that adequate provision is made for the flight test crew for emergency egress and the use of parachutes. 
+
+(e) Except in gliders and manned free balloons, an applicant must discontinue flight tests under this section until he shows that corrective action has been taken, whenever-- 
+
+(1) The applicant's test pilot is unable or unwilling to make any of the required flight tests; or 
+
+(2) Items of noncompliance with requirements are found that may make additional test data meaningless or that would make further testing unduly hazardous. 
+
+Sec. 21.37 Flight test pilot. 
+
+Each applicant for a normal, utility, acrobatic, or transport category aircraft type certificate must provide a person holding an appropriate pilot certificate to make the flight tests required by this part. 
+
+Sec. 21.39 Flight test instrument calibration and correction report. 
+
+(a) Each applicant for a normal, utility, acrobatic, or transport category aircraft type certificate must submit a report to the Administrator showing the computations and tests required in connection with the calibration of instruments used for test purposes and in the correction of test results to standard atmospheric conditions. 
+
+(b) Each applicant must allow the Administrator to conduct any flight tests that he finds necessary to check the accuracy of the report submitted under paragraph (a) of this section. 
+
+Sec. 21.41 Type certificate. 
+
+Each type certificate is considered to include the type design, the operating limitations, the certificate data sheet, the applicable regulations of this subchapter with which the Administrator records compliance, and any other conditions or limitations prescribed for the product in this subchapter. 
+
+Sec. 21.43 Location of manufacturing facilities. 
+
+Except as provided in Sec. 21.29, the Administrator does not issue a type certificate if the manufacturing facilities for the product are located outside of the United States, unless the Administrator finds that the location of the manufacturer's facilities places no undue burden on the FAA in administering applicable airworthiness requirements. 
+
+Sec. 21.45 Privileges. 
+
+The holder or licensee of a type certificate for a product may-- 
+
+(a) In the case of aircraft, upon compliance with Secs. 21.173 through 21.189, obtain airworthiness certificates; 
+
+(b) In the case of aircraft engines or propellers, obtain approval for installation on certificated aircraft; and 
+
+(c) In the case of any product, upon compliance with Secs. 21.133 through 21.163, obtain a production certificate for the type certificated product. 
+
+(d) Obtain approval of replacement parts for that product. 
+
+Sec. 21.47 Transferability. 
+
+A type certificate may be transferred to or made available to third persons by licensing agreements. Each grantor shall, within 30 days after the transfer of a certificate or execution or termination of a licensing agreement, notify in writing the appropriate FAA Regional Office. The notification must state the name and address of the transferee or licensee, date of the transaction, and in the case of a licensing agreement, the extent of authority granted the licensee. 
+
+Sec. 21.49 Availability. 
+
+The holder of a type certificate shall make the certificate available for examination upon the request of the Administrator or the Civil Aeronautics Board. 
+
+Sec. 21.51 Duration. 
+
+A type certificate is effective until surrendered, suspended, revoked, or a termination date is otherwise established by the Administrator. 
+
+Sec. 21.53 Statement of conformity. 
+
+Each applicant must submit a statement of conformity to the Administrator for each prototype presented for type certification. 
+
+Subpart C--Provisional Type Certificates 
+
+Sec. 21.71 Applicability. 
+
+This subpart prescribes-- 
+
+(a) Procedural requirements for the issue of provisional type certificates, amendments to provisional type certificates, and provisional amendments to type certificates; and 
+
+(b) Rules governing the holders of those certificates. 
+
+Sec. 21.73 Eligibility. 
+
+(a) Any manufacturer of aircraft manufactured within the United States who is a United States citizen may apply for Class I or Class II provisional type certificates, for amendments to provisional type certificates held by him, and for provisional amendments to type certificates held by him. 
+
+(b) An aircraft engine manufacturer who is a United States citizen and who has altered a type certificated aircraft by installing different type certificated aircraft engines manufactured by him within the United States may apply for a Class I provisional type certificate for the aircraft, and for amendments to Class I provisional type certificates held by him, if the basic aircraft, before alteration, was type certificated in the normal, utility, acrobatic, or transport category. 
+
+Sec. 21.75 Application. 
+
+Applications for provisional type certificates, for amendments thereto, and for provisional amendments thereto, and for provisional amendments to type certificates must be submitted to the Chief, Engineering and Manufacturing Branch, Flight Standards Division, of the region in which the applicant is located (or, in the case of the Western Region, the Chief, Aircraft Engineering Division), and must be accompanied by the pertinent information specified in this subpart. 
+
+Sec. 21.77 Duration. 
+
+(a) Unless sooner surrendered, superseded, revoked, or otherwise terminated, provisional type certificates and amendments thereto are effective for the periods specified in this section. 
+
+(b) A Class I provisional type certificate is effective for 24 months after the date of issue, or until-- 
+
+(1) The corresponding type certificate or supplemental type certificate is issued, whichever is first; or 
+
+(2) A Class II provisional type certificate is issued for aircraft of the same type design. 
+
+(c) A Class II provisional type certificate is effective for twelve months after the date of issue. 
+
+(d) An amendment to a Class I or Class II provisional type certificate is effective for the duration of the amended certificate. (e) A provisional amendment to a type certificate is effective for six months after its approval or until the amendment of the type certificate is approved, whichever is first. 
+
+Sec. 21.79 Transferability. 
+
+Provisional type certificates are not transferable. 
+
+Sec. 21.81 Requirements for issue and amendment of Class I provisional type certificates. 
+
+(a) An applicant is entitled to the issue or amendment of a Class I provisional type certificate if he shows compliance with this section and the Administrator finds that there is no feature, characteristic, or condition that would make the aircraft unsafe when operated in accordance with the limitations established in paragraph (e) of this section and in Sec. 91.41 [New] of this chapter. 
+
+(b) The applicant must apply for the issue of a type or supplemental type certificate for the aircraft. 
+
+(c) The applicant must certify that--
+
+(1) The aircraft has been designed and constructed in accordance with the airworthiness requirements applicable to the issue of the type or supplemental type certificate applied for; 
+
+(2) The aircraft substantially meets the applicable flight characteristic requirements for the type or supplemental type certificate applied for; and 
+
+(3) The aircraft can be operated safely under the appropriate operating limitations specified in paragraph (a) of this section. (d) The applicant must submit a report showing that the aircraft had been flown in all maneuvers necessary to show compliance with the flight requirements for the issue of the type or supplemental type certificate applied for, and to establish that the aircraft can be operated safely in accordance with the limitations contained in this subchapter.
+
+(e) The applicant must establish all limitations required for the issue of the type or supplemental type certificate applied for, including limitations on weights, speeds, flight maneuvers, loading, and operation of controls and equipment unless, for each limitation not so established, appropriate operating restrictions are established for the aircraft. 
+
+(f) The applicant must establish an inspection and maintenance program for the continued airworthiness of the aircraft. 
+
+(g) The applicant must show that a prototype aircraft has been flown for at least 50 hours under an experimental certificate issued under Secs. 21.191 through 21.195, or under the auspices of an Armed Force of the United States. However, in the case of an amendment to a provisional type certificate, the Administrator may reduce the number of required flight hours. 
+
+Sec. 21.83 Requirements for issue and amendment of Class II provisional type certificates. 
+
+(a) An applicant is entitled to the issue or amendment of a Class II provisional type certificate if he shows compliance with this section and the Administrator finds that there is no feature, characteristic, or condition that would make the aircraft unsafe when operated in accordance with the limitations in paragraph (g) of this section, Sec. 91.41 [New] of this chapter, and Sec. _____ (present SR 425C Sec. 14). 
+
+(b) The applicant must apply for a type certificate, in the transport category, for the aircraft. 
+
+(c) The applicant must hold a type certificate and a current production certificate for at least one other aircraft in the same transport category as the subject aircraft. 
+
+(d) The FAA's official flight test program with respect to the issue of a type certificate for the aircraft must be in progress. 
+
+(e) The applicant must certify that-- 
+
+(1) The aircraft has been designed and constructed in accordance with the airworthiness requirements applicable to the issue of the type certificate applied for; 
+
+(2) The aircraft substantially complies with the applicable flight characteristic requirements for the type certificate applied for; and 
+
+(3) The aircraft can be operated safely under the appropriate operating limitations in this subchapter. 
+
+(f) The applicant must submit a report showing that the aircraft has been flown in all maneuvers necessary to show compliance with the flight requirements for the issue of the type certificate and to establish that the aircraft can be operated safely in accordance with the limitations in this subchapter. 
+
+(g) The applicant must prepare a provisional aircraft flight manual containing all limitations required for the issue of the type certificate applied for, including limitations on weights, speeds, flight maneuvers, loading, and operation of controls and equipment unless, for each limitation not so established, appropriate operating restrictions are established for the aircraft.
+
+(h) The applicant must establish an inspection and maintenance program for the continued airworthiness of the aircraft. 
+
+(i) The applicant must show that a prototype aircraft has been flown for at least 100 hours under an experimental certificate issued under Secs. 21.191 through 21.195, or under a Class I provisional airworthiness certificate. However, in the case of an amendment to a provisional type certificate, the Administrator may reduce the number of required flight hours. 
+
+Sec. 21.85 Provisional amendments to type certificates. 
+
+(a) An applicant is entitled to a provisional amendment to a type certificate if he shows compliance with this section and the Administrator finds that there is no feature, characteristic, or condition that would make the aircraft unsafe when operated under the appropriate limitations contained in this subchapter. 
+
+(b) The applicant must apply for an amendment to the type certificate. 
+
+(c) The FAA's flight test program with respect to the amendment of the type certificate must be in progress. 
+
+(d) The applicant must certify that-- 
+
+(1) The modification involved in the amendment to the type certificate has been designed and constructed in accordance with the airworthiness requirements applicable to the issue of the type certificate for the aircraft; 
+
+(2) The aircraft substantially complies with the applicable flight characteristic requirements for the type certificate; and 
+
+(3) The aircraft can be operated safely under the appropriate operating limitations specified in Sec. 91.41 [New] and Secs. _____ and _____ (present SR 425C Secs. 14 and 15) of this chapter. 
+
+(e) The applicant must submit a report showing that the aircraft incorporating the modifications involved has been flown in all maneuvers necessary to show compliance with the flight requirements applicable to those modifications and to establish that the aircraft can be operated safely in accordance with the limitations specified in Sec. 91.41 [New] and Secs. _____ and _____ (present SR 425C Secs. 14 and 15) of this section. 
+
+(f) The applicant must establish and publish, in a provisional aircraft flight manual or other document and on appropriate placards, all limitations required for the issue of the type certificate applied for, including weight, speed, flight maneuvers, loading, and operation of controls and equipment, unless, for each limitation not so established, appropriate operating restrictions are established for the aircraft. 
+
+(g) The applicant must establish an inspection and maintenance program for the continued airworthiness of the aircraft. 
+
+(h) The applicant must operate an aircraft modified in accordance with the corresponding amendment to the type certificate under an experimental certificate issued under Secs. 21.191 through 21.195 for the number of hours found necessary by the Administrator. 
+
+Subpart D--Changes to Type Certificates 
+
+Sec. 21.91 Applicability. 
+
+This subpart prescribes procedural requirements for the approval of changes to type certificates. 
+
+Sec. 21.93 Classification of changes in type design. 
+
+Changes in type design are classified as minor and major. A "minor change" is one that has no appreciable effect on the weight, balance, structural strength, reliability, operational characteristics, or other characteristics affecting the airworthiness of the product. All other changes are "major changes". 
+
+Sec. 21.95 Approval of minor changes in type design. 
+
+Minor changes in a type design may be approved under a method acceptable to the Administrator before submitting to the Administrator any substantiating or descriptive data. 
+
+Sec. 21.97 Approval of major changes in type design. 
+
+In the case of a major change in type design, the applicant must submit substantiating data and necessary descriptive data for inclusion in the type design. 
+
+Sec. 21.99 Service experience changes. 
+
+(a) When an Airworthiness Directive is issued under Part 39 [New] the holder of the type certificate for the product concerned must-- 
+
+(1) If the Administrator finds that design changes are necessary to correct the unsafe condition of the product, and upon his request, submit appropriate design changes for approval; and 
+
+(2) Upon approval of the design changes, make available the descriptive data covering the changes to all operators of products previously certificated under the type certificate. 
+
+(b) In a case where there are no current unsafe conditions, but the Administrator or the holder of the type certificate finds through service experience that changes in type design will contribute to the safety of the product, the holder of the type certificate may submit appropriate design changes for approval. Upon approval of the changes, the manufacturer shall make information on the design changes available to all operators of the same type of product. 
+
+Sec. 21.101 Designation of applicable regulations. 
+
+(a) An applicant for a change to a type certificate must comply with either-- 
+
+(1) The regulations incorporated by reference in the type certificate; or 
+
+(2) The applicable regulations in effect on the date of the application, plus any other amendments the Administrator finds to be directly related. 
+
+(b) Where the Administrator finds that a proposed change consists of a new design or a substantially complete redesign of a component, equipment installation, or system installation, and that the regulations incorporated by reference in the type certificate for the product do not provide complete standards with respect to the proposed change, the applicant must comply with the applicable provisions of this subchapter in effect on the date of the application for the change found by the Administrator to provide a level of safety equal to that established by the regulations incorporated by reference in the type certificate for the product. 
+
+(c) Unless otherwise required by Sec. 21.19(a), an applicant for a change to a type certificate for a transport category airplane involving the replacement of reciprocating engines with the same number of turbopropeller powerplants must comply with the requirements of Part 25 [New] of this chapter applicable to the airplane as type certificated with reciprocating engines, and with the following: 
+
+(1) The certification performance requirements prescribed in Secs. 25.101 through 25.125, and 25.149, 25.1533, 25.1583, and 25.1587. 
+
+(2) The powerplant requirements of Part 25 [New] of this chapter applicable to turbopropeller engine-powered airplanes. 
+
+(3) The requirements of Part 25 [New] of this chapter for the standardization of cockpit controls and instruments, unless the Administrator finds that compliance with a particular detailed requirement would be impracticable and would not contribute materially to standardization. 
+
+(4) Any other requirement of Part 25 [New] of this chapter applicable to turbopropeller engine- powered airplanes that the Administrator finds to be related to the changes in engines and that are necessary to ensure a level of safety equal to that of the airplane certificated with reciprocating engines. 
+
+For each new limitation established with respect to weight, speed, or altitude that is significantly altered from those approved for the airplane with reciprocating engines, the applicant must show compliance with the requirements of Part 25 [New] of this chapter applicable to the limitation being changed. 
+
+Subpart E--Supplemental Type Certificates 
+
+Sec. 21.111 Applicability. 
+
+This subpart prescribes procedural requirements for the issue of supplemental type certificates. 
+
+Sec. 21.113 Requirement of supplemental type certificate. 
+
+Any person who alters a product by introducing a major change in type design, not great enough to require a new application for a type certificate under Sec. 21.19, shall apply to the Administrator for a supplemental type certificate, except that the holder of a type certificate for the product may apply for amendment of the original type certificate. The application must be made in a form and manner prescribed by the Administrator. 
+
+Sec. 21.115 Applicable airworthiness requirements. 
+
+Each applicant for a supplemental type certificate must show that the altered product meets applicable airworthiness requirements as specified in paragraphs (a) and (b) of Sec. 21.101. 
+
+Sec. 21.117 Issue of supplemental type certificates. 
+
+(a) An applicant is entitled to a supplemental type certificate if he meets the requirements of Secs. 21.113 and 21.115. 
+
+(b) A supplemental type certificate consists of-- 
+
+(1) The approval by the Administrator of a change in the type design of the product; and 
+
+(2) The type certificate previously issued for the product. 
+
+Sec. 21.119 Privileges. 
+
+The holder of a supplemental type certificate may-- 
+
+(a) In the case of aircraft, obtain airworthiness certificates;
+
+(b) In the case of other products, obtain approval for installation on certificated aircraft; and 
+
+(c) Obtain a production certificate for the change in the type design that was approved by that supplemental type certificate. 
+
+Subpart F--Production Under Type Certificate Only 
+
+Sec. 21.121 Applicability. 
+
+This subpart prescribes rules for production under a type certificate only. 
+
+Sec. 21.123 Production under type certificate. 
+
+Each manufacturer of a product being manufactured under a type certificate only shall--
+
+(a) Make each product available for inspection by the Administrator;
+
+(b) Maintain at the place of manufacture the technical data and drawings necessary for the Administrator to determine whether the product and its parts conform to the type design; and 
+
+(c) For products manufactured more than six months after the date of issue of the type certificate, establish and maintain an approved production inspection system that ensures that each product conforms to the type design and is in condition for safe operation. 
+
+Sec. 21.125 Production inspection system: Materials Review Board. 
+
+(a) Each manufacturer required to establish a production inspection system by Sec. 21.123 (c) shall-- 
+
+(1) Establish a Materials Review Board (to include representatives from the inspection and engineering departments) and materials review procedures; and 
+
+(2) Maintain complete records of Materials Review Board action for at least two years. 
+
+(b) The production inspection system required in Sec. 21.123(c) must provide a means for determining at least the following: (1) Incoming materials, and bought or subcontracted parts, used in the finished product must be as specified in the type design data, or must be suitable equivalents. 
+
+(2) Incoming materials, and bought or subcontracted parts, must be properly identified if their physical or chemical properties cannot be readily and accurately determined. 
+
+(3) Materials subject to damage and deterioration must be suitably stored and adequately protected. 
+
+(4) Processes affecting the quality and safety of the finished product must be accomplished in accordance with acceptable industry or United States specifications. 
+
+(5) Parts and components in process must be inspected for conformity with the type design data at points in production where accurate determinations can be made. 
+
+(6) Current design drawings must be readily available to manufacturing and inspection personnel, and used when necessary. 
+
+(7) Design changes, including material substitutions, must be controlled and approved before being incorporated in the finished product. 
+
+(8) Rejected materials and parts must be segregated and identified in a manner that precludes installation in the finished product. 
+
+(9) Materials and parts that are withheld because of departures from design data or specifications, and that are to be considered for installation in the finished product, must be processed through the Materials Review Board. Those materials and parts determined by the Board to be serviceable must be properly identified and reinspected if rework or repair is necessary. Materials and parts rejected by the Board must be marked and disposed of to ensure that they are not incorporated in the final product. 
+
+(10) Inspection records must be maintained, identified with the completed product where practicable, and retained by the manufacturer for at least two years. 
+
+Sec. 21.127 Tests: aircraft. 
+
+(a) Each person manufacturing aircraft under a type certificate only shall establish an approved production flight test procedure and flight check-off form, and in accordance with that form, flight test each aircraft produced. 
+
+(b) Each production flight test procedure must include the following: 
+
+(1) An operational check of the trim, controllability, or other flight characteristics to establish that the production aircraft has the same range and degree of control as the prototype aircraft.
+
+(2) An operational check of each part or system operated by the crew while in flight to establish that, during flight, instrument readings are within normal range. 
+
+(3) A determination that all instruments are properly marked, and that all placards and required flight manuals are installed after flight test. 
+
+(4) A check of the operational characteristics of the aircraft on the ground. 
+
+(5) A check on any other items peculiar to the aircraft being tested that can best be done during the ground or flight operation of the aircraft. 
+
+Sec. 21.128 Tests: aircraft engines. 
+
+(a) Each person manufacturing aircraft engines under a type certificate only shall subject each engine (except rocket engines for which the manufacturer must establish a sampling technique) to an acceptable test run that includes the following: 
+
+(1) Break-in runs that include a determination of fuel and oil consumption and a determination of power characteristics at the maximum continuous rating and, if applicable, at the takeoff rating. 
+
+(2) At least five hours of operation at the maximum continuous rating. For engines having a takeoff rating higher than the maximum continuous rating, the five-hour run must include 30 minutes at the takeoff rating. 
+
+(b) The test runs required by paragraph (a) of this section may be made with the engine appropriately mounted and using current types of power and thrust measuring equipment. 
+
+Sec. 21.129 Tests: propellers. 
+
+Each person manufacturing propellers under a type certificate only shall give each variable pitch propeller an acceptable functional test to determine if it operates properly throughout the normal range of operation. 
+
+Sec. 21.130 Statement of conformity. 
+
+Each holder or licensee of a type certificate only shall, upon the initial transfer by him of the ownership of each product manufactured under that type certificate, or upon application for the original issue of an aircraft airworthiness certificate, give the Administrator a statement of conformity on FAA Form 317. This statement must be signed by an authorized person who holds a responsible position in the manufacturing organization, and must include-- 
+
+(a) For each aircraft, a statement that the aircraft has been flight checked; and 
+
+(b) For each aircraft engine or variable pitch propeller, a statement that the engine or propeller has been subjected by the manufacturer to a final operational check. 
+
+However, in the case of a product manufactured for an Armed Force of the United States, a statement of conformity is not required if the product has been accepted by that Armed Force. 
+
+Subpart G--Production Certificates 
+
+Sec. 21.131 Applicability. 
+
+This subpart prescribes procedural requirements for the issue of production certificates and rules governing the holders of those certificates. 
+
+Sec. 21.133 Eligibility. 
+
+(a) Any person may apply for a production certificate if he holds, for the product concerned, a-- 
+
+(1) Current type certificate; 
+
+(2) Right to the benefits of that type certificate under a licensing agreement; or 
+
+(3) Supplemental type certificate. 
+
+(b) Each application for a production certificate must be made in a form and manner prescribed by the Administrator. 
+
+Sec. 21.135 Requirements for issuance. 
+
+An applicant is entitled to a production certificate if the Administrator finds, after examination of the supporting data and after inspection of the organization and production facilities, that the applicant has complied with Secs. 21.139 and 21.143. 
+
+Sec. 21.137 Location of manufacturing facilities. 
+
+The Administrator does not issue a production certificate if the manufacturing facilities concerned are located outside the United States, unless the Administrator finds no undue burden on the United States in administering the applicable requirements of the Federal Aviation Act of 1958 or of the Federal Aviation Regulations. 
+
+Sec. 21.139 Quality control. 
+
+The applicant must show that he has established and can maintain a quality control system for any product, for which he requests a production certificate, so that each article will meet the design provisions of the pertinent type certificate. 
+
+Sec. 21.143 Quality control data, requirements; prime manufacturer. 
+
+(a) Each applicant must submit, for approval, data describing the inspection and test procedures necessary to ensure that each article produced conforms to the type design and is in a condition for safe operation, including as applicable-- 
+
+(1) A statement describing assigned responsibilities and delegated authority of the quality control organization, together with a chart indicating the functional relationship of the quality control organization to management and to other organizational components, and indicating the chain of authority and responsibility within the quality control organization; 
+
+(2) A description of inspection procedures for raw materials, purchased items, and parts and assemblies produced by subsidiary manufacturers, including methods used to ensure acceptable quality of parts and assemblies that cannot be completely inspected for conformity and quality when delivered to the prime manufacturer's plant; 
+
+(3) A description of the methods used for production inspection of individual parts and complete assemblies, including the identification of any special manufacturing processes involved, the means used to control the processes, the final test procedure for the complete product, and, in the case of aircraft, a copy of the manufacturer's production flight test procedures and checkoff list; 
+
+(4) An outline of the materials review system, including the procedure for recording review board decisions and disposing of rejected parts; 
+
+(5) An outline of a system for informing company inspectors of current changes in engineering drawings, specifications, and quality control procedures; and
+
+(6) A list or chart showing the location and type of inspection stations. 
+
+(b) Each prime manufacturer shall make available to the Administrator information regarding all delegation of authority to subsidiary manufacturers to make major inspections of parts or assemblies for which the prime manufacturer is responsible. 
+
+Sec. 21.147 Changes in quality control system. 
+
+After the issue of a production certificate, each change to the quality control system is subject to review by the Administrator. The holder of a production certificate shall immediately notify the Administrator, in writing, of any change that may affect the inspection, conformity, or airworthiness of the product. 
+
+Sec. 21.149 Multiple products. 
+
+The Administrator may authorize more than one type certificated product to be manufactured under the terms of one production certificate, if the products have similar production characteristics. 
+
+Sec. 21.151 Production limitation record. 
+
+A production limitation record is issued as part of a production certificate. The record lists the type certificate of every product that the applicant is authorized to manufacture under the terms of the production certificate. 
+
+Sec. 21.153 Amendment of the production certificates. 
+
+The holder of a production certificate desiring to amend it to add a type certificate or model, or both, must apply therefor in a form and manner prescribed by the Administrator. The applicant must comply with the applicable requirements of Secs. 21.139, 21.143, and 21.147. 
+
+Sec. 21.155 Transferability. 
+
+A production certificate is not transferable. 
+
+Sec. 21.157 Inspection and tests. 
+
+Each older of a production certificate shall allow the Administrator to make any inspections and tests necessary to determine compliance with the applicable regulations in this subchapter. 
+
+Sec. 21.159 Duration. 
+
+A production certificate is effective until surrendered, suspended, revoked, or a termination date is otherwise established by the Administrator, or the location of the manufacturing facility is changed. 
+
+Sec. 21.161 Display. 
+
+The holder of a production certificate shall display it prominently in the main office of the factory in which the product concerned is manufactured. 
+
+Sec. 21.163 Privileges. 
+
+The holder of a production certificate may-- 
+
+(a) Obtain an aircraft airworthiness certificate without further showing, except that the Administrator may inspect the aircraft for conformity with the type design; or 
+
+(b) In the case of other products, obtain approval for installation on certificated aircraft. 
+
+Sec. 21.165 Responsibility of holder. 
+
+The holder of a production certificate shall-- 
+
+(a) Maintain the quality control system in conformity with the data and procedures approved for the production certificate; and 
+
+(b) Determine that each completed product submitted for airworthiness certification or approval conforms to the type design and is in a condition for safe operation. 
+
+Subpart H--Airworthiness Certificates 
+
+Sec. 21.171 Applicability. 
+
+This subpart prescribes procedural requirements for the issue of airworthiness certificates. 
+
+Sec. 21.173 Eligibility. 
+
+Any United States citizen who is the registered owner of an aircraft (or the agent of the owner) may apply for an airworthiness certificate for that aircraft. An application for an airworthiness certificate must be made on an FAA Form 305 and submitted to the local FAA District office. 
+
+Sec. 21.175 Airworthiness certificates: classification. 
+
+(a) For aircraft type certificated in the limited or restricted category, a limited or restricted airworthiness certificate, as applicable is issued. 
+
+(b) For aircraft type certificated in the normal, utility, acrobatic, or transport category, a standard airworthiness certificate is issued. 
+
+(c) For aircraft meeting the requirements of Sec. 21.193, an experimental airworthiness certificate is issued. 
+
+Sec. 21.177 Amendment or modification. 
+
+An airworthiness certificate may be amended or modified only upon application to the Administrator. 
+
+Sec. 21.179 Transferability. 
+
+An airworthiness certificate is transferred with the aircraft. 
+
+Sec. 21.181 Duration. 
+
+(a) Unless sooner surrendered, suspended, revoked, or a termination date is otherwise established by the Administrator, an airworthiness certificate is effective as long as the maintenance requirements of Part 91 [New] of this chapter are complied with and the aircraft is registered in the United States. 
+
+(b) The owner, operator, or bailee of the aircraft shall upon request make it available for inspection by the Administrator. 
+
+(c) Upon suspension, revocation, or termination by order of the Administrator of an airworthiness certificate, the owner, operator, or bailee of an aircraft shall, upon request, surrender the certificate to the Administrator. 
+
+Sec. 21.183 Issue of airworthiness certificates for normal, utility, acrobatic, and transport category aircraft. 
+
+(a) Aircraft manufactured under a production certificate. An applicant for an original airworthiness certificate for an aircraft manufactured under a production certificate is entitled to an airworthiness certificate without further showing, except that the Administrator may inspect the aircraft for conformity to the type design. 
+
+(b) Aircraft manufactured under type certificate only. An applicant for an original airworthiness certificate for an aircraft manufactured, under a type certificate only, is entitled to an airworthiness certificate upon presentation of a statement of conformity for the aircraft issued by the manufacturer, and if the Administrator finds after inspection that the aircraft conforms to the type design and is in a condition for safe operation. 
+
+(c) Import aircraft. An applicant for an original airworthiness certificate for an import aircraft type certificated in accordance with Sec. 21.29 of this Part is entitled to an airworthiness certificate if the country in which the aircraft was manufactured certifies, or the Administrator finds, that the aircraft conforms to the type design and is in a condition for safe operation. 
+
+(d) Other aircraft. An applicant for an airworthiness certificate for an aircraft not covered by paragraphs (a) through (c) of this section is entitled to an airworthiness certificate if-- 
+
+(1) He presents evidence to the Administrator that the aircraft conforms to a type design approved under a type certificate or a supplemental type certificate and to applicable Airworthiness Directives; 
+
+(2) The aircraft (except an experimentally certificated aircraft that previously had been issued a different airworthiness certificate under this section) has been inspected and found airworthy-- 
+
+(i) By the manufacturer; 
+
+(ii) By an appropriately certificated domestic repair station; 
+
+(iii) By a certificated air carrier having adequate overhaul facilities and having a maintenance and inspection organization appropriate to the aircraft type; or 
+
+(iv) In the case of a single-engine airplane, by the holder of an inspection authorization issued under Part 65 [New] of this Chapter; and 
+
+(3) The Administrator finds after inspection, that the aircraft conforms to the type design, and is in a condition for safe operation. 
+
+Sec. 21.185 Issue of airworthiness certificates for restricted category aircraft. 
+
+(a) Aircraft manufactured under a production certificate or type certificate only. An applicant for the original issue of a restricted category airworthiness certificate for an aircraft type certificated in the restricted category, that was not previously type certificated in any other category, must comply with the appropriate provisions of Sec. 21.183. 
+
+(b) Other aircraft. An applicant for a restricted category airworthiness certificate for an aircraft type certificated in the restricted category, that was either a surplus aircraft of the Armed Forces or previously type certificated in another category, is entitled to an airworthiness certificate if the aircraft has been inspected by the Administrator and found by him to be in a good state of preservation and repair and in a condition for safe operation. 
+
+Sec. 21.187 Issue of multiple airworthiness certification. 
+
+(a) An applicant for an airworthiness certificate in the restricted category, and in one or more other categories, is entitled to the certificate, if-- 
+
+(1) He shows compliance with the requirements for each category, when the aircraft is in configuration for that category; and (2) He shows that the aircraft can be converted from one category to another by removing or adding equipment by simple mechanical means. 
+
+(b) The operator of an aircraft certificated under this section shall have the aircraft inspected by the Administrator, or by a certificated mechanic with an appropriate airframe rating, to determine airworthiness each time the aircraft is converted from the restricted category to another category for the carriage of passengers for compensation or hire, unless the Administrator finds this unnecessary for safety in a particular case. 
+
+Sec. 21.189 Issue of airworthiness certificates for limited category aircraft. 
+
+(a) An applicant for an airworthiness certificate for an aircraft in the limited category is entitled to the certificate when-- 
+
+(1) He shows that the aircraft has been previously issued a limited category type certificate and that the aircraft conforms to that type certificate; and 
+
+(2) The Administrator finds, after inspection (including a flight check by the applicant), that the aircraft is in a good state of preservation and repair and is in a condition for safe operation. 
+
+(b) The Administrator prescribes limitations and conditions necessary for safe operation. 
+
+(c) After June 30, 1965, no person may obtain an airworthiness certificate in the limited category unless he shows that the aircraft was previously issued an airworthiness certificate in the limited category. 
+
+Sec. 21.191 Experimental certificates. 
+
+Experimental certificates are issued for amateur-built aircraft and for aircraft that are to be used for experiment, for exhibition, for air racing, or to show compliance with the regulations in this subchapter for the issue of type and airworthiness certificates and related purposes. The Administrator prescribes limitations and conditions necessary for safe operation. 
+
+Sec. 21.193 Experimental certificates: general. 
+
+An applicant for an experimental certificate must submit the following information: 
+
+(a) A statement, in a form and manner prescribed by the Administrator setting forth the purpose for which the aircraft is to be used. 
+
+(b) Enough data (such as photographs) to identify the aircraft. 
+
+(c) Upon inspection of the aircraft, any pertinent information found necessary by the Administrator to safeguard the general public. 
+
+(d) In the case of an aircraft to be used for experimental purposes-- 
+
+(1) The purpose of the experiment; 
+
+(2) The estimated time or number of flights required for the experiment; 
+
+(3) The areas over which the experiment will be conducted; and 
+
+(4) Except for aircraft converted from a previously certificated type without appreciable change in the external configuration, three-view drawings or three-view dimensioned photographs of the aircraft. 
+
+Sec. 21.195 Experimental certificates: duration. 
+
+(a) Unless otherwise specified by the Administrator, an experimental certificate is effective for one year after the date of issue or renewal. 
+
+(b) The owner, operator, or bailee of the aircraft shall, upon request, make it available for inspection by the Administrator. 
+
+(c) Upon suspension, revocation, or termination by order of the Administrator of an experimental certificate, the owner, operator, or bailee of an aircraft shall, upon request, surrender the certificate to the Administrator. 
+
+Sec. 21.197 Special flight permits. 
+
+(a) Upon application by the registered aircraft owner or his agent, a special flight permit may be issued for an aircraft that may not currently meet applicable airworthiness requirements but is capable of safe flight, for the purpose of-- 
+
+(1) Flying the aircraft to a base where maintenance or alterations are to be performed; 
+
+(2) Delivering or exporting the aircraft; or 
+
+(3) Production flight testing new production aircraft. 
+
+(b) A special flight permit may also be issued to authorize the operation of an aircraft at a weight in excess of its maximum certificated takeoff weight for flight beyond the normal range over water, or over land areas where adequate landing facilities or appropriate fuel is not available. The excess weight that may be authorized under this paragraph is limited to the additional fuel, fuel-carrying facilities, and navigation equipment necessary for the flight. 
+
+Sec. 21.199 Issue of special flight permits. 
+
+(a) An applicant for a special flight permit must submit a statement, in a form and manner prescribed by the Administrator, indicating-- 
+
+(1) The purpose of the flight; 
+
+(2) The proposed itinerary; 
+
+(3) The duration of authorization requested; 
+
+(4) The number of occupants; 
+
+(5) The ways, if any, in which the aircraft does not comply with the applicable airworthiness requirements; and 
+
+(6) Any restrictions considered necessary for safe operation of the aircraft. 
+
+(b) The Administrator may make, or require the applicant to make appropriate inspections or tests necessary for safety. 
+
+Subpart I--Provisional Airworthiness Certificates 
+
+Sec. 21.211 Applicability. 
+
+This subpart prescribes procedural requirements for the issue of provisional airworthiness certificates. 
+
+Sec. 21.313 Eligibility. 
+
+(a) A manufacturer who is a United States citizen may apply for a Class I or Class II provisional airworthiness certificate for aircraft manufactured by him within the U.S. 
+
+(b) Any holder of an air carrier operating certificate under Parts _____, _____, _____, (present Parts 40, 41, 42) or Part 127 [New] of this chapter who is a United States citizen may apply for a Class II provisional airworthiness certificate for transport category aircraft that meet either of the following: 
+
+(1) The aircraft has a current Class II provisional type certificate or an amendment thereto. 
+
+(2) The aircraft has a current provisional amendment to a type certificate that was preceded by a corresponding Class II provisional type certificate. 
+
+(c) An aircraft engine manufacturer who is a United States citizen and who has altered a type certificated aircraft by installing different type certificated engines, manufactured by him within the United States, may apply for a Class I provisional airworthiness certificate for that aircraft, if the basic aircraft, before alteration, was type certificated in the normal, utility, acrobatic, or transport category. 
+
+Sec. 21.215 Application. 
+
+Applications for provisional airworthiness certificates must be submitted to the Chief, Engineering and Manufacturing Branch, Flight Standards Division, of the region in which FAA Regional Office for the area in which the manufacturer or air carrier is located (or, in the case of the Western Region, the Chief, Aircraft Engineering Division). The application must be accompanied by the pertinent information specified in this subpart. 
+
+Sec. 21.217 Duration. 
+
+Unless sooner surrendered, superseded, revoked, or otherwise terminated, provisional airworthiness certificates are effective for the duration of the corresponding provisional type certificate, amendment to a provisional type certificate, or provisional amendment to the type certificate. 
+
+Sec. 21.219 Transferability. 
+
+Class I provisional airworthiness certificates are not transferable. Class II provisional airworthiness certificates may be transferred to an air carrier eligible to apply for a certificate under Sec. 21.213(b). 
+
+Sec. 21.221 Class I provisional airworthiness certificates. 
+
+(a) Except as provided in Sec. 21.225, an applicant is entitled to a Class I provisional airworthiness certificate for an aircraft for which a Class I provisional type certificate has been issued if-- 
+
+(1) He meets the eligibility requirements of Sec. 21.213 and he complies with this section; and 
+
+(2) The Administrator finds that there is no feature, characteristic, or condition of the aircraft that would make the aircraft unsafe when operated in accordance with the limitations established in Secs. 21.81(e) and 91.41 of this subchapter. 
+
+(b) The manufacturer must hold a provisional type certificate for the aircraft. 
+
+(c) The manufacturer must submit a statement that the aircraft conforms to the type design corresponding to the provisional type certificate and has been found by him to be in safe operating condition under all applicable limitations. 
+
+(d) The aircraft must be flown at least five hours by the manufacturer. 
+
+(e) The aircraft must be supplied with a provisional aircraft flight manual or other document and appropriate placards containing the limitations established by Secs. 21.81(e) and 91.41. 
+
+Sec. 21.223 Class II provisional airworthiness certificates. 
+
+(a) Except as provided in Sec. 21.225, an applicant is entitled to a Class II provisional airworthiness certificate for an aircraft for which a Class II provisional type certificate has been issued if-- 
+
+(1) He meets the eligibility requirements of Sec. 21.213 and he complies with this section; and 
+
+(2) The Administrator finds that there is no feature, characteristic, or condition of the aircraft that would make the aircraft unsafe when operated in accordance with the limitations established in Secs. 21.83(g), 91.41, and _____ (present SR 425C Sec. 14) of this chapter. 
+
+(b) The applicant must show that a Class II provisional type certificate for the aircraft has been issued to the manufacturer. 
+
+(c) The applicant must submit a statement by the manufacturer that the aircraft has been manufactured under a quality control system adequate to ensure that the aircraft conforms to the type design corresponding with the provisional type certificate. 
+
+(d) The applicant must submit a statement that the aircraft has been found by him to be in a safe operating condition under the applicable limitations. 
+
+(e) The aircraft must be flown at least five hours by the manufacturer. 
+
+(f) The aircraft must be supplied with a provisional aircraft flight manual containing the limitations established by Secs. 21.83(g), 91.41, and _____ (present SR 425C Sec. 14) of this chapter. 
+
+Sec. 21.225 Provisional airworthiness certificates corresponding with provisional amendments to type certificates. 
+
+(a) An applicant is entitled to a Class I or a Class II provisional airworthiness certificate, for an aircraft, for which a provisional amendment to the type certificate has been issued, if-- 
+
+(1) He meets the eligibility requirements of Sec. 21.213 and he complies with this section; and 
+
+(2) The Administrator finds that there is no feature, characteristic, or condition of the aircraft, as modified in accordance with the provisionally amended type certificate, that would make the aircraft unsafe when operated in accordance with the applicable limitations established in Secs. 21.85(f), 91.41, and _____ (present SR 425C Sec. 14) of this chapter. 
+
+(b) The applicant must show that the modification was made under a quality control system adequate to ensure that the modification conforms to the provisionally amended type certificate.
+
+(c) The applicant must submit a statement that the aircraft has been found by him to be in a safe operating condition under the applicable limitations. 
+
+(d) The aircraft must be flown at least five hours by the manufacturer. 
+
+(e) The aircraft must be supplied with a provisional aircraft flight manual or other document and appropriate placards containing the limitations required by Secs. 21.85(f), 91.41, and _____ (present SR 425C Sec. 14) of this chapter. 
+
+Subpart J--Delegation Option Procedures for Certification of Small Airplanes and Gliders, Engines, and Propellers 
+
+Sec. 21.231 Applicability. 
+
+This subpart prescribes delegation option procedures for the type, production, and airworthiness certification of-- 
+
+(a) Small airplanes and small gliders; and 
+
+(b) Piston engines of less than 1,000 cubic inches piston displacement, and propellers manufactured for used on those engines. 
+
+Sec. 21.235 Application. 
+
+An application for a delegation option authorization must be submitted, in a form and manner prescribed by the Administrator, to the FAA Regional Office for the area in which the manufacturer is located. 
+
+Sec. 21.239 Eligibility. 
+
+To be eligible for a delegation option authorization the applicant must-- 
+
+(a) Hold a current type certificate for a product under the same part under which the delegation option authorization is sought; (b) Hold a current production certificate for a product issued under the standard procedures; 
+
+(c) Employ a competent staff of engineering, flight test, production, and inspection personnel adequate to maintain compliance with the applicable certification requirements of this Part; and 
+
+(d) Request the appointment of an individual by the Administrator as a DMCR in accordance with Sec. 21.241. 
+
+(e) Meet the requirements of this subpart. 
+
+Sec. 21.241 Designated manufacturer's certification representative (DMCR). 
+
+(a) A DMCR is a person who-- 
+
+(1) Holds a responsible position in a manufacturer's organization with respect to the design and manufacture of the pertinent product; and 
+
+(2) Upon request by the manufacturer, has been issued a certificate by the Administrator, and has been listed on the delegation option authorization issued to the manufacturer. 
+
+(b) The DMCR may be replaced by another eligible person upon request by the holder of the delegation option authorization and the listing of the replacing individual by the Administrator on the authorization. 
+
+Sec. 21.243 Duration. 
+
+A delegation option authorization is effective for one year unless suspended, canceled, or revoked by the Administrator. An authorization may be renewed upon application if the Administrator finds the record of the applicant to be satisfactory and that the requirements of Sec. 21.245 are met. The holder of the authorization shall request the FAA to cancel it if he no longer desires to use the delegation option procedure. 
+
+Sec. 21.245 Maintenance of eligibility. 
+
+The holder of a delegation option authorization must continue to meet the requirements for issue of the authorization. To be eligible for renewal of the authorization, the holder must have a record over the previous year that shows his competence, willingness, and ability to carry out the delegated responsibilities. 
+
+Sec. 21.247 Transferability. 
+
+A delegation option authorization is not transferable. 
+
+Sec. 21.249 Inspections. 
+
+Upon request, the applicant for a delegation option authorization or the holder of the authorization shall allow the Administrator to inspect his organization, facilities, product, and records. 
+
+Sec. 21.251 Limits of applicability. 
+
+(a) The delegation option procedures apply only to products that are manufactured by the holder of a delegation option authorization. 
+
+(b) Delegation option procedures may be used for the following purposes: 
+
+(1) Type certification. 
+
+(2) Changes in the type design of products for which the manufacturer holds or obtains a type certificate. 
+
+(3) The amendment of a production certificate held by the manufacturer, to include additional models or additional types for which he holds or obtains type certificates. 
+
+(4) The issue of airworthiness certificates for airplanes and gliders for which the manufacturer holds a type certificate and holds or is in the process of obtaining a production certificate. For this privilege to be continued, the production certificate must be obtained within six months from the date the type certificate is issued. 
+
+(c) Delegation option procedures may be applied to one or more types selected by the manufacturer, who must notify the FAA of each model, and the first serial number of each model manufactured by him under the delegation option procedures. Other types or models may remain under the standard procedures. 
+
+Sec. 21.253 Type certificates; application. 
+
+(a) Whenever a manufacturer desires to obtain a type certificate for a new type under the delegation option procedures, the DMCR must submit to the Administrator-- 
+
+(1) An application for a type certificate (FAA Form 312), together with a statement listing those airworthiness requirements of this chapter (by part number and effective date) that the DMCR considers applicable; 
+
+(2) A three-view drawing of the product; 
+
+(3) A description of the salient characteristics of the design; 
+
+(4) An outline of the method to be used to substantiate compliance; and 
+
+(5) An estimated time schedule of compliance with applicable requirements. 
+
+(b) After reviewing the application, the Administrator notifies the DMCR whether the Administrator finds that the requirements stated in accordance with paragraph (a)(1) of this section, or other specified requirements, are applicable. 
+
+Sec. 21.255 Type certificates; FAA verification of compliance with applicable requirements. 
+
+The Administrator verifies compliance with standards and rules for unconventional designs and design features having a substantially significant effect on safety, and determines whether there are any apparent unairworthy features. In addition, the Administrator may participate in test programs. 
+
+Sec. 21.257 Type certificate; issue. 
+
+(a) After determining that the applicable airworthiness requirements are met, the DMCR must request the Administrator to issue a type certificate. This request must be made in a form and manner, and must contain the information, prescribed by the Administrator. 
+
+(b) The proposed specification and, if required by the applicable airworthiness requirements, a copy of the airplane flight manual as approved by the DMCR, or if an airplane flight manual is not required, a summary of the required operating limitations, information, and performance, approved by the DMCR, must be sent with the request.
+
+(c) If the Administrator finds that the applicable regulations have been complied with, he issues a type certificate. 
+
+Sec. 21.259 Type certificate; type inspection. 
+
+In determining compliance with the applicable airworthiness requirements, the DMCR shall make a type inspection and complete a Type Inspection Report, using an acceptable form or format, that he must sign and include in the manufacturer's technical data file. 
+
+Sec. 21.261 Type certificate; FAA assistance. 
+
+The DMCR shall request the advice of the FAA on any interpretation that requires application of the equivalent safety provisions set forth in Sec. 21.21 or contained in the applicable airworthiness standards. FAA rulings will be confirmed in writing. 
+
+Sec. 21.263 Type certificate; change in type design. 
+
+(a) Under the delegation option procedures, the manufacturer may change the type design for which he holds a type certificate, when the DMCR finds that the changes conform to applicable airworthiness requirements. 
+
+(b) If the proposed changes would alter the information in the specification or airplane flight manual, the manufacturer must promptly submit proposed specification revisions or airplane flight manual revisions to the Administrator as follows: 
+
+(1) The DMCR must furnish a statement to the Administrator, briefly describing major changes to the type design and listing the particular airworthiness requirements of this chapter that he considers applicable. 
+
+(2) Upon receiving such a statement, the Administrator notifies the DMCR whether the Administrator finds that the stated requirements apply or that other specified requirements apply. 
+
+Sec. 21.265 Type certificate; technical data file. 
+
+(a) The manufacturer shall prepare and maintain a technical data file for each product type certificated under the delegation option procedure, in accordance with Sec. 21.293(a)(1)(i). 
+
+(b) The manufacturer shall grant authorized employees of the FAA access to this file at any time. 
+
+(c) If the manufacturer goes out of business or no longer operates under the delegation option procedures the file becomes the property of the FAA. 
+
+Sec. 21.267 Production certificates; application. 
+
+(a) When a manufacturer desires to list a new model or new type certificate on his production certificate, the DMCR for that manufacturer, after finding that the manufacturer meets the production certificate requirements of Subpart F of this part with respect to the new model or type, must submit a request therefor to the Administrator. This request must include the following: 
+
+(1) A Statement of Compliance containing the information prescribed by the Administrator. 
+
+(2) A completed Form FAA 332. 
+
+(b) Upon receipt of these documents the Administrator adds the new model designation, or type certificate number, or both, to the production certificate and sends the manufacturer an amended production limitation record. 
+
+Sec. 21.269 Production certificates; inspection. 
+
+(a) In determining whether the manufacturer meets the applicable production certificate requirements, the DMCR must, for each new model or type added to the production certificate under the delegation option procedures, inspect the manufacturer's organization, facilities, methods, and procedures for manufacturing and controlling the quality and conformity of the product. 
+
+(b) The DMCR shall notify the Administrator, in advance, of all inspections and allow him to participate if he considers it necessary. 
+
+(c) The DMCR shall complete and sign a Manufacturing Inspection Report (FAA Form 314) for inclusion in the manufacturer's records. 
+
+(d) At least once each year while the manufacturer holds a delegation option authorization, the DMCR shall inspect the manufacturer's facilities, methods, and procedures. The Administrator will participate as necessary. The DMCR shall report to the Administrator on each annual factory inspection on FAA Form 314. 
+
+Sec. 21.271 Production certification file and reports. 
+
+The manufacturer shall make and maintain a production certification file, and make reports covering changes in organization and procedures and special processes, as required by the production certificate requirements of Subpart F of this part. He shall include all reports and inspection records for each model produced under the delegation option procedures in his records, as specified in Sec. 21.293(a)(2). 
+
+Sec. 21.273 Airworthiness certificates. 
+
+(a) A DMCR may issue an airworthiness certificate, or a certificate of airworthiness for export, for an airplane or glider manufactured under the delegation option procedure if he finds, on the basis of the inspection and production flight check, that the aircraft conforms to a type design for which the manufacturer holds a type certificate and is in a condition for safe operation. 
+
+(b) The DMCR may authorize any other employee of the manufacturer to sign the airworthiness certificates for him, over his name and designee number if the authorized employee-- 
+
+(1) Performs, or is in direct charge of, the inspections specified in paragraph (a) of this section; and 
+
+(2) Has been listed on the manufacturer's application for the delegation option authorization, or on amendments thereto. 
+
+(c) A DMCR shall issue and attach an approval tag (FAA Form 186) to each new engine or propeller manufactured under the delegation option procedure if he finds, on the basis of the inspection and operational tests, that the engine or propeller conforms to a type design for which the manufacturer holds a type certificate and is in condition for safe operation. After a new model has been included on the Production Limitation Record, the DMCR shall make certain that the production certification number is stamped on the engine or propeller identification data plate in place of issuing an approval tag (FAA Form 186). 
+
+Sec. 21.277 Service difficulties. 
+
+(a) If an FAA investigation of an accident or service difficulty report indicates unsafe features or characteristics caused by defects in design or manufacture, the Administrator requests the manufacturer to report the results of his investigation, and also to report the action, if any, taken or proposed by him (such as service bulletins or design changes). If the nature of the defect is of such importance that mandatory corrective action by the user of the product is necessary for safety, the manufacturer shall submit to the Administrator the information necessary for the issue of an airworthiness directive. 
+
+(b) The manufacturer shall, upon the Administrator's request, allow him to inspect and test his product, and to investigate his technical data files and manufacturing facilities. 
+
+(c) The manufacture shall maintain a file of information on service difficulties received from all sources, and make that file available to the Administrator at all times.
+
+(d) If the Administrator finds that a serious safety hazard exists because of the manufacturer's failure to comply with any applicable requirement of this Part, he may take any action necessary to require correction of the defect in existing models and to ensure compliance in products produced thereafter. 
+
+Sec. 21.283 Revocation of delegation option authorization. 
+
+If the number or importance of established cases of noncompliance warrants, or if the manufacturer does not comply with the requirements of this subpart, the Administrator may request the manufacturer to show cause why his privileges under the delegation option procedures should not be withdrawn. These privileges may be withdrawn until the manufacturer re-establishes his eligibility to the satisfaction of the Administrator. 
+
+Sec. 21.285 Suspension and revocation of certificates. 
+
+Each action against a type or production certificate held by the manufacturer is processed in accordance with standard procedures. 
+
+Sec. 21.289 Approval of major repairs and alterations. 
+
+(a) Approval of major repairs and alterations performed by the manufacturer. For types included under the manufacturer's delegation option authorization, the DMCR may-- 
+
+(1) After finding that the major repair or alteration complies with the applicable requirements, approve the repair or alteration under Sec. 43.7; and 
+
+(2) Authorize any other employee of the manufacturer to execute and sign FAA Form 337 and make required logbook entries over his name and designee number, if the authorized employee-- 
+
+(i) Performs, or is in direct charge of, inspecting the repair or alteration; and 
+
+(ii) Has been listed on the manufacturer's application for the delegation option or on amendments thereto. 
+
+(b) Approval of major repairs and alterations performed by agencies other than the manufacturer. Anyone performing a major repair or alteration to a product certificated under the delegation option procedure must either-- 
+
+(1) Obtain the necessary technical data or advice from the manufacturer; or 
+
+(2) Conduct the technical investigations and tests necessary to demonstrate compliance with the applicable airworthiness requirements. 
+
+Sec. 21.293 Data and records. 
+
+(a) A manufacturer shall maintain at his factory, for all types certificated under the delegation option procedures, current records containing the following: 
+
+(1) For the duration of the manufacturing operation under the delegation option authorization-- 
+
+(i) A technical data file for each type that includes the type design drawings, specifications, reports on tests prescribed by this Part, and the original type inspection report (FAA Form 283) and amendments to that report; 
+
+(ii) The report (including amendments) required to be submitted with the original application for the production certificate; and (iii) A record of all major repairs and alterations performed under the delegation option procedures. 
+
+(2) For two years-- 
+
+(i) A complete inspection record for each type produced, by serial number, and data covering the processes and tests to which materials and parts are subjected; 
+
+(ii) The factory inspection reports specified in Sec. 21.269(c) and (d); and 
+
+(iii) A record of reported service difficulties. 
+
+(b) The records and data specified in paragraph (a) of this section must be-- 
+
+(1) Made available, upon the Administrator's request, for his examination at any time; and (2) Identified and sent to the Administrator, as soon as the manufacturer no longer operates under the delegation option procedures. 
+
+Subpart K--Approval of Materials, Parts, Processes, and Appliances 
+
+Sec. 21.301 Applicability. 
+
+This subpart prescribes procedural requirements for the approval of certain materials, parts, processes, and appliances. 
+
+Sec. 21.303 Replacement or modification parts. 
+
+(a) Except as provided in paragraph (b) of this section, no person may produce replacement or modification parts for sale for installation on a type certificated product unless he has complied with Secs. 21.21(b)(1), 21.33, 21.43, Subpart D (if applicable) and Sec. 45.15 of this chapter. 
+
+(b) This section does not apply to the following: 
+
+(1) Parts produced under a type or production certificate. 
+
+(2) Parts produced by an owner or operator for maintaining or altering his own product. 
+
+(3) Standard parts (such as bolts and nuts) conforming to established industry or United States specifications (e.g. SAE and military specifications and FAA Technical Standard Orders). 
+
+(c) Each person producing replacement or modification parts for sale shall establish (within six months from the date of initial production) and maintain a fabrication inspection system that ensures that each part conforms with the design data and is safe for installation on type certificated products and that includes at least the following, where applicable: 
+
+(1) Incoming materials used in the finished part must be as specified in the design data. 
+
+(2) Incoming material must be properly identified if their physical and chemical properties cannot otherwise be readily and accurately determined. 
+
+(3) Materials subject to damage and deterioration must be suitably stored and adequately protected. 
+
+(4) Processes affecting the quality and safety of the finished product must be accomplished in accordance with acceptable specifications. 
+
+(5) Parts in process must be inspected for conformity with the design data at points in production where accurate determination can be made. Statistical quality control procedures may be employed where it is shown that a satisfactory level of quality will be maintained for the particular part involved. 
+
+(6) Current design drawings must be readily available to manufacturing and inspection personnel, and used when necessary. 
+
+(7) Major changes to the basic design must be adequately controlled and approved before being incorporated in the finished part. 
+
+(8) Rejected materials and components must be segregated and identified in such a manner as to preclude their use in the finished part. 
+
+(9) Inspection records must be maintained, identified with the completed part, where practicable, and retained in the manufacturer's file for a period of at least two years after the part has been completed. 
+
+Sec. 21.305 Approval of materials, parts, processes, and appliances. 
+
+Whenever a material, part, process, or appliance is required to be approved under this chapter it may be approved--
+
+(a) Under a technical standard order issued under Part 37 [New] of this chapter; 
+
+(b) In conjunction with type certification procedures for a product; or 
+
+(c) In any other manner approved by the Administrator. 
+
+Sec. 21.307 Approval of materials, parts, and appliances: import. 
+
+(a) A material, part, or appliance manufactured in a foreign country is considered to meet the requirements for approval in the Federal Aviation Regulations when the country of manufacture certifies that the material, part, or appliance meets those requirements, unless the Administrator finds, based on the technical data submitted under paragraph (b) of this section, that the material, part, or appliance is otherwise not consistent with the intent of the applicable Federal Aviation Regulations. 
+
+(b) An applicant for approval of a material, part, or appliance must, upon request, submit to the Administrator any technical data respecting that material, part, or appliance. 
+
+Note: The recordkeeping and reporting requirements contained herein have been approved by the Bureau of the Budget in accordance with the Federal Reports Act of 1942. 
+
+PART 21--DISTRIBUTION TABLE 
+
+Part 21 - Distribution Table
+
+Former section Revised section 
+
+1.0 (except last clause) 21.1. 
+
+1.1 Transferred to Part 1 [New]. 
+
+1.2 21.31. 
+
+1.10 (1st sentence) 21.13. 
+
+1.10 (less 1st sentence) 21.15. 
+
+1.10-1 21.15 
+
+1.11 21.11. 
+
+1.11-1 Not a rule. 
+
+1.12 21.21, 21.23. 
+
+1.12-1 Not a rule. 
+
+1.12-2 Not a rule. 
+
+1.13 21.43. 
+
+1.14 21.47. 
+
+1.14-1 Not a rule. 
+
+1.15(a) 21.33. 
+
+1.15 (less (a)) 21.123. 
+
+1.15-1 Not a rule. 
+
+1.15-2 Not a rule. 
+
+1.15-3 Not a rule. 
+
+1.15-4 (less (d), (e), and (f)). 21.125. 
+
+1.15-4 (d) 21.127. 
+
+1.15-4 (e) 21.128. 
+
+1.15-4 (f) 21.129. 
+
+1.15-5 (less k)) 21.125. 
+
+1.15-5(k) Surplusage. 
+
+1.15-6 Not a rule. 
+
+1.16 21.51. 
+
+1.17 21.49. 
+
+1.18 21.45. 
+
+1.19(a) 21.130 
+
+1.19 (less (a)) 21.53 
+
+1.19-1 21.130. 
+
+1.20 21.91. 
+
+1.20-1 Not a rule. 
+
+1.21 21.99 
+
+1.22 21.95. 
+
+1.23 21.97. 
+
+1.24 (less 1st sentence of (a)) 21.99. 
+
+1.24(a) (1st sentence) Transferred. to Part 39 [New]. 
+
+1.25 21.113. 
+
+1.25-1 Not a rule. 
+
+1.26 21.115. 
+
+1.26-1 Not a rule. 
+
+1.27 21.117. 
+
+1.27-1 Not a rule. 
+
+1.27-2 Not a rule. 
+
+1.28 21.119. 
+
+1.28-1 Not a rule. 
+
+1.30 21.133. 
+
+1.30-1 Surplusage. 
+
+1.30-2 Not a rule. 
+
+1.31 21.133. 
+
+1.32 21.135. 
+
+1.32-1 Not a rule. 
+
+1.33 21.137. 
+
+1.33-1 21.137. 
+
+1.34 (1st sentence) 21.139. 
+
+1.34 (less 1st sentence) Surplusage.. 
+
+1.34-1 Not a rule. 
+
+1.34-2 Not a rule. 
+
+1.34-3 Not a rule. 
+
+1.35 21.163. 
+
+1.35-1 Not a rule. 
+
+1.36 21.143. 
+
+1.36-1 Not a rule. 
+
+1.36-2 Not a rule. 
+
+1.37 21.143. 
+
+1.37-1 Not a rule. 
+
+1.38 21.147. 
+
+1.38-1 Not a rule. 
+
+1.39 21.149. 
+
+1.39-1 Not a rule. 
+
+1.40 21.151. 
+
+1.40-1 Not a rule. 
+
+1.41 21.153. 
+
+1.41-1 Not a rule. 
+
+1.42 21.155. 
+
+1.42-1 Not a rule. 
+
+1.43 21.157. 
+
+1.43-1 Not a rule. 
+
+1.43-2 Not a rule. 
+
+1.44 21.159. 
+
+1.44-1 Not a rule. 
+
+1.45 21.161. 
+
+1.45-1 Not a rule. 
+
+1.46 21.165. 
+
+1.50 Part 45 [New]. 
+
+1.50-1 Part 45 [New]. 
+
+1.55 21.303. 
+
+1.55-1 Not a rule. 
+
+1.55-2 Not a rule. 
+
+1.55-3 21.303. 
+
+1.55-4 Not a rule. 
+
+1.60 21.173. 
+
+1.60-1 Not a rule. 
+
+1.60-2 21.173. 
+
+1.60-3 Not a rule. 
+
+1.60-4 Not a rule. 
+
+1.61 21.175. 
+
+1.61-1 21.175. 
+
+1.62 21.177. 
+
+1.62-1 Not a rule. 
+
+1.63 21.179. 
+
+1.64 21.181. 
+
+1.65 Transferred to Part 91 [New]. 
+
+1.65-1 Transferred to Part 91 [New]. 
+
+1.66 Surplusage. 
+
+1.67 21.183. 
+
+1.68 Surplusage. 
+
+1.69 21.185. 
+
+1.69-1 Not a rule. 
+
+1.70 21.187. 
+
+1.70-1 Not a rule. 
+
+1.71 (less 2d sentence) 21.189. 
+
+1.71 (2d sentence) Transferred to Part 91 [New]. 
+
+1.71-1 Not a rule. 
+
+1.72 21.189. 
+
+1.72-1 Not a rule. 
+
+1.73 21.191. 
+
+1.73-1 Not a rule. 
+
+1.74 (less (b)) 21.193. 
+
+1.74(b) 21.191. 
+
+1.74-1 21.193. 
+
+1.74-2 Not a rule. 
+
+1.74-3 Not a rule. 
+
+1.75 21.195. 
+
+1.75-1 Not a rule. 
+
+1.76 21.197. 
+
+1.77 21.199. 
+
+1.77-1(a) 21.197. 
+
+1.77-1 (less (a)) Not a rule. 
+
+1.77-2 Not a rule. 
+
+1.77-3 Not a rule. 
+
+1.77-4 Transferred to Part 91 [New]. 
+
+3.10 21.21. 
+
+3.11 (less (d) and (e)) 21.17. 
+
+3.11 (d) 21.101. 
+
+3.11(e) 21.19. 
+
+3.12 Surplusage. 
+
+3.13(a) 21.21. 
+
+3.13 (less (a)) 21.41. 
+
+3.14 (a) 21.21. 
+
+3.14 (less (a)) 21.31 
+
+3.15 21.33. 
+
+3.16 21.35. 
+
+3.16-1 Not a rule. 
+
+3.17 Not a rule. 
+
+3.18 (less note) Surplusage. 
+
+3.18 (note) 21.305 
+
+3.18-1 Surplusage. 
+
+3.18-2 Not a rule. 
+
+3.18-3 Not a rule. 
+
+3.18-4 Not a rule. 
+
+3.19 Not a rule. 
+
+3.62 21.37. 
+
+3.63 21.35. 
+
+3.64 21.35. 
+
+3.65 21.39. 
+
+4b.10 21.21. 
+
+4b.10-1 Not a rule. 
+
+4b.10-2 Not a rule. 
+
+4b.10-3 Not a rule. 
+
+4b.11 (less (d), (e), and (f)). 21.17. 
+
+4b.11 (d) and (f) 21.101. 
+
+4b.11(e) 21.19. 
+
+4b.12 Surplusage. 
+
+4b.13(a) 21.21. 
+
+4b.13 (less (a)) 21.41. 
+
+4b.14 (a) 21.21. 
+
+4b.14 (less (a)) 21.31. 
+
+4b.15 21.33. 
+
+4b.16 21.35. 
+
+4b.16-1 (1st sentence) 21.35. 
+
+4b.16-1 (less 1st sentence) Not a rule. 
+
+4b.16-2 Not a rule. 
+
+4b.16-3 Not a rule. 
+
+4b.16-4 Not a rule. 
+
+4b.17 Not a rule. 
+
+4b.18 (less note) 21.305. 
+
+4b.18-1 Surplusage. 
+
+4b.18-2 Not a rule. 
+
+4b.18-3 Not a rule. 
+
+4b.18-4 Not a rule. 
+
+4b.19 Not a rule. 
+
+4b.100 (less (d) - (g)) Part 25 [New]. 
+
+4b.100(d) 21.37. 
+
+4b.100 (e) and (f) 21.356. 
+
+4b.100(g) 21.39. 
+
+5.0 Surplusage. 
+
+5.1 Transferred to Part 1 [New] or omitted as surplusage. 
+
+5.10 21.23. 
+
+5.11 (less (d) and (e)) 21.17. 
+
+5.11(d) 21.101. 
+
+5.11(e) 21.19. 
+
+5.12 Surplusage. 
+
+5.13(a) 21.23. 
+
+5.13 (less (a)) 21.41. 
+
+5.14 (a) 21.23. 
+
+5.15 21.33. 
+
+5.16 21.35. 
+
+5.17 Not a rule. 
+
+5.18 (less note) Surplusage. 
+
+5.18 (note) 21.305. 
+
+5.19 Not a rule. 
+
+6.10 21.21. 
+
+6.11 (less (d) and (e)) 21.17. 
+
+6.11(d) 21.101. 
+
+6.11(e) 21.19. 
+
+6.12 Surplusage. 
+
+6.13(a) 21.21. 
+
+6.13 (less (a)) 21.41. 
+
+6.14 (a) 21.21. 
+
+6.14 (less (a) 21.31. 
+
+6.15 21.33. 
+
+6.16 21.35. 
+
+6.17 Not a rule. 
+
+6.18 (less note) Surplusage. 
+
+6.18 (note) 21.305. 
+
+6.18-1 Surplusage. 
+
+6.18-2 Not a rule. 
+
+6.18-3 Not a rule. 
+
+6.19 Not a rule. 
+
+6.100 (less (d) - (g)) Part 27 [New]. 
+
+6.100 (d) 21.37. 
+
+6.100 (e) and (f) 21.35. 
+
+6.100(g) 21.39. 
+
+7.10 21.21. 
+
+7.11 (less (d) and (e)) 21.15. 
+
+7.11(d) 21.101. 
+
+7.11(e) 21.19. 
+
+7.12 Surplusage. 
+
+7.13 (a) 21.21. 
+
+7.13 (less (a)) 21.41. 
+
+7.14 (a) 21.21. 
+
+7.14 (less (a)) 21.31. 
+
+7.15 21.33. 
+
+7.16 21.35. 
+
+7.17 Not a rule. 
+
+7.18 (less note) Surplusage. 
+
+7.18 (note) 21.305. 
+
+7.19 Not a rule. 
+
+7.100 (less (d) - (g)) Part 29 [New]. 
+
+7.100(d) 21.37. 
+
+7.100(e) and (f) 21.35. 
+
+7.100(g) 21.39. 
+
+8.0 Surplusage. 
+
+8.0-1(b) 21.25. 
+
+8.0-1 (less (b)) Not a rule. 
+
+8.0-2 Not a rule. 
+
+8.0-3 Not a rule. 
+
+8.1 Transferred to Part 1 [New] or omitted as surplusage. 
+
+8.1-1 Not a rule. 
+
+8.10 21.25. 
+
+8.10-1 Not a rule. 
+
+Former section Revised section 
+
+8.10-2 Not a rule. 
+
+8.10-3 Not a rule. 
+
+8.10-4 Not a rule. 
+
+8.10-5 Not a rule. 
+
+8.20 21.185. 
+
+8.20-1 Not a rule. 
+
+8.20-2 Not a rule. 
+
+8.20-3 Not a rule. 
+
+8.21 21.187. 
+
+8.21-1 Not a rule. 
+
+8.30 Surplusage. 
+
+8.30-1 Surplusage. 
+
+8.34 Surplusage. 
+
+8.34-1 Not a rule. 
+
+9.1 Surplusage. 
+
+9.2 Surplusage. 
+
+9.3 21.189. 
+
+Part 9a 21.27. 
+
+10.0 Surplusage. 
+
+10.1 Transferred to Part 1 [New] or omitted as surplusage. 
+
+10.10 21.29. 
+
+10.11 21.29. 
+
+10.12 21.29. 
+
+10.20 Surplusage. 
+
+10.21 (less (b) and note) Surplusage. 
+
+10.21 (note) 21.305. 
+
+10.21 (b) 21.307. 
+
+10.30 Part 45 [New]. 
+
+10.31. 21.29, 21.307. 
+
+13.10 21.21. 
+
+13.11 (less (d) and (e)) 21.17 
+
+13.11(d) 21.101. 
+
+13.11(e) 21.19. 
+
+13.12 Surplusage. 
+
+13.13(a) 21.21. 
+
+13.13 (less (a)) 21.41. 
+
+13.14 (a) 21.21. 
+
+13.14 (less (a)) 21.31 
+
+13.15 21.33. 
+
+13.16 Part 33 [New]. 
+
+13.17 Not a rule. 
+
+13.18 (less note) Surplusage. 
+
+13.18 (note) 21.305. 
+
+13.18-1 Not a rule. 
+
+13.19 Not a rule. 
+
+13.20 Part 45 [New]. 
+
+13.21 Part 33 [New]. 
+
+14.10 21.21. 
+
+14.11 (less (d) and (e)) 21.17. 
+
+14.11(e) 21.19. 
+
+14.11(d) 21.101. 
+
+14.12 Surplusage. 
+
+14.13 (a) 21.21 
+
+14.13 (less (a)) 21.41. 
+
+14.14 (a) 21.21. 
+
+14.14 (less (a)) 21.31. 
+
+14.14-1 Not a rule. 
+
+14.14-2 Not a rule. 
+
+14.15 21.33. 
+
+14.16 Transferred to Part 35 [New]. 
+
+14.16-1 Not a rule. 
+
+14.16-2 Not a rule. 
+
+14.16-3 Not a rule. 
+
+14.17 Not a rule. 
+
+14.18 (less note) Surplusage. 
+
+14.18 (note) 21.305. 
+
+14.19 Not a rule. 
+
+14.21 Part 35 [New]. 
+
+410.1 Transferred to Part 1 [New] or omitted as surplusage. 
+
+410.2 21.231. 
+
+410.11 21.235. 
+
+410.12 Surplusage. 
+
+410.13 21.239. 
+
+410.14 21.241. 
+
+410.15 21.243. 
+
+410.16 21.245. 
+
+410.17 21.247. 
+
+410.18 21.249. 
+
+410.31 21.251. 
+
+410.32(a)(1) 21.253. 
+
+410.32(a)(2) 21.255. 
+
+410.32(a)(3) 21.257. 
+
+410.32(b) 21.263. 
+
+410.32(c) 21.259. 
+
+410.32(d) 21.261. 
+
+410.32 (less (a), (b), (c), and (d)). 21.265. 
+
+410.33(a) 21.267. 
+
+410.33(b) and (c) 21.269. 
+
+410.33 (less (a), b), and (c)). 21.271. 
+
+410.34 21.273. 
+
+410.35 21.273. 
+
+410.36 (less (f) and (g)) 21.277. 
+
+410.36(f) 21.283. 
+
+410.36(g) 21.285. 
+
+410.37 21.289 
+
+410.38 21.293. 
+
+SR 422 (less 4T.110-123, 4T743, and 40T.80-84). Surplusage. 
+
+SR 422A (less 4T.110-123, 4T.743, and 40T.80-84). Surplusage. 
+
+SR 422B (less 4T.110-123, 4T.743, and 40T.80-84). Surplusage. 
+
+SR 425C.1 21.71 and 21.211. 
+
+SR 425C.2 (less (b)) 21.73 and 21.213. 
+
+SR 425C.2(b) 21.213. 
+
+SR 425C.3 21.75 and 21.215. 
+
+SR 425C.4 (less (f)) 21.77. 
+
+SR 425C.4 (1st sentence and (f)) 21.217. 
+
+SR 425C.5 21.79 and 21.219. 
+
+SR 425C.6 Part 45 [New]. 
+
+SR 425C.7 21.81. 
+
+SR 425C.8 21.221. 
+
+SR 425C.9 21.83. 
+
+SR 425C.10 21.223. 
+
+SR 425C.11 21.85. 
+
+SR 425C.12 21.225. 
+
+SR 425C.16 Surplusage. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on October 14, 1964.
+
+N. E. Halaby,
+
+Administrator.
+
+[FR Doc. 64-10726; Filed 10-23-64; 8:45 am]
+
+
+
+ 
+        
+NPRM ACTIONS: 
+
+Proposed Recodification; Notice No. 61-25; Issued on 11/8/61.
+
+Notice of proposed rulemaking; Notice No. 64-7; Issued on 2/5/64.
+
+Notice of proposed rulemaking; Notice No. 64-31; Issued on 5/20/64.
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+Not Applicable.

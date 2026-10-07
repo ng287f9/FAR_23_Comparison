@@ -1,0 +1,122 @@
+FINAL RULES: 23-3
+
+ 
+ 
+        
+CITATION: [Federal Register: November 13, 1965 (Volume 30, Number 220)]
+
+ 
+        
+PAGE NUMBER: [Page 14239]
+
+ 
+        
+DOCKET NUMBER: 7012
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: One-Engine-Inoperative Stalls
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of this amendment to Part 23 of the Federal Aviation Regulations is to provide more realistic stall characteristic requirements for multiengine airplanes.
+
+ 
+        
+DATES: EFFECTIVE DATE: November 11, 1965.
+
+ 
+        
+EFFECTIVE DATE: 1965-11-11
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: Prior to May 3, 1962, Sec. 3.123 (now Sec. 23.205 of the FAR's) of the Civil Air Regulations concerning one-engine-inoperative stalls required, in pertinent part, that multiengine airplanes not display any undue spinning tendency and be safely recoverable without applying power to the inoperative engine when stalled with the critical engine inoperative and the remaining engine operating at up to 75 percent of maximum continuous power. In showing compliance with the regulation, power could be reduced on the operating engines sufficiently to permit lateral and directional control to be maintained throughout the approach to and during the stall. However, with the advent of the light twin-engine airplane in large numbers, the Agency considered it appropriate to reexamine these one-engine-inoperative stall requirements. In this connection, Amendment 3-7 was adopted effective May 3, 1962, requiring that multiengine airplanes have stall characteristics that prevent unintentional spin entry and that this be shown by a flight demonstration of lateral and directional control in the stall with the critical engine inoperative and the remaining engines at full throttle or maximum continuous power.
+
+ Subsequent to the issuance of Amendment 3-7, the industry advised the Agency to the effect that the current requirements were unrealistic and tended to penalize the more efficient airplanes. It was reported that the levels of lateral control and rudder power which are required to meet the requirements of the regulation are in conflict with the other control requirements set forth in the regulations. Moreover, industry pointed out that providing the additional flight control power which is required to control an aircraft down to the stall with one engine inoperative does not preclude the possibility of unintentional spins. On the basis of the foregoing, the Agency was requested to amend the regulation by incorporating the requirements that were in effect immediately prior to May 3, 1962, and to provide a system for marking the airspeed indicator of all twin-engine airplanes to indicate safe limits of, and optimum performance, single-engine speeds. In this connection, it was recommended that a cautionary range of safe single-engine speeds be marked by the minimum control speed, VMC, on the lower end and the best single-engine angle-of-climb speed, VX, on the upper end.
+
+ Based on industry's experience in attempting to comply with the current requirements of Sec. 23.205 and after further flight tests and studies, the agency agrees that the requirements of Sec. 23.205 should be revised. It has become apparent that the tests prescribed in Sec. 23.205 result in a combination stall and directional controllability test rather than a one-engine-inoperative stall test. Moreover, the stall requirements are not appropriate for airplanes which have a higher minimum control speed (VMC) than stall speed. As indicated in the minimum control speed requirements set forth in Sec. 23.149, the airplane is not required to be capable of maintaining directional control below 1.2 with maximum power, and the other provisions of Part 23 do not envision continued flight investigation below the VMC speed. The flight demonstration specified in Sec. 23.205 would, therefore, require flight investigation outside of the airplane flight envelope as defined by Sec. 23.149. In addition, manufacturers have indicated the difficulty, if not impossibility, of designing an airplane that will meet the requirements of Sec. 23.205.
+
+ In view of the foregoing, Sec. 23.205 is amended to incorporate substantially the same requirements for one-engine-inoperative stalls as were in effect immediately prior to May 3, 1962. As amended, Sec. 23.205 will specify only that a multiengine airplane must not display any undue spinning tendency and that it be safely recoverable without applying power under certain stall conditions. Since the regulation will no longer require that the airplane be designed to prevent unintentional spin entry and will no longer require a critical engine inoperative demonstration of lateral and directional control at the stall with the remaining engines at full throttle or maximum continuous power, the Agency believes that the limits of safe single-engine speed should be brought to the attention of the pilots by means of airspeed indicator markings. Moreover, the Agency considers that in view of this amendment, the airplane flight manual must contain procedures (1) for maintaining and recovering control of the airplane with one engine inoperative at speeds above and below VMC, (2) for making a landing and a go-around with one engine inoperative, and (3) for obtaining the best performance with one engine inoperative.
+
+ While the industry recommended that the best angle-of-climb speed (VX) should be included in the marking of the airspeed indicator, the Agency considers that the markings must include the best rate-of-climb speed (VY). VX would be the optimum speed for clearing nearby obstacles under those conditions when the airplane has positive climb. However, VY is considered the key performance speed since it is the speed at which the airplane will be able to maintain the highest possible altitude with one engine inoperative. Therefore, Sec. 23.1545(b) has been amended to require that the airspeed indicator be marked to show the one-engine-inoperative best rate-of-climb speed, VY, as a blue radial line and the minimum control speed (one engine inoperative), VMC, as a red radial line. Corresponding airspeed information heretofore required on airspeed placards by Sec. 23.1563 (a)(3) and (b)(3) is no longer necessary and these sections are deleted.
+
+ The Agency believes that these amendments, together with the present provisions of Sec. 23.149 requiring one-engine-inoperative controllability with takeoff power down to the minimum control speed, VMC, will provide an adequate level of safety for multiengine airplanes.
+
+ In view of the immediate need for an effective regulation concerning one-engine-inoperative stalls, further delay in adopting these amendments would be contrary to the public interest. Therefore, good cause exists for making these amendments effective without compliance with the notice, public procedure, and effective date provisions of the Administrative Procedure Act.
+
+ These amendments are made under the authority of sections 313(a), 601, and 603 of the Federal Aviation Act of 1958 (49 U.S.C. 1354, 1421, 1423).
+
+ 
+
+ 
+        
+REGULATORY TEXT: In consideration of the foregoing, Part 23 of the Federal Aviation Regulations (14 CFR Part 23) is amended effective November 11, 1965, as follows:
+
+ 1. Section 23.205 is amended to read as follows:
+
+Sec. 23.205 One-engine-inoperative stalls.
+
+ A multiengine airplane must not display any undue spinning tendency and must be safely recoverable without applying power to the inoperative engine when stalled with--
+
+ (a) The critical engine inoperative;
+
+ (b) Flaps and landing gear retracted; and
+
+ (c) The remaining engines operating at up to 75 percent of maximum continuous power, except that the power need not be greater than that at which the use of maximum control travel just holds the wings laterally level in approaching the stall. The operating engines may be throttled back during the recovery from the stall.
+
+ 2. Section 23.1545(b) is amended by adding a new subparagraph (5) reading as follows:
+
+ (5) For the one-engine-inoperative best rate-of-climb speed, VY, a blue radial line and for the minimum control speed (one engine inoperative), VMC, a red radial line.
+
+ 3. Section 23.1563 is amended by deleting present paragraphs (a)(3) and (b)(3), by adding the word "and" after the semicolon at the end of paragraphs (a)(2) and (b)(2), and redesignating present paragraphs (a)(4) and (b)(4) as (a)(3) and (b)(3).
+
+ 4. Section 23.1585 is amended by adding a new paragraph (c) reading as follows:
+
+ (c) For multiengine airplanes, the information must include:
+
+ (1) Procedures for maintaining or recovering control of the airplane with one engine inoperative at speeds above and below VMC.
+
+ (2) Procedures for making a landing with one engine inoperative and procedures for making a go-around with one engine inoperative, if this latter maneuver can be performed safely; otherwise, a warning against attempting the maneuver.
+
+ (3) Procedures for obtaining the best performance with one engine inoperative, including the effects of the airplane configuration.
+
+ 
+
+ 
+        
+FOOTER: Issued in Washington, DC, on November 4, 1965.
+
+William F. McKee,
+
+Administrator.
+
+[FR Doc. 65-12157 Filed 11-12-65; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: Not Applicable.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

@@ -1,0 +1,94 @@
+Start Preamble
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AGENCY:
+
+ Federal Aviation Administration (FAA), U.S. Department of Transportation (DOT).
+
+ 
+ 
+ ACTION:
+
+ Final rule; correction.
+
+ 
+ 
+ SUMMARY:
+
+ On December 9, 2022, the FAA published a final rule titled “Miscellaneous Amendments”. That document made technical amendments to various parts of the FAA's regulations, and inadvertently identified the Amendment Nos. for certain parts of the CFR as 25-146, 33-1, 47-32, 73-1, and 101-9. The correct Amendment Nos. are 25-148, 33-35, 47-34, 73-9, and 101-11. This document makes those corrections.
+
+ 
+ 
+ DATES:
+
+ Effective January 18, 2023.
+
+ 
+ Start Further Info
+ FOR FURTHER INFORMATION CONTACT:
+
+ 
+ Jesse Holston, Office of Rulemaking, ARM-200, Federal Aviation Administration, 800 Independence Ave. SW, Washington, DC 20591; telephone (202) 267-0810; email 
+ jesse.c.holston@faa.gov.
+
+ End Further Info
+ End Preamble
+ Start Supplemental Information
+ SUPPLEMENTARY INFORMATION:
+
+ Electronic Access and Filing
+
+ 
+ A copy of the Miscellaneous Amendments final rule may be viewed online at 
+ https://www.regulations.gov
+ using the docket number listed above. A copy of this correction will be placed in the same docket. Electronic retrieval help and guidelines are available on the website. It is available 24 hours each day, 365 days each year. An electronic copy of this document may also be downloaded from the Office of the Federal Register's website at 
+ https://www.federalregister.gov
+ and the Government Publishing Office's website at 
+ https://www.govinfo.gov.
+ A copy may also be found at the FAA's Regulations and Policies website at 
+ https://www.faa.gov/​regulations_​policies.
+
+ Copies may also be obtained by sending a request to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue SW, Washington, DC 20591, or by calling (202) 267-9677. Commenters must identify the docket or notice number of this rulemaking.
+
+ All documents the FAA considered in developing this correction, including economic analyses and technical reports, may be accessed in the electronic docket for this rulemaking.
+
+ Background
+
+ 
+ On December 9, 2022, the Miscellaneous Amendments final rule (RIN 2120-AL53) published in the 
+ Federal Register
+ at 87 FR 75704. After publication, the FAA discovered that it inadvertently identified the Amendment Nos. for parts 25, 33, 47, 73, and 101 as 25-146, 33-1, 47-32, 73-1, and 101-9. The correct Amendment Nos. are 25-148, 33-35, 47-34, 73-9, and 101-11. This document makes those corrections.
+ 
+
+ Correction
+
+ 
+ In FR Doc. 2022-23327, beginning on page 75704, in the 
+ Federal Register
+ of December 9, 2022, make the following correction in the header of the document. On page 75704, in the first column, in the header of the document, the listing of docket number and amendment nos. is corrected to read as follows:
+ 
+
+ [Docket No. FAA-2022-1355; Amdt. Nos. 21-106, 23-65, 25-148, 29-58, 33-35, 36-32, 47-34, 49-11, 60-7, 61-151, 67-22, 73-9, 91-366, 97-1339, 101-11, 107-10, 121-387, 125-72, 129-54, 135-143, 141-24, 183-18, 440-6]
+
+ Start Signature
+ Issued under authority provided by 49 U.S.C. 106(f), 44701(a), and 44703 in Washington, DC, on 3 January, 2023.
+
+ Brandon Roberts,
+
+ Executive Director, Office of Rulemaking.
+
+ 
+
+End Signature
+ End Supplemental Information
+ 
+ 
+ 
+[FR Doc. 2023-00139 Filed 1-17-23; 8:45 am]
+
+BILLING CODE 4910-13-P

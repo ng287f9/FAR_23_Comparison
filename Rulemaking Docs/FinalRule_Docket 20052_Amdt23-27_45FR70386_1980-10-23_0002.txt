@@ -1,0 +1,198 @@
+FINAL RULES: 23-27
+
+ 
+ 
+        
+CITATION: [Federal Register: October 23, 1980 (Volume 45, Number 207)]
+
+ 
+        
+PAGE NUMBER: [Page 70386]
+
+ 
+        
+DOCKET NUMBER: 20052
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Combustion Heater Fire Protection
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of this amendment is to upgrade the type certification standards for combustion heater installations in small airplanes. The amendment, incorporating recommendations of the National Transportation Safety Board, improves safety standards applicable to combustion heaters used in the operating environment by newer high-performance small airplanes. This amendment adopts a rule substantially the same as currently applicable to transport category airplanes.
+
+ 
+        
+DATES: EFFECTIVE DATE: November 19, 1980.
+
+ 
+        
+EFFECTIVE DATE: 1980-11-19
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Mr. Eli S. Newberger, Regulatory Projects Branch, AVS-24, Safety Regulations Staff, Associate Administrator for Aviation Standards, Federal Aviation Administration, 800 Independence Avenue, S.W., Washington, D.C. 20591; Telephone (202) 755-8716.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+BACKGROUND
+
+ Airplane combustion heaters require four elements for operation: Fuel, ignition, combustion air, and ventilating air. Combustion air provides the oxygen required to support the flame in the heater burner and ventilating air is used to convey the heat to airplane areas where needed. Fuel, exhaust air, combustion air, and ventilating air present special design problems in connection with hazardous conditions resulting from leaks, breakage, and fire in supply ducts and lines in the vicinity of the heater.
+
+ As a result of the favorable strength-weight properties of plastic materials, many normal category airplanes are equipped with various combustion heater components made of plastic, such as inlet hoses, inlet plenums, and foam insulation material. However, the National Transportation Safety Board (NTSB) has determined that certain of these plastic components may emit poisonous or noxious fumes when heated which could enter the cabin through the heating and ventilating system and have adverse safety effects on the airplane occupants. As a result, the NTSB recommends that the type certification standards applicable to Part 23 airplanes be amended by adding a requirement that the ventilating airstream be protected from backfiring and reverse burning and that combustion and ventilating air ducts in close proximity to a combustion heater be constructed of fireproof materials. The NTSB has not recommended that any of the new requirements be made retroactive to currently operating small airplanes.
+
+ The FAA agrees with the analysis provided by the NTSB and the corresponding recommendations. The FAA's further review indicates that the entire Part 23 combustion heater fire protection requirement should be upgraded.
+
+ Combustion heaters are not required items of airplane equipment. However, when installed, such heaters must meet specified fire protection requirements. Section 23.859 is essentially a recodification of Civil Air Regulation Section 3.388(b). The standard, which has been in effect for many years, was developed at a time when combustion heaters were not extensively used in normal category airplanes and the airplanes themselves, generally single-engine, were limited as to the kinds of weather and altitudes at which they could be operated. As Part 23 airplanes become more sophisticated with two engines and capability for operators into virtually all kinds of weather and at high altitudes, the use of combustion heaters becomes more prevalent. In this connection, it is to be noted that combustion heaters are not normally installed in single-engine airplanes which use manifold heaters or in turbine-powered airplanes where high temperature bleed air is available.
+
+ The design complexity and operational altitude and weather capability of current Part 23 piston-powered airplanes may necessitate installation of combustion heaters for occupant survival and airplane heating to counteract windshield icing conditions. Part 25 presently contains updated type certification requirements for combustion heater fire protection that are applicable regardless of the size of airplane in which the heater is installed. Among these requirements are those for fireproof air ducts and protection of the ventilating airstream from backfire and reverse burning, as recommended by the NTSB for inclusion in Part 23. In addition, Part 25 designates fire zones, requires fire detection means, contains heater control requirements, sets forth air intake location standards, gives heater exhaust requirements, and provides for fuel system protection and drainage. These requirements constitute the necessary minimum safety standards for combustion heater fire protection for any high-performance airplane.
+
+ Because of the increasing sophistication of normal category small airplanes and the expanded operating environment for which they are designed and used, the FAA has determined that more stringent type certification fire protection and detection standards are needed for combustion heaters when such heaters are installed in these airplanes. In view of the technical similarities between these airplanes and airplanes designed to Part 25 standards, the Part 25 standards for combustion heater fire protection are substantially adopted as type certification requirements for Part 23.
+
+ With the issuance of this amendment, the FAA has responded affirmatively to all the NTSB recommendations concerning combustion heater fire protection for Part 23 airplanes. One of those recommendations was that the FAA issue a maintenance bulletin emphasizing the importance of inspections of the heater combustion air inlet hose and plastic ventilating air inlet plenum. A bulletin with this information appears in the General Aviation Inspection Aids Summary, AC No. 20-7P, issue dated August 1977.
+
+ In addition to the recommendations of the NTSB, the FAA considered the service experience of operators in determining applicability of this amendment. Records of this experience, available to the FAA through its Service Difficulty Reporting Program, show that only four instances of combustion heater malfunction causing smoke or fumes in small airplane cabins were reported by operators in the period June 1, 1974, to January 10,1980. In these cases, none of which involved accidents, the problems were attributed to material defects or lack of maintenance and not to combustion or overheating of plastic components.
+
+ Based on the foregoing considerations, this amendment applies only to future Part 23 airplanes produced under new type certificates that will incorporate the rule as part of the individual type certification bases. In the current picture, in view of the inspection guidance that has been issued and the reported service experience, safety considerations do not indicate a need to apply the new standard to airplanes in production under existing type certificates or retroactively to operating airplanes. It is to be noted, however, that manufacturers may elect to incorporate the new standard into current production airplanes by obtaining approval of changes to existing type certificates under the procedures set forth in Part 21, Subparts D and E, of the Federal Aviation Regulations.
+
+ This amendment is part of the FAA's ongoing regulatory program to upgrade type certification standards as necessary in the interest of safety to make them consistent with the state-of-the-art of aircraft design. The rule is fully compliant with the President's directive (Executive Order 12044) that existing regulations be evaluated after their issuance under criteria that consider the degree to which technology, economic conditions, or other factors have changed in the area affected by the regulation.
+
+ This amendment is based on Notice of Proposed Rule Making No. 80-3 as published in the Federal Register (45 FR 13106) on February 28, 1980. Interested persons have been afforded an opportunity to participate in the making of this amendment and due consideration has been given to all matter presented. Except for the changes discussed below, this amendment and the reasons for its adoption are the same as those contained in Notice No. 80-3. Non-substantive editorial and clarifying changes have been made based upon relevant comments received and upon further review by FAA.
+
+ DISCUSSION OF COMMENTS
+
+ Five individual sets of public comments were submitted in response to Notice of Proposed Rule Making No. 80-3. Two commenters are in substantial agreement with the proposed rule change while two others question any need for a change. The fifth commenter merely suggests that the rule be made retroactive, without giving any justification.
+
+ The NTSB supports the proposed rule change and recommends that Part 25 standards be substantially adopted for Part 23 airplanes. The FAA agrees.
+
+ Another commenter that is in substantial agreement with the proposal points out that the current requirements in Section 25.859 were developed in response to early service experience with combustion heating equipment and have been found to be necessary and adequate. They are validated by numerous successful applications and represent today's state-of-the-art for combustion heater safety. The FAA agrees that the evaluation of Section 25.859 (and the earlier similar CAR 4b.386 from which Section 25.859 was recodified) was based on service experience
+
+over the years and, as pointed out in Notice 80-3, similar requirements are needed for Part 23 airplanes. This commenter points out, however, that the second sentence of proposed Section 23.859(a)(3) is redundant because fire extinguishment is not required in Part 23 airplanes. The FAA agrees and that sentence is deleted.
+
+ The arguments raised by the two remaining commenters are essentially the same although phrased differently. They do not address the substance of the proposed amendment but rather contend that industry has coped successfully with the existing rule by complementing the existing rule with interpretive material (CAM 3.388-1 through -4) and reasonable administration. They state that such an approach is sound regulation and should continue to be used. The FAA disagrees for the reason that interpretive material and sound administration are not mandatory and, while one manufacturer may faithfully use this material in its certification process, it is not enforceable and cannot be imposed on a manufacturer without special conditions or it cooperation. The commenters' acknowledgment that the current rule does not stand by itself is recognition that the amendment is necessary. The commenters also point out that there is a fundamental difference in the objectives contemplated by Part 25 combustion heater standards and the present use of Part 23 combustion heaters. They imply that when a heater is used for comfort only, as opposed to continued airworthiness (that is, anti-icing), the proposed standards are not needed. The FAA disagrees since the objective of the rule is to provide for an improved installation with regard to fire protection irrespective of the heater's operational use or reliability.
+
+ ECONOMIC CONSIDERATIONS
+
+ Both of the commenters having dissenting views question the FAA cost estimate of $1500 to upgrade a combustion heater installed in a production airplane in compliance with current Section 23.859 as opposed to one installed in accordance with the proposed rule. One commenter suggests that the FAA further study the cost impact. The commenter suggests that the cost to the purchasing operator is in the range of $5,500 to $6,000.
+
+ The FAA conducted a thorough cost impact analysis that is reported in the Cost Impact Statement included in the regulatory docket for this action. That analysis shows that one combustion heater manufacturer, who produces approximately 80 percent of heaters used in commercial aviation, determined that its heaters already meet Part 25 rules and, therefore, no additional cost would be incurred. Another heater manufacturer, who produces the remaining units, estimates an increase of $135.00 per unit to upgrade its equipment. The costs to airplane manufacturers to comply with the rule range from $350 to $1,550, including heater system, ducts, miscellaneous components, and fireproof lines and fittings. The average cost for upgrading, therefore, is $950.00 per airplane. In this connection, the dollar values cited by the commenter are not inaccurate since they specifically refer to the cost to the purchaser. The FAA study reveals that the $6,000 would be the result of a high markup to the customer. Conversely a low markup for a similar installation would cost the customer $1,000. Comparative data -cost to the manufacturer versus cost to the customer -show that a low markup would be a 5 percent markup while the high markup cited by the commenter represents a 530 percent increase. The FAA estimate of $1,500 as the only cost to comply with the amended rules is based on an average increase in the cost to the manufacturer to produce the airplane without considering profit margins various manufacturers might impose on their customers.
+
+ 
+        
+REGULATORY TEXT: THE AMENDMENT
+
+ In consideration of the foregoing, Part 23 of the Federal Aviation Regulations (14 CFR Part 23) is amended effective November 19, 1980, by revising Section 23.859 to read as follows.
+
+Sec. 23.859 Combustion heater fire protection.
+
+(a) Combustion heater fire regions. The following combustion heater fire regions must be protected from fire in accordance with the applicable provisions of Secs. 23.1182 through 23.1191 and 23.1203:
+
+(1) The region surrounding the heater, if this region contains any flammable fluid system components (excluding the heater fuel system) that could -
+
+(i) Be damaged by heater malfunctioning; or
+
+(ii) Allow flammable fluids or vapors to reach the heater in case of leakage. 
+
+(2) The region surrounding the heater, if the heater fuel system has fittings that, if they leaked, would allow fuel vapor to enter this region.
+
+(3) The part of the ventilating air passage that surrounds the combustion chamber.
+
+(b) Ventilating air ducts. Each ventilating air duct passing through any fire region must be fireproof. In addition -
+
+(1) Unless isolation is provided by fireproof valves or by equally effective means, the ventilating air duct downstream of each heater must be fireproof for a distance great enough to ensure that any fire originating in the heater can be contained in the duct; and
+
+(2) Each part of any ventilating duct passing through any region having a flammable fluid system must be constructed or isolated from that system so that the malfunctioning of any component of that system cannot introduce flammable fluids or vapors into the ventilating airstream.
+
+(c) Combustion air ducts. Each combustion air duct must be fireproof for distance great enough to prevent damage from backfiring or reverse flame propagation. In addition -
+
+(1) No combustion air duct may have a common opening with the ventilating airstream unless flames from backfires or reverse burning cannot enter the ventilating airstream under any operating condition, including reverse flow or malfunctioning of the heater or its associated components; and 
+
+(2) No combination air duct may restrict the prompt relief of any backfire that, if so restricted, could cause heater failure.
+
+(d) Heater controls: general. Provision must be made to prevent the hazardous accumulation of water or ice on or in any heater control component, control system tubing, or safety control.
+
+(e) Heater safety controls. (1) Each combustion heater must have the following safety controls:
+
+(i) Means independent of the components for the normal continuous control of air temperature, airflow, and fuel flow must be provided to automatically shut off the ignition and fuel supply to that heater at a point remote from that heater when any of the following occurs:
+
+(A) The heater exchanger temperature exceeds safe limits.
+
+(B) The ventilating air temperature exceeds safe limits.
+
+(C) The combustion airflow becomes inadequate for safe operation.
+
+(D) The ventilating airflow becomes inadequate for safe operation.
+
+(ii) Means to warn the crew when any heater whose heat output is essential for safe operation has been shut off by the automatic means prescribed in paragraph (e)(1)(i) of this section.
+
+(2) The means for complying with subparagraph (1)(i) of this paragraph for any individual heater must -
+
+(i) By independent of components serving any other heater whose heat output is essential for safe operations; and
+
+(ii) Keep the heater off until restarted by the crew.
+
+(f) Air intakes. Each combustion and ventilating air intake must be located so that no flammable fluids or vapors can enter the heater system under any operating condition -
+
+(1 During normal operation; or
+
+(2) As a result of the malfunctioning of any other component.
+
+(g) Heater exhaust. Heater exhaust systems must meet the provisions of Secs. 23.1121 and 23.1123. In addition, there must be provisions in the design of the heater exhaust system to safely expel the products of combustion to prevent the occurrence of -
+
+(1) Fuel leakage from the exhaust to surrounding compartments;
+
+(2) Exhaust gas impingement on surrounding equipment or structure;
+
+(3) Ignition of flammable fluids by the exhaust, if the exhaust is in a compartment containing flammable fluid lines; and
+
+(4) Restrictions in the exhaust system to relieve backfires that, if so restricted, could cause heater failure.
+
+(h) Heater fuel systems. Each heater fuel system must meet each powerplant fuel system requirement affecting safe heater operation. Each heater fuel system component within the ventilating airstream must be protected by shrouds so that no leakage from those components can enter the ventilating airstream.
+
+(i) Drains. There must be means to safely drain fuel that might accumulate within the combustion chamber or the heater exchanger. In addition -
+
+(1) Each part of any drain that operates at high temperatures must be protected in the same manner as heater exhausts; and
+
+(2) Each drain must be protected from hazardous ice accumulation under any operating condition.
+
+Sections 313(a), 601, and 603 Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, and 1423), section 6(c) Department of Transportation Act (49 U.S.C. 1655(c)).
+
+Note -- The FAA has determined that this document involves a regulation which is not considered to be significant under the procedures and criteria prescribed by Executive Order 12044 and as implemented by the Department of Transportation Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). A copy of the evaluation prepared for this action is contained in the regulatory docket. A copy of it may be obtained from the person identified earlier in this document as contact for further information.
+
+ 
+        
+FOOTER: Issued in Washington, DC, on October 10, 1980.
+
+Langhorne Bond,
+
+Administrator.
+
+[FR Doc. 80-32680 Filed 10-22-80; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+ 
+        
+NPRM ACTIONS: Not Applicable.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

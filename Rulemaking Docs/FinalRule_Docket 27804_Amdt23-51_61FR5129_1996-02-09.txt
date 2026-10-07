@@ -1,0 +1,806 @@
+FINAL RULES: 23-51
+
+ 
+ 
+        
+CITATION: [Federal Register: February 9, 1996 (Volume 61, Number 28)]
+
+ 
+        
+PAGE NUMBER: [Page 5129-5138]
+
+ 
+        
+DOCKET NUMBER: 27804
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Airworthiness Standards; Powerplant Rules Based on European Joint Aviation Requirements 
+
+ 
+        
+ACTION: Final rule
+
+ 
+        
+SUMMARY: This final rule amends the powerplant airworthiness standards for normal, utility, acrobatic, and commuter category airplanes. This amendment completes a portion of the Federal Aviation Administration (FAA) and the European Joint Aviation Authorities (JAA) effort to harmonize the Federal Aviation Regulations and the Joint Aviation Requirements (JAR) for airplanes certificated in these categories. This amendment will provide nearly uniform powerplant airworthiness standards for airplanes certificated in the United States under 14 CFR part 23 and in the JAA countries under Joint Aviation Requirements 23, simplifying international airworthiness approval. 
+
+
+
+ 
+        
+DATES: EFFECTIVE DATE: March 11, 1996.
+
+ 
+        
+EFFECTIVE DATE: 1996-03-11
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Norman Vetter, ACE-111, Small Airplane Directorate, Aircraft
+
+Certification Service, Federal Aviation Administration, 601 East 12th Street, Kansas City, Missouri 64106; telephone (816) 426-5688.
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Background 
+
+ This amendment is based on Notice of Proposed Rulemaking (NPRM) No. 94-19 (59 FR 33822). All comments received in response to Notice 94-19 have been considered in adopting this amendment. 
+
+ This amendment completes part of an effort to harmonize the requirements of part 23 and JAR 23. The revisions to part 23 in this amendment pertain to powerplants. Three other final rules are being issued in this Federal Register that pertain to airworthiness standards for systems and equipment flight, and airframe. These related rulemakings are also part of the harmonization effort. Interested persons should review all four final rules to ensure that all revisions to part 23 are recognized. 
+
+ The harmonization effort was initiated at a meeting in June 1990 of the JAA Council (consisting of JAA members from European countries) and the FAA, during which the FAA Administrator committed the FAA to support the harmonization of the U.S. regulations with the JAR that were being developed. In response to the commitment, the FAA Small Airplane Directorate established an FAA Harmonization Task Force to work with the JAR 23 Study Group to harmonize part 23 with the proposed JAR 23. The General Aviation Manufacturers Association (GAMA) also established a JAR 23 and part 23 committee to provide technical assistance. 
+
+ The FAA, JAA, GAMA, and the Association Europeene des Constructeurs de Material Aerospatial (AECMA), an organization of European airframe manufacturers, met on several occasions in a continuing harmonization effort. 
+
+ Near the end of the effort to harmonize the normal, utility, and acrobatic category airplane airworthiness standards, the JAA requested and received recommendations from its member countries on proposed airworthiness standards for commuter category airplanes. Subsequent JAA and FAA meetings on this issue resulted in proposals that were reflected in Notice 94-19 to revise portions of the part 23 commuter category airworthiness standards. Accordingly, this final rule adopts the powerplant airworthiness standards for all part 23 airplanes. 
+
+ In January 1991, the FAA established the Aviation Rulemaking Advisory Committee (ARAC) (56 FR 2190, January 22, 1991). At an FAA/JAA Harmonization Conference in Canada in June 1992, the FAA announced that it would consolidate the harmonization effort within the ARAC structure. The FAA assigned to ARAC the rulemakings related to JAR and part 23 harmonization, which ARAC assigned to the JAR 23/FAR 23 Harmonization Working Group. The proposals for powerplant airworthiness standards contained in Notice No. 94-19 were a result of both the working group's efforts and the efforts at harmonization that occurred before the formation of the working group. 
+
+ The JAA submitted comments to the FAA on January 20, 1994, in response to the four draft proposals for harmonization of the part 23 airworthiness standards. The JAA submitted comments again during the comment period of the NPRM. At the April 26, 1995, ARAC JAR/FAR 23 Harmonization Working Group meeting, the JAA noted that many of the comments in the January 20 letter had been satisfied or were no longer relevant. The few remaining items concern issues that are considered beyond the scope of this rulemaking, and, therefore, will be dealt with at future FAA/JAA Harmonization meetings. 
+
+Discussion of Comments 
+
+General 
+
+ Interested persons were invited to participate in the development of these final rules by submitting written data, views, or arguments to the regulatory docket on or before October 28, 1994. Four commenters responded to Notice 94-19. Two commenters (Transport Canada and the Air Line Pilots Association) expressed overall support for the proposed changes. The JAA stated its overall support while commenting on specific proposed changes. The fourth commenter (Beechcraft) commented on several specific sections. The specific comments of JAA and Beechcraft are discussed in detail in this document and include an FAA response and a description of any changes to the final rule language. Other minor technical and editorial changes have been made to the proposed rules based on relevant comments received, consultation with the ARAC, and further review by the FAA. 
+
+Discussion of Amendments 
+
+Section 23.777 Cockpit Controls 
+
+ The FAA proposed to revise Sec. 23.777(c)(2) so that for single- engine airplanes designed for a single cockpit occupant, the powerplant controls would be located in the same position as they are for airplanes with tandem seats. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.779 Motion and Effect of Cockpit Controls 
+
+ The FAA proposed to revise Sec. 23.779(b)(1) by adding a new item, ``fuel,'' to the ``motion and effect'' table to require that any fuel shutoff control other than mixture must move forward to open. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.901 Installation 
+
+ The FAA proposed to revise Sec. 23.901(d)(1), which concerns turbine engine installation and vibration characteristics that do not exceed those established during the type certification of the engine. The FAA proposed to add the word ``carcass'' before vibration in this paragraph in order to restrict analyses to those vibrations that are caused by external excitation to the 
+
+[[Page 5131]] 
+
+main engine frame or ``carcass.'' While the word ``carcass'' has not traditionally been used in this context in the United States, it is used in Europe and was proposed in the interest of harmonization. 
+
+ The FAA proposed to revise Sec. 23.901(d)(2) by deleting the last sentence, which reads: ``The engine must accelerate and decelerate safely following stabilized operations under these rain conditions.'' This requirement is already provided for in the first sentence of paragraph (d)(2), which states that the turbine engine must be constructed and arranged to provide ``continued safe operation.'' 
+
+ The FAA proposed to revise paragraph (e) of this section by adding the word ``powerplant'' in front of ``installation'' to make clear that it pertains to all powerplant installations. The FAA proposed to revise paragraph (e)(1) by adding the word ``installation'' in front of ``instruction'' to make clear which instructions are applicable. 
+
+ The FAA proposed that new paragraph (e)(1)(i) contain the requirement for an engine type certificate currently set forth in paragraph (e)(1). The FAA proposed that paragraph (e)(1)(ii) continue the current requirement for a propeller type certificate, and to allow an equivalency finding for certain propellers not type certificated in the United States. This revision was proposed to be consistent with the proposed revisions to Sec. 23.905, Propellers. 
+
+ No comments were received on the proposals. However, as discussed below, the FAA has determined that the proposed amendment to Sec. 23.905(a) concerning propellers should be withdrawn. Consequently, proposed revisions to Sec. 23.901(e) are no longer appropriate and are being withdrawn. 
+
+ The proposal is adopted with the above change. 
+
+Section 23.903 Engines 
+
+ The FAA proposed to revise Sec. 23.903 (c) and (g) by adding the headings ``Engine isolation'' and ``Restart capability,'' respectively, in order to identify the subjects of these paragraphs as is done for the other paragraphs in this section. The FAA also proposed to change the heading of paragraph (f) from ``Restart capability'' to ``Restart envelope'' since the paragraph addresses the altitude and airspeed envelope for restarting the engines in flight. 
+
+ No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 23.905 Propellers 
+
+ The FAA proposed to revise Sec. 23.905(a) to permit approval, on part 23 airplanes, of propellers by a means other than the currently required type certificate. 
+
+ Comment: Beechcraft objects to what it characterizes as ``an unknown method of compliance.'' Beechcraft states that it appears that the economic burden of certification would be placed on the end user of the propeller without any guidance as to the means of compliance. Beechcraft asserts that experience indicates that equivalent level of safety findings are very subjective, that propellers would be certificated to various standards, and that this creates a liability for the aircraft manufacturer. Beechcraft believes that uniform airworthiness standards should be maintained and that ``an aircraft manufacturer could not, for economic and liability reasons, afford to purchase a propeller without a type certificate, U.S. or foreign.'' 
+
+ FAA Response: The FAA re-evaluated the proposal and determined that public interest would be best served if the proposal were withdrawn. Therefore, the FAA is withdrawing the proposal and will consider it for future rulemaking action. 
+
+Section 23.907 Propeller Vibration 
+
+ The FAA proposed to revise Sec. 23.907(a) to require that propellers ``other than a conventional fixed-pitch wooden propeller'' be evaluated for vibration. Fixed-pitch wooden propellers are not highly stressed, as are all metal and most composite propeller blades. 
+
+ No comments were received on this proposal and it is adopted as proposed. 
+
+Section 23.925 Propeller Clearance 
+
+ The FAA proposed to revise Sec. 23.925 to require that propeller clearance must be evaluated with the airplane at the most adverse combination of weight and center of gravity, and with the propeller in the most adverse pitch position. This revision would make the requirement consistent with current certification practice. 
+
+ Comment: The JAA pointed out that, under the JAR, the clearances provided in this section are intended to represent minimum values and that it had previously rejected the introductory text language that states ``Unless smaller clearances are substantiated * * *.'' 
+
+ FAA Response: The language quoted by the JAA is in present Sec. 23.925 and would not be affected by the proposed change. The FAA acknowledges that the introductory language cited by the JAA has been previously identified as an area of known disharmony between the two sets of regulations that would not be affected by the proposed revisions. 
+
+ No comments other than the JAA acknowledgment of disharmony were received on the changes proposed for this section in Notice 94-19, and the proposal is adopted as proposed. 
+
+Section 23.929 Engine Installation Ice Protection 
+
+ The FAA proposed to replace the word ``power'' in Sec. 23.929 in the phrase ``without appreciable loss of power'' with the word ``thrust'' because ``thrust'' is more descriptive of the loss experienced when ice forms on a propeller. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.933 Reversing Systems 
+
+ The FAA proposed to revise Sec. 23.933(a)(1) so that these provisions correspond to the turbojet and turbofan reversing system airworthiness standards of part 25. 
+
+ The FAA also proposed to delete as unnecessary the word ``forward'' from paragraph (a)(3). 
+
+ No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 23.955 Fuel Flow 
+
+ The FAA proposed to revise Sec. 23.955(a) by deleting the word ``and'' where it occurs between the subparagraphs. Each of the four paragraphs is independent and all of them apply under paragraph (a). 
+
+ The FAA also proposed to revise Sec. 23.955(a)(3) by adding the word ``probable'' so that the requirement would read as follows: ``If there is a flow meter without a bypass, it must not have any probable failure mode * * *.'' The addition of the word ``probable'' would clarify the intent of the requirement that only probable failures need be analyzed. 
+
+ No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 23.959 Unusable Fuel Supply 
+
+ The FAA proposed that the text of Sec. 23.959 be redesignated as paragraph (a), and proposed the addition of a new paragraph (b) to require that the effect of any fuel pump failure on the unusable fuel supply be established. This change would not require any change in the fuel quantity indicator marking required by Sec. 23.1553. 
+
+ No comments were received on the proposals, and they are adopted as proposed. 
+
+[[Page 5132]] 
+
+Section 23.963 Fuel Tanks: General 
+
+ The FAA proposed to clarify Sec. 23.963(b), which concerns fuel tank liners, by replacing the phrase ``must be of an acceptable kind'' with the phrase ``must be shown to be suitable for the particular application.'' Also, the FAA proposed to revise the cross reference in this section to coincide with the proposed revision of Sec. 23.959 discussed above. 
+
+ No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 23.965 Fuel Tank Tests 
+
+ The FAA proposed to revise Sec. 23.965(b)(3)(i) by changing the phrase ``the test frequency of vibration cycles per minute is obtained by * * *'' to ``the test frequency of vibration is the number of cycles per minute obtained by * * *'' to clarify that it is the number of cycles per minute that is to be used during testing of a fuel tank. 
+
+ No comments were received on the proposal. After further review of the proposal, however, the FAA determined that the second portion of paragraph (b)(3)(i), which includes the test frequency vibration cycles, should be redesignated as paragraphs (b)(3)(i) (A) and (B), and that the phrase ``except that'' should be removed and the word ``and'' added in its place. This would not be a substantive revision. 
+
+ The proposal is adopted with the above change. 
+
+Section 23.973 Fuel Tank Filler Connection 
+
+ The FAA proposed to revise Sec. 23.973(f) by removing the language that limits its applicability so that the regulation would apply to all airplanes with turbine engines, including turbine engines that are equipped with pressure fueling systems. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.975 Fuel Tank Vents and Carburetor Vents 
+
+ The FAA proposed to revise the first sentence of Sec. 23.975(a)(5) to clarify that there may be no point in any vent line where moisture can accumulate unless drainage is provided. The FAA explained that the intent of this requirement is to allow low spots in the fuel tank vent system if a drain is provided for each low spot. 
+
+ Comment: No comments were received concerning the proposed revision of the first sentence of Sec. 23.975(a)(5). However, the JAA submitted a comment on the second sentence, for which no change was proposed. That sentence currently reads, ``Any drain valve installed in the vent lines must discharge clear of the airplane and be accessible for drainage.'' The JAA's comment is threefold. First, JAA states that, in smaller, less complex part 23 airplanes, whether a vent will remain clear in all phases of operation cannot be guaranteed. Second, JAA states that, on more complex part 23 airplanes, ``considerations of inaccessibility during operation of an aircraft when the need for a drain valve has been considered essential, has very often resulted in the acceptance of automatic valves that drain back into the fuel tank.'' Finally, JAA states that drainage/discharge clear of the airplane is not in accord with environmental concerns. 
+
+ FAA Response: The FAA has concluded after reviewing the JAA comment and after discussions within the ARAC working group that further clarification of this drainage requirement is appropriate, since the rule language was never intended to limit discharge to an external drain valve. Therefore, the last sentence of Sec. 23.975(a)(5), as adopted, reads ``Any drain valve installed must be accessible for drainage.'' 
+
+Section 23.979 Pressure Fueling Systems 
+
+ The FAA proposed to revise Sec. 23.979(b) to require, for commuter category airplanes, an indication at each fueling station of failure of the automatic shutoff means. This revision would make the commuter category automatic shutoff means requirements similar to the requirements for transport category airplanes in Sec. 25.979. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1001 Fuel Jettisoning System 
+
+ The FAA proposed to revise Sec. 23.1001(b)(2) to redefine the speed at which the fuel jettisoning system tests should be conducted by referencing Sec. 23.69(b). The JAA states that a comparable change will be made to JAR 23. 
+
+ No other comments were received, and this proposal is adopted as proposed. 
+
+Section 23.1013 Oil Tanks 
+
+ The FAA proposed to delete the word ``crankcase'' in Sec. 23.1013(d)(1) to make this paragraph applicable to all engine installations. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1041 General 
+
+ The FAA proposed to revise Sec. 23.1041, under the ``Cooling'' heading, to require, for all airplanes regardless of engine type, a demonstration of adequate cooling at one maximum ambient atmosphere temperature for which approval is requested. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1043 Cooling Tests 
+
+ The FAA stated in the preamble to Notice 94-19 that it proposed to revise Sec. 23.1043(a)(3) to show that the minimum grade fuel requirement applies to both turbine and reciprocating engines and that the lean mixture requirement applies to reciprocating engines only. 
+
+ The FAA proposed to simplify the introductory text of paragraph (a) by deleting the requirement that compliance must be shown ``under critical ground, water, and flight operating conditions to the maximum altitude for which approval is requested'' since this requirement is already contained in Sec. 23.1041. 
+
+ The FAA proposed to improve the organization of the section by moving to paragraph (a)(4) the requirement in the introductory text of paragraph (a) that for turbocharged engines, each turbocharger must be operated through the part of the climb profile for which turbocharger operation is requested. 
+
+ The FAA proposed a non-substantive change to paragraph (a)(1) to make it consistent with proposed changes to Sec. 23.1041. 
+
+ The FAA proposed to reword paragraph (a)(2) without substantive change to make this language identical to the JAR. 
+
+ The FAA proposed to revise paragraph (a)(3) to clarify that the requirement for mixture settings applies to reciprocating engines and that the mixture settings must be the leanest recommended for the climb. The FAA pointed out that the ``leanest recommended for climb'' mixture setting is considered a normal operating condition. 
+
+ The FAA proposed to remove paragraph (a)(5) because water taxi tests are already required by Sec. 23.1041 as amended by Amendment 23- 43 (58 FR 18958, April 9, 1993). 
+
+ The FAA proposed to revise paragraphs (c) and (d) by adding the requirement that cooling correction factors be determined for the appropriate altitude. This proposed change was intended to codify current certification practice and increase safety by ensuring that the proper correction factor is determined. 
+
+[[Page 5133]] 
+
+ Comment: Beechcraft comments that the minimum fuel requirement of present paragraph (a)(3) should be deleted for turbine engines since there are not real measurable differences for turbine engine fuel as there are for reciprocating engine fuel. 
+
+ FAA Response: The proposed rule did not contain any change to the minimum fuel grade requirements and the preamble statement may be unclear. The FAA agrees with the Beechcraft statement that today, turbine engine fuels are not graded. Since no change was proposed in this wording in the NPRM and since the present wording has not effect on the use of turbine engine fuels, no change is made for this final rule. However, after discussion within the ARAC Working Group, the FAA has determined that paragraph (a)(3) can be clarified by moving the second part of the sentence concerning mixture settings for reciprocating engines to a new paragraph (a)(5). This is not considered a substantive change to the proposed language, but a clarification of a current requirement. 
+
+ The only comment received on the changes proposed for Sec. 23.1043 concerned paragraph (a)(3), and that paragraph is adopted as explained above. The remaining changes are adopted as proposed. 
+
+Section 23.1045 Cooling Test Procedures for Turbine Engine Powered Airplanes 
+
+ The FAA proposed to clarify Sec. 23.1045(a) by stating more generally that (1) compliance with Sec. 23.1041 must be shown for all phases of operations, not only the four listed phases: takeoff, climb, enroute, and landing; and that (2) the airplane must be flown in the configuration, at the speeds, and following the procedures recommended in the Airplane Flight Manual for the relative stage of flight that corresponds to the applicable performance requirements critical to cooling. 
+
+ No comments were received on the proposals, and they are adopted as proposed. 
+
+Section 23.1047 Cooling Test Procedures for Reciprocating Engine Powered Airplanes 
+
+ The FAA proposed to revise the cooling test procedures in Sec. 23.1047 for reciprocating engine powered airplanes by deleting the specific procedures because experience has shown that some of the listed detailed procedures are not directly applicable to certain engine configurations and certain operating conditions. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1091 Air Induction System 
+
+ The FAA proposed to revise Sec. 23.1091(c)(2) to require that air induction system design protect against foreign matter, from whatever source, ``during takeoff, landing, and taxiing'' rather than be limited, as is the present rule, to foreign material located on the runway, taxiway, or other airport operating surfaces. 
+
+ Comment: Beechcraft comments that increasing the scope of the foreign material environment poses very difficult technical questions and potentially costly solutions. Beechcraft states that it is extremely difficult to compensate for and protect against airborne debris and also states its concern that the proposed rule language gives no guidance as to the levels of protection that are necessary. 
+
+ FAA Response: As stated in the NPRM preamble, the proposed language is consistent with current certification practice and, therefore, would not be a significant new burden on aircraft manufacturers. However, it was not the FAA's intent to create an opportunity for an extreme interpretation of this rule, as suggested by Beechcraft. To clarify the intent, and after discussion within the ARAC Working Group, the FAA has added the words ``hazard of'' to the second sentence of Sec. 23.1091(c)(2) to make it clear that the intent of the rule is to minimize the hazard of ingestion of foreign matter rather than to require zero ingestion. 
+
+ This proposal is adopted with the change explained above. 
+
+Section 23.1093 Induction System Icing Protection 
+
+ The FAA proposed to revise Sec. 23.1093(c) by adding the heading ``Reciprocating engines with superchargers'' so that this paragraph would be consistent with paragraphs (a) and (b) of this section, which have headings. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1105 Induction System Screens 
+
+ The FAA proposed to revise Sec. 23.1105 to include fuel injection systems, since some reciprocating engines incorporate a fuel injection system and the same provisions required for a carburetor are necessary for a fuel injection system. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1107 Induction System Filters 
+
+ The FAA proposed to revise the introductory text of Sec. 23.1107 by deleting the reference to reciprocating engine installations to make the section applicable to airplanes with either reciprocating or turbine engines. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1121 General 
+
+ The FAA proposed to revise Sec. 23.1121(g) by adding standards for APU exhaust systems because these standards were overlooked when APU standards were introduced into part 23 by Amendment 23-43 (58 FR 18958, April 9, 1993). 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1141 Powerplant Controls: General 
+
+ The FAA proposed to clarify Sec. 23.1141(b), which concerns flexible controls, by replacing the phrase ``must be of an acceptable kind'' with the phrase ``must be shown to be suitable for the particular application.'' 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1143 Engine Controls 
+
+ The FAA proposed to revise Sec. 23.1143(f) to add a requirement that a fuel control (other than a mixture control) must have a means to prevent the inadvertent movement of the control into the shutoff position. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1153 Propeller Feathering Controls 
+
+ The FAA proposed to revise Sec. 23.1153 to require that it be possible to feather each propeller separately, in order to prevent inadvertent operation. 
+
+ After further review of the proposal, the FAA decided to remove the phrase ``whether or not they are separate from the propeller speed and pitch controls'' and add the word ``installed'' in its place. The meaning is maintained without the deleted phrase, which would be redundant. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1181 Designated Fire Zones; Regions Included 
+
+ The FAA proposed new Sec. 23.1181(b)(3) to add as a designated fire zone for turbine engines ``any complete powerplant compartment in which there is no isolation between compressor, accessory, combustor, turbine and tailpipe sections.'' 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+[[Page 5134]] 
+
+Section 23.1183 Lines, Fittings, and Components 
+
+ The FAA proposed to clarify the intent of Sec. 23.1183(a), which concerns the approval of flexible hose assemblies, by replacing the word ``approved'' with the words ``shown to be suitable for the particular application.'' 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1191 Firewalls 
+
+ The FAA proposed to amend Sec. 23.1191(b) to require that each ``firewall or shroud must be constructed so that no hazardous quantity of liquid, gas, or flame can pass from the compartment created by the firewall or shroud to other parts of the airplane.'' The intent of the proposed change was to clarify that the requirement applies to any compartment created by a firewall or shroud. 
+
+ Comment: The JAA states that the additional wording proposed to be added to paragraph (b) is superfluous and will not be proposed for JAR 23. 
+
+ FAA Response: The FAA has determined that the proposed change to Sec. 23.1191(b) is needed to retain the intent of the rule and that it will not create a technical disharmony between the two bodies of regulation. 
+
+ This proposal is adopted as proposed. 
+
+Section 23.1203 Fire Detector System 
+
+ The FAA proposed to revise Sec. 23.1203(e), which concerns the wiring and other components of each fire detector system in an engine compartment, by replacing the words ``fire zone'' with ``designated fire zone'' to make the wording consistent with Sec. 23.1181. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Section 23.1305 Powerplant Instruments 
+
+ The FAA proposed to revise Sec. 23.1305(b)(3), concerning cylinder head temperature indicators, by deleting paragraph (b)(3)(ii), which refers to compliance with Sec. 23.1041 at a speed higher than V<INF>Y, to be consistent with a general deletion of the requirements for a determination of the V<INF>Y speed. 
+
+ No comments were received on the proposal. However, after further review, the FAA has determined that it would be simpler to remove the text of paragraph (b)(3)(ii) and to reserve paragraph (b)(3)(ii) for future use in order to avoid confusion that could come from redesignation of paragraph (b)(3)(iii). 
+
+ The proposal is adopted as explained above. 
+
+Section 23.1337 Powerplant Instruments 
+
+ The FAA proposed to change the reference in Sec. 23.1337(b) to ``Sec. 23.959'' to ``Sec. 23.959(a)'' to conform the reference to a revision of Sec. 23.959 made elsewhere in this document. 
+
+ No comments were received on the proposal, and it is adopted as proposed. 
+
+Regulatory Evaluation, Regulatory Flexibility Determination, and Trade Impact Assessment 
+
+ Changes to federal regulations must undergo several economic analyses. First, Executive Order 12866 directs Federal agencies to promulgate new regulations or modify existing regulations only if the potential benefits to society justify its costs. Second, the Regulatory Flexibility Act of 1980 requires agencies to analyze the economic impact of regulatory changes on small entities. Finally, the Office of Management and Budget directs agencies to assess the effects of regulatory changes on international trade. In conducting these assessments, the FAA has determined that this rule: (1) Will generate benefits exceeding its costs and is ``significant'' as defined in Executive Order 12866; (2) is ``significant'' as defined in DOT's Policies and Procedures; (3) will not have a significant impact on a substantial number of small entities; and (4) will not constitute a barrier to international trade. These analyses, available in the docket, are summarized below. 
+
+Comments Related to the Economics of the Proposed Rule 
+
+ Two comments were received regarding the economic impact of the proposals; one concerning an existing regulation (Sec. 23.1043 Cooling tests) and one concerning a new proposal (Sec. 23.1091 Air induction systems). Both of these comments, as well as the FAA's responses, are included above in the section ``Discussion of Amendments.'' 
+
+Regulatory Evaluation Summary 
+
+ The FAA has determined that the benefits of the final rule, though not directly quantifiable, will exceed the expected costs. Minor costs, ranging from $240 to $6,000 per certification, are projected for four of the provisions. No costs are attributed to the other provisions. The benefits of the final rule are considered below in four categories: (1) Harmonization, (2) safety, (3) reduced need for special conditions, and (4) clarification. 
+
+Harmonization 
+
+ These changes, in concert with other rulemaking and policy actions, will provide nearly uniform powerplant airworthiness standards for airplanes certificated in the United States and the JAA member countries. The resulting greater uniformity of standards simplifies airworthiness approval for import and export purposes. 
+
+Safety 
+
+ In addition to the harmonization benefits, five provisions of the rule provide additional safety benefits. First, the final rule revises Sec. 23.933(a)(1) to more closely agree with the corresponding turbojet and turbofan reversing system airworthiness standards of part 25. The FAA estimates that this provision will necessitate an additional 100 hours of failure mode and effects analysis at an assumed cost rate of $60 per hour, including labor and overhead. The estimated $6,000 cost applies to each certification. The FAA projects that no additional production or operating costs will result from this provision. 
+
+ The primary potential benefit of the provision is the additional safety that could result from analyzing the feasible range of reverser system failures, the effects of those failures, and the corresponding capabilities necessary to correct the failure or circumvent its effects. Such an analysis could reduce the possibility that an unanticipated condition with catastrophic potential would remain in the system. In addition to the safety benefit, it is expected that operating benefits and manufacturing economies will result from the uniformity of standards between parts 23 and 25. The FAA is not able to quantify the potential benefits of this provision but has determined that the benefits will exceed the expected minor costs. 
+
+ Second, the final rule adds a new paragraph (b) to Sec. 23.959 requiring that the effect of any fuel pump failure on the unusable fuel supply be determined. Though not previously required, it has been industry practice to include this information in the Airplane Flight Manual. The FAA estimates that the nominal cost of making this determination will be $240 per certification (4 hours at $60 per hour). In addition, an insignificant cost ($1) will be incurred in adding a table entry to the manual for each airplane that is produced. The fact that this requirement is already standard practice supports the FAA's position that the potential benefit of the provision exceed the minor costs. The safety benefits of this provision 
+
+[[Page 5135]] derive from the assurance that this vital information will continue to be provided for future airplane models. 
+
+ Third, under Sec. 23.979, the final rule adds the requirement for commuter category airplanes that an indication be provided at each fueling station in the event of a failure of the shutoff means to stop fuel flow at the maximum level. The FAA estimates that the required device will necessitate an incremental design and development cost of $3,000 per certification (50 hours at $60 per hour) and an additional nominal manufacturing cost of $10 per airplane. The benefit of the provision is the avoidance of a potentially catastrophic condition whereby excess fuel could unknowingly be forced out of the contained fuel system by the pressure fueling system. The FAA has determined that these potential benefits will exceed the minor associated costs. 
+
+ Fourth, Sec. 23.1041 establishes the requirement that the powerplant cooling system must be able to maintain the temperature of the powerplant components and fluids. The ambient temperature for testing reciprocating engine airplanes is currently required to be corrected to show the capacity of the cooling system at 100 deg.F. Under the amendment, this temperature standard is revised to the ``maximum ambient temperature conditions for which approval is requested.'' 
+
+ No costs are attributed to this provision. Reciprocating engine airplane manufacturers will continue to have the option to request approval for operations at the existing 100 deg.F temperature. A decision to request approval for a higher temperature would necessitate demonstration of the capability of the cooling system at that temperature. That choice, however, will be made at the manufacturer's discretion and will be based on its decision that any associated incremental cooling system costs would be recovered in the marketplace or offset by other considerations. The potential benefit of this provision is the reduced likelihood that an inadequate cooling system would be relied on during high temperature operations. 
+
+ Finally, paragraph (a) of Sec. 23.1045 is revised to state more generally that compliance with the cooling margin requirements of Sec. 23.1041 must be shown for all phases of operation, as compared to the four phases of flight currently listed. In effect, the amendment adds the taxi phase. 
+
+ The FAA estimates that the specific addition of the taxi phase will necessitate an incremental 5 hours of engineering analysis valued at $60 per hour, for a total of $300 per certification. The potential benefit of this provision is the enhanced safety that could result from evaluating the efficacy of the cooling system during the taxi phase of operation. In the taxi phase of operation, engine power settings and heat production may be generally lower than that experienced during flight, but available air circulation might also be lower. The heat mechanics of the two conditions are distinct and warrant separate evaluation. The FAA has determined that the potential benefits of this provision will exceed the nominal associated costs. 
+
+Reduced Need for Special Conditions 
+
+ The final rule includes five provisions that will replace the need for ``special conditions'' processing of certain parts or materials that were previously considered as novel or unusual design features. The subjects of these provisions include composite propellers, fuel injection systems for reciprocating engines, induction filters on turbine engines, fuel shutoff controls other than mixture controls, and auxiliary power units. No additional costs are attributed to these provisions. Formalization of the equivalent safety standards and requirements for these subjects obviates the need for special conditions actions and simplifies the certification process for manufacturers. 
+
+Clarification 
+
+ Several unclear provisions of part 23 were revealed during the harmonization review. In response to this finding, the final rule includes a number of no-cost, editorial revisions that clarify the existing requirements. These changes benefit manufacturers by removing potential confusion about the specific standards and requirements necessary for certification. 
+
+ In summary, the FAA has determined that each of the amendments, as well as the final rule as a whole, will be cost beneficial. 
+
+Regulatory Flexibility Determination 
+
+ The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress to ensure that small entities are not unnecessarily or disproportionately burdened by Government regulations. The RFA requires a Regulatory Flexibility Analysis if a rule would have a significant economic impact, either detrimental or beneficial, on a substantial number of small entities. Based on implementing FAA Order 2100.14A, Regulatory Flexibility Criteria and Guidance, the FAA has determined that this rule will not have a significant economic impact on a substantial number of small entities. 
+
+Trade Impact Assessment 
+
+ The final rule will not constitute a barrier to international trade, including the export of American airplanes to foreign countries and the import of foreign airplanes into the United States. Instead, the amended powerplant airworthiness standards have been harmonized with foreign aviation authorities and will reduce restraints on trade. 
+
+Federalism Implications 
+
+ The regulations herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment. 
+
+Conclusion 
+
+ The FAA is revising the airworthiness standards to provide propulsion standards for normal, utility, acrobatic, and commuter category airplanes to harmonize them with the standards that have been adopted for the same category airplanes by the Joint Aviation Authorities in Europe. The revisions will reduce the regulatory burden on the United States and European airplane manufacturers by relieving them of the need to show compliance with different standards each time they seek certification approval of an airplane in the United States or in a country that is a member of the JAA. 
+
+ For the reasons discussed in the preamble, and based on the findings in the Regulatory Evaluation, the FAA has determined that this rule is significant under Executive Order 12866. In addition, the FAA certifies that this rule will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. This rule is considered significant under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). A regulatory evaluation of the rule has been placed in the docket. A copy may be obtained by contacting the person identified under FOR FURTHER INFORMATION CONTACT. 
+
+List of Subjects in 14 CFR Part 23 
+
+ Aircraft, Aviation safety, Signs and symbols. 
+
+[[Page 5136]] 
+
+
+
+ 
+        
+REGULATORY TEXT: The Amendments 
+
+ In consideration of the foregoing, the Federal Aviation Administration amends 14 CFR part 23 as follows: 
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES 
+
+ 1. The authority citation for part 23 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704. 
+
+Sec. 23.777 [Amended] 
+
+ 2. Section 23.777(c)(2) is amended by adding the words ``single and'' between the words ``for'' and ``tandem''. 
+
+ 3. The table in Sec. 23.779(b)(1) is amended by adding a new item between the items ``mixture'' and ``carburetor air heat or alternate air'' to read as follows: 
+
+Sec. 23.779 Motion and effect of cockpit controls. 
+
+* * * * *
+
+ (b) * * * 
+
+ Motion and effect 
+
+(1) Powerplant controls: 
+
+ * * * * * 
+
+ Fuel.............................. Forward for open. 
+
+ * * * * * 
+
+ 4. Section 23.901 is amended by revising paragraphs (d)(1) and (d)(2) to read as follows: 
+
+Sec. 23.901 Installation. 
+
+* * * * *
+
+ (d) * * * 
+
+ (1) Result in carcass vibration characteristics that do not exceed those established during the type certification of the engine. 
+
+ (2) Provide continued safe operation without a hazardous loss of power or thrust while being operated in rain for at least three minutes with the rate of water ingestion being not less than four percent, by weight, of the engine induction airflow rate at the maximum installed power or thrust approved for takeoff and at flight idle. 
+
+* * * * *
+
+ 5. Section 23.903 is amended by adding headings to paragraphs (c) and (g), and by revising the heading of paragraph (f) to read as follows: 
+
+Sec. 23.903 Engines. 
+
+* * * * *
+
+ (c) Engine isolation. * * * 
+
+* * * * *
+
+ (f) Restart envelope. * * * 
+
+ (g) Restart capability. * * * 
+
+Sec. 23.907 [Amended] 
+
+ 6. Section 23.907(a) introductory text is amended by removing the phrase ``with metal blades or highly stressed metal components'' and adding the phrase ``other than a conventional fixed-pitch wooden propeller'' in its place. 
+
+ 7. Section 23.925 introductory text is revised to read as follows: 
+
+Sec. 23.925 Propeller clearance. 
+
+ Unless smaller clearances are substantiated, propeller clearances, with the airplane at the most adverse combination of weight and center of gravity, and with the propeller in the most adverse pitch position, may not be less than the following: 
+
+* * * * *
+
+Sec. 23.929 [Amended] 
+
+ 8. Section 23.929 is amended by removing the word ``power'' and adding, in its place, the word ``thrust''. 
+
+ 9. Section 23.933 is amended by removing the word ``forward'' in the two instances in which it is used in paragraph (a)(3); by removing the reference in paragraph (b)(2) that reads ``(a)(1)'' and adding the reference ``(b)(1)'' in its place; and by revising paragraph (a)(1) to read as follows: 
+
+Sec. 23.933 Reversing systems. 
+
+ (a) * * * 
+
+ (1) Each system intended for ground operation only must be designed so that, during any reversal in flight, the engine will produce no more than flight idle thrust. In addition, it must be shown by analysis or test, or both, that-- 
+
+ (i) Each operable reverser can be restored to the forward thrust position; or 
+
+ (ii) The airplane is capable of continued safe flight and landing under any possible position of the thrust reverser. 
+
+* * * * *
+
+ 10. Section 23.955 is amended by revising paragraphs (a)(1) through (a)(4) to read as follows: 
+
+Sec. 23.955 Fuel flow. 
+
+ (a) * * * 
+
+ (1) The quantity of fuel in the tank may not exceed the amount established as the unusable fuel supply for that tank under Sec. 23.959(a) plus that quantity necessary to show compliance with this section. 
+
+ (2) If there is a fuel flowmeter, it must be blocked during the flow test and the fuel must flow through the meter or its bypass. 
+
+ (3) If there is a flowmeter without a bypass, it must not have any probable failure mode that would restrict fuel flow below the level required for this fuel demonstration. 
+
+ (4) The fuel flow must include that flow necessary for vapor return flow, jet pump drive flow, and for all other purposes for which fuel is used. 
+
+* * * * *
+
+ 11. Section 23.959 is amended by designating the current text of the section as paragraph (a) and by adding a new paragraph (b) to read as follows: 
+
+Sec. 23.959 Unusable fuel supply. 
+
+* * * * *
+
+ (b) The effect on the usable fuel quantity as a result of a failure of any pump shall be determined. 
+
+ 12. Section 23.963 is amended by removing the reference in paragraph (e) that reads ``Sec. 23.959'' and adding the reference ``Sec. 23.959(a)'' in its place, and by revising paragraph (b) to read as follows: 
+
+Sec. 23.963 Fuel tanks: general. 
+
+* * * * *
+
+ (b) Each flexible fuel tank liner must be shown to be suitable for the particular application. 
+
+* * * * *
+
+ 13. Section 23.965 is amended by revising paragraph (b)(3)(i) to read as follows: 
+
+Sec. 23.965 Fuel tank tests. 
+
+* * * * *
+
+ (b) * * * 
+
+ (3) * * * 
+
+ (i) If no frequency of vibration resulting from any rpm within the normal operating range of engine or propeller speeds is critical, the test frequency of vibration is: 
+
+ (A) The number of cycles per minute obtained by multiplying the maximum continuous propeller speed in rpm by 0.9 for propeller-driven airplanes, and 
+
+ (B) For non-propeller driven airplanes the test frequency of vibration is 2,000 cycles per minute. 
+
+* * * * *
+
+ 14. Section 23.973(f) is revised to read as follows: 
+
+Sec. 23.973 Fuel tank filler connection. 
+
+* * * * *
+
+ (f) For airplanes with turbine engines, the inside diameter of the fuel filler opening must be no smaller than 2.95 inches. 
+
+ 15. Section 23.975(a)(5) is revised to read as follows: 
+
+Sec. 23.975 Fuel tank vents and carburetor vapor vents. 
+
+ (a) * * * 
+
+ (5) There may be no point in any vent line where moisture can accumulate with the airplane in either the ground or level flight attitudes, unless drainage is 
+
+[[Page 5137]] provided. Any drain valve installed must be accessible for drainage; 
+
+* * * * *
+
+ 16. Section 23.979(b) is revised to read as follows: 
+
+Sec. 23.979 Pressure fueling systems. 
+
+* * * * *
+
+ (b) An automatic shutoff means must be provided to prevent the quantity of fuel in each tank from exceeding the maximum quantity approved for that tank. This means must-- 
+
+ (1) Allow checking for proper shutoff operation before each fueling of the tank; and 
+
+ (2) For commuter category airplanes, indicate at each fueling station, a failure of the shutoff means to stop the fuel flow at the maximum quantity approved for that tank. 
+
+* * * * *
+
+ 17. Section 23.1001(b)(2) is revised to read as follows: 
+
+Sec. 23.1001 Fuel jettisoning system. 
+
+* * * * *
+
+ (b) * * * 
+
+ (2) A climb, at the speed at which the one-engine-inoperative enroute climb data have been established in accordance with Sec. 23.69(b), with the critical engine inoperative and the remaining engines at maximum continuous power; and 
+
+* * * * *
+
+Sec. 23.1013 [Amended] 
+
+ 18. Section 13.1013(d)(1) is amended by removing the word ``crankcase''. 
+
+Sec. 23.1041 [Amended] 
+
+ 19. Section 23.1041 is amended by adding the phrase ``and maximum ambient atmospheric temperature conditions'' between the phrases ``maximum altitude'' and ``for which approval''. 
+
+ 20. Section 23.1043 is amended by revising paragraphs (a), (c), and (d) to read as follows: 
+
+Sec. 23.1043 Cooling tests. 
+
+ (a) General. Compliance with Sec. 23.1041 must be shown on the basis of tests, for which the following apply: 
+
+ (1) If the tests are conducted under ambient atmospheric temperature conditions deviating from the maximum for which approval is requested, the recorded powerplant temperatures must be corrected under paragraphs (c) and (d) of this section, unless a more rational correction method is applicable. 
+
+ (2) No corrected temperature determined under paragraph (a)(1) of this section may exceed established limits. 
+
+ (3) The fuel used during the cooling tests must be of the minimum grade approved for the engine. 
+
+ (4) For turbocharged engines, each turbocharger must be operated through that part of the climb profile for which operation with the turbocharger is requested. 
+
+ (5) For a reciprocating engine, the mixture settings must be the leanest recommended for climb. 
+
+* * * * *
+
+ (c) Correction factor (except cylinder barrels). Temperatures of engine fluids and powerplant components (except cylinder barrels) for which temperature limits are established, must be corrected by adding to them the difference between the maximum ambient atmospheric temperature for the relevant altitude for which approval has been requested and the temperature of the ambient air at the time of the first occurrence of the maximum fluid or component temperature recorded during the cooling test. 
+
+ (d) Correction factor for cylinder barrel temperatures. Cylinder barrel temperatures must be corrected by adding to them 0.7 times the difference between the maximum ambient atmospheric temperature for the relevant altitude for which approval has been requested and the temperature of the ambient air at the time of the first occurrence of the maximum cylinder barrel temperature recorded during the cooling test. 
+
+ 21. Section 23.1045(a) is revised to read as follows: 
+
+Sec. 23.1045 Cooling test procedures for turbine engine powered airplanes. 
+
+ (a) Compliance with Sec. 23.1041 must be shown for all phases of operation. The airplane must be flown in the configurations, at the speeds, and following the procedures recommended in the Airplane Flight Manual for the relevant stage of flight, that correspond to the applicable performance requirements that are critical to cooling. 
+
+* * * * *
+
+ 22. Section 23.1047 is revised to read as follows: 
+
+Sec. 23.1047 Cooling test procedures for reciprocating engine powered airplanes. 
+
+ Compliance with Sec. 23.1041 must be shown for the climb (or, for multiengine airplanes with negative one-engine-inoperative rates of climb, the descent) stage of flight. The airplane must be flown in the configurations, at the speeds and following the procedures recommended in the Airplane Flight Manual, that correspond to the applicable performance requirements that are critical to cooling. 
+
+ 23. Section 23.1091(c)(2) is revised to read as follows: 
+
+Sec. 23.1091 Air induction system. 
+
+* * * * *
+
+ (c) * * * 
+
+ (2) The airplane must be designed to prevent water or slush on the runway, taxiway, or other airport operating surfaces from being directed into the engine or auxiliary power unit air intake ducts in hazardous quantities. The air intake ducts must be located or protected so as to minimize the hazard of ingestion of foreign matter during takeoff, landing, and taxiing. 
+
+Sec. 23.1093 [Amended] 
+
+ 24. Section 23.1093 is amended by adding the heading ``Reciprocating engines with Superchargers'' to paragraph (c). 
+
+ 25. Section 23.1105(a) is revised to read as follows: 
+
+Sec. 23.1105 Induction system screens. 
+
+* * * * *
+
+ (a) Each screen must be upstream of the carburetor or fuel injection system. 
+
+* * * * *
+
+ 26. Section 23.1107 introductory text is revised to read as follows: 
+
+Sec. 23.1107 Induction system filters. 
+
+ If an air filter is used to protect the engine against foreign material particles in the induction air supply-- 
+
+* * * * *
+
+ 27. Section 23.1121(g) is revised to read as follows: 
+
+Sec. 23.1121 General. 
+
+* * * * *
+
+ (g) If significant traps exist, each turbine engine and auxiliary power unit exhaust system must have drains discharging clear of the airplane, in any normal ground and flight attitude, to prevent fuel accumulation after the failure of an attempted engine or auxiliary power unit start. 
+
+* * * * *
+
+ 28. Section 23.1141(b) is revised to read as follows: 
+
+Sec. 23.1141 Powerplant controls: general. 
+
+* * * * *
+
+ (b) Each flexible control must be shown to be suitable for the particular application. 
+
+* * * * *
+
+ 29. Section 23.1143(f) is amended by revising the introductory text to read as follows: 
+
+Sec. 23.1143 Engine controls. 
+
+* * * * *
+
+ (f) If a power, thrust, or a fuel control (other than a mixture control) 
+
+[[Page 5138]] incorporates a fuel shutoff feature, the control must have a means to prevent the inadvertent movement of the control into the off position. The means must-- 
+
+* * * * *
+
+ 30. Section 23.1153 is revised to read as follows: 
+
+Sec. 23.1153 Propeller feathering controls. 
+
+ If there are propeller feathering controls installed, it must be possible to feather each propeller separately. Each control must have a means to prevent inadvertent operation. 
+
+ 31. Section 23.1181 is amended by adding a new paragraph (b)(3) to read as follows: 
+
+Sec. 23.1181 Designated fire zones; regions included. 
+
+* * * * *
+
+ (b) * * * 
+
+ (3) Any complete powerplant compartment in which there is no isolation between compressor, accessory, combustor, turbine, and tailpipe sections. 
+
+* * * * *
+
+Sec. 23.1183 [Amended] 
+
+ 32. Section 23.1183(a) is amended by removing the word ``approved'' in the next to the last sentence, and adding the phrase ``shown to be suitable for the particular application'' in its place. 
+
+ 33. Section 23.1191(b) is revised to read as follows: 
+
+Sec. 23.1191 Firewalls. 
+
+* * * * *
+
+ (b) Each firewall or shroud must be constructed so that no hazardous quantity of liquid, gas, or flame can pass from the compartment created by the firewall or shroud to other parts of the airplane. 
+
+* * * * *
+
+ 34. Section 23.1203(e) is revised to read as follows: 
+
+Sec. 23.1203 Fire detector system. 
+
+* * * * *
+
+ (e) Wiring and other components of each fire detector system in a designated fire zone must be at least fire resistant. 
+
+* * * * *
+
+Sec. 23.1305 [Amended] 
+
+ 35. Section 23.1305(b)(3)(ii) is removed and reserved. 
+
+Sec. 23.1337 [Amended] 
+
+ 36. Section 23.1337(b)(1) is amended by removing the reference ``Sec. 23.959'' and adding the reference ``Sec. 23.959(a)'' in its place. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on January 29, 1996.
+
+David R. Hinson,
+
+Administrator.
+
+[FR Doc. 96-2084 Filed 2-8-96; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 94-19; Issued on 06/22/94.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

@@ -1,0 +1,93 @@
+[Federal Register Volume 73, Number 120 (Friday, June 20, 2008)]
+[Rules and Regulations]
+[Pages 35062-35063]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: E8-13900]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 23
+
+Miscellaneous Markings and Placards
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Final rule; technical amendment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This action corrects a typographical error that appeared in a
+final rule, which the FAA published in the Federal Register. In that
+final rule, the FAA inadvertently changed a word. The intent of this
+action is to correct the error in the regulation to ensure the
+requirement is clear and accurate.
+
+DATES: Effective Dates: Effective on June 20, 2008.
+
+FOR FURTHER INFORMATION CONTACT: Robert Stegeman, Regulations and
+Policy, ACE-111, Federal Aviation Administration, 901 Locust Street,
+Kansas City, MO 64106; telephone (816) 329-4140; e-mail
+[email protected].
+
+SUPPLEMENTARY INFORMATION: On August 6, 1993, the FAA published in the
+Federal Register (58 FR 42166) a final rule that, among other changes,
+amended Sec.  23.1557 by revising Sec.  23.1557(c)(1). In revising
+Sec.  23.1557(c)(1), the word ``filler'' was inadvertently changed to
+``filter.'' This document corrects Sec.  23.1557(c)(1) to reflect the
+correct word ``filler.'' This correction will not impose any additional
+requirements.
+
+Technical Amendment
+
+    This technical amendment corrects a typographical error that
+appears in 14 CFR 23.1557(c)(1).
+
+Justification for Immediate Adoption
+
+    Because this action corrects merely a typographical error, the FAA
+finds that notice and public comment under 5 U.S.C. 553(b) is
+unnecessary. For the same reason, the FAA finds that good cause exists
+under 5 U.S.C. 553(d) for making this rule effective upon publication.
+
+List of Subjects in 14 CFR Part 23
+
+    Aircraft, Aviation safety, Signs and symbols.
+
+The Amendment
+
+0
+Accordingly, Title 14 of the Code of Federal Regulations (CFR) part 23
+is amended as follows:
+
+[[Page 35063]]
+
+PART 23-AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND
+COMMUTER CATEGORY AIRPLANES
+
+0
+1. The authority citation for part 23 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40013, 44701, 44702, 44704.
+
+0
+2. Amend Sec.  23.1557 by revising Sec.  23.1557(c)(1) introductory
+text to read as follows:
+
+Sec.  23.1557  Miscellaneous markings and placards.
+
+* * * * *
+    (c) * * *
+    (1) Fuel filler openings must be marked at or near the filler cover
+with--
+* * * * *
+
+    Issued in Washington, DC on June 16, 2008.
+Pamela Hamilton-Powell,
+Director, Office of Rulemaking.
+ [FR Doc. E8-13900 Filed 6-19-08; 8:45 am]
+BILLING CODE 4910-13-P

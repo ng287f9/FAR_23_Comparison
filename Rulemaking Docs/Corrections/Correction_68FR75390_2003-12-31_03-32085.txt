@@ -1,0 +1,173 @@
+<html>
+<head>
+<title>Federal Register, Volume 68 Issue 250 (Wednesday, December 31, 2003)</title>
+</head>
+<body><pre>
+[Federal Register Volume 68, Number 250 (Wednesday, December 31, 2003)]
+[Rules and Regulations]
+[Pages 75390-75391]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 03-32085]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Parts 23 and 33
+
+[Docket No. FAA-1998-4815; Amendment No. 23-54 and 33-20]
+RIN 2120-AF84
+
+
+Airworthiness Standards; Bird Ingestion; Correction
+
+AGENCY: Federal Aviation Administration, Transportation.
+
+ACTION: Correcting amendments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document contains corrections to the final regulations 
+for bird ingestion type certification standards that the Federal 
+Aviation Administration (FAA) published in the Federal Register on 
+September 14, 2000 (65 FR 55848), with an effective date of December 
+13, 2000. These regulations revised the bird ingestion type 
+certification standards for aircraft turbine engines.
+
+DATES: Effective on January 1, 2004.
+
+FOR FURTHER INFORMATION CONTACT: Marc Bouthillier, Engine and Propeller 
+Standards Staff, ANE-110, Engine and Propeller Directorate, Aircraft 
+Certification Service, Federal Aviation Administration (FAA), New 
+England Region, 12 New England Executive Park, Burlington, 
+Massachusetts 01803-5299; telephone (781) 238-7114; fax (781) 238-7199; 
+electronic mail: <a href="/cdn-cgi/l/email-protection#f2bf938091dc909d87869a9b9e9e9b9780b2949393dc959d84"><span class="__cf_email__" data-cfemail="773a16051459151802031f1e1b1b1e12053711161659101801">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The final regulations that are the subject of these corrections, 
+revised the bird ingestion type certification standards for aircraft 
+turbine engines to better address the actual bird threat encountered in 
+service, and established nearly uniform bird ingestion standards for 
+aircraft turbine engines certified by the United States under FAA 
+standards and by the Joint Aviation Authorities (JAA) countries under 
+JAA standards, thereby simplifying airworthiness approvals for import 
+and export.
+
+Need for Correction
+
+    As published, the final regulations contain errors that may prove 
+to be misleading and need to be clarified.
+
+List of Subjects
+
+14 CFR Part 23
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+[[Page 75391]]
+
+14 CFR Part 33
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+0
+Accordingly, 14 CFR parts 23 and 33 is corrected by making the 
+following correcting amendments:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND 
+COMMUTER CATEGORY AIRPLANES
+
+0
+1. The authority citation for part 23 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704.
+
+
+0
+2. Correct paragraph (a)(2)(i) of Sec.  23.903 to read as follows:
+
+
+Sec.  23.903  [Corrected]
+
+    (a) In paragraph (a)(2)(i), the sentence should read ``Sections 
+33.76, 33.77 and 33.78 of this chapter in effect on December 13, 2000, 
+or as subsequently amended; or''.
+
+PART 33--AIRWORTHINESS STANDARDS; AIRCRAFT ENGINES
+
+0
+3. The authority citation for part 33 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704.
+
+
+0
+4. Correct paragraphs (b)(1), (c)(1), (c)(7)(ii), (c)(7)(iii), 
+(c)(7)(viii), (c)(7)(i)(x), (c)(8)(v), (c)(8)(v)(i), Table 1 and Table 
+2 of Sec.  33.76 to read as follows:
+
+
+Sec.  33.76  [Corrected]
+
+    1. In Sec.  33.76, paragraph (b)(1), in two instances in this 
+sentence, remove the word ``rotocraft'' and add in its place the word 
+``rotorcraft''.
+    2. In Sec.  33.76, in paragraph (c)(1), in the second sentence, 
+remove the word ``affects'' and add in its place the word ``effects'' 
+and remove the word ``roto'' and add in its place the word ``rotor''.
+    3. In Sec.  33.76, in paragraph (c)(7)(ii), remove the word 
+``level'' and add in its place the word ``lever''.
+    4. In Sec.  33.76, in paragraph (c)(7)(iii), remove the figure 
+``175-percent'' and add in its place the figure ``75-percent''.
+    5. In Sec.  33.76, in paragraph (c)(7)(viii), remove the sentence 
+``The durations specified are times at the defined conditions with the 
+power lever being moved between each condition in less than 10 
+seconds.''
+    6. In Sec.  33.76, in paragraph (c)(7), add a new paragraph 
+(c)(7)(ix) to read as follows:
+* * * * *
+    (c) * * *
+    (7) * * *
+    (ix) The durations specified are times at the defined conditions 
+with the power being changed between each condition in less than 10 
+seconds.
+* * * * *
+    7. In Sec.  33.76, in paragraph (c)(8)(v), remove the sentence 
+``The duration specified are times at the defined conditions with the 
+power being changed between each condition in less than 10 seconds.''
+    8. In Sec.  33.76, in paragraph (c)(8), add a new paragraph 
+(c)(8)(vi) to read as follows:
+* * * * *
+    (c) * * *
+    (8) * * *
+    (vi) The durations specified are times at the defined conditions 
+with the power being changed between each condition in less than 10 
+seconds.
+* * * * *
+    9. In Sec.  33.76, in Table 1, in the first column heading, remove 
+the words ``Square/meters'' and add in their place the words ``Square-
+meters''.
+    10. In Sec.  33.76, in Table 1, in the first column, second row, 
+remove the figure ``(2,029) and add in its place ``(2,092)''.
+    11. In Sec.  33.76, in Table 2, in the first column, second row, 
+remove the figure ``.05'' and add in its place ``0.05''.
+    12. In Sec.  33.76, in Table 2, in the third column, tenth row, 
+remove the figure ``(2,53)'' and add in its place ``(2.53)''.
+
+    Issued in Burlington, Massachusetts, on December 18, 2003.
+Peter A. White,
+Acting Manager, Engine and Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 03-32085 Filed 12-30-03; 8:45 am]
+BILLING CODE 4910-13-M
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

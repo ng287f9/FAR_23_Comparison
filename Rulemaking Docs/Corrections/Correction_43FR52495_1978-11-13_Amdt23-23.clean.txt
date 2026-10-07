@@ -1,0 +1,78 @@
+[[Page 1]]
+November 13, 1978
+o
+[ 1505-01-M]
+Title 14mAeronautlcs and Space
+CHAPTER ImFEDERAL AVIATION AD-
+MINISTRATION, DEPARTMENT OF
+TRANSPORTATION
+[Docket Nos. 14324, 14606, 14625, 14685, and
+14779; Amdt.. Nos. 23-23; 25-46; 27-16; 29-
+17; and 121-149]
+AIRWORTHINESS REVIEW PROGRAM
+AMENDMENT NO. 7
+Airframe Amendments; Final Rule
+Correction
+In FR Doc. "/8-30348 appearing at
+page 505"/8 in the issue for Monday,
+October 30, 1978, make the following
+changes:
+(1) On page 50593, middle column,
+the section heading now reading
+"§23.785 Seats and berths." should
+have read "§23.785 Seats, berths,
+safety belts, and harnesses."
+(2) On page 50594, third column, the
+formula in § 25.331(c)(2)(i) should
+have read as follows:
+Y
+where--
+n is the positive load factor at the speed
+under consideration; and
+V is the airplane equivalent speed in knots.
+(3) In the same section, in paragraph -
+(c)(1)(ii), in the fifth line, "The nega-
+tive pitching * * *" should have read
+"This negative pitching ° * *," and the
+formula should have read as follows:
+where--
+n is the positive load factor at the speed
+under consideration; and V is the airplane
+equivalent speed in knots.
+(4) On page 50597, in §25.811, the
+first paragraph at the top of the
+center column, the text labeled "(ii)"
+in the third line should have been set
+forth as a separate paragraph.
+52495
+
+[[Page 2]]
+54082
+[1505-01-M]
+Title 14--Aeronautics and Space"
+CHAPTER I--FEDERAL AVIATION AD-
+MINISTRATION, DEPARTMENT OF
+TRANSPORTATION
+[Docket Nos. 14324, 14606, 14625. 14685, and
+14779;Amdt. Nos.23-23; 25-46;27-16; 29-
+17;and 121-149]
+PART 2S--AIRWORTHINESS STAND-
+ARDS: TRANSPORT CATEGORY
+AIRPLANES
+Airworthiness Review Program
+Amendment No. 7; Airframe
+Amendments; Final Rule
+Correction
+On page 52495 in the" issue for
+Monday, November 13, 1978, there ap-
+peared a correction to FR Doc. 78-
+30348 which had appeared in the issue
+of October 30, 1978.Because of print-
+ing limitations,the reproductionsof
+the formulas for § 25.331(c)(2)(i) and
+(c)(2)(ii) did not come out perfectly.
+Therefore, please note that the por:
+tionof both formulas which reads"(n-
+15)"should have appeared with a deci-
+mal pointas follows:"(n-1.5)".
+November 20, 1978

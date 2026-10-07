@@ -1,0 +1,284 @@
+FINAL RULES: 23-33
+
+ 
+ 
+        
+CITATION: [Federal Register: July 24, 1986 (Volume 51, Number 142)]
+
+ 
+        
+PAGE NUMBER: [Page 26654]
+
+ 
+        
+DOCKET NUMBER: 24191
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Standardization of Cockpit Controls for Small Airplanes
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: This amendment revises the airworthiness standards for small airplanes to require standardization of aerodynamic, powerplant, fuel systems, and auxiliary cockpit controls. This action to standardize cockpit controls is taken to minimize accidents caused by random location, operation, and arrangement of cockpit controls. This amendment establishes a level of safety for cockpit controls of small airplanes consistent with that established for larger airplanes.
+
+ 
+        
+DATES: EFFECTIVE DATE: August 11, 1986.
+
+ 
+        
+EFFECTIVE DATE: 1986-08-11
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: David M. Warner, Regulations and Policy Office (ACE-110), Aircraft Certification Division, Central Region, Federal Aviation Administration, 601 East 12th Street, Kansas City, Missouri 64106; Telephone: (816) 374-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+ The National Transportation Safety Board (NTSB) has issued several safety recommendations on standardization of cockpit controls. Data from accident reports that the lack of standardization in the location, operation, and arrangement of
+
+cockpit controls has been a casual factor in an unacceptable number of accidents. The General Aviation Manufacturer's Association (GAMA) has indicated they support many of these recommendations and has proposed revisions to Sections 23.777 through 23.781 to standardize powerplant and fuel controls. The GAMA proposals are substantively equivalent to Sections 25.777 through 25.781.
+
+ Selection of the proper cockpit control, and when and how to operate it, is a matter of pilot training. Control location, identification, arrangement, and direction of motion are a matter of design. The effectiveness of pilot training, relative to selection and operation of a control and how to operate it, is significantly affected by cockpit design. When a pilot operates airplanes with more than one cockpit design, regardless of pilot experience and training level, the pilot's effectiveness is less than it would be were all of the operations in a single cockpit design. An effective and practical means of enhancing both the effectiveness of pilot training and enhancing safety is to require standardization of location, shape, and direction of movement of cockpit controls. This should have minimal adverse effect on design advancement.
+
+ As a result of the above considerations, the FAA issued Notice No. 84-12 (49 FR 32300; August 13, 1984) to amend and revise Sections 23.777, 23.779, 23.781, and 23.1147.
+
+Discussion of Comments
+
+ Twelve commenters representing the views of associations, individuals, manufacturers, and pilots submitted responses to Notice No. 84-12. All commenters support standardization of cockpit controls, and some commenters suggest changes to the proposals.
+
+ One commenter recommends that Section 23.777(c)(3) include the phrase "the approximate centerline of" before "instrument panel". To ensure that all controls are near the center line, Section 23.777(c)(3) has been revised. The general statements of Section 23.777(a) and (b) also restrict controls to a convenient location for the pilot.
+
+ One commenter suggests that Section 23.777(c) be revised to read: "The direction of movement of cockpit controls must meet the requirements of Section 23.779. Controls of a variable nature using a rotary motion must move clockwise from the off position, through an increasing range, to the full-on position." Proposed Section 23.779(b)(1) requires rotary controls to move in a manner equivalent to the commenter's proposal. The FAA does not agree that Section 23.779 needs to be referenced in Section 23.777 and notes that the requirements of Section 23.779 stand alone. Therefore, Section 23.777(c) is not revised as suggested. 
+
+ Two commenters state that proposed Section 23.777 prevents design of side-by-side trainer airplanes with two sets of power controls, one on each side of the cockpit. The FAA did not intend to preclude such control arrangements and is clarifying this intent in Section 23.777.
+
+ A commenter suggests that the phrase "height or length not less than that allowing movement without interference with any adjacent control," be added to Section 23.777(d). Another commenter suggests "higher or longer" is vague. In response to these recommendations, and to be consistent with Section 25.1149, the phrase "at least one inch" has been inserted before "higher or longer" in Section 23.777(d).
+
+ One commenter suggests that in Section 23.777(d), the phrase "or alternate air control" be added after "carburetor heat" in two places to accommodate fuel injection engines. The FAA agrees and Section 23.777(d) is revised accordingly.
+
+ Four commenters suggest that supercharger controls be located in a standardized position. The FAA stated its intent to standardize supercharger control positions in Notice No. 84-12 and concurrently proposed Section 23.777(d). Section 23.777(d) is therefore adopted as proposed.
+
+ One commenter states that Notice No. 84-12 does not recognize floor-positioned flap mechanical controls and suggests that Section 23.777(f) read: "Unless a floor-position mechanical flap control is used, wing flap and auxiliary lift device controls must be located:" The current rule does not exclude floor-positioned flap mechanical controls and the proposed change is not needed.
+
+ One commenter suggests that Section 23.777(h)(1) should read: "The indication of the selected fuel valve position must provide positive identification of the selected position." Since proposed Section 23.777(h)(1)(i) would require positive
+
+identification of the selected position, it is adopted as proposed.
+
+ One commenter suggests that Section 23.777(i) should read: "Control knob shape must be in accordance with Section 23.781." Section 23.781 is a stand-alone requirement and does not need to be cross referenced in Section 23.777.
+
+ Three commenters suggest use of words like "clockwise when viewed from the right" for pitch trim, and the insertion of the word "similar" between "produce a" and "rotation" in Section 23.779. Most of the discussion on cockpit controls at the Part 23 Regulatory Review Conference was on trim control standardization. The word "similar" offers improvement, is consistent with Section 25.779(a)(2), and is adopted as suggested. On the other hand, "clockwise when viewed from the right" is not clarifying and is not adopted. For instance, small, single-engine airplanes that have no pedestal for mounting rudder trim controls present a special problem. With the proposed wording of Section 23.779, a wheel or crank overhead can produce airplane rotation in similar direction to the wheel or crank rotation, but if just the edge of a wheel protrudes from a panel, it requires right motion of the pilot's hand to trim left. Since directional trim for small, single-engine airplanes is not critical for safety of flight an exception for such airplanes to allow motion of the airplane to be similar to the direction of hand movement is adopted in Section 23.779(a)(2).
+
+ One commenter suggests that cowl flaps be listed under auxiliary controls in Section 23.779. One commenter, representing aviation manufacturers, states that cowl flap controls should not be regulated in a specific manner and suggests that their motion and effect to be as placarded. The FAA does not consider cowl flap control standardization a safety of flight problem and wants to allow design flexibility where safety is not an issue. Therefore, Section 23.779(b)(1) is adopted as proposed.
+
+ One commenter suggests elimination of the color requirement in proposed Section 23.781. The FAA agrees that color of control knobs is not a safety issue and will not adopt the proposed color requirement.
+
+ One commenter suggests additional cockpit control knob shapes for Section 23.781. Also, one commenter suggests that spherical knobs should be admissible as well as cylindrical knobs for power (thrust control). The purpose of control standardization is to enhance pilot effectiveness. The FAA has concluded that these recommendations do not achieve that purpose. Such thrust control shapes would not enhance tactile identification of controls from one airplane model to another. Therefore, Section 23.781 is adopted as proposed.
+
+ Two commenters suggest that Section 23.1147 should require a positive locking device for the mixture control to prevent inadvertent loss of power when carburetor heat is desired. The wording in Notice No. 84-12 requires crew action separate from control movement before the mixture control can be moved toward the lean or cut-off position. The FAA finds that the proposed wording will accomplish the commenter's objective and Section 23.1147 is adopted as proposed.
+
+ One commenter suggests requiring either carburetor heat or mixture control to have quadrant motion like a throttle to prevent confusion. The FAA does not agree. The rules do not require throttles to have "quadrant motion" and the FAA has determined that the distance specification and separate and distinct motion required in proposed Section 23.1147(b) provides an acceptable level of safety. Therefore, Section 23.1147(b) is adopted as proposed.
+
+ One commenter suggests that a separate and distinct operation be required to move any powerplant control in a direction that would reduce power by inadvertent action. The FAA does not agree. Rejected takeoff and other emergency conditions occur that require quick reduction of power for safety reasons. Therefore, this suggestion is not incorporated in this rulemaking action.
+
+ One commenter suggests inclusion of the primer or choke in this rulemaking action. The FAA does not agree. Primer or choke are not used during flight. Therefore, this suggestion is not incorporated in this rulemaking action.
+
+ One commenter addresses inadvertent landing gear retraction, but does not make a recommendation. The FAA did not propose any substantive change to landing gear or flap control requirements in Notice 84-12. Since this comment is beyond the scope of the notice, no action is taken on this suggestion.
+
+ Two commenters suggest a specification for motion and effect of the fuel selector handle. A recent amendment to Section 23.995 (Amendment 23-29, 49 FR 6832; February 23, 1984) addresses concerns about separate and distinct action required to place the fuel selector handle in the "off" position and to preclude passing through the "off" position when changing from one tank to another. Redesignated Section 23.777(h) is amended to include a reference to Section 23.995 in this rulemaking action. Although fuel tank selectors were not addressed in the proposal to amend Section 23.779(b)(2), the FAA agrees that motion and effect of the fuel tank selector should be standardized with other auxiliary cockpit controls to reduce the incidence of inadvertent selection of the wrong fuel tank. Therefore, Section 23.779(b)(2), as adopted, requires motion of the fuel tank selector to the right to select right tanks and to the left to select left tanks.
+
+ One commenter suggests reviewing indication systems (warning, caution, and advisory lights), with a view toward developing improved advisory material. Such action is beyond the scope of Notice No. 84-12. Therefore, no action is taken on this suggestion in this rulemaking action.
+
+ One commenter suggests that Notice No. 84-12 should not apply to rotary wing aircraft and particularly small gyrocopters. The FAA agrees and points out that this Notice No. 84-12 applies only to airplanes certificated to the requirements of Part 23. There was no intent to address rotary wing aircraft in this notice. This commenter also recommends that this rulemaking action be consistent with military standards and specifications. The FAA does not agree and points out that the military procurement process is mission oriented and totally independent of the FAA rulemaking process.
+
+ One commenter recommended that FAA issue a new NPRM, apart from or as part of the Part 23 Airworthiness Review, taking into account the Part 23 Review Conference proposals, conference transcript, and the comments submitted to the docket for NPRM No. 84-12. Review conference proposals 277, 278, 279, and 280 addressed issues raised in Notice No. 84-12.
+
+ Notice No. 84-12's comment period was scheduled to close October 12, 1984, but was extended by Notice No. 84-12A (49 FR 40186; October 15, 1984) to November 12, 1984, to permit commenters the opportunity to submit more comprehensive comments to the docket resulting from conference proposals 277, 278, 279, and 280.
+
+ The conference chairman directed that the transcript of the conference discussions on these proposals be placed in Docket No. 24191 for Notice No. 84-12 and asked that everybody who commented at the conference reduce their comments to writing and submit them to the FAA docket for Notice No. 84-12.
+
+ A review of this commenter's comments to the docket and the conference transcript reveals that all issues raised in the conference discussion are addressed in discussions in this action. The comments received in the docket and the conference discussions support the finding that a significant increase in the level of safety with little or no increase in cost will result from adopting these standards and do not support a finding that a new NPRM should be issued as suggested. Therefore, this final action is being taken. This action also completes action on review conference proposals 277, 278, 279, and 280.
+
+Economic Evaluation
+
+ In determining compliance with Executive Order 12291 (46 FR 13193; February 19, 1981), the FAA has concluded that the amendment will not require any additional cockpit controls or equipment in the airplane design. It only requires standardization of the relative location and motion of the affected controls in new designs. Because such standardization will result in minimal cost impact, the FAA has determined that it will not be a major rule since it will not have an annual effect on the economy of 100 million dollars or more; it will not result in a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions; and it will not have significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based enterprises to compete with foreign-based enterprises in domestic or export markets.
+
+Regulatory Flexibility Determination
+
+ In addition to the reasons discussed earlier, the regulatory impact of showing compliance with this requirement is minimal in that it does not require any additional cockpit controls. It only requires standardized relative location and motion-and-effect of control movement for those controls affected in newly designed airplanes. The cost is no greater to design and manufacture standardized cockpit controls for a new airplane design. For these reasons, this final rule is not expected to have a significant economic impact on a substantial number of small entities, and a Regulatory Flexibility Analysis has not been prepared.
+
+Conclusion
+
+ The FAA has determined that this amendment is not a major rule under the provisions of Executive Order 12291, and is not significant under the provisions of the Department of Transportation Regulatory Policies and Procedures (44 FR 11034; February 26, 1979). For the reasons discussed earlier, the FAA certifies that the amendment will not have a significant economic impact on a substantial number of small entities under provisions of the Regulatory Flexibility Act. In addition, this amendment will have little or no impact on trade opportunities for U.S. firms doing business overseas, or for foreign firms doing business in the United States. The draft evaluation prepared for this action is contained in the regulatory docket. A copy of it may be obtained by contacting the person under the caption "For Further Information Contact."
+
+List of Subject in 14 CFR Part 23
+
+ Aircraft, Aviation safety, Air transportation, Safety, Tires.
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendment
+
+Part 23 - [Amended]
+
+ Accordingly, Part 23 of the Federal Aviation Regulations (14 CFR Part 23) is amended as follows:
+
+1. The Authority Citation for Part 23 is revised to read as follows and the authority citations following all sections in Part 23 are removed:
+
+Authority: 49 U.S.C. 1344, 1354(a), 1355, 1421, 1423, 1425, 1428, 1429, 1430; 49 U.S.C. 106(g) (Revised Pub. L. 97-449, January 12, 1983).
+
+2. Section 23.777 is amended by redesignating paragraph (c) as (e) and adding paragraphs (1) and (2); by redesignating (d) as (f), (e) as (g), and (f) as (h), by adding new paragraphs (c) and (d); and by amending redesignated paragraph (h) introductory text by inserting the phrase "comply with Sec. 23.995 and" between "must" and "be", and adding new paragraphs (1), (2), (3), and (4) to read as follows:
+
+Sec. 23.777 Cockpit controls.
+
+* * * * *
+
+(c) Powerplant controls must be located -
+
+(1) For multiengine airplanes, on the pedestal or overhead at or near the center of the cockpit;
+
+(2) For tandem seated single-engine airplanes, on the left side console or instrument panel;
+
+(3) For other single-engine airplanes at or near the center of the cockpit, on the pedestal, instrument panel, or overhead; and
+
+(4) For airplanes, with side-by-side pilot seats and with two sets of powerplant controls, on left and right consoles.
+
+(d) The control location order from left to right must be power (thrust) lever, propeller (rpm control), and mixture control (condition lever and fuel cutoff for turbine-powered airplanes). Power (thrust) levers must be at least one inch higher or longer to make them more prominent than propeller (rpm control) or mixture controls. Carburetor heat or alternate air control must be to the left of the throttle or at least eight inches from the mixture control when located other than on a pedestal. Carburetor heat or alternate air control, when located on a pedestal must be aft or below the power (thrust) lever. Supercharger controls must be located below or aft of the propeller controls. Airplanes with tandem seating or single-place airplanes may utilize control locations on the left side of the cabin compartment; however, location order from left to right must be power (thrust) lever, propeller (rpm control) and mixture control.
+
+(e) * * *
+
+(1) Conventional multiengine powerplant controls must be located so that the left control(s) operates the left engines(s) and the right control(s) operates the right engine(s).
+
+(2) On twin-engine airplanes with front and rear engine locations (tandem), the left powerplant controls must operate the front engine and the right powerplant controls must operate the rear engine.
+
+* * * * *
+
+(h) * * *
+
+(1) For mechanical fuel selector;
+
+(i) The indication of the selected fuel valve position must be by means of a pointer and must provide positive identification and feel (detent, etc.) of the selected position.
+
+(ii) The position indicator pointer must be located at the part of the handle that is the maximum dimension of the handle measured from the center of rotation.
+
+(2) For electrical or electronic fuel selector:
+
+(i) Digital controls or electrical switches must be properly labelled.
+
+(ii) Means must be provided to indicate to the flight crew the tank or function selected. Selector switch position is not acceptable as a means of indication. The "off" or "closed" position must be indicated in red.
+
+(3) If the fuel valve selector handle or electrical or digital selection is also a fuel shut-off selector, the off position marking must be colored red. If a separate emergency shut-off means is provided, it also must be colored red.
+
+3. Section 23.779 is revised to read as follows:
+
+Sec. 23.779 Motion and effect of cockpit controls.
+
+Cockpit controls must be designed so that they operate in accordance with the following movement and actuation:
+
+(a) Aerodynamic controls:
+
+ Motion and effect
+
+ 
+
+(1) Primary Controls 
+
+Aileron Right (clockwise) for right wing down. 
+
+Elevator Rearward for nose up. 
+
+Rudder Right pedal forward for nose right. 
+
+(2) Secondary Controls 
+
+Flaps (or auxiliary lift devices) Forward or up for flaps up or auxiliary device stowed; rearward or down for flaps down or auxiliary device deployed. 
+
+Trim tabs (or equivalent) Switch motion or mechanical rotation of control to produce similar rotation of the airplane about an axis parallel to the axis control. Axis of roll trim control may be displaced to accommodate comfortable actuation by the pilot. For single-engine airplanes, direction of pilot's hand movement must be in the same sense as airplane response for rudder trim if only a portion of a rotational element is accessible. 
+
+ (b) Powerplant and auxiliary controls:
+
+ 
+
+ Motion and effect
+
+ 
+
+(1) Powerplant Controls 
+
+Power (thrust lever) Forward to increase forward thrust and rearward to increase rearward thrust. 
+
+Propellers Forward to increase rpm. 
+
+Mixture Forward or upward for rich. 
+
+Carburetor air heat or alternate air Forward or upward for cold. 
+
+Supercharger Forward or upward for low blower. 
+
+Turbo-superchargers Forward, upward, or clockwise to increase pressure. 
+
+Rotary controls Clockwise from off to full on. 
+
+(2) Auxiliary Controls 
+
+Fuel tank selector Right for right tanks, left for left tanks. 
+
+Landing gear Down to extend. 
+
+Speed brakes Aft to extend. 
+
+4. Section 23.781 is amended by designating the existing requirement as paragraph (a) and changing "Cockpit" in paragraph (a) to "Flap and landing gear"; and by adding a new paragraph (b) to read:
+
+Sec. 23.781 Cockpit control knob shape.
+
+* * * * *
+
+(b) Powerplant control knobs must conform to the general shapes (but not necessarily the exact sizes or specific proportions) in the following figure:
+
+5. Section 23.1147 is amended by redesignating the last sentence of the first paragraph as (a); redesignating (a) and (b) as paragraphs (1) and (2) under new paragraph (a); and by adding a new (b) to read as follows:
+
+Sec. 23.1147 Mixture controls.
+
+* * * * *
+
+(b) The controls must require a separate and distinct operation to move the control toward lean or shut-off position.
+
+ 
+        
+FOOTER: Issued in Washington, DC on July 7, 1986.
+
+Donald D. Engen,
+
+Administrator.
+
+[FR Doc. 86-15567 Filed 7-23-86; 8:45 am]
+
+BILLING CODE 4010-13-M
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 84-12; Issued on 05/11/84.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

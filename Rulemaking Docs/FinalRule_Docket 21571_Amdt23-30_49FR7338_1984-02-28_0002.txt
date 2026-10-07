@@ -1,0 +1,172 @@
+FINAL RULES: 23-30
+
+ 
+ 
+        
+CITATION: [Federal Register: February 28, 1984 (Volume 49, Number 40)]
+
+ 
+        
+PAGE NUMBER: [Page 7338]
+
+ 
+        
+DOCKET NUMBER: 21571
+
+ 
+        
+14 CFR PARTS: Part 23
+
+ 
+        
+SUBJECT HEADING: Equipment Standards for Oxygen Dispensing Equipment
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: This amendment to Part 23 of the Federal Aviation Regulations (FAR) revises the equipment standards for oxygen dispensing units. This amendment permits the use of nasal cannulas for type certification of small airplanes up to and including 18,000 feet (MSL), when requested, instead of an oxygen dispensing unit (mask) covering the nose and mouth of the user. The rule will provide relief from a specific equipment standard when oxygen dispensing units are installed in small airplanes.
+
+ 
+        
+DATES: EFFECTIVE DATE: This rule becomes effective March 29, 1984.
+
+ 
+        
+EFFECTIVE DATE: 1984-03-29
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: J. Robert Ball, Regulations and Policy Office (ACE-110), Aircraft Certification Division, Central Region, Federal Aviation Administration, 601 E. 12th Street, Kansas City, Missouri 64106; Telephone (816) 374-5688.
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+ Airworthiness standards for oxygen dispensing units in small airplanes have been in effect since June 17, 1970, and are applicable only if certification with supplemental oxygen equipment is desired. This amendment provides an additional method, with limitations, of complying with the minimum safety requirements for small airplanes when oxygen dispensing units are installed.
+
+ The FAA, to obtain public awareness and early participation in this rulemaking action, published a summary of the Petition for Rulemaking submitted by the White-Diamond Corporation and the recommended change to Sec. 24.1447 of the Federal Aviation Regulations (FAR) in the Federal Register (46 FR 30352) on June 8, 1981. Numerous comments were received in response to the Federal Register publication and all comments received supported the White-Diamond Corporation's recommended change. In support of their petition, the White-Diamond Corporation submitted a copy of an information report prepared by the Armed Forces Institute of Pathology (AFIP). This report cited the results of tests performed with test subjects using a nasal cannula at various pressure altitudes from ground level to 25,000 feet. These tests were conducted using only six test subjects, and the report did not provide a correlation between the test subjects and the general aviation population who might use a nasal cannula to provide adequate supplemental oxygen.
+
+ After an analysis of the results of the test performed by the AFIP, and other physiological information obtained, the FAA conducted that a nasal cannula is an effective oxygen dispensing device with certain limitations. The analysis of the AFIP test data and other information obtained persuaded the FAA to issue a Notice of Proposed Rulemaking Notice No. 82-16 (47 FR 56456; December 16, 1982) to amend Sec. 23.1447 of the FAR to permit the use of nasal cannulas, with limitations, as an oxygen dispensing unit as an alternative to the oxygen dispensing unit covering the nose and mouth of the user.
+
+Discussion of Comments
+
+ In response to Notice No. 82-16, the FAA received 23 written comments stating the commenters' views on the notice and 29 comments on forms carrying the White-Diamond Corporation name. The latter forms asked specific questions and provided blocks for checking answers, such as: Yes-No, or Excellent, Good, Fair, or Poor, and requested the type of aircraft usually flown. Names of commenters were shown on six of the forms received.
+
+ Generally, the comments, both written and forms completed, favor adoption of the amendment to Sec. 23.1447 of the FAR as proposed. There were six manufacturers of oxygen equipment, one industry association, and one individual opposed to the proposed amendment. The following is a discussion of the points raised in opposition to the amendment.
+
+ Several commenters who oppose the proposed amendment contend that the AFIP tests are not valid as a basis for adopting the proposal. Their contentions are based on the following: (1) Only six test subjects were used; (2) the test subjects were highly trained, peak (physical) condition personnel; (3) the test subjects were relatively young men and women; (4) the AFIP is not qualified to conduct the tests; (5) more conclusive testing should be done; and (6) the general aviation population includes persons with circulatory disorders or lung diseases and these persons require supplemental oxygen above 10,000 feet to prevent significant insidious hypoxia.
+
+ Prior to the submission of the petition to amend Sec. 23.1447 to permit the use of nasal cannulas as an oxygen dispensing unit, the FAA prepared a testing protocol for evaluating the nasal cannula. The protocol specified five relatively healthy volunteers as test subjects for hypobaric chamber testing. The number of test subjects was obtained from the Note to paragraph 4.1.8 of Technical Standard Order (TSO)-C64, Subject: Oxygen Mask Assembly, Continuous Flow, Passenger (For Air Carrier Aircraft), which is related to mask testing on human subjects at altitude. Five has been accepted as the minimum number of test subjects since TSO-C64 became effective on October 1, 1961. It is agreed that the test subjects used in the AFIP tests were probably in excellent health. An article by James P. Dixon, Aerospace Physiology Branch, AFIP, stated that the test subjects used in the arterial oxygen saturation tests, at altitudes using a nasal cannula, were in excellent health, had an FAA Class III medical certificate, and were part of altitude studies being conducted at the AFIP. In addition, it was concluded in the article that a study utilizing a more representative sample of the population, especially by age and physical condition may prove more conclusive in the assignment of safe operational altitudes for the nasal cannula since the test subject's ages varied from 26 to 37 years of age. It was concluded that the nasal cannula may not be the optimal means of supplying supplemental oxygen for a pilot unless there are requirements for flying at or below 20,000 feet and any physical activity accentuates the factors which limit the performance of the nasal cannula, necessitating a restricted operational altitude of 20,000 feet. Based upon the evidence, it was further concluded that, for passengers at rest in aircraft, the nasal cannula is adequate at altitudes to 25,000 feet.
+
+ One Commenter states that the nasal cannula is only acceptable under ideal conditions below 18,000 feet. The AFIP test data does not support this statement by the commenter, nor does the commenter present any data to indicate otherwise.
+
+ For commenters contend that "mouth breathers" negate the effectiveness of the nasal cannula to adequately supply supplemental oxygen. The AFIP tests indicate that this is not the case. The test results show that there was no significant difference, at a test altitude of 20,000 feet, between the mean oxygen saturation readings with the test subjects breathing through their mouths, reading aloud at 30-second intervals for a period of 4 minutes and 30 seconds and exercising for a 5-minute duration. In each test phase, the oxygen saturation level at 20,000 feet remained above the 90-percent level. Ninety percent oxygen saturation level is considered to be the minimum level to prevent hypoxia.
+
+ One comment states that testing has proven that the most effective mask is one which covers the nose and mouth. It is agreed that the most effective mask may be one which covers both the nose and mouth; however, the requirements are that the oxygen dispensing unit provide for effective utilization of the oxygen being delivered. The objective of the rule is to prevent hypoxia from developing in the occupants of the airplane and the nasal cannula meets this requirement.
+
+ Another commenter expresses concern over the ability to perform the Val Salva function; that is the pinching of the nose to clear the inner ear, and contends that a high percentage of the flying populace has a dependence on this function as the sole means of avoiding ear pain or ear damage. The FAA is of the opinion that the use of the nasal cannula is no different in this regard than an oxygen dispensing unit covering both the nose and mouth of a continuous flow oxygen system. Both require removal of the units to perform the Val Salva function effectively.
+
+ Two comments address the potential problem with users of oxygen systems who smoke and cite, since the mouth is not covered, that users may inadvertently start to smoke. The FAA addresses this problem by requiring a visible warning against smoking while in use. Individuals who choose to ignore this warning are considered to be in the same group which will pull a mask covering both the nose and mouth down around their necks and then start to smoke. It is not reasonable to preclude the use of a nasal cannula by responsible individuals due to possible actions by irresponsible persons.
+
+ Another commenter states opposition to the rule unless there are extensive warnings against the waste of the oxygen and the danger of hypoxia from running out of oxygen. The commenter contends that most aircraft oxygen systems barely carry enough oxygen for a full load of crew and passengers wearing efficient masks, let alone the grossly inefficient technique of blowing the oxygen up someone's nostril.
+
+ Section 23.1441(c) of the FAR requires that there be a means to allow the crew to readily determine, during the flight, the quantity of oxygen available in each source of supply. The FAA does not consider additional warning necessary when there exists a current requirement for making a determination of the oxygen available in reach source of supply. The nasal cannula is no more wasteful of oxygen than simple cup shaped masks without rebreather bags using continuous flow oxygen. Section 23.1443 of the FAR specifies the minimum mass flow of supplemental oxygen to be supplied to each user and no data is presented by the commenter that the current requirement is not an adequate minimum standard. The contention that the nasal cannula is grossly inefficient is not supported by the commenter and, contrary to this contention, the test results of the AFIP indicate that the nasal cannula is an effective oxygen dispensing unit with limitations.
+
+ One area of comments about which the FAA is vitally concerned is the use and effectiveness of the nasal cannula to supply oxygen effectively when a user has a head cold. The FAA Medical Handbook for Pilots (Advisory Circular No. 67-2) speaks to this in the following manner: "If you have a cold, the tissue around the nasal end of the eustachian tube will probably be swollen, and you can expect ear problems to be aggravated in flight. The best advice is to STAY ON THE GROUND. if you must fly, do so at lower altitudes. This precaution may prevent a perforated or painful eardrum."
+
+ For type certification of small airplanes with nasal cannulas as the primary oxygen dispensing units, the FAA is of the opinion that consideration must be given to those rare instances in which at least one occupant may have a head cold or nasal obstruction from other causes. While the nasal cannula is an effective means of dispensing oxygen to users, another means must be available for those persons with nasal obstructions. For the reasons cited above, the FAA is requiring that at least one oxygen dispensing unit covering both the nose and mouth of the user be installed or available.
+
+ One commenter asks if the minimum oxygen flow specified in Sec. 23.1443, Minimum mass flow of supplemental oxygen, is applicable to nasal cannulas when installed and in use. The FAA's Civil Aeromedical Institute reviewed the test results of the AFIP and concluded that the minimum mass flow of supplemental oxygen specified in Sec. 23.1443 was adequate when nasal cannulas are used with the limitation of 18,000 feet (MSL).
+
+ One commenter asks if the nasal cannula would be limited to approval on unpressurized airplane or acceptable for pressurized airplanes as well. The approval of nasal cannulas is not related to unpressurized or pressurized airplanes, but rather to the maximum certificated altitude of the airplane on which approval is requested. The rule limits approval to airplanes with a maximum certificated altitude of 18,000 feet (MSL).
+
+ One commenter asks if one size of nasal cannula fits all persons, adults through infants. Although the answer is affirmative, it was brought to the attention of the FAA that a nasal cannula for an adult, when used by an infant, would most likely be uncomfortable because of the size. Nasal cannulas are available in a size made specifically for infants and newborn babies.
+
+ Another commenter states that use of the nasal cannula would result in a drying of the nasal membranes. The FAA agrees; however, the drying of the nasal membranes by using a nasal cannula is not significantly different than a drying of the nasal membranes and oral cavity when using an oxygen dispensing device covering both the nose and mouth of the user.
+
+ One commenter states that the most serious consequence of certificating aircraft with the nasal cannula is the absence of protective breathing apparatus for crewmembers in the event of smoke or fire in the cockpit and contends that a pilot without an oxygen mask would have absolutely no protection against toxins. It should be pointed out that the oxygen mask provided in compliance with Sec. 23.1447 may not function effectively as a protective breathing apparatus in accordance with the requirements of TSO-C99. "Protective Breathing Equipment." In addition, the FAA considers the comment to be outside the scope of this rulemaking action since the issue is supplemental oxygen dispensing units, not protective breathing equipment. However, the FAA does share the same concern for occupant safety as expressed by the commenter and has ongoing research programs on the issue of occupant protection in the event of smoke or fire within the aircraft. The outcomes of these programs will serve as a basis for evaluating current requirements for all aircraft, and if needed, the justification for more stringent smoke and fire protection standards. In consideration of the foregoing, the FAA has determined that although the issues raised by this commenter have some validity, they are not sufficient to preclude proceeding with this rulemaking action.
+
+ The preceding commenter also states that the NPRM improperly relies upon an experiment to justify the use of a product not properly or scientifically tested. The commenter does not present any data or information to support the stated belief. The FAA is of the opinion that the AFIP's Aerospace Physiology Research Branch is as qualified for testing of the nasal cannula as any such research organization and, subsequently, relied heavily upon their findings. While the AFIP test results indicates that the nasal cannula is an effective oxygen dispensing unit, at altitudes of up to 20,000 feet (MSL) for pilots and up to 25,000 feet for passengers, the FAA is of the opinion that 18,000 feet (MSL) as proposed in the notice, should remain as the maximum altitude of the airplane for which installation approval may be obtained by an applicant.
+
+ One commenter asks how the nasal cannula would be approved for use in existing airplanes. Approval would be by the normal FAA procedures for new equipment to be installed in existing or new airplanes, with compliance shown to be applicable airworthiness requirements for certification of the modified airplane.
+
+ The numerous comments received in support of the proposed rule change cite the same reasons as stated in the notice; that is convenience, comfort of the nasal cannula, and ease of communication when compared to the oxygen dispensing unit covering both the nose and mouth of the user.
+
+Regulatory Flexibility and Determinations
+
+ The Regulatory Flexibility Act of 1980 (RFA) was enacted by Congress to ensure, among other considerations, that small entities are not disproportionally affected by government regulations. The RFA requires agencies to review rules which may have a "significant economic impact on a substantial number of small entities".
+
+ This rule provides more flexibility for approval of oxygen dispensing units when type certification with supplemental oxygen equipment is requested, by permitting optional use of an oxygen dispensing nasal cannula instead of the full face mask presently required, with no degradation in the level of safety, and at approximately the same cost. In addition, since this amendment provides manufacturers and operators of small airplanes a choice between alternative with equal costs, it will impose no significant economic impact on a substantial number of small entities.
+
+List of Subjects in 14 CFR Part 23
+
+ Aircraft, Air transportation, Aviation safety, Safety, Tires.
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendment: Accordingly, Part 23 of the Federal Aviation Regulations (14 CFR Part 23) is amended, as follows, effective: March 29, 1984.
+
+Part 23-Airworthiness Standards: Normal, Utility, And Acrobatic Category Airplanes
+
+1. By revising Sec. 23.1447 to remove paragraph (a)(2); by redesignating paragraphs (a)(3) and (a)(4) as paragraphs (a)(2) and (a)(3), respectively; by redesignating paragraphs (b), (c), and (d) as paragraphs (d), (e), and (f), respectively; and by adding new paragraphs (b) and (c) to read as follows:
+
+Sec. 23.1447 Equipment standards for oxygen dispensing units.
+
+* * * * *
+
+(a) * * *
+
+(b) If certification for operation up to and including 18,000 feet (MSL) is requested, each oxygen dispensing unit must:
+
+(1) Cover the nose and mouth of the user; or
+
+(2) Be a nasal cannula, in which case one oxygen dispensing unit covering both the nose and mouth of the user must be available. In addition, each nasal cannula or its connecting tubing must have permanently affixed -
+
+(i) A visible warning against smoking while in use;
+
+(ii) An illustration of the correct method of donning: and 
+
+(iii) A visible warning against use with nasal obstructions or head colds with resultant nasal congestion.
+
+(c) If certification for operation above 18,000 feet (MSL) is requested each oxygen dispensing unit must cover the nose and mouth of the user.
+
+* * * * *
+
+(Secs. 313(a), 601, and 603 of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1354(a), 1421, and 1423); and 49 U.S.C. 106(g) (Revised Pub. L 97-449, January 12, 1983))
+
+Note - This amendment will provide more flexibility for approval of oxygen dispensing units when type certification with supplemental oxygen equipment is requested by permitting use of nasal cannulas as an alternative to the full face oxygen masks required before this amendment. The cost of nasal cannulas is approximately equal to that of full faced oxygen masks. This amendment therefore provides manufacturers and operators of small airplanes a choice between alternative with equal costs. Accordingly, the FAA has determined that: (1) The amendment does not involve a major rule under Executive Order 12291; (2) The amendment is not significant under DOT Regulatory Policies and Procedures (44 FR 11034; February 26, 1979); and (3) It is certified that under the criteria of the Regulatory Flexibility Act that the amendment will not have a significant economic impact on a substantial number of small entities. In addition, this proposal, if adopted, would have little or no impact on trade opportunities for U.S. firms doing business overseas, or for foreign firms doing business in the United States. A regulatory evaluation has been prepared and has been placed in the public docket.
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC, on January 31, 1984.
+
+J. Lynn Helms,
+
+Administrator.
+
+[FR Doc. 84-5148 Filed 2-27-84; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 82-16; Issued on 09/30/82.
+
+ 
+        
+FINAL RULE ACTIONS: Not Applicable.

@@ -1,0 +1,2710 @@
+FINAL RULES: 21-44|23-17|25-38|27-11|29-12|31-3|33-7|35-3|91-135|121-132|127-33|133-5|135-43
+
+ 
+ 
+        
+CITATION: [Federal Register: December 20, 1976 (Volume 41, Number 245)]
+
+ 
+        
+PAGE NUMBER: [Page 55454]
+
+ 
+        
+DOCKET NUMBER: 14324
+
+ 
+        
+14 CFR PARTS: Part 21|Part 23|Part 25|Part 27|Part 29|Part 31|Part 33|Part 35|Part 91|Part 121|Part 127|Part 133|Part 135
+
+ 
+        
+SUBJECT HEADING: Airworthiness Review Program
+
+ 
+        
+ACTION: Amendments
+
+ 
+        
+SUMMARY: 
+
+ The purpose of these amendments is to update and improve --
+
+(1) the aircraft, engine, and propeller certification regulations; 
+
+(2) the operating regulations containing airworthiness standards; and
+
+(3) related procedural requirements. 
+
+
+
+ 
+        
+DATES: EFFECTIVE DATE: February 1, 1977
+
+ 
+        
+EFFECTIVE DATE: 1977-02-01
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ These amendments are based on a notice of proposed rule making (Notice 75-10) published in the Federal Register on March 7, 1975 (40 FR 10802) and are the third in a series of amendments to be issued as part of the First Biennial Airworthiness Review Program. The following series of amendments have previously been issued as part of this Airworthiness Review Program: 
+
+Title
+
+ Federal Register citation
+
+ 
+
+Form number and clarifying revisions (40 F.R. 2576; Jan. 14, 1975) 
+
+Rotorcraft anticollision light standards (41 F.R. 5290; Feb. 5, 1976) 
+
+Interested persons have been afforded an opportunity to participate in the making of these amendments and due consideration has been given to all matter presented. A number of substantive changes and changes of an editorial and clarifying nature have been made to the proposed rules based upon the relevant comments received and upon further review within the FAA. Except for the minor editorial and clarifying changes and the substantive changes discussed hereinafter, these amendments and the reasons therefore are the same as those contained in Notice 75-10. 
+
+ After issuing Notice 75-10, the following six additional notices of proposed rule making were issued as part of the First Biennial Airworthiness Review Program. 
+
+Notice No.
+
+ Federal Register citation
+
+ Title
+
+ 
+
+75-19 40 F.R. 21866; May 19, 1975. Notice No. 3: Powerplant Proposals. 
+
+75-20 40 F.R. 22110; May 20, 1975. Notice No. 4: Equipment Deviation List. 
+
+75-23 40 F.R. 23048; May 27, 1975 Notice No. 5: Equipment and Systems Proposals; 
+
+75-25 40 F.R. 24664; June 9, 1975 Notice No. 6: Flight Proposals. 
+
+75-26 40 F.R. 24802; June 10, 1975; Notice No. 7: Airframe Proposals. 
+
+75-31 40 F.R. 29410; July 11, 1975. Notice No. 8: Aircraft, Engine, and Propeller Airworthiness, and Procedural Proposals. 
+
+ Based upon further review by the FAA, a number of proposals which were contained in Notice 75-10 are not being dealt with herein but will be considered in conjunction with other proposals contained in one of the later Airworthiness Review Program Notices of proposed rule making. 
+
+ The following discussion is keyed to the like-numbered proposals contained in Notice 75-10: 
+
+ Proposal 2-1. One commentator suggested that the proposed change to Sec. 21.33(a) be revised to limit the new aircraft engine and propeller inspection and test provisions to prototypes only. The FAA does not agree. The intent of the proposal was to make the inspection and test requirements in Sec. 21.33(a) compatible for aircraft, aircraft engines, and propellers. The provision applies to the item presented for type certification tests irrespective of whether or not the item is considered a prototype by the applicant for the type certificate. The proposal is therefore, adopted without substantive change. 
+
+ Proposal 2-2. No unfavorable comments were received on the proposal to amend Section 23.23. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-3. No unfavorable comments were received on the proposal to amend Section 23.141. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-4. No unfavorable comments were received on the proposal to amend Section 23.143(b). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-5. No unfavorable comments were received on the proposal to amend Section 23.145. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-6. The proposed change to Section 23.149(b) concerning the language "without exceptional piloting skill, alertness, or strength" is related to a proposed amendment to Section 23.149 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Section 23.149(b) contained in Notice No. 2 is therefore being deferred until final rule making action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-6 will be considered at that time. 
+
+ Proposal 2-7. Although no unfavorable comment was received on the proposal to amend Sec. 23.175(c), the FAA believes that clarification is necessary. The term "or thrust" has been added to the end of the language "maximum cruising power" in proposed Sec. 23.175(c)(3). Proposed Sec. 23.175(c)(4) was intended to clarify the requirement concerning trim speed, but the FAA believes the conflict in language with a similar provision in Sec. 23.175(b)(2)(iii) may cause confusion. Therefore, proposed Sec. 23.175(c)(4) is withdrawn. 
+
+ Proposal 2-8. The proposed change to Sec. 23.253(b) is related to a proposed amendment to Sec. 23.253(b)(3) that is contained in Airworthiness Review Program, Notice No. 8: Aircraft, Engine, and Propeller Airworthiness, and Procedural Proposals (Notice 75-31; 40 FR 29410, July 11, 1975). The proposed amendment to Sec. 23.253(b) contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-31. Comments submitted for Proposal 2-8 will be considered at that time. 
+
+ Proposal 2-9. No unfavorable comments were received on the proposal to amend Sec. 23.397. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-10. No unfavorable comments were received on the proposal to add a new Sec. 23.479(d). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-11. One commentator objected to the proposed use of the language "materials used for parts, the failure of which could adversely affect safety" in place of the language "materials used in the structure" in Secs. 23.603(a) and 25.603. The FAA does not agree with the commentator's suggestion that all parts of the airplane should, unless specifically excluded, be considered structure. The FAA believes that consideration of the suitability and durability of materials used should be broadened to include parts not normally considered airplane structure. 
+
+ Proposal 2-12. No unfavorable comments were received on the proposal to amend Sec. 23.607. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-13. A commentator questioned whether proposed Sec. 23.675 would require that stops provided to limit the range of motion of an aerodynamic surface be located only on the aerodynamic surface or whether the stop could be located adjacent to the surface. Sec. 23.675, as proposed and as adopted herein, without change, requires that stops positively limit the range of motion of moveable aerodynamic surfaces. This can be accomplished by locating the stop on structure adjacent to the surface. 
+
+ Proposal 2-14. No unfavorable comments were received on the proposal to amend Sec. 23.685(a). Accordingly, the proposal is adopted without substantive change. See proposal 2-109. 
+
+ Proposal 2-15. No unfavorable comments were received on the proposal to add a new Sec. 23.733(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-16. No unfavorable comments were received on the proposed new Sec. 23.787(f). However, one commentator pointed out that the word "contract" in the proposal as printed in the Federal Register should be "contact." The proposal has been corrected to eliminate the printing error. The proposal has also been clarified based on a comment received on Proposal 2-111, to avoid any implication that lamps will be required in cargo compartments. 
+
+ Proposal 2-17. On commentator questioned the need in proposed Sec. 23.841(b)(6) for a warning indicator at the pilot station to indicate when a cabin pressure altitude of 10,000 feet is exceeded. But as noted by the commentator it is a general industry practice to provide this warning at a cabin altitude of 10,000 feet. The FAA believes that due to the larger number of small airplanes having such a warning many pilots may come to rely on the warning at this cabin altitude. The proposal is therefore adopted without substantive change. 
+
+ Proposal 2-18. The proposed changes to Secs. 23.853, 27.853, and 29.853 concerning the certification requirements necessary to permit smoking in certain aircraft categories are related to proposed standards for Sec. 25.853. The amendments proposed for Sec. 25.853 are contained in Airworthiness Review Program Notice No. 2: Miscellaneous Proposals (Notice 75-10; 40 FR 10802; March 7, 1975) and in Airworthiness Review Program Notice No. 8: Aircraft, Engine, and Propeller Airworthiness, and Procedural Proposals (Notice 75-31; 40 FR 29410; July 11, 1975). The proposal for Sec. 25.853 in Notice 75-10 is being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-31. The proposed amendments to Secs. 23.853, 27.853 and 29.853 contained in Notice 75-10 are therefore being deferred until final rulemaking action is taken with respect to the related proposal for Sec. 25.853. Comments submitted for Proposals 2-18, 2-114, and 2-160 will be considered at that time. 
+
+ Proposal 2-19. One commentator suggested a clarification of proposed new Sec. 23.903(b) noting that the language, "must be designed to give reasonable assurance" would be subject to divergent application. The same language is now used in Sec. 25.903(d)(2), and the FAA believes that experience with this provision in transport category type certification has been satisfactory. 
+
+ One commentator suggested that a provision similar to Sec. 25.903(d)(1) concerning design precautions to minimize hazards to the airplane in the event of an engine rotor failure be included in proposed Secs. 23.903(b), 27.903(c), and 29.903(f). Although several airworthiness directives have been issued to prevent the failure of engine rotors in one engine type, the FAA does not believe that a general requirement for Secs. 23.903(b), 27.903(c), or 29.903(f) that is identical to Sec. 25.903(d)(1) is necessary at this time. 
+
+ Proposal 2-20. No unfavorable comments were received on the proposal to amend Sec. 23.933(b). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-21. One commentator objected to proposed new Sec. 23.941 concerning airplanes with variable inlet or exhaust system geometry as being unnecessary and unjustified in Part 23. The FAA agrees that this provision should not be added to Part 23 at this time and is therefore withdrawing the proposal. 
+
+ Proposal 2-22. One commentator suggested that the proposed changes to Secs. 23.971 and 23.999 be revised to require a quick actuation drain valve on each fuel tank. The proposal, however, was not to require new drainage outlets but to establish standards for the drains set forth in proposed Sec. 23.971(b) and present Sec. 23.999(a). The FAA does not have sufficient information to indicate that a need exists for a quick actuation drain valve on each fuel tank considering the large number of different types of fuel tanks which are included on Part 23 airplanes and the use of sediment bowls and chambers. The proposal is therefore adopted without substantive change. 
+
+ Proposal 2-23. One commentator question the proposed requirement in Sec. 23.977(a)(2) that a turbine engine fuel strainer prevent the passage of any object that could restrict fuel flow or damage any fuel system component. The commentator asserted that a strainer which met this requirement would have an opening so small that ice accumulation with the use of turbine fuels would be a problem. The FAA does not agree. This is identical to the provision in Sec. 25.977(a)(2). Experience with fuel strainers that would meet the proposed standards in Sec. 23.977(a)(2) has shown that a strainer can prevent the passage of the noted objects and also prevent ice accumulation. 
+
+ One commentator noted that the clear area of each fuel tank outlet strainer should be at least six times the area of the outlet line instead of five times as proposed in Sec. 23.977(b). This provision is identical to Sec. 25.977(c) and the FAA considers that experience with this requirement in Part 25 has been satisfactory. 
+
+ Proposal 2-24. The intent of the proposal to add a new Sec. 23.979(e) was to provide strength requirements including load factors, applicable to the airplane defueling system to cover surge pressure during defueling. Upon further review the FAA believes that the proposed amendment is premature. Therefore, the proposal is withdrawn. 
+
+ Proposal 2-25. No unfavorable comments were received on the proposal to amend Sec. 23.995(d). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-26. One commentator suggested that there should be sufficient clearance between the quick actuation drain and other parts of the airplane to allow the fuel sample to be drained into a typical, small container. The FAA believes fuel system drains which meet the proposed requirements of paragraphs (b)(1) and (b)(3) of Sec. 23.999, that the drain discharge clear of all parts of the airplane and that it be readily accessible, will have sufficient clearance to allow a fuel sample to be drained into a small container. 
+
+ One commentator suggested that the requirement in Sec. 23.999(b)(1) that the drain must discharge clear of all parts of the airplane, would create unnecessary design and construction restraints. The FAA believes that by coating some airplane surfaces with fuel or by trapping quantities of fuel in certain locations a fire hazard exists. This fire hazard should be limited by this proposal. Further, the FAA believes this requirement can be met without an undue restraint on airplane design. 
+
+ A commentator asserted that the proposed requirement in Sec. 23.999(b)(3), that the drain valve be either located or protected so that it will not be damaged in the event of a landing with landing gear retracted cannot be justified. The commentator noted that the fuel tanks would be ruptured in such a landing and nothing would be gained if the drain was protected. The FAA disagrees, similar fuel tank installation requirements are set forth in Sec. 23.967 and experience indicates that the fuel system can and should be either located or protected to prevent fuel leakage in such a landing. The FAA does agree that the proposal needs to be clarified to more specifically provide a design specification and has so modified paragraph (b)(3). Also see Proposal 2-70. 
+
+ Proposal 2-27. No unfavorable comments were received on the proposal to add a new 23.1093(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-28. Proposed Sec. 23.1111(c) was misunderstood by one commentator who asserted that it is not possible to assure the impossibility of failure of the engine lubricating system. The proposal, however, was directed toward the elimination of hazardous contamination of the cabin air assuming a failure of the engine lubricating system. In consideration of the misunderstanding, the language has been revised to emphasize the prevention of hazardous contamination of cabin air system. 
+
+ Proposal 2-29. Although no unfavorable comment was received on the proposed Sec. 23.1125, the FAA believes that the proposal could be misunderstood as to whether use of the heat exchanger would permit or prohibit the passage of exhaust gases through the exchanger when hot air was not being directed to the area where it was intended to be used. The FAA's intention was to require cooling of the exchanger wherever it was in contact with exhaust gases, regardless of its usage status. The proposal is revised to make this clear using the language of Secs. 25.1125(a)(3) and 29.1125(a)(3). The FAA believes that the exhaust heat exchange requirements should be paralleled in Parts 23, 25 and 29. Therefore the proposed changes to Secs. 25.1125(a)(3) and 29.1125(a)(3) are withdrawn. 
+
+ Proposal 2-30. No unfavorable comments were received on the proposal to amend Sec. 23.1143. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-31. One commentator believed that proposed Sec. 23.1165(e) was unnecessarily restrictive in requiring all ignition systems to be independent of all other electrical systems. The FAA agrees with respect to reciprocating engines since Sec. 33.37 requires a dual ignition system or an ignition system of equivalent inflight reliability for reciprocating engines and Sec. 23.903 requires each engine installed on small airplanes to be type certificated under Part 33. However, the FAA disagrees with respect to turbine engines since two separate primary electrical circuits are not required in Sec. 33.69. The rule as adopted is applicable to turbine engines installed on small airplanes only. 
+
+ Proposal 2-32. One commentator objected to the proposal to add a speed warning device for turbopropeller powered airplanes. The FAA believes that due to the characteristics of turbopropeller powered airplanes that make it desirable to operate at the maximum operating limit speed (VMO/MMO), and the increasing preoccupation of pilots with air traffic and other duties which distract them from continuous monitoring of airspeed instruments overspeed conditions can be a problem. Therefore, to insure early warning and thus to make a major portion of the speed margin available for pilot reaction and recovery maneuvers, the amendment requires that the speed warning device must give effective aural warning (differing distinctively from aural warnings used for other purposes) to the pilots whenever the speed exceeds VMO plus 6 knots or MMO + 0.01. 
+
+ It should also be noted that the proposal for Sec. 23.1303(d) has been revised to make it like Sec. 25.1303(a)(1) to allow for an air temperature indicator which provides indications that are convertible to free-air temperature. 
+
+ Proposal 2-33. No unfavorable comments were received on the proposal to amend Sec. 23.1309. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-34. One commentator suggested that proposed Secs. 23.1322 and 25.1322 concerning warning, caution, and advisory light be revised. The commentator noted that requiring a blue light for position indication was not always appropriate since blue was difficult to see in direct sunlight but was readily distinguishable in heavily shaded installations. The FAA agrees that blue should not be an established standard applicable to all installations. Therefore proposed Secs. 23.1322(d), 25.1322(d), 27.1322(d) and 29.1322(d), concerning blue lights, are withdrawn. Also see Proposal 2-82. 
+
+ Proposal 2-35. The proposed amendments to Secs. 23.1325, 25.1325, and 29.1325 concerning the static pressure sources are related to proposed amendments to Sec. 27.1325 that are contained in Airworthiness Review Program, Notice No. 2: Miscellaneous Proposals (Notice 75-10; 40 FR 10812; March 7, 1975) and in Airworthiness Review Program, Notice No. 5: Equipment and System Proposals (Notice 75-23; 40 FR 23048; May 27, 1975). The proposed amendment to Sec. 27.1325 in Notice 75-10 is being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-23. The proposed amendments to Secs. 23.1325, 25.1325, and 29.1325 contained in Notice 75-10 are therefore being deferred until final rulemaking action is taken with respect to the related proposed amendments to Sec. 27.1325. Comments submitted for Proposals 2-35, 2-83, and 2-183 will be considered at that time. 
+
+ Proposal 2-36. One commentator questioned the proposed lead-in for Sec. 23.1331(b). The commentator interpreted the proposal to mean that each instrument must have independent power sources and noted that the explanation did not indicate this to be intended. The FAA agrees that the proposal is not clear, and the proposal is withdrawn. 
+
+ Proposal 2-37. The proposed change to Sec. 23.1335 concerning the deletion of the section is related to a proposed amendment to Sec. 23.1335 that is contained in Airworthiness Review Program, Notice No. 5: Equipment and Systems Proposals (Notice 75-23; 40 FR 23048; May 27, 1975). The proposed amendment to Sec. 23.1335 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-23. Comments submitted for Proposal 2-37 will be considered at that time. 
+
+ Proposal 2-38. No unfavorable comments were received on the proposal to amend Sec. 23.1351. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-39. Proposed Sec. 23.1353(f) concerning nickel-cadmium batteries is related to a proposed amendment to Sec. 23.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 23.1353 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-39 will be considered at that time. 
+
+ Proposal 2-40. For comments related to the proposed amendment of Sec. 23.1385, see Proposal 2-89. 
+
+ Proposal 2-41. One commentator suggested that proposed Sec. 23.1411(b)(2) be revised to conform to the language in Sec. 25.1411(b)(2). The FAA, however, believes a more specific standard is appropriate for Secs. 23.1411 and 27.1411. Therefore, the proposed amendments to Secs. 23.1411 and 27.1411 are adopted without substantive change. 
+
+ Proposal 2-42. One commentator suggested that the proposed change to Sec. 23.1549 be revised to accommodate horizontal scale powerplant instruments. The FAA agrees, and Secs. 23.1549, 27.1549 and 29.1549, as adopted, will provide marking standards appropriate to circular, horizontal and vertical scale powerplant instruments. 
+
+ Proposal 2-43. The proposed change to Sec. 23.1555 concerning the information requirements of usable fuel in a restricted use fuel tank is related to a proposed amendment to Sec. 23.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 23.1555 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-43 will be considered at that time. 
+
+ Proposal 2-44. The proposed change to Sec. 23.1557 concerning the system voltage marking requirement adjacent to its external power connection is related to a proposed amendment to Sec. 23.1557 that is contained in Airworthiness Review Program, Notice No. 3; Powerplant Proposals (Notice 75-19; 40 FR 21866; May 19, 1975). The proposed amendment to Sec. 23.1557 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-19. Comments submitted for Proposal 2-44 will be considered at that time. 
+
+ Proposal 2-45. The proposed change to Sec. 23.1581 concerning the Airplane Flight Manual is related to a proposed amendment to Sec. 23.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 23.1581 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related Proposal in Notice 75-25. Comments submitted for Proposal 2-45 will be considered at that time. 
+
+ Proposal 2-46. The proposed change to Sec. 23.1587(a)(2) is related to proposed amendments to Sec. 23.1587 that were contained in Airworthiness Review Program, Notice 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 23.1587 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-46 will be considered at that time. 
+
+ Proposal 2-47. One commentator suggested that considering the proposed deletion of Secs. 25.45 through 25.75, current Sec. 25.161(e) will need to be amended to replace the reference to Sec. 25.69. The FAA agrees, and Sec. 25.161(e)(1) is amended by striking the reference to Sec. 25.69 and inserting in place thereof a reference to Sec. 25.123(a). In addition, the FAA has found that Sec. 25.201(c)(1) refers to Sec. 25.49(c)(2)(i) that would also be deleted. Therefore, Sec. 25.201(c)(1) as amended strikes the phrase "Sec. 25.49(c)(2)(i) for reciprocating engine powered airplanes, or in" and the phrase "for turbine engine powered airplanes". 
+
+ Proposal 2-48. No unfavorable comments were received on the proposed change to strike the words "turbine powered" from Sec. 25.101(a). Accordingly, proposed Sec. 25.101(a) is adopted without substantive change. 
+
+ No unfavorable comments were received on proposed Sec. 25.101(b) and it is adopted as proposed except that it is clarified to indicate that the 80% relative humidity for reciprocating engines is based on standard atmospheric temperature (the vapor pressure values in the table in proposed Sec. 25.101(b)(2) correspond to 80% relative humidity with a standard atmosphere). 
+
+ Proposal 2-49. Based on comments received on the proposal to amend Sec. 25.105 and on the related proposals to Secs. 25.125, 25.241 and 25.1533(c), and upon further review by the FAA, Proposals 2-49, 2-51, 2-52 and the portion of 2-93 dealing with the new operating limitation requirements for transport category airplanes intended to be used in operations on unpaved runways are withdrawn. 
+
+ Proposal 2-50. No unfavorable comments were received on the proposal to amend Sec. 25.107. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-51. For comments related to the withdrawal of the proposed amendment of Sec. 25.125, see Proposal 2-49. 
+
+ Proposal 2-52. For comments related to the withdrawal of the proposal to add a new Sec. 25.241, see Proposal 2-49. 
+
+ Proposal 2-53. No unfavorable comments were received on the proposal to amend Sec. 25.397. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-54. For comments related to the proposed amendment of the lead-in of Sec. 25.603, see Proposal 2-11. 
+
+ Proposal 2-55. No unfavorable comments were received on the proposal to amend Sec. 25.675. Accordingly, the proposal is adopted without substantive change. Also see Proposal 2-13. 
+
+ Proposal 2-56. No unfavorable comments were received on the proposal to amend Sec. 25.685(a). Accordingly, the proposal is adopted without substantive change. See Proposal 2-109. 
+
+ Proposal 2-57. No unfavorable comments were received on the proposal to add a new Sec. 25.733(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-58. One commentator questioned whether the proposed Sec. 25.775(e) would require that there be at least two windshield panels in the windshield for each pilot. The intent of the proposal, however, is to provide at least one windshield panel through which is at least one pilot could see if vision was lost through another panel. 
+
+ Proposal 2-59. Proposed Sec. 25.783(g) concerning integral stairs installed in passenger entry doors that qualify as passenger exits is related to a proposed amendment to Sec. 25.783 that is contained in Airworthiness Review Program, Notice No. 8: Aircraft, Engine, and Propeller Airworthiness, and Procedural Proposals (Notice 75-31; 40 FR 29410; July 11, 1975). The proposed amendment to Sec. 25.783(g) contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-31. Comments submitted for Proposal 2-59 will be considered at that time. 
+
+ Proposal 2-60. The proposed change to Sec. 25.785 is related to a proposed amendment to Sec. 25.785 that is contained in Airworthiness Review Program, Notice No. 8: Aircraft, Engine, and Propeller Airworthiness, and Procedural Proposals (Notice 75-31; 40 FR 29410; July 11, 1975). The proposed amendment to Sec. 25.785 contained in Notice No. 2 is, therefore, being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-31. Comments submitted for Proposal 2-60 will be considered at that time. 
+
+ Proposal 2-61. No unfavorable comments were received on the proposed new Sec. 25.787(c). However, based on a comment received on Proposal 2-111, this proposal has been revised to avoid any implication that lamps will be required in cargo compartments. 
+
+ Proposal 2-62. Four of the five comments received were in favor of the proposal for Sec. 25.815 that would provide for the approval of an aisle width of less than 12 inches, but not less than 9 inches, in transport airplanes with a passenger seating capacity of 10 or less if the aisle width is substantiated by necessary tests. One commentator requested that the proposal be withdrawn because it would result in a reduction in the margin of passenger safety. The FAA disagrees. Service experience with aircraft certificated with less than a 12 inch aisle width in the past has been satisfactory. 
+
+ Moreover, the FAA will not certificate transport category aircraft with less than a 12 inch aisle width unless the Administrator finds by necessary test that the narrower aisle is safe. 
+
+ The proposal is adopted without change. 
+
+ Proposal 2-63. The proposed change to Sec. 25.831 concerning the temperature and ventilation controls for the crew compartment is related to a proposed amendment to Sec. 25.831 that is contained in Airworthiness Review Program Notice No. 5: Equipment and Systems Proposals (Notice 75-23; 40 FR 23048, May 27, 1975). The proposed amendment to Sec. 25.831 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-23. Comments submitted for Proposal 2-63 will be considered at that time. 
+
+ Proposal 2-64. One commentator recommended that proposed Sec. 25.841(b)(1) be revised to make it clear that the pressure relief function may be combined with the regulating valve. The proposal would delete the requirement that one of the pressure relief valves be a pressure regulating valve, but it would still allow such a design. This was specifically covered in Notice 75-10. 
+
+ One commentator suggested that the language "passenger or crew compartment" in proposed Sec. 25.841(b)(8) be changed to read "occupiable area in the cabin" to ensure that a pressure sensor is located in the lower deck service compartment. The FAA believes the language "occupiable area in the cabin" does not clarify the proposed requirements. The language "passenger and crew compartment" is not limited to the main deck of the airplane, but includes a lower deck service compartment even though this lower deck service compartment may not be occupied during takeoff and landing. For clarification, the parenthetical "(including upper and lower lobe galleys)" has been added to Sec. 25.841(b)(8) as adopted. 
+
+ Proposal 2-65. The proposed change to Sec. 25.853 concerning the certification requirements necessary to permit smoking in transport category airplanes is related to a proposed amendment to Sec. 25.853 that is contained in Airworthiness Review Program, Notice No. 8: Aircraft, Engine and Propeller Airworthiness, and Procedural Proposals (Notice 75-31, 40 FR 29410; July 11, 1975). The proposed amendment to Sec. 25.853 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-31. Comments submitted for Proposal 2-65 will be considered at that time. 
+
+ Proposal 2-66. No unfavorable comments were received on the proposal to amend Sec. 25.933(b). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-67. A commentator suggested that a cross-reference to Sec. 25.143 should be added to proposed Sec. 25.941. The FAA agrees that the pilot strength limits now set forth in Sec. 25.143 should be referenced in Sec. 25.941 in order to define appropriately what constitutes "exceptional strength on the part of the pilot". Accordingly, a paragraph (c) has been added to proposed Sec. 25.941 for that purpose. 
+
+ Proposal 2-68. Two commentators agreed with the intent of the proposed Sec. 25.951(a) concerning fuel system design and operation of the auxiliary power unit (APU) but requested that it be withdrawn to allow time to review other Part 25 provisions for applicability to APU installations. The FAA does not believe that a further review of Part 25 should in this case, delay completion of this rulemaking action. However, if the FAA determines that the language "auxiliary power unit" should be specifically set forth in other provisions to avoid misinterpretation, the FAA will take action to clarify these provisions. 
+
+ One commentator stated that the fuel system for an APU operated on the ground would be unnecessarily subject to the same requirement as the engine fuel system. The FAA does not agree that this is necessary. If certain operating conditions are the same for both the engine fuel system and the APU fuel system, the FAA believes that the requirements during such periods should be the same. The proposal is therefore adopted without substantive change. 
+
+ Proposal 2-69. One commentator suggested that the language "proof and ultimate factors" in the proposal for new paragraphs (d) and (e) of Sec. 25.979 be revised to be consistent with Sec. 25.301. The FAA agrees that the terminology should be consistent and the Sec. as adopted is reworded to use the term ultimate load. 
+
+ One commentator questioned whether the design criteria for the pressure fueling system was applicable to fuel tanks and fuel tank vents. The proposed amendment to Sec. 25.979 was not intended to apply to fuel tanks and vents. The section as adopted has been revised to make this clear. 
+
+ Proposal 2-70. Several commentators questioned the meaning of the term "quick actuation drain valve" in proposed Sec. 25.999(b)(3). The FAA agrees that the term may be subject to misinterpretation and that the provision is complete without the words "quick actuation". 
+
+ One commentator asserted that the proposed requirement in Sec. 25.999(b)(3) that the drain valve not be damaged in the event of a landing with landing gear retracted was not a proper design specification since damage was beyond the control of the manufacturer. The FAA agrees that the language "so that it will not be damaged" is not proper for this requirement, but the FAA believes that the valve, the location of the valve, or both, can be designed to prevent fuel spillage, assuming that a landing is made with the landing gear retracted. The Sec. as adopted has been revised to clarify this intent. 
+
+ Proposal 2-71. One commentator suggested that proposed Sec. 25.1027(d) be revised to limit the design consideration to sludge or other foreign matter entering the feathering system from the oil tank. The FAA disagrees. Design consideration and flexibility should not be limited to preventing entry of material into the feathering system. All sources of sludge and foreign matter must be considered since the purpose of the regulation is the safe operation of the propeller feathering system. The proposal, therefore is adopted without substantive change. 
+
+ Proposal 2-72. One commentator suggested that the word "critical" be added before the language "ground, water, and flight operating conditions" in the proposal for Sec. 25.1041, but no reason was given. As noted in the explanation to this proposal, Sec. 25.1041 contains a general cooling requirement, while Secs. 25.1043 and 25.1045 are more specific with respect to the type of operating conditions which must be considered during tests. Critical conditions are included in the test requirements of Secs. 25.1043 and 25.1045. However, the FAA believes that cooling provisions must be adequate under all ground, water, and flight operating conditions. 
+
+ Proposal 2-73. No unfavorable comments were received on the proposal to amend Sec. 25.1091(c)(2). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-74. One commentator agreed with the proposal for Sec. 25.1093 but suggested that the proposal be changed to agree with the format of the previous paragraphs. The FAA agrees, and the proposal as adopted has been structured the same as the previous paragraphs. 
+
+ Proposal 2-75. One commentator objected to the proposed lead-in for Sec. 25.1125 that limited the applicability of the Sec. to reciprocating engines. The FAA does not believe that the requirements of this Sec. are applicable to other than reciprocating engine powered airplanes. While some early turbine powered airplanes have had an ejector installation in the exhaust stream to pull cooling air through the nacelle, the FAA does not consider this to be an exhaust heat exchanger within the meaning of the language of Sec. 25.1125. Therefore, the proposed lead-in for Sec. 25.1125 is adopted without substantive change. 
+
+ Proposed Sec. 25.1125(a)(3) is withdrawn. For a discussion of the withdrawal, see Proposal 2-29. 
+
+ Proposal 2-76. A commentator stated that the phrase "automatically controlled with relation to the amount of power produced by the engine" in proposed Sec. 25.1143(d) is not appropriate for all fluid injection systems. The FAA agrees that the phrase is not appropriate for certain turbine engine powered airplanes and that further revision of Sec. 25.1143(d) should be considered. Proposed Sec. 25.1143(d) has therefore been withdrawn for further study. 
+
+ No unfavorable comment was received concerning proposed Sec. 25.1143(e) and this paragraph has been adopted without substantive change. 
+
+ Proposal 2-77. No unfavorable comments were received on the proposal to add a new Sec. 25.1167. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-78. No unfavorable comments were received on the proposal to amend Sec. 25.1197(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-79. One commentator suggested that proposed Sec. 25.1303(a)(2) be revised to clarify the method of clock indication which would be permitted under the regulation. The FAA agrees that the intent of the proposal was only to recognize the development of accurate digital clocks and that the minimum information presented should be the same. Proposed Secs. 25.1303(a)(2) and 29.1303(d) as adopted are revised to make this clear. 
+
+ Proposal 2-80. Several commentators suggested that the proposed change to Sec. 25.1305 be revised to except anti-detonant injection (ADI) systems from the powerplant instrument proposal for fluid augmentation systems. The commentators expressed the opinion that the proposal for Sec. 25.1143(d) concerning automatic controls for fluid injection systems (other than fuel) eliminated the need for a powerplant instrument for the ADI system. The FAA believes that the flight crew should be able to monitor the proper functioning of any fluid system that is used for thrust or power augmentation and the section as adopted is applicable to ADI systems. However, the Sec. has been clarified to ensure application only to fluids systems that are used for thrust or power augmentation. 
+
+ Proposal 2-81. No unfavorable comments were received on the proposal to amend Sec. 25.1309. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-82. One commentator questioned the proposed color standardization of warning, caution, and advisory lights in new Sec. 25.1322. The commentator stated "arbitrary standards for specific light colors cannot always be stated" because of the design objective to minimize red lights that require immediate crew action and of the need to consider past experience, test, crew acceptance, and the specific application. The FAA agrees that considerations other than the need for standardization of light colors may dominate in special circumstances, and the Sec. as adopted provides for approval by the Administrator of light colors that are different than the standard. As stated by the commentator and in the Sec. as adopted, a design objective is to have red warning lights only if a hazard is to be indicated which may require immediate corrective action. 
+
+ One commentator noted that the language "warning light" is used in other sections of the regulations, such as Sec. 25.812(e)(2), and a hazard which may require immediate corrective action will not be indicated. The FAA does not agree; the light noted in Sec. 25.812(e)(2) should be red in future designs unless otherwise approved by the Administrator. The FAA believes that in other sections, if the language "warning light" is used, it is consistent with proposed new Sec. 25.1322. However, if the language "warning light" is determined to be not generally applicable, later rulemaking action can be instituted. 
+
+ One commentator suggested a clarification of the lead-in of the proposal to limit its applicability to lights installed in the cockpit as indicated in the explanation to the proposal. The FAA agrees, and the lead-ins of Secs. 23.1322, 25.1322, 27.1322, and 29.1322 have been clarified. 
+
+ Also see Proposal 2-34 for a discussion of the withdrawal of the blue light proposal. 
+
+ Proposal 2-83. For comments related to the deferral of proposed Sec. 25.1325(g), see Proposal 2-35. 
+
+ Proposal 2-84. The proposed change to Sec. 25.1329 concerning the redesignation of Sec. 25.1329 as Sec. 25.1311 and the addition of provisions for automatic flight control systems is related to a proposed amendment to Sec. 25.1329 that is contained in Airworthiness Review Program, Notice No. 5: Equipment and Systems Proposals (Notice 75-23; 40 FR 23048, May 27, 1975). The proposed amendment to Sec. 25.1329 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-23. Comments submitted for Proposal 2-84 will be considered at that time. 
+
+ Proposal 2-85. Proposed Sec. 25.1331(a)(2) concerning instruments using a power supply is related to proposed amendments to Secs. 25.1331 and 25.1333 that are contained in Airworthiness Review Program, Notice No. 5: Equipment and Systems Proposals (Notice 75-23; 40 FR 23048; May 27, 1975). The proposed amendment to Sec. 25.1331(a)(2) contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposals in Notice 75-23. Comments submitted for Proposal 2-85 will be considered at that time. 
+
+ Proposal 2-86. Proposed Sec. 25.1337(a) concerning auxiliary power unit instrument lines is related to a proposed amendment to Sec. 25.1337(a) that is contained in Airworthiness Review Program, Notice No. 3: Powerplant Proposals (Notice 75-19; 40 FR 21866; May 19, 1975). The proposed amendment to Sec. 25.1337(a) contained in Notice No. 2 is therefore deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-19. Comments submitted for Proposal 2-86 will be considered at that time. 
+
+ Proposal 2-87. Proposed Sec. 25.1353(c)(5) is related to a proposed amendment to Sec. 25.1585 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 25.1353(c)(5) contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-87 will be considered at that time. 
+
+ Proposal 2-88. No unfavorable comments were received on the proposal to amend Sec. 25.1355(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-89. Several commentators suggested that the list of factors to consider for locating forward and rear position lights in proposed Secs. 23.1385, 25.1385, 27.1385, and 29.1385 was incomplete. 
+
+ Two commentators, also suggested that proposed Secs. 23.1385(c) and 25.1385(c) be revised to permit a new position light to be installed on each wing tip. The FAA agrees that further study is necessary to develop factors of general applicability for position lights on all aircraft but that a rear position light as far aft as practical on each wing tip of an airplane is a reasonable alternative location. Accordingly, proposed Secs. 23.1385(c) and 25.1385(c) have been revised. The proposals concerning the list of factors to be considered for locating forward and rear position lights in Sec. 25.1385 and paralleled in proposed Secs. 23.1385, 27.1385, and 29.1385 are withdrawn. However, the deletion of the passing light requirement from current Sec. 25.1385(e) will be made. 
+
+ Proposal 2-90. One commentator asserted that proposed new Sec. 25.1403 was an operating requirement, not an airworthiness requirement and therefore was not appropriate for Part 25. Although a similar requirement currently exists in Sec. 121.341(b), the FAA believes that such a requirement should be applicable to all newly certificated transport category airplanes. 
+
+ Two commentators pointed out that the proposal differs from 121.341(b) in that the proposal was not limited to the area of the wings that are critical from the standpoint of ice accumulation. The FAA agrees, and the section as adopted has been revised accordingly. 
+
+ A comment was also received that expressed the belief that under the proposal, illumination or other means of ice detection would not be necessary if the wing was shown to have acceptable ice accumulation characteristics. The FAA does not agree. Unless an operating limitation prohibits operations at night in known or forecast icing conditions, the means set forth are required. 
+
+ Proposal 2-91. Several commentators said that the proposed change to Sec. 25.1439(b)(2)(ii) concerning standards for masks and eye coverings was premature in view of the current testing being conducted on this type of equipment by the FAA. The FAA agrees that this proposed amendment is premature, and new standards are being considered for a later rulemaking action. The proposed change to Sec. 25.1439(b)(2)(ii) is therefore withdrawn. 
+
+ No unfavorable comments were received on the proposal to amend paragraph (a) of Sec. 25.1439. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-92. No unfavorable comments were received on the proposal to amend Sec. 25.1515. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-93. No unfavorable comments were received on the proposal to amend the heading of Sec. 25.1533 and on the proposal to amend Sec. 25.1533(a). Accordingly, this amendment is adopted without substantive change. For comments related to the withdrawal of the proposed new Sec. 25.1533(c), see Proposal 2-49. 
+
+ Proposal 2-94. The proposed change to Sec. 25.1549 concerning the marking requirements for powerplant instruments is related to a proposed amendment to Sec. 25.1549 that is contained in Airworthiness Review Program, Notice No. 3: Powerplant Proposals (Notice 75-19; 40 FR 21866; May 19, 1975). The proposed amendment to Sec. 25.1549 contained in Notice No. 2 is therefore deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-19. Comments submitted for Proposal 2-94 will be considered at that time. 
+
+ Proposal 2-95. One commentator took exception to the proposed deletion of the requirement for marking fuel and oil tank capacities at the filler openings in Sec. 25.1557(b). The FAA believes this method of providing the usable fuel tank capacity and the oil tank capacity is no longer necessary. The pilot has the fuel quantity gage and the Airplane Flight Manual, and the servicing personnel usually have no interest in the usable fuel tank capacity. The determination of oil level in oil tanks is usually accomplished with the dipstick. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-96. The proposed change to Sec. 25.1581 concerning the Airplane Flight Manual is related to proposed amendment Sec. 25.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 25.1581 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-96 will be considered at that time. 
+
+ Proposal 2-97. No unfavorable comments were received on the proposal to amend Sec. 25.1583. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-98. The proposed change to Sec. 25.1587 concerning performance information is related to a proposed amendment to Sec. 25.1587 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 25.1587 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-98 will be considered at that time. 
+
+ Proposal 2-99. Two commentators questioned the applicability of proposed Sec. 27.25(c) concerning a total weight that was greater than the maximum weight established under Sec. 27.25(a) and noted that a clarification of the applicable flight requirements was needed. The FAA agrees that proposed Sec. 27.25(c) should be clarified. Proposed Secs. 27.25(c) and 29.25(c) are intended to provide only a total weight standard for approving the rotorcraft structure for rotorcraft that will be operated under Part 133. Proposed Secs. 27.25(c) and 29.25(c) as adopted have been revised to clarify this intent. 
+
+ Proposal 2-100. Proposed Sec. 27.65(a)(2)(i) concerning climb gradients for rotorcraft other than helicopters is related to a proposed new Sec. 27.1587(b)(3) that is contained in Airworthiness Review Program, Notice No. 2: Miscellaneous Proposals (Notice 75-10; 40 FR 10802; March 7, 1975). The proposed amendment to Sec. 27.1587 contained in Notice 75-10 is being deferred; see Proposal 2-140. Therefore, the proposed amendment to Sec. 27.65 contained in Notice 75-10 is also deferred until final rulemaking action is taken with respect to the related proposal for Sec. 27.1587. Comments submitted for Proposal 2-100 will be considered at that time. 
+
+ Proposal 2-101. No unfavorable comments were received on the proposal to amend Sec. 27.141. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-102. No unfavorable comments were received on the proposal to amend Sec. 27.173(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-103. No unfavorable comments were received on the proposal to amend Sec. 27.175(d)(2)(iv). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-104. No unfavorable comments were received on the proposal to amend Sec. 27.312(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-105. No unfavorable comments were received on the proposal to amend Sec. 27.339. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-106. Two commentators suggested that the limit pilot torque for rotorcraft twist controls in proposed Secs. 27.397(b)(2) and 29.397(b)(2) should be 80 times the radius (R) in inches instead of 133 inch-pounds, as proposed. The FAA agrees that the pilot torque load requirements should be a function of the radius (R). Also the FAA does not expect the radius (R) of any twist control installed on any rotorcraft type certificated in the future to be greater than 133/80 inches. Therefore, the proposals as adopted revise the limit pilot torque load to 80R inch-pounds. 
+
+ Proposal 2-107. No unfavorable comments were received on the proposal to add a new Sec. 27.563. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-108. No unfavorable comments were received on the proposal to amend Sec. 27.603. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-109. One commentator disagreed with proposed Secs. 27.685(a) and 29.685(a) that would require the consideration of the effects of the freezing of moisture on control systems since Secs. 27.685(a) and 29.685(a) currently require that control systems be designed to prevent jamming. While the explanation for this proposal indicated that the freezing of moisture was a common cause of control jamming, the proposal is also directed at preventing chafing and interference caused by the freezing of moisture. Accordingly, the proposals are adopted without substantive change. 
+
+ Proposal 2-110. No unfavorable comments were received on the proposal to add a new Sec. 27.733(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-111. Based on a comment received, the proposed change to Sec. 27.787 has been revised to avoid any implication that lamps will be required in cargo compartments. 
+
+ Proposal 2-112. No unfavorable comments were received on the proposal to add a new Sec. 27.801. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-113. Several commentators stated that the ditching emergency exit standards proposed for Secs. 27.807(d) and 29.807 should not be applicable to all rotorcraft. The commentators noted that the new standards would unnecessarily penalize rotorcraft that would never be involved in a ditching situation. The FAA agrees that certain rotorcraft may not operate in areas where ditching is a concern. Compliance with the ditching emergency exit standards should not be required for all rotorcraft during type certification. Therefore, the proposals as adopted have been revised to make it applicable only to rotorcraft for which ditching certification is requested. The overhead hatch requirements proposed in new Secs. 27.807(d)(2) and 29.807(d)(3) are withdrawn because of the possible hazards associated with a turning main rotor. In addition, the reference in proposed Sec. 27.807(d) to Sec. 27.807(a) has been deleted as unnecessary, and the reference in proposed Sec. 29.807(d) to Sec. 29.807(c) has been deleted as inappropriate. 
+
+ Proposal 2-114. For comments related to the proposed amendment of Sec. 27.853, see Proposal 2-18. 
+
+ Proposal 2-115. Upon further FAA review proposed Secs. 27.865(a) and 29.865(a) concerning external load attaching means have been revised to preclude the necessity of considering the application of an external load at angles that will not be obtained in service. One commentator objected to the requirement for a manual mechanical control for the quick-release device. The commentator stated that this requirement was too restrictive due to the other standby electrical systems available. The FAA does not agree. Contrary to the commentator's contention the reliability of controls other than manual mechanical controls have not been sufficiently substantiated to permit their use in place of an manual mechanical control. 
+
+ Proposal 2-116. One commentator objected to the proposals to add new standards concerning turbine engine installations to Secs. 27.903 and 29.903 that would be substantively identical to proposed Sec. 23.903(b). The commentator requested that the proposals be withdrawn since helicopter service experience does not indicate that such a standard is necessary and due consideration has not been given to the differences between helicopter and airplane engine control systems. The FAA disagrees. While there are differences between helicopter and airplane engine installations, the FAA believes that the proposals would provide general design requirements relating to engine operating limitations and engine installation requirements and that these engine installation requirements should be paralleled in Parts 23, 27, and 29. Also see Proposal 2-19. 
+
+ Proposal 2-117. For comments concerning proposed Sec. 27.917(d), see Proposal 2- 163. 
+
+ Proposal 2-118. The proposed change to Sec. 27.927 concerning the torque transmission test is related to a proposed amendment to Sec. 27.927 that is contained in Airworthiness Review Program, Notice No. 3: Powerplant Proposals (Notice 75-19; 40 FR 21866; May 19, 1975). The proposed amendment to Sec. 27.927 contained in Notice No. 2 is therefore deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-19. Comments submitted for Proposal 2-118 will be considered at that time. 
+
+ Proposal 2-119. No unfavorable comments were received on the proposal to add a new Sec. 27.939(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-120. No unfavorable comments were received on the proposal to amend Sec. 27.977. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-121. Two commentators objected to the proposals to amend Secs. 27.999(b) and 29.999(b) to require the installation of quick actuation type drain valves that are readily accessible, which can be easily opened and closed, and is either located or protected so that it will not be damaged in the event of a landing with landing gear retracted. The commentators stated that the requirement to include crash landing consideration is not considered appropriate since there are a great number of other areas which must be covered in crash landing conditions. 
+
+ The proposals, however, would require that the fuel system drain valves be either located or protected so that it will not be damaged in the event of a landing with landing gear retracted. There are no requirements in the proposal for consideration of crash landing conditions. 
+
+ In consideration of comments discussed under Proposals 2- 26, and 2-70, Secs. 27.999(b)(3)(ii) and 29.999(b)(3)(ii), as adopted, have been clarified to more specifically provide a design consideration. 
+
+ See Proposals 2-26 and 2-70. 
+
+ Proposal 2-122. No unfavorable comments were received on the proposal to amend Sec. 27.1043(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-123. No unfavorable comments were received on the proposal to add a new Sec. 27.1093(c). The proposal as adopted has been editorially changed to agree with the format of the current section. 
+
+ Proposal 2-124. No unfavorable comments were received on the proposal to add a new Sec. 27.1123. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-125. No unfavorable comments were received on the proposal to add a new Sec. 27.1143(d), and the proposal is adopted without substantive change. However, the heading of Sec. 27.1143 has been amended to reflect the contents of the Sec. after the adoption of a new paragraph (d). 
+
+ Proposal 2-126. No unfavorable comments were received on the proposal to amend Sec. 27.1185. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-127. For comments related to proposed amendment of Sec. 27.1322, see Proposals 2-34 and 2-82. 
+
+ Proposal 2-128. The proposed change to Sec. 27.1325 concerning the static pressure sources is related to a proposed amendment to Sec. 27.1325 that is contained in Airworthiness Review Program, Notice No. 5: Equipment and Systems Proposals (Notice 75-23; 40 FR 23048; May 27, 1975). The proposed amendment to Sec. 27.1325 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-23. Comments submitted for Proposal 2-128 will be considered at that time. 
+
+ Proposal 2-129. The proposal for a new Sec. 27.1329 concerning the standards for automatic pilot systems is related to a proposed new Sec. 27.1311 that is contained in Airworthiness Review Program, Notice No. 5: Equipment and System Proposals (Notice 75-23; 40 FR 23048; May 27, 1975). The proposal for Sec. 27.1329 contained in Notice No. 2 is therefore being deferred until final rulemaking is taken with respect to the related proposal in Notice 75-23. Comments for Proposal 2-129 will be considered at that time. 
+
+ Proposal 2-130. No unfavorable comments were received on the proposal to amend Sec. 27.1351. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-131. Proposed Sec. 27.1353(f) concerning nickel-cadmium batteries is related to a proposed amendment to Sec. 27.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to 27.1353(f) contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-131 will be considered at that time. 
+
+ Proposal 2-132. For comments related to the proposed amendment of Sec. 27.1385 and the withdrawal of the proposal, see Proposal 2-89. 
+
+ Proposal 2-133. No unfavorable comments were received on the proposal to amend Sec. 27.1411. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-134. No unfavorable comments were received on the proposal to amend Sec. 27.1415(b). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-135. The proposed change to Sec. 27.1545 concerning the Vne sub requirements is related to a proposed amendment to Sec. 27.1505 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 27.1545 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-135 will be considered at that time. 
+
+ Proposal 2-136. For comments related to the proposed amendment of Sec. 27.1549, see Proposal 2-42. 
+
+ Proposal 2-137. No unfavorable comments were received on the proposal to amend Sec. 27.1555(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-138. No unfavorable comments were received on the proposal to amend Sec. 27.1557(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-139. The proposed change to Sec. 27.1581 concerning the Airplane Flight Manual is related to a proposed amendment to Sec. 27.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 27.1581 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-139 will be considered at that time. 
+
+ Proposal 2-140. The proposed change to Sec. 27.1587 is related to a proposed amendment to Sec. 27.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 27.1587 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-140 will be considered at that time. 
+
+ Proposal 2-141. One commentator suggested that the proposed new Sec. 29.25(c) provisions be limited to category B rotorcraft. However no reason for the suggestion was stated. The FAA knows of no reason why the proposed provisions should be limited to category B rotorcraft. One commentator questioned the applicability of proposed new Sec. 29.25(c) and noted that a clarification of the applicable flight requirements was needed. For discussion of this and other comments related to the proposed new Sec. 29.25(c), see Proposal 2-99. 
+
+ Proposal 2-142. No unfavorable comments were received on the proposal to amend Sec. 29.63. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-143. Several commentators recommended that Sec. 29.67(a)(1) be revised by adding the term "at VToss" following the words "feet per minute", and by deleting the phrase "without ground effect". Although paragraph (a)(1)(iv) of Sec. 29.67 as proposed defines the speed to be used in meeting the climb requirements of Sec. 29.67(a)(1) as the takeoff safety speed, the FAA does not believe that the term "VTOSS" is appropriate. Also, the FAA does not agree that the phrase "without ground effect" should be deleted from Sec. 29.67(a)(1). The FAA requires that all climb performance be conducted outside the influence of ground effect. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-144. No unfavorable comments were received on the proposal to amend Sec. 29.71. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-145. No unfavorable comments were received on the proposal to amend Sec. 29.75(b)(2). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-146. No unfavorable comments were received on the proposal to amend Sec. 29.141. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-147. No unfavorable comments were received on the proposal to amend Sec. 29.173(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-148. No unfavorable comments were received on the proposal to amend Sec. 29.175(d)(2)(iv). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-149. For comments related to the proposed amendment of Sec. 29.397, see Proposal 2-106. 
+
+ Proposal 2-150. No unfavorable comments were received on the proposal to add a new Sec. 29.563. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-151. No unfavorable comments were received on the proposal to amend Sec. 29.603. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-152. For comments related to the proposed amendment of Sec. 29.685(a), see Proposal 2-109. 
+
+ Proposal 2-153. No unfavorable comments were received on the proposal to add a new Sec. 29.733(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-154. The proposed change to Sec. 29.783 concerning the requirements applicable to "airstair doors" in transport category rotorcraft is related to proposed amendments to Sec. 25.783 that are contained in Airworthiness Review Program, Notice No. 2: Miscellaneous Proposals (Notice 75-10; 40 FR 10802; March 7, 1975) and in Airworthiness Review Program, Notice No. 8: Aircraft, Engine, and Propeller Airworthiness, and Procedural Proposals (Notice 75-31; 40 FR 29410; July 11, 1975). The proposed amendment to Sec. 25.783 contained in Notice 75- 10 is being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-31. The proposed amendment to Sec. 29.783 contained in Notice 75-10 is therefore being deferred until final rulemaking action is taken with respect to the related proposal for Sec. 25.783. Comments submitted for Proposal 2-154 will be considered at that time. 
+
+ Proposal 2-155. No unfavorable comments were received on the proposed new Sec. 29.787(d). However, based on a comment received on Proposal 2-111, this proposal has been revised to avoid any implication that lamps will be required in cargo compartments. 
+
+ Proposal 2-156. No unfavorable comments were received on the proposal to add a new Sec. 29.801. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-157. For comments related to the proposed amendment Sec. 29.807, see Proposal 2-113. 
+
+ Proposal 2-158. No unfavorable comments were received on the proposal to add a new Sec. 29.813(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-159. One commentator objected to the proposed change to Sec. 29.815 for the same reasons as presented for the proposed change to Sec. 25.815. The discussion of Sec. 25.815 in Proposal 2-62 deals with this comment. 
+
+ Proposal 2-160. For comments related to the proposed amendment of Sec. 29.853, see Proposal 2-18. 
+
+ Proposal 2-161. For comments related to the proposed new Sec. 29.865, see Proposal 2-115. 
+
+ Proposal 2-162. No unfavorable comments were received on the proposal to amend Sec. 29.903(c)(1). Accordingly, the proposal is adopted without substantive change. For comments related to the proposal to add new standards concerning turbine engine installation, see Proposals 2-19 and 2-116. 
+
+ Proposal 2-163. The only public comment received in response to proposed Secs. 27.917(d) and 29.917(a) recommended that the present language in Sec. 29.917(a) be used but gave no reason for the recommendation. The FAA believes that there should be a positive description of the cooling fans that must be considered as part of the rotor drive system. Accordingly, the proposals are adopted without substantive change. 
+
+ Proposal 2-164. The proposed change to Sec. 29.927 concerning the torque transmission test time is related to a proposed amendment to Sec. 29.927 that is contained in Airworthiness Review Program, Notice No. 8: Aircraft, Engine, and Propeller Airworthiness, and Procedural Proposals (Notice 75- 31; 40 FR 29410, July 11, 1975). The proposed amendment to Sec. 29.927 contained in Notice No. 2 is therefore deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-31. Comments submitted for Proposal 2-164 will be considered at that time. 
+
+ Proposal 2-165. No unfavorable comments were received on the proposal to amend Sec. 29.931. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-166. No unfavorable comments were received on the proposal to add a new Sec. 29.939(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-167. No unfavorable comment was received on the proposal to amend Sec. 29.951(a). Accordingly, the proposal is adopted without substantive change. Also see proposal 2-68. 
+
+ Proposal 2-168. No unfavorable comments were received on the proposal to amend Sec. 29.997. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-169. Based on comments concerning proposed changes to Sec. 25.979, proposed new paragraphs (d) and (e) of Sec. 29.979 have also been revised. See Proposal 2-69 for a discussion of the amendment to Sec. 25.979. 
+
+ Proposal 2-170. One commentator objected to the proposal to Sec. 29.999 on the basis that the helicopter accident records do not show "any great number due to operators not draining fuel sumps." The FAA believes that this low accident rate due to water contamination in the fuel exists because most helicopters already use quick actuation drain valves. 
+
+ One commentator questioned the need for proposed Sec. 29.999(b) noting that current Sec. 29.971(d) appears to have the same requirement. The FAA agrees that current Sec. 29.971(d) would be redundant for fuel tank sump drains and has therefore deleted the standards for the fuel tank sump drain in Sec. 29.971(d). 
+
+ The fuel drain standards in Sec. 29.999(b) as proposed are applicable to each drain required by Sec. 29.999(a) including the drains prescribed in Sec. 29.971, but to avoid misinterpretation the Sec. as adopted is clarified to specifically note the fuel tank sump drains prescribed in Sec. 29.971. 
+
+ Also see Proposals 2-26, 2-70, and 2-121. 
+
+ Proposal 2-171. One commentator stated that proposed Sec. 29.1041(a) should be revised to except "ground use only" auxiliary power units (APU's). The FAA disagrees. APU's that are permitted to operate only on the ground have inadvertently continued to operate in flight. Safe operation of APU's requires consideration of ground, water, and flight operating conditions. The proposal is therefore, adopted without substantive change. 
+
+ Proposal 2-172. No unfavorable comments were received on the proposal to amend Sec. 29.1043(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-173. No unfavorable comments were received on the proposal to add a new Sec. 29.1093(c). The proposal as adopted has been editorially changed to agree with the format of the current section. 
+
+ Proposal 2-174. For comments related to the proposed amendment of Sec. 29.1125, see Proposals 2-29 and 2-75. 
+
+ Proposal 2-175. No unfavorable comment was received on the proposal to amend Sec. 29.1143 and the proposal is adopted without substantive change. However, the heading of Sec. 29.1143 has been amended to reflect the contents of the Sec. after the addition of a new paragraph (e). 
+
+ Proposal 2-176. No unfavorable comments were received on the proposal to amend Sec. 29.1165(f). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-177. Two commentators objected to the selective use of Part 33 requirements in the proposal for a new Sec. 29.1167 that would provide substantiation requirements for accessory gearboxes that are not certificated as part of an engine. The FAA proposed to amend Part 29 like Part 25 for consistency. The FAA now believes that the proposed new Sec. 29.1167 is inappropriate in view of the requirements to substantiate the rotor drive system including gearboxes under the rotor drive system endurance test requirements. Therefore, proposed new Sec. 29.1167 is withdrawn. 
+
+ Proposal 2-178. No unfavorable comments were received on the proposal to amend Sec. 29.1189(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-179. No unfavorable comments were received on the proposal to amend Sec. 29.1197(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-180. For comments related to the proposed amendment of Sec. 29.1303(d), see Proposal 2-79. 
+
+ Proposal 2-181. No unfavorable comments were received on the proposal to amend Sec. 29.1307. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-182. For comments related to proposed amendment of Sec. 29.1322, see Proposals 2-34 and 2-82. 
+
+ Proposal 2-183. For comments related to the deferral of proposed Sec. 29.1325, see Proposal 2-35. 
+
+ Proposal 2-184. The proposed change to Sec. 29.1329 concerning automatic pilot systems is related to a proposed new Sec. 29.1311 that is contained in Airworthiness Review Program, Notice No. 5: Equipment and Systems Proposals (Notice 75-23; 40 FR 23048; May 27, 1975). The proposal for Sec. 29.1329 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-23. Comments submitted for Proposal 2-184 will be considered at that time. 
+
+ Proposal 2-185. The proposed change to Sec. 29.1337 concerning the auxiliary power unit instrument lines is related to a proposed amendment to Sec. 29.1337 that is contained in Airworthiness Review Program, Notice No. 3: Powerplant Proposals (Notice 75-19; 40 FR 21866, May 19, 1975). The proposed amendments to Sec. 29.1337 contained in Notice No. 2 is therefore deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-19. Comments submitted for Proposal 2-185 will be considered at that time. 
+
+ Proposal 2-186. Proposed Sec. 29.1353(c)(5) concerning nickel-cadmium batteries is related to a proposed amendment to Sec. 29.1585 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 29.1353(c)(5) contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-186 will be considered at that time. 
+
+ Proposal 2-187. For comments related to the proposed amendment of Sec. 29.1385 and the withdrawal of the proposal, see Proposal 2-89. 
+
+ Proposal 2-188. The proposal for Sec. 29.1545 concerning Vne requirements is related to a proposed amendment to Sec. 29.1505 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 29.1545 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-188 will be considered at that time. 
+
+ Proposal 2-189. For comments related to the proposed amendment of Sec. 29.1549, see Proposal 2-42. 
+
+ Proposal 2-190. No unfavorable comments were received on the proposal to amend Sec. 29.1555(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-191. No unfavorable comments were received on the proposal to amend Sec. 29.1557(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-192. The proposed change to Sec. 29.1581 concerning the Airplane Flight Manual is related to a proposed amendment to Sec. 29.1581 that is contained in Airworthiness Review Program, Notice No. 6: Flight Proposals (Notice 75-25; 40 FR 24664; June 9, 1975). The proposed amendment to Sec. 29.1581 contained in Notice No. 2 is therefore being deferred until final rulemaking action is taken with respect to the related proposal in Notice 75-25. Comments submitted for Proposal 2-192 will be considered at that time. 
+
+ Proposal 2-193. No unfavorable comments were received on the proposal to amend Sec. 31.1. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-194. No unfavorable comments were received on the proposal to amend Secs. 31.11 and 31.20. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-195. No unfavorable comment was received on the proposal to add a new Sec. 31.14 concerning weight limits of manned free balloons. Therefore, the Sec. is adopted without substantive change. 
+
+ Proposal 2-196. No unfavorable comments were received on the proposal to amend Sec. 31.45. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-197. No unfavorable comments were received on the proposal to add a new Sec. 31.46. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-198. No unfavorable comments were received on the proposal to amend Sec. 31.63. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-199. No unfavorable comments were received on the proposal to amend Sec. 31.85. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-200. No unfavorable comments were received on the proposal to amend Sec. 33.1. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-201. No unfavorable comments were received on the proposal to amend Sec. 35.1. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-202. No unfavorable comments were received on the proposal to amend Sec. 35.39. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposed 2-203. No unfavorable comments were received on the proposal to amend Sec. 35.41(e). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposed 2-204. No unfavorable comments were received on the proposal to amend Sec. 35.45(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposed 2-205. No unfavorable comments were received on the proposal to amend Sec. 91.14. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposed 2-206. No unfavorable comments were received on the proposal to amend Sec. 91.21(a). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-207. One commentator suggested that the proposed change to Sec. 91.33(d)(6) concerning clock requirements should use the language of Sec. 121.305. The FAA believes that a standard should be specified in Sec. 91.33(d)(6) for digital clocks and the proposal as adopted provides a specific standard. See Proposal 2-79. 
+
+ Proposal 2-208. The intent of the proposed new Sec. 91.193(g) is to require protective breathing equipment that would meet the standards proposed for Sec. 25.1439(b) on certain airplanes operated under Part 91 Subpart D. Based on the current testing being conducted on this type of equipment, the FAA is developing new standards for a later rulemaking action. The proposal for Sec. 25.1439(b)(2)(ii) is being withdrawn (See Proposal 2-91). Therefore, the FAA believes that the proposal for Sec. 91.193 is premature, and the proposal is withdrawn. 
+
+ Proposal 2-209. Although no unfavorable comment was received on the proposed revision of Sec. 91.209, the FAA believes that revision of similar ice protection provision in Sec. 135.85 may be necessary. Amendments to Secs. 91.209 and 135.85 should be considered together. Therefore, the proposed change to Sec. 91.209 is withdrawn. 
+
+ Proposal 2-210. No unfavorable comments were received on the proposal to amend Sec. 121.171(b). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-211. No unfavorable comments were received on the proposal to amend Sec. 121.199. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-212. No unfavorable comments were received on the proposal to amend Secs. 121.331(b) and 121.333(b). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-213. The intent of proposed Sec. 121.337(d) is to require protective breathing equipment that would meet the proposed requirements of Sec. 25.1439(b) installed in certain airplanes operated under Part 121. However, proposed Sec. 25.1439(b)(2)(ii) is withdrawn in this notice. Based on the current testing being conducted on this type of equipment, the FAA is developing new standards for a later rulemaking action. The FAA therefore believes that the proposed change to Sec. 121.337 is premature and the proposal is withdrawn. Also see Proposal 2-91. 
+
+ Proposal 2-214. No unfavorable comments were received on the proposal to amend Sec. 127.105. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-215. No unfavorable comments were received on the proposal to add a new Sec. 127.106. Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-216. One commentator objected to the proposed amendment to Sec. 133.1. The commentator stated that the proposal specifically eliminates the reference to airworthiness certification rules when, in fact, Subpart D is retained intact except for the standards for external-load attaching means and quick-release devices. The FAA agrees that reference to airworthiness requirements should not be deleted without other changes to Part 133, and the proposal is withdrawn. 
+
+ Proposal 2-217. One commentator objected to the proposed amendment to Sec. 133.41(c)(6). However no reason for the objection was stated. The proposal is therefore adopted herein without substantive change. 
+
+ Proposal 2-218. One commentator requested that proposed Sec. 133.43(a) be revised to provide for the use of external-load attaching means previously approved under Part 133. The FAA agrees and proposed Sec. 133.43 is revised accordingly. 
+
+ Proposal 2-219. No unfavorable comments were received on the proposal to amend Sec. 133.45(c). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-220. No unfavorable comments were received on the proposal to amend Sec. 135.71(a)(5). Accordingly, the proposal is adopted without substantive change. 
+
+ Proposal 2-221. Based upon further review by the FAA proposed Sec. 135.165(b)(2) is being withdrawn because, contrary to the explanation for the proposal in Notice 75-10, the proposal would result in unjustifiably different standards for transport category airplanes operated under Part 135 and those operated under Part 121. 
+
+(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); sec. 6(c) of the Department of Transportation Act (49 U.S.C. 1655(c))
+
+
+
+ 
+        
+REGULATORY TEXT: Adoption of the Amendments:
+
+ In consideration of the foregoing, and for the reasons stated in Notice 75-10, Parts 21, 23, 25, 27, 29, 31, 33, 35, 91, 121, 127, 133, and 135 of the Federal Aviation Regulations are amended as follows, effective February 1, 1977. 
+
+PART 21--CERTIFICATION PROCEDURES FOR PRODUCTS AND PARTS 
+
+ 1. By revising Sec. 21.33(a) to read as follows: 
+
+Sec. 21.33 Inspection and tests. 
+
+(a) Each applicant must allow the Administrator to make any inspection and any flight and ground test necessary to determine compliance with the applicable requirements of the Federal Aviation Regulations. However, unless otherwise authorized by the Administrator-- 
+
+(1) No aircraft, aircraft engine, propeller, or part thereof may be presented to the Administrator for test unless compliance with paragraphs (b)(2) through (b)(4) of this Sec. has been shown for that aircraft, aircraft engine, propeller, or part thereof; and 
+
+(2) No change may be made to an aircraft, aircraft engine, propeller, or part thereof between the time that compliance with paragraphs (b)(2) through (b)(4) of this Sec. is shown for that aircraft, aircraft engine, propeller, or part thereof and the time that it is presented to the Administrator for test.
+
+* * * * *
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES 
+
+ 
+
+ 2. By revising the first sentence of Sec. 23.23 to read as follows: 
+
+Sec. 23.23 Load distribution limits. 
+
+ Ranges of weight and centers of gravity within which the airplane may be safely operated must be established and must include the range for lateral centers of gravity if possible loading conditions can result in significant variation of their positions.* * *
+
+ 
+
+ 3. By revising Sec. 23.141 to read as follows: 
+
+Sec. 23.141 General. 
+
+ The airplane must meet the requirements of Secs. 23.143 through Sec. 23.253 at the normally expected operating altitudes without exceptional piloting skill, alertness, or strength. 
+
+ 4. By revising Sec. 23.143(b) to read as follows: 
+
+Sec. 23.143 General 
+
+* * * * *
+
+(b) It must be possible to make a smooth transition from one flight condition to another (including turns and slips) without danger of exceeding the limit load factor, under any probable operating condition (including, for multiengine airplanes, those conditions normally encountered in the sudden failure of any engine). 
+
+* * * * *
+
+ 5. By amending Sec. 23.145(c) by striking the words "without exceptional piloting skill", and the commas preceding and following those words; and by revising Sec. 23.145(e) to read as follows: 
+
+Sec. 23.145 Longitudinal control. 
+
+* * * * *
+
+(e) By using normal flight and power controls, except as otherwise noted in paragraphs (e)(1) and (e)(2), it must be possible in the following airplanes to establish a zero rate of descent at an attitude suitable for a controlled landing without exceeding the operational and structural limitations of the airplane; 
+
+(1) For single engine and multiengine airplanes, without the use of the primary longitudinal control system.
+
+(2) For multiengine airplanes-- 
+
+(i) Without the use of the primary directional control; and
+
+(ii) If a single failure of any one connecting or transmitting link would affect both the longitudinal and directional primary control system, without the primary longitudinal and directional control system. 
+
+ 6. By revising Sec. 23.175(c)(3) to read as follows: 
+
+Sec. 23.175 Demonstration of static longitudinal stability. 
+
+* * * * *
+
+(c) * * *
+
+(3) 75 percent of maximum continuous power for reciprocating engines, or for turbine engines, the maximum cruising power or thrust selected by the applicant as an operating limitation, except that the power need not exceed that required for level flight at VLE; and 
+
+* * * * *
+
+ 7. By amending the heading of Sec. 23.397, revising the lead-in, table and footnotes 2 and 4 of Sec. 23.397(b), and adding footnote 5 to Sec. 23.397(b) to read as follows: 
+
+Sec. 23.397 Limit control forces and torques. 
+
+* * * * *
+
+(b) The limit pilot forces and torques are as follows: 
+
+Control
+
+ Maximum forces or torques for design weight, weight equal to or less than 5,000 pounds1 Minimum forces or torques 3
+
+ 
+
+Aileron:
+
+Stick-----------------------------------------
+
+Wheel3------------------------------------ 67 lbs.-------------------------------
+
+50 D in.-lbs.4---------------------- 40 lbs.
+
+40 D in.-lbs.4 
+
+Elevator:
+
+Stick-----------------------------------------
+
+Wheel (symmetrical).----------------
+
+Wheel (unsymmetrical).5----------- 167 lbs.-----------------------------
+
+200 lbs.----------------------------
+
+--------------- 100 lbs.
+
+100 lbs.
+
+100 lbs. 
+
+Rudder------------------------------------- 200 lbs.----------------------------- 130 lbs. 
+
+1 * * *
+
+2 If the design of any individual set of control systems or surfaces makes these specified minimum forces or torques inapplicable, values corresponding to the present hinge moments obtained under sec. 23.415, but not less than 0.6 of the specified minimum forces or torques, may be used.
+
+3 * * *
+
+4 D=wheel diameter (inches).
+
+5 The unsymmetrical force must be applied at one of the normal handgrip points on the control wheel.
+
+ 8. By adding a new Sec. 23.479(d) to read as follows: 
+
+Sec. 23.479 Level landing conditions. 
+
+* * * * *
+
+(d) For airplanes with tip tanks or large overhung masses (such as turbopropeller or jet engines) supported by the wing, the tip tanks and the structure supporting the tanks or overhung masses must be designed for the effects of dynamic responses under the level landing conditions of either paragraph (a)(1) or (a)(2)(ii) of this section. In evaluating the effects of dynamic response, an airplane lift equal to the weight of the airplane may be assumed. 
+
+ 9. By revising the lead-in of Sec. 23.603(a) to read as follows: 
+
+Sec. 23.603 Materials and workmanship. 
+
+(a) The suitability and durability of materials used for parts, the failure of which could adversely affect safety, must be-- 
+
+* * * * *
+
+ 10. By revising Sec. 23.607 to read as follows: 
+
+Sec. 23.607 Self-locking nuts. 
+
+ No self-locking nut may be used on any bolt subject to rotation in operation unless a nonfriction locking device is used in addition to the self-locking device. 
+
+ 11. By revising Sec. 23.675 to read as follows: 
+
+Sec. 23.675 Stops. 
+
+(a) Each control system must have stops that positively limit the range of motion of each movable aerodynamic surface controlled by the system. 
+
+(b) Each stop must be located so that wear, slackness, or takeup adjustments will not adversely affect the control characteristics of the airplane because of a change in the range of surface travel. 
+
+(c) Each stop must be able to withstand any loads corresponding to the design conditions for the control system. 
+
+Sec. 23.685 [Amended] 
+
+ 12. By amending Sec. 23.685(a) by striking the word "or" after "passengers", by striking the period after the word "objects" and inserting a comma in its place, followed by the words "or the freezing of moisture." 
+
+ 13. By adding a new Sec. 23.733(c) to read as follows: 
+
+Sec. 23.733 Tires. 
+
+* * * * *
+
+(c) Each tire installed on a retractable landing gear system must, at the maximum size of the tire type expected in service, have a clearance to surrounding structure and systems that is adequate to prevent contact between the tire and any part of the structure or systems. 
+
+ 14. By adding a new Sec. 23.787(f) to read as follows: 
+
+Sec. 23.787 Cargo compartments. 
+
+* * * * *
+
+(f) If cargo compartment lamps are installed, each lamp must be installed so as to prevent contact between lamp bulb and cargo. 
+
+ 15. By amending the first sentence of Sec. 23.841(b)(1) and revising (b)(5) and (b)(6) to read as follows: 
+
+Sec. 23.841 Pressurized cabins. 
+
+* * * * *
+
+(b) * * *
+
+(1) Two pressure relief valves to automatically limit the positive pressure differential to a predetermined value at the maximum rate of flow delivered by the pressure source. * * *
+
+* * * * *
+
+(5) Instruments to indicate to the pilot the pressure differential, the cabin pressure altitude, and the rate of change of cabin pressure altitude. 
+
+(6) Warning indication at the pilot station to indicate when the safe or preset pressure differential is exceeded and when a cabin pressure altitude of 10,000 feet is exceeded. 
+
+* * * * *
+
+ 16. By adding a new Sec. 23.903(b) to read as follows:
+
+ Sec. 23.903 Engines. 
+
+* * * * *
+
+(b) Turbine engine installation. For turbine engine installations, the powerplant systems associated with engine control devices, systems, and instrumentation must be designed to give reasonable assurance that those engine operating limitations that adversely affect turbine rotor structural integrity will not be exceeded in service. 
+
+* * * * * 
+
+Sec 23.933 [Amended] 
+
+ 17. By adding at the end of the first sentence of Sec. 23.933(b) the phrase, "including ground operation". 
+
+ 18. By redesignating the lead-in of Sec. 23.971 and Secs. 23.971(a) and Sec. 23.971(b) as Sec. 23.971(a) and Secs. 23.971(a)(1), and 23.971(a)(2), respectively, and by adding a new Sec. 23.971(b) to read as follows:
+
+Sec. 23.971 Fuel tank sump. 
+
+* * * * *
+
+ (b) Each sump, sediment bowl, and sediment chamber drain required by paragraph (a) of this section must comply with the drain provisions of Sec. 23.999(b)(1), (2), and (3). 
+
+ 19. By revising Sec. 23.977 to read as follows:
+
+Sec. 23.977 Fuel tank outlet. 
+
+(a) There must be a fuel strainer for the fuel tank outlet or for the booster pump. This strainer must-- 
+
+(1) For reciprocating engine powered airplanes, have 8 to 16 meshes per inch; and 
+
+(2) For turbine engine powered airplanes, prevent the passage of any object that could restrict fuel flow or damage any fuel system component. 
+
+(b) The clear area of each fuel tank outlet strainer must be at least five times the area of the outlet line. 
+
+(c) The diameter of each strainer must be at least that of the fuel tank outlet. 
+
+(d) Each finger strainer must be accessible for inspection and cleaning.
+
+ 20. By revising Sec. 23.995(d) to read as follows: 
+
+Sec. 23.995 Fuel valves and controls. 
+
+* * * * *
+
+(d) Each valve and fuel system control must be installed so that gravity and vibration will not affect the selected position. 
+
+* * * * *
+
+ 21. By revising Sec. 23.999(b) to read as follows: 
+
+Sec. 23.999 Fuel system drains. 
+
+* * * * *
+
+(b) Each drain required by paragraph (a) of this section and Sec. 23.971 must-- 
+
+(1) Discharge clear of all parts of the airplane; 
+
+(2) Have manual or automatic means for positive locking in the closed position; and 
+
+(3) Have a drain valve-- 
+
+(i) That is readily accessible and which can be easily opened and closed; and 
+
+(ii) That is either located or protected to prevent fuel spillage in the event of a landing with landing gear retracted. 
+
+ 22. By adding a new Sec. 23.1093(c) to read as follows: 
+
+Sec. 23.1093 Induction system icing protection. 
+
+* * * * *
+
+(c) For airplanes with reciprocating engines having superchargers to pressurize the air before it enters the carburetor, the heat rise in the air caused by that supercharging at any altitude may be utilized in determining compliance with paragraph (a) of this Sec. if the heat rise utilized is that which will be available, automatically, for the applicable altitudes and operating condition because of supercharging. 
+
+ 23. By revising Sec. 23.1111(c) to read as follows: 
+
+Sec. 23.1111 Turbine engine bleed air systems. 
+
+* * * * *
+
+(c) Hazardous contamination of cabin air systems may not result from failures of the engine lubricating system. 
+
+ 24. By adding a new lead-in to Sec. 23.1125 and by revising Sec. 23.1125(a)(3) to read as follows: 
+
+Sec. 23.1125 Exhaust heat exchangers. 
+
+For reciprocating engine powered airplanes the following apply: 
+
+(a) * * *
+
+(3) Each exchanger must have cooling provisions wherever it is subject to contact with exhaust gases. 
+
+* * * * *
+
+ 25. By revising the heading of Sec. 23.1143 and by adding a new Sec. 23.1143(e) to read as follows: 
+
+Sec. 23.1143 Engine controls. 
+
+* * * * *
+
+(e) If a power or thrust control incorporates a fuel shutoff feature, the control must have a means to prevent the inadvertent movement of the control into the shutoff position. The means must-- 
+
+(1) Have a positive lock or stop at the idle position; and 
+
+(2) Require a separate and distinct operation to place the control in the shutoff position.
+
+ 26. By adding a new Sec. 23.1165(e) to read as follows: 
+
+Sec. 23.1165 Engine ignition systems. 
+
+* * * * *
+
+(e) Each turbine engine ignition system must be independent of any electrical circuit that is not used for assisting, controlling, or analyzing the operation of that system. 
+
+ 27. By adding new Sec. 23.1303(d) and (e) to read as follows: 
+
+Sec. 23.1303 Flight and navigation instruments. 
+
+* * * * *
+
+(d) For turbine engine powered airplanes, a free air temperature indicator of an air-temperature indicator which provides indications that are convertible to free-air. 
+
+(e) A speed warning device for-- 
+
+(1) Turbine engine powered airplanes; and 
+
+(2) Other airplanes for which Vmo/Mmo and Vd/Md are established under Secs. 23.335(b)(4) and 23.1505(c) if Vmo/Mmo is greater than 0.8 Vd/Md. 
+
+ The speed warning device must give effective aural warning (differing distinctively from aural warnings used for other purposes) to the pilots whenever the speed exceeds Vmo plus 6 knots or Mmo+0.01. The upper limit of the production tolerance for the warning device may not exceed the prescribed warning speed.
+
+Sec. 23.1309 [Amended] 
+
+ 28. By inserting a comma between the words "Equipment" and "systems," and between the words "systems" and "and", in the heading of Sec. 23.1309. 
+
+ 
+
+ 29. By adding a new Sec. 23.1322 to read as follows:
+
+Sec. 23.1322 Warning, caution, and advisory lights. 
+
+If warning, caution, or advisory lights are installed in the cockpit, they must, unless otherwise approved by the Administrator, be-- 
+
+(a) Red, for warning lights (lights indicating a hazard which may require immediate corrective action); 
+
+(b) Amber, for caution lights (lights indicating the possible need for future corrective action); 
+
+(c) Green, for safe operation lights; and 
+
+(d) Any other color, including white, for lights not described in paragraphs (a) through (c) of this Sec., provided the color differs sufficiently from the colors prescribed in paragraphs (a) through (c) of this Sec. to avoid possible confusion. 
+
+ 30. By deleting the word "and" following the semicolon in Sec. 23.1351(c)(3); by adding a semicolon and the word "and" at the end of Sec. 23.1351(c)(4); and by adding a new Sec. 23.1351(c)(5) to read as follows: 
+
+Sec. 23.1351 General.
+
+* * * * *
+
+(c) * * * 
+
+(5) Each generator must have an overvoltage control designed and installed to prevent damage to the electrical system, or to equipment supplied by the electrical system, that could result if that generator were to develop an overvoltage condition. 
+
+* * * * *
+
+ 31. By revising Sec. 23.1385(c) to read as follows: 
+
+Sec. 23.1385 Position light system installation. 
+
+* * * * *
+
+(c) Rear position light. The rear position light must be a white light mounted as far aft as practicable on the tail or on each wing tip, and must be approved.
+
+* * * * *
+
+ 32. By revising Sec. 23.1411 including the Sec. heading to read as follows: 
+
+Sec. 23.1411 General. 
+
+(a) Required safety equipment to be used by the flight crew in an emergency, such as automatic liferaft releases, must be readily accessible. 
+
+(b) Stowage provisions for required safety equipment must be furnished and must-- 
+
+(1) Be arranged so that the equipment is directly accessible and its location is obvious; and 
+
+(2) Protect the safety equipment from damage caused by being subjected to the inertia loads specified in Sec. 23.561.
+
+ 33. By revising Sec. 23.1549 to read as follows: 
+
+Sec. 23.1549 Powerplant instruments. 
+
+For each required powerplant instrument, as appropriate to the type of instruments-- 
+
+(a) Each maximum and, if applicable, minimum safe operating limit must be marked with a red radial or a red line; 
+
+(b) Each normal operating range must be marked with a green arc or green line, not extending beyond the maximum and minimum safe limits; 
+
+(c) Each takeoff and precautionary range must be marked with a yellow arc or a yellow line; and 
+
+(d) Each engine or propeller range that is restricted because of excessive vibration stresses must be marked with arcs or red lines. 
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES 
+
+Secs. 25.45-25.75 [Deleted] 
+
+ 34. By striking the center heading, "PERFORMANCE: RECIPROCATING ENGINE POWERED AIRPLANES," following Sec. 25.33, by deleting Sec. 25.45 through and including Sec. 25.75, and by striking the center heading, "PERFORMANCE: TURBINE ENGINE POWERED AIRPLANES," following Sec. 25.75 and inserting in its place the center heading, "PERFORMANCE." 
+
+ 35. By revising Sec. 25.101(a) and (b) to read as follows: 
+
+Sec. 25.101 General. 
+
+(a) Unless otherwise prescribed, airplanes must meet the applicable performance requirements of this subpart for ambient atmospheric conditions and still air. 
+
+(b) The performance, as affected by engine power or thrust, must be based on the following relative humidities: 
+
+(1) For turbine engine powered airplanes, a relative humidity of-- 
+
+(i) 80 percent, at and below standard temperatures; and 
+
+(ii) 34 percent, at and above standard temperatures plus 50 degrees F. 
+
+Between these two temperatures, the relative humidity must vary linearly. 
+
+(2) For reciprocating engine powered airplanes, a relative humidity of 80 percent in a standard atmosphere. Engine power corrections for vapor pressure must be made in accordance with the following table: 
+
+Altitude H (ft.)
+
+ Vapor pressure e (In. Hg.)
+
+ Specific humidity w (Lb. moisture per lb dry air)
+
+ Density ratio
+
+ 
+
+0
+
+ 0.403
+
+ 0.00849
+
+ 
+
+1,000
+
+ .354
+
+ .00773
+
+ .96672
+
+ 
+
+2,000
+
+ .311
+
+ .00703
+
+ .93895
+
+ 
+
+3,000
+
+ .272
+
+ .00638
+
+ .91178
+
+ 
+
+4,000
+
+ .238
+
+ .00578
+
+ .88514
+
+ 
+
+5,000
+
+ .207
+
+ .00523
+
+ .85910
+
+ 
+
+6,000
+
+ .1805
+
+ .00472
+
+ .83361
+
+ 
+
+7,000
+
+ .1566
+
+ .00425
+
+ .80870
+
+ 
+
+8,000
+
+ .1356
+
+ .00382
+
+ .78434
+
+ 
+
+9,000
+
+ .1172
+
+ .00343
+
+ .76053
+
+ 
+
+10,000
+
+ .1010
+
+ .00307
+
+ .73722
+
+ 
+
+15,000
+
+ .0463
+
+ .001710
+
+ .62868
+
+ 
+
+20,000
+
+ .01978
+
+ .000896
+
+ .53263
+
+ 
+
+25,000
+
+ .00778
+
+ .000436
+
+ .44806
+
+ 
+
+* * * * *
+
+Sec. 25.107 [Amended] 
+
+36. By amending Sec. 25.107(b)(1)(i) and (b)(2)(i) by inserting the words "and reciprocating engine" between the words "turbopropeller" and "powered" in both subdivisions.
+
+Sec. 25.161 [Amended]
+
+ 37. By amending Sec. 25.161(e)(1) by striking the reference "Sec. 25.69" and inserting in place thereof the reference "Sec. 25.123(a)". 
+
+ 38. By amending the first sentence of Sec. 25.201(c)(1) to read as follows: 
+
+Sec. 25.201 Stall demonstration. 
+
+* * * * *
+
+(c) * * * 
+
+(1) With the airplane trimmed for straight flight at the speed prescribed in Sec. 25.103(b)(1), reduce the speed with the elevator control until it is steady at slightly above stalling speed.* * * 
+
+* * * * *
+
+ 39. By revising Sec. 25.397(c) to read as follows: 
+
+Sec. 25.397 Control system loads. 
+
+* * * * *
+
+(c) Limit pilot forces and torques. The limit pilot forces and torques are as follows: 
+
+Control
+
+ Maximum forces or torques
+
+ Minimum forces or torques
+
+ 
+
+Aileron:
+
+ Stick ___________________________
+
+ Wheel *_________________________ 100 lbs.__________________________
+
+80 D in.-lbs.**_____________________ 40 lbs.
+
+40 D in.-lbs. 
+
+Elevator:
+
+ Stick___________________________
+
+ Wheel (symmetrical) _____________
+
+ Wheel (unsymmetrical)1 __________ 250 lbs __________________________
+
+300 lbs __________________________ 100 lbs.
+
+100 lbs.
+
+100 lbs. 
+
+Rudder_________________________ 300 lbs. _________________________ 130 lbs. 
+
+1The unsymmetrical forces most applied at one of the normal handgrip points on the periphery of the control wheel.
+
+ 40. By revising the lead-in of Sec. 25.603 to read as follows: 
+
+Sec. 25.603 Materials. 
+
+ The suitability and durability of materials used for parts, the failure of which could adversely affect safety, must-- 
+
+* * * * *
+
+ 41. By revising Sec. 25.675(a) to read as follows: 
+
+Sec. 25.675 Stops. 
+
+(a) Each control system must have stops that positively limit the range of motion of each movable aerodynamic surface controlled by the system. 
+
+* * * * * 
+
+Sec. 25.685 [Amended] 
+
+ 
+
+ 42. By amending Sec. 25.685(a) by striking the word "or" after "passengers", and by striking the period after the word "objects" and inserting a comma in its place, followed by the words "or the freezing of moisture." 
+
+ 43. By adding a new Sec. 25.733(c) to read as follows: 
+
+Sec. 25.733 Tires. 
+
+ 
+
+* * * * * 
+
+(c) Each tire installed on a retractable landing gear system must, at the maximum size of the tire type expected in service, have a clearance to surrounding structure and systems that is adequate to prevent contact between the tire and any part of the structure or systems. 
+
+ 44. By adding a new Sec. 25.775(e) to read as follows: 
+
+Sec. 25.775 Windshields and windows. 
+
+ 
+
+* * * * *
+
+(e) The windshield panels in front of the pilots must be arranged so that, assuming the loss of vision through any one panel, one or more panels remain available for use by a pilot seated at a pilot station to permit continued safe flight and landing. 
+
+ 45. By adding a new Sec. 25.787(c) to read as follows: 
+
+Sec. 25.787 Stowage compartments. 
+
+ 
+
+* * * * *
+
+(c) If cargo compartment lamps are installed, each lamp must be installed so as to prevent contact between lamp bulb and cargo. 
+
+Sec. 25.815 [Amended] 
+
+ 46. By amending the table in Sec. 25.815 by placing an asterisk after the number "12" on the first line of the table, and adding a footnote to the table to read, "*A narrower width not less than 9 inches may be approved when substantiated by tests found necessary by the Administrator."
+
+ 47. By amending Sec. 25.841 by inserting the words "cabin pressure altitude" in place of the words "absolute pressure", "cabin absolute pressure", or "absolute pressure in the cabin" wherever those words appear in paragraphs (b)(5) and (b)(6); by inserting the word "exceeds" in place of the words, "is below that equivalent to", in paragraphs (b)(6); and by revising the first sentence of paragraph (b)(1) and by adding a new paragraph (b)(8) to read as follows: 
+
+Sec. 25.841 Pressurized cabins. 
+
+* * * * *
+
+(b) * * *
+
+ (1) Two pressure relief valves to automatically limit the positive pressure differential to a predetermined value at the maximum rate of flow delivered by the pressure source.* * * 
+
+* * * * *
+
+(8) The pressure sensors necessary to meet the requirements of paragraphs (b)(5) and (b)(6) of this Sec. and Sec. 25.1447(c), must be located and the sensing system designed so that, in the event of loss of cabin pressure in any passenger or crew compartment (including upper and lower lobe galleys), the warning and automatic presentation devices, required by those provisions, will be actuated without any delay that would significantly increase the hazards resulting from decompression. 
+
+Sec. 25.933 [Amended] 
+
+ 48. By adding at the end of the first sentence of Sec. 25.933(b) the phrase, "including ground operation". 
+
+ 49. By adding a new Sec. 25.941 following Sec. 25.939 to read as follows: 
+
+Sec. 25.941 Inlet, engine, and exhaust compatibility.
+
+ For airplanes using variable inlet or exhaust system geometry, or both-- 
+
+(a) The system comprised of the inlet, engine (including thrust augmentation systems, if incorporated), and exhaust must be shown to function properly under all operating conditions for which approval is sought, including all engine rotating speeds and power settings, and engine inlet and exhaust configurations; 
+
+(b) The dynamic effects of the operation of these (including consideration of probable malfunctions) upon the aerodynamic control of the airplane may not result in any condition that would require exceptional skill, alertness, or strength on the part of the pilot to avoid exceeding an operation or structural limitation of the airplane; and 
+
+(c) In showing compliance with paragraph (b) of this Sec., the pilot strength required may not exceed the limits set forth in Sec. 25.143(c), subject to the conditions set forth in paragraph (d) and (e) of Sec. 25.143. 
+
+Sec. 25.951 [Amended] 
+
+ 50. By amending Sec. 25.951(a) by inserting the phrase "and auxiliary power unit" between the words "engine" and "functioning" and by adding the phrase "and during which the engine or auxiliary power unit is permitted to be in operation" at the end of the paragraph. 
+
+ 51. By adding new Secs. 25.979(d) and (e) to read as follows: 
+
+Sec. 25.979 Pressure fueling system. 
+
+* * * * *
+
+(d) The airplane pressure fueling system (not including fuel tanks and fuel tank vents) must withstand an ultimate load that is 2.0 times the load arising from the maximum pressures, including surge, that is likely to occur during fueling. The maximum surge pressure must be established with any combination of tank valves being either intentionally or inadvertently closed.
+
+(e) The airplane defueling system (not including fuel tanks and fuel tank vents) must withstand an ultimate load that is 2.0 times the load arising from the maximum permissible defueling pressure (positive or negative) at the airplane fueling connection. 
+
+ 52. By revising Sec. 25.999(b) to read as follows: 
+
+Sec. 25.999 Fuel system drains 
+
+* * * * *
+
+(b) Each drain required by paragraph (a) of this Sec. must-- 
+
+(1) Discharge clear of all parts of the airplane; 
+
+(2) Have manual or automatic means for positive locking in the closed position; and 
+
+(3) Have a drain valve-- 
+
+(i) That is readily accessible and which can be easily opened and closed; and 
+
+(ii) That is either located or protected to prevent fuel spillage in the event of a landing with landing gear retracted. 
+
+ 53. By adding a new sec. 25.1027(d) to read as follows: 
+
+Sec. 25.1027 Propeller feathering system. 
+
+* * * * *
+
+(d) Provision must be made to prevent sludge or other foreign matter from affecting the safe operation of the propeller feathering system. 
+
+ 54. By revising Sec. 25.1041 to read as follows: 
+
+Sec. 25.1041 General. 
+
+ The powerplant and auxiliary power unit cooling provisions must be able to maintain the temperatures of powerplant components, engine fluids, and auxiliary power unit components and fluids within the temperature limits established for these components and fluids, under ground, water, and flight operating conditions, and after normal engine or auxiliary power unit shutdown, or both. 
+
+ 55. By revising Sec. 25.1091(c)(2) to read as follows: 
+
+Sec. 25.1091 Air induction. 
+
+* * * * *
+
+(c) * * * 
+
+(2) For reciprocating engines, there are means to prevent the emergence of backfire flames. 
+
+* * * * *
+
+ 56. By adding a new Sec. 25.1093(c) to read as follows: 
+
+Sec. 25.1093 Induction system deicing and anti-icing provisions. 
+
+* * * * *
+
+(c) Supercharged reciprocating engines. For each engine having a supercharger to pressurize the air before it enters the carburetor, the heat rise in the air caused by that supercharging at any altitude may be utilized in determining compliance with paragraph (a) of this Sec. if the heat rise utilized is that which will be available, automatically, for the applicable altitude and operating condition because of supercharging. 
+
+ 57. By adding a new lead-in sentence in Sec. 25.1125 to read as follows: 
+
+Sec. 25.1125 Exhaust heat exchangers. 
+
+ For reciprocating engine powered airplanes, the following apply:
+
+* * * * *
+
+ 58. By revising the heading of Sec. 25.1143 and by revising Sec. 25.1143(e) to read as follows: 
+
+Sec. 25.1143 Engine controls. 
+
+* * * * *
+
+(e) If a power or thrust control incorporates a fuel shutoff feature, the control must have a means to prevent the inadvertent movement of the control into the shutoff position. The means must-- 
+
+(1) Have a positive lock or stop at the idle position; and 
+
+(2) Require a separate and distinct operation to place the control in the shutoff position. 
+
+ 59. By adding a new Sec. 25.1167 following Sec. 25.1165 to read as follows: 
+
+Sec. 25.1167 Accessory gearboxes.
+
+For airplanes equipped with an accessory gearbox that is not certificated as part of an engine-- 
+
+(a) The engine with gearbox and connecting transmissions and shafts attached must be subjected to the tests specified in Secs. 33.49 or 33.87 of this chapter, as applicable; 
+
+(b) The accessory gearbox must meet the requirements of Secs. 33.25 and 33.53 or 33.91 of this chapter, as applicable; and (c) Possible misalignments and torsional loadings of the gearbox, transmission, and shaft system, expected to result under normal operating conditions must be evaluated. 
+
+ 60. By revising Sec. 25.1197(a) to read as follows: 
+
+Sec. 25.1197 Fire extinguishing agents. 
+
+(a) Fire extinguishing agents must-- 
+
+(1) Be capable of extinguishing flames emanating from any burning of fluids or other combustible materials in the area protected by the fire extinguishing system; and 
+
+(2) Have thermal stability over the temperature range likely to be experienced in the compartment in which they are stored. 
+
+ 61. By revising Sec. 25.1303(a)(2) to read as follows: 
+
+Sec. 25.1303 Flight and navigation instruments.
+
+ (a) * * * 
+
+(2) A block displaying hours, minutes, and seconds with a sweep-second pointer or digital presentation. 
+
+ 62. By adding a new Sec. 25.1305(f) to read as follows: 
+
+Sec. 25.1305 Powerplant instruments. 
+
+* * * * *
+
+(f) For airplanes equipped with fluid systems (other than fuel) for thrust or power augmentation, an approved means must be provided to indicate the proper functioning of that system to the flight crew. 
+
+Sec. 25.1309 [Amended] 
+
+ 63. By inserting a comma between the words "Equipment" and "systems" and between the words "systems" and "and", in the heading of Sec. 25.1309.
+
+ 64. By adding a new Sec. 25.1322 to read as follows: 
+
+Sec. 25.1322 Warning, caution, and advisory lights. 
+
+If warning, caution, or advisory lights are installed in the cockpit, they must, unless otherwise approved by the Administrator, be-- 
+
+(a) Red, for warning lights (lights indicating a hazard which may require immediate corrective action); 
+
+(b) Amber, for caution lights (lights indicating the possible need for future corrective action); 
+
+(c) Green, for safe operation lights; and 
+
+(d) Any other color, including white, for lights not described in paragraphs (a) through (c) of this Sec., provided the color differs sufficiently from the colors prescribed in paragraphs (a) through (c) of this Sec. to avoid possible confusion. 
+
+ 65. By revising Sec. 25.1355(c) to read as follows: 
+
+Sec. 25.1355 Distribution system. 
+
+* * * * *
+
+(c) If two independent sources of electrical power for particular equipment or systems are required by this chapter, in the event of the failure of one power source for such equipment or system, another power source (including its separate feeder) must be automatically provided or be manually selectable to maintain equipment or system operation. 
+
+ 66. By deleting Sec. 25.1385(e); and by revising Sec. 25.1385(c) to read as follows: 
+
+Sec. 25.1385 Position light system installation. 
+
+* * * * * 
+
+(c) Rear position light. The rear position light must be a white light mounted as far aft as practicable on the tail or on each wing tip, and must be approved. 
+
+* * * * *
+
+ 67. By adding a new Sec. 25.1403 to read as follows: 
+
+Sec. 25.1403 Wing icing detection lights. 
+
+ Unless operations at night in known or forecast icing conditions are prohibited by an operating limitation, a means must be provided for illuminating or otherwise determining the formation of ice on the parts of the wings that are critical from the standpoint of ice accumulation. Any illumination that is used must be of a type that will not cause glare or reflection that would handicap crewmembers in the performance of their duties. 
+
+ 68. By adding a sentence to the end of Sec. 25.1439(a) to read as follows: 
+
+Sec. 25.1439 Protective breathing equipment. 
+
+(a) * * * In addition, protective breathing equipment must be installed in each isolated separate compartment in the airplane, including upper and lower lobe galleys, in which crewmember occupancy is permitted during flight for the maximum number of crewmembers expected to be in the area during any operation. 
+
+ 69. By revising Sec. 25.1515(a) to read as follows: 
+
+Sec. 25.1515 Landing gear speeds. 
+
+(a) The established landing gear operating speed or speeds, VLO, may not exceed the speed at which it is safe both to extend and to retract the landing gear, as determined under Sec. 25.729 or by flight characteristics. If the extension speed is not the same as the retraction speed, the two speeds must be designated as VLO(EXT) and VLO(RET), respectively.
+
+* * * * *
+
+ 70. By amending the heading of Sec. 25.1533, and revising the lead-in of paragraph (a) to read as follows: 
+
+Sec. 25.1533 Additional operating limitations. 
+
+(a) Additional operating limitations must be established as follows: 
+
+* * * * *
+
+ 71. By revising Sec. 25.1557(b) to read as follows: 
+
+Sec. 25.1557 Miscellaneous markings and placards. 
+
+* * * * *
+
+(b) Fuel and oil filler openings. The following apply:
+
+(1) Fuel filler openings must be marked at or near the filler cover with-- 
+
+(i) The word "fuel"; 
+
+(ii) For reciprocating engine powered airplanes, the minimum fuel grade; 
+
+(iii) For turbine engine powered airplanes, the permissible fuel designations; and 
+
+(iv) For pressure fueling systems, the maximum permissible fueling supply pressure and the maximum permissible defueling pressure. 
+
+(2) Oil filler openings must be marked at or near the filler cover with the word "oil". 
+
+* * * * *
+
+ 72. By revising the lead-in of Sec. 25.1583(a) and Secs. 25.1583(a)(5) and (h) to read as follows: 
+
+Sec. 25.1583 Operating limitations. 
+
+(a) Airspeed limitations. The following airspeed limitations and any other airspeed limitations necessary for safe operation must be furnished: 
+
+* * * * *
+
+(5) The landing gear operating speed or speeds, and a statement explaining the speeds as defined in Sec. 25.1515(a). 
+
+* * * * *
+
+(h) Additional operating limitations. The operating limitations established under Sec. 25.1533 must be furnished. 
+
+PART 27--AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT 
+
+ 73. By adding a new Sec. 27.25(c) to read as follows: 
+
+Sec. 27.25 Weight limits. 
+
+* * * * *
+
+(c) Total weight with jettisonable external load. A total weight for the rotorcraft with jettisonable external load attached that is greater than the maximum weight established under paragraph (a) of this section may be established if structural component approval for external load operations under Part 133 of this chapter is requested and the following conditions are met: 
+
+(1) The portion of the total weight that is greater than the maximum weight established under paragraph (a) of this section is made up only of the weight of all of part of the jettisonable external load. 
+
+(2) Structural components of the rotorcraft are shown to comply with the applicable structural requirements of this part under the increased loads and stresses caused by the weight increase over that established under paragraph (a) of this section. (3) Operation of the rotorcraft at a total weight greater than the maximum certificated weight established under paragraph (a) of this section is limited by appropriate operating limitations to rotorcraft external load operations under Part 133 of this chapter. 
+
+ 74. By revising the lead-in of Sec. 27.141(a) and Secs. 27.141(a)(3) and (a)(4) to read as follows: 
+
+Sec. 27.141 General. 
+
+* * * * *
+
+(a) Except as specifically required in the applicable section, meet the requirements of this section and of Secs. 27.143, 27.161, and 27.171 through 27.175-- 
+
+* * * * *
+
+(3) For power-on operations, under any condition of speed, power, and rotor r.p.m. for which certification is requested; and
+
+(4) For power-off operations, under any condition of speed and rotor r.p.m. for which certification is requested that is attainable with the controls rigged in accordance with the approved rigging instructions and tolerances; 
+
+* * * * *
+
+ 75. By revising Sec. 27.173(a) to read as follows: 
+
+Sec. 27.173 Static longitudinal stability. 
+
+(a) The longitudinal cyclic control must be designed so that, with the throttle and collective pitch held constant, during the maneuvers specified in Sec. 27.175 a rearward movement of the control is necessary to obtain a speed less than the trim speed, and a forward movement of the control is necessary to obtain a speed more than the trim speed-- 
+
+(1) For power-on operations, over the full range of altitude and rotor r.p.m. for which certification is requested; and 
+
+(2) For power-off operations, over the range of altitude and rotor r.p.m. for which certification is requested that is attainable with the controls rigged in accordance with the approved rigging instructions and tolerances. 
+
+* * * * *
+
+ 76. By revising Sec. 27.175(d)(2)(iv) to read as follows: 
+
+Sec. 27.175 Demonstration of static longitudinal stability. 
+
+* * * * *
+
+(d) * * * 
+
+(2) * * * 
+
+(iv) The landing gear extended; and 
+
+* * * * *
+
+ 77. By revising Sec. 27.321(a) to read as follows: 
+
+Sec. 27.321 General. 
+
+(a) The flight load factor must be assumed to act normal to the longitudinal axis of the rotorcraft, and to be equal in magnitude and opposite in direction to the rotorcraft inertia load factor at the center of gravity. 
+
+* * * * *
+
+Sec. 27.339 [Amended] 
+
+ 78. By inserting between the words "hub" and "and" in the first sentence of Sec. 27.339, the phrase "and at each auxiliary lifting surface,". 
+
+ 79. By revising Sec. 27.397, including its heading, to read as follows: 
+
+Sec. 27.397 Limit pilot forces and torques. 
+
+(a) Except as provided in paragraph (b) of this section, the limit pilot forces are as follows: 
+
+(1) For foot controls, 130 pounds. 
+
+(2) For stick controls, 100 pounds fore and aft, and 67 pounds laterally. 
+
+(b) For flap, tab, stabilizer, rotor brake, and landing gear operating controls, the following applies (R=radius in inches):
+
+(1) Crank, wheel, and lever-controls, pounds, but not less than 50 pounds nor more than 100 pounds for hand operated controls or 130 pounds for foot operated controls, applied at any angle within 20 degrees of the plane of motion of the control. 
+
+(2) Twist controls, 80R pounds. 
+
+ 80. By adding a new Sec. 27.563 to read as follows: 
+
+Sec. 27.563 Structural ditching provisions.
+
+ Structural strength considerations of ditching must be in accordance with Sec. 27.801(e). 
+
+ 81. By revising the lead-in of Sec. 27.603 to read as follows: 
+
+Sec. 27.603 Materials. 
+
+ The suitability and durability of materials used for parts, the failure of which could adversely affect safety, must-- 
+
+* * * * *
+
+Sec. 27.685 [Amended] 
+
+ 82. By amending Sec. 27.685(a) by striking the word "or" after "passengers", and by striking the period after the word "objects" and inserting a comma in its place, followed by the words "or the freezing of moisture." 
+
+ 83. By adding a new Sec. 27.733(c) to read as follows:
+
+Sec. 27.733 Tires. 
+
+* * * * *
+
+(c) Each tire installed on a retractable landing gear system must, at the maximum size of the tire type expected in service, have a clearance to surrounding structure and systems that is adequate to prevent contact between the tire and any part of the structure or systems. 
+
+ 84. By adding a new Sec. 27.787(d) to read as follows: 
+
+Sec. 27.787 Cargo compartments. 
+
+* * * * *
+
+(d) If cargo compartment lamps are installed, each lamp must be installed so as to prevent contact between lamp bulb and cargo. 
+
+ 85. By adding a new Sec. 27.801 to read as follows: 
+
+Sec. 27.801 Ditching.
+
+(a) If certification with ditching provisions is requested, the rotorcraft must meet the requirements of this section and Secs. 27.807(d), 27.1411 and 27.1415. 
+
+(b) Each practicable design measure, compatible with the general characteristics of the rotorcraft, must be taken to minimize the probability that in an emergency landing on water, the behavior of the rotorcraft would cause immediate injury to the occupants or would make it impossible for them to escape. 
+
+(c) The probable behavior of the rotorcraft in a water landing must be investigated by model tests or by comparison with rotorcraft of similar configuration for which the ditching characteristics are known. Scoops, flaps, projections, and any other factor likely to affect the hydrodynamic characteristics of the rotorcraft must be considered. 
+
+(d) It must be shown that, under reasonable probable water conditions, the flotation time and trim of the rotorcraft will allow the occupants to leave the rotorcraft and enter the life rafts required by Sec. 27.1415. If compliance with this provision is shown by buoyancy and trim computations, appropriate allowances must be made for probable structural damage and leakage. If the rotorcraft has fuel tanks (with fuel jettisoning provisions) that can reasonably be expected to withstand a ditching without leakage, the jettisonable volume of fuel may be considered as buoyancy volume. 
+
+(e) Unless the effects of the collapse of external doors and windows are accounted for in the investigation of the probable behavior of the rotorcraft in a water landing (as prescribed in paragraphs (c) and (d) of this section), the external doors and windows must be designed to withstand the probable maximum local pressures. 
+
+ 86. By adding a new Sec. 27.807(d) to read as follows: 
+
+Sec. 27.807 Emergency exits. 
+
+* * * * *
+
+(d) Ditching emergency exits for passengers. If certification with ditching provisions is requested, one emergency exit on each side of the fuselage must-- 
+
+(1) Be above the waterline; and 
+
+(2) Have at least the dimensions specified in paragraph (b) of this section. 
+
+ 87. By adding a new center heading and a new Sec. 27.865 following Sec. 27.861 to read as follows: 
+
+External Load Attaching Means 
+
+Sec. 27.865 External load attaching means. 
+
+(a) It must be shown by analysis or test, or both, that the rotorcraft external-load attaching means can withstand a limit static load equal to 2.5 times the maximum external load for which authorization is requested, applied in the vertical direction and in any direction making an angle of 30 degrees with the vertical, except for those directions having a forward component. However, the 30-degree angle may be reduced to a lesser angle if-- 
+
+(1) An operating limitation is established limiting external load operations to such angles for which compliance with this paragraph has been shown; or 
+
+(2) It is shown that the lesser angle can not be exceeded in service. 
+
+(b) The external load attaching means for Class B and Class C rotorcraft-load combinations must include a device to enable the pilot to release the external load quickly during flight. This quick-release device, and the means by which it is controlled, must comply with the following: 
+
+(1) A control for the quick-release device must be installed on one of the pilot's primary controls and must be designed and located so that it may be operated by the pilot without hazardously limiting his ability to control the rotorcraft during an emergency situation. 
+
+(2) In addition a manual mechanical control for the quick-release device, readily accessible either to the pilot or to another crewmember, must be provided. 
+
+(3) The quick-release device must function properly with all external loads up to and including the maximum external load for which authorization is requested. 
+
+(c) A placard or marking must be installed next to the external-load attaching means stating the maximum authorized external load as demonstrated under Sec. 27.25 and this section. 
+
+88. By adding a new Sec. 27.903(c) to read as follows:
+
+ Sec. 27.903 Engines. 
+
+* * * * *
+
+(c) Turbine engine installation. For turbine engine installations, the powerplant systems associated with engine control devices, systems, and instrumentation must be designed to give reasonable assurance that those engine operating limitations that adversely affect turbine rotor structural integrity will not be exceeded in service. 
+
+ 89. By adding a new Sec. 27.917(d) to read as follows: 
+
+Sec. 27.917 Design. 
+
+* * * * *
+
+(d) The rotor drive system includes any part necessary to transmit power from the engines to the rotor hubs. This includes gear boxes, shafting, universal joints, couplings, rotor brake assemblies, clutches, supporting bearings for shafting, any attendant accessory pads or drives, and any cooling fans that are a part of, attached to, or mounted on the rotor drive system. 
+
+ 90. By adding a new Sec. 27.939(c) to read as follows: 
+
+Sec. 27.939 Turbine engine operating characteristics. 
+
+* * * * *
+
+(c) For governor-controlled engines, it must be shown that there exists no hazardous torsional instability of the drive system associated with critical combinations of power, rotational speed, and control displacement. 
+
+ 91. By revising Sec. 27.977 to read as follows: 
+
+Sec. 27.977 Fuel tank outlet. 
+
+(a) There must be a fuel strainer for the fuel tank outlet or for the booster pump. This strainer must-- 
+
+(1) For reciprocating engine powered rotorcraft, have 8 to 16 meshes per inch; and 
+
+(2) For turbine engine powered rotorcraft, prevent the passage of any object that could restrict fuel flow or damage any fuel system component. 
+
+(b) The clear area of each fuel tank outlet strainer must be at least five times the area of the outlet line. 
+
+(c) The diameter of each strainer must be at least that of the fuel tank outlet. 
+
+(d) Each finger strainer must be accessible for inspection and cleaning. 
+
+ 92. By revising Sec. 27.909(b) to read as follows: 
+
+Sec. 27.999 Fuel system drains. 
+
+* * * * * 
+
+(b) Each drain required by paragraph (a) of this section must-- 
+
+(1) Discharge clear of all parts of the rotorcraft; 
+
+(2) Have manual or automatic means for positive locking in the closed position; and 
+
+(3) Have a drain valve-- 
+
+(i) That is readily accessible and which can be easily opened and closed; and 
+
+(ii) That is either located or protected to prevent fuel spillage in the event of a landing with landing gear retracted. 
+
+ 93. By revising Sec. 27.1043(c) to read as follows: 
+
+Sec. 27.1043 Cooling tests. 
+
+* * * * *
+
+(c) Correction factor (except cylinder barrels). Unless a more rational correction applies, temperatures of engine fluids and power-plant components (except cylinder barrels) for which temperature limits are established, must be corrected by adding to them the difference between the maximum ambient atmospheric temperature and the temperature of the ambient air at the time of the first occurrence of the maximum component or fluid temperature recorded during the cooling test. 
+
+* * * * *
+
+ 94. By adding a new Sec. 27.1093(c) to read as follows: 
+
+Sec. 27.1093 Induction system icing protection. 
+
+* * * * *
+
+(c) Supercharged reciprocating engines. For each engine having superchargers to pressurize the air before it enters the carburetor, the heat rise in the air caused by that supercharging at any altitude may be utilized in determining compliance with paragraph (a) of this section if the heat rise utilized is that which will be available, automatically, for the applicable altitude and operating condition because of supercharging. 
+
+ 95. By adding a new Sec. 27.1123 following Sec. 27.1121 and before the heading "Power Plant Controls and Accessories" to read as follows: 
+
+Sec. 27.1123 Exhaust piping. 
+
+(a) Exhaust piping must be heat and corrosion resistant, and must have provisions to prevent failure due to expansion by operating temperatures. 
+
+(b) Exhaust piping must be supported to withstand any vibration and inertia loads to which it would be subjected in operations. 
+
+(c) Exhaust piping connected to components between which relative motion could exist must have provisions for flexibility.
+
+ 96. By revising the heading of Sec. 27.1143 and by adding a new Sec. 27.1143(d) to read as follows:
+
+Sec. 27.1143 Engine controls.
+
+* * * * *
+
+(d) If a power or thrust control incorporates a fuel shutoff feature, the control must have a means to prevent the inadvertent movement of the control into the shutoff position. The means must--
+
+(1) Have a positive lock or stop at the idle position; and
+
+(2) Require a separate and distinct operation to place the control in the shutoff position.
+
+ 97. By revising Sec. 27.1185(a) and (b) to read as follows: 
+
+Sec. 27.1185 Flammable fluids. 
+
+(a) Each fuel tank must be isolated from the engines by a firewall or shroud. 
+
+(b) Each tank or reservoir, other than a fuel tank, that is part of a system containing flammable fluids or gases must be isolated from the engine by a firewall or shroud, unless the design of the system, the materials used in the tank and its supports, the shutoff means, and the connections, lines and controls provide a degree of safety equal to that which would exist if the tank or reservoir were isolated from the engines. 
+
+* * * * *
+
+ 98. By revising Sec. 27.1322 to read as follows: 
+
+Sec. 27.1322 Warning, caution, and advisory lights.
+
+If warning, caution or advisory lights are installed in the cockpit, they must, unless otherwise approved by the Administrator, be-- 
+
+(a) Red, for warning lights (lights indicating a hazard which may require immediate corrective action); 
+
+(b) Amber, for caution lights (lights indicating the possible need for future corrective action); 
+
+(c) Green, for safe operation lights; and 
+
+(d) Any other color, including white, for lights not described in paragraphs (a) through (c) of this section, provided the color differs sufficiently from the colors prescribed in paragraphs (a) through (c) of this section to avoid possible confusion. 
+
+ 99. By deleting the word "and" following the semicolon in Sec. 27.1351(c)(2); by adding a semicolon and the word "and" at the end of Sec. 27.1351(c)(3); and by adding a new Sec. 27.1351(c)(4) to read as follows: 
+
+Sec. 27.1351 General. 
+
+* * * * *
+
+(c) * * * 
+
+(4) Each generator must have an overvoltage control designed and installed to prevent damage to the electrical system, or to equipment supplied by the electrical system, that could result if that generator were to develop an overvoltage condition. 
+
+ 100. By redesignating current Sec. 27.1411 as Sec. 27.1411(a) and adding a new Sec. 27.1411(b) to read as follows: 
+
+Sec. 27.1411 General. 
+
+* * * * *
+
+(b) Stowage provisions for required safety equipment must be furnished and must-- 
+
+(1) Be arranged so that the equipment is directly accessible and its location is obvious; and 
+
+(2) Protect the safety equipment from damage caused by being subjected to the inertia loads specified in Sec. 27.561. 
+
+ 101. By adding a sentence to the end of Sec. 27.1415(b) to read as follows: 
+
+Sec. 27.1415 Ditching equipment. 
+
+* * * * *
+
+(b) * * * The storage provisions for life preservers must accommodate one life preserver for each occupant for which certification for ditching is requested. 
+
+* * * * *
+
+ 102. By revising Sec. 27.1549 to read as follows: 
+
+Sec. 27.1549 Powerplant instruments. 
+
+For each required powerplant instrument, as appropriate to the type of instruments-- 
+
+(a) Each maximum and, if applicable, minimum safe operating limit must be marked with a red radial or a red line; 
+
+(b) Each normal operating range must be marked with a green arc or green line, not extending beyond the maximum and minimum safe limits; 
+
+(c) Each takeoff and precautionary range must be marked with a yellow arc or a yellow line; and 
+
+(d) Each engine or propeller range that is restricted because of excessive vibration stresses must be marked with arcs or red lines. 
+
+ 103. By revising Sec. 27.1555(c) to read as follows: 
+
+Sec. 27.1555 Control markings. 
+
+* * * * *
+
+(c) Usable fuel capacity must be marked as follows: 
+
+(1) For fuel systems having no selector controls, the usable fuel capacity of the system must be indicated at the fuel quantity indicator. 
+
+(2) For fuel systems having selector controls, the unusable fuel capacity available at each selector control position must be indicated near the selector control. 
+
+* * * * *
+
+ 104. By revising Sec. 27.1557(c) to read as follows: 
+
+Sec. 27.1557 Miscellaneous markings and placards. 
+
+* * * * *
+
+(c) Fuel and oil filler openings. The following apply:
+
+(1) Fuel filler openings must be marked at or near the filler cover with-- 
+
+(i) The word "fuel"; 
+
+(ii) For reciprocating engine powered rotorcraft, the minimum fuel grade; 
+
+(iii) For turbine engine powered rotorcraft, the permissible fuel designations; and 
+
+(iv) For pressure fueling systems, the maximum permissible fueling supply pressure and the maximum permissible defueling pressure. 
+
+(2) Oil filler openings must be marked at or near the filler cover with the word "oil". 
+
+* * * * *
+
+PART 29--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT 
+
+ 105. By adding a new Sec. 29.25(c) to read as follows: 
+
+Sec. 29.25 Weight limits.
+
+* * * * *
+
+(c) Total weight with jettisonable external load. A total weight for the rotorcraft with jettisonable external load attached that is greater than the maximum weight established under paragraph (a) of this section may be established if structural component approval for external load operations under Part 133 of this chapter is requested and the following conditions are met: 
+
+(1) The portion of the total weight that is greater than the maximum weight established under paragraph (a) of this section is made up only of the weight of all of part of the jettisonable external load. 
+
+(2) Structural components of the rotorcraft are shown to comply with the applicable structural requirements of this part under the increased loads and stresses caused by the weight increase over that established under paragraph (a) of this section. (3) Operation of the rotorcraft at a total weight greater than the maximum certificated weight established under paragraph (a) of this section is limited by appropriate operating limitations to rotorcraft external load operations under Part 133 of this chapter. 
+
+ 106. By revising the lead-in of Sec. 29.63 to read as follows: 
+
+Sec. 29.63 Takeoff: category B. 
+
+ The horizontal distance required to take off and climb over a 50-foot obstacle must be established with the most unfavorable center of gravity. The takeoff may be begun in any manner if-- 
+
+* * * * *
+
+ 107. By revising Sec. 29.67(a)(1)(iv) and (a)(2)(iv) to read as follows: 
+
+Sec. 29.67 Climb: one engine inoperative. 
+
+(a) * * * 
+
+(1) * * * 
+
+(iv) The takeoff safety speed selected by the applicant; and 
+
+* * * * *
+
+(2) * * * 
+
+(iv) A speed selected by the applicant: and 
+
+* * * * *
+
+ 108. By revising Sec. 29.71 to read as follows: 
+
+Sec. 29.71 Helicopter angle of glide; category B. 
+
+For each category B helicopter, except multiengine helicopters meeting the requirements of Sec. 29.67(b) and the powerplant installation requirements of category A, the steady angle of glide must be determined in autorotation-- 
+
+(a) At the forward speed for minimum rate of descent as selected by the applicant: 
+
+(b) At the forward speed for best glide angle; 
+
+(c) At maximum weight; and 
+
+(d) At the rotor speed or speeds selected by the applicant. 
+
+Sec. 29.75 [Amended] 
+
+ 109. By amending Sec. 29.75(b)(2) by deleting the words "balked landing" and the commas preceding and following those words. 
+
+ 110. By revising the lead-in of Sec. 29.141(a) and Sec. 29.141(a)(3), and adding a new Sec. 29.141(a)(4) to read as follows: 
+
+Sec. 29.141 General. 
+
+* * * * *
+
+(a) Except as specifically required in the applicable section, meet the requirements of this section and of Secs. 29.143, 29.161, and 29.171 through 29.175-- 
+
+* * * * * 
+
+(3) For power-on operations, under any condition of speed, power, and rotor r.p.m. for which certification is requested; and
+
+(4) For power-off operations, under any condition of speed and rotor r.p.m. for which certification is requested that is attainable with the controls rigged in accordance with the approved rigging instructions and tolerances; 
+
+* * * * *
+
+ 111. By revising Sec. 29.173(a) to read as follows: 
+
+Sec. 29.173 Static longitudinal stability. 
+
+(a) The longitudinal cyclic control must be designed so that, with the throttle and collective pitch held constant, during the maneuvers specified in Sec. 27.175 a rearward movement of the control is necessary to obtain a speed less than the trim speed, and a forward movement of the control is necessary to obtain a speed more than the trim speed-- 
+
+(1) For power-on operations, over the full range of altitude and rotor r.p.m. for which certification is requested; and 
+
+(2) For power-off operations, over the range of altitude and rotor r.p.m. for which certification is requested that is attainable with the controls rigged in accordance with the approved rigging instructions and tolerances. 
+
+* * * * *
+
+ 112. By revising Sec. 29.175(d)(2)(iv) to read as follows: 
+
+Sec. 29.175 Demonstration of static longitudinal stability. 
+
+* * * * *
+
+(d) * * * 
+
+(2) * * * 
+
+(iv) The landing gear extended; and 
+
+* * * * * 
+
+ 113. By revising Sec. 29.397, including its heading, to read as follows: 
+
+Sec. 29.397 Limit pilot forces and torques. 
+
+(a) Except as provided in paragraph (b) of this section, the limit pilot forces are as follows: 
+
+(1) For foot controls, 130 pounds. 
+
+(2) For stick controls, 100 pounds fore and aft, and 67 pounds laterally. 
+
+(b) For flap, tab, stabilizer, rotor brake, and landing gear operating controls, the following apply (R=radius in inches): 
+
+(1) Crank, wheel, and lever controls, pounds, but not less than 50 pounds nor more than 100 pounds for hand operated controls or 130 pounds for foot operated controls, applied at any angle within 20 degrees of the plane of motion of the control. 
+
+(2) Twist controls, 80R pounds. 
+
+ 114. By adding a new Sec. 29.563 to read as follows: 
+
+Sec. 29.563 Structural ditching provisions. 
+
+ Structural strength consideration of ditching must be in accordance with Sec. 29.603(e). 
+
+ 115. By revising the lead-in of Sec. 29.603 to read as follows: 
+
+Sec. 29.685 [Amended] 
+
+ 116. By amending Sec. 29.685(a) by striking the word "or" after "passengers", and by striking the period after the word "objects" and inserting a comma in its place, followed by the words "or the freezing of moisture." 
+
+ 117. By adding a new Sec. 29.733(c) to read as follows: 
+
+Sec. 29.733 Tires. 
+
+* * * * *
+
+(c) Each tire installed on a retractable landing gear system must, at the maximum size of the tire type expected in service, have a clearance to surrounding structure and systems that is adequate to prevent contact between the tire and any part of the structure or systems. 
+
+ 118. By adding a new Sec. 29.787(d) to read as follows: 
+
+Sec. 29.787 Cargo compartments. 
+
+* * * * * 
+
+(d) If cargo compartment lamps are installed, each lamp must be installed so as to prevent contact between lamp bulb and cargo. 
+
+ 119. By adding a new Sec. 29.801 to read as follows: 
+
+Sec. 29.801 Ditching 
+
+(a) If certification with ditching provisions is requested, the rotorcraft must meet the requirements of this section and Secs. 29.807(d), 29.1411 and 29.1415. 
+
+(b) Each practicable design measure, compatible with the general characteristics of the rotorcraft, must be taken to minimize the probability that in an emergency landing on water, the behavior of the rotorcraft would cause immediate injury to the occupants or would make it impossible for them to escape. 
+
+(c) The probable behavior of the rotorcraft in a water landing must be investigated by model tests or by comparison with rotorcraft of similar configuration for which the ditching characteristics are known. Scoops, flaps, projections, and any other factors likely to affect the hydrodynamic characteristics of the rotorcraft must be considered. 
+
+(d) It must be shown that, under reasonably probable water conditions, the flotation time and trim of the rotorcraft will allow the occupants to leave the rotorcraft and enter the life rafts required by Sec. 29.1415. If compliance with this provision is shown by buoyancy and trim computations, appropriate allowances must be made for probable structural damage and leakage. If the rotorcraft has fuel tanks (with fuel jettisoning provisions) that can reasonably be expected to withstand a ditching without leakage, the jettisonable volume of fuel may be considered as buoyancy volume. 
+
+(e) Unless the effects of the collapse of external doors and windows are accounted for in the investigation of the probable behavior of the rotorcraft in a water landing (as prescribed in paragraphs (c) and (d) of this section), the external doors and windows must be designed to withstand the probable maximum local pressures. 
+
+ 120. By redesignating Sec. 29.807(d) and (e) as (e) and (f) respectively, and adding a new Sec. 29.807(d) to read as follows: 
+
+Sec. 29.807 Passenger emergency exits. 
+
+* * * * * 
+
+(d) Ditching emergency exits for passengers. If certification with ditching provisions is requested, ditching emergency exits must be provided in accordance with the following requirements, unless the emergency exits required by paragraph (b) of this section already meet them: 
+
+(1) For rotorcraft that have a passenger seating configuration, excluding pilots seats, of nine seats or less, one exit above the waterline in each side of the rotorcraft, meeting at least the dimensions of a Type IV exit. 
+
+(2) For rotorcraft that have a passenger seating configuration, excluding pilots seats, of 10 seats or more, one exit above the waterline in a side of the rotorcraft meeting at least the dimensions of a Type III exit, for each unit (or part of a unit) of 35 passenger seats, but no less than two such exits in the passenger cabin, with one on each side of the rotorcraft. However, where it has been shown through analysis, ditching demonstrations, or any other tests found necessary by the Administrator, that the evacuation capability of the rotorcraft during ditching is improved by the use of larger exits, or by other means, the passenger seat to exit ratio may be increased. 
+
+ 121. By adding a new Sec. 29.813(c) to read as follows: 
+
+Sec. 29.813 Emergency exit access. 
+
+* * * * *
+
+(c) There must be access from each aisle to each Type III and Type IV exit, and 
+
+(1) For rotorcraft that have a passenger seating configuration, excluding pilot seats, of 20 or more, the projected opening of the exit provided must not be obstructed by seats, berths, or other protrusions (including seatbacks in any position) for a distance from that exit of not less than the width of the narrowest passenger seat installed on the rotorcraft; 
+
+(2) For rotorcraft that have a passenger seating configuration, excluding pilot seats, of 19 or less, there may be minor obstructions in the region described in subparagraph (1) of this paragraph, if there are compensating factors to maintain the effectiveness of the exit. 
+
+Sec. 29.815 [Amended] 
+
+ 122. By amending the table in Sec. 29.815 by adding an asterisk after the number "12" in the first line of the table; by striking the number "18" (incorrectly specified as "81" in the Code of Federal Regulations) in the first line of the table and inserting the number "15" in its place; and by adding a footnote to the table to read, "A narrower width not less than 9 inches may be approved when substantiated by tests found necessary by the Administrator." 
+
+ 123. By adding a new center heading a new Sec. 29.865 following Sec. 29.863 to read as follows: 
+
+EXTERNAL LOAD ATTACHING MEANS 
+
+Sec. 29.865 External load attaching means. 
+
+(a) It must be shown by analysis or test, or both, that the rotorcraft external-load attaching means can withstand a limit static load equal to 2.5 times the maximum external load for which authorization is requested, applied in the vertical direction and in any direction making an angle of 30 degrees with the vertical, except for those directions having a forward component. However, the 30-degree angle may be reduced to a lesser angle if-- 
+
+(1) An operating limitation is established limiting external load operations to such angles for which compliance with this paragraph has been shown; or 
+
+(2) It is shown that the lesser angle can not be exceeded in service. 
+
+(b) The external load attaching means for Class B and Class C rotorcraft-load combinations must include a device to enable the pilot to release the external load quickly during flight. This quick-release device, and the means by which it is controlled, must comply with the following: 
+
+(1) A control for the quick-release device must be installed on one of the pilot's primary controls and must be designed and located so that it may be operated by the pilot without hazardously limiting his ability to control the rotorcraft during an emergency situation. 
+
+(2) In addition a manual mechanical control for the quick-release device, readily accessible either to the pilot or to another crew member, must be provided. 
+
+(3) The quick-release device must function properly with all external loads up to and including the maximum external load for which authorization is requested. 
+
+(c) A placard or marking must be installed next to the external-load attaching means stating the maximum authorized external load as demonstrated under Sec. 29.25 and this section. 
+
+124. By revising Sec. 29.903(c)(1) and (f) to read as follows: 
+
+Sec. 29.903 Engines. 
+
+* * * * *
+
+(c) * * * 
+
+(1) Each component of the engine stopping system that is located on the engine side of the firewall, and that might be exposed to fire, must be at least fire resistant; or 
+
+* * * * * 
+
+(f) Turbine engine installation. For turbine engine installations, the powerplant systems associated with engine control devices, systems, and instrumentation must be designed to give reasonable assurance that those engine operating limitations that adversely affect turbine rotor structural integrity will not be exceeded in service. 
+
+ 125. By revising the second sentence of Sec. 29.917(a) to read as follows:: 
+
+Sec. 29.917 Design. 
+
+(a) * * * This includes gear boxes, shafting, universal joints, couplings, rotor brake assemblies, clutches, supporting bearings for shafting, any attendant accessory pads or drives, and any cooling fans that are a part of, attached to, or mounted on the rotor drive system. 
+
+* * * * *
+
+ 126. By revising Sec. 29.931 to read as follows: 
+
+Sec. 29.931 Shafting critical speed. 
+
+(a) The critical speeds of any shafting must be determined by demonstration except that analytical methods may be used if reliable methods of analysis are available for the particular design. 
+
+(b) If any critical speed lies within, or close to, the operating ranges for idling, power-on, and autorotative conditions, the stresses occurring at that speed must be within safe limits. This must be shown by tests. 
+
+(c) If analytical methods are used and show that no critical speed lies within the permissible operating ranges, the margins between the calculated critical speeds and the limits of the allowable operating ranges must be adequate to allow for possible variations between the computed and actual values. 
+
+127. By adding a new Sec. 29.939(c) to read as follows: 
+
+Sec. 29.939 Turbine engine operating characteristics. 
+
+* * * * * 
+
+(c) For governor-controlled engines, it must be shown that there exists no hazardous torsional instability of the drive system associated with critical combinations of power, rotational speed, and control displacement. 
+
+Sec. 29.951 [Amended] 
+
+128. By amending Sec. 29.951(a) by inserting the phrase "and auxiliary power unit" between the words "engine" and "functioning" and by adding the phrase "and during which the engine or auxiliary power unit is permitted to be in operation" at the end of the paragraph. 
+
+129. By revising Sec. 29.971(d) to read as follows: 
+
+Sec. 29.971 Fuel tank sump. 
+
+* * * * *
+
+(d) Each fuel tank sump must have a drain that allows complete drainage of the sump on the ground. 
+
+ 130. By revising Sec. 29.977 to read as follows: 
+
+Sec. 29.977 Fuel tank outlet. 
+
+(a) There must be a fuel strainer for the fuel tank outlet or for the booster pump. This strainer must-- 
+
+(1) For reciprocating engine powered airplanes, have 8 to 16 meshes per inch; and 
+
+(2) For turbine engine powered airplanes, prevent the passage of any object that could restrict fuel flow or damage any fuel system component. 
+
+(b) The clear area of each fuel tank outlet strainer must be at least five times the area of the outlet line.
+
+(c) The diameter of each strainer must be at least that of the fuel tank outlet.
+
+(d) Each finger strainer must be accessible for inspection and cleaning.
+
+ 131. By adding new Secs. 29.979(c) and (d) to read as follows: 
+
+Sec. 29.979 Pressure refueling and fueling provisions below fuel level. 
+
+* * * * *
+
+(c) The rotorcraft pressure fueling system (not fuel tanks and fuel tank vents) must withstand an ultimate load that is 2.0 times the load arising from the maximum pressure, including surge, that is likely to occur during fueling. The maximum surge pressure must be established with any combination of tank valves being either intentionally or inadvertently closed. 
+
+(d) The rotorcraft defueling system (not including fuel tanks and fuel tank vents) must withstand an ultimate load that is 2.0 times the load arising from the maximum permissible defueling pressure (positive or negative) at the rotorcraft fueling connection. 
+
+ 132. By revising Sec. 29.999(b) to read as follows: 
+
+Sec. 29.999 Fuel system drains. 
+
+* * * * *
+
+(b) Each drain required by paragraph (a) of this section including the drains prescribed in Sec. 29.971 must-- 
+
+(1) Discharge clear of all parts of the rotorcraft; 
+
+(2) Have manual or automatic means for positive locking in the closed position; and 
+
+(3) Have a drain valve-- 
+
+(i) That is readily accessible and which can be easily opened and closed; and 
+
+(ii) That is either located or protected to prevent fuel spillage in the event of a landing with landing gear retracted. 
+
+ 133. By revising Sec. 29.1041(a) to read as follows: 
+
+Sec. 29.1041 General.
+
+(a) The powerplant and auxiliary power unit cooling provisions must be able to maintain the temperatures of power plant components, engine fluids, and auxiliary power unit components and fluids within the temperature limits established for these components and fluids, under ground, water, and flight operating conditions, and after normal engine or auxiliary power unit shutdown, or both. 
+
+* * * * * 
+
+ 134. By revising Sec. 29.1043(c) to read as follows: 
+
+Sec. 29.1043 Cooling tests. 
+
+* * * * *
+
+(c) Correction factor (except cylinder barrels). Unless a more rational correction applies, temperatures of engine fluids and power-plant components (except cylinder barrels) for which temperature limits are established, must be corrected by adding to them the difference between the maximum ambient atmospheric temperature and the temperature of the ambient air at the time of the first occurrence of the maximum component or fluid temperature recorded during the cooling test. 
+
+* * * * * 
+
+135. By adding a new Sec. 29.1093(c) to read as follows: 
+
+Sec. 29.1093 Induction system icing protection. 
+
+* * * * *
+
+(c) Supercharged reciprocating engines. For each engine having a supercharger to pressurize the air before it enters the carburetor, the heat rise in the air caused by that supercharging at any altitude may be utilized in determining compliance with paragraph (a) of this section if the heat rise utilized is that which will be available, automatically, for the applicable altitude and operating condition because of supercharging. 
+
+ 136. By adding a new lead-in sentence to Sec. 29.1125 to read as follows: 
+
+Sec. 29.1125 Exhaust heat exchangers.
+
+For reciprocating engine powered rotorcraft the following apply: 
+
+* * * * *
+
+ 137. By amending Sec. 29.1143(d) by striking the words "antidetonant injection" in the first and second sentences and inserting in place thereof, in the first sentence, the words "fluid injection (other than fuel)" and, in the second sentence, the words "injection system"; and by revising the heading of Sec. 29.1143 and by adding a new Sec. 29.1143(e) to read as follows: 
+
+Sec. 29.1143 Engine controls. 
+
+* * * * *
+
+(e) If a power or thrust control incorporates a fuel shutoff feature, the control must have a means to prevent the inadvertent movement of the control into the shutoff position. The means must-- 
+
+(1) Have a positive lock or stop at the idle position; and 
+
+(2) Require a separate and distinct operation to place the control in the shutoff position. 
+
+ 138. By revising Sec. 29.1165(f) to read as follows: 
+
+Sec. 29.1165 Engine ignition systems. 
+
+* * * * *
+
+(f) Each ignition system must be independent of any electrical circuit that is not used for assisting, controlling, or analyzing the operation of that system. 
+
+* * * * * 
+
+ 139. By revising Sec. 29.1189(a) to read as follows: 
+
+Sec. 29.1189 Shutoff means. 
+
+(a) There must be means to shut off or otherwise prevent hazardous quantities of fuel, oil, de-icing fluid, and other flammable fluids from flowing into, within, or through any designated fire zone, except that this means need not be provided-- 
+
+(1) For lines and fittings forming an integral part of an engine; 
+
+(2) For oil systems for turbine engine installations in which all external components of the oil system, including oil tanks, are fireproof; or 
+
+(3) For engine oil systems in category B rotorcraft using reciprocating engines of less than 500 cubic inches displacement. 
+
+* * * * *
+
+ 140. By revising Sec. 29.1197(a) to read as follows: 
+
+Sec. 29.1197 Fire extinguishing agents. 
+
+(a) Fire extinguishing agents must-- 
+
+(1) Be capable of extinguishing flames emanating from any burning of fluids or other combustible materials in the area protected by the fire extinguishing system; and 
+
+(2) Have thermal stability over the temperature range likely to be experienced in the compartment in which they are stored. 
+
+* * * * *
+
+ 141. By revising Sec. 29.1303(d) to read as follows: 
+
+Sec. 29.1303 Flight and navigation instruments. 
+
+* * * * *
+
+(d) A clock displaying hours, minutes, and seconds with a sweep-second pointer or digital presentation. 
+
+* * * * *
+
+ 
+
+ 142. By revising Sec. 29.1307 to read as follows: 
+
+Sec. 29.1307 Miscellaneous equipment. 
+
+The following is required miscellaneous equipment: 
+
+(a) An approved seat for each occupant. 
+
+(b) A master switch arrangement for electrical circuits other than ignition. 
+
+(c) Hand fire extinguishers. 
+
+(d) A windshield wiper or equivalent device for each pilot station. 
+
+(e) A two-way radio communication system. 
+
+ 143. By revising Sec. 29.1322 to read as follows: 
+
+Sec. 29.1322 Warning, caution, and advisory lights. 
+
+If warning, caution or advisory lights are installed in the cockpit they must, unless otherwise approved by the Administrator, be-- 
+
+(a) Red, for warning lights (lights indicating a hazard which may require immediate corrective action); 
+
+(b) Amber, for caution lights (lights indicating the possible need for future corrective action); 
+
+(c) Green, for safe operation lights; and 
+
+(d) Any other color, including white, for lights not described in paragraphs (a) through (c) of this section, provided the color differs sufficiently from the colors prescribed in paragraphs (a) through (c) of this section to avoid possible confusion. 
+
+ 144. By revising Sec. 29.1549 to read as follows: 
+
+Sec. 29.1549 Powerplant instruments. 
+
+For each required powerplant instrument, as appropriate to the type of instruments-- 
+
+(a) Each maximum and, if applicable, minimum safe operating limit must be marked with a red radial or a red line; 
+
+(b) Each normal operating range must be marked with a green arc or green line, not extending beyond the maximum and minimum safe limits; 
+
+(c) Each takeoff and precautionary range must be marked with a yellow arc or a yellow line; and 
+
+(d) Each engine or propeller range that is restricted because of excessive vibration stresses must be marked with arcs or red lines. 
+
+ 145. By revising Sec. 29.1555(c) to read as follows: 
+
+Sec. 29.1555 Control Markings. 
+
+* * * * *
+
+(c) Usable fuel capacity must be marked as follows: 
+
+(1) For fuel systems having no selector controls, the usable fuel capacity of the system must be indicated at the fuel quantity indicator. 
+
+(2) For fuel systems having selector controls, the unusable fuel capacity available at each selector control position must be indicated near the selector control. 
+
+* * * * *
+
+ 146. By revising Sec. 29.1557(c) to read as follows: 
+
+Sec. 29.1557 Miscellaneous marking and placards. 
+
+* * * * *
+
+(c) Fuel and oil filler openings. The following apply: 
+
+(1) Fuel filler openings must be marked at or near the filler cover with-- 
+
+(i) The word "fuel"; 
+
+(ii) For reciprocating engine powered airplanes, the minimum fuel grade; 
+
+(iii) For turbine engine powered airplanes, the permissible fuel designations; and 
+
+(iv) For pressure fueling systems, the maximum permissible fueling supply pressure and the maximum permissible defueling pressure. 
+
+(2) Oil filler openings must be marked at or near the filler cover with the word "oil". 
+
+* * * * *
+
+PART 31--AIRWORTHINESS STANDARDS: MANNED FREE BALLOONS 
+
+ 147. By revising Sec. 31.1(a), redesignating Sec. 31.1(b) as Sec. 31.1(c), and adding a new Sec. 31.1(b) to read as follows: 
+
+Sec. 31.1 Applicability.
+
+ (a) This part prescribes airworthiness standards for the issue of type certificates and changes to those certificates, for manned free balloons. 
+
+(b) Each person who applies under Part 21 for such a certificate or change must show compliance with the applicable requirements of this part.
+
+* * * * *
+
+Sec. 31.11 [Reserved] 
+
+ 148. By deleting Sec. 31.11 and marking it "[Reserved]". 
+
+ 149. By adding a new Sec. 31.14 to read as follows: 
+
+Sec. 31.14 Weight limits. 
+
+(a) The range of weights over which the balloon may be safely operated must be established. 
+
+(b) Maximum weight. The maximum weight is the highest weight at which compliance with each applicable requirement of this part is shown. The maximum weight must be established so that it is not more than-- 
+
+(i) The highest weight selected by the applicant; 
+
+(ii) The design maximum weight which is the highest weight at which compliance with each applicable structural loading condition of this part is shown; or 
+
+(iii) The highest weight at which compliance with each applicable flight requirement of this part is shown. 
+
+(c) The information established under paragraphs (a) and (b) of this section must be made available to the pilot in accordance with Sec. 31.81. 
+
+ 150. By adding a new Sec. 31.20 in Subpart B to read as follows: 
+
+Sec. 31.20 Controllability. 
+
+ The applicant must show that the balloon is safely controllable and maneuverable during takeoff, ascent, descent, and landing without requiring exceptional piloting skill. 
+
+ 151. By revising Sec. 31.45 to read as follows: 
+
+Sec. 31.45 Fuel cells. 
+
+ If fuel cells are used, the fuel cells, their attachments, and related supporting structure must be shown by tests to be capable of withstanding, without detrimental distortion or failure, any inertia loads to which the installation may be subjected, including the drop tests prescribed in Sec. 31.27(c). In the tests, the fuel cells must be loaded to the weight and pressure equivalent to the full fuel quantity condition. 
+
+ 152. By adding a new Sec. 31.46 to read as follows: 
+
+Sec. 31.46 Pressurized fuel systems.
+
+ For pressurized fuel systems, each element and its connecting fittings and lines must be tested to an ultimate pressure of at least twice the maximum pressure to which the system will be subjected in normal operation. No part of the system may fail or malfunction during the test. The test configuration must be representative of the normal fuel system installation and balloon configuration. 
+
+ 153. By redesignating the current Sec. 31.63 as Sec. 31.63(a) and by adding a new Sec. 31.63(b) to read as follows: 
+
+Sec. 31.63 Safety belts. 
+
+* * * * *
+
+(b) This section does not apply to balloons that incorporate a basket or gondola. 
+
+ 154. By deleting Sec. 31.85(a)(1) and marking it "[Reserved]" and by adding a new Sec. 31.85(c) to read as follows: 
+
+Sec. 31.85 Required basic equipment. 
+
+* * * * *
+
+(c) For captive gas balloons, a compass. 
+
+PART 33--AIRWORTHINESS STANDARDS: AIRCRAFT ENGINES 
+
+ 155. By revising Sec. 33.1 to read as follows: 
+
+Sec. 33.1 Applicability. 
+
+(a) This part prescribes airworthiness standards for the issue of type certificates and changes to those certificates, for aircraft engines. 
+
+(b) Each person who applies under Part 21 for such a certificate or change must show compliance with the applicable requirements of this part. 
+
+PART 35--AIRWORTHINESS STANDARDS: PROPELLERS 
+
+ 156. By revising Sec. 35.1 to read as follows: 
+
+Sec. 35.1 Applicability. 
+
+(a) This part prescribes airworthiness standards for the issue of type certificates and changes to those certificates, for propellers. 
+
+(b) Each person who applies under Part 21 for such a certificate or change must show compliance with the applicable requirements of this part. 
+
+ 157. By revising the first sentence of Sec. 35.39(c)(1) to read as follows: 
+
+Sec. 35.39 Endurance test. 
+
+* * * * *
+
+(c) * * * 
+
+(1) A 100-hour test on a representative engine with the same or higher power and rotational speed and the same or ore severe vibration characteristics as the engine with which the propeller is to be used.* * * 
+
+* * * * *
+
+ 158. By revising Sec. 35.41(e) to read as follows: 
+
+Sec. 35.41 Functional tests. 
+
+* * * * *
+
+(e) Reversible-pitch propeller. Two hundred complete cycles of control must be made from lowest normal pitch to maximum reverse pitch, and while in maximum reverse pitch, during each cycle, the propeller must be run for 30 seconds at the maximum power and rotational speed selected by the applicant for maximum reverse pitch. 
+
+ 159. By revising Sec. 35.45(a) to read as follows: 
+
+Sec. 35.45 Teardown inspection. 
+
+(a) After completion of the tests prescribed in this subpart, the propeller must be completely disassembled and a detailed inspection must be made of the propeller parts for cracks, wear, distortion, and any other unusual conditions. 
+
+* * * * *
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES 
+
+Sec. 91.14 [Amended] 
+
+ 160. By amending the parenthetical expressions contained in Secs. 91.14(a)(1) and (a)(2) to read "(except free balloons that incorporate baskets or gondolas and airships)." 
+
+Sec. 91.21 [Amended] 
+
+ 161. By inserting the parenthetical expression "(except a manned free balloon)" between the words "aircraft" and "that" in Sec. 91.21(a). 
+
+ 162. By revising Sec. 91.33(d)(6) to read as follows: 
+
+Sec. 91.33 Powered civil aircraft with standard category U.S./ airworthiness certificates; instrument and equipment requirements. 
+
+* * * * *
+
+(d) * * * 
+
+(6) A clock displaying hours, minutes, and seconds with a sweep-second pointer or digital presentation. 
+
+PART 121--CERTIFICATION AND OPERATIONS: DOMESTIC, FLAG, AND SUPPLEMENTAL AIR CARRIERS AND COMMERCIAL OPERATORS OF LARGE AIRCRAFT 
+
+ 163. By revising Sec. 121.171(b) to read as follows: 
+
+Sec. 121.171 Applicability. 
+
+* * * * *
+
+(b) For purposes of this part, "effective length of the runway" for landing means the distance from the point at which the obstruction clearance plane associated with the approach end of the runway intersects the centerline of the runway to the far end thereof. 
+
+* * * * *
+
+ 164. By striking the word "and" at the end of Sec. 121.199(b)(3); by inserting a semicolon and the word "and" at the end of Sec. 121.199(b)(4); and by adding a new Sec. 121.199(b)(5) to read as follows: 
+
+Sec. 121.199 Nontransport category airplanes; takeoff limitations. 
+
+* * * * *
+
+(b) * * *
+
+(5) The "effective length of the runway" for takeoff means the distance from the end of the runway at which the takeoff is started to a point at which the obstruction clearance plane associated with the other end of the runway intersects the runway centerline. 
+
+Sec. 121.331 [Amended] 
+
+ 165. By inserting between the first and second sentences of Sec. 121.331(b), a sentence that reads--"The required two hours supply is that quantity of oxygen necessary for a constant rate of descent from the airplane's maximum certificated operating altitude to 10,000 feet in ten minutes and followed by 110 minutes at 10,000 feet." 
+
+Sec. 121.333 [Amended] 
+
+ 166. By inserting between the first and second sentences of Sec. 121.333(b), a sentence that reads--"The required two hours supply is that quantity of oxygen necessary for a constant rate of descent from the airplane's maximum certificated operating altitude to 10,000 feet in ten minutes and followed by 110 minutes at 10,000 feet. 
+
+PART 127--CERTIFICATION AND OPERATIONS OF SCHEDULED AIR CARRIERS WITH HELICOPTERS 
+
+ 167. By amending the heading and lead-in of Sec. 127.105 to read as follows: 
+
+Sec. 127.105 Engine instruments and equipment--reciprocating engine powered helicopters. 
+
+ No person may operate a reciprocating engine powered helicopter unless it is equipped with the following engine instruments and equipment: 
+
+* * * * *
+
+ 168. By adding a new Sec. 127.106 to read as follows: 
+
+Sec. 127.106 Engine instruments and equipment--turbine engine powered helicopters. 
+
+No person may operate a turbine engine powered helicopter unless it is equipped with the following engine instruments and equipment:
+
+(a) A fuel pressure indicator and warning light for each engine. 
+
+(b) A means of indicating fuel quantity in each fuel tank to be used, and for helicopters with more than one fuel tank, a warning device indicating when the fuel in any independent fuel tank is low. 
+
+(c) An oil pressure indicator and warning light for each engine. 
+
+(d) An oil temperature indicator for each engine. 
+
+(e) An oil temperature indicator and warning light for each main rotor drive gearbox including those gearboxes essential to rotor phasing, having an oil system independent of the engine oil system. 
+
+(f) An oil temperature indicator and warning light for each transmission using a separate oil pump. 
+
+(g) A gas temperature indicator for each engine. 
+
+(h) An output torque indicator for each engine. 
+
+(i) A tachometer (to indicate the speed of the engine rotors with established limiting speeds) for each engine. 
+
+(j) A tachometer for the main rotor or for each main rotor the speed of which may vary appreciably with respect to another main rotor. 
+
+The tachometers required by paragraphs (i) and (j) of this section may be combined in a single instrument, but that instrument must indicate rotor RPM during autorotation.
+
+PART 133--ROTORCRAFT EXTERNAL-LOAD OPERATIONS 
+
+ 169. By revising Sec. 133.41(c)(6) to read as follows: 
+
+Sec. 133.41 Flight characteristics requirements. 
+
+* * * * *
+
+(c) * * * 
+
+(6) Maneuvering of the external load into release position and its release, under probable flight operation conditions, by means of each of the quick-release controls installed on the rotorcraft. 
+
+* * * * *
+
+ 170. By revising Sec. 133.43 to read as follows: 
+
+Sec. 133.43 Structures and design. 
+
+(a) External-load attaching means. Each external-load attaching means must have been approved under-- 
+
+(1) Part 8 of the Civil Air Regulations on or before January 17, 1964; 
+
+(2) Part 133, before February 1, 1977; or 
+
+(3) Part 27 or 29 of this chapter, as applicable, irrespective of the date of approval. 
+
+(b) Quick release devices. Each quick release device must have been approved under-- 
+
+(1) Part 27 or 29 of this chapter, as applicable; or 
+
+(2) Part 133, before February 1, 1977. 
+
+(c) Weight and center of gravity-- 
+
+(1) Weight. The total weight of the rotorcraft-load combination must not exceed the total weight approved for the rotorcraft during its type certification. 
+
+(2) Center of gravity. The location of the center of gravity must, for all loading conditions, be within the range established for the rotorcraft during its type certification. For Class C rotorcraft-load combinations, the magnitude and direction of the loading force must be established at those values for which the effective location of the center of gravity remains within its established range. 
+
+ 171. By revising Sec. 133.45(c) to read as follows: 
+
+Sec. 133.45 Operating limitations. 
+
+* * * * *
+
+(c) The rotorcraft-load combination may not be operated with an external load weight exceeding that used in showing compliance with Secs. 133.41 and 133.43. 
+
+* * * * *
+
+PART 135--AIR TAXI OPERATORS AND COMMERCIAL OPERATORS OF SMALL AIRCRAFT 
+
+ 172. By revising Sec. 135.71(a)(5) to read as follows: 
+
+Sec. 135.71 Operating information required. 
+
+(a) * * *
+
+(5) In the case of multiengine aircraft, one-engine-inoperative climb performance data, and if the aircraft is approved for use in IFR or over the top operations, that data must be sufficient to enable the pilot to determine compliance with Sec. 135.145(a)(2). 
+
+* * * * *
+
+ The Federal Aviation Administration has determined that this document does not contain a major proposal requiring preparation of an Inflation Impact Statement under Executive Order 11821 and OMB Circular A-107. 
+
+
+
+ 
+        
+FOOTER: Issued in Washington, DC on December 13, 1976.
+
+J. W. Cochran,
+
+Acting Administrator.
+
+[FR Doc 76-37215 Filed 12-17-76; 8:45 am]
+
+
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of Invitation to Submit Proposals; Notice No. 74-5; Issued on 2/14/74. 
+
+Notice of Compilation of Proposals; Notice No. 74-5A; Issued on 5/22/74.
+
+Notice of Availability of Agenda; Notice No. 74-5B; Issued on 10/3/74.
+
+Notice of Clarifying Revisions; Notice No. 74-33; Issued on 10/3/74. 
+
+Notice of Conference; Notice No. 74-5C; Issued on 11/25/74.
+
+Notice of Availability of Conference Summary; Notice No. 74-5D; Issued on 2/4/75.
+
+Notice of Airworthiness Review Program No. 2; Notice No. 75-10; Issued on 2/27/75.
+
+Notice of Airworthiness Review Program No. 3; Notice No. 75-19; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 4; Notice No. 75-20; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 5; Notice No. 75-23; Issued on 5/19/75.
+
+Notice of Airworthiness Review Program No. 6; Notice No. 75-25; Issued on 5/29/75.
+
+Notice of Airworthiness Review Program No. 7; Notice No. 75-26; Issued on 6/9/75.
+
+Notice of Airworthiness Review Program No. 8; Notice No. 75-31; Issued on 6/30/75.
+
+
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+-

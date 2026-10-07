@@ -1,0 +1,351 @@
+CFR NPRM: Part 23|Part 25|Part 27|Part 29
+
+ 
+ 
+        
+CITATION: [Federal Register: May 20, 1975 (Volume 40, Number 98)]
+
+ 
+        
+PAGE NUMBER: Page 22110
+
+ 
+        
+DOCKET NUMBER: 14607
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29
+
+ 
+        
+SUBJECT: Airworthiness Review Program, Proposed Type Certification Standards; Notice 
+Number 4; Equipment Deviation List
+
+ 
+        
+ACTION: Proposed Standards
+
+ 
+        
+SUMMARY: 
+
+ The Federal Aviation Administration is considering amending (1) Parts 1, 23, 25, 27, and 29 of the Federal Aviation Regulations to provide for the type certification of aircraft with "Equipment Deviation Lists" containing conditions and limitations for the operation of aircraft with missing and inoperable equipment and to provide standards for the development of such lists; (2) Part 43 with respect to the approval for return to service of aircraft having such a list; and (3) Part 91 with respect to the operation of such aircraft. It is also proposed that Sec. 135.143(b) be revised to more clearly indicate the circumstances under which equipment required by Part 135 must be in an operable condition.
+
+ 
+        
+DATES: Comments on this notice must be received on or before August 18, 1975.
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ Interested persons are invited to participate in this proposed rulemaking by submitting such written data, views, or arguments as they may desire. Comments relating to any significant environmental or economic impact that might result because of the adoption of the proposals contained herein may also be submitted. Communications should identify the regulatory docket or notice number and be submitted in duplicate to: Federal Aviation Administration, Office of the Chief Counsel, Attention: Rules Docket, AGC - 24, 8 Independence Avenue SW., Washington, D.C. 20591. All communications received on or before August 18, 1975, will be considered by the Administrator before taking action on the proposed rule. The proposals contained in this notice may be changed in the light of comments received. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons.
+
+ This notice is the fourth issued as a part of the First Biennial Airworthiness Review Program. The proposals contained herein are based on the FAA's evaluation of the discussions relating to the following proposals in the Procedures and Special Issues Committee (Committee I) at the Airworthiness Review Conference, held in Washington, D.C. from December 2 through 11, 1974:
+
+Proposal No.
+
+ FAR sections
+
+ Proponent
+
+ Agenda items
+
+ 
+
+713
+
+ 23.1583 FAA H-14.
+
+ 
+
+831
+
+ 25.1583 do Do.
+
+ 
+
+884
+
+ 27.1583 do Do.
+
+ 
+
+971
+
+ 29.1583 do Do.
+
+ 
+
+1004
+
+ 43.13 do Do.
+
+ 
+
+1009
+
+ 91.29 do Do.
+
+ 
+
+1010
+
+ 91.31 do Do.
+
+ 
+
+1011
+
+ 91.33 do Do.
+
+ 
+
+1016
+
+ 91.165 do Do.
+
+ 
+
+477
+
+ Part 91 GAMA1 H-15.
+
+ 
+
+490
+
+ 91.33 GMC2 Do.
+
+ 
+
+489
+
+ 91.33 North American3 Do.
+
+ 
+
+550
+
+ 135.143 ALPA4 Do.
+
+ 
+
+1 General Aviation Manufacturers Association.
+
+2 General Motors Corp.
+
+3 North American Rockwell Corp.
+
+4 Air Line Pilots Association.
+
+ Modern aircraft are being operated with increasing amounts of installed equipment. Much of that equipment is required for certain kinds of operation (such as VFR day or IFR) or for certain types of operating conditions (such as operations in icing conditions). Other equipment may be installed in the aircraft for the convenience of the operator. For whatever purpose installed, the aircraft must, with the installed equipment, continue to meet the regulatory standards under which it was type certificated, and the equipment, itself, must meet the applicable requirements in those standards.
+
+ In that connection, Sec. 21.181(a)(1) provides, in pertinent part, that a standard airworthiness certificate for an aircraft is effective as long as the maintenance, preventive maintenance, and alterations are performed in accordance with Parts 43 and 91, and Sec. 91.27(a) prohibits air craft operations unless the aircraft has a current airworthiness certificate. Section 91.165 provides that aircraft must be regularly inspected and that between those inspections defects must be repaired in accordance with Part 43. Under Sec. 43.13, the person maintaining an aircraft must ensure that the aircraft is at least equal to its original or properly altered condition after its having undergone maintenance.
+
+ Those provisions in conjunction with the aircraft type certificate act to prohibit the operation of an aircraft with certain equipment deviations (installed inoperable equipment or equipment required for an aircraft operating condition or kind of operation, under the aircraft's type certificate, that is not installed in the aircraft). Therefore, even though an item of equipment may have been installed purely for the convenience of the operator, aircraft operations with that item of installed equipment inoperable might be prohibited. In some circumstances that prohibition would be appropriate, such as where a pilot might rely on an inoperable item of equipment. However, in such circumstances the aircraft could be safely operated if the equipment were to be removed.
+
+ With respect to equipment required for a particular kind of operation or operating condition, the absence of operable items of such equipment in the aircraft should not result in a prohibition against aircraft operations in which the equipment is not needed provided that the pilot is aware of the status of the equipment and appropriate operating conditions and limitations are available to the pilot to indicate the procedures that must be followed for the safe operation of the aircraft.
+
+ In order to make it clear to the pilot that, in general, aircraft operation with equipment deviations is prohibited, it is proposed that an operating limitation containing such a prohibition be presented as provided under the applicable type certification requirements (Parts 23, 25, 27, and 29). However, to provide for those circumstances in which safe operations could be conducted with equipment deviations, the type certification requirements would be amended to provide for the development of an "Equipment Deviation List". That list would contain the information needed by a pilot to safely operate the aircraft with equipment deviations. The term "equipment deviations" would be defined in Part 1. Comments are specifically requested with respect to the appropriateness of the term "Equipment Deviation List" as well as any terms that might be more appropriate.
+
+ It should be noted that the type certification standards, if revised as proposed, could be utilized to obtain an "Equipment Deviation List" for aircraft already type certificated by amendment to their type certificates or by obtaining supplemental type certificates.
+
+ Consistent with the proposed revisions to Parts 1, 23, 25, 27, and 29, Part 43 would be revised to provide for the approval of aircraft with equipment deviations for return to service, and Sec. 91.165 would be revised to provide for aircraft operations, with equipment deviations as provided for in the "Equipment Deviation List." However, the amendments proposed herein would not relieve an operator from compliance with the equipment requirements of any applicable operating rule.
+
+ It is a also proposed that Sec. 135.143(b) be revised to make it clear that the additional equipment and instruments required by Part 135 for particular operating conditions or kinds of operation must be in an operable condition only for those operating conditions or kinds of operation for which those items of equipment and instruments are required. With respect to equipment required by Part 135 for all operating conditions and kinds of operation, the proposed revision of Sec. 135.143(b) would have no effect.
+
+ Finally, in order to avoid unnecessary repetition, a short-form proposal is used in this notice where substantively identical proposals are being made for each of the aircraft certification parts (Parts 23, 25, 27, and 29). In each such case the short-form proposal refers to a Part 23 proposal. The proposals for Part 23 are setforth herein in their entirety. If these proposals are adopted, however, the word "airplane" as used in the Part 23 proposals would be changed to "rotorcraft" for the Part 27 and 29 proposals. In addition, comments are specifically requested with respect to the appropriateness of the information contained in proposed Sec. 23.1591(d) for rotorcraft.
+
+(Secs. 313(a), 601, 603, 604, 605, Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, 1425); sec. 6(c), Department of Transportation Act (49 U.S.C. 1655 (c)).
+
+ 
+        
+REGULATORY TEXT: The Proposed Amendment
+
+ In consideration of the foregoing, it is proposed to amend Parts 1, 23, 25, 27, 29, 43, 91, and 135 of the Federal Aviation Regulations as follows:
+
+PART 1 - DEFINITIONS AND ABBREVIATIONS
+
+ 4-1. By inserting between the definitions of "Decision height" and "Equivalent airspeed" in Sec. 1.1 the following definition:
+
+Sec. 1.1 General definitions.
+
+* * * * *
+
+ "Equipment deviation", as used with respect to an "Equipment Deviation List", means an item of inoperable equipment that is installed in an aircraft or an item of equipment required for any aircraft operating condition or kind of operation, under the aircraft's type certificate, that is not installed in the aircraft.
+
+* * * * *
+
+PART 23 - AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+ 4-2. By adding a new Sec. 23.1583(m) to read as follows:
+
+Sec. 23.1583 Operating limitations.
+
+* * * * *
+
+ (m) Equipment.
+
+ (1) Except as provided in paragraph (m)(2) of this section, an operating limitation must be established that indicates that airplane operation with inoperable items of installed equipment or with items of equipment required under the airplane's type certificate not installed is prohibited.
+
+ (2) For airplanes having an "Equipment Deviation List", an operating limitation must be established that indicates that airplane operation with an equipment deviation is prohibited unless those operations are conducted in accordance with the operating conditions and limitations contained in the "Equipment Deviation List."
+
+ 4-3. By adding a new Sec. 23.1591 to read as follows:
+
+Sec. 23.1591 "Equipment Deviation List."
+
+ (a) An "Equipment Deviation List" may be provided if it -
+
+ (1) Contains the information specified in paragraph (b) of this section;
+
+ (2) Is approved under paragraph (c) of this section; and
+
+ (3) Is presented in accordance with paragraph (e) of this section.
+
+ (b) The list must contain -
+
+ (1) The equipment deviations and combinations of equipment deviations permitted during an airplane operation;
+
+ (2) The airplane operating conditions under which safe operation is possible with each listed equipment deviation;
+
+ (3) The additional operating limitations that are necessary for operating the airplane with each listed equipment deviation; and
+
+ (4) A statement that indicates that the operating rules of this chapter include provisions that require that specific equipment be installed and be in an operable condition and that irrespective of the "Equipment Deviation List", those provisions apply according to their terms.
+
+ (c) If the Administrator finds that the level of safety for an aircraft operating with each listed equipment deviation under the applicable operating conditions and limitations prescribed in accordance with paragraph (b) of this section, is equivalent to that established in the airworthiness standards applicable to the type certification of the aircraft, the list is approved.
+
+ (d) For purposes of this section the term "operating conditions" includes the following:
+
+ (1) Operations under VFR day, VFR night, and IFR conditions.
+
+ (2) Operations in icing conditions.
+
+ (3) Operations at altitudes at which oxygen and cabin pressurization are not necessary.
+
+ (4) Operations in a cargo-only configuration with respect to passenger compartment emergency evacuation equipment.
+
+ (5) Operations over land only with respect to ditching equipment.
+
+ (6) Operations in positive controlled airspace.
+
+ (e) An "Equipment Deviation List" may be included in a separate manual or be presented in a manner specified in Sec. 23.1581.
+
+PART 25 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+Secs. 25.1583, 25.1591 [Amended]
+
+ 4-4. By adding a new Sec. 25.1583(i) that would be substantively identical to the proposed new Sec. 23.1583(m).
+
+ 4-5. By adding a new Sec. 25.1591 that would be substantively identical to the proposed new Sec. 23.1591.
+
+PART 27 - AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+
+Sec. 27.1583, 27.1591 [Amended]
+
+ 4-6. By adding a new Sec. 27.1583(g) that would be substantively identical to the proposed new Sec. 23.1583(m).
+
+ 4-7. By adding a new Sec. 27.1591 that would be substantively identical to the proposed new Sec. 23.1591.
+
+PART 29 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+
+Secs. 29.1583, 29.1591 [Amended]
+
+ 4-8. By adding a new Sec. 29.1583(h) that would be substantively identical to the proposed new Sec. 23.1583(m).
+
+ 4-9. By adding a new Sec. 29.1591 that would be substantively identical to the proposed new Sec. 23.1591.
+
+PART 43 - MAINTENANCE, PREVENTIVE MAINTENANCE, REBUILDING, AND ALTERATION
+
+ 4-9. By adding a new Sec. 43.9(d) to read as follows:
+
+Sec. 43.9 Content, form and disposition of maintenance, rebuilding and alteration records (except 100-hour, annual, and progressive inspections).
+
+* * * * *
+
+ (d) Each person approving for return to service an aircraft with equipment deviations in accordance with this section must include in the required maintenance record entry a description of each such equipment deviation if the aircraft has an "Equipment Deviation List" which provides for the operation of the aircraft with such equipment deviations.
+
+ 4-11. By adding a new Sec. 43.11(c) to read as follows:
+
+Sec. 43.11 Content, form, and disposition of annual, 100-hour, and progressive inspection records.
+
+* * * * *
+
+ (c) Each person approving for return to service an aircraft with equipment deviations in accordance with this section must include in the required maintenance record entry a description of each such equipment deviation if the aircraft has an "Equipment Deviation List" which provides for the operation of the aircraft with such equipment deviations.
+
+PART 91 - GENERAL OPERATING AND FLIGHT RULES
+
+Sec. 91.31 [Amended]
+
+ 4-12. By inserting the phrase "Equipment Deviation List' in quotes between the words "Flight Manual" and "approved manual" in the lead-in of Sec. 91.31(b).
+
+ 4-13. By redesignating present Sec. 91.165 as Sec. 91.165(a), and by adding a new Sec. 91.165(b) to read as follows:
+
+Sec. 91.165 Maintenance required.
+
+* * * * *
+
+ (b) For an aircraft having an "Equipment Deviation List," the term "defect" as used in paragraph (a) of this section does not include an equipment deviation if -
+
+ (1) The "Equipment Deviation List" of the aircraft provides for the operation of the aircraft with that equipment deviation; and
+
+ (2) That equipment deviation is described in the aircraft's maintenance records.
+
+PART 135 - AIR TAXI OPERATORS AND COMMERCIAL OPERATORS OF SMALL AIRCRAFT
+
+ 4-14. By revising Sec. 135.143(b) to read as follows:
+
+Sec. 135.143 General requirements.
+
+* * * * *
+
+ (b) No person may operate an aircraft in operations to which this part applies, unless the instruments and equipment required by this part for the operation being conducted have been approved and are in an operable condition.
+
+* * * * *
+
+ 
+        
+FOOTER: Issued in Washington, D.C. on May 13, 1975.
+
+J. A. Ferrarese,
+
+Acting Director, Flight Standards Service.
+
+[FR Doc. 75-13075 Filed 5-18-75; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: 
+
+Notice of Invitation to Submit Proposals; Notice No. 74-5; Issued on 2/14/74.
+
+Notice of Compilation of Proposals; Notice No. 74-5A; Issued on 5/22/74.
+
+Notice of Availability of Agenda; Notice No. 74-5B; Issued on 10/3/74.
+
+Notice of Clarifying Revisions; Notice No. 74-33; Issued on 10/3/74. 
+
+Notice of Conference; Notice No. 74-5C; Issued on 11/25/74.
+
+Notice of Availability of Conference Summary; Notice No. 74-5D; Issued on 2/4/75.
+
+Notice of Airworthiness Review Program No. 2; Notice No. 75-10; Issued on 2/27/75.
+
+Notice of Airworthiness Review Program No. 3; Notice No. 75-19; Issued on 5/13/75.
+
+Notice of Airworthiness Review Program No. 5; Notice No. 75-23; Issued on 5/19/75.
+
+Notice of Airworthiness Review Program No. 6; Notice No. 75-25; Issued on 5/29/75.
+
+Notice of Airworthiness Review Program No. 7; Notice No. 75-26; Issued on 6/9/75.
+
+Notice of Airworthiness Review Program No. 8; Notice No. 75-31; Issued on 6/30/75.

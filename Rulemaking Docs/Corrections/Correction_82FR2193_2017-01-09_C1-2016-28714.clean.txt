@@ -1,0 +1,42 @@
+[Federal Register Volume 82, Number 5 (Monday, January 9, 2017)]
+[Rules and Regulations]
+[Page 2193]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: C1-2016-28714]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Parts 1, 23, 25, 27, 29, 61, 91, 121, 125, and 135
+
+[Docket No.: FAA-2013-0485; Amdt. Nos. 1-70, 23-63, 25-144, 27-48, 29-
+56, 61-139, 91-345, 121-376, 125-66, and 135-135]
+RIN 2120-AJ94
+
+Revisions to Operational Requirements for the Use of Enhanced
+Flight Vision Systems (EFVS) and to Pilot Compartment View Requirements
+for Vision Systems
+
+Correction
+
+    In rule document 2016-28714 appearing on pages 90126-90177 in the
+issue of Tuesday, December 13, 2016, make the following correction:
+
+0
+On page 90174, in the third column, in the 18th through 22nd line,
+paragraph (iii) should read
+
+Sec.  91.176(b)(3)(iii)  [Corrected]
+
+    ``(iii) At 100 feet above the touchdown zone elevation of the
+runway of intended landing and below that altitude, the flight
+visibility must be sufficient for one of the following visual
+references to be distinctly visible and identifiable to the pilot
+without reliance on the EFVS--''
+
+[FR Doc. C1-2016-28714 Filed 1-6-17; 8:45 am]
+ BILLING CODE 1301-00-D

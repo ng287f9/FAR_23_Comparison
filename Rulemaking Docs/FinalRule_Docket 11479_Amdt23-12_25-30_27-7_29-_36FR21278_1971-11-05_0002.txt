@@ -1,0 +1,150 @@
+FINAL RULES: 23-12|25-30|27-7|29-9
+
+ 
+ 
+        
+CITATION: [Federal Register: November 5, 1971 [Volume 36, Number 214]
+
+ 
+        
+PAGE NUMBER: [Page 21278]
+
+ 
+        
+DOCKET NUMBER: 11479
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 27|Part 29
+
+ 
+        
+SUBJECT HEADING: Position Light System Dihedral Angles
+
+ 
+        
+ACTION: Final Rule
+
+ 
+        
+SUMMARY: The purpose of these amendments to Secs. 23.1387, 25.1387, 27.1387, and 29.1387 of the Federal Aviation Regulations is to permit the installation of rear position lights with minor obstructions in the field of coverage.
+
+ 
+        
+DATES: EFFECTIVE DATE: This rule becomes effective November 5, 1971.
+
+ 
+        
+EFFECTIVE DATE: 1971-11-05
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: 
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+ 
+
+ Sections 23.1387, 25.1387, 27.1387, and 29.1387 presently require, in part, that the rear position light show unbroken light within a dihedral angle formed by two intersecting vertical planes making angles of 70° to the right and left, respectively, of a vertical plane passing through the longitudinal axis. Other related provisions of the regulations require that the rear position light be mounted as far aft as practicable.
+
+ In certain aircraft designs incorporating swept vertical tail surfaces, the obstructed visibility requirements may be met only by locating the rear position light on the trailing edge of the rudder. Because this location may cause a number of problems, including complex electrical installation and adverse rudder flutter characteristics, some manufacturers consider the aftmost tip of the fuselage to be a more suitable location. Thus, while the rudder position may be farther aft, the fuselage location is as far aft as is practicable. At the same time, however, the fuselage location does not comply with the obstructed visibility requirements where parts of the rudder and vertical stabilizer of a swept tail project into space required to be unobstructed.
+
+ For aircraft having this problem, the obstruction resulting from use of the aft fuselage location would, nevertheless, be relatively small because of the thinness of the vertical stabilizer and rudder. Moreover, the obstruction occurs at a high angle above the longitudinal axis of the aircraft so that except for the near-zenith position, the rear position light shows unbroken light.
+
+ Related requirements for position lights allow diminishing light intensity with increasing angle above or below the horizontal. Thus, for angles 40° and more above and below the horizontal plane, the position light intensity need be only 5 percent of the light intensity in the horizontal plane. This provision thus recognizes that the significance of a position light decreases as zenith is approached.
+
+ A provision similar to that being here established for the rear position light already exists with respect to the anticollision light. In this connection, minor visibility obstructions permitted in the rearward direction in the field of coverage of the anticollision light have been determined not to be detrimental to safety.
+
+ In light of the foregoing, obstructions within the dihedral angle in which the rear position light must show, which do not exceed 0.04 steradians in coverage and which occur within 30­ of a vertical line through the rear position light, would not adversely affect safety. In addition, these amendments permitting minor obstructions in the field of coverage of rear position lights are consistent with the provisions of Secs. 23.1385(c), 25.1385(c), 27.1385(c), and 29.1385(c) which recognize practicable considerations in the location of rear position lights.
+
+ For the foregoing reasons and since these amendments relieve a restriction and impose no additional burden on any person, I find that notice and public procedure thereon are unnecessary and that good cause exists for making them effective on less than 30 days notice.
+
+ 
+        
+REGULATORY TEXT: 
+
+Adoption of the Amendments. 
+
+ In consideration of the foregoing, Parts 23, 25, 27, and 29 of the Federal Aviation Regulations are amended as follows, effective November 5, 1971:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, AND ACROBATIC CATEGORY AIRPLANES
+
+1. Section 23.1387 is amended by amending paragraph (a) and adding a new paragraph (e) to read as follows:
+
+Sec. 23.1387 Position light system dihedral angles.
+
+(a) Except as provided in paragraph (e) of this section, each forward and rear position light must, as installed, show unbroken light within the dihedral angles described in this section.
+
+* * * * *
+
+(e) If the rear position light, when mounted as far aft as practicable in accordance with Sec. 23.1385(e), cannot show unbroken light within dihedral angle A (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
+
+PART 25--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+2. Section 25.1387 is amended by amending paragraph (a) and adding a new paragraph (e) to read as follows:
+
+Sec. 25.1387 Position light system dihedral angles.
+
+(a) Except as provided in paragraph (e) of this section, each forward and rear position light must, as installed, show unbroken light within the dihedral angles described in this section.
+
+* * * * *
+
+(e) If the rear position light, when mounted as far aft as practicable in accordance with Sec. 25.1385(c), cannot show unbroken light within dihedral angle A (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through t he rear position light.
+
+PART 27--AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+
+3. Section 27.1387 is amended by amending paragraph (a) and adding a new paragraph (e) to read as follows:
+
+Sec. 27.1387 Position light system dihedral angles.
+
+(a) Except as provided in paragraph (e) of this section, each forward and rear position light must, as installed, show unbroken light within the dihedral angles described in this section.
+
+* * * * *
+
+(e) If the rear position light, when mounted as far aft as practicable in accordance with Sec. 27.1385(c), cannot show unbroken light within dihedral angle A (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such, solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
+
+PART 29--AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+
+4. Section 29.1387 is amended by amending paragraph (a) and adding a new paragraph (e) to read as follows:
+
+Sec. 29.1387 Position light system dihedral angles.
+
+(a) Except as provided in paragraph c of this section, each forward and rear position light must, as installed, show unbroken light within the dihedral angles described in this section.
+
+* * * * *
+
+(e) If the rear position light, when mounted as far aft as practicable in accordance with Sec. 29.1385(c), cannot show unbroken light within dihedral angle A (as defined in paragraph (d) of this section), a solid angle or angles of obstructed visibility totaling not more than 0.04 steradians is allowable within that dihedral angle, if such solid angle is within a cone whose apex is at the rear position light and whose elements make an angle of 30° with a vertical line passing through the rear position light.
+
+(Secs. 318(a), 601, and 803, Federal Aviation Act of 1953, 49 U.S.C. 1854(a), 1421, and 1423, sec. d 6(c), Department of Transportation Act, 49 U.S.C. 1655(c) ).
+
+ 
+        
+FOOTER: Issued in Washington, D.C. on October 28, 1971.
+
+K. M. Smith,
+
+Acting Administer
+
+[FR Doc. 71-16166 Filed 11-4-71; 8:45 am]
+
+ 
+        
+NPRM ACTIONS: 
+
+-
+
+ 
+        
+FINAL RULE ACTIONS: 
+
+-

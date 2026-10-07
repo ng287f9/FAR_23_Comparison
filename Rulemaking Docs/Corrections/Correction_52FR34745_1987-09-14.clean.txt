@@ -1,0 +1,183 @@
+[[Federal Register Vol. 52, p.34745 — 1987-09-14]]
+(来源：govinfo FR-1987-09-14 整期影印 PDF 第 137 页，OCR 文字层 + 分栏重排)
+(整期共 160 页，本更正件还在次页时一并纳入)
+
+[[PDF page 137]]
+Federal Register / Vol. 52,
+DEPARTMENT OF TRANSPORTATION
+Federal Aviation Administration
+14 CFR Parts 21,23, 36,91, and 135
+[Docket No. 23516; Arndt. Nos. 21-59,23-
+24,36-13,91-197, and 135-21]
+Airworthiness Standards and
+Operating Rules; Commuter Category
+Airplanes
+a g e n c y: Federal Aviation
+Administration (FAA) DOT.
+a c t io n : Correction of final rule.
+s u m m a r y: This document contains
+corrections to final regulations that were
+published in the Federal Register on
+January 15,1987 (52 FR 1806) as
+Airworthiness Standards and Operating
+Rules; Commuter Category Airplane.
+These rules relate to the adoption of
+certification procedures, airworthiness
+and noise standards, and operating rules
+for an additional category of propeller-
+driven, multiengine airplane, designated
+as the Commuter Category.
+e f f e c t iv e d a t e : September 14,1987.
+FOR FURTHER INFORMATION CONTACT:
+Mary Medley, Standards Office, ACE-
+110, Aircraft Certification Division,
+Central Region, Federal Aviation
+Administration, 601 East 12th Street,
+Kansas City, Missouri 64106; Telephone
+(816) 374-5688.
+SUPPLEMENTARY INFORMATION: When
+Amendment Nos. 21-59, 23-34, 36-13,
+91-197, and 135-21 were published in
+the Federal Register, several errors and
+text omissions occurred. For
+completeness of text and accuracy of
+information, it is necessary to correct
+these errors.
+Need for Immediate Adoption
+Since these amendments only correct
+errors and impose no additional burden
+on any person, I find that notice and
+public procedure are unnecessary and
+contrary to the public interest and that
+good cause exists for making it effective
+in less than 30 days.
+Correction of Publication
+Accordingly, in addition to the
+corrections published in the Federal
+Register on March 9,1987 (52 FR 7262),
+the publication of Amendment Nos. 21-
+59, 23-34, 36-13, 91-197, and 135-21 in
+the Federal Register issue of January 15,
+1987 (52 FR 1806), is corrected as
+follows:
+No. 177 / Monday, September 14, 1987
+§ 23.3 [Corrected]
+1. On page 1825, third column,
+§ 23.3(a), in line four, the word
+“certificate” is corrected to read
+“certificated”; and in third column
+§ 23.3(e), line two, the word “part” is
+corrected to read “Part”.
+§ 23.53 [Corrected]
+2. On page 1826, second column,
+§ 23.53(b)(2)(ii), in the second line, the
+word "safer” is corrected to read “safe”;
+third column, § 23.53(c)(2), in the sixth
+line, the reference to “1.2VV4J” is
+corrected to read “1.2VSi”; and on page
+1826, third column, § 23.53(c)(6), in the
+tenth line, the reference to "Vy” is
+corrected to read "V«”.
+§ 23.65 [Corrected]
+3. On page 1827, third column,
+§ 23.65(d), in the fourth line, the word
+"temperatures” is corrected to read
+“temperature”.
+§ 23.67 [Corrected]
+4. On page 1827, third column,
+§ 23.67(e)(1), in the fourth line, the words
+“paragraphs (i) and (ii)” is corrected to
+read “(i) and (ii) of this paragraph”.
+5. On page 1828, first column,
+§ 23.67(e)(3), in the fourth line, the
+reference to “Vs4" is corrected to read
+“VSl”.
+6. On page 1828, second column, '
+paragraph no. 16, in the fourth line,
+remove the phrase “and by adding an
+“s” to the word "airplane” in paragraph
+(a)”; and in line seven, same paragraph,
+remove the phrase "by adding an “s” to
+the word “airplane” in the first part of
+the sentence in paragraph (b)”.
+§23.335 [Corrected]
+7. On page 1829, second column,
+§ 23.335(d)(1), in the sixth line, ‘V (n g)
+Vs, is corrected to read “i/fnJVs,”.
+§ 23.443 [Corrected]
+8. On page 1830, first column,
+§ 23.443(b), the fifth line, insert a comma
+between “Vc” and “Vo”; and in line
+nine, insert a period after the word
+“investigated”.
+9. On page 1830, first column, insert
+before amendatory statement number 26
+an amendatory statement that reads:
+§ 23.561 [Corrected]
+25-1. Section 23.561(b)(2) is amended
+by changing the title of the first column
+of the table, that now reads “Normal
+and utility categories” to read “Normal,
+utility, and commuter categories”.
+1987 / Rules and Regulations 34745
+§ 23.787 [Corrected]
+10. On page 1831, first column,
+§ 23.787(g)(2), in the fourth line, "(b)” is
+corrected to read “(b), (d), (e),”.
+§ 23.901 [Corrected]
+11. On page 1832, second column,
+§ 23.901(b)(3), in the first line, "In
+addition, for” is corrected to read “For”
+and in the third line, “the engine
+installation must not” is corrected to
+read “not”.
+§23.1199 [Corrected]
+12. On page 1833, second column,
+§ 23.1199(c), in the first line, “A means”
+is corrected to read “A means must be
+provided”.
+§23.1305 [Corrected]
+13. On page 1833, third column,
+§ 23.1305(k)(2), in the first line, insert
+“turbine engine o f’ after “Each” and
+before “turbine-powered”.
+§23.1323 [Corrected]
+14. On page 1834, first column,
+§ 23.1323(c), in the first line, “commuter”
+is corrected to read “commuter
+category”.
+§ 23.1351 [Corrected]
+15. On page 1834, first column,
+§ 23.1351, in the first line, remove the
+five asterisks; and in § 23.1351(a)(2), in
+the first line, the word “subparagraph”
+is corrected to read “paragraph”.
+16. On page 1834, second column,
+§ 23.1351(b)(5)(v), in the second line,
+“this paragraph” is corrected to read
+“paragraph (b)(5) of this section”.
+Appendix F— [Corrected]
+17. On page 1835, second column,
+Appendix F to Part 23, paragraph (d), in
+the 13th line, "1550 degrees F” is
+corrected to read "1550°F” to be
+consistent with paragraph (e), line
+twelve.
+Appendix G— [Corrected]
+18. On page 1835, third column, in
+Appendix G to Part 23, after the title and
+before “G23.3 Content” insert five
+asterisks to indicate retention of existing
+regulatory material.
+§ 135.169 [Corrected]
+19. On page 1836, column three,
+§ 135.169(b), in the fifth line, “or” is
+corrected to read “o f’.
+Issued in Washington, DC on September 4,
+1987.
+T. Allan McArtor,
+Administrator.
+[FR Doc. 87-20886 Filed 9-11-87; 8:45 am]
+BILLING CODE 4910-13-M
+
+[[PDF page 138]]

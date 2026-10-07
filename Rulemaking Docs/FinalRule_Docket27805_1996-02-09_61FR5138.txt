@@ -1,0 +1,2209 @@
+[[Page 1]]
+5138 Federal Register / Vol.
+incorporates a fuel shutoff feature, the
+control must have a means to prevent
+the inadvertent movement of the control
+into the off position. The means must—
+* * * * *
+30. Section 23.1153 is revised to read
+as follows:
+§ 23.1153 Propeller feathering controls.
+If there are propeller feathering
+controls installed, it must be possible to
+feather each propeller separately. Each
+control must have a means to prevent
+inadvertent operation.
+31. Section 23.1181 is amended by
+adding a new paragraph (b)(3) to read as
+follows:
+§ 23.1181 Designated fire zones; regions
+included.
+* * * * *
+(b) * * *
+(3) Any complete powerplant
+compartment in which there is no
+isolation between compressor,
+accessory, combustor, turbine, and
+tailpipe sections.
+* * * * *
+§ 23.1183 [Amended]
+32. Section 23.1183(a) is amended by
+removing the word ‘‘approved’’ in the
+next to the last sentence, and adding the
+phrase ‘‘shown to be suitable for the
+particular application’’ in its place.
+33. Section 23.1191(b) is revised to
+read as follows:
+§ 23.1191 Firewalls.
+* * * * *
+(b) Each firewall or shroud must be
+constructed so that no hazardous
+quantity of liquid, gas, or flame can pass
+from the compartment created by the
+firewall or shroud to other parts of the
+airplane.
+* * * * *
+34. Section 23.1203(e) is revised to
+read as follows:
+§ 23.1203 Fire detector system.
+* * * * *
+(e) Wiring and other components of
+each fire detector system in a designated
+fire zone must be at least fire resistant.
+* * * * *
+§ 23.1305 [Amended]
+35. Section 23.1305(b)(3)(ii) is
+removed and reserved.
+§ 23.1337 [Amended]
+36. Section 23.1337(b)(1) is amended
+by removing the reference ‘‘§ 23.959’’
+and adding the reference ‘‘§ 23.959(a)’’
+in its place.
+61, No. 28 / Friday, February 9, 1996
+Issued in Washington, DC, on January 29,
+1996.
+David R. Hinson,
+Administrator.
+[FR Doc. 96–2084 Filed 2–8–96; 8:45 am]
+BILLING CODE 4910–13–M
+Federal Aviation Administration
+14 CFR Part 23
+[Docket No. 27805; Amendment No. 23–48]
+RIN 2120–AE62
+Airworthiness Standards; Airframe
+Rules Based on European Joint
+Aviation Requirements
+AGENCY: Federal Aviation
+Administration, DOT.
+ACTION: Final rule.
+SUMMARY: This final rule amends the
+airframe airworthiness standards for
+normal, utility, acrobatic, and commuter
+category airplanes. This amendment
+completes a portion of the Federal
+Aviation Administration (FAA) and the
+European Joint Aviation Authorities
+(JAA) effort to harmonize the Federal
+Aviation Regulations and the Joint
+Aviation Requirements (JAR) for
+airplanes certificated in these categories.
+This amendment will provide nearly
+uniform airframe airworthiness
+standards for airplanes certificated in
+the United States under 14 CFR part 23
+and in the JAA countries under Joint
+Aviation Requirements 23, simplifying
+international airworthiness approval.
+EFFECTIVE DATE: March 11, 1996.
+FOR FURTHER INFORMATION CONTACT:
+Kenneth W. Payauys, ACE–111, Small
+Airplane Directorate, Aircraft
+Certification Service, Federal Aviation
+Administration, 601 East 12th Street,
+Kansas City, Missouri 64106; telephone
+(816) 426–5688.
+SUPPLEMENTARY INFORMATION:
+Background
+This amendment is based on Notice of
+Proposed Rulemaking (NPRM) No. 94–
+20 (59 FR 35196, July 8, 1994). All
+comments received in response to
+Notice 94–20 have been considered in
+adopting this amendment.
+This amendment completes part of an
+effort to harmonize the requirements of
+part 23 and JAR 23. The revisions to
+part 23 in this amendment largely
+pertain to airframe airworthiness
+standards. Three other final rules are
+being issued in this Federal Register
+that pertain to airworthiness standards
+for systems and equipment, flight, and
+powerplant. These related rulemakings
+are also part of the harmonization effort.
+/ Rules and Regulations
+Interested persons should review all
+four final rules to ensure that all
+revisions to part 23 are recognized.
+The harmonization effort was
+initiated at a meeting in June 1990 of the
+JAA Council (consisting of JAA
+members from European countries) and
+the FAA, during which the FAA
+Administrator committed the FAA to
+support the harmonization of the U.S.
+regulations with the JAR that were being
+developed. In response to the
+commitment, the FAA Small Airplane
+Directorate established an FAA
+Harmonization Task Force to work with
+the JAR 23 Study Group to harmonize
+part 23 with the proposed JAR 23. The
+General Aviation Manufacturers
+Association (GAMA) also established a
+JAR 23/part 23 committee to provide
+technical assistance.
+The FAA, JAA, GAMA, and the
+Association Europeenne des
+Constructeurs de Material Aerospatial
+(AECMA), an organization of European
+airframe manufacturers, met on several
+occasions in a continuing
+harmonization effort.
+Near the end of the effort to
+harmonize the normal, utility, and
+acrobatic category airplane
+airworthiness standards, the JAA
+requested and received
+recommendations from its member
+countries on proposed airworthiness
+standards for commuter category
+airplanes. Subsequent JAA and FAA
+meetings on this issue resulted in
+proposals that were reflected in Notice
+94–20 to revise portions of the part 23
+commuter category airworthiness
+standards. Accordingly, this final rule
+adopts the airframe airworthiness
+standards for all part 23 airplanes.
+In January 1991, the FAA established
+the Aviation Rulemaking Advisory
+Committee (ARAC) (56 FR 2190, January
+22, 1991). At an FAA/JAA
+Harmonization Conference in Canada in
+June 1992, the FAA announced that it
+would consolidate the harmonization
+effort within the ARAC structure. The
+FAA assigned to ARAC the rulemakings
+related to JAR 23/part 23 harmonization,
+which ARAC assigned to the JAR/FAR
+23 Harmonization Working Group. The
+proposal for airframe airworthiness
+standards contained in Notice No. 94–
+20 were a result of both the working
+group’s efforts and the efforts at
+harmonization that occurred before the
+formation of the working group.
+The JAA submitted comments to the
+FAA on January 20, 1994, in response
+to the four draft proposals for
+harmonization of the part 23
+airworthiness standards. The JAA
+submitted comments again during the
+comment period of the NPRM. At the
+
+[[Page 2]]
+Federal Register / Vol.
+April 26, 1995, ARAC JAR/FAR 23
+Harmonization Working Group meeting,
+the JAA noted that many of the
+comments in the January 20 letter had
+been satisfied or were no longer
+relevant. The few remaining items
+concern issues that are considered
+beyond the scope of this rulemaking
+and, therefore, will be dealt with at
+future FAA/JAA Harmonization
+meetings.
+Discussion of Comments
+General
+Interested persons were invited to
+participate in the development of these
+final rules by submitting written data,
+views, or arguments to the regulatory
+docket on or before October 28, 1994.
+Five commenters responded to Notice
+94–20. Minor technical and editorial
+changes have been made to the
+proposed rules based on relevant
+comments received, consultation with
+the ARAC, and further review by the
+FAA
+Discussion of Amendments
+Section 23.301 Loads
+The FAA proposed to amend
+§ 23.301(d) by limiting the applicability
+of Appendix A to part 23 to ‘‘single-
+engine, excluding turbines’’ airplanes,
+rather than the current single-engine
+limitation. The effect of the proposed
+changes would be to eliminate
+alternative Appendix A airplane design
+requirements for turbine engines
+because the JAA determined, and the
+FAA agrees, that only single-engine
+airplanes, excluding turbines, were
+envisioned when Appendix A was
+introduced. Turbine airplane designs
+could continue to be FAA certificated
+by substantiation to part 23.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.335 Design Airspeeds
+The FAA proposed to revise portions
+of § 23.335 for clarification and
+harmonization with JAR 23. The FAA
+proposed to revise paragraph (a)(1) by
+adding the phrase ‘‘wing loading at the
+design maximum takeoff weight’’ as a
+definition for W/S and by revising
+paragraphs (a)(1)(i) and (ii) to correct the
+equations for design cruise speed from
+‘‘33 W/S’’ to √‘‘33 (W/S)’’ and from ‘‘36
+√W/S’’ to ‘‘36 √(W/S).’’
+The FAA proposed to revise
+§ 23.335(b)(4) by adding a new
+paragraph (b)(4)(iii) that includes a new
+mach number speed margin, 0.07M, for
+commuter category airplanes. Because
+commuter category airplanes are
+normally operated at higher altitudes
+61, No. 28 / Friday, February 9, 1996
+than normal, utility, and acrobatic
+category airplanes, they experience
+greater atmospheric variations, such as
+horizontal gusts and the penetration of
+jet streams or cold fronts; therefore, a
+higher minimum speed margin is
+required. The JAR proposed adding this
+mach number speed margin. The
+original mach number speed margin of
+0.05M would be retained for normal,
+utility, and acrobatic category airplanes.
+An incorrect equation, √ng Vs1,
+appears in § 23.335(d)(1). This equation
+for the design speed for maximum gust
+intensity, VB, is corrected to Vs1 √(ng).
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.337 Limit Maneuvering
+Load Factors
+The FAA proposed to revise
+§ 23.337(a)(1) by clarifying the equation
+and by adding a definition for ‘‘W.’’
+This definition of ‘‘W,’’ ‘‘design
+maximum takeoff weight,’’ was
+requested by the JAA to harmonize with
+JAR 23.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.341 Gust Load Factors
+The FAA proposed to reorganize
+§ 23.341 to provide a new paragraph (a),
+that would clarify that each airplane
+must be designed to withstand loads of
+each lifting surface that result from
+gusts specified in § 23.333(c). It also
+proposed to reorganize the section as
+follows: (1) Redesignate existing
+paragraphs (a) and (b) as (b) and (c),
+respectively; (2) revise the text of new
+paragraph (b) to delete the phrase
+‘‘considering the criteria of § 23.333(c),
+to develop the gust loading on each
+lifting surface’’ since this requirement
+would be located in proposed paragraph
+(a); and, (3) revise new paragraph (c) to
+delete the phrase ‘‘for conventional
+configurations’’ because it is no longer
+accurate, and to revise the definition for
+wing loading (W/S).
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.343 Design Fuel Loads
+The FAA proposed a new § 23.343.
+The proposed requirement would apply
+to all part 23 airplane categories, except
+paragraph (c), which is limited to
+commuter category airplanes.
+Comment: The JAA states that while
+the JAR 23 Study Group supports the
+technical intent of paragraph (c), since
+the JAA has no JAR 91 operating rule
+corresponding to part 91. The JAA must
+wait for an operating rule to be
+/ Rules and Regulations 5139
+developed. The JAA has proposed a
+Notice of Proposed Action (NPA) to
+adopt paragraph (c) in JAR 23 if and
+when an operating rule for a 45-minute
+fuel reserve is created.
+FAA Response: The FAA decided to
+continue with the final rule, as
+proposed.
+This proposal is adopted as proposed.
+Section 23.345 High Lift Devices
+To place all ‘‘flap’’ requirements in
+one location, and to harmonize the
+requirements with JAR 23, the FAA
+proposed to revise § 23.345 as follows:
+(1) Make minor organizational, and non-
+substantive, clarifying changes; (2)
+Change the term ‘‘fully deflected’’ to
+‘‘fully extended’’ because it more
+accurately describes flap conditions and
+positions; (3) Remove the phrase
+‘‘resulting in limit load factors’’ because
+the requirement already exists in
+§ 23.301(a); (4) Redesignate current
+paragraph (c) as paragraph (d) and
+revise it to include the flap
+requirements of § 23.457; (5)
+Redesignate current paragraph (d) as
+paragraph (c); and (6) Incorporate the
+flap requirements of § 23.457 into
+§ 23.345(b) and § 23.345(d), as
+redesignated, and delete paragraph (e),
+which is redundant.
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.347 Unsymmetrical Flight
+Conditions
+The FAA proposed to revise § 23.347
+to redesignate the existing text as
+paragraph (a) and to add a new
+paragraph (b) to include requirements
+for a flick maneuver (snap roll), if
+requested for acrobatic category
+airplanes.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.349 Rolling Conditions
+The FAA proposed to revised
+§ 23.349(a)(2) to simplify the
+unsymmetric semispan load assumption
+for normal, utility, and commuter
+category airplanes to 100 percent on one
+wing semispan and 75 percent on the
+other wing semispan for all design
+weights up through 19,000 pounds. The
+preamble to the NPRM did not include
+the explanation that the proposed 100
+percent and 75 percent load distribution
+applied only to normal, utility, and
+commuter category airplanes. The
+NPRM did not include acrobatic
+category airplanes in this proposed
+requirement. However, the proposed
+regulatory language for § 23.349(c)(2)
+correctly reflects the FAA’s intent.
+
+[[Page 3]]
+5140 Federal Register / Vol. 61,
+While preparing the NPRM, the FAA
+had suggested varying the latter
+percentage linearly between 70 percent
+and 77.5 percent to include aircraft
+weighing up to 19,000 pounds. After
+discussion with the JAA, the FAA
+agreed that 75 percent is an appropriate
+assumption for all part 23 airplanes
+except acrobatic category airplanes.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.369 Rear Lift Truss
+The FAA proposed to amend § 23.369
+by amending the equation and by
+adding a definition for wing loading (W/
+S) to clarify the rule.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.371 Gyroscopic and
+Aerodynamic Loads
+The FAA proposed to revise and
+reorganize § 23.371 by designating the
+existing text as paragraph (a) and adding
+new paragraphs (b) and (c).
+The proposed revisions to the text of
+proposed paragraph (a) would delete the
+limitation for turbine powered engines;
+add inertial loads; and replace the word
+‘‘engines’’ with ‘‘engine(s) and
+propeller(s), if applicable.’’ The
+proposed changes clarify that these
+requirements apply to all part 23
+airplanes.
+The FAA proposed a new paragraph
+(b) to clarify and distinguish the
+requirements for airplanes approved for
+aerobatic maneuvers.
+The FAA proposed new paragraph (c)
+to clarify that commuter category
+airplanes must comply with the gust
+conditions in § 23.341 in addition to the
+requirement of § 23.371(a).
+Comment: The JAA recommended
+that the words ‘‘In addition,’’ which
+appear at the beginning of JAR 23.371(b)
+but not in § 23.371(b), could result in
+misreading the requirements for
+airplanes approved for aerobatic
+maneuvers. The JAA’s concern is that a
+reader might think that the requirements
+of paragraph (b) for airplanes approved
+for aerobatic maneuvers are in place of,
+rather than in addition to, the
+requirements of paragraph (a).
+FAA Response: The FAA is aware that
+the words ‘‘in addition’’ appear in the
+JAR and understands that the JAA
+believes the words are necessary to
+prevent an interpretation that airplanes
+approved for aerobatic maneuvers need
+only comply with the requirements of
+paragraph (b).
+Under standard rules of regulatory
+interpretation, it is not necessary to add
+the words ‘‘in addition’’ since the
+No. 28 / Friday, February 9, 1996
+applicability of paragraph (a) should be
+based on its wording and not on the
+wording of paragraph (b). However, the
+FAA concludes that JAA’s concern can
+be addressed by rewording paragraph
+(b) and new paragraph (c) to make it
+clear that persons subject to those
+paragraphs must meet both paragraphs
+(a) and certain additional requirements.
+As rewritten, paragraph (b) states ‘‘For
+airplanes approved for aerobatic
+maneuvers, each engine mount and its
+supporting structure must meet the
+requirements of paragraph (a) of this
+section and be designed to withstand
+the load factors expected during
+combined maximum yaw and pitch
+velocities.’’ Paragraph (c) uses parallel
+language. Paragraph (c) would apply to
+aircraft certificated in the commuter
+category, whereas, as proposed,
+paragraph (b) would apply to aircraft
+‘‘approved for aerobatic maneuvers,’’
+since this approval can be given for
+aircraft not certificated in the acrobatic
+category.
+This proposal is adopted with the
+above changes.
+Section 23.391 Control Surface Loads
+The FAA proposed to revise § 23.391
+by deleting paragraph (b). Paragraph (b)
+references Appendix B, which was
+removed by Amendment No. 23–42 (56
+FR 344, January 3, 1991).
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.393 Loads Parallel to Hinge
+Line
+The FAA proposed a new § 23.393.
+Proposed new § 23.393 would contain a
+modified version of the requirement of
+§ 23.657(c) concerning loads parallel to
+the hinge line, which were proposed to
+be deleted from § 23.657.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.399 Dual Control System
+The FAA proposed to redesignate the
+text of § 23.399 as paragraph (a), and to
+add a new paragraph (b) that addresses
+the forces exerted on a dual control
+system when both pilots act together.
+This would clarify that it is the greater
+of the forces that apply.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.415 Ground Gust
+Conditions
+The FAA proposed to amend § 23.415
+by revising paragraph (a)(2) to add a
+definition for wing loading (W/S). The
+FAA also proposed to revise paragraph
+/ Rules and Regulations
+(c), which was added in Amendment
+No. 23–45 (58 FR 42136, August 6,
+1993), to incorporate a more
+comprehensive tie-down criteria.
+No comments were received on the
+proposals for this section, and it is
+adopted as proposed.
+Section 23.441 Maneuvering Loads
+The FAA proposed to revise
+§ 23.441(b) to include a new design
+requirement for the vertical tail of a
+commuter category airplane.
+Comment: The JAA comments that
+while the intent of the proposed
+requirement is the same as the
+comparable requirement in JAR 23, the
+wording is different. The JAA reported
+that the FAA proposed final rule version
+will be considered for full
+harmonization by the JAA through NPA
+action once the final rule is published.
+FAA Response: The proposal is
+adopted as proposed.
+Section 23.443 Gust Loads
+The FAA proposed to revise
+§ 23.443(c) by changing the format of the
+formula, revising the definition of
+weight (‘‘W’’), and correcting the
+subscripts of the distance to the lift
+center, (‘‘lvt’’). The current definition
+reads ‘‘W=airplane weight (lbs.).’’ The
+new definition reads ‘‘W=the applicable
+weight of the airplane in the particular
+load case (lbs.).’’ These changes are for
+clarity.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Sections 23.455 Ailerons
+The FAA proposed to amend the
+heading the precedes § 23.455 by
+deleting the term ‘‘Wing Flaps’’ so that
+the heading reads ‘‘AILERONS AND
+SPECIAL DEVICES.’’ This change would
+reflect the deletion of the wing flap
+requirements from § 23.457 and their
+placement in § 23.345.
+No comments were received on this
+proposal, and it is adopted as proposed.
+Section 23.457 Wing Flaps
+The FAA proposed to delete this
+section. As discussed under § 23.345,
+above, the wing flap requirements have
+been revised and consolidated in
+§ 23.345 to group these requirements
+together.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.473 Ground Load
+Conditions and Assumptions
+The FAA proposed to revise
+§ 23.473(c)(1) to change the incorrect
+reference to ‘‘§ 23.67 (a) or (b)(1)’’ to
+‘‘§ 23.67 (b)(1) or (c).’’
+
+[[Page 4]]
+Federal Register / Vol. 61,
+Because the FAA intended that
+turbine powered airplanes be included
+in § 23.473(c)(1), since these airplanes
+are required to be ‘‘climb positive’’ with
+one engine inoperative, the FAA
+proposed that § 23.473(c)(1) also
+reference § 23.67(c). The FAA also
+determined that to achieve the intent
+described, § 23.473(c)(1) should also
+reference § 23.67 (b)(1) or (c).
+The FAA also proposed to revise
+paragraph (f), which addresses energy
+absorption tests, to parallel the language
+of JAR 23.473(f). No substantive change
+from current paragraph (f) was
+proposed.
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.497 Supplementary
+Conditions for Tail Wheels
+The FAA proposed a new § 23.497(c)
+to relocate tail wheel, bumper, or energy
+absorption device design standards for
+airplanes with aft-mounted propellers.
+These requirements currently exist in
+§ 23.925(b). They are being moved
+because the FAA determined that
+certain portions of the design standards
+for these devices more properly belong
+in Subpart C—Structure.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.499 Supplementary
+Conditions for Nose Wheels
+The FAA proposed to add new
+paragraphs (d) and (e) to § 23.499 to
+establish nose wheel conditions for
+airplanes with a steerable nose wheel
+controlled by hydraulic or other power
+and for airplanes with a steerable wheel
+that has a direct mechanical connection
+to the rudder pedals.
+Comment: The JAA comments that
+the phrase ‘‘has a mechanical
+connection to the rudder pedals’’ in
+proposed paragraph (e), absent
+appropriate advisory material, could be
+interpreted to require different technical
+solutions than the comparable wording
+in JAR 23, ‘‘directly connected
+mechanically to the rudder pedals.’’
+FAA Response: The FAA agrees that
+the proposed language in paragraph (e)
+requires clarification; in the final rule,
+the word ‘‘direct’’ is inserted before the
+word ‘‘mechanical’’. Also, the last
+phrase of paragraph (e) is revised to read
+‘‘the mechanism must be designed to
+withstand the steering torque for the
+maximum pilot forces specified in
+§ 23.397(b).’’
+This proposal is adopted with the
+above changes to paragraph (e).
+61, No. 28 / Friday, February 9, 1996
+Section 23.521 Water Load Conditions
+The FAA proposed to amend § 23.521
+by deleting paragraph (c), which deals
+with previously approved floats,
+because the FAA agreed with the JAA
+that the requirements of paragraph (c)
+are covered by the general requirements
+of paragraph (a).
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.561 General
+The FAA proposed to amend § 23.561
+by revising paragraphs (b) and (d), and
+adding a new paragraph (e). These
+changes simplify, clarify, and ‘‘add
+references * * * to ensure.’’ The FAA
+proposed to revise paragraph (b),
+concerning occupant protection, to
+make it correspond to 14 CFR part 25
+and JAR 25 that cover large airplanes.
+The proposed revision of paragraph (d),
+concerning turnovers would simplify
+and clarify the requirements without
+making substantive changes. The FAA
+proposed a new paragraph (e) to ensure
+that items of mass that could injure an
+occupant are retained by the supporting
+structure.
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.571 Metallic Pressurized
+Cabin Structures
+The FAA proposed to revise § 23.571
+by changing the heading from
+‘‘Pressurized cabin’’ to ‘‘Metallic
+pressurized cabin structures’’ because
+nonmetallic structure is addressed in
+§ 23.573(a). The FAA proposed to revise
+the introductory text to limit the
+applicability to normal, utility, and
+acrobatic categories because commuter
+category airplanes are addressed
+separately. The FAA proposed to revise
+paragraph (a) to require the fatigue
+strength investigation to show that the
+structure can withstand repeated loads
+of variable magnitude expected in
+service.
+Comment: The JAA comments that
+the JAR will be revised to delete
+commuter category airplanes from this
+section. Kal-Aero comments that a
+literal interpretation of the proposed
+changes to §§ 23.571 and 23.572 ‘‘would
+require that every subsequent
+modification to an aircraft have a fatigue
+program to substantiate each major
+repair or alteration.’’ Kal-Aero states
+that this change is both uneconomical
+(Kal-Aero estimates a part 23 fatigue test
+could cost at least $20 million per
+certification) and is unnecessary.
+FAA Response: The FAA does not
+agree that the proposed rule language
+/ Rules and Regulations 5141
+would require the result suggested by
+Kal-Aero. The intent is to provide that
+there be some test evidence to verify the
+analysis validity. The amount of test
+evidence needed would depend on the
+complexity of the design. The FAA
+points out that this evidence would be
+required only when fatigue analysis is
+used to satisfy the type certification
+requirements.
+The proposals for this section are
+adopted as proposed.
+Section 23.572 Metallic Wing,
+Empennage, and Associated Structures
+The FAA proposed to revise the
+section heading to add the word
+‘‘metallic,’’ to revise paragraph (a) to
+limit the applicability to normal, utility,
+and acrobatic category airplanes, and to
+make minor editorial changes.
+Paragraph (a)(1) would be revised to
+harmonize with JAR 23 by requiring
+tests, or analysis supported by test
+evidence, as discussed under § 23.571 of
+this preamble.
+The only comment received on this
+section is from Kal-Aero, and applies to
+this section and to § 23.571. The
+comment was discussed under § 23.571.
+The proposals are adopted as
+proposed.
+Section 23.573 Damage Tolerance and
+Fatigue Evaluation of Structure
+The FAA proposed to amend
+§ 23.573(a)(5) to make clear that the
+limit load capacity of a bonded joint
+must be substantiated only if the failure
+of the bonded joint would result in
+catastrophic loss of the airplane.
+The FAA proposed to delete
+§ 23.573(c) because its requirements for
+inspections and other procedures were
+proposed to be moved to § 23.575.
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.574 Metallic Damage
+Tolerance and Fatigue Evaluation of
+Commuter Category Airplanes
+The FAA proposed to add a new
+§ 23.574 that addresses damage
+tolerance and fatigue evaluation
+requirements for commuter category
+airplanes. As discussed previously,
+§§ 23.571 and 23.572 are being revised
+to clarify that these sections apply only
+to normal, utility, and acrobatic category
+airplanes. Newly type certificated
+commuter category airplanes would
+have to meet proposed § 23.574 instead
+of §§ 23.571 and 23.572.
+The only comment received on this
+proposed new section is a JAA
+statement that this change will be
+considered for JAR 23. The proposal is
+adopted as proposed.
+
+[[Page 5]]
+5142 Federal Register / Vol. 61,
+Section 23.575 Inspections and Other
+Procedures
+The FAA proposed to add a new
+§ 23.575 to clarify that airplane
+manufacturers are required to provide
+recommendations for inspections
+frequencies, locations, and methods
+when a design is approved by the FAA,
+and that these items must be included
+in the Limitations Section of the
+Instructions for Continued
+Airworthiness required by § 23.1529.
+The requirements of § 23.573(c)
+would be moved to § 23.575 and the
+requirements are made applicable to
+§§ 23.571, 23.572, 23.573 and 23.574.
+The only comment on this proposed
+new section is a JAA statement that this
+change will be considered for JAR 23.
+The proposals are adopted as proposed.
+Section 23.607 Fasteners
+The FAA proposed to amend § 23.607
+by changing the section heading, by
+redesignating the existing text as
+paragraph (c), and by adding new
+paragraphs (a) and (b), as outlined in the
+NPRM.
+Comment: Transport Canada
+comments that it is possible the
+language of proposed paragraph (a)
+could be interpreted to mean that
+compliance is satisfied by the use of a
+self-locking nut alone in certain
+situations, such as when a bolt is not
+subject to rotation. Transport Canada
+suggests adopting the wording of
+§ 27.607, which requires ‘‘two separate
+locking devices’’ when the loss of a
+removable bolt, screw, nut, pin or other
+fastener would jeopardize the safe
+operation of the aircraft.
+FAA Response: The FAA agrees that
+the proposed language of paragraph (a)
+could be misinterpreted and that the
+intent of the section would be clearer if
+language comparable to § 27.607 is used.
+Also, the FAA finds that the section is
+clearer if it addresses all removable
+fasteners without specific mention of
+bolts, screws, nuts, pins, etc.
+Accordingly, paragraph (a) has been
+revised to read ‘‘Each removable
+fastener must incorporate two retaining
+devices if the loss of such fastener
+would preclude continued safe flight
+and landing’’ in the final rule.
+This proposal is adopted with the
+noted change to paragraph (a).
+Section 23.611 Accessibility Provisions
+The FAA proposed to amend § 23.611
+to require that, for any part requiring
+maintenance, such as an inspection or
+other servicing, there must be a means
+of access incorporated into the aircraft
+design to allow this servicing to be
+accomplished. The FAA pointed out in
+61, No. 28 / Friday, February 9, 1996
+the NPRM that whether the access
+provided is appropriate in a particular
+case will depend on the nature of the
+item and the frequency and complexity
+of the required inspection or
+maintenance actions.
+The only comment received on this
+proposed change is a JAA statement that
+this change will be considered for the
+JAR. The proposal is adopted as
+proposed.
+Section 23.629 Flutter
+The FAA proposed to revise § 23.629
+to require either flight flutter tests and
+rational analysis, or flight flutter tests
+and compliance with the FAA’s
+‘‘Simplified Flutter Prevention Criteria.’’
+Section 23.629 currently requires flutter
+substantiation by only one of three
+methods: A rational analysis, flight
+flutter test, or compliance with the
+‘‘Simplified Flutter Prevention Criteria.’’
+The FAA also proposed to revise
+paragraph (d)(3)(i) to change the phrase
+‘‘T-tail or boom tail’’ to ‘‘T-tail or other
+unconventional tail configurations’’ to
+be more inclusive and to represent the
+standard used in current certification.
+The FAA also proposed to harmonize
+with JAR 23 by amending paragraphs
+23.629 (g) and (h) to remove the ‘‘or
+test’’ phrase to require that
+substantiation be done only by analysis.
+The FAA proposed a new paragraph (i)
+that would allow freedom from flutter to
+be shown by tests (under paragraph (a))
+or by analysis alone if that analysis is
+based on previously approved data for
+an airplane that has undergone
+modification that could affect its flutter
+characteristics.
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.657 Hinges
+The FAA proposed to amend § 23.657
+by deleting paragraph (c) that covers
+loads parallel to the hinge line because
+it would be covered in proposed
+§ 23.393.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.673 Primary Flight Controls
+The FAA proposed to revise § 23.673
+to delete the requirements for two-
+control airplanes consistent with actions
+being taken in the proposed rule on
+flight requirements for part 23 airplanes
+(Docket No. 27807, Notice No. 94–22;
+(59 FR 37878, July 25, 1994)) that affect
+§§ 23.177 and 23.201. The two-control
+requirements are considered obsolete.
+Additionally, harmonization with JAR
+23 would be accomplished by this
+action.
+/ Rules and Regulations
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.725 Limit Drop Tests
+The FAA proposed to amend the
+effective weight equation in § 23.725(b)
+by adding mathematical brackets to the
+numerator and parentheses to the
+denominator to clarify the equation.
+No comments were received on the
+proposal for this section, and it is
+adopted as proposed.
+Section 23.755 Hulls
+The FAA proposed to amend § 23.755
+by deleting paragraph (b), which
+provides, that hulls of hull seaplanes or
+amphibians of less than 1,500 pounds
+need not be compartmented, because
+paragraph (b) is redundant. The
+applicable requirements are contained
+in paragraph (a). The FAA also
+proposed to redesignate paragraph (c) as
+new paragraph (b) and to edit it for
+clarification.
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+Section 23.865 Fire Protection of Flight
+Controls, Engine Mounts, and Other
+Flight Structures
+The FAA proposed to revise § 23.865
+by changing the words ‘‘engine
+compartment’’ to ‘‘designated fire
+zones’’ for consistency with recent
+revisions to §§ 23.1203 and 23.1181.
+The proposed revision would also add
+the phrase ‘‘adjacent areas that would be
+subjected to the effects of fire in the
+designated fire zones.’’
+Comment: The JAA agrees that the
+technical intent of proposed § 23.865 is
+similar to the JAR 23 requirement.
+Changes to JAR 23 to adopt the terms
+proposed in this part 23 section are
+being considered by the JAA.
+FAA Response: No substantive
+comment was received, and the
+proposals are adopted as proposed.
+Section 23.925 Propeller Clearance
+The FAA proposed to amend
+§ 23.925(b), Aft mounted propellers, by
+removing the requirements on tail
+wheels, bumpers, and energy absorption
+devices and moving them to § 23.497,
+Supplementary conditions for tail
+wheels, as discussed as discussed
+above. The FAA also proposed to delete
+the inspection and replacement criteria
+for tail wheel, bumper, and energy
+absorption devices because the
+inspection and replacement
+requirements are stated in § 23.1529.
+No comments were received on the
+proposals for this section, and they are
+adopted as proposed.
+
+[[Page 6]]
+Federal Register / Vol. 61,
+Appendix A
+The FAA proposed to revise three
+areas of Appendix A: (1) A23.1 General;
+(2) A23.11 Control surface loads,
+paragraph (c), Surface loading
+conditions; and (3) Table 2—Average
+limit control surface loading. The FAA
+proposed to add a new figure to
+Appendix A: Figure A7, Chordwise load
+distribution for stabilizer and elevator,
+or fin and rudder. The revisions specify
+the configurations for which the wing
+and tail surface loads, required by
+A23.7, are valid. The FAA discovered a
+need for a clarification change in
+paragraph A23.a(a)(1) during the post
+comment review period. The words
+‘‘excluding turbine powerplants’’ are
+clearer than the words ‘‘excluding
+turbines.’’ This revision is included in
+the final rule to more clearly convey the
+intended meaning.
+No comments were received on the
+proposals for Appendix A, and they are
+adopted with the change explained
+above.
+Final Regulatory Evaluation, Final
+Regulatory Flexibility Determination,
+and Trade Impact Assessment
+Changes to Federal regulations must
+undergo several economic analyses.
+First, Executive Order 12866 directs
+Federal agencies to promulgate new
+regulations only if the potential benefits
+to society justify its costs. Second, the
+Regulatory Flexibility Act of 1980
+requires agencies to analyze the
+economic impact of regulatory changes
+on small entities. Finally, the Office of
+Management and Budget directs
+agencies to assess the effects of
+regulatory changes on international
+trade. In conducting these assessments,
+the FAA has determined that this rule:
+(1) Will generate benefits exceeding its
+costs and is ‘‘significant’’ as defined in
+the Executive Order; (2) is ‘‘significant’’
+as defined in DOT’s Policies and
+Procedures; (3) will not have a
+significant impact on a substantial
+number of small entities; and (4) will
+not constitute a barrier to international
+trade. These analyses, available in the
+docket, are summarized below.
+Comments Related to the Economics of
+the Proposed Rule
+Two comments were received
+regarding the economic impact of the
+proposals; one concerning § 23.571,
+Metallic pressurized cabin structures,
+and one concerning § 23.572, Metallic
+wing, empennage, and associated
+structures. Both of these comments, as
+well as the FAA’s responses, are
+included in the section ‘‘Discussion of
+Amendments.’’
+61, No. 28 / Friday, February 9, 1996
+Regulatory Evaluation Summary
+The FAA has identified 6 sections
+that will result in additional compliance
+costs, totalling between $10,000 and
+$17,000 per certification. When
+amortized over a production run, these
+costs will have a negligible impact on
+airplane price, less than $100 per
+airplane.
+The primary benefit of the rule will be
+the cost efficiencies of harmonization
+with the JAR for those manufacturers
+that market airplanes in JAA countries
+as well as to manufacturers in JAA
+countries that market airplanes in the
+United States. Other benefits of the rule
+will be decreased reliance on special
+conditions, simplification of the
+certification process through
+clarification of existing requirements,
+and increased flexibility through
+optional designs.
+Regulatory Flexibility Determination
+The Regulatory Flexibility Act of 1980
+(RFA) was enacted by Congress to
+ensure that small entities are not
+unnecessarily and disproportionately
+burdened by Federal regulations. The
+RFA requires a Regulatory Flexibility
+Analysis if a rule will have a significant
+economic impact, either detrimental or
+beneficial, on a substantial number of
+small entities. Based on FAA Order
+2100.14A, Regulatory Flexibility Criteria
+and Guidance, the FAA has determined
+that the rule will not have a significant
+economic impact on a substantial
+number of small entities.
+International Trade Impact Assessment
+The rule will not constitute a barrier
+to international trade, including the
+export of U.S. goods and services to
+foreign countries and the import of
+foreign goods and services into the
+United States. Instead, the airframe
+certification procedures have been
+harmonized with those of the JAA and
+will lessen restraints on trade.
+Federalism Implications
+The regulations herein would not
+have substantial direct effects on the
+States, on the relationship between the
+national government and the States, or
+on the distribution of power and
+responsibilities among the various
+levels of government. Therefore, in
+accordance with Executive Order 12612,
+it is determined that this rule does not
+have sufficient federalism implications
+to warrant the preparation of a
+Federalism Assessment.
+Conclusion
+The FAA is revising the airframe
+airworthiness standards for normal,
+utility, acrobatic, and commuter
+/ Rules and Regulations 5143
+category airplanes to harmonize them
+with the standards that were published
+for the same categories of airplanes by
+the Joint Airworthiness Authorities in
+Europe. The revisions reduce the
+regulatory burden on United States and
+European airplane manufacturers by
+relieving them of the need to show
+compliance with different standards
+each time they seek certification
+approval of an airplane in the United
+States or in a country that is a member
+of the JAA.
+For the reasons discussed in the
+preamble, and based on the findings in
+the Regulatory Evaluation, the FAA has
+determined that this rule is not
+significant under Executive Order
+12866. In addition, the FAA certifies
+that this rule will not have a significant
+economic impact on a substantial
+number of small entities under the
+criteria of the Regulatory Flexibility Act.
+This rule is considered not significant
+under DOT Regulatory Policies and
+Procedures (44 FR 11034, February 26,
+1979). A regulatory evaluation of the
+rule has been placed in the docket. A
+copy may be obtained by contacting the
+person identified under FOR FURTHER
+INFORMATION CONTACT.
+List of Subjects in 14 CFR Part 23
+Aircraft, Aviation safety, Signs and
+symbols.
+The Amendments
+In consideration of the foregoing, the
+Federal Aviation Administration
+amends 14 CFR part 23 as follows:
+PART 23—AIRWORTHINESS
+STANDARDS: NORMAL, UTILITY,
+ACROBATIC, AND COMMUTER
+CATEGORY AIRPLANES
+1. The authority citation for part 23
+continues to read as follows:
+Authority: 49 U.S.C. 106(g), 40013, 44701,
+44702, 44704.
+2. Section 23.301(d) is revised to read
+as follows:
+§ 23.301 Loads.
+* * * * *
+(d) Simplified structural design
+criteria may be used if they result in
+design loads not less than those
+prescribed in §§ 23.331 through 23.521.
+For airplane configurations described in
+appendix A, § 23.1, the design criteria of
+appendix A of this part are an approved
+equivalent of §§ 23.321 through 23.459.
+If appendix A of this part is used, the
+entire appendix must be substituted for
+the corresponding sections of this part.
+3. Section 23.335 is amended by
+revising paragraph (a)(1); by removing
+the period and adding ‘‘; and either—’’
+
+[[Page 7]]
+5144 Federal Register / Vol. 61,
+to the end of paragraph (b)(4)(i); by
+revising paragraph (b)(4)(ii); by adding a
+new paragraph (b)(4)(iii); and by
+revising the introductory text of
+paragraph (d)(1) to read as follows:
+§ 23.335 Design airspeeds.
+* * * * *
+(a) * * *
+(1) Where W/S′=wing loading at the
+design maximum takeoff weight, Vc (in
+knots) may not be less than—
+(i) 33 √(W/S) (for normal, utility, and
+commuter category airplanes);
+(ii) 36 √(W/S) (for acrobatic category
+airplanes).
+* * * * *
+(b) * * *
+(4) * * *
+(ii) Mach 0.05 for normal, utility, and
+acrobatic category airplanes (at altitudes
+where MD is established); or
+(iii) Mach 0.07 for commuter category
+airplanes (at altitudes where MD is
+established) unless a rational analysis,
+including the effects of automatic
+systems, is used to determine a lower
+margin. If a rational analysis is used, the
+minimum speed margin must be enough
+to provide for atmospheric variations
+(such as horizontal gusts), and the
+penetration of jet streams or cold fronts),
+instrument errors, airframe production
+variations, and must not be less than
+Mach 0.05.
+* * * * *
+(d) * * *
+(1) VB may not be less than the speed
+determined by the intersection of the
+line representing the maximum positive
+lift, CN MAX, and the line representing
+the rough air gust velocity on the gust
+V-n diagram, or VS1 √ng, whichever is
+less, where:
+* * * * *
+4. Section 23.337(a)(1) is revised to
+read as follows:
+§ 23.337 Limit maneuvering load factors.
+(a) * * *
+(1) 2.1+(24,000÷(W+10,000)) for
+normal and commuter category
+airplanes, where W=design maximum
+takeoff weight, except that n need not be
+more than 3.8;
+* * * * *
+5. Section 23.341 is amended by
+redesignating existing paragraphs (a)
+and (b) as paragraphs (b) and (c),
+respectively; by adding a new paragraph
+(a); by revising the redesignated
+paragraph (b); and by revising the
+introductory text, the formula, and the
+definition of ‘‘W/S’’ in the redesignated
+paragraph (c) to read as follows:
+§ 23.341 Gust loads factors.
+(a) Each airplane must be designed to
+withstand loads on each lifting surface
+61, No. 28 / Friday, February 9, 1996
+resulting from gusts specified in
+§ 23.333(c).
+(b) The gust load for a canard or
+tandem wing configuration must be
+computed using a rational analysis, or
+may be computed in accordance with
+paragraph (c) of this section, provided
+that the resulting net loads are shown to
+be conservative with respect to the gust
+criteria of § 23.333(c).
+(c) In the absence of a more rational
+analysis, the gust load factors must be
+computed as follows—
+n = 1 + K g U de V a
+498 ( W / S )
+* * * * *
+W/S=Wing loading (p.s.f.) due to the
+applicable weight of the airplane in
+the particular load case.
+* * * * *
+6. A new § 23.343 is added to read as
+follows:
+§ 23.343 Design fuel loads.
+(a) The disposable load combinations
+must include each fuel load in the range
+from zero fuel to the selected maximum
+fuel load.
+(b) If fuel is carried in the wings, the
+maximum allowable weight of the
+airplane without any fuel in the wing
+tank(s) must be established as
+‘‘maximum zero wing fuel weight,’’ if it
+is less than the maximum weight.
+(c) For commuter category airplanes,
+a structural reserve fuel condition, not
+exceeding fuel necessary for 45 minutes
+of operation at maximum continuous
+power, may be selected. If a structural
+reserve fuel condition is selected, it
+must be used as the minimum fuel
+weight condition for showing
+compliance with the flight load
+requirements prescribed in this part
+and—
+(1) The structure must be designed to
+withstand a condition of zero fuel in the
+wing at limit loads corresponding to:
+(i) Ninety percent of the maneuvering
+load factors defined in § 23.337, and
+(ii) Gust velocities equal to 85 percent
+of the values prescribed in § 23.333(c).
+(2) The fatigue evaluation of the
+structure must account for any increase
+in operating stresses resulting from the
+design condition of paragraph (c)(1) of
+this section.
+(3) The flutter, deformation, and
+vibration requirements must also be met
+with zero fuel in the wings.
+7. Section 23.345 is revised to read as
+follows:
+§ 23.345 High lift devices.
+(a) If flaps or similar high lift devices
+are to be used for takeoff, approach or
+landing, the airplane, with the flaps
+/ Rules and Regulations
+fully extended at VF, is assumed to be
+subjected to symmetrical maneuvers
+and gusts within the range determined
+by—
+(1) Maneuvering, to a positive limit
+load factor of 2.0; and
+(2) Positive and negative gust of 25
+feet per second acting normal to the
+flight path in level flight.
+(b) VF must be assumed to be not less
+than 1.4 VS or 1.8 VSF, whichever is
+greater, where—
+(1) VS is the computed stalling speed
+with flaps retracted at the design
+weight; and
+(2) VSF is the computed stalling speed
+with flaps fully extended at the design
+weight.
+(3) If an automatic flap load limiting
+device is used, the airplane may be
+designed for the critical combinations of
+airspeed and flap position allowed by
+that device.
+(c) In determining external loads on
+the airplane as a whole, thrust,
+slipstream, and pitching acceleration
+may be assumed to be zero.
+(d) The flaps, their operating
+mechanism, and their supporting
+structures, must be designed to
+withstand the conditions prescribed in
+paragraph (a) of this section. In
+addition, with the flaps fully extended
+at VF, the following conditions, taken
+separately, must be accounted for:
+(1) A head-on gust having a velocity
+of 25 feet per second (EAS), combined
+with propeller slipstream corresponding
+to 75 percent of maximum continuous
+power; and
+(2) The effects of propeller slipstream
+corresponding to maximum takeoff
+power.
+8. Section 23.347 is amended by
+designating the existing text as
+paragraph (a) and by adding a new
+paragraph (b) to read as follows:
+§ 23.347 Unsymmetrical flight conditions.
+* * * * *
+(b) Acrobatic category airplanes
+certified for flick maneuvers (snap roll)
+must be designed for additional
+asymmetric loads acting on the wing
+and the horizontal tail.
+9. Section 23.349(a)(2) is revised to
+read as follows:
+§ 23.349 Rolling conditions.
+* * * * *
+(a) * * *
+(2) For normal, utility, and commuter
+categories, in Condition A, assume that
+100 percent of the semispan wing
+airload acts on one side of the airplane
+and 75 percent of this load acts on the
+other side.
+* * * * *
+10. Section 23.369(a) is revised to
+read as follows:
+
+[[Page 8]]
+Federal Register / Vol. 61,
+§ 23.369 Rear lift truss.
+(a) If a rear lift truss is used, it must
+be designed to withstand conditions of
+reversed airflow at a design speed of—
+V = 8.7 √(W/S) + 8.7 (knots), where
+W/S = wing loading at design maximum
+takeoff weight.
+* * * * *
+11. Section 23.371 is revised to read
+as follows:
+§ 23.371 Gyroscopic and aerodynamic
+loads.
+(a) Each engine mount and its
+supporting structure must be designed
+for the gyroscopic, inertial, and
+aerodynamic loads that result, with the
+engine(s) and propeller(s), if applicable,
+at maximum continuous r.p.m., under
+either:
+(1) The conditions prescribed in
+§ 23.351 and § 23.423; or
+(2) All possible combinations of the
+following—
+(i) A yaw velocity of 2.5 radians per
+second;
+(ii) A pitch velocity of 1.0 radian per
+second;
+(iii) A normal load factor of 2.5; and
+(iv) Maximum continuous thrust.
+(b) For airplanes approved for
+aerobatic maneuvers, each engine
+mount and its supporting structure must
+meet the requirements of paragraph (a)
+of this section and be designed to
+withstand the load factors expected
+during combined maximum yaw and
+pitch velocities.
+(c) For airplanes certificated in the
+commuter category, each engine mount
+and its supporting structure must meet
+the requirements of paragraph (a) of this
+section and the gust conditions
+specified in § 23.341 of this part.
+§ 23.391 [Amended]
+12. Section 23.391 is amended by
+removing paragraph (b) and removing
+the designation of ‘‘(a)’’ from the
+remaining text.
+13. A new § 23.393 is added to read
+as follows:
+§ 23.393 Loads parallel to hinge line.
+(a) Control surfaces and supporting
+hinge brackets must be designed to
+61, No. 28 / Friday, February 9, 1996
+withstand inertial loads acting parallel
+to the hinge line.
+(b) In the absence of more rational
+data, the inertial loads may be assumed
+to be equal to KW, where—
+(1) K = 24 for vertical surfaces;
+(2) K = 12 for horizontal surfaces; and
+(3) W = weight of the movable
+surfaces.
+14. Section 23.399 is revised to read
+as follows:
+§ 23.399 Dual control system.
+(a) Each dual control system must be
+designed to withstand the force of the
+pilots operating in opposition, using
+individual pilot forces not less than the
+greater of—
+(1) 0.75 times those obtained under
+§ 23.395; or
+(2) The minimum forces specified in
+§ 23.397(b).
+(b) Each dual control system must be
+designed to withstand the force of the
+pilots applied together, in the same
+direction, using individual pilot forces
+not less than 0.75 times those obtained
+under § 23.395.
+15. Section 23.415 is amended by
+revising paragraphs (a)(2) and (c) to read
+as follows:
+§ 23.415 Ground gust conditions.
+(a) * * *
+(2) If pilot forces less than the
+minimums specified in § 23.397(b) are
+used for design, the effects of surface
+loads due to ground gusts and taxiing
+downwind must be investigated for the
+entire control system according to the
+formula:
+H = K c S q
+where—
+H = limit hinge moment (ft.-lbs.);
+c = mean chord of the control surface aft
+of the hinge line (ft.);
+S = area of control surface aft of the
+hinge line (sq. ft.);
+q = dynamic pressure (p.s.f.) based on
+a design speed not less than 14.6
+√(W/S) + 14.6 (f.p.s.) where W/S =
+wing loading at design maximum
+weight, except that the design speed
+need not exceed 88 (f.p.s.);
+/ Rules and Regulations 5145
+K = limit hinge moment factor for
+ground gusts derived in paragraph
+(b) of this section. (For ailerons and
+elevators, a positive value of K
+indicates a moment tending to
+depress the surface and a negative
+value of K indicates a moment
+tending to raise the surface).
+* * * * *
+(c) At all weights between the empty
+weight and the maximum weight
+declared for tie-down stated in the
+appropriate manual, any declared tie-
+down points and surrounding structure,
+control system, surfaces and associated
+gust locks, must be designed to
+withstand the limit load conditions that
+exist when the airplane is tied down
+and that result from wind speeds of up
+to 65 knots horizontally from any
+direction.
+16. Section 23.441 is amended by
+revising paragraph (a)(2) and adding a
+new paragraph (b) to read as follows.
+§ 23.441 Maneuvering loads.
+(a) * * *
+(2) With the rudder deflected as
+specified in paragraph (a)(1) of this
+section, it is assumed that the airplane
+yaws to the overswing sideslip angle. In
+lieu of a rational analysis, an overswing
+angle equal to 1.5 times the static
+sideslip angle of paragraph (a)(3) of this
+section may be assumed.
+* * * * *
+(b) For commuter category airplanes,
+the loads imposed by the following
+additional maneuver must be
+substantiated at speeds from VA to VD/
+MD. When computing the tail loads—
+(1) The airplane must be yawed to the
+largest attainable steady state sideslip
+angle, with the rudder at maximum
+deflection caused by any one of the
+following:
+(i) Control surface stops;
+(ii) Maximum available booster effort;
+(iii) Maximum pilot rudder force as
+shown below:
+BILLING CODE 4910–13–M
+
+[[Page 9]]
+5146 Federal Register / Vol. 61, No. 28 / Friday, February 9, 1996 / Rules and Regulations
+BILLING CODE 4910–13–C
+
+[[Page 10]]
+Federal Register / Vol.
+(2) The rudder must be suddenly
+displaced from the maximum deflection
+to the neutral position.
+* * * * *
+17. Section 23.443(c) is revised to
+read as follows:
+§ 23.443 Gust loads.
+* * * * *
+(c) In the absence of a more rational
+analysis, the gust load must be
+computed as follows:
+L vt = K gt U de V a vt S vt
+498
+Where—
+Lvt=Vertical surface loads (lbs.);
+kgt = 5 0 . . 3 88 + µ µ gt gt = gust alleviation factor;
+µ gt = 2 W K 2 = lateral massratio;
+ρ c t g a vt S vt l vt
+Ude=Derived gust velocity (f.p.s.);
+ρ=Air density (slugs/cu.ft.);
+W=the applicable weight of the airplane
+in the particular load case (lbs.);
+Svt=Area of vertical surface (ft.2);
+c¯t=Mean geometric chord of vertical
+surface (ft.);
+avt=Lift curve slope of vertical surface
+(per radian);
+K=Radius of gyration in yaw (ft.);
+lvt=Distance from airplane c.g. to lift
+center of vertical surface (ft.);
+g=Acceleration due to gravity (ft./sec.2);
+and
+V=Equivalent airspeed (knots).
+18. The center heading ‘‘AILERONS,
+WING FLAPS, AND SPECIAL
+DEVICES’’ that appears between
+§§ 23.445 and 23.455 is revised to read
+‘‘Ailerons and Special Devices’’.
+§ 23.457 [Removed]
+19. Section 23.457 is removed.
+20. Section 23.473 is amended by
+revising paragraphs (c)(1) and (f) to read
+as follows:
+§ 23.473 Ground load conditions and
+assumptions.
+* * * * *
+(c) * * *
+(1) The airplane meets the one-engine-
+inoperative climb requirements of
+§ 23.67(b)(1) or (c); and
+* * * * *
+(f) If energy absorption tests are made
+to determine the limit load factor
+corresponding to the required limit
+descent velocities, these tests must be
+made under § 23.723(a).
+* * * * *
+61, No. 28 / Friday, February 9, 1996
+21. Section 23.497 is amended by
+adding a new paragraph (c) to read as
+follows:
+§ 23.497 Supplementary conditions for tail
+wheels.
+* * * * *
+(c) If a tail wheel, bumper, or an
+energy absorption device is provided to
+show compliance with § 23.925(b), the
+following apply:
+(1) Suitable design loads must be
+established for the tail wheel, bumper,
+or energy absorption device; and
+(2) The supporting structure of the tail
+wheel, bumper, or energy absorption
+device must be designed to withstand
+the loads established in paragraph (c)(1)
+of this section.
+22. Section 23.499 is amended by
+adding new paragraphs (d) and (e) to
+read as follows:
+§ 23.499 Supplementary conditions for
+nose wheels.
+* * * * *
+(d) For airplanes with a steerable nose
+wheel that is controlled by hydraulic or
+other power, at design takeoff weight
+with the nose wheel in any steerable
+position, the application of 1.33 times
+the full steering torque combined with
+a vertical reaction equal to 1.33 times
+the maximum static reaction on the nose
+gear must be assumed. However, if a
+torque limiting device is installed, the
+steering torque can be reduced to the
+maximum value allowed by that device.
+(e) For airplanes with a steerable nose
+wheel that has a direct mechanical
+connection to the rudder pedals, the
+mechanism must be designed to
+withstand the steering torque for the
+maximum pilot forces specified in
+§ 23.397(b).
+§ 23.521 [Amended]
+23. Section 23.521 is amended by
+removing paragraph (c).
+24. Section 23.561 is amended by
+revising paragraph (b) introductory text;
+by revising paragraphs (d)(1); and by
+adding a new paragraph (e) to read as
+follows:
+§ 23.561 General.
+* * * * *
+(b) The structure must be designed to
+give each occupant every reasonable
+chance of escaping serious injury
+when—
+* * * * *
+(d) * * *
+(1) * * *
+(i) The most adverse combination of
+weight and center of gravity position;
+(ii) Longitudinal load factor of 9.0g;
+(iii) Vertical load factor of 1.0g; and
+/ Rules and Regulations 5147
+(iv) For airplanes with tricycle
+landing gear, the nose wheel strut failed
+with the nose contacting the ground.
+* * * * *
+(e) Except as provided in § 23.787(c),
+the supporting structure must be
+designed to restrain, under loads up to
+those specified in paragraph (b)(3) of
+this section, each item of mass that
+could injure an occupant if it came
+loose in a minor crash landing.
+25. Section 23.571 is amended by
+revising the heading, the introductory
+text, and paragraph (a), to read as
+follows:
+§ 23.571 Metallic pressurized cabin
+structures.
+For normal, utility, and acrobatic
+category airplanes, the strength, detail
+design, and fabrication of the metallic
+structure of the pressure cabin must be
+evaluated under one of the following:
+(a) A fatigue strength investigation in
+which the structure is shown by tests,
+or by analysis supported by test
+evidence, to be able to withstand the
+repeated loads of variable magnitude
+expected in service; or
+* * * * *
+26. Section 23.572 is amended by
+revising the heading; by revising
+paragraph (a) introductory text; and by
+revising paragraph (a)(1) to read as
+follows:
+§ 23.572 Metallic wing, empennage, and
+associated structures.
+(a) For normal, utility, and acrobatic
+category airplanes, the strength, detail
+design, and fabrication of those parts of
+the airframe structure whose failure
+would be catastrophic must be
+evaluated under one of the following
+unless it is shown that the structure,
+operating stress level, materials and
+expected uses are comparable, from a
+fatigue standpoint, to a similar design
+that has had extensive satisfactory
+service experience:
+(1) A fatigue strength investigation in
+which the structure is shown by tests,
+or by analysis supported by test
+evidence, to be able to withstand the
+repeated loads of variable magnitude
+expected in service; or
+* * * * *
+27. Section 23.573 is amended by
+removing the reference in paragraph (b)
+‘‘§ 23.571(c)’’ and adding the reference
+‘‘§ 23.571(a)(3)’’ in its place; by
+removing paragraph (c); and by revising
+the introductory text of paragraph (a)(5)
+to read as follows:
+§ 23.573 Damage tolerance and fatigue
+evaluation of structure.
+(a) * * *
+
+[[Page 11]]
+5148 Federal Register / Vol.
+(5) For any bonded joint, the failure
+of which would result in catastrophic
+loss of the airplane, the limit load
+capacity must be substantiated by one of
+the following methods—
+* * * * *
+28. A new § 23.574 is added to read
+as follows:
+§ 23.574 Metallic damage tolerance and
+fatigue evaluation of commuter category
+airplanes.
+For commuter category airplanes—
+(a) Metallic damage tolerance. An
+evaluation of the strength, detail design,
+and fabrication must show that
+catastrophic failure due to fatigue,
+corrosion, defects, or damage will be
+avoided throughout the operational life
+of the airplane. This evaluation must be
+conducted in accordance with the
+provisions of § 23.573, except as
+specified in paragraph (b) of this
+section, for each part of the structure
+that could contribute to a catastrophic
+failure.
+(b) Fatigue (safe-life) evaluation.
+Compliance with the damage tolerance
+requirements of paragraph (a) of this
+section is not required if the applicant
+establishes that the application of those
+requirements is impractical for a
+particular structure. This structure must
+be shown, by analysis supported by test
+evidence, to be able to withstand the
+repeated loads of variable magnitude
+expected during its service life without
+detectable cracks. Appropriate safe-life
+scatter factors must be applied.
+29. A new § 23.575 is added to read
+as follows:
+§ 23.575 Inspections and other
+procedures.
+Each inspection or other procedure,
+based on an evaluation required by
+§§ 23.571, 23.572, 23.573 or 23.574,
+must be established to prevent
+catastrophic failure and must be
+included in the Limitations Section of
+the Instructions for Continued
+Airworthiness required by § 23.1529.
+30. Section 23.607 is revised to read
+as follows:
+§ 23.607 Fasteners.
+(a) Each removable fastener must
+incorporate two retaining devices if the
+loss of such fastener would preclude
+continued safe flight and landing.
+(b) Fasteners and their locking devices
+must not be adversely affected by the
+environmental conditions associated
+with the particular installation.
+(c) No self-locking nut may be used on
+any bolt subject to rotation in operation
+unless a non-friction locking device is
+used in addition to the self-locking
+device.
+61, No. 28 / Friday, February 9, 1996
+31. Section 23.611 is revised to read
+as follows:
+§ 23.611 Accessibility provisions.
+For each part that requires
+maintenance, inspection, or other
+servicing, appropriate means must be
+incorporated into the aircraft design to
+allow such servicing to be
+accomplished.
+32. Section 23.629 is amended by
+revising the introductory text of
+paragraph (a); by redesignating existing
+paragraphs (b) and (c) as paragraphs (c)
+and (b); by revising the introductory text
+of newly redesignated (b); by revising
+newly redesignated paragraph (c); by
+revising paragraph (d)(3)(i); by revising
+paragraphs (g) and (h); and by adding a
+new paragraph (i) to read as follows:
+§ 23.629 Flutter.
+(a) It must be shown by the methods
+of paragraph (b) and either paragraph (c)
+or (d) of this section, that the airplane
+is free from flutter, control reversal, and
+divergence for any condition of
+operation within the limit V-n envelope
+and at all speeds up to the speed
+specified for the selected method. In
+addition—
+* * * * *
+(b) Flight flutter tests must be made to
+show that the airplane is free from
+flutter, control reversal and divergence
+and to show that—
+* * * * *
+(c) Any rational analysis used to
+predict freedom from flutter, control
+reversal and divergence must cover all
+speeds up to 1.2 VD.
+(d) * * *
+(3) * * *
+(i) Does not have a T-tail or other
+unconventional tail configurations;
+* * * * *
+(g) For airplanes showing compliance
+with the fail-safe criteria of §§ 23.571
+and 23.572, the airplane must be shown
+by analysis to be free from flutter up to
+VD/MD after fatigue failure, or obvious
+partial failure, of a principal structural
+element.
+(h) For airplanes showing compliance
+with the damage tolerance criteria of
+§ 23.573, the airplane must be shown by
+analysis to be free from flutter up to VD/
+MD with the extent of damage for which
+residual strength is demonstrated.
+(i) For modifications to the type
+design that could affect the flutter
+characteristics, compliance with
+paragraph (a) of this section must be
+shown, except that analysis based on
+previously approved data may be used
+alone to show freedom from flutter,
+control reversal and divergence, for all
+speeds up to the speed specified for the
+selected method.
+/ Rules and Regulations
+§ 23.657 [Amended]
+33. Section 23.657 is amended by
+removing paragraph (c).
+§ 23.673 [Amended]
+34. Section 23.673 is amended by
+removing paragraph (b) and the
+paragraph designation ‘‘(a)’’ for the
+remaining paragraph.
+35. Section 23.725 is amended by
+revising the equation in paragraph (b) to
+read as follows:
+§ 23.725 Limit drop tests.
+* * * * *
+(b) * * *
+W e = W [ h + ( 1 − L ) d ]
+( h + d )
+* * * * *
+36. Section 23.755 is amended by
+removing paragraph (b), and by
+redesignating paragraph (c) as paragraph
+(b) and revising it to read as follows:
+§ 23.755 Hulls.
+* * * * *
+(b) Watertight doors in bulkheads may
+be used for communication between
+compartments.
+37. Section 23.865 is revised to read
+as follows:
+§ 23.865 Fire protection of flight controls,
+engine mounts, and other flight structure.
+Flight controls, engine mounts, and
+other flight structure located in
+designated fire zones, or in adjacent
+areas that would be subjected to the
+effects of fire in the designated fire
+zones, must be constructed of fireproof
+material or be shielded so that they are
+capable of withstanding the effects of a
+fire. Engine vibration isolators must
+incorporate suitable features to ensure
+that the engine is retained if the non-
+fireproof portions of the isolators
+deteriorate from the effects of a fire.
+38. Section 23.925 is amended by
+revising paragraph (b) to read as follows:
+§ 23.925 Propeller clearance.
+* * * * *
+(b) Aft-mounted propellers. In
+addition to the clearances specified in
+paragraph (a) of this section, an airplane
+with an aft mounted propeller must be
+designed such that the propeller will
+not contact the runway surface when
+the airplane is in the maximum pitch
+attitude attainable during normal
+takeoffs and landings.
+* * * * *
+39. Appendix A is amended by
+revising the heading, section A23.1,
+paragraphs A23.11 (c)(1) and (d), and
+Table 2; and by adding a new Figure A7
+to the end of the Appendix to read as
+follows:
+
+[[Page 12]]
+Federal Register / Vol.
+Appendix A to Part 23 Simplified
+Design Load Criteria
+A23.1 General.
+(a) The design load criteria in this
+appendix are an approved equivalent of those
+in §§ 23.321 through 23.459 of this
+subchapter for an airplane having a
+maximum weight of 6,000 pounds or less and
+the following configuration:
+(1) A single engine excluding turbine
+powerplants;
+(2) A main wing located closer to the
+airplane’s center of gravity than to the aft,
+fuselage-mounted, empennage;
+(3) A main wing that contains a quarter-
+chord sweep angle of not more than 15
+degrees fore or aft;
+(4) A main wing that is equipped with
+trailing-edge controls (ailerons or flaps, or
+both);
+(5) A main wing aspect ratio not greater
+than 7;
+(6) A horizontal tail aspect ratio not greater
+than 4;
+(7) A horizontal tail volume coefficient not
+less than 0.34;
+(8) A vertical tail aspect ratio not greater
+than 2;
+(9) A vertical tail platform area not greater
+than 10 percent of the wing platform area;
+and
+BILLING CODE 4910–13–C
+Where—
+P(x)=local pressure at the chordwise stations
+x,
+c=chord length of the tail surface,
+61, No. 28 / Friday, February 9, 1996
+(10) Symmetrical airfoils must be used in
+both the horizontal and vertical tail designs.
+(b) Appendix A criteria may not be used
+on any airplane configuration that contains
+any of the following design features:
+(1) Canard, tandem-wing, close-coupled, or
+tailless arrangements of the lifting surfaces;
+(2) Biplane or multiplane wing
+arrangements;
+(3) T-tail, V-tail, or cruciform-tail (+)
+arrangements;
+(4) Highly-swept wing platform (more than
+15-degrees of sweep at the quarter-chord),
+delta planforms, or slatted lifting surfaces; or
+(5) Winglets or other wing tip devices, or
+outboard fins.
+* * * * *
+A23.11 Control surface loads.
+* * * * *
+(c) * * *
+(1) Simplified limit surface loadings for the
+horizontal tail, vertical tail, aileron, wing
+flaps, and trim tabs are specified in figures
+5 and 6 of this appendix.
+(i) The distribution of load along the span
+of the surface, irrespective of the chordwise
+load distribution, must be assumed
+proportional to the total chord, except on
+horn balance surfaces.
+(ii) The load on the stabilizer and elevator,
+and the load on fin and rudder, must be
+cf=chord length of the elevator and rudder
+respectively, and
+w¯ =average surface loading as specified in
+Figure A5.
+* * * * *
+/ Rules and Regulations 5149
+distributed chordwise as shown in figure 7 of
+this appendix.
+(iii) In order to ensure adequate torsional
+strength and to account for maneuvers and
+gusts, the most severe loads must be
+considered in association with every center
+of pressure position between the leading edge
+and the half chord of the mean chord of the
+surface (stabilizer and elevator, or fin and
+rudder).
+(iv) To ensure adequate strength under
+high leading edge loads, the most severe
+stabilizer and fin loads must be further
+considered as being increased by 50 percent
+over the leading 10 percent of the chord with
+the loads aft of this appropriately decreased
+to retain the same total load.
+(v) The most severe elevator and rudder
+loads should be further considered as being
+distributed parabolically from three times the
+mean loading of the surface (stabilizer and
+elevator, or fin and rudder) at the leading
+edge of the elevator and rudder, respectively,
+to zero at the trailing edge according to the
+equation:
+P ( x ) = 3 ( w ) ( c cf − x 2 ) 2
+BILLING CODE 4910–13–M
+(vi) The chordwise loading distribution for
+ailerons, wing flaps, and trim tabs are
+specified in Table 2 of this appendix.
+(d) Outboard fins. Outboard fins must meet
+the requirements of § 23.445.
+* * * * *
+BILLING CODE 4910–13–M
+
+[[Page 13]]
+5150 Federal Register / Vol. 61, No. 28 / Friday, February 9, 1996 / Rules and Regulations
+BILLING CODE 4910–13–C
+
+[[Page 14]]
+Federal Register / Vol.
+*
+Figure A7.—Chordwise
+BILLING CODE 4910–13–C
+P 1 = 2 ( w ) ( 2 − E − 3 d ' )
+( 1 − E )
+P 2 = 2 ( w ) ( 3 d ' + E − 1 )
+where:
+w¯ =average surface loading (as specified in
+figure A.5)
+E=ratio of elevator (or rudder) chord to total
+stabilizer and elevator (or fin and rudder)
+chord.
+d′=ratio of distance of center of pressure of
+a unit spanwise length of combined
+stabilizer and elevator (or fin and rudder)
+measured from stabilizer (or fin) leading
+edge to the local chord. Sign convention
+is positive when center of pressure is
+behind leading edge.
+c=local chord.
+Note: Positive values of w¯ , P1 and P2 are
+all measured in the same direction.
+Issued in Washington, DC, on January 29,
+1996.
+David R. Hinson,
+Administrator.
+[FR Doc. 96–2081 Filed 2–8–96; 8:45 am]
+BILLING CODE 4910–13–M
+14 CFR Parts 23 and 91
+[Docket No. 27806; Amendment No. 23–49,
+91–247]
+RIN 2120–AE59
+Airworthiness Standards; Systems and
+Equipment Rules Based on European
+Joint Aviation Requirements
+AGENCY: Federal Aviation
+Administration, DOT.
+ACTION: Final rule.
+61, No. 28 / Friday, February 9, 1996
+* * *
+Load Distribution for Stabilizer and Elevator
+SUMMARY: This final rule amends the
+systems and equipment airworthiness
+standards for normal, utility, acrobatic,
+and commuter category airplanes. This
+amendment completes a portion of the
+Federal Aviation Administration (FAA)
+and the European Joint Aviation
+Authorities (JAA) effort to harmonize
+the Federal Aviation Regulations and
+the Joint Aviation Requirements (JAR)
+for airplanes certified in these
+categories. This amendment will
+provide nearly uniform systems and
+equipment standards for airplanes
+certificated in the United States under
+14 CFR part 23 and in JAA countries
+under Joint Aviation Requirements 23,
+simplifying international airworthiness
+approval.
+EFFECTIVE DATE: March 11, 1996.
+FOR FURTHER INFORMATION CONTACT:
+Earsa Tankesley, Aerospace Engineer,
+Standards Office (ACE–100), Small
+Airplane Directorate, Federal Aviation
+Administration, 601 East 12th Street,
+Kansas City, Missouri 64106, telephone
+(816) 426–6932.
+SUPPLEMENTARY INFORMATION:
+Background
+This amendment is based on Notice of
+Proposed Rulemaking (NPRM) No. 94–
+21 (59 FR 37620, July 22, 1994). All
+comments received in response to
+Notice 94–21 have been considered in
+adopting this amendment.
+This amendment completes part of an
+effort to harmonize the requirements of
+part 23 and JAR 23. The revisions to
+part 23 in this amendment pertain to
+systems and equipment airworthiness
+standards. Three other final rules are
+being issued in this Federal Register
+/ Rules and Regulations 5151
+*
+or Fin and Rudder
+that pertain to airworthiness standards
+for flight, powerplant, and airframe.
+These related rulemakings are also part
+of the harmonization effort. Interested
+persons should review all four final
+rules to ensure that all revisions to part
+23 are recognized.
+The harmonization effort was
+initiated at a meeting in June 1990 of the
+JAA Council (consisting of JAA
+members from European countries) and
+the FAA, during which the FAA
+Administrator committed the FAA to
+support the harmonization of the U.S.
+regulations with the JAR that were being
+developed. In response to the
+commitment, the FAA Small Airplane
+Directorate established an FAA
+Harmonization Task Force to work with
+the JAR 23 Study Group to harmonize
+part 23 with the proposed JAR 23. The
+General Aviation Manufacturers
+Association (GAMA) also established a
+JAR 23/part 23 committee to provide
+technical assistance.
+The FAA, JAA, GAMA, and the
+Association Europeenne des
+Constructeurs de Material Aerospatial
+(AECMA), an organization of European
+airframe manufacturers, met on several
+occasions in a continuing
+harmonization effort.
+Near the end of the effort to
+harmonize the normal, utility, and
+acrobatic category airplane
+airworthiness standards, the JAA
+requested and received
+recommendations from its member
+countries on proposed airworthiness
+standards for commuter category
+airplanes. Subsequent JAA and FAA
+meetings on this issue resulted in
+proposals that were reflected in Notice
+94–21 to revise portions of the part 23

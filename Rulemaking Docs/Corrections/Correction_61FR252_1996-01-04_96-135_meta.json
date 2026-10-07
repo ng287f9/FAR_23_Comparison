@@ -1,0 +1,39 @@
+{
+  "document_number": "96-135",
+  "title": "Small Airplane Airworthiness Review Program Amendment No. 3; Correction",
+  "type": "Rule",
+  "action": "Correction; final rule with request for comments.",
+  "start_page": 252,
+  "end_page": 254,
+  "publication_date": "1996-01-04",
+  "agencies": [
+    {
+      "raw_name": "DEPARTMENT OF TRANSPORTATION",
+      "name": "Transportation Department",
+      "id": 492,
+      "url": "https://www.federalregister.gov/agencies/transportation-department",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+      "parent_id": null,
+      "slug": "transportation-department"
+    },
+    {
+      "raw_name": "Federal Aviation Administration",
+      "name": "Federal Aviation Administration",
+      "id": 159,
+      "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+      "parent_id": 492,
+      "slug": "federal-aviation-administration"
+    }
+  ],
+  "docket_ids": [
+    "Docket No. 26344",
+    "Amendment No. 23-43"
+  ],
+  "citation": "61 FR 252",
+  "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/1996/01/04/96-135.txt",
+  "html_url": "https://www.federalregister.gov/documents/1996/01/04/96-135/small-airplane-airworthiness-review-program-amendment-no-3-correction",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-1996-01-04/pdf/96-135.pdf",
+  "_match": "docket-amdt23",
+  "_kind": "correction"
+}

@@ -1,0 +1,712 @@
+FINAL RULES: 23-54|25-100|33-20
+
+ 
+ 
+        
+CITATION: [Federal Register: September 14, 2000 (Volume 65, Number 279)]
+
+ 
+        
+PAGE NUMBER: [Page 55848]
+
+ 
+        
+DOCKET NUMBER: FAA-1998-4815
+
+ 
+        
+14 CFR PARTS: Part 23|Part 25|Part 33
+
+ 
+        
+SUBJECT HEADING: Airworthiness Standards; Bird Ingestion 
+
+ 
+        
+ACTION: Final rule.
+
+ 
+        
+SUMMARY: This amendment revises the bird ingestion type certification standards for aircraft turbine engines to better address the actual bird threat encountered in service. This amendment also establishes nearly uniform bird ingestion standards for aircraft turbine engines certified by the United States under FAA standards and by the Joint Aviation Authorities (JAA) countries under JAA standards, thereby simplifying airworthiness approvals for import and export.
+
+ 
+        
+DATES: EFFECTIVE DATE: December 13, 2000.
+
+ 
+        
+EFFECTIVE DATE: 2000-12-13
+
+ 
+        
+TERMINATION DATE: 
+
+ 
+        
+ADDRESSES: 
+
+ 
+        
+FOR FURTHER INFORMATION CONTACT: Marc Bouthillier, Engine and Propeller Directorate,
+
+Engine and Propeller Standards Staff, ANE-110, Federal Aviation Administration, New England Executive
+
+Park, Burlington, Massachusetts 01803-5299; telephone (781) 238-7120; facsimile (781) 238-7199.
+
+
+
+ 
+        
+SUPPLEMENTARY INFORMATION: 
+
+Availability of Final Rules
+
+ 
+
+ An electronic copy of this document may be downloaded using a modem and suitable communications software from the FAA regulations section of the FedWorld electronic bulletin board service (telephone: (703) 321-3339) or the Government Printing Office's (GPO) electronic bulletin board service (telephone: (202) 512-1661).
+
+ 
+
+ Internet users may reach the FAA's web page at http://www.faa.gov/avr/arm/nprm/nprm.htm or the GPO's web page at http://www.access.gpo.gov/nara for access to recently published rulemaking documents.
+
+ 
+
+ Any person may obtain a copy of this document by submitting a request to the Federal Aviation Administration, Office of Rulemaking, ARM-1, 800 Independence Avenue SW., Washington, DC 20591, or by calling (202) 267-9680. Communications must identify the amendment number or docket number of this final rule. 
+
+ Persons interested in being placed on the mailing list for future rulemaking documents should request from the above office a copy of Advisory Circular No. 11-2A, Notice of Proposed Rulemaking Distribution System, which describes the application procedure. 
+
+Small Business Regulatory Enforcement Fairness Act 
+
+ The Small Business Regulatory Enforcement Fairness Act (SBREFA) of 1996, requires the FAA to comply with small entity requests for information or advice about compliance with statutes and regulations within its jurisdiction. Therefore, any small entity that has a question regarding this document may contact their local FAA official. Internet users can find additional information on SBREFA on the FAA's web page at http://www.faa.gov/avr/arm/sbrefa.htm and may send electronic inquiries to the following Internet address: 9-AWA-SBREFA@faa.gov. 
+
+Background 
+
+Statement of the Problem
+
+ In 1976, the National Transportation Safety Board (NTSB), in response to an accident involving a wide-bodied aircraft that may have experienced multiple bird ingestion into the engines, issued Safety Recommendation A-76-64, recommending that the FAA, "amend 14 CFR 33.77 to increase the maximum number of birds in the various size categories required to be ingested into turbine engines with large inlets." Safety Recommendation A-76-64 also stated, "these increased numbers and sizes should be consistent with the birds ingested during service experience of these engines." In response to the recommendation, the FAA sponsored an industry wide study of the types, sizes, and quantities of birds that had been ingested into aircraft turbine engines of all sizes, and the resulting affects on engine performance. Subsequently, the FAA requested that the Aerospace Industries Association (AIA) analyze the data, and report back to the FAA. Based on the AIA report, the FAA determined the actions to be taken, as well as the disposition of the NTSB safety recommendation A-76-64. The FAA concluded that the regulations contained in § 33.77 should be modified to increase the severity of the bird ingestion testing requirements regarding large, high bypass ratio engines. In addition, the FAA found that it should update the design and testing requirements for all engine sizes to reflect the actual numbers and bird sizes being ingested. This effort was adopted as a part 33 and Joint Aviation Regulations for engines (JAR-E) harmonization project and was selected as an Aviation Rulemaking Advisory Committee (ARAC) project. 
+
+Industry Study 
+
+ There are three separate data collection efforts within the industry study. The largest and most comprehensive collection is the data for large commercial transport engines with fan diameters between 80 and 100 inches and spanning a time period from entry into service through 1987. This collection includes FAA sponsored contracts which are summarized in report number DOT/FAA/CT-84/13, dated September 1984. A less extensive collection effort involving engines with inlet areas less than 1000 square inches was also performed. Data for this class of engine is less comprehensive in that it involves reporting from a very diverse aircraft operator base including General Aviation operators as well as some commuter and part 121 operators. The third collection effort was an extension of the first, but includes only data for ingestion of birds weighing greater than 2.5 pounds, for the time period from entry into service through September 1995 for large commercial transport engines with fan diameters 60 inches and larger.
+
+ 
+
+ The results of the first two data collections were compared to the historical design standards and certification bases for the family of engines comprised in the database. The study group identified bird ingestion threats both more and less severe than were addressed in either engine design practices of the time, or in part 33. A proposal for a change in the medium bird ingestion rules was presented by the AIA to the FAA in AIA report dated October 17, 1986.
+
+ 
+
+ The FAA then asked for expansion of the database to include both heavier birds and coordination of the data and proposed rules with the European Association of Aerospace Industries (AECMA). This coordination effort included consensus between the two industry groups on the completeness and accuracy of the data, and validation of the analytical approach by independent statisticians from Allied Signal, Boeing, General Electric, Pratt & Whitney, Rolls-Royce, and Snecma. The AIA and AECMA delivered a report to the FAA on November 10, 1988. This data collection has become known as the "AIA database." The substance of the latter report is a primary basis for the current NPRM.
+
+ 
+
+ Three additional bird ingestion studies were contracted by the FAA to corroborate the findings of the collections described above. The results of these studies may be found in reports numbered DOT/FAA/CT-90/13, "Study of Bird Ingestions Into Small Inlet Area Aircraft Turbine Engines," dated December 1990, DOT/FAA/CT-91/17, "Bird Ingestion Into Large Turbofan Engines," dated May 1992, and DOT/FAA/CT-91/32, "Engine Bird Ingestion Experience of the Boeing 737 Aircraft - Expanded Data Base", dated July 1992. The data contained in these reports supports the data summaries of the related industry studies. 
+
+ Subsequently, a further review of the data for birds heavier than 2.5 pounds (lb) was requested of industry by the FAA and JAA. The resulting data is contained in an AIA/AECMA report dated March 29, 1996 which includes all relevant reports of bird ingestions for commercial transport engines with fan diameters 60 inches and greater, for the time period from entry into service through September 30, 1995. 
+
+Aviation Rulemaking Advisory (ARAC) Project 
+
+ In December 1992, the FAA requested the ARAC to evaluate the need for new bird ingestion standards. The task, in turn, was assigned to the Engine Harmonization Working Group (EHWG) of the ARAC on Transport Airplane and Engine (TAE) Issues on December 11, 1992. On April 9, 1997, the TAE issues group recommended to the FAA that it proceed with rulemaking and associated advisory material even though one working group member disagreed with a portion of the proposal. The FAA published a notice of proposed rulemaking (NPRM) on December 11, 1998 (63 FR 68636). This rule reflects the ARAC recommendations. 
+
+Discussion of Comments 
+
+ All interested persons have been afforded an opportunity to participate in this rulemaking. Due consideration has been given to all comments contained in the nine comment letters received, which represent domestic and foreign industry, and foreign airworthiness authorities. Nine comments generally supported publication of the rule as a benefit over the existing regulations.
+
+ 
+
+ One commenter notes that the companion Advisory Circular (AC) has not been published for comment.
+
+ 
+
+ The FAA agrees in part. An extensive AC has been drafted that provides one method, but not the only method, for showing compliance with this new rule for bird ingestion. The FAA expects that the AC will be available for comment prior to the effective date of the new rule. The FAA does not agree that this final rule should be delayed pending completion of that AC. 
+
+ Two commenters state that the safety intent and justification of the proposed rule should be clarified.
+
+ 
+
+ The FAA disagrees. The NPRM preamble clearly states that the objective of the proposed rule is to provide a freedom from risk of hazard due to bird ingestion at least equal to ten to the minus eighth power (1E-8) per aircraft cycle. The objective is further defined for single large birds and both small and medium flocking birds. Justification for various aspects of the rule is given throughout the preamble section of the NPRM.
+
+ 
+
+ Several comments were received concerning bird control programs at airports. One commenter states that additional actions are necessary to better control bird populations on and around airports. Two commenters state that airport bird control programs and flight crew awareness training are not effective in mitigating the bird threat, and should not be considered relative to this rulemaking. One commenter states that airport bird control programs and flight crew awareness training programs are generally being decreased in scope. 
+
+ The FAA disagrees that airport controls programs and flight crew awareness training are ineffective in mitigating the bird ingestion threat. The FAA believes airport bird control programs are effective in mitigating the bird ingestion threat on and around airports. It must be noted that the overall bird ingestion experience base of commercial aircraft is a combination of aircraft capability, airport and environ controls, air traffic control, and flight crew awareness. Only by a combination of efforts will the bird ingestion threat to aircraft be kept to acceptable levels. It should be noted that the proposal did not specifically consider airport controls, air traffic controls, or flight crew effects in the design of the rule, other than assuming current levels of effectiveness will be maintained. Also, airport wildlife controls themselves are beyond the scope of this rulemaking effort. 
+
+ It should also be noted that the FAA has recently published a number of policy and guidance related documents pertaining to airport wildlife control plans, land use practices, and aircraft bird strike reporting. The FAA also participates in various government and industry focus groups related to wildlife hazards on and around airports, maintains a bird strike database, and has contracted with the Smithsonian institution to provide a service to identify and size birds involved in aircraft strike events. As a result of these efforts, the emphasis on wildlife hazard identification and control measures is expanding industry wide. 
+
+ One commenter states that fan blade containment after a bird ingestion event is a concern. 
+
+ The FAA agrees in part. The FAA agrees that containment of hazardous fragments after a bird strike present a serious concern, however containment requirements are beyond the scope of this rulemaking effort. The proposed rule, for large, small and medium birds has the same requirement, meaning the applicant must show that release of hazardous fragments through the engine casing following a bird strike is precluded. Also, § 33.19 requires that the energy levels and trajectories of fragments resulting from rotor blade failure that lie outside the engine cases must be defined (e.g., fragments exiting through inlet structure). The FAA does not agree, however, that this concern warrants delay in issuing this final rule. 
+
+ One commenter states that a full flight engine configuration should be utilized for certification tests.
+
+ 
+
+ The FAA agrees in principle. The test engine configuration must be fully representative of a type design engine insofar as bird ingestion requirements are concerned. Also, it is standard practice to use flight type inlets, cowls, and primary nozzles, or equivalents for these tests. The use of such flight type aircraft components are needed to evaluate the energy and trajectory of fragments which lie outside the engine type design cases. No changes to the proposed rule are required since compliance with the requirements will dictate the use of appropriate inlet and cowl hardware for any given design.
+
+ 
+
+ One commenter states that a 10-percent tolerance band on certification test controlling parameters is excessive.
+
+ 
+
+ The FAA does not agree. The 10-percent tolerance band addresses the Critical Ingestion Parameter (CIP), which is the parameter for a particular bird ingestion scenario that is most critical relative to the pass/fail criteria contained in the rule. The other controlling parameters must be maintained such that the CIP itself does not vary more then 10-percent. In practice, most controlling parameters can be maintained to a relatively tight tolerance, and this practice will not change. The AC will contain further guidance on one method, but not the only method, to show compliance with this requirement. 
+
+ One commenter states that the makeup of the rulemaking database is not clearly described within the NPRM
+
+ 
+
+ The FAA agrees in part. The database could be described in more detail. The database is made up of known revenue-service engine bird ingestion events from the time period from entry into service through September 1995. Data collections included International Civil Aviation Organization (ICAO) data, airframe manufacturer data, engine manufacturer data, FAA data, and any other data presented that could be cross referenced to an actual engine ingestion. The data comes from a cross section of engine types, and for transport category aircraft engines it encompasses approximately 90 million aircraft flights. The data points utilized are those which were identified as actual engine ingestion events, where an engine ingestion event was defined as the presence of bird debris within the engine inlet or engine flow paths. Bird debris was defined as feathers, flesh, or body fluids that could be identified as having come from a bird. Techniques used for identification of debris were visual identification of feathers, forensic laboratory methods, and black light identification of body fluid smears on the engine inlet flow path and engine structure. If the evidence positively indicated an ingestion, but a positive identification of the bird species could not be made, the data was entered as an ingestion without an associated weight. Data representing bird strikes to the aircraft structure (other than engines) was not utilized in the design of this rule. Simple bird species distribution data (i.e., population and size distributions occurring in nature) was also not utilized in the design of the rule.
+
+ 
+
+ A series of bird ingestion data collection efforts, as described above, collated data for a variety of engine sizes and types. Three parameters were estimated from the data collection for events where the bird size, bird type, aircraft model, engine model, flight regime, and outcome where reasonably known. These were the single engine ingestion rate versus bird weight; multiple engine ingestion rate versus bird weight; and the ratio of the number of engine power loss events to the number of ingestion events versus bird weight. The probability of a dual engine power loss on a twin engine aircraft was computed by multiplying the square of the power loss ratio by the multiple engine ingestion rate for twin engine positions. Twin engine positions were defined as the inboard positions on four engine airplanes, the wing positions of three engine airplanes, and the wing positions on two engine airplanes. For the purpose of the above data reduction, a power loss was defined as 50-percent or more loss of power or thrust. The data was collected and evaluated in a manner which would provide a good representation of the bird ingestion threat to aircraft engines in service during that time period. 
+
+ The FAA does not agree, however, that the description of the database contained in the NPRM was deficient, or that this final rule should be delayed.
+
+ 
+
+ Two commenters state that this rulemaking database does not reflect actual service experience, and is not accurate or complete.
+
+ 
+
+ The FAA disagrees. As discussed in the paragraph above, the rulemaking database is comprised of data from actual engine bird ingestion events where the bird species, bird size, bird number, aircraft model, engine model, regime of flight, and outcome where all reasonably known. Also as noted above, for transport category aircraft engines, the database reflects known bird ingestion events encompassing approximately 90 million aircraft flights of experience covering a broad cross-section of aircraft types. This rulemaking database is a good representation of what aircraft engines have actually experienced over the past 25 years. Lastly, since this is the actual experience of the fleet, it also includes whatever effects there might be from increased bird populations in this time period
+
+ 
+
+ One commenter states that recent events have shown that the proposed requirements, relative to bird mass and flock size, are less severe than occur in nature.
+
+ 
+
+ The FAA agrees in part. Events can occur that are beyond the severity of the proposed requirements. This was stated in the NPRM preamble. The proposed rule was not designed to encompass the worst possible combination of all factors, as this is impossible to predict, and would be beyond the capability of current engine technology. The FAA believes the proposed requirements are reasonable relative to the stated goal of reducing the bird threat hazards to aircraft by an order of magnitude. It should also be noted that a number of new engine models have been designed and evaluated to these proposed standards, and have generally performed well in revenue service. 
+
+ The FAA does not agree that the possibility of a bird ingestion event more severe than already contemplated in the proposed rule should warrant a delay in issuing a final rule. 
+
+ One commenter states that there has been significant growth in some bird populations over the past 10 years.
+
+ 
+
+ The FAA agrees in part. The FAA acknowledges that certain species of birds have experienced significant population and distribution increases over the past several years, and should be monitored for any effect on the bird threat to aircraft operations. The FAA does not believe, however, that this warrants a delay in issuing this final rule.
+
+ 
+
+ Two commenters state that this rulemaking database focused only on past experience, and made no attempt to predict future changes to the bird threat.
+
+ 
+
+ The FAA agrees in part. While this rulemaking database focused only on actual events which have occurred in revenue service, the rule was not designed to meet predicted future changes in the bird threat environment. The FAA believes it would be impossible to accurately predict threat changes, more or less in severity, as the overall experience base is a function of bird population, bird distribution, aircraft capability, engine capability, airport and airport environmental control measures, air traffic control operational requirements, air traffic control alert reports, and flight crew awareness. The FAA believes it is impossible to integrate these various factors into an accurate prediction of bird threat changes suitable for rulemaking, and believes that the possibility of such changes does not warrant delay in issuing this final rule. However, the FAA agrees that the factors noted above should be reviewed at periodic intervals to assure that the bird ingestion certification standards are adequate to meet the overall threat of bird ingestion, and that no individual factor is allowed to worsen to a significant degree.
+
+ 
+
+ One commenter states that the large bird requirement should be 12-15 lbs.
+
+ 
+
+ The FAA does not agree. While birds larger in size than the standard for "large birds" in the proposed rule can occur in revenue service, a review service data indicates that the proposed sliding scale (4-8 lbs. as a function of inlet area) for the single large bird requirement is reasonable relative to the stated goal of reducing the hazards to aircraft by an order of magnitude. The FAA does not agree the large bird standard needs to be changed. 
+
+ One commenter states that the proposed requirement for § 33.76(c)(2) needs to be revised to allow the use of certification data from pervious programs. 
+
+ The FAA disagrees. It is not necessary for a rule to contain language allowing the use of existing certification data. Any certification data held by the applicant may be utilized provided that the data is applicable to the product in question, and approved by the FAA. The AC will contain a discussion on what sources of data could be acceptable for the purpose of compliance findings.
+
+ 
+
+ One commenter states that the proposed requirements for §§ 23.903 and 25.903 are not clear.
+
+ 
+
+ The FAA disagrees. The text changes were required only to provide reference to the new § 33.76, and uses the same format as the previous rule.
+
+ 
+
+ One commenter states that the proposed requirements for §§ 23.903 and 25.903 will allow inappropriate use of previous engine bird ingestion certification requirements instead of new § 33.76 when determining engine model eligibility for new aircraft applications.
+
+ 
+
+ The FAA disagrees. The proposed text is consistent with current §§ 23.903 and 25.903, and allows flexibility for installation of pre § 33.76 certification basis engines into new aircraft applications at the FAAs discretion. The FAA believes it would be inappropriate to preclude by regulation the installation of pre § 33.76 engines which have demonstrated acceptable bird ingestion capabilities in revenue service. For transport category aircraft, the existing requirements under §§ 21.21(b)(2), 25.903(a), and 25.1091(d)(2)/(e) have been identified as providing for the evaluation of proposed installations relative to bird ingestion service history. The FAA will review the application of these regulations to assure that they provide for the necessary level of evaluation of any proposed installation utilizing pre § 33.76 model aircraft engines. Lastly, as part of this review, it was observed that current § 25.1091 must be revised to include an appropriate reference to the new requirements of § 33.76. Therefore, § 25.1091 is also revised by this final rule action.
+
+ 
+
+ One commenter states that the FAA air traffic control (ATC) operational procedures are now allowing high speed operations below 10,000 ft. altitude, and this should be considered with respect to these bird ingestion requirements.
+
+ 
+
+ The FAA agrees in part. This rule is based on the expectation that the majority of operations below 10,000 ft. would be at less than 250 knots. However, studies into changing ATC operational procedures have allowed unrestricted operation at speeds above 250 knots near some Class B airports, and at altitudes where bird encounters are most likely to occur. The new small and medium bird requirements are structured to account for higher speeds. However the large bird requirement utilizes a 200-knots default bird speed value. Higher aircraft speeds at low altitudes could also result in shallower climb profiles, possibly resulting in an aircraft spending more time in a higher risk bird threat environment then previously assumed. Therefore, the FAA will institute a follow-on rulemaking action to determine whether additional changes to the bird requirements are necessary based on these operational considerations. Also, the FAA will include material in the AC to address this subject relative to the large bird test requirements. The FAA does not believe, however, that this operational consideration warrants delaying this final rule.
+
+ 
+
+ One commenter states that the NPRM explanation for choosing the 200 knots over a 250 knots bird speed value for large bird tests needs clarification.
+
+ 
+
+ The FAA agrees in part. For a given turbine engine design, a specific bird speed will provide the least margin to the pass/fail criteria of § 33.76. For critical static structure (e.g., inlet guide vane), the higher speed will generally be more severe due to simple momentum transfer at impact. However for critical rotating stages of blades, there will be an optimum bird speed which results in maximum damage to that rotating stage. Bird speeds faster or slower then this optimum will result in less severe damage. This is due to the combined effects of bird speed, rotor blade tangential velocity, and blade twist angle. The worst case combination of these factors will result in the highest bird slice mass absorbed by the blade at the worst impact angle, and therefore results in the highest blade stresses at the blade's critical location. For example, most conventional high bypass turbofan designs will have critical speeds in the 150-220- knots range, depending upon specific fan blade design characteristics. While the FAA plans further review of this aspect of the large bird certification test, the FAA does not believe that this warrants delay in issuing this final rule.
+
+ 
+
+ Five commenters state that the FAA should reconsider the JAA position of including a requirement addressing intermediate flocking birds greater than 2.5 lbs.
+
+ 
+
+ The FAA agrees in part. The FAA agrees to reconsider the overall JAA position as part of future rulemaking study, and still believes that the Joint Aviation Requirements (JAR) and the FAA regulations should eventually be harmonized in this regard. The FAA does not agree, however, that the difference between this final rule and the JAA's current position warrants delay in issuing this final rule pending further study. 
+
+ Two commenters state that the FAA does not understand the JAA position on intermediate flocking birds.
+
+ 
+
+ The FAA disagrees. The FAA understands that the rationale for the additional JAA intermediate flocking bird requirement is to ensure that new engines will have the same level of capability (for flocking birds greater than 2.5 lbs.) as current in-service engines have demonstrated. The FAA does believe that the new requirements of § 33.76, overall, will provide a fleet of engines of overall increased capability when compared to the fleet of engines based on current § 33.77 requirements.
+
+ 
+
+ Three commenters state that the FAA and JAA should consider alternatives to the JAA intermediate flocking bird requirement of JAR-E 800(b)(2), as it does not meet its stated objective.
+
+ 
+
+ The FAA agrees in part. The FAA agrees to participate in a new rulemaking study to develop a meaningful alternative to the JAR intermediate flocking bird requirement. The FAA does not agree that the 12-percent unbalance requirement of proposed JAR-E 800(b)(2) can be relied upon to achieve the stated intent of the JAR-E rule as described. The FAA also does not believe that this final rule should be delayed pending any study of this issue.
+
+ 
+
+ Three commenters state that the proposed requirements do not adequately cover the flocking bird range of 2.5-8 lbs. 
+
+ The FAA disagrees. The proposed requirements have taken into account flocking birds in this category based on (1) the historical performance of engines currently in service, and (2) based on the overall increased severity of the new requirements. The FAA believes that the new requirements of § 33.76, overall, will provide a fleet of engines of increased capability in this regard when compared to the fleet of engines based on current § 33.77 requirements. However, since the flocking bird capability in this bird size range may not be directly evaluated for each individual design at the time of certification, the FAA agrees to participate in a new rulemaking study to evaluate this comment further. The FAA does not agree, however, that this final rule should be delayed pending any study of that issue. 
+
+ One commenter states that the proposed requirements meet the flocking bird objectives for conventional designs (e.g., for designs which the database directly represents). 
+
+ The FAA agrees that the rulemaking database and related assumptions which are part of this rule are most closely related to the conventional designs which make up the database. Therefore, for such designs, there is a high degree of confidence that this new rule's stated objective can be met.
+
+ 
+
+ Two commenters state that the proposed requirements may not meet the flocking bird objectives for new unconventional design technologies which have no historical data from which to evaluate capability.
+
+ The FAA agrees in part. The database on which this rule finds support, is made up of primarily conventional designs, and that the assumptions made when developing this rule most closely relate to those designs. However, it must be noted that the new § 33.76 is generally a more severe set of requirements then current § 33.77, and that the overall effect of the new rule will be a world fleet of increased capability when compared to the world fleet based on current § 33.77 requirements. Therefore, the overall rule objective of decreasing the risk from bird ingestion events by an order of magnitude will be met at the world fleet level. Also, since the new requirements do not include specific test requirements for flocking birds greater then 2.5 lbs., the possibility exists for disparities in engine capability from one model series to another, regardless of conventional or unconventional designs. The FAA believes it prudent to address this concern by further review of available service data to determine whether the chosen standards sufficiently cover the level of safety desired for this rule, and to assure that the specific level of safety demonstrated by each engine model certified is acceptable. The FAA agrees to participate in a new rulemaking study to evaluate this comment further, but does not agree that this final rule should be delayed pending that study. 
+
+ Two commenters state that the proposed requirements do not provide any improvement in power loss rate over current requirements. 
+
+ The FAA disagrees. It must be noted that the new § 33.76 is generally a more severe set of requirements then current § 33.77, and that the overall effect of the new rule will be a world fleet of increased capability when compared to the world fleet based on current § 33.77 requirements, of which power loss rate is one measure.
+
+ 
+
+ One commenter states that there is no need for expanded flocking bird requirements beyond this proposal.
+
+ 
+
+ The FAA agrees that new § 33.76 will be beneficial to overall world fleet capability. The FAA also believes, however, that a new review of available data is prudent to evaluate the current state of the bird threat in service, and that additional rulemaking action could result. 
+
+ Two commenters state that a new rulemaking study should be implemented to develop additional standards for run-on with flocking birds greater than 2.5 lbs.
+
+ 
+
+ The FAA agrees in part. The FAA has agreed to undertake a new rulemaking study of related topics as discussed in the various paragraphs above, but believes that this final rule should not be delayed pending further study.
+
+ 
+
+ Finally, the FAA has made the following minor editorial changes to better clarify this rule. These changes do not affect the scope of the rule or change the intent of these sections.
+
+ 
+
+ Section 33.76(a)(2) text was modified slightly to more clearly state the intent of the rule. There are no changes to the requirements. 
+
+ Section 33.76(b)(4) was revised to more clearly state the intent of the rule, which does not include an actual "waiver" of the large bird requirements as stated in the NPRM, but was intended to specify an additional method of showing compliance to these requirements using § 33.94(a) certification data when appropriate. Therefore the actual certification substantiation requirements of this section are unchanged from the NPRM proposal, with the only change being a more accurate description of the compliance option under this subsection that is available to the applicant. 
+
+ It was determined that the title of § 33.77 should be revised to specify the one remaining foreign object retained within this section (ice), and that for clarity and brevity the table of § 33.77(e) is deleted, and the table's remaining pertinent information is included directly into the text of existing paragraph (e). No changes to the requirements have resulted from these additional format changes.
+
+ 
+
+ Section 25.1091 was revised to include reference to § 33.76. It was determined that the part 33 references within § 25.1091 needed to be updated to account for this rulemaking action. 
+
+ After careful review of all the comments, the FAA has determined that air safety and the public interest require the adoption of the rule with the changes described. 
+
+Paperwork Reduction 
+
+ There are no new requirements for information collection associated with this rule that would require approval from the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1995 (44 U.S.C. 3507(d)).
+
+ International Compatibility 
+
+ In keeping with U.S. obligations under the Convention on International Civil Aviation, it is FAA policy to comply with International Civil Aviation Organization (ICAO) Standards and Recommended Practices to the maximum extent practicable. The FAA determined that there are no ICAO Standards and Recommended Practices that correspond to these regulations. 
+
+Regulatory Analyses and Assessments 
+
+ Changes to Federal regulations must undergo several economic analyses. First, Executive Order 12866 directs each Federal agency to propose or adopt a regulation only upon a reasoned determination that the benefits of the intended regulation justify its costs. Second, the Regulatory Flexibility Act of 1980 requires agencies to analyze the economic impact of regulatory changes on small entities. Third, the Trade Agreements Act (19 U.S.C. section 2531-2533) prohibits agencies from setting standards that create unnecessary obstacles to the foreign commerce of the United States. In developing U.S. standards, this Trade Act also requires agencies to consider international standards and, where appropriate, use them as the basis of U.S. standards. And fourth, the Unfunded Mandates Reform Act of 1995 requires agencies to prepare a written assessment of the costs, benefits and other effects of proposed or final rules that include a Federal mandate likely to result in the expenditure by State, local or tribal governments, in the aggregate, or by the private sector, of $100 million or more annually (adjusted for inflation.) 
+
+In conducting these analyses, FAA has determined this rule 1) has benefits which do justify its costs, is not a "significant regulatory action" as defined in the Executive Order and is "significant" as defined in DOT's Regulatory Policies and Procedures; 2) will not have a significant impact on a substantial number of small entities; 3) reduces barriers to international trade; and 4) does not impose an unfunded mandate on state, local, or tribal governments, or on the private sector. These analyses, available in the docket, are summarized below. 
+
+Regulatory Evaluation Summary 
+
+Cost --This rule is the result of ARAC recommendations. Moreover, public comments were not received on the preliminary economic evaluation. Costs of the rule include one-time certification costs and recurrent fuel costs due to reduced fan efficiency. The FAA estimates that the rule will add $250,000 to $500,000 to each new engine model's certification costs, depending on engine inlet area. These certification costs will be incurred primarily in two areas. First, additional analysis required to verify the affects of a large bird impact on the front of the engine could necessitate a component test costing $250,000. Second, the rule will require additional analysis or testing on the full fan assembly for engines with inlet areas greater than 2,092 square-inches. Such testing is estimated to cost approximately an additional $250,000 for those engines. 
+
+ In addition, the revised bird test weights could necessitate strengthening fan components, thereby affecting fan performance. The FAA estimates that reduced fan efficiency will result in a 0.2-percent increase in fuel consumption. On average, the FAA estimates that this will increase annual fuel costs by $4,770 per airplane, for airplanes equipped with new engines certificated to the standards of this rule. 
+
+Benefits--Benefits associated with this rule include: (1) averted fatalities and injuries, (2) averted property damage (primarily hull losses), and (3) reduced maintenance and repair costs. Based on historical accident information, the FAA estimates that the expected annual per-airplane benefit from averted airplane damage or loss is approximately $657. The expected annual benefit per-airplane from averted fatalities and injuries is $654 and $75, respectively.
+
+ 
+
+ The estimated value of maintenance/repair savings associated with the rule is based on an analysis of the relationship between bird ingestion weight and the probability of damage. The FAA estimates that, on average, the rule will save operators approximately $4,654 per airplane per year. 
+
+ To compare the lifecycle costs and benefits of the rule, the evaluation utilizes a hypothetical representative engine certification. The engines are assumed to be installed on a notional twin-engine jet transport with a seating capacity of 161 (the average seating capacity of jet transports in commercial service in 1996). In addition, this analysis assumes the following: (1) incremental engine certification costs equal $250,000 in year 0 and $250,000 in year 1; (2) production of engines commences in year 2, (3) engines are installed in aircraft and enter service beginning in year 3, (4) each engine has a 15-year service life, (5) 24 engines are produced per year for 10 years so that there are 240 total engines and 120 airplanes per certification, and (6) the discount rate is 7 percent. Under these conditions, the expected discounted benefits, at $4.333 million, exceed the discounted costs of $3.906 million. 
+
+Regulatory Flexibility Act 
+
+ The Regulatory Flexibility Act (RFA) of 1980, 5 U.S.C. 601-612, directs the FAA to fit regulatory requirements to the scale of the business, organizations, and governmental jurisdictions subject to the regulation. We are required to determine whether a proposed or final action will have a "significant economic impact on a substantial number of small entities" as defined in the Act. If we find that the action will have a significant impact, we must do a "regulatory flexibility analysis." 
+
+ This final rule will not have a significant economic impact on a substantial number of small entities. The final rule will apply only to newly designed turbine aircraft engines certificated in the future. Each new engine certification could affect two types of small entities: manufacturers of turbine engines and operators of aircraft.
+
+ 
+
+ Manufacturers will be required to perform additional analysis or testing to demonstrate that the new bird ingestion requirements are met. There are nine turbine aircraft engine manufacturers with headquarters in the U.S. (this count includes subsidiaries of foreign entities and consortiums of domestic and/or foreign entities). Information available to the FAA indicates that only one--a U.S. manufacturer of small turbine engines -has less than 1,500 employees, and therefore qualifies as a small business under SBA employment criteria. One entity is not considered a substantial number by the FAA. If all certification costs are assumed to be borne by the manufacturer, the FAA would conclude that with only one manufacturing firm being classified as "small," there is not an impact on small business.
+
+ 
+
+ In addition, the FAA analyzed the small business impact with a tougher criterion. The FAA assumes that all manufacturing costs will be borne by their customers who purchase new equipment. The rule is estimated to add about $250,000 for a small engine type produced by the single small entity: these are one-time certification costs. The FAA estimates that the rule will impose no incremental manufacturing costs. Aircraft operators will incur slightly higher engine prices and will pay increased operating or fuel costs due to the small decrease in engine efficiency (described in the full regulatory evaluation). According to FAA data, there are about 3,000 air carriers having less than 1,500 employees: approximately 100 air carriers operating under part 121 (or both part 121 and part 135), and 2,900 air carriers operating under part 135.
+
+ Assuming conservatively that: (1) All incremental certification costs are passed on to the buyer/operator, (2) the manufacturer recovers incremental certification costs by applying a uniform price increase to engines produced during a 10-year production run, and (3) that the discount rate is 7 percent; then the FAA estimates that average new engine prices will increase by approximately $3,070 per larger engine and $1,587 per smaller engine. When these costs are amortized over the 15-year life of an engine (again, assuming a 7-percent discount rate), the incremental annualized cost per new engine is approximately $315 and $163 for larger and smaller engines, respectively. Therefore, assuming a typical airplane has two engines, the incremental annualized cost for a large airplane is approximately $630 and the incremental annualized cost for a smaller airplane is approximately $326.
+
+ 
+
+ For larger engines, the rule will also increase annual airplane operating costs as a result of the new medium bird ingestion requirements due to higher fuel consumption and, thus, costs. These requirements will have a negligible effect on smaller engines. On average, annual operating costs per large airplane, with engines newly certificated to the standards of this rule, are estimated to increase by approximately $4,770. However, the reduction in average annualized maintenance costs associated with the more damage-resistant engines is expected to approximately offset the incremental operating costs.
+
+ 
+
+ Therefore, total annualized costs for operators of larger and smaller airplanes with new engines will be approximately $630 and $326 per airplane, respectively. Consequently, the FAA certifies that the rule will not have a significant economic impact on a substantial number of small entities. 
+
+International Trade 
+
+ The Trade Agreement Act of 1979 prohibits Federal agencies from engaging in any standards or related activity that create unnecessary obstacles to the foreign commerce of the United States. Legitimate domestic objectives, such as safety, are not considered unnecessary obstacles. The statute also requires consideration of international standards and where appropriate, that they be the basis for U.S. standards. In addition, consistent with the Administration's belief in the general superiority and desirability of free trade, it is the policy of the Administration to remove or diminish, to the extent feasible, barriers to international trade, including both barriers affecting the export of American goods and services to foreign countries and barriers affecting the import of foreign goods and services to into the U.S. 
+
+Turbine engines are produced by United States and foreign companies. The FAA has assessed the potential effect of this rule and has determined that it will impose the same costs on domestic and international entities, and will thus have a neutral trade impact. 
+
+Unfunded Mandates Reform Act 
+
+ The Unfunded Mandates Reform Act of 1995 (2 U.S.C. §§1532-1538) requires the FAA to assess the effects of Federal regulatory actions on state, local, and tribal governments, and on the private sector of rules that contain a Federal intergovernmental or private sector mandate that exceeds $100 million in nay one year. This action does not contain such a mandate. 
+
+Executive Order 13132, Federalism 
+
+ The FAA has analyzed this final rule under the principles and criteria of Executive Order 13132, Federalism. The FAA determined that this action will not have a substantial direct effect on the States, or the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, the FAA has determined that this final rule does not have federalism implications. 
+
+Plain Language 
+
+ In response to the June 1, 1998, Presidential Memorandum regarding the use of plain language, the FAA re-examined the writing style currently used in the development of regulations. The memorandum requires federal agencies to communicate clearly with the public. We are interested in your comments on whether the style of this document is clear, and any other suggestions you might have to improve the clarity of FAA communications that affect you. You can get more information about the Presidential memorandum and the plain language initiative at http://www.plainlanguage.gov. 
+
+Environmental Analysis 
+
+ FAA Order 1050.1D defines FAA actions that may be categorically excluded from preparation of a National Environmental Policy Act (NEPA) environmental assessment or environmental impact statement. In accordance with FAA Order 1050.1D, appendix 4, paragraph 4(j), this rulemaking action qualifies for a categorical exclusion. 
+
+Energy Impact 
+
+ The energy impact of the notice has been assessed in accordance with the Energy Policy and Conservation Act (EPCA) P.L. 94-163, as amended (43 U.S.C. 6362) and FAA Order 1053.1. It has been determined that the final rule is not a major regulatory action under the provisions of the EPCA. 
+
+List of Subjects in 14 CFR Part 23 
+
+ Air transportation, Aircraft, Aviation safety, Safety. 
+
+List of Subjects in 14 CFR Part 25 
+
+ Air transportation, Aircraft, Aviation safety, Safety. 
+
+List of Subjects in 14 CFR Part 33 
+
+ Air transportation, Aircraft, Aviation safety, Safety. 
+
+ 
+        
+REGULATORY TEXT: The Amendment 
+
+ In consideration of the foregoing, the Federal Aviation Administration amends parts 23, 25 and 33 of Title 14, Code of Federal Regulations as follows: 
+
+PART 23- AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES 
+
+ 1. The authority citation for part 23 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704.
+
+ 
+
+ 2. Section 23.903 is amended by revising paragraph (a)(2) to read as follows: 
+
+§ 23.903 Engines. 
+
+ (a) * * * 
+
+ (2) Each turbine engine and its installation must comply with one of the following: 
+
+ (i) Sections 33.76, 33.77 and 33.78 of this chapter in effect on December 13, 2000, or as subsequently amended; or 
+
+ (ii) Sections 33.77 and 33.78 of this chapter in effect on April 30, 1998, or as subsequently amended before December 13; 2000 or 
+
+ (iii) Section 33.77 of this chapter in effect on October 31, 1974, or as subsequently amended before April 30, 1998, unless that engine's foreign object ingestion service history has resulted in an unsafe condition; or 
+
+ (iv) Be shown to have a foreign object ingestion service history in similar installation locations which has not resulted in any unsafe condition.
+
+* * * * *
+
+PART 25 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+ 
+
+ 3. The authority citation for part 25 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704. 
+
+ 4. Section 25.903 is amended by revising paragraph (a)(2) to read as follows: 
+
+§ 25.903 Engines. 
+
+ (a) * * * 
+
+ (2) Each turbine engine must comply with one of the following: 
+
+ (i) Sections 33.76, 33.77 and 33.78 of this chapter in effect on [insert effective date of final rule], or as subsequently amended; or 
+
+ (ii) Sections 33.77 and 33.78 of this chapter in effect on April 30, 1998, or as subsequently amended before December 13, 2000; or 
+
+ (iii) Comply with § 33.77 of this chapter in effect on October 31, 1974, or as subsequently amended prior to April 30, 1998, unless that engine's foreign object ingestion service history has resulted in an unsafe condition; or 
+
+ (iv) Be shown to have a foreign object ingestion service history in similar installation locations which has not resulted in any unsafe condition. 
+
+* * * * *
+
+ 5. Section 25.1091 is amended by revising paragraph (e) to read as follows: 
+
+§ 25.1091 Air Induction. 
+
+* * * * *
+
+ (e) If the engine induction system contains parts or components that could be damaged by foreign objects entering the air inlet, it must be shown by tests or, if appropriate, by analysis that the induction system design can withstand the foreign object ingestion test conditions of §§ 33.76, 33.77 and 33.78(a)(1) of this chapter without failure of parts or components that could create a hazard. 
+
+PART 33 - AIRWORTHINESS STANDARDS: AIRCRAFT ENGINES 
+
+ 6. The authority citation for part 33 continues to read as follows: 
+
+ Authority: 49 U.S.C. 106(g), 40113, 44701, 44702, 44704.
+
+ 
+
+ 7. Section 33.76 is added to read as follows: 
+
+§ 33.76 Bird Ingestion. 
+
+ (a) General. Compliance with paragraphs (b) and (c) of this section shall be in accordance with the following: 
+
+ (1) All ingestion tests shall be conducted with the engine stabilized at no less than 100-percent takeoff power or thrust, for test day ambient conditions prior to the ingestion. In addition, the demonstration of compliance must account for engine operation at sea level takeoff conditions on the hottest day that a minimum engine can achieve maximum rated takeoff thrust or power. 
+
+ (2) The engine inlet throat area as used in this section to determine the bird quantity and weights will be established by the applicant and identified as a limitation in the installation instructions required under § 33.5. 
+
+ (3) The impact to the front of the engine from the single large bird and the single largest medium bird which can enter the inlet must be evaluated. It must be shown that the associated components when struck under the conditions prescribed in paragraphs (b) or (c) of this section, as applicable, will not affect the engine to the extent that it cannot comply with the requirements of paragraphs (b)(3) and (c )(6) of this section. 
+
+ (4) For an engine that incorporates an inlet protection device, compliance with this section shall be established with the device functioning. The engine approval will be endorsed to show that compliance with the requirements has been established with the device functioning. 
+
+ (5) Objects that are accepted by the Administrator may be substituted for birds when conducting the bird ingestion tests required by paragraphs (b) and (c) of this section. 
+
+ (6) If compliance with the requirements of this section is not established, the engine type certification documentation will show that the engine shall be limited to aircraft installations in which it is shown that a bird cannot strike the engine, or be ingested into the engine, or adversely restrict airflow into the engine. 
+
+ (b) Large birds. Compliance with the large bird ingestion requirements shall be in accordance with the following: 
+
+ (1) The large bird ingestion test shall be conducted using one bird of a weight determined from Table 1 aimed at the most critical exposed location on the first stage rotor blades and ingested at a bird speed of 200-knots for engines to be installed on airplanes, or the maximum airspeed for normal rotorcraft flight operations for engines to be installed on rotorcraft. 
+
+ (2) Power lever movement is not permitted within 15 seconds following ingestion of the large bird. 
+
+ (3) Ingestion of a single large bird tested under the conditions prescribed in this section may not cause the engine to: 
+
+ (i) Catch fire; 
+
+ (ii) Release hazardous fragments through the engine casing; 
+
+ (iii) Generate loads greater than those ultimate loads specified under § 33.23(a); or 
+
+ (iv) Lose the ability to be shut down. 
+
+ (4) Compliance with the large bird ingestion requirements of this paragraph may be shown by demonstrating that the requirements of § 33.94(a) constitute a more severe demonstration of blade containment and rotor unbalance than the requirements of this paragraph. 
+
+Table 1 of §33.76 Large Bird Weight Requirements 
+
+Engine Inlet Throat Area (A) Square-meters (square-inches) Bird Weight kg. (lb.) 
+
+1.35 (2,092)> A 1.85 (4.07) minimum, unless a smaller bird is determined to be a more severe demonstration. 
+
+1.35 (2,092) < A< 3.90 (6,045) 
+
+ 2.75 (6.05) 
+
+3.90 (6,045) < A 3.65 (8.03) 
+
+ (c) Small and medium birds. Compliance with the small and medium bird ingestion requirements shall be in accordance with the following:
+
+ (1) Analysis or component test, or both, acceptable to the Administrator, shall be conducted to determine the critical ingestion parameters affecting power loss and damage. Critical ingestion parameters shall include, but are not limited to, the affects of bird speed, critical target location, and first stage rotor speed. The critical bird ingestion speed should reflect the most critical condition within the range of airspeeds used for normal flight operations up to 1,500 feet above ground level, but not less than V1 minimum for airplanes.
+
+ (2) Medium bird engine tests shall be conducted so as to simulate a flock encounter, and will use the bird weights and quantities specified in Table 2. When only one bird is specified, that bird will be aimed at the engine core primary flow path; the other critical locations on the engine face area must be addressed, as necessary, by appropriate tests or analysis, or both. When two or more birds are specified in Table 2, the largest of those birds must be aimed at the engine core primary flow path, and a second bird must be aimed at the most critical exposed location on the first stage rotor blades. Any remaining birds must be evenly distributed over the engine face area. 
+
+ (3) In addition, except for rotorcraft engines, it must also be substantiated by appropriate tests or analysis or both, that when the full fan assembly is subjected to the ingestion of the quantity and weights of birds from Table 3, aimed at the fan assembly's most critical location outboard of the primary core flowpath, and in accordance with the applicable test conditions of this paragraph, that the engine can comply with the acceptance criteria of this paragraph.
+
+ 
+
+ (4) A small bird ingestion test is not required if the prescribed number of medium birds pass into the engine rotor blades during the medium bird test.
+
+ (5) Small bird ingestion tests shall be conducted so as to simulate a flock encounter using one 85 gram (0.187 lb.) bird for each 0.032 square-meter (49.6 square-inches) of inlet area, or fraction thereof, up to a maximum of 16 birds. The birds will be aimed so as to account for any critical exposed locations on the first stage rotor blades, with any remaining birds evenly distributed over the engine face area. 
+
+ (6) Ingestion of small and medium birds tested under the conditions prescribed in this paragraph may not cause any of the following: 
+
+ (i) More than a sustained 25-percent power or thrust loss; 
+
+ (ii) The engine to be shut down during the required run-on demonstration prescribed in paragraphs (c)(7) or (c)(8) of this section; 
+
+ (iii) The conditions defined in paragraph (b)(3) of this section.
+
+ (iv) Unacceptable deterioration of engine handling characteristics.
+
+ 
+
+ (7) Except for rotorcraft engines, the following test schedule shall be used: 
+
+ (i) Ingestion so as to simulate a flock encounter, with approximately 1 second elapsed time from the moment of the first bird ingestion to the last. 
+
+ (ii) Followed by 2 minutes without power lever movement after the ingestion.
+
+ 
+
+ (iii) Followed by 3 minutes at 75-percent of the test condition.
+
+ (iv) Followed by 6 minutes at 60-percent of the test condition. 
+
+ (v) Followed by 6 minutes at 40-percent of the test condition. 
+
+ (vi) Followed by 1 minute at approach idle. 
+
+ (vii) Followed by 2 minutes at 75-percent of the test condition.
+
+ 
+
+ (viii) Followed by stabilizing at idle and engine shut down. The durations specified are times at the defined conditions with the power lever being moved between each condition in less than 10 seconds.
+
+ 
+
+ (8) For rotorcraft engines, the following test schedule shall be used:
+
+ 
+
+ (i) Ingestion so as to simulate a flock encounter within approximately 1 second elapsed time between the first ingestion and the last.
+
+ (ii) Followed by 3 minutes at 75-percent of the test condition.
+
+ 
+
+ (iii) Followed by 90 seconds at descent flight idle.
+
+ (iv) Followed by 30 seconds at 75-percent of the test condition.
+
+ (v) Followed by stabilizing at idle and engine shut down. The duration specified are times at the defined conditions with the power being changed between each condition in less than 10 seconds.
+
+ 
+
+ (9) Engines intended for use in multi-engine rotorcraft are not required to comply with the medium bird ingestion portion of this section, providing that the appropriate type certificate documentation is so endorsed.
+
+ 
+
+ (10) If any engine operating limit(s) is exceeded during the initial 2 minutes without power lever movement, as provided by paragraph (c)(7)(ii) of this section, then it shall be established that the limit exceedence will not result in an unsafe condition. 
+
+Table 2 of §33.76 Medium Flocking Bird Weight and Quantity Requirements 
+
+Engine Inlet Throat Area (A)--
+
+ Square-meters (square-inches) Bird quantity Bird weight kg. (lb.) 
+
+0.05 (77.5) > A none 
+
+.05 (77.5) < A < 0.10 (155) 1 0.35 (0.77) 
+
+0.10 (155) < A < 0.20 (310) 1 0.45 (0.99) 
+
+0.20 (310) < A < 0.40 (620) 2 0.45 (0.99) 
+
+0.40 (620) < A < 0.60 (930) 2 0.70 (1.54) 
+
+0.60 (930) < A < 1.00 (1,550) 3 0.70 (1.54) 
+
+1.00 (1,550) < A < 1.35 (2,092) 4 0.70 (1.54) 
+
+1.35 (2,092) < A < 1.70 (2,635) 1 1.15 (2.53) 
+
+ plus 3 0.70 (1.54) 
+
+1.70 (2,635) < A <2.10 (3,255) 1 1.15 (2,53) 
+
+ plus 4 0.70 (1.54) 
+
+2.10 (3,255) < A < 2.50 (3,875) 1 1.15 (2.53) 
+
+ plus 5 0.70 (1.54) 
+
+2.50 (3,875) < A < 3.90 (6045) 1 1.15 (2.53) 
+
+ plus 6 0.70 (1.54) 
+
+3.90 (6045) < A <4.50 (6975) 3 1.15 (2.53) 
+
+4.50 (6975) < A 4 1.15 (2.53) 
+
+ 
+
+ Table 3 to Sec. 33.76.--Additional Integrity Assessment
+
+ 
+
+ Engine Inlet Throat Area (A)--
+
+ square-meters (square-inches) Bird quantity 
+
+Bird weight kg.(lb.) 
+
+1.35 (2,092)> A none 
+
+1.35 (2,092) < A < 2.90 (4,495) 1 1.15 (2.53) 
+
+2.90 (4,495) < A < 3.90 (6,045). 2 1.15 (2.53) 
+
+3.90 (6,045) < A 1 1.15 (2.53) 
+
+ plus 6 0.70 (1.54) 
+
+ 
+
+ 8. Section 33.77 is amended by revising the section heading, removing and reserving paragraphs (a) and (b), and by revising paragraphs (c), (d)(3), and (e) to read as follows:
+
+Sec. 33.77 Foreign object ingestion--ice. 
+
+(a) [Reserved] 
+
+(b) [Reserved]
+
+(c) Ingestion of ice under the conditions of paragraph (e) of this section may not-- 
+
+ (1) Cause a sustained power or thrust loss; or 
+
+ (2) Require the engine to be shutdown. 
+
+ (d) * * * 
+
+ (3) The foreign object, or objects, stopped by the protective device will not obstruct the flow of induction air into the engine with a resultant sustained reduction in power or thrust greater than those values required by paragraph (c) of this section. 
+
+(e) Compliance with paragraph (c) of this section must be shown by engine test under the following ingestion conditions: 
+
+ (1) Ice quantity will be the maximum accumulation on a typical inlet cowl and engine face resulting from a 2-minute delay in actuating the anti-icing system; or a slab of ice which is comparable in weight or thickness for that size engine. (2) The ingestion velocity will simulate ice being sucked into the engine inlet. 
+
+ (3) Engine operation will be Maximum Cruise power or thrust. 
+
+ (4) The ingestion will simulate a continuous maximum icing encounter at 25 degrees Fahrenheit. 
+
+ 
+        
+FOOTER: Issued in Washington, DC, on September 5, 2000.
+
+/S/ Jane F. Garvey
+
+Administrator
+
+[FR Doc. 00-23175 Filed 9-13-00; 8:45 am]
+
+BILLING CODE 4910-13-M
+
+
+
+ 
+        
+NPRM ACTIONS: Notice of Proposed Rulemaking. Notice No. 98-19; Issued on 11/9/99
+
+ 
+        
+FINAL RULE ACTIONS: Final Rule; correction. Docket No. FAA-1998-4815; Issued on 12/18/2003.

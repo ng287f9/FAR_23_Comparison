@@ -1,0 +1,191 @@
+<html>
+<head>
+<title>Federal Register, Volume 61 Issue 3 (Thursday, January 4, 1996)</title>
+</head>
+<body><pre>[Federal Register Volume 61, Number 3 (Thursday, January 4, 1996)]
+[Rules and Regulations]
+[Pages 252-254]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 96-135]
+
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 23
+
+[Docket No. 26344; Amendment No. 23-43]
+RIN 2120-AD30
+
+
+Small Airplane Airworthiness Review Program Amendment No. 3; 
+Correction
+
+AGENCY: Federal Aviation Administration, DOT.
+
+ACTION: Correction; final rule with request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This final rule contains corrections to the final regulation 
+(Amendment 23-43), which was published April 9, 1993 (58 FR 18958). The 
+regulation amended the powerplant and equipment airworthiness standards 
+for normal, utility, acrobatic, and commuter category airplanes. This 
+
+[[Page 253]]
+amendment replaces two paragraphs that were inadvertently deleted by 
+Amendment No. 23-43.
+
+DATES: This final rule becomes effective January 4, 1996. Comments must 
+be submitted on or before April 3, 1996.
+
+ADDRESSES: Comments should be submitted in triplicate to: Federal 
+Aviation Administration, Office of the Chief Counsel, Attention: Rules 
+Docket (AGC-200), Docket No. 26344, 800 Independence Avenue, SW., 
+Washington, DC 20591. Comments delivered must be marked Docket No. 
+26344. Comments may be inspected in Room 915G weekdays between 8:30 
+a.m. and 5:00 p.m., except on Federal holidays.
+    In addition, the FAA is maintaining a duplicate information docket 
+of comments in the Office of the Assistant Chief Counsel, ACE-7, 
+Federal Aviation Administration, Central Region, 601 East 12th Street, 
+Kansas City, Missouri 64106. Comments in the duplicate information 
+docket may be inspected in the Office of the Assistant Chief Counsel 
+weekdays, except Federal holidays, between the hours of 7:30 a.m. and 
+4:00 p.m.
+
+FOR FURTHER INFORMATION CONTACT:
+Norman Vetter, ACE-111, Small Airplane Directorate, Aircraft 
+Certification Service, Federal Aviation Administration, 601 East 12th 
+Street, Kansas City, Missouri 64106; telephone (816) 426-5688.
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    Although this action is in the form of a final rule that involves 
+requirements affecting immediate flight safety and, thus, was not 
+preceded by notice and opportunity to comment, comments are invited on 
+this rule. Interested persons are invited to comment on this rule by 
+submitting such written data, views, or arguments as they may desire. 
+Communications should identify the Rules Docket number and be submitted 
+in triplicate to the address specified above. All communications 
+received on or before the closing date for comments will be considered, 
+and this rule may be amended in light of the comments received. Factual 
+information that supports the commenter's ideas and suggestions is 
+extremely helpful in determining whether additional rulemaking action 
+would be needed.
+    Comments are specifically invited on the overall regulatory, 
+economic, environmental, and energy aspects of the rule that might 
+suggest a need to modify the rule. All comments submitted will be 
+available, both before and after the closing date for comments, in the 
+Rules Docket for examination by interested persons. A report that 
+summarizes each FAA-public contact concerned with the substance of this 
+rule will be filed in the Rules Docket.
+    Commenters wishing the FAA to acknowledge receipt of their comments 
+submitted in response to this notice must submit a self-addressed, 
+stamped postcard on which the following statement is made: ``Comments 
+to Docket No. 26344.'' The postcard will be date stamped and returned 
+to the commenter.
+    The regulations adopted herein will not have substantial direct 
+effects on the States, on the relationship between the national 
+government and the States, or on the distribution of power and 
+responsibilities among the various levels of government. Therefore, in 
+accordance with Executive Order 12612, it is determined that this final 
+rule does not have sufficient federalism implications to warrant the 
+preparation of a Federalism Assessment.
+    The FAA has determined that this regulation is an emergency 
+regulation and that must be issued immediately to correct an unsafe 
+condition in aircraft, and is not a significant regulatory action under 
+Executive Order 12866. It has been determined further that this action 
+involves an emergency regulation under DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979). If it is determined that 
+this emergency regulation otherwise would be significant under DOT 
+Regulatory Policies and Procedures, a final regulatory evaluation will 
+be prepared and placed in the Rules Docket (otherwise, an evaluation is 
+not required). A copy of it, if filed, may be obtained from the Rules 
+Docket.
+
+Availability
+
+    Any person may obtain a copy of this amendment by submitting a 
+request to the Federal Aviation Administration, Office of Public 
+Affairs, Attention: Public Inquiry Center, APA-200, 800 Independence 
+Avenue, SW., Washington, DC 20591, or by calling (202) 267-3484. 
+Communications must identify the amendment number.
+    Persons interested in being placed on the mailing list for future 
+NPRM's and rules should request, from the above office, a copy of 
+Advisory Circular No. 11-2A, Notice of Proposed Rulemaking Distribution 
+System, which describes the application procedure.
+
+Background
+
+    The final regulations that are the subject of this amendment, 
+Amendment 23-43 (58 FR 18958, April 9, 1993), inadvertently removed 
+paragraphs Sec. 23.965 (b)(4) and (b)(5). These paragraphs were never 
+intended to be removed and their removal was not proposed in the NPRM 
+for Amendment 23-43.
+
+Need for Correction
+
+    As published, the final regulations contain inadvertently deleted 
+paragraphs 23.965 (b)(4) and (b)(5), which contain substantive 
+requirements that were not intended to be removed and are considered 
+essential to aviation safety.
+
+Discussion of Amendments
+
+Section 23.965
+
+    The FAA proposed to amend paragraphs (b)(1) through (b)(3) of 
+Sec. 23.965 in Amendment 23-43. However, the amendatory language 
+removed paragraphs (b)(4) and (b)(5). This amendment corrects the error 
+by reinserting those paragraphs into the regulations.
+
+List of Subjects in 14 CFR Part 23
+
+    Aircraft, Aviation safety, Signs and symbols.
+
+The Amendments
+
+    In consideration of the foregoing, the Federal Aviation 
+Administration amends 14 CFR part 23 to read as follows:
+
+PART 23--AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND 
+COMMUTER CATEGORY AIRPLANES
+
+    1. The authority citation for part 23 continues to read as follows:
+
+    Authority: 49 U.S.C. 40113 and 44701; 49 U.S.C. 106(g).
+
+    2. Section 23.965, paragraph (b), is amended by adding paragraphs 
+(b)(4) and (b)(5) to read as follows:
+
+
+Sec. 23.965   Fuel tank tests.
+
+    (b) * * *
+    (4) Under paragraph (b)(3) (ii) and (iii) of this section, the time 
+of test must be adjusted to accomplish the same number of vibration 
+cycles that would be accomplished in 25 hours at the frequency 
+specified in paragraph (b)(3)(i) of this section.
+    (5) During the test, the tank assembly must be rocked at a rate of 
+16 to 20 complete cycles per minute, through an angle of 15 deg. on 
+either side of the horizontal (30 deg. total), about an axis parallel 
+to the axis of the fuselage, for 25 hours.
+
+
+[[Page 254]]
+
+    Issued in Washington, DC, on December 28, 1995.
+Michael Gallagher,
+Acting Director, Aircraft Certification Service.
+[FR Doc. 96-135 Filed 1-3-96; 8:45 am]
+BILLING CODE 4910-13-M
+
+</pre></body>
+</html>
