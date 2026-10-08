@@ -916,7 +916,9 @@ def build(sub_key, limit=None, out=None, do_translate=True, workers=10,
     for d in data:
         one_clause(doc, d, cn)
 
-    out = out or os.path.join(ROOT, f"FAR23_Subpart{sub_key}_修订史.docx")
+    if not out:
+        tag = "_详版" if full_bg else ""
+        out = os.path.join(ROOT, f"FAR23_Subpart{sub_key}_条款修订历史与背景分析{tag}.docx")
     doc.save(out)
     print("已生成:", out)
     print(f"   条款 {len(data)}　段落 {len(doc.paragraphs)}　表格 {len(doc.tables)}")
