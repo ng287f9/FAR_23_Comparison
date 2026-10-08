@@ -336,25 +336,51 @@ def sec_regex(secnum):
     return re.compile(r"(?:Sec(?:tion)?\.?|§)\s*" + body + r"(?!\d)")
 
 
-def find_hits(paras, secnum, max_hits=40):
-    """返回 [(idx, kind)]，kind ∈ {'amend','discuss'}"""
+def appendix_alias(secnum):
+    """附录条款的「字母别名」正则。
+
+    FR 前言论述附录时几乎从不写条款号（不写 "D23.1"），只写 "appendix D"。
+    只用条款号去挖会漏掉附录的全部背景论述，故额外提供这一别名。
+    返回 None 表示非附录条款（不走别名）。
+    """
+    m = re.match(r"^([A-Z])\d", secnum or "")
+    if not m:
+        return None
+    return re.compile(r"[Aa]ppendix\s+" + m.group(1) + r"\b(?!\w)")
+
+
+def find_hits(paras, secnum, max_hits=40, alias=None):
+    """返回 [(idx, kind)]，kind ∈ {'amend','discuss'}
+
+    alias 为附录字母别名正则，命中别名的一律按 discuss 计（前言很少用附录别名写修订指令）。
+    """
     rx = sec_regex(secnum)
     hits = []
     for i, p in enumerate(paras):
-        if not rx.search(p):
-            continue
         if len(p) > 3000:
+            continue
+        by_sec = rx.search(p)
+        by_alias = bool(alias and alias.search(p))
+        if not (by_sec or by_alias):
             continue
         # 排除"其他条款正文里的交叉引用"：以段落符号/括号开头且是纯法条
         stripped = p.lstrip()
         is_reg_text = bool(re.match(r"^\([a-z0-9ivx]+\)", stripped)) or \
             bool(re.match(r"^\[?[a-z]\)\s", stripped))
-        if DISCUSS_OPEN.search(p):
-            hits.append((i, "discuss"))
-        elif AMEND_TAIL.search(p) and AMEND_VERB.search(p) and not is_reg_text:
-            hits.append((i, "amend"))
-        elif DISCUSS_MARK.search(p) and not is_reg_text:
-            hits.append((i, "discuss"))
+        if by_sec:
+            # 条款号命中：保持原有判定顺序（前言句 > 修订指令 > 论述标记）
+            if DISCUSS_OPEN.search(p):
+                hits.append((i, "discuss"))
+            elif AMEND_TAIL.search(p) and AMEND_VERB.search(p) and not is_reg_text:
+                hits.append((i, "amend"))
+            elif DISCUSS_MARK.search(p) and not is_reg_text:
+                hits.append((i, "discuss"))
+        else:
+            # 只靠别名命中：一律算前言论述，不参与修订指令识别
+            if DISCUSS_OPEN.search(p):
+                hits.append((i, "discuss"))
+            elif DISCUSS_MARK.search(p) and not is_reg_text:
+                hits.append((i, "discuss"))
         if len(hits) >= max_hits:
             break
     return hits
@@ -399,14 +425,17 @@ def grab_discussion(paras, start, secnum, window=3, max_paras=8):
     return out
 
 
-def mine_doc(doc, secnum, want=("amend", "discuss")):
-    """从一篇文献里挖出与该条款有关的全部摘录。"""
+def mine_doc(doc, secnum, want=("amend", "discuss"), alias=None):
+    """从一篇文献里挖出与该条款有关的全部摘录。
+
+    alias 给附录条款用（见 appendix_alias）：FR 前言只写 "appendix D" 不写 "D23.1"。
+    """
     paras = doc.text()
     if not paras:
         return {"amend": [], "discuss": []}
     res = {"amend": [], "discuss": []}
     seen = set()
-    for i, kind in find_hits(paras, secnum):
+    for i, kind in find_hits(paras, secnum, alias=alias):
         if kind not in want:
             continue
         if kind == "amend":

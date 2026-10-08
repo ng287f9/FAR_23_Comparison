@@ -11,3 +11,6 @@ __pycache__/
 
 # 翻译后端端点清单（含明文 API 密钥，绝不入库）
 translate_endpoints.json
+
+# 构建日志
+_build_*.log

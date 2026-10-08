@@ -82,13 +82,15 @@ def main():
     print(f"{p.name}: 待补译 {len(jobs)} 条", flush=True)
 
     tr = T.Translator(workers=a.workers, verbose=False)
+    pending = list(jobs)
     ok = 0
-    for i, (para, en) in enumerate(jobs, 1):
-        for _ in range(a.rounds):
-            try:
-                zh = tr.translate(en)
-            except Exception:
-                zh = None
+    for rnd in range(1, a.rounds + 1):
+        if not pending:
+            break
+        # 整批并发（逐条串行会浪费并发度：实测 3.2s/条 vs 30s/条）
+        res = tr.translate_many([en for _, en in pending])
+        still = []
+        for (para, en), zh in zip(pending, res):
             if zh and zh_ratio(zh) > 0.15:
                 for r in para.runs[1:]:
                     r.text = ""
@@ -97,14 +99,15 @@ def main():
                 else:
                     para.add_run(zh)
                 ok += 1
-                print(f"   [{i}/{len(jobs)}] OK", flush=True)
-                break
-            time.sleep(5)
-        else:
-            print(f"   [{i}/{len(jobs)}] 仍失败", flush=True)
+            else:
+                still.append((para, en))
+        doc.save(str(p))
         tr.save()
-    doc.save(str(p))
-    tr.save()
+        print(f"   第 {rnd} 轮：成功 {len(pending) - len(still)}/{len(pending)}，"
+              f"累计 {ok}/{len(jobs)}", flush=True)
+        pending = still
+        if pending:
+            time.sleep(10)
     print(f"{p.name}: 写回 {ok}/{len(jobs)}", flush=True)
     return 0 if ok == len(jobs) else 1
 

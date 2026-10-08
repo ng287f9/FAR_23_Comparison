@@ -1,6 +1,8 @@
 #!/bin/zsh
 # 一体化：按 C 分部详版口径逐卷生成 → 自检 → 补译 → 提交推送。
 # 用法：./build_and_push.sh B D E F G AppA AppB AppC AppD AppF AppG AppH AppI AppJ
+# 用法：./build_and_push.sh D E F G AppA …
+#       FORCE=1 ./build_and_push.sh AppA …   # 强制重建已存在的卷
 PY=/Users/glennchou/.workbuddy/binaries/python/envs/default/bin/python
 cd "/Users/glennchou/FAR 23"
 set -o pipefail
@@ -9,8 +11,8 @@ for s in "$@"; do
   f="FAR23_Subpart${s}_条款修订历史与背景分析_详版.docx"
   echo "===== $s 开始 $(date '+%H:%M:%S')"
 
-  # 0) 已有的卷先自检，无漏译就只补提交
-  if [[ -f "$f" ]]; then
+  # 0) 已有的卷先自检，无漏译就只补提交（FORCE=1 时跳过，一律重建）
+  if [[ -f "$f" && "$FORCE" != "1" ]]; then
     out=$($PY check_volume.py "$f" 2>/dev/null)
     n=$(echo "$out" | grep -o '未译 [0-9]*' | grep -o '[0-9]*')
     if [[ -z "$n" ]]; then n=1; fi

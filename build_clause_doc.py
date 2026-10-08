@@ -282,6 +282,8 @@ def collect(sec, meta, di, corr, docmeta, glos, corrhits, tr, do_tr,
             max_discuss=2):
     num = sec.replace("Sec. ", "").strip()
     g = glos.get(num, {})
+    # 附录条款：FR 前言只写 "appendix D"，故额外按附录字母别名挖背景论述
+    alias = S.appendix_alias(num)
     out = {
         "num": num,
         "title_en": meta["title"],
@@ -307,13 +309,13 @@ def collect(sec, meta, di, corr, docmeta, glos, corrhits, tr, do_tr,
             "is_initial": idx == 0,
         }
         for d in A:
-            m = S.mine_doc(d, num)
+            m = S.mine_doc(d, num, alias=alias)
             entry["amend"] += [("Final Rule", d, b) for b in m["amend"]
                                if is_amend_instruction(b[0])]
             entry["discuss"] += [("Final Rule", d, b) for b in m["discuss"][:max_discuss]]
             out["refs"][d.name] = d
         for d in N:
-            m = S.mine_doc(d, num)
+            m = S.mine_doc(d, num, alias=alias)
             entry["amend"] += [("NPRM（提案）", d, b) for b in m["amend"]
                                if is_amend_instruction(b[0])]
             entry["discuss"] += [("NPRM（提案）", d, b) for b in m["discuss"][:max_discuss]]
