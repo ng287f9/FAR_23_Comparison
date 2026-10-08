@@ -324,8 +324,16 @@ SECTION_HEAD = re.compile(r"^(?:Sec(?:tion)?\.?|§)\s*23\.\d+")
 
 
 def sec_regex(secnum):
-    """'23.561' → 匹配 'Sec. 23.561' / 'Section 23.561' / '§ 23.561' 但避免 23.5611"""
-    return re.compile(r"(?:Sec(?:tion)?\.?|§)\s*" + secnum.replace(".", r"\.") + r"(?!\d)")
+    """'23.561' → 匹配 'Sec. 23.561' / 'Section 23.561' / '§ 23.561' 但避免 23.5611
+
+    附录条款（A23.1 / G23.3 …）在 FR 正文里通常裸写，不带 "Sec." 前缀
+    （如 "39. Appendix A is amended by revising … section A23.1, paragraphs A23.11(c)(1)…"），
+    故对字母开头的编号额外允许裸写形式。
+    """
+    body = secnum.replace(".", r"\.")
+    if re.match(r"^[A-Za-z]", secnum):
+        return re.compile(r"(?:(?:Sec(?:tion)?\.?|§)\s*|(?<![A-Za-z0-9]))" + body + r"(?!\d)")
+    return re.compile(r"(?:Sec(?:tion)?\.?|§)\s*" + body + r"(?!\d)")
 
 
 def find_hits(paras, secnum, max_hits=40):
