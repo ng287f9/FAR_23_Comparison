@@ -321,6 +321,14 @@ DISCUSS_MARK = re.compile(
 NEW_ITEM = re.compile(r"^\s*\d{1,3}\s*[.\)]\s*(?:By\s+)?(?:[Aa]mend|[Ss]ec(?:tion)?\.?\s*23\.|§\s*23\.)")
 NEW_ITEM2 = re.compile(r"^\s*\d{1,3}\s*[.\)]\s+[A-Z]")
 SECTION_HEAD = re.compile(r"^(?:Sec(?:tion)?\.?|§)\s*23\.\d+")
+# 附录修订指令专用句式（附录条款号在正文里不出现，只能靠这句识别）
+APPENDIX_INSTR_RE = re.compile(
+    r"^(?:[\*•·\s]*)(?:\(?\d{1,3}[\.\),]?\s*)?"
+    r"(?:"
+    r"By\s+(?:adding|amending|revising|removing|deleting|redesignating|striking|correcting)\b"
+    r"|(?:A\s+new\s+)?[Aa]ppendix\s+[A-J]\b[^.]{0,60}?\bis\s+"
+    r"(?:amended|revised|added|removed|redesignated|deleted)\b"
+    r")", re.I)
 
 
 def sec_regex(secnum):
@@ -352,9 +360,16 @@ def appendix_alias(secnum):
 def find_hits(paras, secnum, max_hits=40, alias=None):
     """返回 [(idx, kind)]，kind ∈ {'amend','discuss'}
 
-    alias 为附录字母别名正则，命中别名的一律按 discuss 计（前言很少用附录别名写修订指令）。
+    alias 为附录字母别名正则（见 appendix_alias）：附录条款号在 FR 正文里不出现，
+    必须靠别名 + 附录专用指令句式才能定位修订指令与重印全文。
     """
     rx = sec_regex(secnum)
+
+    def _is_part23(p):
+        """只认第 23 部的修订指令，避免把 "…to Part 25 to read as follows" 收进来。"""
+        m = re.search(r"\bPart\s+(\d+)", p)
+        return (m is None) or (m.group(1) == "23")
+
     hits = []
     for i, p in enumerate(paras):
         if len(p) > 3000:
@@ -376,8 +391,13 @@ def find_hits(paras, secnum, max_hits=40, alias=None):
             elif DISCUSS_MARK.search(p) and not is_reg_text:
                 hits.append((i, "discuss"))
         else:
-            # 只靠别名命中：一律算前言论述，不参与修订指令识别
-            if DISCUSS_OPEN.search(p):
+            # 只靠附录别名命中：先认「附录修订指令」的专用句式，其余才算前言论述。
+            # 不能一律按论述处理——附录的指令写作
+            # "20. By adding a new Appendix G to Part 23 to read as follows:"，
+            # 段落里并不出现条款号 G23.1，否则重印全文就挖不到。
+            if APPENDIX_INSTR_RE.match(p) and _is_part23(p):
+                hits.append((i, "amend"))
+            elif DISCUSS_OPEN.search(p):
                 hits.append((i, "discuss"))
             elif DISCUSS_MARK.search(p) and not is_reg_text:
                 hits.append((i, "discuss"))
@@ -386,13 +406,21 @@ def find_hits(paras, secnum, max_hits=40, alias=None):
     return hits
 
 
-def grab_amendment(paras, start, secnum, max_paras=30):
-    """从修订指令段开始，抓取整段修订文本（到下一个修订条目为止）。"""
+def grab_amendment(paras, start, secnum, max_paras=30, alias=None):
+    """从修订指令段开始，抓取整段修订文本（到下一个修订条目为止）。
+
+    alias（附录字母别名）参与「是否本条款」的判断：附录重印全文里的
+    "Appendix G--…" 小节标题不含条款号，只认条款号会误判为下一条而提前截断。
+    """
     rx = sec_regex(secnum)
+
+    def mine(p):
+        return bool(rx.search(p) or (alias and alias.search(p)))
+
     out = [paras[start]]
     for j in range(start + 1, min(start + max_paras, len(paras))):
         p = paras[j]
-        if NEW_ITEM.match(p) or (NEW_ITEM2.match(p) and not rx.search(p)):
+        if NEW_ITEM.match(p) or (NEW_ITEM2.match(p) and not mine(p)):
             break
         if SECTION_HEAD.match(p) and out and not rx.search(p):
             break
@@ -439,7 +467,8 @@ def mine_doc(doc, secnum, want=("amend", "discuss"), alias=None):
         if kind not in want:
             continue
         if kind == "amend":
-            blk = grab_amendment(paras, i, secnum)
+            blk = grab_amendment(paras, i, secnum,
+                                 max_paras=(400 if alias else 30), alias=alias)
         else:
             blk = grab_discussion(paras, i, secnum)
         key = (kind, i)

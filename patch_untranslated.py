@@ -22,6 +22,7 @@ import translate as T
 
 CJK = re.compile(r"[\u4e00-\u9fff]")
 BULLET_PREFIX = "▪ 背景与评论处置"
+AMEND_PREFIX = "▪ 修订指令（中文译文）："
 EN_MARK = "英文原文："
 
 
@@ -30,7 +31,12 @@ def zh_ratio(s):
 
 
 def find_jobs(doc):
-    """返回 [(段对象, 英文原文)]"""
+    """返回 [(段对象, 英文原文, 模式)]，模式 ∈ {'discuss','amend'}。
+
+    · discuss：段落以 "▪ 背景与评论处置" 开头且几乎无中文，英文在下方 "英文原文：" 块里；
+    · amend  ：段落以 "▪ 修订指令（中文译文）：" 开头但内容仍是英文（规则翻译没命中、
+               LLM 又退回英文），英文就是冒号后的内容本身。
+    """
     jobs = []
     cur, collecting, buf = None, False, []
 
@@ -39,7 +45,7 @@ def find_jobs(doc):
         if cur is not None:
             en = "\n".join(x for x in buf if x.strip()).strip()
             if en:
-                jobs.append((cur, en))
+                jobs.append((cur, en, "discuss"))
         cur, collecting, buf = None, False, []
 
     for pa in doc.paragraphs:
@@ -47,6 +53,12 @@ def find_jobs(doc):
         if t.startswith(BULLET_PREFIX):
             flush()
             cur = pa if zh_ratio(t) < 0.15 else None
+            continue
+        if t.startswith(AMEND_PREFIX):
+            flush()
+            body = t.split("：", 1)[1] if "：" in t else ""
+            if len(CJK.findall(body)) < 4 and len(body) > 25:
+                jobs.append((pa, body.strip(), "amend"))
             continue
         if cur is None:
             continue
@@ -88,9 +100,9 @@ def main():
         if not pending:
             break
         # 整批并发（逐条串行会浪费并发度：实测 3.2s/条 vs 30s/条）
-        res = tr.translate_many([en for _, en in pending])
+        res = tr.translate_many([en for _, en, _ in pending])
         still = []
-        for (para, en), zh in zip(pending, res):
+        for (para, en, mode), zh in zip(pending, res):
             if zh and zh_ratio(zh) > 0.15:
                 for r in para.runs[1:]:
                     r.text = ""
@@ -100,7 +112,7 @@ def main():
                     para.add_run(zh)
                 ok += 1
             else:
-                still.append((para, en))
+                still.append((para, en, mode))
         doc.save(str(p))
         tr.save()
         print(f"   第 {rnd} 轮：成功 {len(pending) - len(still)}/{len(pending)}，"

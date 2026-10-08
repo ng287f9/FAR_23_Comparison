@@ -205,10 +205,19 @@ def year_of(eff):
 # ══════════════════════════════════════════════════════ 条文解析
 STAR = re.compile(r"^\s*[\*\u2022·\-–—\s]{3,}$")
 LABEL = re.compile(r"^\(?\s*(\d{1,2}|[ivxIVX]{1,4}|[a-z])\s*\)")
+# 附录小节号抬头：G23.1 / A23.11 …（附录条文按小节分条，需按小节切分）
+APP_SEC = re.compile(r"^([A-Z])\d{1,2}\.\d{1,2}\b")
 
 
 def parse_clause(lines):
-    """从「read as follows」之后的行里解析 [(段落号, 文本)]。"""
+    """从「read as follows」之后的行里解析 [(段落号, 文本)]。
+
+    注意两处与附录有关的处理：
+      · 附录重印全文的**第一行**往往是 "Appendix G--…" 抬头，此时还没抓到任何
+        段落，应当跳过而不是终止（原来一律 break，导致附录条文全抽不到）；
+      · 附录按小节分条（G23.1 / G23.2 …），碰到下一个小节号必须收尾，
+        否则会把整篇附录的段落都算进本条。
+    """
     out = []
     cur_lab, cur_txt = None, []
     for raw in lines:
@@ -220,7 +229,13 @@ def parse_clause(lines):
         if re.match(r"^(?:Sec(?:tion)?\.?|§)\s*23\.\d+", s) and len(s) < 90:
             continue          # 条款抬头行
         if re.match(r"^(?:Subpart|Appendix)\s+[A-Z]", s):
-            break
+            if cur_lab is None:
+                continue      # 块首的附录抬头，跳过
+            break             # 已进入本条，遇到下一个附录抬头则收尾
+        if APP_SEC.match(s):
+            if cur_lab is None:
+                continue      # 本条自己的小节号抬头
+            break             # 进入下一个附录小节，本条收尾
         m = LABEL.match(s)
         if m and (len(s) - m.end()) > 0:
             if cur_lab is not None:
@@ -566,6 +581,28 @@ DRIVERS = [
 ]
 
 
+def _title_head(v, maxlen=34):
+    """第 2 节小节标题用的短标签。
+
+    取修订指令直译的首句，但必须清掉两样东西，否则标题会很难看：
+      · 残留条目号（"20. " / "3) "）——LLM 翻译路径不会自动剥掉；
+      · 首句被截断后遗留的尾部标点（"："/"、"/"-"），以及首尾空白。
+    清理后过短或仍不含中文（说明该条指令没译出来）时，退回中文变更摘要。
+    """
+    for cand in (v.get("amend_cn") or []) + [v.get("summary_cn") or ""]:
+        s = " ".join((cand or "").split())
+        if not s:
+            continue
+        s = s.split("，")[0]
+        for _ in range(3):                    # 反复剥条目号与边缘标点
+            s = re.sub(r"^\(?\d{1,3}\s*[\.\)、]\s*", "", s)
+            s = s.strip(" \u3000：:；;，,、-–—")
+        s = s[:maxlen].strip(" \u3000：:；;，,、-–—")
+        if len(s) >= 4 and re.search(r"[\u4e00-\u9fff]", s):
+            return s
+    return "条文修订详情"
+
+
 def sec2(doc, d):
     L.H(doc, f"2　§{d['num']} 各阶段修订背景与原因深度剖析", 2)
     if FULL_BG:
@@ -580,8 +617,7 @@ def sec2(doc, d):
             title = f"2.{n}　初始颁行（{v['eff']}，{v['amdt_cn']}）：{d['title_cn']}"
         elif FULL_BG and v["amend_cn"]:
             # 详版：标题直接用修订指令的直译，不做归纳
-            head = v["amend_cn"][0].split("，")[0][:34]
-            title = f"2.{n}　{v['amdt_cn']}（{v['eff']} 生效）：{head}"
+            title = f"2.{n}　{v['amdt_cn']}（{v['eff']} 生效）：{_title_head(v)}"
         else:
             brief = v["summary_cn"].split("；")[0][:26]
             title = f"2.{n}　{v['amdt_cn']}（{v['eff']} 生效）：{brief}"
