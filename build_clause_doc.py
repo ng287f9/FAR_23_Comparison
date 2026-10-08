@@ -72,6 +72,10 @@ SUBPART_CN = {
 
 AMDT_CN = {"Initial": "初始版（Initial）"}
 
+# 详版开关：第 2 节改为「NPRM / Final Rule 原始论述的直译 + 英文原文核对」，
+# 不做归纳；同时放开每个版本可引用的讨论段数量上限。
+FULL_BG = False
+
 
 def amdt_cn(a):
     a = (a or "").strip()
@@ -562,11 +566,20 @@ DRIVERS = [
 
 def sec2(doc, d):
     L.H(doc, f"2　§{d['num']} 各阶段修订背景与原因深度剖析", 2)
+    if FULL_BG:
+        L.P(doc, "本节逐条直译 NPRM 与 Final Rule 中与本条有关的原始论述——"
+                 "提案说明、FAA 对评论的答复、以及修订理由。为便于核对，"
+                 "每段中文之下附该段英文原文（灰色小字）。", size=9.5,
+            italic=True, color=RGBColor(0x59, 0x59, 0x59))
     n = 0
     for v in d["versions"]:
         n += 1
         if v["is_initial"]:
             title = f"2.{n}　初始颁行（{v['eff']}，{v['amdt_cn']}）：{d['title_cn']}"
+        elif FULL_BG and v["amend_cn"]:
+            # 详版：标题直接用修订指令的直译，不做归纳
+            head = v["amend_cn"][0].split("，")[0][:34]
+            title = f"2.{n}　{v['amdt_cn']}（{v['eff']} 生效）：{head}"
         else:
             brief = v["summary_cn"].split("；")[0][:26]
             title = f"2.{n}　{v['amdt_cn']}（{v['eff']} 生效）：{brief}"
@@ -584,7 +597,22 @@ def sec2(doc, d):
         else:
             L.BULLET(doc, "本版对条文的处置：", [(v["summary_cn"], "normal")])
 
-        if v["discuss_cn"]:
+        if v["discuss_cn"] and FULL_BG:
+            for i, zh in enumerate(v["discuss_cn"], 1):
+                src, doc_, blk = v["discuss"][i - 1]
+                cite = doc_.fr_citation() if getattr(doc_, "fr", None) else "—"
+                L.P(doc, f"来源：{src}｜{cite}｜{doc_.name}", size=8.5,
+                    color=RGBColor(0x99, 0x99, 0x99), indent=0.9, before=4, after=1)
+                L.BULLET(doc, f"背景与评论处置（{i}）：", [(zh, "normal")])
+                en = "\n".join(blk).strip()
+                if en:
+                    L.P(doc, "英文原文：", size=8.5, italic=True,
+                        color=RGBColor(0x99, 0x99, 0x99), indent=0.9, before=2, after=0)
+                    for ln in en.splitlines():
+                        if ln.strip():
+                            L.P(doc, ln.strip(), size=8.5, indent=1.2,
+                                color=RGBColor(0x80, 0x80, 0x80))
+        elif v["discuss_cn"]:
             for i, zh in enumerate(v["discuss_cn"], 1):
                 L.BULLET(doc, f"背景与评论处置（{i}）：", [(zh, "normal")])
         elif v["discuss"]:
@@ -595,7 +623,8 @@ def sec2(doc, d):
         if v["amend"]:
             L.P(doc, "修订指令英文原文（供核对）：", size=9, bold=True,
                 color=RGBColor(0x80, 0x80, 0x80), indent=0.6, before=4, after=1)
-            for _, doc_, blk in v["amend"][:2]:
+            lim = len(v["amend"]) if FULL_BG else 2
+            for _, doc_, blk in v["amend"][:lim]:
                 head = " ".join(blk[0].split())
                 L.P(doc, head[:700], size=8.5, indent=1.0,
                     color=RGBColor(0x60, 0x60, 0x60))
@@ -841,7 +870,10 @@ def outline(doc, sub_key, data):
     doc.add_page_break()
 
 
-def build(sub_key, limit=None, out=None, do_translate=True, workers=10):
+def build(sub_key, limit=None, out=None, do_translate=True, workers=10,
+          discuss_cap=2, full_bg=False):
+    global FULL_BG
+    FULL_BG = full_bg
     key = SUBPART_KEY.get(sub_key, sub_key)
     cn = SUBPART_CN.get(sub_key, sub_key)
     print("建索引…", flush=True)
@@ -867,7 +899,8 @@ def build(sub_key, limit=None, out=None, do_translate=True, workers=10):
     for i, (sec, meta) in enumerate(secs.items()):
         if limit and i >= limit:
             break
-        d = collect(sec, meta, di, corr, docmeta, glos, corrhits, tr, do_translate)
+        d = collect(sec, meta, di, corr, docmeta, glos, corrhits, tr, do_translate,
+                    max_discuss=discuss_cap)
         data.append(d)
         print(f"  [{i + 1}/{len(secs) if not limit else limit}] §{d['num']}　"
               f"{d['title_cn']}　{len(d['versions'])} 版", flush=True)
@@ -897,6 +930,11 @@ if __name__ == "__main__":
     ap.add_argument("--out", default=None)
     ap.add_argument("--no-translate", action="store_true")
     ap.add_argument("--workers", type=int, default=10)
+    ap.add_argument("--discuss", type=int, default=2,
+                    help="每个版本每个文献最多引用的讨论段数（0 表示不限）")
+    ap.add_argument("--full-bg", action="store_true",
+                    help="详版：第 2 节直译 NPRM/FR 原始论述并附英文原文，不做归纳")
     a = ap.parse_args()
     build(a.subpart, a.limit or None, a.out,
-          do_translate=not a.no_translate, workers=a.workers)
+          do_translate=not a.no_translate, workers=a.workers,
+          discuss_cap=(a.discuss or 9999), full_bg=a.full_bg)
