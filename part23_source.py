@@ -321,11 +321,19 @@ DISCUSS_MARK = re.compile(
 NEW_ITEM = re.compile(r"^\s*\d{1,3}\s*[.\)]\s*(?:By\s+)?(?:[Aa]mend|[Ss]ec(?:tion)?\.?\s*23\.|§\s*23\.)")
 NEW_ITEM2 = re.compile(r"^\s*\d{1,3}\s*[.\)]\s+[A-Z]")
 SECTION_HEAD = re.compile(r"^(?:Sec(?:tion)?\.?|§)\s*23\.\d+")
-# 附录修订指令专用句式（附录条款号在正文里不出现，只能靠这句识别）
+# 附录修订指令专用句式（附录条款号在正文里不出现，只能靠这句识别）。
+# 实测出现过的写法：
+#   "20. By adding a new Appendix G to Part 23 to read as follows:"
+#   "78. Part 23 is amended by adding a new appendix H to read as follows:"
+#   "Appendix D is amended by revising paragraph (b) to read as follows:"
 APPENDIX_INSTR_RE = re.compile(
     r"^(?:[\*•·\s]*)(?:\(?\d{1,3}[\.\),]?\s*)?"
     r"(?:"
     r"By\s+(?:adding|amending|revising|removing|deleting|redesignating|striking|correcting)\b"
+    r"|Part\s+23\s+is\s+(?:amended|revised)\s+by\s+"
+    r"(?:adding|amending|revising|removing|deleting|redesignating|striking|correcting)\b"
+    r"|(?:adding|amending|revising|removing|deleting|redesignating|striking)\s+"
+    r"(?:a\s+new\s+)?[Aa]ppendix\s+[A-J]\b"
     r"|(?:A\s+new\s+)?[Aa]ppendix\s+[A-J]\b[^.]{0,60}?\bis\s+"
     r"(?:amended|revised|added|removed|redesignated|deleted)\b"
     r")", re.I)
@@ -372,10 +380,13 @@ def find_hits(paras, secnum, max_hits=40, alias=None):
 
     hits = []
     for i, p in enumerate(paras):
-        if len(p) > 3000:
+        by_alias = bool(alias and alias.search(p))
+        # 长段落一般不参与（多是整段重印，会把讨论与正文混在一起），
+        # 但附录修订指令有时就把整篇重印并进同一段，故指令句式命中时破例放行。
+        instr = bool(by_alias and APPENDIX_INSTR_RE.match(p) and _is_part23(p))
+        if len(p) > 3000 and not instr:
             continue
         by_sec = rx.search(p)
-        by_alias = bool(alias and alias.search(p))
         if not (by_sec or by_alias):
             continue
         # 排除"其他条款正文里的交叉引用"：以段落符号/括号开头且是纯法条
@@ -395,7 +406,7 @@ def find_hits(paras, secnum, max_hits=40, alias=None):
             # 不能一律按论述处理——附录的指令写作
             # "20. By adding a new Appendix G to Part 23 to read as follows:"，
             # 段落里并不出现条款号 G23.1，否则重印全文就挖不到。
-            if APPENDIX_INSTR_RE.match(p) and _is_part23(p):
+            if instr or (APPENDIX_INSTR_RE.match(p) and _is_part23(p)):
                 hits.append((i, "amend"))
             elif DISCUSS_OPEN.search(p):
                 hits.append((i, "discuss"))

@@ -209,19 +209,30 @@ LABEL = re.compile(r"^\(?\s*(\d{1,2}|[ivxIVX]{1,4}|[a-z])\s*\)")
 APP_SEC = re.compile(r"^([A-Z])\d{1,2}\.\d{1,2}\b")
 
 
-def parse_clause(lines):
+def parse_clause(lines, secnum=None):
     """从「read as follows」之后的行里解析 [(段落号, 文本)]。
 
-    注意两处与附录有关的处理：
+    secnum 传附录条款号（H23.2 之类）时，会把游标先定位到该小节的抬头——
+    因为整篇附录常常挤在同一个修订指令块里，不定标就会让 H23.2…H23.6
+    全都取到 H23.1 的正文。
+
+    另有两处与附录有关的处理：
       · 附录重印全文的**第一行**往往是 "Appendix G--…" 抬头，此时还没抓到任何
         段落，应当跳过而不是终止（原来一律 break，导致附录条文全抽不到）；
       · 附录按小节分条（G23.1 / G23.2 …），碰到下一个小节号必须收尾，
         否则会把整篇附录的段落都算进本条。
     """
+    lines = [" ".join(x.split()) for x in lines]
+    if secnum:
+        m = re.match(r"^([A-Z])\d{1,2}\.\d{1,2}$", secnum)
+        if m:
+            idx = next((i for i, l in enumerate(lines)
+                        if re.match(r"^" + re.escape(secnum) + r"\b", l)), None)
+            if idx is not None:
+                lines = lines[idx:]
     out = []
     cur_lab, cur_txt = None, []
-    for raw in lines:
-        s = " ".join(raw.split())
+    for s in lines:
         if not s:
             continue
         if STAR.match(s):
@@ -252,10 +263,10 @@ def parse_clause(lines):
 RAS = re.compile(r"to\s+read\s+as\s+follows", re.I)
 
 
-def version_clause_text(amend_blocks, init_text, is_initial):
+def version_clause_text(amend_blocks, init_text, is_initial, num=None):
     """返回本版条文 [(段落号, 文本)]；无重印全文时返回空列表。"""
     if is_initial and init_text:
-        return parse_clause(init_text)
+        return parse_clause(init_text, num)
     best = []
     for blk in amend_blocks:
         joined = [l for l in blk]
@@ -268,7 +279,7 @@ def version_clause_text(amend_blocks, init_text, is_initial):
             continue
         body = joined[hit:]
         body[0] = RAS.split(body[0])[-1]
-        got = parse_clause(body)
+        got = parse_clause(body, num)
         if len(got) > len(best):
             best = got
     return best
@@ -341,9 +352,9 @@ def collect(sec, meta, di, corr, docmeta, glos, corrhits, tr, do_tr,
 
         # ---- 条文（英文）+ 状态
         clause = version_clause_text([b for _, _, b in entry["amend"]],
-                                     None, entry["is_initial"])
+                                     None, entry["is_initial"], num)
         if entry["is_initial"] and not clause:
-            clause = version_clause_text([], S.initial_clause_text(num), True)
+            clause = version_clause_text([], S.initial_clause_text(num), True, num)
         entry["clause"] = clause
         entry["status"] = diff_status(prev_clause, clause) if clause else {}
         if clause:
