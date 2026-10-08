@@ -31,7 +31,14 @@ import urllib.request
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CACHE_PATH = os.path.join(ROOT, "FAR23_译文缓存.json")
 DB = os.path.expanduser("~/Library/Application Support/FreeLLMAPI/freeapi.db")
-BASE = "http://127.0.0.1:31415/v1/chat/completions"
+# 端点清单（含密钥，已 gitignore）。由 setup_endpoints.py 生成，也可手工编辑。
+ENDPOINTS_FILE = os.path.join(ROOT, "translate_endpoints.json")
+
+# 端点与密钥可通过环境变量覆盖，便于临时换成任意 OpenAI 兼容服务：
+#   export TRANSLATE_BASE="https://api.deepseek.com/v1/chat/completions"
+#   export TRANSLATE_KEY="sk-xxxx"
+#   export TRANSLATE_MODEL="deepseek-chat"
+BASE = os.environ.get("TRANSLATE_BASE", "http://127.0.0.1:31415/v1/chat/completions")
 
 # ------------------------------------------------------------------ 术语表
 # 注入到提示词里，保证同一术语在不同条款、不同批次中译法一致
@@ -166,10 +173,12 @@ USER_TPL = """把下面的英文规章段落译成中文。只输出译文。
 
 {text}"""
 
-# 路由链：第一个又快又守格式；后面的作备用（本机实测 deepseek-v4-flash:free ≈ 4s，
-# glm-5.3 质量好但偶发"先分析再翻译"，故排后并由清洗器兜底）
+# 本机 FreeLLMAPI 那套模型名（走 127.0.0.1:31415）时的路由链，仅作兜底
 MODEL_CHAIN = ["deepseek-v4-flash:free", "deepseek/deepseek-v4-flash-free",
                "glm-5.3", None]
+
+# 单次请求的最大生成长度（切块默认 1100 字符，对应约 2400 token 足够）
+MAX_TOKENS = int(os.environ.get("TRANSLATE_MAX_TOKENS", "2400"))
 
 # 模型偶尔会先输出一段"思考/分析"再给译文，这些是典型开场白
 LEAD_JUNK = re.compile(
@@ -235,7 +244,16 @@ def is_valid_zh(out, src=None):
 
 
 # ------------------------------------------------------------------ 后端
+# 支持两类接口形态：
+#   api="openai"  POST /v1/chat/completions  → choices[0].message.content
+#   api="ollama"  POST /api/chat             → message.content（须 stream:false）
+# 端点清单来自 translate_endpoints.json（gitignore），格式：
+#   [{"name":..., "api":"ollama", "base":..., "key":..., "models":[...], "cap":8}, ...]
 def _api_key():
+    """环境变量 TRANSLATE_KEY → FreeLLMAPI 本地库。"""
+    k = os.environ.get("TRANSLATE_KEY")
+    if k:
+        return k
     try:
         con = sqlite3.connect("file:" + DB + "?mode=ro", uri=True)
         v = con.execute("SELECT value FROM settings WHERE key='unified_api_key'").fetchone()
@@ -245,12 +263,58 @@ def _api_key():
         return None
 
 
-def _post(payload, key, timeout=180):
+def _load_endpoints():
+    """按优先级装配端点列表；返回 [] 表示只能用本机 FreeLLMAPI。"""
+    # 1) 环境变量单点覆盖
+    if os.environ.get("TRANSLATE_BASE") and os.environ.get("TRANSLATE_KEY"):
+        return [{"name": "env", "api": "openai", "base": os.environ["TRANSLATE_BASE"],
+                 "key": os.environ["TRANSLATE_KEY"],
+                 "models": [os.environ.get("TRANSLATE_MODEL") or None],
+                 "cap": int(os.environ.get("TRANSLATE_CAP", "8"))}]
+    # 2) 端点清单文件
+    if os.path.exists(ENDPOINTS_FILE):
+        try:
+            eps = json.load(open(ENDPOINTS_FILE, encoding="utf-8"))
+            eps = [e for e in eps if e.get("base") and e.get("key")]
+            if eps:
+                return eps
+        except Exception:
+            pass
+    # 3) 本机 FreeLLMAPI 路由
+    k = _api_key()
+    if k and os.environ.get("TRANSLATE_ALLOW_LOCAL", "0") != "0":
+        return [{"name": "freellmapi", "api": "openai", "base": BASE, "key": k,
+                 "models": list(MODEL_CHAIN), "cap": 8}]
+    return []
+
+
+def _post(ep, messages, max_tokens, timeout=150):
+    """按端点形态发一次请求，返回模型输出文本。"""
+    api = ep.get("api", "openai")
+    if api == "ollama":
+        payload = {"model": ep["model"], "stream": False, "messages": messages,
+                   "options": {"temperature": 0.2, "num_predict": max_tokens}}
+        if ep.get("extra"):
+            payload.update(ep["extra"])
+    else:
+        payload = {"model": ep["model"], "messages": messages,
+                   "temperature": 0.2, "max_tokens": max_tokens}
+        if ep.get("extra"):
+            payload.update(ep["extra"])
     req = urllib.request.Request(
-        BASE, data=json.dumps(payload).encode("utf-8"),
-        headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"})
+        ep["base"], data=json.dumps(payload).encode("utf-8"),
+        headers={"Authorization": "Bearer " + ep["key"],
+                 "Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return json.loads(r.read().decode("utf-8"))
+        j = json.loads(r.read().decode("utf-8"))
+    if api == "ollama":
+        return (j.get("message") or {}).get("content") or ""
+    ch = (j.get("choices") or [{}])[0]
+    msg = ch.get("message") or {}
+    c = msg.get("content")
+    if isinstance(c, list):          # Cohere v2 等分段式 content
+        c = "".join(x.get("text", "") for x in c)
+    return c or ""
 
 
 def _system_prompt():
@@ -291,11 +355,26 @@ def chunk(text, maxlen=1100):
 # ------------------------------------------------------------------ 缓存
 class Translator:
     def __init__(self, model=None, workers=8, verbose=False):
-        self.key = _api_key()
-        if not self.key:
-            raise RuntimeError("读不到 FreeLLMAPI 统一 key，App 可能未启动")
-        # model 显式给出就只用这一个；否则走 MODEL_CHAIN
-        self.chain = [model] if model else list(MODEL_CHAIN)
+        import threading
+        eps = _load_endpoints()
+        if not eps:
+            raise RuntimeError(
+                "没有任何可用翻译端点。三选一：\n"
+                "  1) 运行 python setup_endpoints.py（从本地密钥库生成 translate_endpoints.json）\n"
+                "  2) export TRANSLATE_BASE=<OpenAI 兼容端点> TRANSLATE_KEY=<密钥> "
+                "[TRANSLATE_MODEL=<模型名>]\n"
+                "  3) 启动本机 FreeLLMAPI 路由（默认读其 unified_api_key）")
+        if model:
+            eps = [dict(e, models=[model]) for e in eps[:1]]
+        # 摊平成 (端点, 模型) 路由槽，顺序即优先级
+        self.slots = []
+        for e in eps:
+            for m in (e.get("models") or [None]):
+                self.slots.append(dict(e, model=m))
+        # 每端点并发闸门，避免把免费额度打爆
+        self.sems = {}
+        for e in eps:
+            self.sems[e["name"]] = threading.Semaphore(int(e.get("cap", 8)))
         self.workers = workers
         self.verbose = verbose
         self.cache = {}
@@ -317,39 +396,41 @@ class Translator:
                       ensure_ascii=False, indent=0)
             self._dirty = False
 
-    # ---- 单块翻译（模型链 + 重试 + 清洗 + 合法性校验）----
+    # ---- 单块翻译（端点/模型路由链 + 退避重试 + 清洗 + 合法性校验）----
     def _one(self, text):
-        base = {
-            "messages": [
-                {"role": "system", "content": _system_prompt()},
-                {"role": "user", "content": USER_TPL.format(text=text)},
-            ],
-            "temperature": 0.2,
-            "max_tokens": 2048,
-        }
+        messages = [
+            {"role": "system", "content": _system_prompt()},
+            {"role": "user", "content": USER_TPL.format(text=text)},
+        ]
         last = None
-        for mi, model in enumerate(self.chain):
-            payload = dict(base)
-            if model:
-                payload["model"] = model
-            for attempt in range(2 if len(self.chain) > 1 else 4):
+        for ep in self.slots:
+            sem = self.sems.get(ep["name"])
+            for attempt in range(3):
                 try:
-                    d = _post(payload, self.key)
+                    if sem:
+                        sem.acquire()
+                    try:
+                        raw = _post(ep, messages, MAX_TOKENS)
+                    finally:
+                        if sem:
+                            sem.release()
                     self.calls += 1
-                    raw = (d.get("choices") or [{}])[0].get("message", {}).get("content", "")
                     out = _clean(raw)
                     if is_valid_zh(out, text):
                         return out
-                    last = f"译文不合法（{model or 'auto'}）：{out[:60]}"
+                    last = f"译文不合法（{ep['name']}/{ep['model'] or 'auto'}）：{out[:60]}"
                 except urllib.error.HTTPError as e:
-                    last = f"HTTP {e.code}"
+                    last = f"{ep['name']} HTTP {e.code}"
                     try:
-                        last += " " + e.read().decode("utf-8", "replace")[:160]
+                        last += " " + e.read().decode("utf-8", "replace")[:120]
                     except Exception:
                         pass
                 except Exception as e:
-                    last = repr(e)
-                time.sleep(1 + 2 * attempt)
+                    last = f"{ep['name']} {e!r}"
+                # 429/5xx 退避更久，普通错误快速重试
+                wait = (2.5 if "HTTP 429" in str(last) or "HTTP 5" in str(last)
+                        else 1.0) * (attempt + 1)
+                time.sleep(wait)
         if self.verbose:
             print(f"    !! 翻译失败（{last}）：{text[:60]}…", file=sys.stderr)
         return None

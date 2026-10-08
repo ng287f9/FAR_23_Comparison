@@ -892,8 +892,11 @@ def build(sub_key, limit=None, out=None, do_translate=True, workers=10,
             tr = T.Translator(workers=workers, verbose=False)
             print(f"  翻译缓存 {len(tr.cache)} 条", flush=True)
         except Exception as e:
-            print(f"  !! 翻译层不可用（{e}），讨论段落将保留英文", flush=True)
-            tr = None
+            # 详版必须有译文：翻译层不可用就中止，绝不静默产出英文卷
+            raise SystemExit(
+                f"翻译层不可用，已中止（详版必须有中文译文）：{e}\n"
+                f"  处理办法：python setup_endpoints.py --probe  或  "
+                f"export TRANSLATE_BASE=... TRANSLATE_KEY=...")
 
     data = []
     for i, (sec, meta) in enumerate(secs.items()):

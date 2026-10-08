@@ -1,7 +1,7 @@
 #!/bin/zsh
 # 每卷生成完（含漏译补丁跑完）就自动校验并提交推送。
 # 用法：./watch_and_commit.sh B D E F G
-PY=/Users/glennchou/.workbuddy-ai/binaries/python/envs/default/bin/python
+PY=/Users/glennchou/.workbuddy/binaries/python/envs/default/bin/python
 cd "/Users/glennchou/FAR 23"
 
 for s in "$@"; do
@@ -27,7 +27,7 @@ for s in "$@"; do
     n=$(echo "$out" | grep -o '未译 [0-9]*' | grep -o '[0-9]*')
     if [[ "$n" == "0" ]]; then break; fi
     echo "[watch] 仍有 $n 条漏译，再补一轮"
-    $PY patch_untranslated.py "$f" --workers 2 --rounds 3 2>&1 | tail -3
+    $PY patch_untranslated.py "$f" --workers 8 --rounds 3 2>&1 | tail -3
   done
 
   # 4) 提交推送
